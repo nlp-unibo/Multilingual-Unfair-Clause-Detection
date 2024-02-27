@@ -1,0 +1,452 @@
+A scanso di dubbi, GPL fornirà all'Acquirente il Servizio (come definito nei Termini di servizio illustrati di seguito) in relazione agli acquisti degli Acquirenti sui marketplace di Google e in relazione alle donazioni in beneficenza elargite ai Venditori che sono enti di beneficenza.
+
+Un elenco dei marketplace di Google che usufruiscono del Servizio è disponibile qui. <ch2>Google può aggiornare i marketplace periodicamente ma tutte le transazioni sui marketplace verranno elaborate in conformità ai Termini di servizio riportati di seguito.</ch2> Consultare i termini e condizioni del prodotto in caso si desideri verificare se un particolare prodotto sia o meno un marketplace.
+
+Termini di servizio
+
+28 marzo 2018
+
+L'insieme dei presenti Termini di servizio per l'Acquirente ("Contratto") costituisce un contratto legale tra Google Payment Limited, una società costituita in Inghilterra (società n. 05903713), con sede legale presso 5 New Street Square, London EC4A 3TW, United Kingdom ("GPL") e l'Utente ("Acquirente"). È possibile contattare GPL via email nel Centro assistenza all'indirizzo https://support.google.com/payments. GPL è autorizzata e regolata dalla Financial Conduct Authority ("FCA") in qualità di emittente di moneta elettronica ("Moneta elettronica") ed è iscritta al registro dell'FCA con il numero 900008. GPL è una società consociata di Google International, LLC ("Google").
+
+Il presente Contratto disciplina l'accesso a Google Payments e l'utilizzo dello stesso da parte dell'Utente. I servizi descritti di seguito sono forniti da GPL. Leggere il presente Contratto prima di decidere se accettarlo o meno e continuare con la procedura di registrazione.
+
+Gli strumenti di pagamento salvati sull'account Google Payments potrebbero essere presentati all'Utente con il brand Google Pay, ma continuano a essere disciplinati dal presente Contratto se utilizzati in relazione ai servizi descritti di seguito.
+
+Accettando il presente Contratto, l'Utente dichiara di avere almeno 18 anni e di poter stipulare un contratto legalmente vincolante.
+
+Prima di proseguire, invitiamo l'Utente a stampare o salvare una copia del presente Contratto da conservare come riferimento. L'Utente può accettare il presente Contratto nelle modalità specificate nella clausola 3. Il Contratto entra in vigore al momento della data di accettazione dello stesso da parte dell'Utente ("Data di entrata in vigore").
+
+1. Termini definiti
+
+Ai fini del presente Contratto le seguenti parole assumeranno i significati indicati di seguito:
+
+"Account" indica l'account in Moneta elettronica gestito da GPL per l'Utente.
+
+"Contratto" indica i presenti Termini di servizio per l'Acquirente.
+
+"AISP" ("Account Information Service Provider") indica un fornitore di servizi relativi ai dati di account, ovvero un fornitore di servizi di pagamento (diverso da GPL) che offre servizi relativi ai dati di account, ovvero un servizio online che fornisce all'Utente dati consolidati su uno o più account pagamenti dell'Utente, tra cui potrebbe essere incluso l'Account dell'Utente.
+
+"Giorno lavorativo" indica un giorno che non sia sabato, domenica o un giorno festivo nel Regno Unito.
+
+"Fatturazione con l'Operatore" (qualora sia offerta all'Utente) indica la procedura di pagamento in cui GPL invia una Transazione di pagamento all'Operatore affinché fatturi all'Account di Fatturazione con l'Operatore dell'Acquirente.
+
+"Operatore" indica un operatore di telefonia mobile approvato da GPL che offre un Account di Fatturazione con l'Operatore.
+
+"Account di Fatturazione con l'Operatore" indica l'account per la fatturazione mensile o comunque periodica fornito all'Utente dal suo Operatore, che l'Utente registra sul Servizio per fornire i fondi per determinate Transazioni di pagamento.
+
+"Contenuti" indica consigli, opinioni, offerte, proposte, affermazioni, dati o altre informazioni visualizzati, distribuiti, acquistati o pagati tramite il Servizio.
+
+"Cliente" indica una persona o entità che è registrata al Servizio come Acquirente o Venditore.
+
+"Controversie" indica qualsiasi disaccordo, contenzioso, composizione e/o qualsiasi altra controversia che potrebbe insorgere tra i Clienti o altre terze parti in relazione all'uso del Servizio e che sia comunque diversa dalle Controversie sul Servizio.
+
+"Moneta elettronica" indica il valore elettronico emesso da GPL una volta ricevuti i fondi dall'Utente. La Moneta elettronica risiede nel sistema informatico di GPL e rappresenta un credito riscattabile nei confronti di GPL. La Moneta elettronica non è un deposito.
+
+"Strumento di pagamento" indica la carta di credito, di debito, l'Account di Fatturazione con l'Operatore o altro strumento di pagamento che l'Utente ha registrato per il Servizio e che verrà utilizzato da GPL per prelevare i fondi necessari all'emissione di Moneta elettronica tramite il Servizio al fine di elaborare le Transazioni di pagamento e per altri scopi.
+
+"Transazione di pagamento" indica la transazione tramite la quale GPL (i) avvia il trasferimento di un Importo di acquisto dallo Strumento di pagamento dell'Utente a GPL, (ii) fornisce all'Utente un importo in Moneta elettronica equivalente all'Importo di acquisto e (iii) trasferisce l'importo in Moneta elettronica dall'Utente a un Venditore da cui l'Utente ha acquistato un Prodotto.
+
+"Google" indica Google International, LLC e le sue Consociate e Affiliate.
+
+"Sito web di GPL" indica un sito web di GPL o delle sue Consociate e Affiliate.
+
+"GPL", "noi" o "nostro" indicano Google Payment Limited.
+
+"Dati di accesso" indica il nome utente e la password forniti da GPL all'Utente per permettergli di accedere al suo Account.
+
+"Ordine di pagamento" indica (i) la disposizione data dal Venditore a GPL per l'esecuzione di una Transazione di pagamento autorizzata dall'Utente, che funge anche da comunicazione a GPL dell'autorizzazione dell'Utente ad avviare l'acquisto di un importo in Moneta elettronica da GPL equivalente all'Importo di acquisto della Transazione di pagamento, oppure (ii) la disposizione data dal Venditore a GPL per l'esecuzione di una Transazione di rimborso, a seconda del contesto.
+
+"Prodotto" indica qualsiasi merce, bene o servizio avente forma fisica o digitale che l'Utente può acquistare da un Venditore utilizzando il Servizio.
+
+"Importo di acquisto" indica un importo equivalente al prezzo di un Prodotto, incluse le commissioni, imposte o spese di spedizione correlate eventualmente applicabili.
+
+"Transazione di rimborso" indica la transazione tramite la quale GPL trasferisce Moneta elettronica dal Venditore all'Account dell'Utente e successivamente rimborsa e avvia il trasferimento di un importo corrispondente sullo Strumento di pagamento dell'Utente utilizzando la funzione di rimborso prevista dal Servizio.
+
+"Venditore" indica qualsiasi persona o entità che utilizza il Servizio per vendere Prodotti e ricevere i corrispettivi degli Importi di acquisto tramite Transazioni di pagamento.
+
+"Servizio" indica il servizio di pagamento in Moneta elettronica fornito da GPL.
+
+"servizi" indica tutti i servizi offerti da GPL ai sensi del presente Contratto, compreso il Servizio.
+
+"Controversie sul Servizio" indica qualsiasi disaccordo, reclamo, contenzioso, compromesso e/o qualsiasi altra controversia che possa insorgere tra GPL e i Clienti, derivante esclusivamente dal presunto inadempimento da parte di GPL dei propri obblighi ai sensi del Contratto o di qualsiasi legge vigente e da ogni connessa disfunzione nella prestazione del Servizio.
+
+"Consociate e Affiliate" indica le persone giuridiche consociate di e affiliate a Google in tutto il mondo.
+
+"Servizio non Regolamentato" indica un servizio fornito da GPL che non sia un servizio di pagamento con Moneta elettronica, come il servizio descritto nella clausola 10.1(c).
+
+"Utente" e "Acquirente" indica una persona che presenta domanda di iscrizione al Servizio, si registra per l'utilizzo del Servizio o utilizza il Servizio per effettuare Transazioni di pagamento al fine di acquistare un Prodotto.
+
+"Indirizzo email dell'Utente" indica l'indirizzo email fornito dall'Utente durante la registrazione.
+
+2. Rapporto dell'Utente con GPL
+
+2.1 L'utilizzo del Servizio da parte dell'Utente è soggetto al Contratto.
+
+2.2 Utilizzando il Servizio, l'Utente acquista da GPL Moneta elettronica che viene utilizzata immediatamente per i pagamenti ai Venditori.
+
+2.3 Anche i Servizi non Regolati potrebbero essere forniti da GPL come stabilito nel Contratto.
+
+3. Accettazione del Contratto
+
+3.1 Per poter utilizzare i servizi ai sensi del presente Contratto, l'Utente deve accettare il Contratto. In caso contrario non potrà utilizzare i servizi.
+
+3.2 Il Contratto costituisce un accordo legalmente vincolante tra l'Utente e GPL in relazione all'utilizzo dei servizi da parte dell'Utente; è quindi importante che l'Utente lo legga con attenzione. Accettando il Contratto, l'Utente accetta di utilizzare i servizi nel rispetto dei relativi requisiti.
+
+3.3 <use2>L'Utente può accettare il Contratto tramite: (a) Clic sull'opzione per l'accettazione del Contratto messa a disposizione dell'Utente da GPL nell'interfaccia utente; oppure (b) L'utilizzo effettivo dei servizi.</use2> <use2>In questo caso, l'Utente conviene e accetta che, da quel momento in poi, GPL considererà il suo utilizzo dei servizi come accettazione del Contratto.</use2>
+
+3.4 L'Utente non può utilizzare i servizi e accettare il Contratto se:
+
+(a) Non ha l'età stabilita dalla legge per stipulare un contratto vincolante con GPL e utilizzare lo Strumento di pagamento registrato per i servizi; oppure
+
+(b) Gli è proibito ricevere i servizi ai sensi delle leggi degli Stati Uniti o di altri paesi, compreso il paese di residenza dell'Utente o il paese da cui utilizza i servizi.
+
+4. Fornitura e lingua del Contratto
+
+4.1 Una copia del Contratto verrà fornita all'Utente in formato stampabile durante la procedura di registrazione. Una copia del Contratto, così come modificato di volta in volta, è a disposizione dell'Utente sul Sito web di GPL.
+
+4.2 Per tutta la durata del Contratto, l'Utente ha diritto di richiederne una copia. A seguito di tale richiesta, l'Utente riceverà senza costi aggiuntivi al proprio indirizzo email un link che rimanda al Contratto.
+
+4.3 Il Contratto verrà fornito all'Utente in inglese o tradotto in un'altra lingua.
+
+4.4 Qualora GPL fornisca all'Utente una traduzione della versione in lingua inglese del Contratto, l'Utente riconosce che la traduzione viene fornita solo per sua comodità e che il suo rapporto con GPL sarà regolato dalla versione in lingua inglese del Contratto.
+
+4.5 In caso di difformità tra la versione in lingua inglese del Contratto e una traduzione, prevale la versione in lingua inglese.
+
+5. Registrazione al Servizio
+
+5.1 Per poter utilizzare i servizi, l'Utente deve inserire tutte le informazioni richieste nelle pagine web di registrazione a Google Payments.
+
+5.2 L'Utente è tenuto a registrare uno Strumento di pagamento valido che verrà utilizzato per l'acquisto di Moneta elettronica tramite il Servizio.
+
+5.3 È necessario che lo Strumento di pagamento sia associato a un indirizzo di fatturazione in un paese in cui il Servizio è disponibile.
+
+5.4 L'Utente è tenuto a fornire informazioni aggiornate, complete e precise e a tenerle aggiornate e precise durante il suo utilizzo dei servizi. GPL potrebbe chiedere all'Utente di fornire ulteriori informazioni per poter continuare a utilizzare i servizi, per consentire all'Utente di cominciare a usare un nuovo servizio o per poter decidere se consentire all'Utente di continuare a utilizzare i servizi. L'Utente accetta di fornire tali informazioni quando ciò sia richiesto da GPL a questo proposito, comprese le informazioni necessarie per confermare l'identità dell'Utente o l'autenticità dello Strumento di pagamento registrato dall'Utente per GPL.
+
+6. Fornitura del Servizio da parte di GPL
+
+6.1 In certi casi, i servizi saranno forniti all'Utente, per intero o in parte, dalle Consociate e Affiliate per conto di GPL. L'Utente riconosce e accetta che le Consociate e Affiliate hanno il diritto di fornire i servizi all'Utente.
+
+6.2 GPL apporta costanti innovazioni per offrire la migliore esperienza possibile ai suoi utenti. <ch2>L'Utente riconosce e accetta che GPL possa di volta in volta fornire occasionalmente un nuovo servizio, senza previa notifica all'Utente.</ch2> A seguito dell'introduzione di un nuovo servizio, sarà nostra cura fornire all'Utente il Contratto riveduto via email o fornendo un link alla versione aggiornata del Contratto al momento della registrazione. L'Utente può accettare la nuova versione del Contratto nelle modalità specificate nella clausola 3.
+
+6.3 L'Utente riconosce e accetta che GPL possa interrompere la fornitura dei servizi ai sensi del Contratto. L'Utente può interrompere l'utilizzo dei servizi in qualsiasi momento. In tal caso non è necessario che informi GPL.
+
+6.4 <ch2>L'Utente riconosce e accetta che GPL possa stabilire prassi generali e limiti relativi all'utilizzo dei servizi senza previa notifica all'Utente, inclusi, senza alcuna limitazione, limiti al valore o al numero delle Transazioni di pagamento, singolarmente o complessivamente considerate, effettuabili durante uno o più periodi di tempo specificati.</ch2>
+
+6.5 <ter2>GPL può rifiutarsi di eseguire qualsiasi Transazione di pagamento, Ordine di pagamento o qualsiasi altro utilizzo dei servizi qualora abbia ragionevoli motivi per sospettare la presenza di attività fraudolenta, una violazione del Contratto vigente da parte dell'Utente o del Venditore o una violazione della legge.</ter2> Le Transazioni potrebbero anche subire ritardi a causa dell'obbligo di GPL di uniformarsi alla normativa antiriciclaggio vigente, così come quando GPL sospetti che la transazione implichi un'attività fraudolenta. Qualora GPL si rifiutasse di eseguire una Transazione di pagamento, un Ordine di pagamento o qualsiasi altro utilizzo dei servizi, l'Utente riceverà una notifica, salvo nei casi in cui ciò costituisca una violazione delle disposizioni di legge da parte di GPL o pregiudichi le adeguate misure di sicurezza.
+
+6.6 L'Utente riconosce e accetta che, qualora GPL dovesse disattivare l'accesso al proprio Account interrompendo l'utilizzo dei Dati di accesso dell'Utente, potrebbe essergli impedito l'accesso al Servizio, ai Dati dell'Account o a eventuali dati o altri contenuti presenti nel suo Account.
+
+7. Utilizzo del Servizio da parte dell'Utente
+
+7.1 L'Utente accetta di utilizzare i servizi soltanto nella misura consentita da:
+
+(a) Il Contratto;
+
+(b) Norme e limiti relativi ai servizi, così come pubblicati e aggiornati di volta in volta da GPL e dalle sue affiliate; e
+
+(c) Qualsiasi legge o normativa vigente, prassi o linea guida generalmente accettata nelle giurisdizioni di competenza (comprese eventuali leggi relative all'esportazione di dati o software da e verso gli Stati Uniti o altri paesi pertinenti).
+
+7.2 Fermo quanto sopra, l'Utente riconosce e accetta che la dichiarazione e il pagamento di eventuali imposte applicabili derivanti dal suo utilizzo dei servizi siano di sua responsabilità. L'Utente accetta di rispettare tutte le leggi fiscali vigenti, comprese quelle relative alla dichiarazione e al pagamento di eventuali imposte relative alle Transazioni di pagamento.
+
+7.3 L'Utente accetta di non accedere (o tentare di accedere) ai servizi con alcun altro mezzo che non sia l'interfaccia fornita da GPL, tranne se specificatamente autorizzato mediante altro accordo stipulato con GPL. L'Utente riconosce che questa limitazione sarà valida per l'utilizzo dei servizi con qualsiasi mezzo automatizzato. Ciò non influisce sul diritto dell'Utente a utilizzare i servizi di un AISP.
+
+7.4 L'Utente accetta di non intraprendere alcuna attività che possa interferire con i servizi (o con i server e le reti connessi ai servizi) o danneggiarli.
+
+7.5 Salvo se espressamente autorizzato mediante altro accordo stipulato con GPL, l'Utente accetta di non riprodurre, duplicare, copiare, vendere, commercializzare o rivendere i servizi per alcun fine.
+
+7.6 <ltd2>L'Utente accetta di essere l'unico responsabile (e di esonerare GPL da qualsiasi responsabilità nei confronti suoi o di terze parti) per qualsiasi inadempimento dei propri obblighi previsti dal Contratto e per le conseguenze derivanti da tale inadempimento (compresi eventuali danni o perdite subiti da GPL).</ltd2>
+
+8. Dati di accesso dell'Utente e sicurezza dell'Account
+
+8.1 L'Utente accetta di utilizzare i Dati di accesso associati al suo Account soltanto in conformità con i termini e condizioni stabiliti nel presente Contratto che ne regolano l'utilizzo.
+
+8.2 L'Utente riconosce e accetta di essere responsabile della riservatezza dei Dati di accesso associati al proprio Account e dell'adozione di tutte le misure adeguate per mantenere riservate tali informazioni.
+
+8.3 Qualora l'Utente utilizzi i servizi nel quadro della propria attività professionale, l'Utente dichiara che tutti i dirigenti, i dipendenti, gli agenti, i rappresentanti e altri soggetti che possono accedere ai suoi Dati di accesso sono autorizzati a farlo e dispongono dell'autorità per vincolare legalmente l'impresa, la partnership o altra persona giuridica interessata.
+
+8.4 La responsabilità dell'Utente in merito all'utilizzo del Servizio viene stabilita nella clausola 17 riportata sotto.
+
+8.5 L'Utente deve informare tempestivamente GPL tramite la sezione "Non riesci ad accedere al tuo account Google" nel Centro assistenza per l'Acquirente in caso di perdita, furto o appropriazione indebita dei suoi Dati di accesso o del suo Account, e tramite la sezione "Segnalare addebiti non autorizzati" nel Centro assistenza per l'Acquirente in caso di utilizzo non autorizzato dei suoi Dati di accesso o del suo Account. L'Utente si impegna a informare tempestivamente GPL e con la stessa modalità di qualsiasi altra violazione della sicurezza relativa al Servizio di cui venga a conoscenza.
+
+8.6 Se l'Utente ritiene che il suo Account sia stato aperto o utilizzato senza autorizzazione, può consultare la sezione sulla segnalazione di abusi. Invitiamo inoltre a leggere le nostre Domande frequenti (FAQ) per avere ulteriori informazioni sulle misure di protezione antifrode adottate da GPL.
+
+8.7 Per ottenere il rimborso di Transazioni di pagamento non autorizzate o non correttamente eseguite, l'Utente deve informare tempestivamente GPL tramite il Centro assistenza per l'Acquirente, e in ogni caso entro tredici (13) mesi dalla data di addebito (che coinciderà con la data in cui i fondi sono stati prelevati dallo Strumento di pagamento dell'Utente), non appena venga a conoscenza di Transazioni di pagamento non autorizzate o non correttamente elaborate (consultare anche la clausola 17).
+
+8.8 <ter2>GPL potrebbe sospendere l'utilizzo dei Dati di accesso o dell'Account dell'Utente qualora sospetti che la loro sicurezza possa essere stata compromessa o che sia avvenuto un utilizzo non autorizzato o fraudolento degli stessi.</ter2>
+
+8.9 GPL informerà l'Utente prima o, se non fosse possibile, subito dopo la sospensione dell'utilizzo dei Dati di accesso o dell'Account dell'Utente specificando i motivi della sospensione, a meno che la comunicazione di tali informazioni pregiudichi le adeguate misure di sicurezza o violi le disposizioni di legge. GPL riattiverà i Dati di accesso o l'Account dell'Utente, o fornirà all'Utente nuovi Dati di accesso attivi o un nuovo Account, non appena possibile in seguito alla cessazione dei motivi della sospensione.
+
+9. Privacy e informazioni personali dell'Utente
+
+9.1 Le Norme sulla privacy di Google descrivono le modalità di trattamento delle informazioni personali quando vengono utilizzati i prodotti e i servizi Google. Inoltre, le norme sulla privacy di GPL disponibili all'indirizzo https://payments.google.com/files/privacy.html spiegano come GPL tratta le informazioni personali dell'Utente e ne tutela la privacy quando viene utilizzato il Servizio. L'Utente può richiedere l'invio di una copia elettronica delle norme sulla privacy di GPL in formato PDF contattandoci tramite il Centro assistenza all'indirizzo https://support.google.com/payments.
+
+9.2 <pinc2>L'Utente acconsente all'uso dei suoi dati ai sensi delle Norme sulla privacy di cui alla clausola 9.1.</pinc2>
+
+9.3 Verifica dell'identità dell'Acquirente; requisiti contro il riciclaggio di denaro.
+
+(a) L'Acquirente riconosce che GPL offre e continua a offrire i servizi all'Acquirente a condizione che quest'ultimo superi tutti i dovuti controlli relativi a due diligence e identità eventualmente effettuati da GPL e rispetti i requisiti di GPL, delle società di emissione di carte di pagamento e di qualsiasi normativa in materia di antiriciclaggio. Le verifiche dell'identità potrebbero includere controlli creditizi, controlli antiriciclaggio richiesti dalla legislazione applicabile, controlli richiesti dalle associazioni di istituti di emissione di carte di pagamento e verifiche relative al rispetto dei requisiti delle normative vigenti. L'Acquirente deve fornire tutta l'assistenza richiesta da GPL nell'effettuare tali controlli e nel determinare il rispetto dei requisiti antiriciclaggio, inclusa la comunicazione delle informazioni aggiuntive relative alla registrazione o alla verifica dell'identità che GPL dovesse richiedere.
+
+(b) L'Acquirente consente a GPL di condividere con e ottenere da terze parti, sia all'interno che all'esterno dell'Area Economica Europea e nella misura consentita dalla legge, le informazioni relative all'Acquirente, compresi i dati personali così come definiti ai sensi della legge per la tutela dei dati vigente, per poter effettuare i dovuti controlli relativi a due diligence e identità. L'Acquirente accetta che tali terze parti possano conservare le informazioni condivise con tale modalità.
+
+(c) <ter2>Il mancato rispetto delle condizioni riportate nella presente clausola 9.3, anche qualora l'Acquirente fornisca le informazioni richieste da GPL per effettuare la verifica dell'identità o per determinare il rispetto dei requisiti antiriciclaggio, potrebbe comportare l'immediata sospensione dell'utilizzo dei servizi da parte dell'Acquirente, nonché il recesso dal presente Contratto.</ter2>
+
+10. Strumento di pagamento
+
+10.1 L'Utente accetta che i dati del suo Strumento di pagamento vengano utilizzati da GPL per:
+
+(a) Addebitare all'Utente l'Importo di acquisto, incluse tutte le commissioni, imposte o spese di spedizione correlate eventualmente applicabili;
+
+(b) Elaborare tutti i pagamenti necessari per addebitare all'Utente eventuali altre commissioni o spese derivanti dall'utilizzo del Servizio da parte dell'Utente.
+
+(c) Essere trasmessi, se richiesto dall'Utente, a una terza parte per l'addebito dei beni o servizi da questa forniti all'Utente. Si tratta di un Servizio non Regolamentato offerto all'Utente da GPL. In questi casi, dopo avere comunicato i dati dello Strumento di pagamento alla terza parte, GPL non sarà ulteriormente coinvolta nella transazione dell'Utente con la terza parte. Non si tratta di una Transazione di pagamento. L'Utente è tenuto a contattare direttamente la terza parte o il fornitore del suo Strumento di pagamento (ad esempio il fornitore della carta di credito o di debito) per eventuali problemi relativi alle transazioni con la terza parte, inclusi rimborsi e controversie.
+
+10.2 L'Utente autorizza GPL a chiedere conferma che il suo Strumento di pagamento goda di buona reputazione presso l'Operatore o l'istituto finanziario che lo ha emesso. Tale conferma potrà essere ottenuta, a titolo esemplificativo e non esaustivo, inoltrando una richiesta di autorizzazione al pagamento e/o di accredito e/o di addebito di un piccolo importo sullo Strumento di pagamento, nel rispetto delle regole vigenti della società di emissione di carte di pagamento.
+
+10.3 L'Utente autorizza GPL a ottenere un rapporto di credito e/o a verificare in altro modo le informazioni creditizie o i precedenti dell'Utente, quando GPL lo ritiene opportuno per valutare la registrazione dell'Utente ai servizi o per consentirne l'uso continuato.
+
+11. Elaborazione dei pagamenti in Moneta elettronica; Fatturazione con l'Operatore; acquisti di abbonamenti/transazioni periodiche
+
+11.1 GPL accetta di fornire il Servizio all'Utente per facilitare le Transazioni di pagamento.
+
+11.2 L'Utente deve acconsentire all'esecuzione di una Transazione di pagamento affinché possa essere autorizzata. L'Utente riconosce che, utilizzando il Servizio per l'acquisto di un Prodotto da un Venditore, acconsente all'elaborazione della Transazione di pagamento; accetta inoltre che, una volta dato il suo consenso, non è più possibile revocare la Transazione di pagamento autorizzata. L'Utente riconosce, inoltre, che i Venditori possono rifiutarsi di elaborare l'ordine di un Prodotto per qualsiasi motivo e che, fino all'invio da parte del Venditore dell'Ordine di pagamento a GPL in conformità con la clausola 11.4, GPL non è tenuta in alcun modo a eseguire una Transazione di pagamento.
+
+11.3 Utilizzando il Servizio, l'Utente fornirà a GPL informazioni che saranno archiviate, come i dettagli dello Strumento di pagamento e i dati di spedizione. Inoltre, GPL elaborerà le Transazioni di pagamento e di rimborso tramite l'appropriato circuito di carta di credito o debito, Operatore o circuito bancario.
+
+11.4 Una volta che l'Utente autorizza l'esecuzione di una Transazione di pagamento, il Venditore può inviare l'Ordine di pagamento a GPL, in conformità con le norme di GPL. Dopo avere ricevuto l'Ordine di pagamento dal Venditore, GPL inizia il trasferimento dell'Importo di acquisto dallo Strumento di pagamento dell'Utente a GPL. GPL fornisce quindi all'Utente un importo in Moneta elettronica equivalente all'Importo di acquisto, al più tardi quando GPL riceve i corrispondenti fondi validi dallo Strumento di pagamento dell'Utente. In seguito GPL trasferisce immediatamente l'importo emesso al Venditore. GPL non è responsabile per, e non può stabilire il momento in cui riceve i fondi dallo Strumento di pagamento dell'Utente. Una volta che il Venditore avrà inviato l'Ordine di pagamento a GPL, l'Utente verrà informato tramite le informazioni presenti nella cronologia transazioni del suo Account.
+
+11.5 Le Transazioni di pagamento possono essere rifiutate o ritardate, secondo quanto previsto dalla Clausola 6.5.
+
+11.6 L'Utente autorizza espressamente GPL a (o a chiedere a una terza parte di):
+
+(a) Effettuare addebiti sullo Strumento di pagamento dell'Utente secondo necessità per l'acquisto di Moneta elettronica al fine di completare l'elaborazione di una Transazione di pagamento;
+
+(b) Accreditare tali importi sullo Strumento di pagamento dell'Utente tramite il Servizio secondo necessità, per effettuare l'eventuale storno di una Transazione di pagamento oppure rimborsi o rettifiche all'Importo di acquisto.
+
+11.7 L'Utente riconosce e accetta che:
+
+(a) Le vendite di Prodotti da parte del Venditore sono transazioni che intercorrono tra il Venditore e l'Utente e non con GPL, Google o le sue affiliate, a meno che questi non vengano espressamente indicati nella transazione come Venditore o Acquirente; e
+
+(b) Né GPL, né Google o alcuna delle sue società consociate è un Acquirente, un Venditore o una parte in relazione a qualsiasi Transazione di pagamento, a meno che non sia stata espressamente designata come tale nella scheda del Prodotto su un Sito web di Google o nei suoi termini di servizio;
+
+(c) Un Venditore e GPL, che agisce per conto del Venditore, potranno inviare di nuovo al circuito di pagamento, una o più volte, una transazione di pagamento relativa all'acquisto di un Prodotto nel caso in cui la transazione di pagamento precedente sia stata rifiutata o respinta dal circuito di pagamento.
+
+11.8 La Moneta elettronica, e quindi il Servizio, non sono soggetti al Financial Services Compensation Scheme (FSCS, programma di risarcimento per i servizi finanziari del Regno Unito) né ad altri piani assicurativi pubblici o privati.
+
+11.9 Fatturazione con l'Operatore. Alcuni Venditori che accettano Google Payments possono consentire all'Utente di fatturare gli acquisti sul proprio Account di Fatturazione con l'Operatore. I presenti termini aggiuntivi sono validi quando l'Utente utilizza la Fatturazione con l'Operatore tramite Google Payments:
+
+11.9.1 Per poter registrare l'Account di Fatturazione con l'Operatore come opzione di pagamento, Google Payments richiede all'Utente di indicare numero di cellulare, nome e indirizzo di fatturazione, comprensivo di codice postale, dell'Account di Fatturazione con l'Operatore associato al numero indicato. L'Utente consente all'Operatore di fornire tali informazioni a Google Payments e potrà esaminare le informazioni durante la registrazione della Fatturazione con l'Operatore, nonché correggere eventuali inesattezze. Tali informazioni verranno utilizzate da Google Payments per impostare l'Account di Fatturazione con l'Operatore come Strumento di pagamento nell'Account Google Payments dell'Utente e per il funzionamento del Servizio. L'Utente accetta inoltre che GPL e il suo Operatore possano scambiarsi informazioni in merito all'attività di Fatturazione con l'Operatore dell'Utente per effettuare addebiti o accrediti sull'Account di Fatturazione con l'Operatore dell'Utente e comunque per completare i pagamenti relativi ad acquisti, storni, rimborsi o rettifiche di Transazioni di pagamento, risolvere controversie, fornire assistenza ai clienti e per altre finalità legate alla Fatturazione con l'Operatore.
+
+11.9.2 Se decide di pagare una transazione tramite Fatturazione con l'Operatore, l'Utente autorizza il Venditore e GPL a inviare addebiti e accrediti all'Operatore e quest'ultimo a effettuare tali addebiti o accrediti sull'Account di Fatturazione con l'Operatore dell'Utente, a seconda delle necessità, per completare la Transazione di pagamento oppure per completare lo storno, il rimborso o la rettifica della Transazione di pagamento.
+
+11.9.3 L'Utente può utilizzare la Fatturazione con l'Operatore per acquistare applicazioni (ad esempio applicazioni scaricabili o di rete, sfondi, suonerie, giochi e strumenti di produttività, collettivamente definiti "Applicazioni") per e con dispositivi compatibili da determinati commercianti su Google Play. Queste Applicazioni non vengono vendute dall'Operatore né da Google, da GPL o da Google Play. L'Utente può identificare il Venditore dell'Applicazione al momento dell'acquisto.
+
+11.9.4 Gli acquisti effettuati tramite Fatturazione con l'Operatore sono inoltre soggetti ai termini e condizioni dell'Account di Fatturazione con l'Operatore dell'Utente. L'Utente è responsabile di eventuali addebiti e relative commissioni che potrebbero essere imposti ai sensi dei termini e condizioni dell'Account di Fatturazione con l'Operatore in conseguenza dell'utilizzo della Fatturazione con l'Operatore da parte dell'Utente.
+
+11.9.5 L'Utente può contattare l'assistenza clienti dell'Operatore qualora avesse domande in merito alle commissioni o agli addebiti fatturati sul proprio Account di Fatturazione con l'Operatore. In caso di domande relative a questioni riguardanti Google Payments, l'Utente può contattare l'assistenza clienti di Google Payments. L'Utente è tenuto a rivolgere domande di assistenza relative a prodotti (come le Applicazioni Android) acquistati tramite Fatturazione con l'Operatore al Venditore da cui ha acquistato le Applicazioni.
+
+11.9.6 <ltd2>L'Operatore, Google, GPL e Google Play non sono responsabili per alcun prodotto (comprese le Applicazioni) acquistato tramite Fatturazione con l'Operatore, compresi errori, interruzione o ritardo nel download, nell'installazione, nell'utilizzo o nella trasmissione, nonché per rimborsi, annunci di terze parti che l'Utente potrebbe trovare durante l'utilizzo del prodotto o dell'Applicazione, eventuali alterazioni apportate da qualsiasi Applicazione alla funzionalità del dispositivo in uso, comprese eventuali modifiche che potrebbero influire sul piano, sul servizio o sulla fatturazione dell'Operatore, oppure eventuali contenuti o siti web a cui l'Utente potrebbe essere in grado di accedere tramite l'Applicazione.</ltd2>
+
+11.10 Per quanto concerne l'acquisto di abbonamenti/transazioni periodiche:
+
+(a) Nel caso in cui il Servizio offra all'Utente la possibilità di pagare abbonamenti, l'abbonamento avrà inizio nel momento in cui, durante l'acquisto, l'Utente fa clic su "Accetta e acquista" (o una dicitura equivalente). Si tratta di una transazione di fatturazione ricorrente e l'addebito sarà automatico su base periodica. Se non diversamente indicato, l'abbonamento dell'Utente e la relativa autorizzazione di fatturazione saranno validi fino all'annullamento da parte dell'Utente.
+
+(b) Facendo clic su "Accetta e acquista" (o una dicitura equivalente), l'Utente autorizza il Venditore in questione a emettere un Ordine di pagamento per una Transazione di pagamento, finanziata tramite lo Strumento di pagamento selezionato dall'Utente, per ogni periodo di fatturazione specificato per l'abbonamento e per l'Importo di acquisto. L'Utente autorizza inoltre il Venditore in questione ad addebitare l'Importo di acquisto sullo Strumento di pagamento alternativo, qualora l'Utente ne avesse selezionato uno nel proprio account Google Payments, nel caso in cui, per qualsiasi motivo, il Venditore non riuscisse ad addebitare tale importo sullo Strumento di pagamento selezionato dall'Utente.
+
+L'Importo di acquisto continuerà a essere addebitato sullo Strumento di pagamento selezionato dall'Utente, o sullo Strumento di pagamento alternativo (se presente), per ogni periodo di fatturazione fino all'annullamento dell'abbonamento, fatto salvo quanto diversamente indicato nei termini e condizioni. Nel corso del periodo di abbonamento, l'Importo di acquisto può essere modificato da parte del Venditore.
+
+(c) L'Importo di acquisto sarà addebitato sullo Strumento di pagamento dell'Utente per ogni periodo di fatturazione a partire dalla data di acquisto dell'abbonamento.
+
+(d) L'Utente ha la facoltà di annullare un abbonamento in qualsiasi momento seguendo la procedura descritta qui, ma l'annullamento non diventerà effettivo fino al termine del periodo di fatturazione corrente. L'Utente non riceverà alcun rimborso per il periodo di fatturazione corrente. L'Utente potrà continuare ad accedere al servizio di abbonamento in questione per il resto del periodo di fatturazione corrente.
+
+(e) Ci riserviamo il diritto di emettere rimborsi o accrediti a nostra esclusiva discrezione. Qualora emettessimo un rimborso o un accredito non avremmo alcun obbligo di emettere lo stesso rimborso o un rimborso simile in futuro.
+
+(f) L'Utente ha diritto al rimborso di una Transazione di pagamento autorizzata che fa parte di un abbonamento se: (i) l'Utente chiede il rimborso entro otto (8) settimane dalla data di addebito della Transazione di pagamento; (ii) l'Ordine di acquisto non specificava l'Importo di acquisto al momento dell'autorizzazione della Transazione di pagamento; e (iii) l'Importo di acquisto addebitato supera l'importo che l'Utente avrebbe potuto ragionevolmente aspettarsi considerando il suo profilo di spesa precedente, il presente Contratto e le circostanze del caso. GPL potrebbe chiedere all'Utente di fornire ulteriori informazioni ragionevolmente necessarie per esaminare la richiesta di rimborso. L'Utente riceverà l'eventuale rimborso o la motivazione del rifiuto di tale rimborso entro dieci (10) giorni lavorativi dalla richiesta di rimborso, o, qualora GPL avesse chiesto all'Utente ulteriori informazioni, entro dieci (10) giorni lavorativi dal ricevimento di tali informazioni.
+
+12. Riservata 13. Transazioni di pagamento consentite
+
+13.1 L'Utente può utilizzare il Servizio unicamente per elaborare una Transazione di pagamento relativa a un Prodotto che viene acquistato da un Venditore tramite una vendita legittima e in buona fede del Prodotto stesso, oppure per donazioni di beneficenza a favore di un Venditore che definisca la propria categoria di prodotti primaria come non a scopo di lucro e che sia stato verificato da GPL come organizzazione non profit registrata e certificata. Il Servizio non può essere utilizzato per elaborare una Transazione di pagamento o comunque un trasferimento di Moneta elettronica o valore monetario a favore di un Venditore che non sia correlato all'acquisto di un Prodotto, né per donazioni di beneficenza a favore di un Venditore che non definisca la propria categoria di prodotti primaria come non a scopo di lucro e che non sia stato verificato da GPL come organizzazione non profit registrata e certificata.
+
+13.2 Non è possibile utilizzare il Servizio per ricevere anticipi in contanti dai Venditori o per agevolare l'acquisto di strumenti di pagamento equivalenti al denaro contante (ad esempio travellers cheque, carte prepagate, vaglia e così via). L'Utente non può utilizzare il Servizio per:
+
+(a) Elaborare Transazioni di pagamento in relazione alla vendita o allo scambio di beni o servizi la cui vendita o il cui acquisto sono illegali nel paese in cui l'Utente risiede o da cui utilizza il Servizio;
+
+(b) Elaborare Transazioni di pagamento in relazione alla vendita o allo scambio di beni o servizi la cui vendita o il cui acquisto sono illegali nel paese di residenza del Venditore o da cui quest'ultimo utilizza il Servizio; oppure
+
+(c) Utilizzare il Servizio in relazione ad altre transazioni illegali.
+
+13.3 L'Utente accetta di non utilizzare il Servizio per elaborare Transazioni di pagamento relative a qualsiasi Prodotto che viola il Contratto, altre norme o regole applicabili al Servizio (che potrebbero essere occasionalmente aggiornate) o la legge vigente. L'attuale norma che stabilisce i Prodotti e altre transazioni che non possono essere pagati tramite il Servizio è disponibile qui. <ter2>Il mancato rispetto di queste limitazioni potrebbe comportare la sospensione o la cessazione dell'utilizzo del Servizio da parte dell'Utente.</ter2>
+
+14. Commissioni di servizio; valuta estera; interesse
+
+14.1 GPL non addebiterà alcuna commissione all'Utente per l'utilizzo del Servizio. Tuttavia, per l'utilizzo del Servizio potrebbero essere applicati altri costi o imposte stabiliti da terze parti. Ad esempio, l'Utente riconosce e accetta che l'istituto finanziario o l'Operatore che emette il suo Strumento di pagamento potrebbe addebitargli una commissione relativa agli addebiti sullo Strumento di pagamento derivanti dalla Transazione di pagamento. Per ulteriori informazioni su tali commissioni invitiamo l'Utente a consultare i termini e condizioni che regolano il suo Strumento di pagamento.
+
+14.2 GPL non eseguirà alcuna operazione di cambio in valuta estera nell'ambito del Servizio.
+
+14.3 GPL non addebiterà all'Utente alcun interesse per il suo utilizzo del Servizio.
+
+15. Controversie e Controversie sul Servizio
+
+15.1 GPL fornirà vari strumenti per aiutare l'Utente a contattare i Venditori al fine di risolvere una Controversia che potrebbe insorgere in merito a una transazione elaborata tramite il Servizio. Nel caso in cui l'Utente non sia in grado di risolvere una Controversia, GPL può fungere da mediatore nella Controversia sorta tra l'Utente e un Venditore su richiesta di una o di entrambe le parti. In questo caso GPL, qualora lo ritenga opportuno, esaminerà la Controversia e proporrà una soluzione conciliatoria non vincolante. Per informazioni più dettagliate, leggere le nostre Domande frequenti (FAQ).
+
+15.2 GPL potrebbe offrire un servizio di feedback o altri sistemi di valutazione nell'ambito del Servizio per aiutare l'Utente a valutare le sue esperienze di utilizzo del Servizio. L'Utente riconosce che tale sistema di feedback o valutazione rappresenta soltanto l'opinione di altri utenti del Servizio e non costituisce un'opinione, una dichiarazione o una garanzia imputabile a GPL in relazione ad altri utenti del Servizio.
+
+15.3 Qualsiasi reclamo o controversia che insorga in relazione al presente Contratto, comprese le Controversie sul Servizio, o a seguito della fornitura del Servizio da parte di GPL dovrebbe essere presentata in primo luogo al servizio clienti di GPL tramite il Centro assistenza per l'Acquirente. Ulteriori informazioni sulle procedure interne di gestione dei reclami sono disponibili qui. L'Utente può presentare eventuali reclami non risolti secondo le sue aspettative al Financial Ombudsman Service. A tale scopo, è possibile inviare una comunicazione tramite posta all'indirizzo: Exchange Tower, London E14 9SR, United Kingdom; telefono: 0800 023 4567 o 0300 123 9 123; sito web: http://www.financial-ombudsman.org.uk; e via email all'indirizzo: complaint.info@financial-ombudsman.org.uk.
+
+L'Utente può inoltre presentare eventuali reclami non risolti secondo le sue aspettative al Financial Ombudsman Service utilizzando la piattaforma online per la risoluzione delle controversie della Commissione europea disponibile all'indirizzo https://ec.europa.eu/consumers/odr/main/?event=main.adr.show.
+
+16. Rimborsi e utilizzo
+
+16.1 Poiché l'Utente acquisterà Moneta elettronica tramite il Servizio e la spenderà immediatamente per l'acquisto di Prodotti, non potrà utilizzare tale Moneta elettronica. In caso di Transazione di rimborso da parte di un Venditore o di GPL, la Moneta elettronica verrà rimborsata e i fondi verranno accreditati di nuovo sullo Strumento di pagamento dell'Utente.
+
+16.2 Se successivamente alla cessazione del Contratto è presente nell'Account dell'Utente un importo in Moneta elettronica non utilizzato, GPL rimborserà prontamente l'intero importo della Moneta elettronica non utilizzata una volta completati gli adeguati controlli antiriciclaggio, di attività fraudolenta o di altre attività illegali, e inizierà il trasferimento dell'importo sul conto bancario dell'Utente.
+
+16.3 Se l'importo in Moneta elettronica non utilizzato non può essere rimborsato in conformità con la clausola 16.2, l'Utente avrà sei (6) anni di tempo dalla cessazione del Contratto per chiedere il rimborso dell'intero importo non utilizzato, decorsi i quali l'eventuale Moneta elettronica rimanente nell'Account dell'Utente diventerà di proprietà di GPL. <ter2>Per le finalità della presente clausola 16.3, il Contratto cessa nel momento in cui l'Utente non è più in grado di utilizzare la propria Moneta elettronica per effettuare Transazioni di pagamento, tra cui, a titolo esemplificativo, i casi in cui l'Account dell'Utente viene sospeso in conformità con il presente Contratto.</ter2> Se entro sei (6) anni il diritto dell'Utente a utilizzare la propria Moneta elettronica viene ripristinato, la cessazione del Contratto non diventerà effettiva. GPL potrebbe ripristinare, a sua discrezione, l'Account dell'Utente e l'eventuale Moneta elettronica a esso collegata dopo la scadenza dei 6 anni. Ogni utilizzo effettuato ai sensi della presente clausola 16.3 è soggetto al corretto completamento degli adeguati controlli antiriciclaggio, di attività fraudolenta e di altre attività illegali, e l'Utente accetta di fornire le informazioni richieste da GPL per il completamento di tali controlli.
+
+16.4 Nessuna disposizione della clausola 16.3 limita il diritto di GPL di recedere dal Contratto conformemente alla clausola 19.4 e/o di effettuare rimborsi conformemente alla clausola 16.2.
+
+17. Responsabilità dell'Utente
+
+17.1 In caso di Transazione di pagamento non autorizzata o non correttamente eseguita, in conformità con la presente clausola 17 l'Utente ha diritto al risarcimento unicamente se informa tempestivamente GPL della Transazione di pagamento non autorizzata o non correttamente eseguita, non appena venga a conoscenza della transazione, e in ogni caso entro tredici (13) mesi dalla data di addebito (che coinciderà con la data in cui i fondi sono stati prelevati dallo Strumento di pagamento dell'Utente). Tuttavia, questo limite di tempo non è valido se GPL non ha fornito o messo a disposizione dell'Utente le informazioni pertinenti sulla transazione, come richiesto dalla legge (ad esempio nella cronologia transazioni del suo Account online).
+
+17.2 Qualora in caso di Transazione di pagamento non autorizzata l'Utente abbia diritto al risarcimento, GPL rimborserà l'importo della Transazione di pagamento non autorizzata non appena possibile, comunque non più tardi della fine del Giorno Lavorativo in cui GPL viene a conoscenza di tale transazione e, ove necessario, ripristinerà l'Account dell'Utente allo stato in cui si sarebbe trovato se non fosse avvenuta la Transazione di pagamento non autorizzata. Ciò significa, in pratica, che nell'Account dell'Utente verrà accreditato un importo in Moneta elettronica equivalente al valore della Transazione di pagamento, importo che verrà poi rimborsato e subito riaccreditato sullo Strumento di pagamento dell'Utente. Qualora GPL abbia ragionevoli motivi di sospettare un comportamento fraudolento da parte dell'Utente in relazione alla sua dichiarazione di transazione non autorizzata, GPL condurrà un'indagine prima di decidere se rimborsare l'importo di tale transazione e, non appena possibile, notificherà l'Utente dell'esito di tale indagine.
+
+17.3 Qualora GPL avesse eseguito non correttamente una Transazione di pagamento, GPL rimborserà prontamente l'importo della Transazione di pagamento non correttamente eseguita e, ove necessario, ripristinerà l'Account dell'Utente allo stato in cui si sarebbe trovato se non fosse avvenuta la Transazione di pagamento non correttamente eseguita. GPL si adopererà senza indugio, su richiesta dell'Utente, per tracciare eventuali Transazioni di pagamento non correttamente eseguite e notificherà l'Utente dell'esito.
+
+17.4 Qualora l'Utente avesse agito in maniera fraudolenta o non avesse adempiuto, intenzionalmente o con negligenza grave, ai termini del Contratto relativi al suo Account, l'Utente sarà responsabile di tutte le perdite subite in relazione a transazioni non autorizzate, e se in tali casi fosse già stato effettuato un rimborso, GPL avrà il diritto di addebitare sull'Account dell'Utente l'importo di tale rimborso. GPL potrebbe condurre un'indagine prima o dopo l'effettuazione di un rimborso per una transazione non autorizzata.
+
+18. Nessuna approvazione dei Prodotti
+
+18.1 <ltd2>GPL non dichiara, non approva e non sarà responsabile per: (a) Sicurezza, qualità, precisione, affidabilità, integrità o legalità di alcun Prodotto, veridicità o precisione della descrizione dei Prodotti o dei Contenuti visualizzati o distribuiti, acquistati o pagati tramite il Servizio; o (b) La possibilità dell'Utente di acquistare Prodotti o la possibilità dei Venditori di offrire Prodotti all'Utente.</ltd2>
+
+18.2 <cr3>GPL si riserva il diritto, ma non avrà alcuna responsabilità, di cambiare, modificare, rifiutare la pubblicazione o la rimozione di eventuali Contenuti, in parte o per intero, che GPL ritiene siano, a sua esclusiva e assoluta discrezione, discutibili, errati, illegali, fraudolenti o comunque in violazione del Contratto.</cr3>
+
+19. Cessazione del rapporto dell'Utente con GPL
+
+19.1 Il Contratto continuerà a essere valido fino alla risoluzione da parte dell'Utente o di GPL, in conformità con i termini di seguito indicati.
+
+19.2 L'Utente può recedere dal suo contratto legale stipulato con GPL immediatamente e senza incorrere in alcun costo in qualsiasi momento tramite:
+
+(a) Comunicazione a GPL in conformità con la clausola 23.5 indicata di seguito; e
+
+(b) Chiusura dei suoi Account relativi al Servizio.
+
+Il diritto dell'Utente di recedere dal Contratto in conformità con la presente clausola 19.2 comprende il diritto di legge dell'Utente al recesso dal Contratto ai sensi della legislazione applicabile in attuazione della Direttiva 2002/65/CE.
+
+19.3 <ter2>GPL può recedere in qualsiasi momento dal suo contratto legale stipulato con l'Utente senza preavviso se: (a) L'Utente ha violato disposizioni sostanziali del Contratto (o ha agito in modo tale da mostrare chiaramente che non intende o non è in grado di rispettare le disposizioni del Contratto); o (b) GPL è obbligata per legge ad agire in tal modo (ad esempio se la fornitura del Servizio all'Utente è, o diventa, illegale).</ter2>
+
+19.4 <ter3>GPL può recedere dal Contratto in qualsiasi momento fornendo all'Utente un preavviso di due (2) mesi, salvo non sia previsto un periodo più breve nel presente Contratto nel rispetto delle disposizioni di legge.</ter3>
+
+19.5 Alla cessazione del presente Contratto, tutti i diritti, gli obblighi e le responsabilità legali di cui l'Utente e GPL hanno beneficiato, a cui sono stati soggetti (o che sono maturati nel tempo durante il periodo di validità del Contratto) o che sono stati espressamente dichiarati come diritti, obblighi e responsabilità destinati a durare a tempo indeterminato, non verranno meno, e le disposizioni di cui alla clausola 24.6 continueranno a valere per tali diritti, obblighi e responsabilità a tempo indeterminato.
+
+20. Esclusione di garanzie
+
+20.1 GPL, le sue Consociate e Affiliate (e relativi concessori di licenze) non riconoscono alcuna garanzia espressa o dichiarazione in relazione alla fornitura dei servizi.
+
+20.2 In particolare, GPL, le sue Consociate e Affiliate (e relativi concessori di licenze) non dichiarano o garantiscono all'Utente che:
+
+(a) L'utilizzo dei servizi risponda alle esigenze dell'Utente;
+
+(b) L'utilizzo dei servizi da parte dell'Utente sia ininterrotto, tempestivo, sicuro o privo di errori; e
+
+(c) Le informazioni ottenute dall'Utente tramite l'utilizzo dei servizi siano accurate o affidabili.
+
+20.3 Nessuna condizione, garanzia o altro termine (inclusi eventuali termini impliciti in merito alla qualità, all'idoneità per uno scopo particolare o alla conformità con la descrizione) si applica ai servizi, se non le condizioni, garanzie e i termini previsti espressamente nel Contratto.
+
+20.4 Nessuna disposizione del Contratto avrà effetto sui diritti legali in ogni caso riconosciuti all'Utente in qualità di consumatore e che l'Utente non può accettare di modificare o rifiutare contrattualmente.
+
+21. Limitazione di responsabilità
+
+21.1 Nulla di quanto stabilito nel Contratto escluderà o limiterà la responsabilità di GPL nella misura in cui ciò non sia consentito dalla legge vigente.
+
+21.2 <ltd2>Ai sensi della clausola 21.1 precedente, GPL, le sue Consociate e Affiliate (e relativi concessori di licenze) non saranno responsabili nei confronti dell'Utente per: (a) Eventuali perdite indirette o consequenziali subite dall'Utente.</ltd2> <ltd2>Sono incluse eventuali perdite di profitti (che avvengano direttamente o indirettamente), reputazione commerciale o aziendale oppure qualsiasi perdita di dati subita dall'Utente; (b) Eventuali perdite o danni subiti dall'Utente in conseguenza di: (i) Affidamento dell'Utente sulla completezza, sull'accuratezza o sull'esistenza di annunci pubblicitari, oppure in conseguenza di eventuali rapporti o transazioni tra l'Utente e un inserzionista o sponsor di cui vengono visualizzati gli annunci sul Sito web di GPL; (ii) Eventuali modifiche apportate da GPL ai servizi o cessazione definitiva o temporanea della fornitura dei servizi (o di eventuali funzioni dei servizi); (iii) Malfunzionamento dei servizi; (iv) Cancellazione, danneggiamento o mancata archiviazione di dati relativi alle comunicazioni gestiti o trasmessi dai servizi o durante l'utilizzo dei servizi; (v) Negligenza dell'Utente nel fornire a GPL informazioni precise sull'Account; e (vi) Eventuale utilizzo fraudolento dei servizi da parte dell'Utente.</ltd2>
+
+21.3 In ogni caso, GPL rimborserà all'Utente eventuali interessi o costi sostenuti per la mancata esecuzione o la scorretta esecuzione da parte di GPL di una Transazione di pagamento.
+
+22. Modifiche al Contratto
+
+22.1 <ch2>L'Utente accetta che GPL possa di volta in volta apportare modifiche al Contratto.</ch2> In tali occasioni, GPL comunicherà le modifiche all'Utente tramite un'email inviata all'Indirizzo email dell'Utente con due (2) mesi di preavviso rispetto alla data proposta per l'entrata in vigore delle modifiche in questione, salvo sia previsto un periodo più breve nel presente Contratto ai sensi della legge applicabile.
+
+22.2 <use2>L'Utente riconosce e accetta che le modifiche saranno considerate accettate da parte sua, salvo che l'Utente informi GPL del contrario tramite comunicazione secondo quanto previsto dalla clausola 23.5 prima della data di entrata in vigore delle modifiche.</use2> In tal caso il Contratto verrà risolto subito senza incorrere in alcun costo prima della data di entrata in vigore delle modifiche. L'Utente ha inoltre il diritto di recedere subito dal Contratto senza incorrere in alcun costo in qualsiasi momento prima della data di entrata in vigore delle modifiche.
+
+22.3 <ch2>Nessuna disposizione della clausola 22 limiterà: (a) Il diritto di GPL di aggiornare e modificare di tanto in tanto e senza preavviso le proprie norme o di aggiungere nuove funzioni, che potranno essere accettate dall'Utente tramite l'utilizzo stesso delle funzioni in questione.</ch2> Tali modifiche potrebbero avere luogo utilizzando una modalità scelta a discrezione di GPL e tale modalità può includere l'invio di una comunicazione via email o la pubblicazione su un sito web di Google;
+
+(b) Il diritto delle parti di modificare i termini della presente clausola 22 se la modifica non è vietata dalla legge e viene accettata da entrambe le parti.
+
+22.4 Le modifiche apportate a un Servizio non Regolamentato possono essere comunicate via email con preavviso di quattordici (14) giorni.
+
+23. Comunicazioni e notifiche
+
+23.1 Tutte le informazioni verranno rese disponibili o fornite all'Utente in modo che siano facilmente accessibili, in una lingua facilmente comprensibile, in un formato chiaro e comprensibile e in inglese, salvo non venga fornita una traduzione per agevolare l'Utente in conformità con la clausola 4 indicata in precedenza.
+
+23.2 Dichiarazioni, notifiche e altre comunicazioni all'Utente potrebbero essere fornite tramite posta ordinaria, email, pubblicazioni sul Sito web di GPL o tramite altri mezzi ragionevoli.
+
+23.3 GPL può comunicare con l'Utente relativamente ai servizi per mezzo di comunicazioni in formato elettronico, ivi compresi: (a) invio di email all'Indirizzo email dell'Utente o (b) pubblicazione di notifiche o comunicazioni sul Sito web di GPL. L'Utente accetta che GPL possa inviargli comunicazioni elettroniche relative a qualsiasi questione attinente all'utilizzo dei servizi da parte dell'Utente, incluso il Contratto (ed eventuali revisioni o rettifiche del Contratto), notifiche o divulgazioni riguardanti i servizi e autorizzazioni di pagamento. Particolari tipi di comunicazioni verranno gestiti nei seguenti modi:
+
+Il Contratto verrà fornito all'Utente al momento della registrazione in formato stampabile;
+Eventuali modifiche al presente Contratto apportate dopo la registrazione saranno comunicate tramite un messaggio email inviato all'Indirizzo email dell'Utente;
+Ad eccezione dei casi in cui il presente Contratto disponga altrimenti, la notifica di recesso dal presente Contratto verrà fornita tramite un messaggio email inviato all'Indirizzo email dell'Utente;
+Le informazioni sulle Transazioni di pagamento e di rimborso saranno rese disponibili nella cronologia transazioni dell'Account online dell'Utente all'interno del Centro Google Payments;
+Le informazioni relative a una sospensione del Servizio saranno rese disponibili nella cronologia transazioni dell'Account online dell'Utente; e
+Le informazioni relative al rifiuto di Transazioni di pagamento e rimborso saranno rese disponibili nella cronologia transazioni dell'Account online dell'Utente.
+23.4 L'Utente è tenuto a conservare copia di tutte le comunicazioni ricevute per via elettronica stampandone una copia cartacea o salvandone una copia in formato elettronico; tutte le informazioni fornite all'Utente in formato elettronico vengono comunicate presupponendo che l'Utente sia in grado di stamparne o di salvarne una copia.
+
+23.5 Qualsiasi notifica a GPL ai sensi del presente Contratto deve essere inviata per raccomandata a: GPL Payment Limited, 5 New Street Square, London EC4A 3TW, United Kingdom, indicando "For the attention of Google Payments Team", fatta eccezione per:
+
+Le notifiche di perdita, furto, utilizzo non autorizzato o violazione di sicurezza, che devono essere inviate non appena possibile al Centro assistenza per l'Acquirente.
+Le Notifiche di recesso dal presente Contratto, che devono essere inviate tramite il Centro assistenza per l'Acquirente.
+Le notifiche in conformità con la clausola 22.2, che devono essere inviate tramite il Centro assistenza per l'Acquirente.
+23.6 L'Utente potrà consultare gratuitamente le proprie transazioni nella cronologia transazioni del suo Account online, che viene aggiornata almeno ogni mese. L'Utente accetta di non ricevere resoconti cartacei. A partire dal 13 luglio 2018, GPL invierà all'Utente, via email, con cadenza mensile e gratuitamente, un link alla sua cronologia transazioni online, a meno che l'Utente non richieda separatamente di non ricevere il resoconto mensile via email e chieda invece che le informazioni relative alle sue transazioni siano rese disponibili soltanto nella cronologia transazioni del suo Account online. Su richiesta dell'Utente, potremmo fornirgli a nostra discrezione comunicazioni, documentazione o informazioni aggiuntive di altro tipo relative alle transazioni ma, in questo caso, potremmo addebitare all'Utente una commissione di gestione ragionevole.
+
+23.7 Qualora GPL avesse necessità di contattare l'Utente in caso di frode sospetta o reale, o di minaccia alla sicurezza, GPL invierà un'email all'indirizzo email primario dell'Utente per sollecitarlo a mettersi in contatto con GPL. Inoltre, GPL potrebbe inviare un'email anche all'indirizzo email secondario dell'Utente, oppure un SMS al numero di telefono dell'Utente, se disponibile.
+
+24. Termini legali generali
+
+24.1 I titoli delle clausole del presente Contratto hanno unicamente lo scopo di facilitarne la consultazione e non influiscono sull'interpretazione o sulla struttura del Contratto.
+
+24.2 Il riferimento a qualsiasi legge o disposizione legislativa include il riferimento a tale legge o a tale disposizione legislativa come di volta in volta modificata, prorogata o nuovamente emanata.
+
+24.3 Se non diversamente disposto in maniera espressa nel Contratto, tutti gli importi indicati nel Contratto sono da intendersi in euro.
+
+24.4 Il Contratto costituisce l'intero accordo legale stipulato tra l'Utente e GPL, disciplina l'utilizzo dei servizi da parte dell'Utente (esclusi gli eventuali servizi forniti da GPL all'Utente con un accordo scritto separato) e sostituisce completamente qualsiasi precedente contratto stipulato tra l'Utente e GPL in relazione ai servizi.
+
+24.5 L'Utente accetta che, qualora GPL non eserciti o faccia valere un diritto o rimedio legale contenuto nel Contratto (o di cui GPL beneficia ai sensi di una legge vigente), ciò non verrà considerato un atto di rinuncia formale dei diritti di GPL e che GPL potrà ancora godere di tali diritti o rimedi.
+
+24.6 Qualora un tribunale avente competenza giuridica in una questione relativa al Contratto decreti che una disposizione del Contratto non è valida, questa verrà rimossa senza alcun effetto sulle altre disposizioni del Contratto. Le rimanenti disposizioni del Contratto continueranno a essere valide e applicabili.
+
+24.7 L'Utente non può attribuire i benefici del Contratto, né subappaltare o trasferire in altro modo nessuno dei propri diritti od obblighi derivanti dal presente Contratto senza il previo consenso scritto di GPL. GPL ha la facoltà di attribuire i benefici, oppure di subappaltare o trasferire in altro modo i suoi diritti e obblighi derivanti dal presente Contratto a un'eventuale terza parte senza preavviso e senza il consenso dell'Utente, fatta eccezione per i casi in cui ciò comporta una modifica dei diritti dell'Utente relativi alle norme sui servizi di pagamento e sulla moneta elettronica contenute nel presente Contratto. In tal caso, GPL invierà all'Utente una notifica in conformità con quanto stabilito nella clausola 22.
+
+24.8 L'Utente riconosce e accetta che ogni membro del gruppo di società di cui GPL è la capogruppo sarà beneficiario terzo del Contratto e che tali altre società avranno il diritto di applicare direttamente, e di fare affidamento su, qualsiasi disposizione del Contratto che conferisca loro un vantaggio o diritti a loro favore. Ad eccezione di tali società, nessun'altra persona o società sarà beneficiaria terza del Contratto.
+
+24.9 <law1>Il Contratto e il rapporto dell'Utente con GPL ai sensi del Contratto saranno regolati dalla legge inglese, fatta eccezione per il fatto che saranno applicabili eventuali diritti aggiuntivi dei consumatori riconosciuti dalla legge italiana.</law1> <j1>L'Utente e GPL concordano di sottoporsi alla giurisdizione dei tribunali italiani per risolvere qualsiasi questione legale derivante dal presente Contratto.</j1> <j3>Nonostante la presente clausola 24.9, l'Utente accetta che GPL sia comunque autorizzata a richiedere misure cautelari (o un tipo equivalente di rimedio legale urgente) in qualsiasi giurisdizione.</j3>
+
+24.10 Ai sensi del Codice Civile italiano, l'Utente dichiara di aver letto attentamente il presente documento e approva specificamente i termini contenuti nelle clausole seguenti:
+
+3. Accettazione del Contratto;
+
+4. Fornitura e lingua del Contratto;
+
+6. Fornitura del Servizio da parte di GPL;
+
+9. Privacy e informazioni personali dell'Utente;
+
+10. Strumento di pagamento;
+
+11. Elaborazione dei pagamenti in Moneta elettronica;
+
+13. Transazioni di pagamento consentite;
+
+18. Nessuna approvazione dei Prodotti;
+
+19. Cessazione del rapporto dell'Utente con GPL;
+
+20. Esclusione di garanzie;
+
+21. Limitazione di responsabilità;
+
+22. Modifiche al Contratto;
+
+23. Comunicazioni e notifiche;
+
+24.7. Divieto di gestione del contratto; e
+
+24.9. Leggi applicabili e tribunale competente.

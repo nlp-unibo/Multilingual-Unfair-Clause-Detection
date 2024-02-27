@@ -1,0 +1,514 @@
+
+
+
+
+Zur Klarstellung: GPL stellt dem Käufer den Dienst (wie in den unten stehenden Nutzungsbedingungen beschrieben) für die Einkäufe des Käufers auf Google-Marktplätzen sowie für wohltätige Spenden an Verkäufer zur Verfügung, bei denen es sich um gemeinnützige Organisationen handelt.
+
+Eine Liste der Google-Marktplätze, die der Dienst unterstützt, finden Sie hier. Google kann die Marktplätze bei Bedarf aktualisieren, doch alle über Marktplätze abgewickelten Transaktionen werden gemäß den unten stehenden Nutzungsbedingungen verarbeitet. Weitere Informationen darüber, ob es sich bei einem bestimmten Produkt um einen Marktplatz handelt oder nicht, finden Sie in den Nutzungsbedingungen des Produkts.
+
+Nutzungsbedingungen
+28. März 2018
+
+Diese Nutzungsbedingungen für Käufer ("Vereinbarung") stellen einen rechtsverbindlichen Vertrag zwischen Google Payment Ltd., einer in England eingetragenen Gesellschaft mit der Handelsregisternummer 05903713 und Sitz in 5 New Street Square, London EC4A 3TW, Vereinigtes Königreich ("GPL"), und Ihnen ("Käufer") dar. Sie können sich über die Hilfe unter https://support.google.com/payments per E-Mail an GPL wenden. GPL ist bei der britischen Aufsichtsbehörde für Finanzdienstleistungen (Financial Conduct Authority – "FCA") als E-Geld-Institut mit der Nummer 900008 zugelassen und unterliegt den entsprechenden Vorschriften. GPL ist eine Tochtergesellschaft von Google International, LLC ("Google").
+
+Diese Nutzungsbedingungen regeln Ihren Zugriff auf und Ihre Nutzung von Google Payments. Die nachfolgend beschriebenen Dienste werden von GPL bereitgestellt. Bitte lesen Sie diese Vereinbarung sorgfältig durch, bevor Sie sie akzeptieren und mit der Anmeldung fortfahren. Auf Ihrem Google Payments-Konto gespeicherte Zahlungsmittel können Ihnen unter der Marke Google Pay angezeigt werden, unterliegen jedoch weiterhin dieser Vereinbarung, wenn sie in Verbindung mit den unten beschriebenen Diensten verwendet werden.
+
+Durch die Zustimmung zu dieser Vereinbarung sichern Sie zu, dass Sie mindestens 18 Jahre alt sind und berechtigt sind, einen rechtlich verpflichtenden Vertrag einzugehen.
+
+Drucken Sie die Vereinbarung für Ihre Unterlagen aus oder speichern Sie sie, bevor Sie fortfahren. Sie können diese Vereinbarung wie in Klausel 3 beschrieben akzeptieren. Die Vereinbarung gilt ab dem Datum Ihrer Zustimmung ("Datum des Inkrafttretens").
+1. Definitionen
+
+Für die in dieser Vereinbarung verwendeten Begriffe gelten die folgenden Definitionen:
+
+"Konto" bezeichnet das E-Geld-Konto, das GPL für Sie führt.
+
+"Vereinbarung" bezeichnet die vorliegenden Nutzungsbedingungen für Käufer.
+
+"AISP" steht für "Account Information Service Provider" und bezeichnet einen Anbieter von Zahlungsdiensten (nicht GPL), der einen Kontoinformationsdienst anbietet. Dieser Dienst ist ein Onlinedienst, der Ihnen konsolidierte Informationen zu einem oder mehreren Ihrer Zahlungskonten – einschließlich Ihres E-Geld-Kontos (Ihres "Kontos") – zur Verfügung stellen kann.
+
+"Werktag" bezeichnet einen Tag, bei dem es sich nicht um einen Samstag, Sonntag oder Feiertag im Vereinigten Königreich handelt.
+
+"Abrechnung über den Mobilfunkanbieter" ist der Prozess, bei dem GPL einen Zahlungsvorgang an den Mobilfunkanbieter sendet, damit dieser über das Konto des Käufers für die Abrechnung mit dem Mobilfunkanbieter abgewickelt wird.
+
+"Mobilfunkanbieter" bezeichnet einen von GPL genehmigten Mobilfunkanbieter, der ein Konto für die Abrechnung über den Mobilfunkanbieter anbietet.
+
+"Konto für die Abrechnung über den Mobilfunkanbieter" bezeichnet das Konto für die regelmäßige – z. B. monatliche – Abrechnung, das der Mobilfunkanbieter, den Sie für den Dienst registrieren, für Sie führt und über das Geldmittel für bestimmte finanzielle Transaktionen bereitgestellt werden.
+
+"Inhalt" bezeichnet Ratschläge, Meinungen, Angebote, Vorschläge, Aussagen, Daten und andere Informationen, die über den Dienst angezeigt, verteilt, gekauft oder bezahlt werden.
+
+"Kunde" ist diejenige natürliche oder juristische Person, die sich im Rahmen des Dienstes als Käufer oder Verkäufer anmeldet.
+
+"Streitfälle" bezeichnet alle Auseinandersetzungen, Rechtsstreitigkeiten, Vergleiche und/oder sonstigen Konflikte zwischen Kunden oder Dritten, die im Zusammenhang mit der Nutzung des Dienstes auftreten, aber kein "Dienststreitfall" sind.
+
+"E-Geld" bezeichnet einen elektronischen Wert, den GPL nach Eingang einer Zahlung von Ihnen ausgibt. E-Geld wird im Computersystem von GPL verwaltet und entspricht einer Forderung Ihrerseits gegenüber GPL, die Sie einlösen können. E-Geld ist kein Guthaben.
+
+"Zahlungsmittel" ist eine Kredit- oder Debitkarte, ein Konto für die Abrechnung über den Mobilfunkanbieter oder ein anderes Zahlungsmittel, das Sie für die Nutzung des Dienstes registrieren. GPL nutzt dieses Zahlungsmittel für die Bereitstellung von Geldmitteln für die Ausgabe von E-Geld über den Dienst, mit dem Zahlungsvorgänge abgewickelt werden und das für sonstige Zwecke verwendet wird.
+
+"Zahlungsvorgang" bezeichnet die Transaktion, durch die GPL (i) die Übertragung eines Kaufbetrags von Ihrem Zahlungsmittel zu GPL initiiert, (ii) einen E-Geld-Betrag in Höhe des Kaufbetrags an Sie ausgibt und (iii) den E-Geld-Betrag von Ihnen an einen Verkäufer überträgt, bei dem Sie ein Produkt kaufen.
+
+"Google" bezieht sich auf Google International, LLC, sowie seine Tochtergesellschaften und verbundenen Unternehmen.
+
+"GPL-Website" bezieht sich auf eine Website von GPL oder einer GPL-Tochtergesellschaft bzw. eines mit GPL verbundenen Unternehmens.
+
+"GPL" und "wir" (mit seinen grammatischen Formen) bezeichnen Google Payment Limited.
+
+"Anmeldedaten" ist der Oberbegriff für die Kombination aus Nutzername und Passwort, die GPL Ihnen für den Zugriff auf Ihr Konto zuweist.
+
+"Zahlungsauftrag" bezeichnet, je nach Kontext, (i) die Anweisung des Verkäufers an GPL zur Ausführung eines von Ihnen autorisierten Zahlungsvorgangs, die gleichzeitig als Mitteilung an GPL über Ihre Autorisierung dient, den Kauf eines E-Geld-Betrags von GPL zu initiieren, der dem Kaufbetrag des Zahlungsvorgangs entspricht, oder (ii) die Anweisung des Verkäufers an GPL zur Ausführung einer Rückerstattung.
+
+"Produkt" bezeichnet alle digitalen oder physischen Waren und Dienstleistungen, die Sie über den Dienst von einem Verkäufer erwerben.
+
+"Kaufbetrag" bezeichnet einen Betrag in Höhe des Produktpreises einschließlich aller gegebenenfalls anfallenden Steuern, Gebühren und Versandkosten.
+
+"Rückerstattung" bezeichnet eine Transaktion, bei der GPL E-Geld vom Verkäufer auf Ihr Konto überträgt und anschließend über die Rückerstattungsfunktion des Dienstes die Übertragung eines entsprechenden Betrags auf Ihr Zahlungsmittel initiiert.
+
+"Verkäufer" bezeichnet jede natürliche oder juristische Person, die den Dienst zum Verkauf von Produkten und zum Erhalt von Kaufbeträgen aus Zahlungsvorgängen nutzt.
+
+"Dienst" bezeichnet den E-Geld-Zahlungsdienst, der von GPL bereitgestellt wird.
+
+"Dienste" bezeichnet alle Dienste, die von GPL im Rahmen dieser Vereinbarung angeboten werden, auch den Dienst.
+
+"Dienststreitfälle" bezeichnet alle Auseinandersetzungen, Beschwerden, Rechtsstreitigkeiten, Vergleiche und/oder sonstigen Konflikte zwischen GPL und Kunden, die allein im Zusammenhang mit einer mutmaßlichen Vertrags- oder Gesetzesverletzung durch GPL und einem damit verbundenen Fehler bei der Erbringung des Dienstes entstehen.
+
+"Tochtergesellschaften und verbundene Unternehmen" bezeichnet alle wirtschaftlich mit Google verbundenen Unternehmen weltweit.
+
+"Nicht regulierter Dienst" bezeichnet einen von GPL zur Verfügung gestellten Dienst, bei dem es sich nicht um einen E-Geld-Zahlungsdienst gemäß Klausel 10.1(c) handelt.
+
+"Sie" (mit seinen grammatischen Formen) und "Käufer" beziehen sich auf eine Person, die die Nutzung des Dienstes beantragt bzw. sich zur Nutzung anmeldet oder den Dienst bereits nutzt, um über einen Zahlungsvorgang ein Produkt zu kaufen.
+
+"Ihre E-Mail-Adresse" ist die von Ihnen bei der Registrierung angegebene E-Mail-Adresse.
+
+
+
+
+
+
+
+
+
+
+
+2. Ihre Beziehung zu GPL
+
+2.1 Ihre Nutzung des Dienstes unterliegt dieser Vereinbarung.
+
+2.2 Sofern nicht anders festgelegt, erwerben Sie bei der Nutzung des Dienstes E-Geld von GPL, mit dem unmittelbar nach dem Erwerb Zahlungen an Verkäufer durchgeführt werden.
+
+2.3 GPL kann gemäß dieser Vereinbarung auch nicht regulierte Dienste bereitstellen.
+
+3. Zustimmung zur Vereinbarung
+
+3.1 Um die in dieser Vereinbarung beschriebenen Dienste nutzen zu können, müssen Sie dieser Vereinbarung zuerst zustimmen. Wenn Sie der Vereinbarung nicht zustimmen, dürfen Sie die Dienste nicht nutzen.
+
+3.2 Die Vereinbarung stellt einen rechtskräftigen Vertrag zwischen Ihnen und GPL in Bezug auf Ihre Nutzung der Dienste dar. Lesen Sie sich die Vereinbarung deshalb bitte unbedingt sorgfältig durch. Durch die Zustimmung erklären Sie sich damit einverstanden, die Dienste gemäß den Bedingungen der Vereinbarung zu nutzen.
+
+3.3 Sie können die Vereinbarung auf mehrere Arten akzeptieren:
+
+    (a) Durch Klicken auf die Schaltfläche zum Akzeptieren der Vereinbarung, sofern GPL eine solche Schaltfläche in der Benutzeroberfläche anbietet.
+
+    (b) Durch die Nutzung der Dienste. In diesem Fall erklären Sie sich bewusst damit einverstanden, dass GPL Ihre Nutzung der Dienste ab diesem Zeitpunkt als Akzeptanz der Vereinbarung ansieht.
+
+3.4 Wenn eine der folgenden Bedingungen vorliegt, dürfen Sie die Dienste weder nutzen noch der Vereinbarung zustimmen:
+
+    (a) Sie haben das gesetzlich vorgeschriebene Mindestalter zum Abschluss eines rechtskräftigen Vertrags mit GPL und zur Nutzung des Zahlungsmittels, das Sie für die Nutzung der Dienste registrieren, noch nicht erreicht.
+
+    (b) Die Nutzung der Dienste ist Ihnen gemäß den Gesetzen der USA oder eines anderen Landes untersagt, einschließlich des Landes, in dem sich Ihr Wohnsitz befindet oder in dem Sie die Dienste nutzen.
+
+4. Bereitstellung und Sprache der Vereinbarung
+
+4.1 Bei der Anmeldung wird Ihnen die Vereinbarung in ausdruckbarer Form zur Verfügung gestellt. Da die Vereinbarung bei Bedarf ergänzt und geändert werden kann, finden Sie die jeweils neueste Fassung der Vereinbarung auf der Website von GPL.
+
+4.2 Während der gesamten Laufzeit der Vereinbarung können Sie die Vereinbarung anfordern. In diesem Fall wird kostenlos ein Link zur Vereinbarung an Ihre E-Mail-Adresse gesendet.
+
+4.3 Die Vereinbarung wird Ihnen in deutscher Sprache bereitgestellt und ist auch auf Englisch verfügbar.
+
+4.4 Bei Widersprüchen zwischen der deutschen und der englischen Version der Vereinbarung hat die deutschsprachige Version Vorrang.
+
+5. Anmeldung für den Dienst
+
+5.1 Um die Dienste nutzen zu können, müssen Sie auf den Webseiten für die Google Payments-Anmeldung alle erforderlichen Informationen zur Verfügung stellen.
+
+5.2 Sie müssen ein gültiges Zahlungsmittel registrieren, das für den Kauf von E-Geld durch den Dienst verwendet werden kann.
+
+5.3 Das Zahlungsmittel muss mit einer Rechnungsadresse in einem Land verknüpft sein, in dem der Dienst verfügbar ist.
+
+5.4 Sie müssen aktuelle, vollständige und genaue Informationen angeben und während der Nutzung der Dienste für die Aktualität und Genauigkeit dieser Informationen sorgen. Als Voraussetzung für die weitere Nutzung der Dienste oder den Beginn der Nutzung eines neuen Dienstes durch Sie oder zur Feststellung, ob Ihnen die Nutzung der Dienste weiterhin gestattet wird, können Sie von GPL aufgefordert werden, zusätzliche Informationen zur Verfügung zu stellen. Sie erklären sich damit einverstanden, entsprechende Informationen wie von GPL in diesem Zusammenhang verlangt zur Verfügung zu stellen, auch solche Informationen, die zur Überprüfung Ihrer Identität oder zur Bestätigung der Echtheit von Zahlungsmitteln erforderlich sind, die Sie für die Nutzung mit GPL registrieren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Bereitstellung des Dienstes durch GPL
+
+6.1 In einigen Fällen erfolgt die Bereitstellung der Dienste ganz oder teilweise durch Tochtergesellschaften und verbundene Unternehmen, die im Namen von GPL handeln. Sie nehmen zur Kenntnis und akzeptieren, dass Tochtergesellschaften und verbundene Unternehmen dazu berechtigt sind, Ihnen die Dienste zur Verfügung zu stellen.
+
+6.2 GPL führt laufend Neuerungen ein, um seinen Nutzern das bestmögliche Angebot zur Verfügung zu stellen. Sie nehmen zur Kenntnis und akzeptieren, dass GPL Ihnen in unregelmäßigen Abständen ohne vorherige Ankündigung einen neuen Dienst zur Verfügung stellen kann. Wir stellen Ihnen die überarbeitete Vereinbarung, die durch die Einführung eines neuen Dienstes erforderlich wird, per E-Mail oder während der Anmeldung über einen Link zur aktualisierten Vereinbarung zur Verfügung. Sie können die überarbeitete Vereinbarung wie in Klausel 3 beschrieben akzeptieren.
+
+6.3 Sie nehmen zur Kenntnis und akzeptieren, dass GPL die in dieser Vereinbarung beschriebene Bereitstellung der Dienste für Sie einstellen kann. Sie können die Nutzung der Dienste jederzeit beenden. Sie müssen GPL nicht darüber informieren, wenn Sie die Nutzung der Dienste einstellen.
+
+6.4 Sie nehmen zur Kenntnis und akzeptieren, dass GPL ohne vorherige Ankündigung allgemeine Verfahren und Beschränkungen in Bezug auf die Nutzung der Dienste einführen darf, insbesondere einzelne oder zusammengefasste Transaktionsbeschränkungen in Bezug auf den Wert oder die Anzahl von Zahlungsvorgängen während eines oder mehrerer Zeiträume.
+
+6.5 GPL darf die Ausführung von Zahlungsvorgängen, Zahlungsaufträgen oder eine sonstige Nutzung der Dienste verweigern, wenn GPL einen nachvollziehbaren Grund zu der Annahme hat, dass es sich um Betrug oder einen Verstoß durch Sie oder den Verkäufer gegen die geltende Vereinbarung oder ein Gesetz handelt. Es kann auch passieren, dass sich Transaktionen verzögern, weil GPL seine Pflichten gemäß den geltenden Gesetzen zur Bekämpfung von Geldwäsche erfüllen muss. Verzögerungen können zudem dann eintreten, wenn seitens GPL der Verdacht besteht, dass es sich bei der jeweiligen Transaktion um Betrug handelt. Wenn GPL die Ausführung eines Zahlungsvorgangs, eines Zahlungsauftrags oder eine andere Nutzung der Dienste verweigert, wird Ihnen dies mitgeteilt, sofern GPL durch eine solche Mitteilung nicht rechtswidrig handeln oder angemessene Sicherheitsmaßnahmen gefährden würde.
+
+6.6 Sie nehmen zur Kenntnis und akzeptieren, dass Sie bei einer Deaktivierung des Zugriffs auf Ihr Konto seitens GPL durch Deaktivierung Ihrer Anmeldedaten daran gehindert werden können, auf den Dienst, Ihre Kontodetails oder jedwede Dateien bzw. sonstige Inhalte in Ihrem Konto zuzugreifen.
+
+7. Nutzung des Dienstes durch Sie
+
+7.1 Sie erklären sich damit einverstanden, die Dienste ausschließlich wie folgt zu nutzen:
+
+    (a) In Übereinstimmung mit der Vereinbarung
+
+    (b) In Übereinstimmung mit Richtlinien und Beschränkungen für die Dienste, wie sie von GPL oder einem verbundenen Unternehmen in unregelmäßigen Abständen veröffentlicht und aktualisiert werden
+
+    (c) In Übereinstimmung mit geltenden Gesetzen, Vorschriften oder sonstigen allgemein anerkannten Verfahren oder Richtlinien in relevanten Rechtsordnungen, darunter jeglichen Gesetzen in Bezug auf die Ausfuhr von Daten oder Software in die USA oder sonstige relevante Länder oder aus den USA oder sonstigen relevanten Ländern
+
+7.2 Sie nehmen zur Kenntnis und akzeptieren ungeachtet der oben genannten Bedingungen, dass Sie für die Anmeldung und Begleichung jeglicher Steuern verantwortlich sind, die sich aus Ihrer Nutzung der Dienste ergeben. Sie verpflichten sich hiermit zur Einhaltung aller geltenden Steuergesetze, einschließlich Anmeldung und Begleichung jeglicher Steuern, die in Verbindung mit Zahlungsvorgängen anfallen.
+
+7.3 Sie erklären sich damit einverstanden, mit keinen anderen Mitteln als der von GPL bereitgestellten Benutzeroberfläche auf die Dienste zuzugreifen und keine entsprechenden Versuche zu unternehmen, es sei denn, dies wurde Ihnen in einer gesonderten Vereinbarung ausdrücklich von GPL gestattet. Sie nehmen zur Kenntnis, dass diese Beschränkung für jegliche automatisierte Nutzung der Dienste gilt. Dies wirkt sich nicht auf Ihr Recht aus, AISP-Dienste zu nutzen.
+
+7.4 Sie erklären, keine Aktivitäten zu unternehmen, durch die die Dienste oder die mit diesen Diensten verknüpften Server und Netzwerke beeinträchtigt oder unterbrochen werden.
+
+7.5 Sie erklären, die Dienste zu keinem Zweck zu reproduzieren, zu duplizieren, zu kopieren, zu verkaufen, einzutauschen oder weiterzuverkaufen, sofern Sie nicht durch eine separate Vereinbarung mit GPL die Berechtigung dazu erhalten haben.
+
+7.6 Sie akzeptieren, dass Sie allein die Verantwortung für eventuelle Verstöße gegen Ihre Verpflichtungen im Rahmen dieser Vereinbarung und für die eventuellen Folgen eines solchen Verstoßes tragen, einschließlich Verlusten oder Schäden, die GPL entstehen, und dass GPL diesbezüglich Ihnen oder Dritten gegenüber in keiner Weise verantwortlich ist.
+
+8. Anmeldedaten und Kontosicherheit
+
+8.1 Sie erklären, die Anmeldedaten, die zu Ihrem Konto gehören, nur in Übereinstimmung mit den Nutzungsbedingungen in dieser Vereinbarung zu verwenden.
+
+8.2 Sie nehmen zur Kenntnis und akzeptieren, dass Sie dafür verantwortlich sind, die Vertraulichkeit der Anmeldedaten für Ihr Konto zu wahren und alle angemessenen Schritte zur Wahrung der Vertraulichkeit dieser Informationen zu unternehmen.
+
+8.3 Sofern Sie die Dienste im Rahmen einer gewerblichen Tätigkeit nutzen, akzeptieren Sie, dass alle Mitarbeiter, Bevollmächtigten, Vertreter und anderen Personen, denen Sie Zugang zu Ihren Anmeldedaten gewähren, damit die ordnungsgemäße Befugnis und Berechtigung erhalten, rechtskräftige Vorgänge im Namen Ihres Unternehmens, Ihrer Partnerschaft oder einer sonstigen juristischen Person durchzuführen.
+
+8.4 Ihre Haftung für die Nutzung des Dienstes wird in Klausel 17 unten beschrieben.
+
+8.5 Sie müssen GPL unverzüglich über die Käuferhilfe-Seite "Probleme bei der Anmeldung im Google-Konto" benachrichtigen, wenn Sie bemerken, dass Sie Ihre Anmeldedaten verloren haben oder diese gestohlen bzw. widerrechtlich genutzt wurden. Sie müssen GPL darüber hinaus über die Käuferhilfe-Seite "Nicht autorisierte Belastungen melden" informieren, wenn Sie bemerken, dass Ihre Anmeldedaten oder Ihr Konto unbefugt genutzt wurden. Sie erklären sich damit einverstanden, GPL unverzüglich und auf dieselbe Art und Weise über jegliche Sicherheitsverstöße in Bezug auf den Dienst zu benachrichtigen, die Ihnen bekannt werden.
+
+8.6 Falls Sie glauben, dass auf unberechtigte Weise auf Ihr Konto zugegriffen oder dieses unbefugt genutzt wurde, lesen Sie bitte den Abschnitt Missbrauch melden. Weitere Informationen dazu, wie GPL Sie vor Betrug schützt, finden Sie unter Häufig gestellte Fragen.
+
+8.7 Um eine Rückerstattung für unbefugte oder falsch ausgeführte Zahlungsvorgänge zu erhalten, müssen Sie GPL über die Käuferhilfe ohne unangemessene Verzögerung und spätestens dreizehn (13) Monate nach dem Abbuchungsdatum benachrichtigen, wenn Sie unbefugte oder falsch verarbeitete Zahlungsvorgänge feststellen (siehe auch Klausel 17). Das Abbuchungsdatum ist das Datum, an dem Ihr Zahlungsmittel mit dem entsprechenden Betrag belastet wurde.
+
+8.8 GPL ist berechtigt, die Verwendung Ihrer Anmeldedaten und Ihres Kontos auszusetzen, wenn eine Sicherheitsgefährdung vermutet wird oder wenn unbefugte bzw. betrügerische Aktivitäten festgestellt werden.
+
+8.9 GPL informiert Sie vor oder, wenn dies nicht möglich ist, unmittelbar nach der Aussetzung Ihrer Anmeldedaten oder Ihres Kontos über die Aussetzung und teilt Ihnen die Gründe für diese Aussetzung mit, es sei denn, die Bereitstellung dieser Informationen würde angemessene Sicherheitsmaßnahmen beeinträchtigen oder anderweitig gegen geltende Gesetze verstoßen. Sobald die Gründe für die Aussetzung nicht mehr existieren, wird GPL Ihre Anmeldedaten oder Ihr Konto so schnell wie möglich reaktivieren oder Ihnen neue aktive Anmeldedaten oder ein neues aktives Konto zur Verfügung stellen.
+9. Datenschutz und Ihre personenbezogenen Daten
+
+9.1 In der Datenschutzerklärung von Google wird erläutert, wie wir mit personenbezogenen Daten umgehen, wenn Sie Produkte und Dienste von Google nutzen. Darüber hinaus wird in den Datenschutzhinweisen von GPL unter https://payments.google.com/files/privacy.html beschrieben, wie GPL bei der Nutzung der Dienste durch Sie mit Ihren personenbezogenen Daten umgeht und Ihre Privatsphäre schützt. Sie können eine PDF-Version der GPL-Datenschutzhinweise über die Hilfe anfordern: https://support.google.com/payments.
+
+9.2 Sie erklären sich einverstanden, dass Ihre Daten gemäß der in Klausel 9.1 genannten Datenschutzerklärung und -hinweise verwendet werden.
+
+9.3 Identitätsüberprüfung des Käufers, Bestimmungen zur Bekämpfung von Geldwäsche
+
+    (a) Der Käufer nimmt zur Kenntnis, dass GPL dem Käufer die Dienste jetzt und in Zukunft unter der Voraussetzung anbietet, dass der Käufer alle Sorgfalts- und Identitätsüberprüfungen von GPL zufriedenstellend absolviert und weder gegen die Bedingungen von GPL und Kreditkartengesellschaften noch gegen Bestimmungen zur Bekämpfung von Geldwäsche verstößt. Identitätsüberprüfungen können Kreditauskünfte, gesetzlich vorgesehene Kontrollen bezüglich Geldwäsche, von den Kreditkartengesellschaften verlangte und andere vorgeschriebene Überprüfungen umfassen. Der Käufer kooperiert in dem von GPL verlangten Ausmaß bei der Durchführung dieser Kontrollen sowie bei der Überprüfung der Einhaltung der Bestimmungen zur Bekämpfung von Geldwäsche. Dies schließt die Bereitstellung zusätzlicher Anmelde- oder Identitätsüberprüfungsinformationen in dem Maße ein, wie es von GPL verlangt wird.
+
+    (b) Der Käufer willigt ein, dass GPL zum Zweck von Sorgfalts- und Identitätsüberprüfungen Informationen über den Käufer an Dritte innerhalb und außerhalb des Europäischen Wirtschaftsraums weitergeben und von Dritten innerhalb und außerhalb des Europäischen Wirtschaftsraums beziehen darf, soweit dies gesetzlich zulässig ist. Dazu gehören auch personenbezogene Daten, wie sie in der relevanten Gesetzgebung zum Datenschutz definiert sind. Außerdem gewährt der Käufer diesen Dritten das Recht, die auf solche Weise bezogenen Daten aufzubewahren.
+
+    (c) Verstöße gegen die in dieser Klausel 9.3 enthaltenen Bedingungen, insbesondere gegen die von GPL verlangte Bereitstellung von Informationen zur Identitätsüberprüfung oder zur Überprüfung der Einhaltung der Bestimmungen zur Bekämpfung von Geldwäsche, können zur sofortigen Aussetzung der Nutzung der Dienste durch den Käufer und außerdem zur Beendigung dieser Vereinbarung führen.
+
+10. Zahlungsmittel
+
+10.1 Sie erklären sich damit einverstanden, dass GPL die Angaben zu Ihrem Zahlungsmittel für folgende Zwecke nutzt:
+
+    (a) Belastung Ihres Zahlungsmittels mit einem Betrag, der der Höhe des Kaufbetrags einschließlich eventueller Gebühren, Steuern oder Versandkosten (sofern zutreffend) entspricht
+
+    (b) Abwicklung aller Zahlungen, die erforderlich sind, um Ihnen alle sonstigen Gebühren in Rechnung zu stellen, die aus Ihrer Nutzung des Dienstes entstehen
+
+    (c) Auf Anfrage Ihrerseits die Weitergabe des Zahlungsmittels an einen Dritten, damit dieser Dritte Ihnen die Kosten für gelieferte Waren oder erbrachte Dienstleistungen in Rechnung stellen kann. Es handelt sich hierbei um einen nicht regulierten Dienst, der Ihnen von GPL bereitgestellt wird. In diesen Fällen ist GPL nach der Weitergabe der Angaben zum Zahlungsmittel an den Dritten nicht mehr an Ihrer Transaktion mit dem Dritten beteiligt. Bei dieser Transaktion handelt es sich nicht um einen Zahlungsvorgang. Bei Problemen im Zusammenhang mit Drittanbietertransaktionen, insbesondere im Zusammenhang mit Rückerstattungen und Streitfällen, müssen Sie sich direkt an den Drittanbieter oder an den Anbieter Ihres Zahlungsmittels (z. B. den Anbieter Ihrer Kredit- oder Debitkarte) wenden.
+
+10.2 Sie autorisieren GPL, beim ausgebenden Finanzinstitut oder dem Mobilfunkanbieter zu prüfen, ob Ihr Zahlungsmittel über ausreichend Guthaben verfügt und unter Ihrer Kontrolle steht. Dies kann zum Beispiel durch die Anforderung einer Zahlungsautorisierung und/oder die Gutschrift und/oder Abbuchung eines niedrigen Betrags auf das/von dem Zahlungsmittel in Übereinstimmung mit den Regeln der relevanten Kreditkartenvereinigung geschehen.
+
+10.3 Sie autorisieren GPL, eine Bankauskunft einzuholen und/oder auf andere Weise Anfragen zur Kreditwürdigkeit zu stellen oder andere Hintergrundinformationen anzufordern, wenn GPL dies für angemessen hält, um Ihre Anmeldung für die Dienste oder deren weitere Nutzung zu prüfen.
+
+
+11. Abwicklung von E-Geld-Zahlungen, Abrechnung über den Mobilfunkanbieter, Abonnements/wiederkehrende Transaktionskäufe
+
+
+
+
+
+11.1 GPL erklärt sich bereit, Ihnen den Dienst zur Ermöglichung von Zahlungsvorgängen zur Verfügung zu stellen.
+
+11.2 Sie müssen die Ausführung von Zahlungsvorgängen durch Bestätigen autorisieren. Sie erklären sich damit einverstanden, dass Sie durch die Nutzung des Dienstes für den Kauf von Produkten von einem Verkäufer Ihre Zustimmung zur Ausführung des Zahlungsvorgangs geben. Ferner akzeptieren Sie, dass der autorisierte Zahlungsvorgang nach Ihrer Zustimmung nicht mehr widerrufen werden kann. Sie akzeptieren außerdem, dass Verkäufer die Verarbeitung der Bestellung eines Produkts aus beliebigem Grund verweigern können und dass GPL nicht verpflichtet ist, einen Zahlungsvorgang auszuführen, solange der Verkäufer keinen Zahlungsauftrag gemäß Klausel 11.4 an GPL gesendet hat.
+
+11.3 GPL speichert aufgrund Ihrer Nutzung des Dienstes von Ihnen zur Verfügung gestellte Informationen wie Angaben zum Zahlungsmittel und Versandinformationen und verarbeitet Zahlungsvorgänge und Rückerstattungen über das jeweilige Kredit- und Debitkartennetzwerk, das Netzwerk des Mobilfunkanbieters oder das Netzwerk der Bank.
+
+11.4 Nachdem Sie die Ausführung eines Zahlungsvorgangs autorisiert haben, darf der Verkäufer in Übereinstimmung mit den GPL-Richtlinien den Zahlungsauftrag bei GPL einreichen. Nach Erhalt des Zahlungsauftrags vom Verkäufer initiiert GPL die Übertragung des Kaufbetrags von Ihrem Zahlungsmittel an GPL. GPL stellt Ihnen spätestens dann, wenn GPL einen entsprechenden gültigen Betrag von Ihrem Zahlungsmittel erhält, einen E-Geld-Betrag aus, der dem Kaufbetrag entspricht. Anschließend sendet GPL den angewiesenen Betrag umgehend an den Verkäufer. GPL ist nicht verantwortlich für und hat keine Kontrolle über den Zeitpunkt, zu dem GPL die Geldmittel von Ihrem Zahlungsmittel erhält. Sie werden im Transaktionsverlauf Ihres Kontos informiert, sobald der Verkäufer den Zahlungsauftrag bei GPL eingereicht hat.
+
+
+
+11.5 Zahlungsvorgänge können, wie in Klausel 6.5 erläutert, abgelehnt werden oder sich verzögern.
+
+11.6 Sie autorisieren hiermit GPL oder einen von GPL ausgewählten Dritten ausdrücklich zu Folgendem:
+
+    (a) Zur erforderlichen Belastung Ihres Zahlungsmittels zum Kauf von E-Geld, um die Verarbeitung eines Zahlungsvorgangs abzuschließen
+
+    (b) Zur Gutschrift solcher Beträge auf Ihrem Zahlungsmittel, die aus der Stornierung von Zahlungsvorgängen, Rückerstattungen oder Korrekturen von Kaufbeträgen durch den Dienst resultieren
+
+11.7 Sie verstehen und akzeptieren Folgendes:
+
+    (a) Der Verkauf von Produkten durch den Verkäufer ist eine Transaktion zwischen dem Verkäufer und Ihnen, also keine Transaktion mit GPL, Google oder einem verbundenen Unternehmen, es sei denn, GPL, Google oder ein verbundenes Unternehmen wird ausdrücklich als Verkäufer oder Käufer der Transaktion genannt.
+
+    (b) Bei einem Zahlungsvorgang ist weder GPL noch Google oder ein verbundenes Unternehmen Käufer, Verkäufer oder Vertragspartei, es sei denn, dies ist ausdrücklich im Produkteintrag auf einer Google-Website oder in den Nutzungsbedingungen angegeben.
+
+    (c) Ein Verkäufer und GPL, das im Auftrag des Verkäufers handelt, können einen Zahlungsvorgang für einen Produktkauf zur einmaligen oder wiederholten Bearbeitung noch einmal an das Zahlungsnetzwerk senden, wenn ein vorheriger Zahlungsvorgang vom Zahlungsnetzwerk abgelehnt oder zurückgegeben wird.
+
+11.8 E-Geld und somit der Dienst unterliegen weder dem Financial Services Compensation Scheme noch irgendeinem öffentlichen oder privaten Versicherungssystem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.9 Abrechnung über den Mobilfunkanbieter. 
+
+Bestimmte Verkäufer, die Google Payments akzeptieren, bieten Ihnen eventuell die Möglichkeit, Käufe über Ihr Konto für die Abrechnung über den Mobilfunkanbieter abzurechnen. Wenn Sie die Abrechnung über einen Mobilfunkanbieter per Google Payments nutzen, gelten die folgenden zusätzlichen Bedingungen:
+
+    (a) Damit Sie Ihr Konto für die Abrechnung über den Mobilfunkanbieter als Zahlungsoption registrieren können, benötigt Google Payments Ihre Mobiltelefonnummer sowie den Namen und die Rechnungsadresse (einschließlich Postleitzahl) des Kontos für die Abrechnung über den Mobilfunkanbieter, dem diese Nummer zugeordnet ist. Sie willigen ein, dass Ihr Mobilfunkanbieter diese Informationen an Google Payments sendet. Sie können diese Angaben bei der Anmeldung für die Abrechnung über den Mobilfunkanbieter überprüfen und bei Bedarf korrigieren. Diese Informationen werden von Google Payments genutzt, um Ihr Konto für die Abrechnung über den Mobilfunkanbieter als Zahlungsmittel in Ihrem Google Payments-Konto einzurichten und um den Dienst durchzuführen. Sie akzeptieren außerdem, dass GPL und Ihr Mobilfunkanbieter Informationen zu Ihrer Abrechnungsaktivität austauschen können, um Ihr Konto für die Abrechnung über den Mobilfunkanbieter zu belasten bzw. um diesem Konto Beträge gutzuschreiben und um anderweitig Zahlungen für Käufe, Stornierungen, Rückerstattungen oder Korrekturen für Zahlungsvorgänge durchzuführen, Streitfälle zu klären und Kundenservice bereitzustellen und um andere Aktivitäten im Zusammenhang mit der Abrechnung über den Mobilfunkanbieter zu ermöglichen.
+
+    (b) Wenn Sie sich beim Bezahlen bei einer Transaktion für die Abrechnung über den Mobilfunkanbieter entscheiden, berechtigen Sie den Verkäufer und GPL, Belastungen und Gutschriften an Ihren Mobilfunkanbieter zu senden, und Sie berechtigen Ihren Mobilfunkanbieter, solche Belastungen und Gutschriften bei Bedarf auf Ihrem Konto für die Abrechnung über den Mobilfunkanbieter zu verbuchen, um den Zahlungsvorgang bzw. die Stornierung, Rückerstattung oder Korrektur dieses Zahlungsvorgangs durchzuführen. Die Zahlungsforderung bei solchen Transaktionen wird fällig, sobald Sie sich zum Kauf verpflichten.
+
+    (c) Die Abrechnung über den Mobilfunkanbieter können Sie nur nutzen, um von bestimmten Händlern bei Google Play Anwendungen, wie herunterladbare Anwendungen, Netzwerkanwendungen, Hintergrundbilder, Klingeltöne, Spiele oder Produktivitätstools ("Apps"), für und über Ihr kompatibles Gerät zu erwerben. Diese Apps werden nicht von Ihrem Mobilfunkanbieter, Google, GPL oder Google Play verkauft. Der Verkäufer wird beim Kauf der App ausgewiesen.
+
+    (d) Bei Käufen per Abrechnung über den Mobilfunkanbieter gelten außerdem die Nutzungsbedingungen Ihres Kontos für die Abrechnung über den Mobilfunkanbieter. Sie sind für alle Gebühren verantwortlich, die Ihnen gemäß den Nutzungsbedingungen Ihres Kontos für die Abrechnung über den Mobilfunkanbieter im Rahmen der Nutzung der Abrechnung über den Mobilfunkanbieter entstehen.
+
+    (e) Bei Fragen zu Gebühren im Zusammenhang mit Ihrem Konto für die Abrechnung über den Mobilfunkanbieter wenden Sie sich bitte an den Kundenservice Ihres Mobilfunkanbieters. Bei Fragen zu Google Payments können Sie den Google Payments-Kundenservice kontaktieren. Fragen zu Produkten, zum Beispiel zu Android-Apps, deren Kauf über den Mobilfunkanbieter abgerechnet wurde, sind an den Verkäufer der App zu richten.
+
+    (f) Für Produkte, einschließlich Apps, die per Abrechnung über den Mobilfunkanbieter gekauft werden, ist weder der Mobilfunkanbieter noch Google, GPL oder Google Play verantwortlich. Dies gilt auch für Fehler, Unterbrechungen oder Verzögerungen beim Download oder bei der Installation, Nutzung und Übertragung sowie für Rückerstattungen, Anzeigen von Dritten im Produkt oder in der App, Änderungen der Funktionsweise Ihres Geräts durch die App (zum Beispiel Änderungen, die sich auf den Tarif, den Dienst oder die Abrechnung Ihres Mobilfunkanbieters auswirken) und für Inhalte oder Websites, auf die Sie über die App zugreifen können.
+
+11.10 Abonnementkäufe/wiederkehrende Transaktionskäufe:
+
+    (a) Falls der Dienst Ihnen die Möglichkeit bietet, Abonnements zu bezahlen, beginnt Ihr Abonnement, sobald Sie im Rahmen des Kaufs eines Abonnements auf "Akzeptieren & kaufen" oder eine ähnliche Schaltfläche geklickt haben. Hierbei handelt es sich um eine wiederkehrende Abrechnungstransaktion und Ihr Konto wird in regelmäßigen Abständen automatisch belastet. Soweit nicht anders angegeben, sind Ihr Abonnement und die zugehörige Abrechnungsautorisierung so lange gültig, bis sie von Ihnen gekündigt bzw. widerrufen werden.
+
+    (b) Durch Klicken auf "Akzeptieren & kaufen" oder eine ähnliche Schaltfläche autorisieren Sie den jeweiligen Verkäufer, für jeden angegebenen Abrechnungszeitraum des Abonnements einen Zahlungsauftrag für einen Zahlungsvorgang über Ihr ausgewähltes Zahlungsmittel in Höhe des Kaufbetrags zu erteilen. Sie autorisieren den jeweiligen Verkäufer darüber hinaus, das alternative Zahlungsmittel mit dem Kaufbetrag zu belasten, falls der Verkäufer aus irgendeinem Grund Ihr angegebenes Zahlungsmittel nicht belasten kann und Sie in Ihrem Google Payments-Konto ein alternatives Zahlungsmittel ausgewählt haben.
+
+    Sofern in den Nutzungsbedingungen nichts anderes angegeben ist, wird Ihr ausgewähltes Zahlungsmittel oder alternatives Zahlungsmittel (falls vorhanden) nach Ende jedes Abrechnungszeitraums so lange immer wieder mit dem Kaufbetrag belastet, bis Sie Ihr Abonnement kündigen. Der Kaufbetrag kann während der Abonnementlaufzeit vom Verkäufer geändert werden.
+
+    (c) Ihr Zahlungsmittel wird mit dem Kaufbetrag für jeden Abrechnungszeitraum gemäß Datum des Abonnementkaufs belastet.
+
+    (d) Sie können ein Abonnement jederzeit wie hier beschrieben kündigen. Die Kündigung wird jedoch erst nach dem Ende des laufenden Abrechnungszeitraums wirksam. Für den laufenden Abrechnungszeitraum erhalten Sie keine Rückerstattung. Sie können das jeweilige Abonnement so lange nutzen, bis der aktuelle Abrechnungszeitraum abgelaufen ist.
+
+    (e) Wir behalten uns das Recht vor, Rückerstattungen oder Guthaben nach eigenem Ermessen auszuzahlen. Durch die Auszahlung einer Rückerstattung oder eines Guthabens verpflichten wir uns nicht, zukünftig die gleiche oder eine ähnliche Rückerstattung auszuzahlen.
+
+    (f) Sie haben unter folgenden Voraussetzungen ein Recht auf die Rückerstattung eines autorisierten Zahlungsvorgangs im Rahmen eines Abonnements: (i) Sie fordern die Rückerstattung innerhalb von acht (8) Wochen nach dem Abbuchungsdatum des Zahlungsvorgangs an; (ii) zum Zeitpunkt der Autorisierung des Zahlungsvorgangs durch Sie war im Kaufauftrag der Kaufbetrag nicht angegeben; (iii) der abgebuchte Kaufbetrag übersteigt den Betrag, den Sie nach billigem Ermessen auf Basis Ihrer vorherigen Ausgabenstruktur, dieser Vereinbarung und den Umständen in diesem Fall einkalkulieren konnten. GPL kann von Ihnen zusätzliche Informationen anfordern, die zur Untersuchung des Rückerstattungsantrags angemessen erforderlich sind. Eine Rückerstattung oder eine Begründung für die Ablehnung einer Rückerstattung erfolgt innerhalb von zehn (10) Werktagen nach dem Rückerstattungsantrag oder, wenn GPL zusätzliche Informationen bei Ihnen angefordert hat, innerhalb von zehn (10) Werktagen nach Erhalt der Informationen.
+
+12. Entfällt
+
+13. Zulässige Zahlungsvorgänge
+
+13.1 Sie dürfen diesen Dienst ausschließlich zur Abwicklung eines Zahlungsvorgangs für Produkte nutzen, die Sie durch einen rechtmäßigen und gutgläubigen (bona fide) Kauf von einem Verkäufer erwerben, oder für die Abwicklung von Spenden, wenn der Verkäufer seinen primären Produkttyp als "gemeinnützig" bezeichnet und durch GPL als registrierte und zertifizierte Non-Profit-Organisation bestätigt ist. Der Dienst darf nicht zum Abwickeln eines Zahlungsvorgangs oder zur sonstigen Übertragung von E-Geld oder Geldwerten an den Verkäufer verwendet werden, wenn kein Zusammenhang mit dem Kauf eines Produkts besteht. Der Dienst darf auch nicht für gemeinnützige Spenden an einen Verkäufer genutzt werden, sofern dieser seinen primären Produkttyp nicht als "gemeinnützig" bezeichnet oder nicht von GPL als registrierte und zertifizierte Non-Profit-Organisation bestätigt ist.
+
+13.2 Der Dienst darf nicht verwendet werden, um Barvorschüsse von Verkäufern zu erhalten oder um Barwerte wie Reiseschecks, Prepaid-Karten oder Zahlungsanweisungen zu kaufen. Der Dienst darf nicht für Folgendes verwendet werden:
+
+    (a) Abwicklung von Zahlungsvorgängen in Verbindung mit dem Verkauf oder Austausch von Waren oder Dienstleistungen, deren Verkauf oder Kauf in dem Land, in dem Sie ansässig sind oder in dem Sie auf diesen Dienst zugreifen, gesetzeswidrig ist
+
+    (b) Abwicklung von Zahlungsvorgängen in Verbindung mit dem Verkauf oder Austausch von Waren oder Dienstleistungen, deren Verkauf oder Kauf in dem Land, in dem der Verkäufer ansässig ist oder aus dem er auf den Dienst zugreift, gesetzeswidrig ist
+
+    (c) Nutzung des Dienstes in Verbindung mit einer anderen zugrunde liegenden Transaktion, die gesetzeswidrig ist
+
+13.3 Sie erklären sich damit einverstanden, den Dienst nicht für die Abwicklung von Zahlungsvorgängen im Zusammenhang mit Produkten zu verwenden, die gegen die Vereinbarung, sonstige für den Dienst geltende Richtlinien oder Regeln, die in unregelmäßigen Abständen aktualisiert werden können, oder geltende Gesetze verstoßen. Die aktuelle Richtlinie, in der die Produkte und sonstigen Transaktionen festgelegt sind, die nicht über den Dienst bezahlt werden dürfen, finden Sie hier. Das Nichtbefolgen dieser Einschränkungen kann dazu führen, dass Ihnen die Nutzung des Dienstes vorübergehend oder dauerhaft verweigert wird.
+
+
+
+14. Servicegebühren, Fremdwährungen, Zinsen
+
+14.1 GPL stellt Ihnen keine Gebühren für die Nutzung des Dienstes in Rechnung. Es ist allerdings möglich, dass Ihnen für die Nutzung des Dienstes Steuern oder Gebühren von Dritten auferlegt werden. Sie nehmen zum Beispiel zur Kenntnis und akzeptieren, dass das Finanzinstitut oder der Mobilfunkanbieter, das oder der Ihr Zahlungsmittel ausstellt, Ihnen in Verbindung mit der Belastung Ihres Zahlungsmittels bzw. der Gutschrift eines Betrags auf Ihrem Zahlungsmittel aufgrund des Zahlungsvorgangs eine Gebühr in Rechnung stellen kann. Weitere Informationen zu entsprechenden Gebühren finden Sie in den Nutzungsbedingungen für Ihr Zahlungsmittel.
+
+14.2 GPL führt im Rahmen des Dienstes keinen Währungsumtausch durch.
+
+14.3 GPL stellt Ihnen für die Nutzung des Dienstes keine Zinsen in Rechnung.
+
+15. Streitfälle und Dienststreitfälle
+
+15.1 GPL stellt verschiedene Möglichkeiten zur Kommunikation mit Verkäufern zur Verfügung, um Streitfälle zu klären, die sich im Zusammenhang mit einer über den Dienst verarbeiteten Transaktion ergeben können. Wenn Sie nicht in der Lage sind, einen Streitfall zu klären, kann GPL bei einem Streitfall zwischen Ihnen und einem Verkäufer als Vermittler auftreten, falls eine der Parteien entsprechende Hilfe anfordert. In diesem Fall untersucht GPL den Streitfall und schlägt gegebenenfalls eine unverbindliche Lösung vor. Weitere Informationen hierzu finden Sie in unseren häufig gestellten Fragen.
+
+15.2 GPL kann im Rahmen des Dienstes ein Feedback- oder anderes Rankingsystem anbieten, das Sie bei der Bewertung des Dienstes unterstützt. Ihnen ist bekannt, dass ein solches Feedback- oder Rankingsystem lediglich die Meinung anderer Nutzer des Dienstes wiedergibt und keine Meinung, Zusicherung oder Gewährleistung seitens GPL im Hinblick auf andere Nutzer des Dienstes darstellt.
+
+15.3 Bei allen Streitfällen oder Forderungen – einschließlich Dienststreitfällen –, die im Rahmen der Vereinbarung oder als Folge der Bereitstellung des Dienstes durch GPL entstehen, sollten Sie sich in erster Instanz über die Käuferhilfe an den Kundenservice von GPL wenden. Weitere Informationen zu den internen Beschwerdeverfahren finden Sie hier. Sie können sich mit Beschwerden, die nicht zu Ihrer Zufriedenheit gelöst wurden, in deutscher Sprache an den Financial Ombudsman Service wenden. Dies kann per Post erfolgen: Financial Ombudsman Service, Exchange Tower, London E14 9SR, Großbritannien; per Telefon: +44 800 023 4567 oder +44 300 123 9123; über die Website: http://www.financial-ombudsman.org.uk; und per E-Mail: complaint.info@financial-ombudsman.org.uk oder auf Deutsch über: http://www.financial-ombudsman.org.uk/help/german/Ihre_Beschwerde_und_der_Ombudsmann.htm.
+
+Wenn Sie Beschwerden haben, die nicht zu Ihrer Zufriedenheit gelöst wurden, und mit dem Financial Ombudsman Service Kontakt aufnehmen möchten, können Sie dazu auch die Plattform der Europäischen Kommission zur Online-Streitbeilegung verwenden: https://ec.europa.eu/consumers/odr/main/?event=main.adr.show.
+
+15.4 Alternative Beilegung von Streitfällen für Verbraucher
+
+GPL ist weder von sich aus noch anderweitig zur Beilegung von Streitfällen vor einem Gremium zur alternativen Streitbeilegung verpflichtet. Eine Ausnahme stellt die Verpflichtung von GPL dar, gemäß Klausel 15.3 Dienststreitfälle vor dem Financial Ombudsman Service beizulegen.
+
+16. Rückerstattungen und Rücktausch
+
+16.1 Da Sie E-Geld über den Dienst erwerben und umgehend für den Kauf von Produkten ausgeben, ist kein Rücktausch dieses E-Gelds möglich. Bei Rückerstattungen durch einen Verkäufer oder GPL wird das E-Geld zurückgetauscht und der entsprechende Betrag Ihrem Zahlungsmittel gutgeschrieben.
+
+16.2 Falls sich nach Beendigung der Vereinbarung noch E-Geld auf Ihrem Konto befindet, tauscht GPL den vollständigen Betrag des E-Gelds ohne Verzögerung zurück und überweist den Betrag auf das von Ihnen angegebene Bankkonto, sobald vorgeschriebene Prüfungen zur Bekämpfung von Geldwäsche, Betrug und anderen illegalen Aktivitäten abgeschlossen wurden.
+
+16.3 Falls der ausstehende E-Geld-Betrag nicht gemäß Klausel 16.2 zurückgetauscht werden kann, haben Sie nach der Beendigung der Vereinbarung sechs (6) Jahre Zeit, den vollständigen Rücktausch des ausstehenden Betrags anzufordern. Nach Ablauf dieses Zeitraums geht jegliches E-Geld in Ihrem Konto in das Eigentum von GPL über. Zum Zwecke der Klausel 16.3 endet die Vereinbarung, wenn Sie Ihr E-Geld nicht mehr zum Durchführen von Zahlungsvorgängen nutzen können, etwa wenn Ihr Konto gemäß den Bestimmungen der Vereinbarung gesperrt wird. Wenn Ihr Recht zur Verwendung Ihres E-Geldes innerhalb von sechs (6) Jahren wiederhergestellt wird, tritt die Beendigung der Vereinbarung nicht ein. GPL kann in eigenem Ermessen Ihr Konto und jegliche damit verbundene E-Geld-Beträge nach Verstreichen der 6-jährigen Frist wiederherstellen. Der Rücktausch gemäß dieser Klausel 16.3 unterliegt dem Vorbehalt des Abschlusses entsprechender Prüfungen zur Bekämpfung von Geldwäsche, Betrug und sonstigen gesetzeswidrigen Aktivitäten. Sie erklären sich damit einverstanden, die von GPL im Rahmen der Durchführung dieser Prüfung angeforderten Informationen bereitzustellen.
+
+16.4 Klausel 16.3 enthält keinerlei Bestimmung, die das Recht von GPL auf Kündigung der Vereinbarung gemäß Klausel 19.4 und/oder auf Rücktausch gemäß Klausel 16.2 in irgendeiner Weise einschränkt.
+
+17. Ihre Haftung
+
+17.1 Im Fall eines nicht autorisierten oder fehlerhaft durchgeführten Zahlungsvorgangs haben Sie nur dann einen Anspruch auf Entschädigung gemäß Klausel 17, wenn Sie GPL unverzüglich nach Kenntnisnahme der entsprechenden Transaktion und unter keinen Umständen später als dreizehn (13) Monate nach dem Abbuchungsdatum des Betrags informieren. Das Abbuchungsdatum ist das Datum, an dem Ihr Zahlungsmittel mit dem entsprechenden Betrag belastet wurde. Dieses Zeitlimit gilt jedoch nicht, wenn GPL die relevanten Transaktionsdaten nicht wie gesetzlich vorgesehen bereitgestellt hat (z. B. im Transaktionsverlauf Ihres Onlinekontos).
+
+17.2 Sollten Sie Anspruch auf eine Entschädigung aufgrund eines nicht autorisierten Zahlungsvorgangs haben, erstattet GPL den Betrag aus nicht autorisierten Zahlungsvorgängen so schnell wie möglich und in jedem Fall spätestens am Ende des Werktags, an dem GPL von einer solchen Transaktion Kenntnis erlangt, und versetzt Ihr Konto gegebenenfalls in den Zustand, in dem es sich befinden würde, wenn der nicht autorisierte Zahlungsvorgang nicht stattgefunden hätte. Dies bedeutet in der Praxis, dass Ihrem Konto ein mit dem Wert des Zahlungsvorgangs identischer E-Geld-Betrag gutgeschrieben wird. Anschließend wird dieser rückgetauscht und sofort wieder Ihrem Zahlungsmittel gutgeschrieben. Wenn GPL einen nachvollziehbaren Grund zu der Annahme hat, dass es sich bei Ihrer Forderung in Bezug auf eine nicht autorisierte Transaktion um Betrug handelt, führt GPL zuerst eine Untersuchung durch, bevor eine Entscheidung über die Rückerstattung getroffen wird, und teilt Ihnen das Ergebnis der Untersuchung so schnell wie möglich mit.
+
+17.3 Wenn GPL einen Zahlungsvorgang fehlerhaft ausgeführt hat, erstattet GPL den Betrag aus diesem fehlerhaft ausgeführten Zahlungsvorgang umgehend und versetzt Ihr Konto gegebenenfalls in den Zustand, in dem es sich befinden würde, wenn der fehlerhaft ausgeführte Zahlungsvorgang nicht stattgefunden hätte. Auf Anforderung Ihrerseits verfolgt GPL umgehend fehlerhaft ausgeführte Zahlungsvorgänge nach und informiert Sie über das Ergebnis.
+
+17.4 Wenn Sie im Zusammenhang mit Ihrem Konto betrügerisch gehandelt oder absichtlich bzw. aufgrund grober Fahrlässigkeit gegen die Vereinbarung verstoßen haben, haften Sie für alle Verluste, die wegen nicht autorisierter Transaktionen entstanden sind; und wenn in einem solchen Fall bereits eine Rückerstattung erfolgt ist, hat GPL das Recht, Ihr Konto mit dem Betrag der Rückerstattung zu belasten. GPL kann vor oder nach einer Rückerstattung für eine nicht autorisierte Transaktion eine Untersuchung einleiten.
+
+18. Keine Befürwortung von Produkten
+
+18.1 GPL trifft keinerlei Aussagen und übernimmt keinerlei Verantwortung folgende Punkte betreffend: (a) Sicherheit, Qualität, Genauigkeit, Zuverlässigkeit, Integrität oder Rechtmäßigkeit von Produkten sowie Richtigkeit oder Genauigkeit der Beschreibung von Produkten oder von Inhalten, die über den Dienst angezeigt, vertrieben, verkauft oder bezahlt werden; (b) Ihre Fähigkeit, Produkte zu kaufen, oder die Fähigkeit von Verkäufern, Produkte an Sie zu liefern.
+
+18.2 GPL behält sich das Recht vor, ist jedoch nicht dafür verantwortlich, Inhalte vollständig oder teilweise zu bearbeiten, zu ändern, zu entfernen oder deren Veröffentlichung zu verweigern, die GPL nach alleinigem Ermessen als unzulässig, fehlerhaft, rechtswidrig, betrügerisch oder in sonstiger Weise als die Vereinbarung verletzend erachtet.
+
+19. Beenden Ihrer Beziehung zu GPL
+
+19.1 Die Vereinbarung gilt, bis Sie oder GPL diese wie nachfolgend erläutert beenden.
+
+19.2 Wenn Sie Ihre rechtskräftige Vereinbarung mit GPL beenden möchten, können Sie dies jederzeit und ohne zusätzliche Kosten wie folgt tun:
+
+    (a) Sie benachrichtigen GPL in Übereinstimmung mit Klausel 23.5. unten und
+
+    (b) Sie schließen Ihr Konto für den Dienst.
+
+Ihr Recht zum Beenden der Vereinbarung unter dieser Klausel 19.2 beinhaltet auch Ihr gesetzliches Widerrufsrecht unter anwendbarem Recht gemäß Richtlinie 2002/65/EG.
+
+19.3 GPL hat das Recht, seine rechtskräftige Vereinbarung mit Ihnen jederzeit fristlos zu beenden, wenn einer der folgenden Fälle eintritt: (a) Sie haben gegen eine wesentliche Regelung der Vereinbarung verstoßen oder durch Ihr Handeln klar gezeigt, dass Sie nicht vorhaben oder nicht in der Lage sind, die wesentlichen Regelungen der Vereinbarung einzuhalten; (b) GPL ist gesetzlich zu diesem Schritt verpflichtet, etwa wenn die Bereitstellung des Dienstes für Sie gesetzeswidrig ist oder wird.
+
+19.4 Sofern in dieser Vereinbarung keine kürzere gesetzlich zulässige Frist angegeben wird, ist GPL berechtigt, die Vereinbarung jederzeit mit einer Kündigungsfrist von zwei (2) Monaten zu beenden.
+
+19.5 Bei Beendigung dieser Vereinbarung bleiben alle Rechte, Pflichten und Haftungsansprüche, die für Sie und GPL galten oder die während der Dauer der Gültigkeit der Vereinbarung entstanden sind oder für die eine unbestimmte Gültigkeit angegeben ist, von der Beendigung unberührt. Für solche Rechte, Pflichten und Haftungsansprüche gelten weiterhin unbegrenzt die Bestimmungen aus Klausel 24.6.
+
+20. Gewährleistungsausschluss
+
+20.1 GPL, seine Tochtergesellschaften und verbundenen Unternehmen sowie deren Lizenzgeber geben keine ausdrücklichen Gewährleistungen oder Zusicherungen im Hinblick auf die Bereitstellung der Dienste ab.
+
+20.2 GPL, seine Tochtergesellschaften und verbundenen Unternehmen sowie deren Lizenzgeber geben insbesondere im Hinblick auf Folgendes keine Gewährleistungen und Zusicherungen ab:
+
+    (a) Die Nutzung der Dienste wird Ihren Anforderungen gerecht.
+
+    (b) Sie können die Dienste ohne Unterbrechungen, fristgerecht, sicher und fehlerfrei nutzen.
+
+    (c) Die aus Ihrer Nutzung der Dienste resultierenden Informationen sind genau und zuverlässig.
+
+20.3 Die Bedingungen, Gewährleistungen und Bestimmungen, auch die stillschweigend vereinbarten Bestimmungen in Bezug auf zufriedenstellende Qualität, Eignung für einen bestimmten Zweck und Übereinstimmung mit der Beschreibung, gelten für die Dienste ausschließlich in dem in der Vereinbarung ausdrücklich festgelegten Rahmen.
+
+20.4 Keine Bedingung dieser Vereinbarung wirkt sich auf die gesetzlichen Rechte aus, die Ihnen als Verbraucher grundsätzlich zustehen und die durch einen Vertrag weder ausgeschlossen noch eingeschränkt werden können.
+
+21. Haftungsbegrenzung
+
+21.1 Durch keine Bestimmung der Vereinbarung wird die gesetzlich geregelte Verlusthaftung durch GPL in rechtswidriger Weise ausgeschlossen oder eingeschränkt. Insbesondere wird durch keine Bestimmung der Vereinbarung die Haftung von GPL für Folgendes ausgeschlossen oder eingeschränkt:
+
+    (a) Tod oder Personenschäden, die aus der Fahrlässigkeit einer der Parteien oder ihrer Erfüllungsgehilfen, Vertreter oder Mitarbeiter resultieren
+
+    (b) Betrug oder arglistige Täuschung;
+
+    (c) Verstoß gegen eine stillschweigende Bedingung in Bezug auf Rechtsansprüche oder ungestörten Besitz und/oder
+
+    (d) Missbrauch vertraulicher Informationen.
+
+21.2 Abgesehen von der unter Klausel 21.1 oben beschriebenen Verlusthaftung können GPL sowie seine Tochtergesellschaften und verbundenen Unternehmen (und deren Lizenzgeber) von Ihnen nicht für Folgendes haftbar gemacht werden:
+
+    (a) Ihnen entstandene indirekte Verluste und Folgekosten. Dies schließt entgangenen Gewinn (ob direkt oder indirekt entstanden), den Verlust von Firmenwert oder geschäftlicher Reputation sowie den Verlust von Daten ein.
+
+    (b) Ihnen aus den folgenden Gründen entstandene Verluste oder Schäden: (i) Jegliches von Ihnen in die Vollständigkeit, die Genauigkeit oder das Vorhandensein von Werbung gesetzte Vertrauen sowie jegliches Vertrauen Ihrerseits, das auf einer Beziehung oder Transaktion zwischen Ihnen und einem Werbetreibenden oder Sponsor basiert, dessen Werbung auf der GPL-Website erscheint; (ii) Änderungen von GPL an den Diensten sowie die dauerhafte oder vorübergehende Einstellung von Diensten oder von Funktionen der Dienste; (iii) Fehlfunktionen der Dienste; (iv) Löschen, Beschädigen oder unterlassene Speichern von Mitteilungsdaten, die im Zusammenhang mit Ihrer Nutzung des Dienstes gepflegt oder übertragen wurden; (v) Unterlassung der Bereitstellung genauer Kontodaten für GPL durch Sie; (vi) Betrügerische Nutzung der Dienste Ihrerseits.
+
+21.3 GPL erstattet jedoch jegliche Gebühren oder Zinsen, die Ihnen entstehen, weil GPL einen Zahlungsvorgang fehlerhaft oder überhaupt nicht durchgeführt hat.
+
+22. Änderungen an der Vereinbarung
+
+22.1 Sie gewähren GPL das Recht, bei Bedarf Änderungen an der Vereinbarung vorzunehmen. GPL informiert Sie über solche Änderungen zwei (2) Monate im Voraus, es sei denn, eine kürzere gesetzlich zulässige Frist ist in dieser Vereinbarung festgelegt. Dazu wird vor dem geplanten Zeitpunkt des Inkrafttretens der Änderungen eine E-Mail an Ihre E-Mail-Adresse gesendet.
+
+22.2 Sie nehmen zur Kenntnis und stimmen zu, dass die Änderungen als von Ihnen angenommen gelten, sofern Sie GPL nicht gemäß Klausel 23.5 vor dem geplanten Zeitpunkt des Inkrafttretens der Änderungen über das Gegenteil unterrichten. In diesem Fall wird die Vereinbarung unverzüglich und vor dem Zeitpunkt des Inkrafttretens der Änderungen kostenlos beendet. Außerdem haben Sie das Recht, die Vereinbarung jederzeit vor dem Datum des Inkrafttretens der Änderungen umgehend zu beenden, ohne dass Ihnen dafür Gebühren in Rechnung gestellt werden.
+
+22.3 Klausel 22 bedeutet in keiner Weise eine Einschränkung: (a) des Rechts von GPL, bei Bedarf ohne vorherige Ankündigung seine Richtlinien zu aktualisieren und zu überarbeiten oder neue Funktionen hinzuzufügen, die Sie durch die Nutzung annehmen, wobei die Auswahl der für diese Überarbeitungen verwendeten Methode, wie E-Mail-Mitteilungen oder Veröffentlichungen auf einer Google-Website, im Ermessen von GPL liegt, oder; (b) des Rechts der Parteien, die Bestimmungen dieser Klausel 22 zu ändern, wenn die Änderung nicht gegen das Gesetz verstößt und beide Parteien der Änderung zustimmen.
+
+22.4 Für die Bekanntgabe von Änderungen an einem nicht regulierten Dienst gilt eine Ankündigungsfrist von vierzehn (14) Tagen. Änderungen können per E-Mail bekannt gegeben werden.
+
+23. Mitteilungen und andere Kommunikation
+
+23.1 Alle Informationen werden Ihnen auf leicht zugängliche Weise verfügbar gemacht und sind in leicht begreiflicher Sprache mit klaren und verständlichen Formulierungen auf Deutsch und/oder Englisch verfasst.
+
+23.2 Mitteilungen, Hinweise und andere Informationen können auf dem Postweg, per E-Mail, im Rahmen von Veröffentlichungen auf der Website von GPL oder auf einem anderen angemessenen Weg kommuniziert werden.
+
+23.3 GPL kann im Zusammenhang mit den Diensten mithilfe elektronischer Mitteilungen mit Ihnen kommunizieren, entweder (a) per E-Mails an Ihre E-Mail-Adresse oder (b) über auf der GPL-Website veröffentlichte Benachrichtigungen oder Mitteilungen. Sie erklären sich damit einverstanden, dass Sie von GPL elektronische Mitteilungen im Zusammenhang mit Ihrer Nutzung der Dienste erhalten, die sich u. a. auf die Vereinbarung sowie auf Überarbeitungen und Anpassungen der Vereinbarung und auf Benachrichtigungen oder Bekanntmachungen im Hinblick auf die Dienste und Zahlungsautorisierungen beziehen können. Die einzelnen Mitteilungen werden dabei wie folgt gehandhabt:
+
+    Die Vereinbarung wird Ihnen bei der Anmeldung in einem ausdruckbaren Format bereitgestellt.
+    Nachträgliche Änderungen dieser Vereinbarung werden an Ihre E-Mail-Adresse gesendet.
+    Sofern in dieser Vereinbarung nicht anders geregelt, erhalten Sie die Benachrichtigung über die Kündigung der Vereinbarung in Form einer an Ihre E-Mail-Adresse gesendeten E-Mail.
+    Mitteilungen zu Zahlungsvorgängen und Rückerstattungen werden im Google-Zahlungscenter im Transaktionsverlauf Ihres Onlinekontos zur Verfügung gestellt.
+    Mitteilungen über die Aussetzung des Dienstes werden im Transaktionsverlauf Ihres Onlinekontos zur Verfügung gestellt.
+    Informationen zur Ablehnung von Zahlungsvorgängen und Rückerstattungen werden Ihnen im Transaktionsverlauf Ihres Onlinekontos zur Verfügung gestellt.
+
+23.4 Sie sind verpflichtet, Kopien elektronischer Mitteilungen aufzubewahren, indem Sie ein Exemplar ausdrucken oder eine elektronische Kopie speichern. Die Zustellung von Informationen in elektronischer Form erfolgt unter der Annahme, dass Sie in der Lage sind, diese auszudrucken oder zu speichern.
+
+23.5 Alle Mitteilungen an GPL im Rahmen dieser Vereinbarung sind mit dem Empfänger "Google Payments Team" per Einschreiben an folgende Adresse zu senden: Google Payment Limited, 5 New Street Square, London EC4A 3TW, Großbritannien. Es gelten folgende Ausnahmen:
+
+    Benachrichtigungen über Verlust, Diebstahl, unbefugte Nutzung oder Sicherheitsverstöße sind umgehend über die Käuferhilfe zu senden.
+    Benachrichtigungen über die Kündigung dieser Vereinbarung sind über die Käuferhilfe zu senden.
+    Benachrichtigungen gemäß Klausel 22.2 sind über die Käuferhilfe zu senden.
+
+23.6 Sie können Ihre Transaktionen kostenlos einsehen, indem Sie den Transaktionsverlauf in Ihrem Onlinekonto aufrufen. Dieser wird mindestens einmal pro Monat aktualisiert. Sie erklären sich damit einverstanden, dass Sie keine gedruckten Auszüge erhalten. Ab dem 13. Juli 2018 erhalten Sie von GPL per E-Mail monatlich und kostenlos einen Link zu Ihrem Onlinetransaktionsverlauf, es sei denn, Sie haben GPL separat mitgeteilt, dass Sie keine monatlichen Auszüge per E-Mail erhalten und Ihre Transaktionen nur im Transaktionsverlauf Ihres Onlinekontos abrufen möchten. Wir können Ihnen in eigenem Ermessen auf Anfrage zusätzliche Auszüge zu Ihren Transaktionen auf Papier oder auf sonstige Weise zur Verfügung stellen, wobei wir jedoch berechtigt sind, eine angemessene Verwaltungsgebühr in Rechnung zu stellen.
+
+23.7 Wenn GPL Sie im Falle eines mutmaßlichen oder tatsächlichen Betrugs oder im Falle von Sicherheitsbedrohungen kontaktieren muss, sendet GPL eine E-Mail an Ihre primäre E-Mail-Adresse, in der Sie aufgefordert werden, GPL zu kontaktieren. Darüber hinaus kann GPL eine E-Mail an Ihre sekundäre E-Mail-Adresse oder eine SMS an Ihre Telefonnummer senden, sofern diese zur Verfügung gestellt wurden.
+
+24. Allgemeine rechtliche Bestimmungen
+
+24.1 Die Überschriften in dieser Vereinbarung dienen lediglich der einfachen Bezugnahme, sind jedoch für Auslegung oder Deutung der Vereinbarung von keinerlei Bedeutung.
+
+24.2 Verweise auf Gesetze oder Rechtsnormen beziehen sich auf die jeweils aktuelle Fassung unter Berücksichtigung der zwischenzeitlich erfolgten Änderungen, Ergänzungen oder Novellierungen.
+
+24.3 Sofern in dieser Vereinbarung nicht anders festgelegt, gelten alle hier genannten Beträge als in Euro angegeben.
+
+24.4 Die Vereinbarung stellt die gesamte Rechtsvereinbarung zwischen Ihnen und GPL dar und regelt Ihre Nutzung der Dienste. Hierzu zählen keine Dienste, die Ihnen von GPL möglicherweise basierend auf einer separaten schriftlichen Vereinbarung zur Verfügung gestellt werden. Die Vereinbarung ersetzt vollständig alle anderen vorherigen Vereinbarungen im Zusammenhang mit den Diensten zwischen Ihnen und GPL.
+
+24.5 Sie akzeptieren, dass eine Nichtausübung oder -durchsetzung der Rechte oder Rechtsmittel, die sich aus dieser Vereinbarung oder aus dem geltenden Recht für GPL ergeben, nicht als formeller Verzicht auf diese Rechte durch GPL gilt und dass GPL weiterhin über diese Rechte und Rechtsmittel verfügt.
+
+24.6 Wird von einem zuständigen Gericht die Ungültigkeit einer Bestimmung dieser Vereinbarung festgestellt, wird diese Bestimmung ohne Beeinträchtigung der restlichen Bestimmungen aus der Vereinbarung entfernt. Die verbleibenden Klauseln der Vereinbarung bleiben gültig und durchsetzbar.
+
+24.7 Es ist Ihnen nicht gestattet, ohne vorherige schriftliche Genehmigung durch GPL Ihre Leistungen, Rechte oder Pflichten aus der Vereinbarung im Rahmen eines Nebenvertrags oder in sonstiger Weise auf Dritte zu übertragen. GPL ist berechtigt, seine Leistungen, Rechte und Pflichten aus der Vereinbarung auf einen Drittanbieter zu übertragen, ohne Sie zu benachrichtigen oder Ihre Zustimmung einzuholen, es sei denn, dies führt zu einer Änderung Ihrer Rechte in Bezug auf Zahlungsdienste und E-Geld-Bestimmungen im Rahmen dieser Vereinbarung. In diesem Fall benachrichtigt GPL Sie gemäß Klausel 22.
+
+24.8 Sie nehmen zur Kenntnis und akzeptieren, dass jedes Mitglied der zu GPL gehörenden Unternehmensgruppe Drittbegünstigter der Vereinbarung ist und dass jedes dieser Unternehmen jede Klausel, die ihm eine Leistung oder Rechte zuspricht, direkt durchsetzen und geltend machen kann. Darüber hinaus ist weder eine andere Person noch ein anderes Unternehmen Drittbegünstigter der Vereinbarung.
+
+24.9 Die Vereinbarung und Ihre Beziehung zu GPL im Rahmen der Vereinbarung unterliegen deutschem Recht. Sie und GPL erkennen an, dass für Rechtsangelegenheiten im Hinblick auf die Vereinbarung die Gerichte Deutschlands zuständig sind. Ungeachtet dieser Klausel 24.9 stimmen Sie zu, dass GPL berechtigt ist, Unterlassungsansprüche oder entsprechende Rechtsmittel auch in anderen Rechtsordnungen geltend zu machen.

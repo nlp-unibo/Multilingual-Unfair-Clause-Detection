@@ -1,0 +1,10 @@
+Yahoo.txt
+Quora.txt
+WhatsApp.txt
+WorldOfWarcraft.txt
+Grindr.txt
+Zynga.txt
+Twitch.txt
+Terravision.txt
+Klarna.txt
+Spotify.txt

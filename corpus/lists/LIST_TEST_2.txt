@@ -1,0 +1,10 @@
+Revolut.txt
+Mysugr.txt
+Rovio.txt
+Electronic_Arts.txt
+Facebook.txt
+Google.txt
+Skyscanner.txt
+Zoom.txt
+Pinterest.txt
+Endomondo.txt

@@ -1,0 +1,292 @@
+Visa Solution Terms of Service
+IMPORTANT: PLEASE CAREFULLY READ THE FOLLOWING VISA SOLUTION TERMS OF SERVICE ("TERMS").
+BY REGISTERING FOR VISA SOLUTION OR ACTIVATING A CARD FOR VISA SOLUTION, YOU AGREE TO UNDERSTAND AND ACCEPT ALL OF THESE TERMS.
+THESE TERMS REPLACE ANY TERMS AND CONDITIONS RELATING TO VISA SOLUTION.
+1.
+The Visa Solution
+Visa Solution is operated by Visa U.
+S.
+A.
+Inc. (“
+Visa”).
+Visa's contact details can be found in the Contact section below.
+As used in these Terms and Conditions, the term "Visa Solution" shall mean: all Visa Click to Pay and / or Visa Checkout features, options and services available now or added in the future, under the Visa Click to Pay, Visa Checkout brand or other name and regardless of whether they will be accessed through the Visa Solution website or through a mobile website operating as a domain or subdomain ("Website") or through an application or function offered by a card issuing bank or payment institution, merchant or other third party (collectively "Services "); logos, artwork, text, images, video clips, graphics, software, and other content and materials from Visa or Visa's licensors available through Visa Solution, as well as their selection and arrangement (collectively, "Content"); and Visa hardware, software and networks relating to providing you with the Visa Solution (collectively, the "Visa Solution System").
+Visa Solution offers you (i) the ability to store payment account information and other related information, such as email address, mobile number, billing and shipping address ("Card Details") for Visa credit, debit and prepaid cards with the ability to reload Visa and other cards or payment methods that Visa determines are eligible for use under the Visa Solution ("Eligible Cards"); and (ii) the ability to use the Visa Solution as a method of sharing Card Data to process transactions with merchants or other third parties that display the Click to Pay icon and accept Visa solutions or display the Visa Checkout mark.
+Visa may automatically update certain Card Details, such as the card number and expiration date, as provided by the financial institution or other entity that issued the Eligible Card (the "Issuer").
+Your Issuer may provide additional information regarding your Eligible Card, such as point availability, installment options, and other benefits associated with your Eligible Card.
+In such event, we will present this information to you on the Visa Solution as received from the Eligible Card Issuer.
+If you have any questions about this information, please contact your Publisher.
+Where applicable, Visa will process your information to determine if you are eligible for these options or benefits and display them, if any.
+When you use Visa Solution, we transmit your Card Data to the merchant or other appropriate third party to enable them to process your transaction.
+Visa may generate a numeric substitute for the payment account number to which an Eligible Visa Card (token) is assigned to protect your Eligible Card.
+You agree that the merchant or other relevant third party may send transaction information to the relevant network in connection with your Eligible Card, and that the transaction will be paid for using an Eligible Card of your choice.
+You acknowledge that Card Data stored or shared through the Visa Solution is provided directly by you or, in certain jurisdictions, on your behalf by the Issuer, merchant or third party, and that it contains private financial information.
+You may only use Eligible Cards in connection with the Visa Solution if the Card Issuer considers you to be the cardholder or authorized user and your name is embossed on the Eligible Card.
+You acknowledge and agree that you are responsible for the completeness and accuracy of your Card Data as well as other information stored on the Visa Solution or provided as part of your use of the Visa Solution.
+The user may only use valid e-mail addresses and phone numbers owned and controlled by the user.
+While Visa may perform certain verification checks on Visa Card Data, Visa is not responsible for the accuracy of your Card Data or any other information you provide, including whether your card details are up to date.
+The Visa Solution is not a bank or payment account and does not offer any user or merchant deposit.
+Any transaction made through the Visa Solution will be reflected in the account associated with the Eligible Card used to complete the transaction.
+Payments made from this account are a matter solely between you and the Issuer of the Eligible Card.
+2.
+Important Notice Regarding User Transactions
+ALTHOUGH VISA SOLUTION ASSISTS THE FULFILLMENT OF THE TRANSACTION, VISA IS NOT A PARTY IN THE TRANSACTION, AND THE PAYMENT TO THE SELLER OR MADE BY THE SELLER IN CONNECTION WITH THE USE OF VISA SOLUTION, INCLUDING PURCHASE OR RETURN SERVICE.
+IF YOU WANT TO REFUND OR CANCEL A TRANSACTION MADE USING VISA SOLUTION, YOU WILL HAVE TO CONTACT THE COMPETENT SELLER AND / OR THE QUALIFIED AUTHORIZED BY.
+PLEASE NOTE THAT VISA IS NOT A PARTY TO THE TRANSACTION AND THEREFORE IT CANNOT SOLVE ANY PROBLEMS THAT YOU MAY ENCOUNTER IN CONNECTION WITH THE TRANSACTION.
+IN THE EVENT OF A DISPUTE WITH THE SELLER ABOUT A TRANSACTION MADE USING VISA SOLUTION, YOU SHALL BE SOLELY RESPONSIBLE TO RESOLVE THE DISPUTE DIRECTLY WITH THE SELLER OR THROUGH YOUR INTERMEDIATE.
+DUE TO THE WAY OF OPERATING VISA SOLUTION, VISA IS NOT A PARTY TO THE TRANSACTION.
+3.
+Terms of Service
+Visa Solution may not be available for all Eligible cards.
+In addition, Visa may, at its own risk, remove Eligible Cards from the Visa Solution or prevent Eligible Cards from being activated in the Visa Solution; Visa may also review the eligibility of specific or general credit, debit, or reloadable prepaid cards and other cards or payment methods that constitute Eligible Cards at any time.
+4.
+Eligibility
+The Visa Solution service is only available to people who:
+(i) are residents of one of the following jurisdictions: Saudi Arabia, Australia, Austria, Brazil, Chile, China (Mainland and Hong Kong), Czech Republic, Denmark, Finland, France, Spain, India, Ireland, Canada, Qatar, Colombia, Kuwait, Malaysia, Mexico, Germany, Norway, New Zealand, Peru, Poland, Dominican Republic, South Africa, Singapore, Slovakia, United States (including their territories), Switzerland, Sweden, Ukraine, Hungary, United Kingdom, Italy or United Arab Emirates in as far as they are available in your jurisdiction ("Eligible Jurisdictions");
+(ii) are of the legal age of majority in their jurisdiction, province or territory of residence;
+(iii) have access to the Internet through a computer or other device; and
+(iv) are a cardholder or authorized user of one or more Eligible Cards and have a good reputation for account related to Eligible Cards.
+Access to the Visa Solution from any location where it is illegal or otherwise restricted is prohibited.
+If you change your jurisdiction of residence, you must immediately deregister from the Visa Solution and re-register with the new jurisdiction if it is an Eligible Jurisdiction.
+If your new residence is not an Eligible Jurisdiction, you may only re-register while Visa Solution is available at your new residence.
+5.
+Registration and security
+If you choose to register or activate an Eligible Card for Visa Solution, you agree to provide us with true, accurate, current and complete information about yourself and to update that information in the event of changes.
+To the maximum extent permitted by applicable law, you acknowledge and agree that Visa will not be liable in any way in connection with your failure to maintain accurate information provided to Visa, including your failure to receive important information and updates about the Visa Solution.
+If Visa reasonably suspects that any information you provide to us is false, inaccurate or incomplete, Visa may suspend or cancel your registration or use of the Visa Solution and not allow you to use the Visa Solution now or in the future (or from any part of it).
+As part of registration, you are required to create a username, and in some markets, you may also be required to create a password.
+These data elements are designed to authenticate the user when using the Visa Solution.
+If you are asked to create a password, for your own security, you should choose a password that will be unique to Visa Solution and remember your username and password without storing the password on your personal computer, tablet, mobile device or other device used to access Visa Solution.
+It is your responsibility to protect the confidentiality of your username and password or passwords, if any.
+In addition, if you enable the permanent login feature or link the Visa Solution to your digital wallet on one or more devices, you are responsible for protecting the security of these devices and controlling access to them.
+This is important as we are not responsible for any loss you incur as a result of any unauthorized use of your Eligible Card and, depending on the circumstances, your Card Issuer may hold you responsible for any unauthorized use of your Eligible Card account.
+You agree to notify Visa of any unauthorized use of your username, password, or an Eligible Card with Visa Solution, and any event where a device or one of the devices on which the persistent login feature has been enabled or the Visa Solution Service has been connected to a digital wallet, has been lost, stolen, or has otherwise become the object of unauthorized access or other actual or potential security risk related to the use of the Visa Solution.
+Visa reserves the right to remove or terminate Eligible Cards from the Visa Solution and / or, if you have a password, the right to require you to change your password if Visa determines that your password is no longer secure.
+You are responsible for the use of your Eligible Cards in connection with the Visa Solution service and for ensuring that your use and access to the Visa Solution comply with these Terms.
+You acknowledge that Visa may send one-time access codes to your email address and / or your mobile phone to verify your identity while you are using Visa Solution.
+We regularly review security measures for the Visa Solution.
+However, we cannot guarantee that the information you transmit over the internet will be completely secure.
+6.
+Cardholder contracts
+These Terms do not correct or otherwise modify any agreement with your Card Issuer with respect to an Eligible Card ("Cardholder Agreements").
+In the event of any inconsistency between these Terms and your User Agreement, these Terms will only govern your relationship with Visa with respect to Visa Solution, and your Cardmember Agreement with your Card Issuer will govern your relationship with your Card Issuer.
+It is your responsibility to ensure that your use of the Visa Solution complies with any Cardholder Agreement.
+7.
+Fees, Commissions and Taxes
+You are solely responsible for obtaining all hardware, devices, software, wireless and Internet access, other items required to access Visa Solution, and for all related fees, costs and other expenses.
+You may incur charges for sending SMS or data transmission.
+You are also solely responsible for paying any interest, commissions, fees or costs to the Issuer of any Eligible Cards you use in connection with the Visa Solution, as well as all taxes and compliance with tax filing obligations in connection with your use of the Visa Solution. Visa Solution.
+8.
+Privacy
+Visa processes your personal data to the extent necessary to provide you with the Visa Solution (as set out in these Terms of Use) and for the related purposes described in Visa's Global Privacy Notice ("Privacy Policy").
+For more information on how Visa and its affiliates collect, protect and share the personal information of users using the Visa Solution, and for any privacy choices that you may have, please see the Visa Global Privacy Notice .
+If you use other services operated by your Publisher, reseller or any other third party (including those whose services are accessed through the Visa Solution), separate privacy policies may apply.
+In order to improve the user service in the use of Visa Solution, this service uses the Google autofill function.
+To the extent that Google processes your personal data, it does so in accordance with its own terms of use and privacy policy.
+You are responsible for ensuring that the personal information associated with your account remains accurate and up to date.
+9.
+Property rights
+All proprietary rights in relation to Visa Solution, including Content, belong to Visa, its Affiliates and their licensors, and are protected by applicable copyright, trademark and other proprietary (including intellectual property) laws and international treaties.
+All rights not expressly granted to you under these Terms remain with Visa, its Affiliates and their licensors.
+Nothing in these Terms grants you any right to use Visa, its Affiliates or third party trademarks, service marks, logos or other marks of origin. "
+Affiliate "means an entity that is controlled by, or is under the control of, or is controlled by Visa.
+10.
+Granting a license
+Visa grants you a limited, revocable, non-exclusive, non-sublicensable, non-transferable license to use the Visa Solution in a manner consistent with these Terms for as long as you remain a registered user of the Visa Solution.
+Visa may, in its sole discretion, suspend, terminate or terminate this license at any time for any reason.
+Any rights not expressly granted to you are reserved by Visa, its Affiliates, or their licensors.
+11.
+Feedback
+If you provide feedback or suggestions about Visa Solution, we may use such feedback and suggestions without any obligation to you.
+12.
+User Conduct
+You agree to comply with all applicable laws, rules and regulations as well as other legal requirements related to your use of the Visa Solution.
+In addition, you undertake:
+use the Visa Solution service only in a manner permitted by law;
+not to use Visa Solution in breach of these Terms;
+not to disturb or disrupt the security or operation of, or otherwise misuse the Visa Solution or any part of the Visa Solution;
+not to attempt to gain unauthorized access to the Visa Solution or parts of the Visa Solution that are excluded from general access;
+not to use Visa Solution in any way that could be considered fraudulent and / or defamatory, abusive, vulgar, hateful, harassing, obscene, blasphemous, threatening, invading someone else's privacy or infringing any third party rights;
+not to reproduce Visa Solution in any form, store or incorporate Visa Solution into any information retrieval system, electronic, mechanical or otherwise;
+not copy, imitate, clone, rent, lease, sell, commercially exploit, modify, decompile, disassemble, distribute, disassemble or transfer the Visa Solution or any part thereof;
+not to use any device, software or method to interfere with or attempt to interfere with the proper operation of the Visa Solution, and not to take any action that constitutes an unreasonable or disproportionate burden on the Visa Solution System, at Visa's sole discretion; and
+comply with any other requirements, restrictions or limits imposed from time to time by Visa or by your card issuer.
+13.
+Warranty Disclaimer and Limitation of Liability
+VISA SOLUTION, WHOLE AND PART, INCLUDING ANY SERVICES, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND OF ANY KIND FITNESS FOR A PARTICULAR PURPOSE.
+WE DO NOT WARRANT THAT THE VISA SOLUTION SYSTEM IS FREE OF COMPUTER VIRUSES OR THAT VISA SOLUTION WILL BE ACCESSIBLE WITHOUT INTERFERENCE.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU EXPRESSLY AGREE AND AGREE TO BE SOLELY RESPONSIBLE AND YOU HAVE TO RISK YOURSELF, IF YOU WILL HAVE ANY RISK OF ACTION.
+Under no circumstances and in the event of any actions, including negligence, nor Visa, nor associated entities of the company, and their relevant bodies, directors, customers, members, employees or authorized agents (together called "Visa") will not be responsible for responsibility for ANY DAMAGES, CLAIMS OR LOSSES CAUSED (INCLUDING COMPENSATIVE, INCIDENTAL, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNISHABLE OR EXEMPLARY DAMAGES, EITHER LIABILITIES AND RESPECTING OR THESE TERMS AND CONDITIONS, EVEN IF THE VISA PARTY RECEIVES INFORMATION ABOUT THE POSSIBILITY OF SUCH DAMAGES, CLAIMS OR LOSSES.
+Without limiting the overall nature of the above provisions, Visa is not responsible for the state or any third parties for: (i) the use of you or the inability to use, Visa Solution for any reason, including the refusal of the Publisher of the Publisher TRANSACTIONS BY THE SELLER; (II) ANY GOODS, SERVICES OR INFORMATION PURCHASED OR RECEIVED IN CONNECTION WITH VISA SOLUTION, INCLUDING YOUR FAILURE OR INABILITY TO RECEIVE OR RETURN OF SUCH GOODS, SERVICES OR RETURN; (III) DISPUTES BETWEEN YOU AND THE SELLER; (IV) ANY INACCURACIES, INACCURACIES OR ERRORS IN INFORMATION PROVIDED THROUGH VISA CHECKOUT, INCLUDING INFORMATION PROVIDED BY YOUR ISSUER OR ANOTHER THIRD PARTY; (V) UNAUTHORIZED ACCESS, CHANGES OR LOSS OF USER TRANSMISSION, YOUR DATA OR OTHER INFORMATION DOWNLOADED, STORED OR SENT IN CONNECTION WITH VISA SOLUTION; (VI) ERRORS, SYSTEM FAILURE, NETWORK OR SYSTEM DOWNTIME, FILE BREACH, OR SERVICE OBSTACLES; NOR (VII) ANY OTHER USE BY YOUR VISA SOLUTION.
+In addition, Visa parties will not be responsible in the event of any inability to fulfill any obligations contained in these terms due to (directly or indirectly) failures of any equipment, problems in transmission or delivery, or all employee disputes, war, natural disaster, terrorist activities, explosion, explosion, ACTION OF FORCE MAJEURE OR ANY OTHER EVENT OUTSIDE OUR CONTROL.
+NOTWITHSTANDING OTHERWISE PROVISIONS CONTAINED HEREIN, THE CONCLUSIVE LIABILITY OF THE VISA PARTIES TO YOU, DUE TO ANY CAUSE OR ACTION, WILL ALWAYS BE LIMITED TO THE PURPOSE OF THE PURPOSE. OR (B) $ 100 (OR LOCAL CURRENCY EQUIVALENT).
+CERTAIN JURISDICTIONS DO NOT ALLOW AN EXCLUSION, EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES, LIABILITIES, AND DAMAGES; THEREFORE, SOME OF THE ABOVE WAIVERS, EXCLUSIONS, AND LIMITATIONS MAY NOT APPLY TO YOU.
+IN SUCH JURISDICTIONS, THE VISA PARTIES 'LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+No provisions of these conditions exclude the liability of VISA parties due to death or damage to their health caused by their neglect, (b) fraud, providing false information or (c) any issue in which the exclusion or limitation of the liability of Vis's parties would be unlawful .
+14.
+No endorsement; Disputes with sellers
+Visa does not endorse, sponsor, or is not responsible for: (i) Publishers, payment network operators or digital wallets or other third parties that assist in the payment transition process or that may be used in connection with the Visa Solution; (ii) goods and services purchased in connection with the Visa Solution and completed transactions thereon; (iii) honoring or delivering goods or services purchased in connection with or processed in connection with the Visa Solution; and (iv) resellers with whom transactions may occur or whose goods or services may be purchased in connection with the Visa Solution.
+15.
+Third Party Websites, Content and Resources
+Visa Solution may be accessed through third parties that assist in the execution of transactions (including through their websites, domains or applications) and which may allow users to connect to or directly access such third parties or third party websites, content and resources including their social media.
+You acknowledge that you understand that Visa has no control over the views, opinions and content of any third party or its website, domain, application, content or resources that are provided by companies or persons other than Visa, and that you do not necessarily share them. views.
+You acknowledge and agree that Visa will not be responsible for the availability of any such websites, domains, applications, content or resources.
+Further, you acknowledge that Visa will not be liable to you for any loss or damage you may be exposed to as a result of your use of these third party websites, domains or applications, their content or resources, including any loss or damage related to purchases processed by Visa Solution.
+16.
+Modification of the Visa Solution service and these Terms; Notice
+Visa may, in its sole discretion, terminate, amend, modify, suspend, correct or discontinue any aspect of the Visa Solution, either temporarily or permanently, including the availability of any part of the Visa Solution, at any time, with or without notice to you, and you accept that that Visa will not be liable to it or to any other third party as a result of taking such action.
+Your continued use of the Visa Solution after changes, modifications or corrections have been made to it or any part thereof shall be understood as your acceptance of such changes, modifications and corrections and the application of these Terms to the Visa Solution with such changes, modifications or corrections.
+If you do not agree to any of these Terms, you may not use the Visa Solution.
+Visa reserves the right to modify these Terms at any time on its own responsibility.
+Visa may amend these Terms by publishing a new version with a notice that Visa deems appropriate under the circumstances.
+This may, for example, be a posting on our Website or any other website operated in connection with the provision of the Visa Solution.
+We will always post the most recent version of these Terms on the Website.
+The date of the last modification will be noted as "Date Last Updated" below.
+To the fullest extent required by applicable law, your continued use or participation in the Visa Solution after such modification constitutes acceptance of the modified Terms.
+The User may stop using the Visa Solution at any time - also if he is dissatisfied with the changes made to the content of the Terms.
+You may unsubscribe from the Visa Solution service by following the instructions in the Customer Service section of the Visa Solution website.
+Visa may suspend, terminate, or terminate your access to, or use of, your Visa Solution at any time immediately and without prior notice or obligation to you, (i) if you breach any of these Terms, or (ii) for any other economically valid reason , at Visa's sole discretion.
+Visa will not be liable to you for any suspension, withdrawal, termination or modification of the way you use or access the Visa Solution.
+Upon termination of use, you remain responsible for any payments and other obligations incurred under these terms.
+17.
+General conditions
+a.
+Notifications.
+You agree that Visa may provide you with notices and other information in connection with Visa Solution, by email, posting on the Website, or other forms of electronic communications.
+Electronic communications from us to you will be deemed "in writing" communications and will be delivered to you no later than the date the notice is received or five days after the date of sending or broadcasting, whichever is earlier.
+We are under no obligation to provide you with physical copies of any communications that are sent to you related to your use of the Visa Solution.
+It is your responsibility to regularly check your mailbox for messages from us.
+It is your responsibility to ensure that e-mails we send you are not blocked by your account and that the e-mail address provided to us is kept up to date.
+Additionally, you authorize us to act on the instructions that you send us electronically.
+You must have a username associated with your Visa Solution account to access information electronically and to take any action relating to your Visa Solution account.
+b.
+No Waiver.
+Failure to exercise or delay in exercising any provisions or powers contained in these Terms will not be deemed a waiver of those provisions or powers.
+c.
+Entire Agreement
+These Terms constitute the entire agreement between Visa and you with respect to your use of the Visa Solution.
+d.
+Severability.
+You and Visa agree that if any provision of these Terms is held to be illegal, void (including by law) or for any reason unenforceable by a court of appropriate jurisdiction, then that provision will be deemed to be excluded from these Terms and Conditions and not will affect the validity and enforceability of any remaining provisions.
+e.
+Interpretation.
+The headings and headings are for your convenience only and are not intended to be interpreted.
+Words like "hereby", "below" etc.
+will mean and apply to all of these Terms and not to any particular part of them.
+The term "including" shall mean "including without limitation".
+As used herein, singular expressions include the plural, plural expressions include the singular, and any grammatical gender applies to all grammatical genders.
+f.
+Relationship of the Parties
+Nothing in these Terms shall be construed as creating a joint venture, partnership, employment relationship or agency relationship between you and Visa, and you have no authority to enter into any obligation or make any representation on Visa's behalf.
+g.
+Indemnification.
+To the fullest extent permitted by applicable law, you agree to indemnify, protect and indemnify Visa Parties for any loss, liability, claim, requirement, damage, penalty or cost, due to or in connection with your breach of these Terms by user.
+h.
+Dispute Resolution and Governing Law.
+To the fullest extent permitted by law, you and Visa agree that:
+(1.)
+if you are a resident of a Qualifying Jurisdiction not included in clause (2.)
+below, the following governing law and arbitration provisions shall apply:
+THIS SECTION CONTAINS AN ARBITRATION COURT.
+PLEASE READ CAREFULLY.
+IT STATES THAT ANY CLAIMS RELATING TO VISA SOLUTION OR THESE TERMS SHALL BE RESOLVED BY BINDING ARBITRATION.
+UNDER ARBITRATION, NEITHER THE STATE SHALL HAVE ANY RIGHT TO SEEK CLAIMS OR JURY HOSTING ON THESE CLAIMS.
+CLAIMS MAY BE ARBITRATED ONLY ON A INDIVIDUALITY.
+THE RIGHTS TO DISCLOSURE PRE-TRIAL EVIDENCE AND TO APPEAL AFTER THE TRIAL WILL BE LIMITED, BUT THE ARBITRATOR MAY GRANT INDEMNIFICATION AND REMEDIES UNDER THESE TERMS AND CONDITIONS.
+Any dispute, cause of action, claim or disagreement arising out of or relating to Visa Solution or these Terms, including those relating to the creation, interpretation, breach, performance, termination, enforcement, interpretation or validity of these Terms, the validity and enforcement of this provision, and the determination of the scope or The applicability of an agreement to arbitration (referred to in section h (1) as "Dispute") that is amenable to arbitration will be settled solely under the process and arbitration clause in this section.
+Any Disputes between you and Visa will be finally settled by arbitration; however, if you are a resident of the United States, you may bring claims in the courts
+Small Claims (if your claim qualifies).
+This arbitration clause only applies to disputes with Visa relating to the Visa Solution.
+A User having a dispute with his Issuer of a Qualifying Card must resolve the dispute with his Issuer.
+Arbitration between you and Visa is conducted by JAMS in accordance with its US Resident General Arbitration Rules and Procedures and the JAMS International Arbitration Rules for Non-US Persons, to the extent that those rules do not conflict with this provision.
+You can obtain a copy of this policy by contacting JAMS at 1-800-352-5267, in writing at JAMS 620 Eighth Avenue, 34th Floor, New York, NY 10018, or online at www.jamsadr.com or www.jamsinternational. com /.
+CLAIMS ARE SUBJECT TO ARBITRATION INDIVIDUALLY.
+THIS MEANS THAT BOTH YOU AND VISA SHOULD NOT PARTICIPATE IN JOINT OR CONSOLIDATIVE CLAIMS IN AN APPLICATION OR AGAINST OTHER ENTITIES, UNLIMITED BY USER.
+ALSO, YOU AND VISA MAY NOT ARBITRATE ANY CLAIMS AS AN AGENT OR A MEMBER OF A CLASS CLAIM.
+BY ACCEPTING THESE TERMS, YOU AND VISA ARE WAIVING THE RIGHT TO PARTICIPATE IN CLASS ACTION PROCEEDINGS.
+Arbitration will be held before one arbitrator.
+Arbitration (i) will be conducted by telephone, internet and / or based solely on written submissions; the specific method will be chosen by the party instituting the arbitration proceedings and (ii) will not involve any personal appearance by the parties or witnesses, unless the parties mutually agreed otherwise.
+Residents of Qualifying Jurisdictions in the Middle East will be party to arbitration at the Dubai International Financial Center, unless the parties mutually agree otherwise.
+The arbitrator will be mutually agreed between you and Visa.
+If you and Visa fail to agree on an arbitrator, an arbitrator is appointed in accordance with JAMS procedures.
+If for any reason the Dispute is settled in a court of law rather than in arbitration, you and Visa waive their right to a jury trial.
+The user can hire an attorney, but is not required to do so.
+Each party is responsible for its own attorneys' fees, unless the arbitrator awards otherwise under applicable law.
+The party initiating the arbitration proceedings will pay a fee for this (unless JAMS imposes different terms because of the finding of difficulties).
+Visa will pay any other prepayments of administrative, case and arbitrator fees related to the arbitration by making a direct payment to JAMS.
+At the conclusion of the arbitration, fees paid by Visa may be split between you and Visa at the arbitrator's discretion in accordance with JAMS procedures.
+All matters are resolved by an arbitrator, including matters relating to the scope and enforcement of this arbitration provision.
+All arbitrator's decisions are final.
+Any court of competent jurisdiction may apply for a judgment based on the decision.
+This clause does not preclude the parties from seeking interim relief in support of arbitration in a court of competent jurisdiction.
+Visa's liability is limited as described in para.
+13 above to the fullest extent permitted under applicable law.
+These Terms and the rights of the parties arising therefrom are governed by and construed in accordance with the laws of the State of Delaware, excluding its conflict of law rules or choice of law rules.
+If an arbitration provision or a class action waiver is found to be unenforceable for any reason in the event that the class action charges have been brought, the applicable law and jurisdiction clause described in section (2.)
+below.
+The remainder of this section is for U.S. residents:
+The arbitrator may not award sanctions or retaliatory damages, except where required by law, or any interest accrued prior to the award; The arbitrator may not award any compensation for incidental, indirect, or consequential damages, including damages for lost profits or damages sustained by third parties.
+Any benefit granted will not affect other Visa Solution users.
+The parties acknowledge that these terms and conditions confirm a transaction in international trade.
+Notwithstanding the provision in the preceding paragraph relating to applicable substantive law, any arbitration conducted pursuant to the Terms and this paragraph shall be governed by the Federal Arbitration Act (9 U.
+S.
+C.,
+Secs.
+1–16).
+(2.)
+if you are a resident of (i) Argentina, Brazil, Canada or any Qualifying Jurisdiction in Europe, (ii) any Qualifying Jurisdiction where the arbitration clause mentioned in paragraph (1.)
+above has been found unenforceable or (iii) any other Qualifying Jurisdiction where the waiver of class action is found to be unenforceable in the event that class action charges have been brought, the following will apply : (x) any dispute, claim or cause of action arising out of or relating to these Terms or the Visa Solution will be governed by and construed in accordance with the laws of the Eligible Jurisdiction in which you reside; and (y) any dispute, claim or cause of action arising out of or relating to these Terms or the Visa Solution will be brought before the courts of competent jurisdiction of such Eligible Jurisdiction.
+Any mandatory consumer protection laws remain in effect.
+i.
+Transfer.
+You may not assign any rights and obligations under these Terms, legally or otherwise, without Visa's prior written consent.
+Visa reserves the right to assign these Terms, and the rights and obligations arising therefrom, to any third party without notice to you and without your consent.
+Subject to the foregoing, these Terms will be binding on you, will benefit you and will be enforceable against you and your successors and assigns.
+You may terminate your use of the Visa Solution at any time - including if you are dissatisfied with Visa's assignment of rights and obligations under these Terms.
+j.
+Detailed regulations in force in individual countries.
+i.
+Argentina residents only
+Consumer protection law provides that legal entities that advertise, sell or provide services to consumers or users in the city of Buenos Aires and have websites are required to link to the "Dirección General de Defensa y Protección al Consumidor."
+Users with questions or complaints can contact the "Dirección General de Defensa y Protección al Consumidor" at: www.argentina.gob.ar/defensadelconsumidor.
+ii.
+Only for residents of Austria
+Notwithstanding the provisions on limitation of liability in par.
+15 above or any other statement regarding the limitation of Visa's liability, the following applies to Austrian residents:
+VISA'S LIABILITY FOR DAMAGES (SCHADENERSATZHAFTUNG) CAUSED BY SIGNIFICANT NEGLIGENCE (LEICHTE FAHRLÄSSIGKEIT) IS EXCLUDED.
+The above restriction of liability does not apply to any compulsory statutory liability resulting from warranty claims (Gewährleistungsansansprüche), in particular to liability arising from the Austrian Act on civil liability for product defect (Producthaftungsgesetz) and liability for causing injuries (personnschäden).
+IN ADDITION, THIS LIMITATION OF LIABILITY SHALL NOT APPLY IF AND TO THE EXTENT TO WHICH VISA HAS ADOPTED A CERTAIN WARRANTY OR IN THE EVENT OF A PARTICULAR LIABILITY WITH RESPECT TO AN APPLICABLE MATTER.
+ii.
+For residents of the People's Republic of China only (excluding Hong Kong SAR, Macao SAR and Taiwan)
+You acknowledge that the Visa Solution is only available to you for use overseas and for foreign currencies, and only for transactions with merchants located outside the mainland of the People's Republic of China.
+All Mainland resellers of the People's Republic of China offering the Visa Solution are eligible to offer the Visa Solution only to non-residents of the Mainland of the People's Republic of China.
+iii.
+Only for residents of Germany
+Notwithstanding the provisions on limitation of liability in par.
+13 above or any other statement regarding the limitation of Visa's liability, the following applies to residents of Germany:
+VISA'S LIABILITY UNDER CONTRACTUAL AND DELICTIVE LIABILITY FOR DAMAGES CAUSED BY SUBSTANTIAL NEGLIGENCE, REGARDLESS OF THE LEGAL BASIS, SHALL BE LIMITED AS FOLLOWS:
+(A) VISA WILL BE LIABLE UP TO THE Foreseeable damages typical of this type of contract as a result of a breach of material contractual obligations;
+(B) VISA SHALL NOT BE LIABLE FOR A BREACH OF ANY INCREDIBLE CONTRACTUAL OBLIGATIONS, OR IN THE EVENT OF ANY SIGNIFICANT NEGLIGENCE TO ANY OTHER LIABILITY TO SUCH SUITABILITY.
+The above restrictions on liability do not apply to any compulsory statutory liability, in particular to liability arising from the German Act on civil liability for product defect (product-haftungsgesetz) and liability for liability for caused by culpable injury.
+IN ADDITION, THESE LIMITATIONS OF LIABILITY WILL NOT APPLY IF AND TO THE EXTENT OF VISA HAS A PARTICULAR WARRANTY.
+SUB-SECTIONS (A) AND (B) APPLY SUITABLY TO VISA'S LIABILITY FOR UNDERLYING EXPENSES.
+YOU ARE OBLIGED TO TAKE APPROPRIATE MEASURES TO AVOID AND LIMIT DAMAGE.
+iv.
+India Residents Only
+Visa Solution is offered in India by Visa Worldwide Pte.
+Limited.
+k.
+Post-contract or termination provisions.
+Notwithstanding any termination of these Terms, they will continue to apply to any use of the Visa Solution by you prior to termination.
+Any sections of these Terms that, by their nature, should continue to survive termination will survive termination of the Terms and your use of Visa Solution.
+This includes the following sections: Dispute Resolution and Applicable Law.
+l.
+Contact Us.
+If you have any questions or concerns about Visa Solution, please visit the Frequently Asked Questions section of the website.
+If the Frequently Asked Questions section does not answer your question or clarifies your concerns, please contact Visa U by post.
+S.
+A.
+Inc.,
+Visa Solution, 900 Metro Center Blvd.,
+Foster City, CA 94404-2172, USA or contact via e-mail.
+Last Updated: May 27, 2021

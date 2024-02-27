@@ -1,0 +1,953 @@
+Groupon International Limited Termini e Condizioni d’uso
+Questa pagina riporta i termini che regolano l’uso del Sito di Groupon International Limited e dei Servizi che offriamo. 
+1. QUALCHE INFORMAZIONE UTILE SUI TERMINI E LE CONDIZIONI D’USO
+
+1.1. Cos'è questo documento e chi siamo noi: Quello che stai leggendo è un documento avente valore legale che costituisce l'accordo tra te, il Cliente (a cui in questo documento faremo riferimento con le espressioni “Tu”, o il “Cliente”) e noi. Tu sei chiamato ad aderire ai termini e condizioni d’uso di seguito riportati, complessivamente indicati come “Accordo”. Noi siamo Groupon International Limited, gestori di questo Sito, oltre che fornitori di una serie di servizi ad esso correlati. Groupon International Limited è una società costituita in Irlanda, con sede legale in Lower Ground Floor, Connaught House, 1 Burlington Road, Dublin 4, 216410 Irlanda, P. IVA 182.898.064. In questo documento, faremo riferimento a noi stessi con le espressioni “Groupon International”, “Noi”, “la Società” e ci riferiremo a noi e alle altre società del gruppo Groupon, ivi compreso le nostre collegate, controllanti e controllate, come “Gruppo Groupon”. Groupon international Limited può assumere i contratti, diritti, obbligazioni, responsabilità ai sensi di questi termini e condizioni d’uso da MyCityDeal Limited per mezzo di novazione comunicata per iscritto (postata su questo sito o comunicata con altri mezzi) con il risultato che solo la Groupon International Limited rimane tiolare di diritti e obblighi derivanti da questi Termini e Condizioni d’uso e, pertanto, tu qui acconsenti l’assegnazione e il trasferimento di tutti i diritti, obblighi e responsabilità contrattuali.
+
+1.2. Cosa facciamo. La nostra Società fornisce una piattaforma (che comprende questo Sito, le applicazioni mobili, ecc.) dove noi, i nostri affiliati locali e gli altri venditori (collettivamente, i “Venditori”) possono inserire offerte relative a Coupon, affari, beni, viaggi ed altri prodotti (collettivamente, gli “Articoli”). In quanto fornitori della piattaforma, noi aiutiamo ed agevoliamo gli accordi relativi agli Articoli che avvengono sulla nostra piattaforma. Non agiamo mai in qualità di acquirenti né, normalmente, di venditori. Noi mettiamo infatti a disposizione un luogo in cui i Venditori e te possiate negoziare e concludere accordi. Ciò comporta che nel corso della tua interazione all’interno del sito, in aggiunta al presente Accordo, sarai vincolato da altri rapporti di natura contrattuale con soggetti giuridici diversi.
+
+1.3. Quali sono tali rapporti giuridici? Qualunque Articolo acquisti tramite il nostro Sito, sarai soggetto ai termini e le condizioni previste dal relativo Venditore. Dal momento che Groupon International normalmente non assume la qualità di Venditore, ciò comporta che, probabilmente, il tuo contratto di vendita sarà concluso con soggetto differente (spesso una società del Gruppo Groupon). Ti ricordiamo che tutti i contratti stipulati per la vendita degli Articoli sono conclusi esclusivamente tra il Cliente e il Venditore dell’Articolo in oggetto (e non con Groupon International, salvo qualora Groupon International assuma la qualità di venditore). Il Venditore è responsabile della vendita e della gestione dei reclami o di qualsiasi altra questione derivante da o connessa al contratto concluso tra te ed il Venditore. Inoltre, quando acquisti un Coupon, in aggiunta al contratto di vendita che avrai con il Venditore del Coupon, sarà altresì concluso un contratto tra te e la società che di volta in volta fornisce i Prodotti quando riscatti il tuo Coupon presso quella società ("Partner"). Per quanto riguarda i Coupon, nè noi nè il Venditore assumiamo la responsabilità relativa ai contratti riguardanti il riscatto dei tuoi Coupon con il Partner. Inoltre, noi non agiamo mai in qualità di agente del Venditore o del Partner.
+
+1.4. Di cos'altro ci occupiamo: Noi potremmo proporti di prendere parte ad un forum o postare Contenuti dell’Utente, inviarti t newsletter e altre comunicazioni. Per poterti inviare delle e-mail, abbiamo tuttavia bisognodi alcune informazioni su di te. Ti preghiamo di consultare lanostra Privacy Policy per conoscere come raccogliamo e trattiamo i dati personali.
+
+1.5. Ambito d'utilizzo: Il nostro Sito e i nostri Servizi vengono forniti ad uso esclusivamente personale e non commerciale, ad eccezione di quanto separatamente consentito per iscritto. È possibile accedere al Sito solo attraverso la nostra app, tramite browser web standard e mobile e le applicazioni analoghe. Non è quindi consentito l’accesso tramite robot, spider, lettori offline, applicazioni di ricerca/recupero di informazioni dai siti o altri dispositivi, strumenti o processi, manuali o automatici utili per recuperare, indicizzare o estrapolare dati dal nostro Sito, anche tramite scraping, spidering o altro. In via di eccezione, modalità revocabile in qualsiasi momento dalla Società, gli operatori dei motori di ricerca pubblici possono usare spider per copiare materiali dal Sito al solo scopo, ed esclusivamente nella misura necessaria per la creazione di indici di ricerca dei materiali pubblicamente disponibili, ma non per copie cache o archivi di tali materiali.
+
+1.6. Licenza Limitata. Nonostante qualsiasi altra previsione dei presenti Termini di Uso, potrete utilizzare web crawler, indicizzare, mostrare o mettere in cache i contenuti del presente Sito al solo scopo di (i) mostrare il Sito come risultato della ricerca tramite motore, e (ii) ottimizzare (attraverso Pagine Mobili Accelerate, o in altro modo) l'accesso di altri utenti al Sito. Groupon si riserva ogni diritto, incluso il copyright, del codice HTML e dei contenuti (incluso codice che sia ottimizzato per Pagine Mobili Accelerate) e nessuna clausola dei presenti Termini di Uso potrà esser interpretata come un'esplicita o implicita rinuncia di Groupon ad alcuno dei suoi diritti, oppure alla sua facoltà di azionare ogni clausola dei presenti Termini di uso. 
+
+1.7. Divieto d'uso: Ci riserviamo il diritto di impedirti l'utilizzo del Sito e dei Servizi (o di parte di essi).
+
+1.8. Definizioni: In questo Accordo, vengono utilizzate diverse definizioni che riconoscerai perché indicate con lettera maiuscola. Tutte le definizioni saranno precisate all'interno o alla fine del presente Accordo nella sezione‎13).
+
+2. REGISTRARSI CON NOI E CREARE UN PROPRIO ACCOUNT
+
+2.1. Perché registrarsi? A seconda della particolare funzione cui stai accedendo all’interno del nostro Sito in un dato momento, potresti aver bisogno di registrarti per l’utilizzo di gran parte delle funzionalità e per aver accesso a molti dei Servizi disponibili. Ad esempio, dovrai necessariamente registrarti per poter effettuare un acquisto a meno che tu non scelga di utilizzare la funzione di "checkout come ospite" sul Sito. Se fai un acquisto utilizzando la funzione di " checkout come ospite " e non hai già un Account con noi, creeremo un Account per te sulla base delle informazioni che ci avrai fornito per la transazione (ad esempio, il tuo nome, indirizzo, indirizzo di posta elettronica ed altre informazioni relative alla transazione). Più avanti potrai rivendicare tale Account creando una password per lo stesso. Il tuo Account ti offrirà un agevole accesso alla stampa del tuo Coupon, alla visualizzazione degli acquisti precedentemente effettuati, all’accumulo del tuo credito Groupon e modificare le tue preferenze. Ci riserviamo il diritto di respingere una nuova Registrazione o di cancellare un Account in qualsiasi momento. Inoltre, la Registrazione sul sito ti consente di non dover reinserire le informazioni ogniqualvolta procedi ad un nuovo acquisto. 
+
+2.2. Come registrarsi: Per registrarti è necessario che tu fornisca il tuo nome e cognome, indirizzo postale, indirizzo e-mail, ed ulteriori informazioni personali eventualmente richieste.
+
+2.3. Password: Durante la fase di registrazione, dovrai inoltre fornirci una password. È necessario mantenere tale password riservata ed avvisarci immediatamente qualora terzi non autorizzati ne vengano a conoscenza o nel caso in cui venga fatto qualsiasi uso non autorizzato del tuo indirizzo e-mail o ancora se sussista una qualsiasi violazione delle norme di sicurezza di cui tu possa essere a conoscenza. Inoltre, accetti che non saremo responsabili in alcun modo nel caso in cui una persona a cui la tua password sia stata comunicata, usi (e/o concluda transazioni attraverso) i nostri Servizi e il nostro Sito. Ti preghiamo di tenere presente che la responsabilità di preservare la riservatezza della password è interamente a tuo carico.
+
+2.4. Indirizzo e-mail valido: Tutti gli Account devono essere registrati con un indirizzo e-mail personale, valido, cui hai regolarmente accesso. Gli Account che sono stati registrati con l'indirizzo e-mail di qualcun altro o con indirizzi di posta elettronica temporanei potranno essere da Noi chiusi senza alcun preavviso. Possiamo inoltre riservarci di chiederti di riconvalidare il tuo Account nel caso in cui ritenessimo che tu abbia utilizzato un indirizzo e-mail non valido.
+
+2.5. E-mail: Groupon International può inviarti e-mail a contenuto amministrativo e promozionale. Possiamo altresì inviarti ogni informazione relativa all'attività del tuo Account edai tuoi acquisti, aggiornamenti sul nostro Sito, i nostri Servizi ed altre offerte promozionali. Potremmo inviarti anche informazioni riguardanti acquisti che hai effettuato. (Puoi scegliere in qualsiasi momento di non ricevere le nostre e-mail promozionali cliccando sul link di cancellazione che trovi alla fine di ciascuna delle e-mail che ricevi).
+
+2.6”Push Notifications”: Qualora tu abbia acconsentito, Groupon International può inviarti “push notifications” di natura promozionale sul/suoi tuoi dispositivo/dispositivi mobili per offerte generali o basate sulla localizzazione. Puoi scegliere in qualsiasi momento di non ricevere le nostre “push notifications” promozionali modificando le tue preferenze sul dispositivo mobile.
+
+3. Contenuti dell'Utente
+
+3.1. Contenuti dell'Utente: All’interno del nostro Sito può essere offerta ai titolari di Account e ai visitatori la possibilità di inviare o pubblicare recensioni, opinioni, consigli, valutazioni, discussioni, commenti, messaggi, risposte ai sondaggi e altre comunicazioni, nonché file, immagini, fotografie, video, registrazioni audio, opere musicali ed altri contenuti (collettivamente, i “Contenuti dell'Utente”). I Contenuti dell'Utente possono essere inviati o pubblicati attraverso forum, bacheche, gruppi di discussione, chat, sondaggi, blog o altri mezzi di comunicazione che possono essere di volta in volta offerti su, o attraverso, o in connessione con il nostro Sito o i nostri Servizi. Potrebbe tuttavia essere necessario disporre di un Account per poter inviare con successo i Contenuti dell'Utente.
+
+3.2. Proprietario dei Contenuti dell'Utente: Nel fornire i Contenuti dell'Utente, dichiari e garantisci di essere il proprietario di tali contenuti o, qualora dovessi agire per conto di terzi , di disporre di una loro preventiva autorizzazione espressa all'invio e alla pubblicazione dei suddetti Contenuti, nonché di tutti i diritti relativi alla concessione di licenze e di permessi di qualunque genere in relazione ai predetti Contenuti dell’Utente. Inoltre, dichiari e garantisci (o, qualora agissi in nome del proprietario dei Contenuti dell'Utente, ti sei assicurato che quest’ultimo dichiari e garantisca) che la condivisione dei Contenuti dell'Utente, ai fini indicati, non violi né leda i diritti d'autore, i marchi o qualsiasi altro diritto di proprietà intellettuale o industriale di terzi, compresi i diritti pubblicitari o diritti alla privacy.
+
+3.3. Restrizioni : Ti impegni a non trasmettere, pubblicare o rendere altrimenti disponibile sul nostro Sito qualsiasi materiale protetto da copyright, marchio commerciale o altri diritti di proprietà intellettuale o industriale di terzi senza l'espressa autorizzazione del titolare del copyright, del marchio commerciale o di ogni altro diritto di proprietà intellettuale o industriale. Groupon non assume alcuno esplicito obbligo, né connessa responsabilità, di fornire indicazioni, segnalazioni o qualsiasi altro elemento volti a determinare se il materiale in questione sia protetto da copyright o sia un marchio registrato. Tu sarai l'unico responsabile per eventuali danni derivanti da qualsiasi violazione dei diritti d'autore, dei marchi, dei diritti di proprietà intellettuale o industriale o per qualsiasi altro danno conseguente alla trasmissione di materiale sul Sito. Ulteriori restrizioni nonché le attività vietate di cui sei tenuto ad essere a conoscenza sono elencate nella sezione ‎5 che segue.
+
+3.4. Utilizzo dei Contenuti dell'Utente: Groupon International ha il diritto unico ed assoluto, ma non l'obbligo, di esaminare, modificare, pubblicare, rifiutare di pubblicare, rimuovere e monitorare i Contenuti dell'Utente. A Groupon International spetta anche il diritto, ma non l'obbligo, di divulgare i Contenuti dell'Utente e le circostanze della loro trasmissione a soggetti terzi, in qualsiasi momento e per qualsiasi motivo, anche al fine di stabilirne la conformità con il presente Accordo e con qualsiasi altra disposizione stabilita da Groupon International, nonché al fine di ottemperare a qualunque legge,regolamento o richiesta governativa autorizzata. Salvo quanto sopra esposto, Groupon International ha il diritto di rimuovere qualsiasi materiale dal Sito, a sua esclusiva e assoluta discrezione. Groupon International non assume alcuna responsabilità per qualsivoglia Contenuto dell'Utente o per altre informazioni che appaiano o vengano rimosse dal Sito o altrove. Groupon International non ha inoltre alcun obbligo di far uso dei suddetti Contenuti e può astenersi del tutto dall’utilizzarli.
+
+3.5. Modifica o rimozione dei Contenuti dell'Utente: In alcune circostanze, è possibile che i Contenuti dell'Utente che hai inviato o pubblicato tramite il tuo Account vengano modificati o rimossi. Groupon International non garantisce in alcun modo che i Contenuti dell'Utente che Tu modifichi o rimuovi vengano modificati o rimossi dal Sito o altrove, o che detti Contenuti dell'Utente cessino di apparire su Internet, nei motori di ricerca, sui siti web di social media, o in qualsiasi altra forma, media o tecnologia.
+
+3.6. Natura pubblica dei Contenuti dell'Utente: Il Cliente riconosce e accetta che i Contenuti dell'Utente siano pubblici. Qualsiasi soggetto (utente o meno dei Servizi di Groupon International) può leggere i tuoi Contenuti dell'Utente a tua insaputa. Si raccomanda quindi di non inserire informazioni personali aggiuntive o ogni altra informazione nei tuoi Contenuti dell’Utente che non desideri divengano di dominio pubblico. Groupon International non è responsabile per l'uso o la divulgazione di informazioni personali o qualsiasi altra informazione che Tu fornisci con i Contenuti dell'Utente.
+
+3.7. Avvertenza: Qualsiasi Contenuto dell'Utente di qualsiasi tipo realizzato da te o da terze parti è opera del relativo autore(i) o distributore(i) e non di Groupon International. Altri utenti possono pubblicare dei Contenuti dell'Utente che sono imprecisi, fuorvianti o ingannevoli. Groupon International non approva né è responsabile dei Contenuti dell'Utente, e non sarà responsabile nei confronti del Cliente o di qualsiasi altro soggetto per eventuali perdite o danni causati dall'affidamento riposto su tali Contenuti dell'Utente. I Contenuti dell'Utente riflettono le opinioni della persona che li pubblica e possono non riflettere l'opinione di Groupon International. Groupon International non controlla né approva i Contenuti dell'Utente, e in particolare declina ogni responsabilità riguardo a o in relazione al tuo contributo, uso di o affidamento su qualsiasi Contenuto dell'Utente e qualsiasi azione che derivi dalla tua partecipazione in qualsiasi parte del Sito o dei Servizi, compreso qualsiasi Contenuto dell'Utente deplorevole.
+
+3.8. Concessione: Alcuni Contenuti dell'Utente che tu trasmetti a Groupon International potranno essere visualizzati o Tu potrai scegliere che vengano trasmessi con i Tuoi dati personali, o con una parte degli stessi, tra cui, a titolo esemplificativo ma non esaustivo, il Tuo nome, le Tue iniziali, il Tuo nome utente, il nome utente del sito di social media che utilizzi, la Tua immagine, ritratti, preferenze, voce e ubicazione. Concedia Groupon International e al Gruppo Groupon un diritto esente da canoni, perpetuo, irrevocabile, concedibile in sublicenza, assoluto, non esclusivo, trasferibile, valevole in tutto il mondo di utilizzare, visualizzare, distribuire, offrire in vendita e cedere le Tue informazioni personali relative ai Contenuti dell'Utente, sia che tali Contenuti appaiano da soli che come parte di altri lavori, e in qualsiasi forma, mezzo o tecnologia attualmente noti o successivamente sviluppati, nonché di concedere in sublicenza tali diritti a più sublicenziatari, il tutto senza la corresponsione a Tuo favore di alcun compenso. Tuttavia, Groupon International non avrà alcun obbligo di utilizzare i Tuoi dati personali in relazione ai Contenuti dell'Utente.
+
+3.9. Licenza: Nei confronti di Groupon International, conserverai tutti i diritti di proprietà sui Contenuti dell'Utente che invierai o pubblicherai. Tuttavia, fornendo i Contenuti dell'Utente o altre informazioni su o mediante il Sito, concedi a Groupon International e al Gruppo Groupon un diritto ed una licenza esenti da canoni, perpetui, mondiali, irrevocabili, concedibili in sublicenza, assoluti, non esclusivi, trasferibili, di utilizzare, riprodurre, creare lavori derivati da, pubblicare, rettificare, tradurre, distribuire, eseguire, mostrare, trasmettere, offrire in vendita e cedere i Contenuti dell'Utente, da soli o come parte di altri lavori, ed in qualsiasi forma, media o tecnologia, attualmente nota o successivamente sviluppata, nonché di concedere in sublicenza tali diritti a più sublicenziatari, il tutto senza la corresponsione a Tuo favore di alcun compenso. Ai sensi del presente Accordo, inoltre, rinunci a qualsiasi diritto relativo alla paternità o all'integrità dei materiali oggetto dei Contenuti dell'Utente che Ti possano venir riconosciuti ai sensi di qualsivoglia legge vigente. La licenza spettante a Groupon International e al Gruppo Groupon riguardo ai Contenuti dell'Utente o ai dati personali forniti include il loro utilizzo per promozioni, pubblicità, marketing, ricerche di mercato, feedback dei Partner, controllo di qualità o per qualsiasi altro scopo lecito.
+
+3.10. Procedure in materia di copyright: Groupon si riserva il diritto di sospendere il diritto dell'utente o di terzi a utilizzare il Sito, qualora tale utilizzo violi i diritti di proprietà intellettuale di altri. In determinate circostanze e a sua esclusiva discrezione, Groupon ha la facoltà di sospendere il diritto dell'utente o di terzi ad accedere al Sito, qualora Groupon sia a conoscenza delle ripetute violazioni di tale utente o terzi. Qualora l'utente ritenga che, tramite il nostro sito, siano stati pubblicati da terzi materiali che costituiscono una violazione del copyright e desideri portarlo a conoscenza di Groupon, l'utente è tenuto adinviare la sua segnalazione qui oppure a fornire all'Agente per il copyright di Groupon, indicato di seguito, le seguenti informazioni: (a) una firma elettronica o autografa della persona autorizzata ad agire per conto del proprietario dell'opera protetta da copyright; (b) l'identificazione dell'opera protetta da copyright e la collocazione, all'interno del Sito, dell'opera presumibilmente violata; (c) una dichiarazione scritta in cui l'utente affermi di ritenere in buona fede che l'utilizzo contestato non sia stato autorizzato dal proprietario, dal suo agente o dalla legge; (d) il proprio nome e le informazioni di contatto, incluso, a titolo esemplificativo, il numero di telefono e l'indirizzo e-mail; ed e) una dichiarazione in cui si afferma che che le suddette informazioni sono accurate e veritiere e che il mittente sia il proprietario del copyright o una persona autorizzata ad agire per conto del proprietario. Le informazioni di contatto per l'Agente per il copyright di Groupon per notificare la segnalazione di violazione del copyright sono:
+
+Groupon, Inc.
+
+Att: Copyright Agent
+
+c/o The Risk Management Department
+
+Floors 11-12, Aldgate Tower
+
+2 Leman Street, London E1 8FA, United Kingdom
+
+E-mail: emearisklegal@groupon.com 
+
+
+Procedure per la segnalazione di violazioni: Qualora l'utente detenga il copyright, il marchio commerciale, il brevetto o altri diritti di proprietà intellettuale (di seguito “Proprietario diritti PI”) oppure qualora l'utente sia un agente autorizzato ad agire per conto del Proprietario dei diritti PI (di seguito “Agente autorizzato”) e si ritiene in buona fede che i materiali o i prodotti presenti sul Sito possano costituire una violazione del copyright, del marchio commerciale o di altri diritti di proprietà intellettuale del Proprietario dei diritti PI e si desidera portarlo a conoscenza di Groupon, è possibile inviare la propria segnalazione qui.
+
+
+
+3.11. Suggerimenti non richiesti: Ti preghiamo di considerare che non possiamo accettare suggerimenti non richiesti di qualsiasi tipo pervenuti direttamente o attraverso dipendenti o agenti di Groupon International o del Gruppo Groupon, incluse proposte relative a nuovi prodotti , o a miglioramenti, a nomi o tecnologie, a campagne pubblicitarie e piani di marketing o altre promozioni. Ti preghiamo di non trasmetterci (neppure per il tramite dei nostri dipendenti) qualsivoglia materiale non richiesto, suggerimento, immagine o altro lavoro in qualsiasi forma (i“Materiali non richiesti”). In caso contrario, riconosci ed accetti quanto segue, indipendentemente da qualsiasi lettera o altri termini di accompagnamento Tu possa fare:
+
+Groupon International non ha alcun obbligo di esaminare i Materiali non richiesti, né di mantenerli riservati; inoltre
+
+Groupon International si riserva la facoltà di detenere, utilizzare e ridistribuire i Materiali non richiesti per qualsiasi scopo, senza alcuna restrizione né obbligo di riconoscimento o compenso.
+
+4. STANDARD UTILIZZATI E LIMITAZIONE DELLA RESPONSABILITÀ DI GROUPON INTERNATIONAL 
+4.1. I nostri standard: Groupon International adotta il massimo impegno richiesto nello svolgimento della propria attività e garantisce che:
+
+4.1.1. impiegherà la cura e la competenza che è ragionevole attendersi nell'adempimento di qualsiasi obbligo nascente dal presente Accordo;
+
+4.1.2. non violerà alcun canone di diligenza professionale posto a presidio della propria attività.
+
+4.2. La sezione 4 è importante!: La sezione ‎4 si applica con priorità rispetto a tutte le altre sezioni del presente Accordo e stabilisce i limiti della nostra responsabilità per inadempimento, per mancata o ritardata esecuzione del presente Accordo, dei Servizi, del Sito o di qualsiasi acquisto (o parte di esso), o in ogni caso in relazione al presente Accordo o alla conclusione o esecuzione dello stesso.
+
+4.3. Per cosa siamo responsabili: Nessuna disposizione del presente Accordo escluderà o limiterà la nostra Responsabilità per (i) frode; (ii) morte o lesioni personali causate da nostra negligenza; (iii) colpa grave da parte nostra; o (iv) qualsiasi Responsabilità che non può essere esclusa o limitata dalla legge vigente. Il Cliente è in ogni caso tenuto ad adottare ogni ragionevole misura al fine di evitare o limitare eventuali danni.
+
+4.4. Per cosa non siamo responsabili: Salvo quanto disposto dalla Clausola ‎4.3, poiché la nostra attività consiste nel fornire il nostro Sito e i relativi Servizi per un uso non commerciale degli stessi da parte del Cliente, non saremo mai responsabili per: 4.4.1. perdita di reddito o ricavi; 4.4.2. perdita di profitti attuali o previsti; 4.4.3. perdita di opportunità; 4.4.4. perdita indiretta o consequenziale (per “perdita consequenziale” si intendono perdite che non siano note, previste o altrimenti prevedibili”).
+
+5. I TUOI OBBLIGHI
+
+5.1. Accuratezza delle informazioni: Garantisci che tutte le informazioni fornite al momento della Registrazione e contenute all’interno del tuo Account siano vere, complete e accurate e qualora tali informazioni subiscano delle variazioni, ne darai comunicazione modificando tempestivamente i dati del Tuo Account.
+
+5.2. Contenuto del Sito: É Tua responsabilità verificare che tutti gli Articoli o le Informazioni (o i Prodotti) resi disponibili sul Sito rispondano alle tue specifiche esigenze.
+
+5.3. Cosa non puoi fare: Senza limitazioni, Ti impegni a non utilizzare e a non permettere che altri utilizzino i Servizi o il Sito:
+
+5.3.1. per caricare, inviare o ricevere qualsiasi materiale, inclusi i Contenuti dell'utente, che possano risultare lesivi del buon gusto;
+
+5.3.2. per caricare, inviare o ricevere qualsiasi materiale, compresi i Contenuti dell'Utente, che sia illegale, dannoso, lesivo, minatorio, abusivo, molesto, razzista, omofobo, pornografico, violento, fuorviante, gravemente offensivo, di carattere indecente, osceno, blasfemo o diffamatorio o pregiudizievole o che violi i diritti di un'altra persona fisica o giuridica, in oltraggio alla corte o in violazione della fiducia, compreso il copyright, i marchi , i brevetti, i diritti della personalità, la pubblicità o la riservatezza o altri diritti di terzi;
+
+5.3.3. per caricare, inviare o ricevere qualsiasi materiale, compresi i Contenuti dell'Utente, per i quali non hai ottenuto tutte le necessarie licenze e/o approvazioni (da noi o da una terza parte) o che costituiscano o incoraggino condotte che potrebbero essere considerate reati, da cui discenderebbero responsabilità penali e/o civili, o sarebbero comunque contrarie alla legge o violerebbero i diritti di terzi, in ogni Paese del mondo;
+
+5.3.4. per caricare, inviare o ricevere materiali che siano tecnicamente dannosi (inclusi i virus informatici, logic bomb, cavalli di Troia, worm, componenti, dati corrotti o dannosi, software dannosi o qualsiasi altra cosa che possa interrompere, interferire con, corrompere o altrimenti causare perdite, danni, distruzioni o limitazioni delle funzionalità di qualsiasi software o attrezzatura informatica);
+
+5.3.5. per causare disturbo, incidenti o turbamenti ingiustificati;
+
+5.3.6. per intercettare o tentare di intercettare le comunicazioni trasmesse mediante sistemi di telecomunicazione;
+
+5.3.7. per una finalità d’uso diversa da quella per cui li abbiamo progettati o cui li abbiamo destinati;
+
+5.3.8. per qualsiasi scopo fraudolento; o
+
+5.3.9. in qualsiasi modo volto ad incitare all'odio contro qualsivoglia minoranza etnica, religiosa o d'altro tipo o comunque pregiudizievole per qualsiasi persona, fisica o gruppo o persona giuridica.
+
+5.4. Usi Vietati: I seguenti usi del Sito e dei Servizi sono espressamente vietati e Ti impegni a non effettuare (né a consentire ad altri di effettuare) alcuna delle seguenti attività:
+
+5.4.1. rivendere i Servizi o il Sito;
+
+5.4.2. fornire dati falsi inclusi nomi, indirizzi e contatti falsi, utilizzare fraudolentemente numeri di carte di credito/debito;
+
+5.4.3. tentare di eludere le nostre misure di sicurezza o violare la nostra rete, ad esempio accedendo a dati non destinati a te, effettuando il login presso un server o un account ai quali non sei espressamente autorizzato ad accedere o sondare la sicurezza di altre reti (ad esempio tramite port scanning);
+
+5.4.4. accedere al Servizio (o al Sito) o effettuare qualsiasi altra attività in modo tale da sottoporre la nostra infrastruttura ad un irragionevole o sproporzionato carico di lavoro o che comunque ne interrompa o interferisca con la funzionalità, l'efficienza e il funzionamento;
+
+5.4.5. effettuare qualsiasi forma di monitoraggio di rete che intercetti dati non destinati a te;
+
+5.4.6. inviare messaggi di posta elettronica non richiesti, tra cui l'invio di “junk mail” o altro materiale pubblicitario a soggetti che non li hanno espressamente richiesti. Ti è fatto espresso divieto di inviare in massa grandi quantità di messaggi di posta non richiesti ("bulk mail"), incluso l'invio di bulk mail relativo a pubblicità commerciali, annunci promozionali o informativi e censimenti politici o religiosi. Tali materiali possono essere inviati esclusivamente a chi li ha espressamente richiesti. Se un destinatario fa richiesta di non ricevere più e-mail di tale natura, non potrai più mandare alcuna e-mail a tale soggetto;
+
+5.4.7. creare o proseguire "catene di lettere" o altri "schemi piramidali" di qualsiasi genere, a prescindere dal fatto che il destinatario desideri, o meno, ricevere tali messaggi ;
+
+5.4.8. inviare e-mail di disturbo, anche inviando ad un utente e-mail quantitativamente elevate;
+
+5.4.9. interagire o concludere accordi fraudolentemente con Noi, con un Venditore o con un Partner (incluso interagire o concludere accordi affermando di farlo in nome e per conto di una terza parte quando non hai l'autorità di vincolare tale terza parte oppure presentandoti ingannevolmente come una terza parte);
+
+5.4.10. utilizzare i Servizi o il Sito (o qualsiasi rilevante funzionalità di uno dei due), in violazione del presente Accordo;
+
+5.4.11. utilizzare le informazioni contenute nell’intestazione dei messaggi di posta elettronica in modo non autorizzato, o falsificare tali informazioni;
+
+5.4.12. intraprendere qualsiasi attività illegale in connessione con l'uso dei Servizi e/o del Sito o di un Coupon; o
+
+5.4.13. copiare o utilizzare i Contenuti dell'Utente per scopi commerciali.
+
+5.5. Dispositivi: I Servizi e l'uso del Sito non includono la fornitura di un computer o di un altro dispositivo necessari per accedere al Sito o ai Servizi. Per utilizzare il Sito o i Servizi, avrai bisogno di una connessione Internet adeguata. Non saremo responsabili delle spese telefoniche, delle spese di telecomunicazione o degli altri costi in cui potrai incorrere.
+
+6. REGOLE DI UTILIZZO DEI SERVIZI E DEL SITO
+
+6.1. Errori e omissioni: Non siamo responsabili per eventuali errori od omissioni (ad es., pubblicare un Coupon al prezzo di €1,99 invece che €199!) se abbiamo rispettato gli standard di cui alla sezione ‎4 del presente Accordo. Impiegheremo ragionevole impegno per correggere eventuali errori o omissioni non appena possibile dopo averne ricevuto comunicazione. Ci riserviamo il diritto di cambiare, modificare, sostituire, sospendere o rimuovere, senza preavviso, qualsiasi Coupon, Articolo, Servizio o informazione presenti sul Sito o parti dei Servizi di volta in volta.
+
+6.2. Virus e simili: Non garantiamo che i Servizi o il Sito siano privi di virus o di qualsiasi altro elemento dannoso che possano avere un effetto nocivo su qualsiasi dispositivo tecnologico.
+
+6.3. Interruzione dell'accesso: Sebbene cercheremo di consentire un accesso ininterrotto ai Servizi e al Sito, l'accesso ai Servizi e al Sito può essere sospeso, limitato o interrotto in qualsiasi momento. L'accesso al Sito e/o ai Servizi può essere inoltre occasionalmente limitato per consentire la riparazione, la manutenzione o l'introduzione di nuove strutture o servizi. Cercheremo di ripristinare l’accesso il più velocemente possibile. Ci riserviamo inoltre il diritto di bloccare l'accesso a qualsiasi materiale e/o di modificare o rimuovere qualunque materiale che, a nostro ragionevole giudizio, possa dar luogo a una violazione di questo Accordo.
+
+6.4. Chiusura degli Account: Ci riserviamo il diritto di chiudere l’Account di ogni utente che violi i nostri Termini e Condizioni d’uso, anche nei casi in cui si riscontri che un utente stia utilizzando indirizzi IP (Internet Protocol) di tipo proxy per tentare di nascondere l'uso di account multipli, o se un utente finga di essere ubicato in un paese diverso da quello in cui risiede effettivamente, o causi in qualsiasi modo disturbo al funzionamento del Sito o del Servizio.
+
+6.5. Account Multipli: Se utilizzi più di un Account, qualora decidessimo di agire contro di te, tali azioni riguarderanno tutti i tuoi Account.
+
+7. SOSPENSIONE E RISOLUZIONE 7.1. Se fai uso (o chiunque altro al tuo posto e con il tuo permesso faccia uso) dei Servizi o del Sito in violazione del presente Accordo, possiamo sospendere, in tutto o in parte, l'utilizzo dei Servizi e/o del sito.
+
+7.2. Se sospendiamo i Servizi o il Sito, possiamo rifiutarci di ripristinarli finché non avremo ricevuto rassicurazione da parte tua, in una forma da noi ritenuta accettabile, che non vi saranno ulteriori violazioni delle disposizioni del presente Accordo.
+
+7.3. Groupon International coopererà appieno con tutte le autorità competenti che richiedano o ordinino a Groupon International di rivelare l'identità o individuare chiunque possa aver violato il presente Accordo.
+
+7.4. Salva ogni altra disposizione contenuta nella presente sezione ‎7, siamo autorizzati in qualsiasi momento, (in tutto o in parte) a: i) sospendere i Servizi e/o il Sito; ii) sospendere il tuo utilizzo dei Servizi e/o del Sito; iii) sospendere l'uso dei Servizi e/o del Sito da parte di soggetti che riteniamo essere collegati (in qualsiasi modo) a Te; e/o (iv) risolvere immediatamente il presente Accordo se: 7.4.1. commetti una qualsiasi violazione del presente Accordo; 7.4.2. sussistono fondati motivi per ritenere che hai commesso, potresti commettere o commetterai una violazione del presente Accordo; o 7.4.3. sussistono fondati motivi per ritenere che hai commesso, potresti commettere o commetterai una frode ai nostri danni o ai danni di qualsiasi soggetto terzo.
+
+7.5. Salva ogni altra disposizione contenuta nella presente sezione ‎7, possiamo risolvere il presente Accordo in qualsiasi momento.
+
+7.6. La risoluzione del presente Accordo non pregiudica qualsiasi altro diritto o rimedio a nostra disposizione in relazione a qualsivoglia violazione, o in relazione a eventuali diritti, obbligazioni o responsabilità maturati prima della risoluzione.
+
+8. PROTEZIONE DEI DATI PERSONALI
+
+8.1. Ti invitiamo a consultare la nostra Informativa sulla privacy (Privacy Policy) e Politica sui Cookie (Cookies Policy) che costituiscono parte integrante del presente Accordo.
+
+9. MESSAGGI PUBBLICITARI
+
+9.1. I messaggi pubblicitari possono essere pubblicati per nostro conto da un'agenzia pubblicitaria terza, che può, per conto nostro, collocare o riconoscere un unico “cookie” nel suo browser. Se desideri maggiori informazioni su questa prassi e vuoi sapere cosa puoi fare per non permettere l’uso di tali informazioni da parte di qualsiasi società,consulta la nostraPolitica sui Cookie e l'Informativa sulla privacy.
+
+10. LINK DA E PER ALTRI SITI
+
+10.1. Qualora il Sito contenga link a siti e a risorse forniti da soggetti terzi (collettivamente gli “Altri Siti”), i link a tali Altri Siti sono inseriti esclusivamente per fornire informazioni ed esclusivamente per Tua comodità. Non abbiamo alcun controllo sugli Altri Siti, e non ci assumiamo alcuna responsabilità per gli Altri Siti o per i contenuti o i prodotti degli Altri Siti (anche in relazione ai siti di social media come Facebook) e non ci assumiamo alcuna responsabilità per qualsiasi perdita o danno che possa derivare dal loro utilizzo. Se decidi di accedere ad uno dei Siti di terze parti collegati tramite link al Sito, ne assumi il relativo rischio.
+
+11. DIRITTI DI PROPRIETÀ INTELLETTUALE O INDUSTRIALE
+
+11.1. Groupon International ti concede una licenza limitata, personale, non trasferibile, non esclusiva e revocabile per accedere e utilizzare il Sito ai sensi del presente Accordo e di tutte le altre condizioni e politiche stabilite da Groupon International. Tutti i diritti di proprietà intellettuale o industriale (inclusi i diritti d'autore, i brevetti, i marchi commerciali, i nomi commerciali, i nomi di dominio, gli identificativi dei social media, i disegni, registrati o no) del Sito e dei Servizi, (salva la sezione ‎11.4 seguente) i materiali, le informazioni e i contenuti sul Sito o fruiti nell'ambito dei Servizi, qualsiasi database gestito da noi, tutto il design, il testo, la grafica, il software, le foto, i video, la musica, i suoni, i dati, e tutte le compilazioni di software, il codice sorgente sottostante e il software (compreso applet e script), nonché la selezione, il coordinamento, l'organizzazione e il miglioramento relativi, restano di nostra proprietà (o di quella dei nostri licenziatari). Tu non potrai ottenere, e non dovrai tentare di ottenere, alcun diritto su tale proprietà. Tutti i diritti sono riservati.
+
+11.2. Nessun materiale tra quelli elencati nella precedente sezione ‎11.1, in tutto o in parte, può essere riprodotto, distribuito, copiato, modificato, pubblicato, scaricato, visualizzato, postato, eseguito o trasmesso in qualsiasi forma e con qualsiasi mezzo, venduto, affittato, rivenduto, concesso in licenza o sublicenza, utilizzato per creare opere derivate, o in qualsiasi modo sfruttato senza la preventiva espressa autorizzazione scritta del Gruppo Groupon o del relativo proprietario, salvo quanto espressamente stabilito dalla legge ivi applicabile. Tu puoi, tuttavia, recuperare e visualizzare i Contenuti del Sito sullo schermo del computer, archiviare tali contenuti in formato elettronico (ma non su un server o altro dispositivo di archiviazione collegato a una rete). Tu non puoi riprodurre, modificare, copiare, distribuire, visualizzare, eseguire o utilizzare per scopi commerciali alcuno dei materiali, le informazioni o i Contenuti del Sito senza la nostra autorizzazione. Qualora il download, la copia, la ridistribuzione, ritrasmissione o pubblicazione di materiale protetto da copyright siano consentiti dalla legge, Tu non potrai attribuire a te stesso la paternità del materiale e/o non potrai apportare modifiche o cancellazioni di alcuna attribuzione di paternità. Tu riconosci di non acquisire alcun diritto di proprietà scaricando materiale protetto da copyright. Qualsiasi violazione di tali restrizioni può comportare una violazione del copyright, del marchio commerciale o di altro diritto di proprietà intellettuale o industriale che potrebbero esporti a sanzioni civili e/o penali. Inoltre, non potrai fare qualsiasi uso che ecceda o violi le disposizioni del presente Accordo.
+
+11.3. Groupon è titolare di marchi commerciali, registrati e non registrati, in molti Paesi e “Groupon”, i loghi Groupon e le relative variazioni presenti sul Sito sono marchi commerciali di proprietà di Groupon, Inc. o delle sue entità correlate e qualsiasi uso di questi marchi commerciali andrà a beneficio di Groupon. ”GROUPON” è un marchio registrato nei seguenti Paesi: Algeria, Antigua, Arabia Saudita, Argentina, Armenia, Australia, Bahamas, Bahrein, Bielorussia, Brasile, Canada, Cile, Colombia, Corea del Sud, Costa Rica, Repubblica Domenicana, Ecuador, Egitto, Emirati Arabi Uniti, Federazione Russa, Filippine, Francia, Germania, Hong Kong, India, Indonesia, Islanda,Israele, Giamaica, Giappone, Giordania, Kenia, Libano, Liechtenstain, Macedonia, Marocco, Messico, Moldavia, Nigeria, Norvegia, Nuova Zelanda, O.A.P.I., Panama, Paraguay, Perù, Qatar, Singapore, Stati Uniti d’America, Sud Africa, Svizzera, Taiwan, Tailandia, Tunisia, Turchia, Turkmenistan, Ucraina, Unione Europea, Uruguay, Venezuela e Vietnam. Un elenco non esaustivo dei marchi Groupon è disponibile qui.
+
+11.4. La titolarità, i diritti di proprietà e i diritti di proprietà intellettuale o industriale relativi ai Contenuti accessibili tramite il Sito e ai Servizi sono di proprietà del titolare dei Contenuti e possono essere protetti dalle leggi su copyright, sulla tutela del marchio o da altre leggi applicabili. Il presente Accordo non ti riconosce alcun diritto rispetto a tali Contenuti ad eccezione delle licenze concesse nel presente documento.
+
+11.5. Ad eccezione che per i Contenuti dell'Utente, gli autori delle opere letterarie e artistiche presenti nelle pagine del Sito hanno affermato il loro diritto di essere identificati come gli autori di tali opere.
+
+11.6. Qualsiasi materiale che Tu trasmetti o sottoponi o posti sul sito (o in altro modo a noi) sarà considerato (e noi potremo trattarlo) come non confidenziale e non di tua proprietà, salva l’applicazione della sezione 3, i nostri obblighi ai sensi della legislazione sulla protezione dei dati personali e salvi i dati che tu fornisci allo scopo di fare un pagamento. Se per qualche ragione, qualsiasi parte di quella dichiarazione non funziona per motivi di legge, allora per ciò che tu ci fornisci, da qualsiasi fonte, (ad es. Via email,, il sito o qualsiasi altra) ci garantisci un diritto d’uso gratuito, perpetuo,irrevocabile, concedibile a terzi, totale, trasferibile, non esclusivo, nonché il diritto di copiare, modificare adattare, tradurre, pubblicare, distribuire, esporre, e rappresentare in qualsiasi parte del mondo tali materiali, ed in qualsiasi forma, media o tecnologia, nota ora o sviluppata in futuro, e di sublicenziare tali diritti attraverso multipli livelli di sublicenziatari, il tutto senza alcun compenso nei tuoi confronti, allo scopo di operare il Sito e procurare i Servizi.
+
+
+12. DISPOSIZIONI GENERALI
+
+12.1. Interpretazione: In questo Accordo:
+
+12.1.1. i termini che descrivono persone includono persone fisiche, società di persone, società di capitali e persone giuridiche in genere;
+
+12.1.2. i titoli delle sezioni quali (“12. DISPOSIZIONI GENERALI” all'inizio di questa sezione) e i sottotitoli (come “Interpretazione” all'inizio della presente sezione 12.1.) sono presenti per facilitare il riferimento all’interno del presente documento e non costituiscono parte integrante né influiscono sull'interpretazione del presente Accordo; e
+
+12.1.3. i riferimenti ai termini “include” e “incluso” indicheranno rispettivamente “include/ono a mero titolo esemplificativo” e “incluso a mero titolo esemplificativo”.
+
+12.2. Esclusione di rapporti di società/agenzia: Nulla nel presente Accordo potrà essere interpretato in modo da creare una joint venture, una società o un rapporto di agenzia tra il Cliente e Noi e nessuna parte potrà assumere qualsivoglia obbligazione o responsabilità in nome o per conto dell'altra parte.
+
+12.3. Esclusione di altre condizioni: Salvo quanto esplicitamente definito nel presente Accordo, tutte le garanzie, le condizioni e gli altri termini previsti dalla legge sono da intendersi esclusi nella misura massima consentita dalla legge medesima.
+
+12.4. Cessione: Tu non puoi cedere o altrimenti disporre di tutti o di parte dei diritti nascenti dal presente Accordo. Groupon avrà il diritto di cedere o di disporre in favore di qualsiasi soggetto terzo dei propri diritti od obbligazioni derivanti dal presente Accordo.
+
+12.5. Eventi al di fuori del ragionevole controllo: Groupon non sarà responsabile per il mancato rispetto degli obblighi nascenti dal presente Accordo nel caso in cui ciò sia avvenuto per causa che risulti al di fuori del suo ragionevole controllo.
+
+12.6. Esclusione di deroga: Nessuna tolleranza da parte di Groupon relativa a qualsiasi inadempimento del Cliente potrà essere considerata o interpretata come una rinuncia di Groupon a far valere i propri diritti e rimedi in relazione a qualsiasi violazione futura, sia essa di natura simile o diversa. Nessuna dilazione, o altra forma di comportamento tollerante che sia tenuto da Groupon nei confronti del Cliente, potrà costituire una rinuncia di Groupon a far valere i propri diritti e i relativi rimedi, né comunque potrà essere valutata nell’ambito dell’accertamento della tua responsabilità per inadempimento.
+
+12.7. Comunicazioni: Salvo quanto altrimenti definito nel presente Accordo, le comunicazioni da presentare a ciascuna parte saranno effettuate per iscritto e consegnate a mano, spedite tramite posta elettronica (salvo qualora il Cliente non stia inviando una notifica nell’ambito di un procedimento giudiziario), via fax o con posta prepagata, al Cliente presso l'indirizzo fornito dallo stesso o a Groupon presso la propria sede legale.
+
+12.8. Nessun diritto di terzi: il Cliente riconosce e accetta che Groupon International sia parte del presente Accordo sia in proprio che come agente per conto e a beneficio del Gruppo Groupon, dei fornitori e licenziatari di Contenuti (le “Terze Parti Detentori di Diritti”) e che tutti i diritti e benefici di Groupon International (ma non tutti gli oneri e obblighi) ai sensi o in connessione con il presente Accordo inclusi quelli derivanti da indennità, contratto, illecito civile o di qualsiasi altra derivazione, saranno diritti e benefici di ciascuna delle Terzi Parti Detentori di Diritti (come se ognuna di essere fosse parte di questo Accordo). Tali diritti e benefici, saranno esercitabili ai sensi di questo Accordo da Groupon International stesso e/o come agente per ognuna delle Terze Parti Detentori di Diritti.
+
+12.9. Sopravvivenza: In ogni caso, le disposizioni delle sezioni ‎1, ‎3, ‎4, ‎7, ‎11, ‎12 e ‎13 del presente Accordo, nonché le disposizioni che sono formulate per sopravvivere alla sua scadenza o al suo scioglimento o che per la loro natura o contesto si prevede che siano destinate a sopravvivere allo scioglimento dello stesso, saranno valide anche dopo lo scioglimento dell'Accordo. Nel caso in cui il Cliente utilizzi i Servizi o il Sito nuovamente, le disposizioni dei termini e condizioni al momento applicabili regoleranno il riutilizzo dei Servizi o del Sito. Nel caso in cui il Cliente utilizzi Coupon acquistati nell'ambito del presente Accordo, le disposizioni applicabili ai Coupon sopravvivranno allo scioglimento del presente Accordo.
+
+12.10. Separabilità: Nel caso in cui qualsiasi disposizione del presente Accordo sia ritenuta invalida, nulla o inefficace, tale disposizione dovrà essere ritenuta separata e, ove possibile, la validità e applicabilità delle disposizioni rimanenti del presente Accordo saranno salve.
+
+12.11. Legge applicabile: Il presente Contratto (e tutti i rapporti non contrattuali tra te e noi) saranno regolati e interpretati in conformità alla legge irlandese.
+
+13. DEFINIZIONI Nel presente Accordo, si utilizzano varie definizioni che l'Utente riconoscerà in quanto iniziano con lettera maiuscola. Questo è il loro significato:
+
+“Account” indica il tuo Account Groupon.
+
+“Responsabilità” indica la responsabilità per qualsivoglia causa (compresi l'inadempimento contrattuale, l'illecito extracontrattuale, le false dichiarazioni, la restituzione di somme non dovute o qualsiasi altra causa) relativa o derivante da o in relazione al presente Accordo (compresa la responsabilità espressamente prevista dal presente Accordo o derivante dall'invalidità o inapplicabilità di qualsiasi termine del presente Accordo) – e per gli scopi di questa definizione, ogni riferimento all’”Accordo” sarà inteso includere qualsiasi contratto collaterale.
+
+“Partner” indica un Venditore di Prodotti per i quali un Coupon può essere riscattato. Un Partner NON è uno dei “Venditori” o “Groupon International”.
+
+“Sito” indica i siti web, le applicazioni mobili, le comunicazioni elettroniche o i servizi, i siti di social media, o qualsiasi singolo sito web, di uno specifico partner commerciale o di uno specifico Partner, o altri siti specifici della città o altri siti specifici dell'area che contengono un collegamento o fanno riferimento a queste Condizioni di utilizzo.
+
+“Registrarsi” significa creare un Account sul Sito, e per “Registrazione” si intende l'azione di creare un account.
+
+“Servizi” indica tutti o alcuni dei servizi forniti da Groupon International tramite il Sito (o tramite altra comunicazione elettronica - o altrimenti – comunicazioni da Groupon International) comprese le applicazioni mobili, la nostra newsletter, le e-mail che ti inviamo e i servizi di informazione, i contenuti e le funzionalità sul Sito (tra cui la possibilità di fare un acquisto).
+
+“Coupon” indica un Coupon che viene venduto dai Venditori e può essere riscattato per ottenere i Prodotti di un Partner, salvi i termini e le condizioni indicati sul Coupon stesso e/o sulla pagina del Sito dedicata all’acquisto.
+
+“Prodotti ” indica i beni e/o i servizi che sono descritti come parte di un Coupon (e per i quali un Coupon può essere riscattato).
+
+ 
+
+***********************************
+
+ 
+
+CONDIZIONI DI VENDITA COUPON – GROUPON ITALIA S.R.L
+ 
+
+1. Informazioni generali
+
+1.1 Queste Condizioni di Vendita si applicano per ogni Coupon che acquistate da Groupon, operante in nome e per conto del Commerciante. 
+
+1.2 Groupon significa Groupon S.r.l., una società costituita secondo il diritto italiano, registrata in Italia e con la sua sede legale in Corso Buenos Aires 54, Milano, Italia. La partita I.V.A. di Groupon è 06964760968.
+
+1.3 Coupon significa uno strumento, in forma fisica o elettronica, che consente al proprietario di tale Coupon (il “Proprietario del Coupon”) di ricevere l'Offerta del Commerciante dal Commerciante durante il periodo di tempo stabilito sul Coupon (il “Periodo di Riscatto”).
+
+1.4 L'Offerta del Commerciante significa le merci e/o i servizi da fornire e/o da erogare da parte del Commerciante al Proprietario del Coupon, come specificato sul Sito di Groupon e sul Coupon.
+
+1.5 Il Commerciante è una terza parte non collegata a Groupon che vende, fornisce e/o eroga l'Offerta del Commerciante ed autorizza Groupon ad emettere, vendere e trasmettere il Coupon in nome e per conto del Commerciante. Il contratto per la fornitura e l’acquisto dell’Offerta del Commerciante sarà stipulato tra voi ed il Commerciante presso il quale viene riscattato il Coupon ed in ogni caso Groupon concluderà il contratto per conto di, ed in qualità di agente del Commerciante.  Groupon non vende, fornisce e/o eroga l'Offerta del Commerciante. Esso si limita ad emettere, vendere  e trasmetterVi il Coupon in nome e per conto del Commerciante.
+
+1.6 Queste Condizioni di Vendita sono state aggiornate da ultimo il 15.03.2019. Groupon, nella qualità di agente del Commerciante, si riserva il diritto di modificare unilateralmente e in qualsiasi momento le presenti Condizioni di Vendita. Tutte le modifiche alle presenti Condizioni di Vendita saranno pubblicate online e rese conoscibili mediante banner inseriti nella newsletter. Sarete vincolati soltanto alla versione delle Condizioni di Vendita che avete accettato al momento dell'acquisto di un Coupon.
+
+2. Acquisto di un Coupon
+
+2.1 Per acquistare un Coupon dovete avere come minimo 18 anni. Prima di potere effettuare un acquisto dovete registrarvi e creare un account con Groupon International Limited.
+
+2.2 Cliccando sul pulsante «Acquista Ora» inviate a Groupon, operante in nome e per conto del Commerciante, una proposta di acquisto del Coupon. Tuttavia, l'acquisto del Coupon non è perfezionato fintanto che non ricevete un'e-mail da Groupon, operante in nome e per conto del Commerciante, che conferma l'accettazione della vostra proposta. Groupon si riserva espressamente la facoltà di rifiutare la vostra proposta. Inoltre, anche se Groupon ha accettato la vostra proposta, essa può sciogliere il contratto in qualsiasi momento se esistono sospetti fondati che avete commesso o siete in procinto di commettere una qualsivoglia truffa a danno di Groupon, di un terzo affiliato di Groupon o del Commerciante.
+
+3. Riscatto di un Coupon
+
+3.1 Se non stabilito espressamente in modo diverso:
+
+(a) il Coupon può essere riscattato soltanto una volta;
+
+(b) il Coupon può essere riscattato soltanto con il Commerciante e non con Groupon;
+
+(c) il Coupon è valido per una sola persona; e
+
+(d) dovete seguire le istruzioni per il riscatto associate al Coupon quando riscattate il Coupon con il Commerciante.
+
+3.2 Tutti i Coupon venduti da Groupon sono Coupon che possono essere riscattati soltanto con il Commerciante.
+
+3.3 Per poter riscattare un Coupon dovete presentarlo al Commerciante entro il Periodo di Riscatto. Se non riscattate il Coupon entro il Periodo di Riscatto, lo stesso scadrà automaticamente. A quel punto, quindi, non potrà più essere riscattato e voi non avrete diritto ad alcun rimborso o risarcimento.
+
+3.4 Nel caso in cui l’Offerta del Commerciante sia un'offerta «Direct Checkout», Groupon raccoglierà i vostri dettagli di spedizione al momento dell'acquisto. Groupon farà poi pervenire questi dettagli al Commerciante. Il Commerciante avvierà il riscatto del vostro Coupon e vi invierà l'Offerta del Commerciante.
+
+3.5 Se non stabilito espressamente in modo diverso, il Coupon non dà diritto al Proprietario del Coupon di ricevere l'Offerta del Commerciante in un momento specifico. Si raccomanda caldamente di contattare il Commerciante in tempi brevi. Così facendo, avrete più possibilità di assicurarvi l’Offerta del Commerciante nel vostro periodo preferito. Tenete presente che Groupon non può influenzare le tempistiche vendita e/o l'erogazione dell'Offerta del Commerciante. Nel caso in cui l’Offerta del Commerciante stabilisca espressamente la consegna di un determinato bene o la prestazione di un determinato servizio entro un dato evento (ad es. Natale), e tale consegna o prestazione non si verifichi nei tempi promessi, potete ottenere un rimborso.
+
+3.6 Se riscattate il Coupon per merci e/o servizi diversi dall'Offerta del Commerciante, non avrete diritto a un accredito, a un rimborso in contanti o a un nuovo Coupon per la differenza tra il valore dell'Offerta del Commerciante e il valore attuale delle merci e/o dei servizi a voi forniti e/o erogati dal Commerciante. Se, invece, il Commerciante vi offre un bene o un servizio diverso dall’Offerta del Commerciante, potete ottenere, dietro adeguata prova da parte Vostra, un rimborso.
+
+3.7 I Coupon possono essere riscattati soltanto per la loro interezza. Non possono essere riscattati in parte o in fasi successive. Se, per qualsivoglia motivo, riscattate il Coupon con un Commerciante per un valore inferiore al valore originale (non scontato) dell'Offerta del Commerciante, non avrete diritto a un accredito, a un rimborso in contanti o a un nuovo Coupon per la differenza tra il valore originale (non scontato) e il valore riscattato.
+
+3.8 Su incarico del Commerciante Groupon può raccogliere le tasse di registrazione o altri costi connessi con l'acquisto e/o il riscatto di un Coupon. Tutte le tasse o i costi (se applicabili) vi saranno comunicati prima dell'acquisto del Coupon.
+
+3.9 Se il Commerciante non è in grado di fornire e/o erogare l'Offerta del Commerciante come descritto per ragioni impreviste, Groupon, per conto del Commerciante, ve lo comunicherà il prima possibile per e-mail. 
+
+4. Utilizzo di un Coupon
+
+4.1 Ogni acquisto di un Coupon è soltanto per il vostro uso personale e non commerciale (anche se potete dare il Coupon a un'altra persona per il suo uso personale e non commerciale).
+
+4.2 Siete pienamente responsabili del vostro Coupon. Né Groupon né il Commerciante rispondono per la perdita o il furto di Coupon o per il recupero dei numeri di riferimento o dei codici di sicurezza dei Coupon.
+
+4.3 Vi impegnate a non fornire dati falsi, compresi nomi, indirizzi e/o contatti o dettagli di pagamento falsi né a commettere qualsiasi attività illegale in relazione all'acquisto o all'utilizzo di un Coupon, né a permettere a terzi di agire in tal modo.
+
+4.4 Qualsiasi tentativo di riscattare un Coupon contrariamente a queste Condizioni di Vendita può rendere, a discrezione di Groupon, nullo tale Coupon.
+
+4.5 È' vietata la riproduzione di un Coupon.
+
+4.6 È vietato lo scambio commerciale di un Coupon.
+
+5. Recesso (ed eccezioni), Rimborsi e Problemi
+
+5.1 Per legge avete il diritto di recedere dal vostro acquisto del Coupon entro e non oltre 14 giorni di calendario a partire dal giorno successivo alla ricezione dell'e-mail di conferma (il «Periodo di Cancellazione del Coupon»). Tuttavia, se riscattate il vostro Coupon durante il Periodo di Cancellazione del Coupon, chiedete espressamente a Groupon, operante in nome e per conto del Commerciante , di iniziare a ricevere i servizi e accettate di perdere il diritto di recesso dall’acquisto del Coupon. Una volta che il Vostro Coupon è riscattato, Groupon, in nome e per conto del Commerciante, ha completato l’emissione, vendita e trasmissione del Coupon in  toto. Vogliate notare, a scanso di equivoci, che questo capitolo si applica anche a tutte le offerte «Direct Checkout».
+
+5.2 Se desiderate recedere dal vostro acquisto di un Coupon, potete farlo nei seguenti modi:
+
+5.2.1 compilando e inviando il modulo di annullamento on-line alla seguente pagina https://static.groupon.it/mail_img/global/forms/IT_Voucher_Cancellation_Form.pdf 
+
+5.2.2 contattandoci a http://www.groupon.it/contact
+
+5.2.3 chiamando il team dell'assistenza clienti al numero Telefono: 02 94754424 (costi variano a seconda del proprio piano tariffario).
+
+5.3 Se recedete dal vostro acquisto del Coupon ai sensi del presente capitolo 5, Groupon vi rimborserà tutti i pagamenti effettuati per il vostro acquisto entro e non oltre 14 giorni di calendario a partire dal giorno in cui informate Groupon del vostro recesso.
+
+5.4 Se non avete avuto la possibilità di riscattare il vostro Coupon con il Commerciante prima della scadenza del Periodo di Riscatto per cause non imputabili a voi, potete ottenere un rimborso. A questi fini, dovete dimostrare, in modo soddisfacente per Groupon, che la vostra impossibilità a riscattare il Coupon non è imputabile a voi.
+
+5.5 Se riscattate il vostro Coupon ma il Commerciante non vi ha fornito come di dovere l'Offerta del Commerciante, o se avete un reclamo riguardo l'erogazione dell'Offerta del Commerciante, dovete attivarvi direttamente con il Commerciante. Questo perchè il Commerciante e non Groupon è responsabile per la fornitura e/o l’erogazione dell’Offerta del Commerciante. Groupon si limita a vendere e fornire il Coupon, operando in nome e per conto del Commerciante. Tuttavia, se voi e il Commerciante non riuscite ad accordarvi su come risolvere il problema, Groupon, operante in nome e per conto del Commerciante, può, dietro vostra richiesta, cercare di risolvere la vertenza. 5.6 Se il Commerciante richiede il pagamento di costi aggiuntivi per l’erogazione dell’Offerta del Commerciante e siete in grado di dimostrare tale circostanza, potete ottenere un rimborso.
+
+5.7 Il rimborso in contanti sarà effettuato tramite il metodo originale di pagamento adottato. Se il vostro metodo di pagamento originale è stato cancellato, è scaduto o è stato altrimenti modificato, dovete informare immediatamente il team dell'assistenza clienti alla seguente pagina http://contactus.groupon.it/. Se omettete tale comunicazione e siete stati rimborsati secondo il vostro metodo originale di pagamento, potrebbe essere necessario contattare la vostra banca o il vostro gestore di pagamenti per ottenere il vostro rimborso. Groupon effettua solo un rimborso.
+
+5.8 Avete 30 giorni di tempo dal momento della ricezione del rimborso per rifiutarlo. Se non rifiutate il rimborso durante questi 30 giorni, il rimborso sarà la piena e definitiva liquidazione di qualsiasi pretesa che potreste avanzare nei confronti di Groupon connessa a, derivante da o collegata a tale Coupon.
+
+6. Responsabilità per l'Offerta del Commerciante
+
+6.1 Vogliate tenere presente che è il Commerciante, e non Groupon,:
+
+6.1.1 il venditore, il fornitore e/o l'erogatore dell'Offerta del Commerciante;
+
+6.1.2 la parte che stipula un contratto con il Proprietario del Coupon quando il Coupon è riscattato; e
+
+6.1.3 il responsabile per la fornitura al Proprietario del Coupon dell'Offerta del Commerciante.
+
+7. Gli Standard di Groupon per i Servizi e la Responsabilità
+
+7.1 Groupon, nella qualità di agente del Commerciante, garantisce che:
+
+7.1.1 eserciterà ragionevole cura e diligenza nell’adempiere i propri obblighi derivanti dalle presenti Condizioni di Vendita;
+
+7.1.2 i Coupon sono di qualità soddisfacente e adatti al loro scopo; e
+
+7.1.3 non contravviene ai requisiti di correttezza o di diligenza professionale nello svolgimento della sua attività.
+
+7.2 Groupon risponde sempre per: (a) la morte e il danno personale riconducibili direttamente alla negligenza di Groupon; (b) frode o travisamento fraudolento da Groupon stessa posto in essere; o (c) qualsiasi condizione contrattuale implicita che non può essere esclusa o limitata ai sensi della legislazione applicabile.
+
+7.3 Salvo quanto stabilito nel capitolo 7.2 di cui sopra, Groupon non è responsabile per qualsiasi altra perdita o per qualsiasi altro danno che potreste subire, compresa ogni perdita indiretta o conseguente.
+
+7.4 Groupon declina ogni responsabilità per la violazione di obblighi nascenti dalle presenti Condizioni di Vendita ove Groupon stessa non abbia potuto ottemperare a tali obblighi per cause che esulino dal suo ragionevole controllo.
+
+8. Sito di Groupon
+
+Il Sito di Groupon (il «Sito») significa il sito web su Internet, le applicazioni mobili, le comunicazioni o i servizi elettronici o qualsiasi ubicazione dalla quale potete acquistare un Coupon da Groupon. Il Sito su quale Groupon commercializza i Coupon appartiene a Groupon International Limited. Troverete ulteriori informazioni circa le condizioni di utilizzo del Sito, che sono espressamente parte integrante delle presenti Condizioni di Vendita, qui https://www.groupon.it/legal/termsofservice.
+
+9. Varie ed eventuali
+
+9.1 Se violate le presenti Condizioni di Vendita e Groupon non intraprende nessuna azione giudiziaria contro di voi, ciò non significa che Groupon ha rinunciato a fare valere i propri diritti e e le proprie azioni.
+
+9.2 Se non stabilito diversamente in queste Condizioni di Vendita, le comunicazioni alle parti devono avvenire per iscritto e devono essere inviate per posta elettronica (salvo il caso in cui siano inviate per fini di notificazione di atti processuali) o per posta prepagata. Qualsiasi comunicazione che vi invierà Groupon sarà all'indirizzo da voi fornito in occasione della registrazione del vostro account Groupon. Potete inviare qualsiasi comunicazione a Groupon all'indirizzo di cui al capitolo 1.2.
+
+9.3 Se una qualsiasi disposizione delle presenti Condizioni di Vendita dovesse essere dichiarata non valida o non efficace, la validità ed efficacia delle rimanenti disposizioni del presente Contratto non saranno interessate. Tale disposizione invalida o inefficace sarà sostituita da una disposizione valida ed efficace che raggiunga il più possibile l'effetto economico previsto dalla disposizione ritenuta invalida o inefficace.
+
+9.4 Le presenti Condizioni di Vendita sono regolate e interpretate ai sensi della legge italiana, a prescindere dall’applicazione di qualsivoglia legge di conflitto o dalla scelta eventualmente operata dalle parti. Eventuali controversie saranno soggette alla competenza esclusiva del Tribunale del vostro luogo di residenza o domicilio.
+
+
+ 
+
+***********************************
+
+ 
+
+Condizioni di Vendita - Groupon Goods Global GmbH
+ 
+
+Questa pagina stabilisce le condizioni di vendita di Merci da parte di Groupon Goods a voi.
+
+1. Contratto e informazione circa la procedura di ordinazione
+
+1.1. Le parti di questo contratto: le presenti Condizioni di Vendita («Condizioni di Vendita») costituiscono un accordo tra voi, il cliente (qui di seguito denominati «voi» o «il vostro») e Groupon Goods Global GmbH (qui di seguito denominato «Groupon Goods», «noi» o «il nostro»). Siamo una società registrata in Svizzera (numero REA CHE-497.202.638) con sede legale in c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffausen, Svizzera, P. IVA IT08317410960.
+
+1.2. Le presenti Condizioni di Vendita si applicano: se effettuate un ordine con noi, accettate di essere vincolati dalle presenti Condizioni di Vendita e dalla nostra Politica dei Resi.
+
+1.3. La vostra offerta: se cliccate sul pulsante «Acquista adesso», effettuate un'offerta per l'acquisto di prodotti venduti da Groupon Goods (le «Merci»). Se cliccate su «Acquista adesso», riconoscete esplicitamente che, se accettiamo il vostro ordine, siete obbligati a pagare per le Merci. Dovete avere compiuto 18 anni per acquistare le Merci.
+
+1.4. Una copia delle presenti Condizioni di Vendita: vi consigliamo di conservare una copia del presente contratto tra di noi (le presenti Condizioni di Vendita) e vi consigliamo di stampare tali Condizioni di Vendita come documento di riferimento.
+
+1.5. I vostri diritti di legge: in quanto consumatore, nessuna disposizione delle presenti Condizioni di Vendita incide sui vostri diritti stabiliti dalla legge relativi a merci difettose o non conformi o sul vostro diritto di recedere dal contratto.
+
+1.6. Aggiornamenti delle presenti Condizioni di Vendita: le presenti Condizioni di Vendita sono state aggiornate da ultimo il 27.06.2017 (versione 004b). Ci riserviamo il diritto di modificare le presenti Condizioni di Vendita in qualsiasi momento (tali modifiche saranno pubblicate on-line). Qualsiasi modifica, apportata alle presenti Condizioni di Vendita dopo la trasmissione da parte vostra del vostro ordine, non si applicherà a voi in relazione a tale ordine.
+
+2. Prezzi e acquisto
+
+2.1. Prezzi e chi pagate: noi accettiamo ed elaboriamo il vostro pagamento per il vostro ordine. Tutti i prezzi (comprese le spese di spedizione) per le Merci includono l'I.V.A. applicabile. I prezzi vi sono comunicati prima del vostro acquisto e alla conferma dell'ordine. I nostri prezzi possono cambiare in qualsiasi momento, ma i cambiamenti non si applicano sul vostro ordine già concluso, salvo nei casi descritti di seguito alle Clausole 2.4 e 2.5.
+
+2.2. Spese di spedizione: i prezzi possono comprendere o non comprendere le spese di spedizione. Eventuali spese saranno indicate in apposita sezione presente sull’offerta. Se le spese di spedizione non sono incluse nel prezzo di vendita (e ciò sarà adeguatamente e chiaramente indicato), tali spese saranno riportate separatamente e aggiunte all'importo totale prima che completiate il vostro ordine. Se ci chiederete di programmare la consegna in un determinato momento e voi non sarete disponibili nel momento concordato, potremmo applicarvi i costi per riprogrammare la consegna.
+
+2.3. Effettuare il vostro ordine: dopo avere effettuato il vostro ordine cliccando sul pulsante «Acquista adesso» e accettando le presenti Condizioni di Vendita, il contratto si intenderà perfezionato quando avrete ricevuto un'e-mail di conferma della nostra accettazione del vostro ordine. Tuttavia, ci riserviamo il diritto di rifiutare la vostra offerta e di non concludere un contratto con voi. Se abbiamo accettato il vostro ordine, riceverete un'altra e-mail a conferma della spedizione delle Merci. Vogliate tenere presente che, se riteniamo ragionevolmente che il vostro ordine sia fraudolento o che abbiate violato, in altro modo, la legislazione applicabile al momento dell'ordine, ci riserviamo il diritto di annullare il vostro ordine anche se lo abbiamo accettato.
+
+2.4. Errori e omissioni: occasionalmente può verificarsi un errore o un'omissione in relazione ai prezzi o alla descrizione delle Merci che vendiamo. Faremo ogni ragionevole sforzo per correggere qualsiasi errore od omissione appena possibile dopo essere stati avvertiti o esserne venuti a conoscenza. Ci riserviamo il diritto di cambiare, modificare, sostituire, sospendere o rimuovere senza preavviso qualsiasi errore od omissione riguardo alle Merci in vendita (comprese le Merci stesse).
+
+2.5. Errori e omissioni post acquisto: nel caso in cui commettiamo un errore o un’omissione e voi avete già acquistato le Merci:
+
+(a) se il prezzo attuale per le Merci è inferiore a quello indicato al momento del vostro acquisto delle Merci, vi applicheremo il prezzo inferiore; o
+
+(b) se il prezzo delle Merci è maggiore a quello indicato, vi contatteremo e vi consentiremo di scegliere se pagare il prezzo corretto (maggiore) o annullare il vostro ordine e ricevere un rimborso pieno.
+
+3. Consegna delle merci
+
+3.1. Modificare il vostro ordine: una volta che avete effettuato il vostro ordine, non siamo in grado di modificare in nessun modo il vostro ordine, compreso la quantità delle Merci o l'indirizzo di consegna. Questa Clausola non influisce sull’esercizio del diritto di recesso o su qualsiasi altro diritto che potreste avere in relazione all'acquisto in questione.
+
+3.2. Spedizione: le opzioni di spedizione di Groupon Goods variano a seconda dell'offerta. Il vostro acquisto non può essere spedito fuori dall'Italia.
+
+3.3. Previsioni di consegna: i tempi di prevista consegna sono indicati in apposita sezione dell’offerta. Faremo il possibile per rispettare la data indicata per la consegna. Vogliate tenere presente che se non stabilito diversamente, i tempi di prevista consegna sono soltanto previsioni; non sono, quindi, tempi di consegna garantiti e non devono essere considerati come tali. Nel caso in cui sia espressamente garantita la data di consegna oppure sia espressamente garantita la fruizione e quindi la consegna della Merce entro il verificarsi di un certo evento (ad esempio Natale) e tale consegna non sia da noi rispettata per fatto a noi imputabile, avrete diritto al rimborso del prezzo pagato.
+
+3.4. Titolo: la proprietà delle Merci vi sarà trasferita quando le Merci saranno state consegnate all'indirizzo di consegna che ci avrete comunicato.
+
+4. Recesso
+
+4.1. Il vostro diritto di recesso: nessuna disposizione delle presenti Condizioni di Vendita incide sul vostro diritto di recedere dagli ordini entro 14 giorni di calendario dal giorno in cui voi, o un terzo da voi indicato, ricevete le Merci. Se avete ordinato più Merci con un singolo ordine, o se la consegna delle vostre Merci consiste in vari pezzi, il periodo di recesso decorre dal ricevimento dell'ultimo articolo o pezzo.
+
+4.2. Se desiderate recedere dal vostro ordine, potete farlo nei seguenti modi:
+
+(a) compilando e inviando il nostro modulo standard di recesso, messo a vostra disposizione tramite l'e-mail di conferma;
+
+(b) contattandoci via https://www.groupon.it/customer_support;
+
+(c) per posta all'indirizzo alla Clausola 1.1;
+
+(d) tramite comunicazione consegnata a mano.
+
+4.3. Dovete prestare attenzione al fine di garantire un imballaggio idoneo delle Merci onde evitare il loro danneggiamento durante il trasporto. Le spese per la restituzione delle Merci sono a vostro carico. Vi consigliamo di usare un servizio di spedizione tracciato quando restituite le Merci.
+
+4.4 Il rimborso sarà effettuato, mediante lo storno dell’addebito relativo al prezzo pagato, entro 14 giorni dalla data di ricezione del prodotto (o, se applicabile, dalla data in cui ci fornite la prova dell'invio del prodotto).
+
+4.5. Le seguenti Merci sono escluse dal diritto di recesso:
+
+(a) merci deperibili quali generi alimentari o fiori;
+
+(b) registrazioni audio/video; DVD o software per computer che avete rimosso dall'imballaggio sigillato nel quale vi erano stati consegnati;
+
+(c) merci realizzate su vostre specifiche;
+
+(d) periodici o riviste;
+
+(e) lotterie o giochi d'azzardo;
+
+(f) tutte le altre Merci che per la loro natura non possono essere restituite, comprese quelle che verrebbero danneggiate durante il trasporto.
+
+4.6. Restituzione delle Merci: vogliate tenere presente che se esercitate il vostro diritto di recesso dal vostro acquisto, dovete restituirci le Merci entro e non oltre 14 giorni di calendario dall’esercizio di tale recesso.
+
+4.7. Possiamo annullare: potremmo essere costretti ad annullare un ordine prima della consegna delle Merci a seguito di un evento al di fuori del nostro ragionevole controllo, compresi un guasto all'equipaggiamento o difficoltà di trasporto. Se ciò dovesse accadere, sarete prontamente contattati tempestivamente.
+
+5. Resi e rimborsi
+
+5.1. La nostra politica dei resi: ogni articolo che vendiamo è coperto dalla nostra Politica dei Resi . Oltre al vostro diritto di restituire le Merci entro 14 giorni di calendario dal giorno in cui voi, o un terzo da voi indicato, ricevete le Merci, siete titolari di tutti i diritti di garanzia applicabili, incluse le garanzie per merci non conformi o difettose.
+
+5.2. Titolo sulle Merci restituite: assumiamo il titolo sulle Merci restituite soltanto quando le stesse saranno giunte alla nostra destinazione del reso. Ci riserviamo il diritto di corrispondere un rimborso senza richiedere la restituzione. In quest’ultimo caso, non assumiamo il titolo su tali Merci.
+
+5.3. Problemi con le vostre Merci rese: ci riserviamo il diritto di rifiutare il rimborso e di richiedervi i costi della spedizione del vostro reso se dovesse risultare (i) che le Merci hanno subito danni dopo la consegna al vostro indirizzo; (ii) che le Merci sono state utilizzate scorrettamente o non conformemente alle istruzioni o per scopi di ispezione; o (iii) se il problema con le Merci è dovuto a normale usura. La presente Clausola 5.3 non limita il, o influisce sul, vostro diritto di recedere dal vostro contratto e di restituire le merci ai sensi della Clausola 4, o sui vostri diritti di garanzia se le merci fornitevi sono errate o difettose.
+
+6. Informazioni sulle merci
+
+6.1. Non siamo il produttore: non siamo il produttore delle Merci che vendiamo. Anche se ci impegniamo per garantire che le Merci corrispondano alla descrizione che abbiamo fornito, che siano di qualità soddisfacente e che siano idonee all'uso, le Merci possono variare leggermente da tali informazioni sul prodotto. Prima dell'uso, vi consigliamo di leggere tutte le informazioni disponibili sulle etichette, nonché tutte le avvertenze e indicazioni che accompagnano le Merci. Qualsiasi garanzia data da noi, dal produttore o dall'importatore non influisce sui diritti e sulle azioni legali che potreste esercitare ai sensi del presente contratto e della legge applicabile.
+
+6.2. Accuratezza delle descrizioni: abbiamo fatto il possibile per esporre nel modo più preciso i colori e gli altri dettagli delle Merci. Tuttavia, i colori e i dettagli che vedete nella pubblicità dipendono dagli apparecchi che utilizzate per visionare le Merci. Non possiamo garantire che la visualizzazione dei singoli colori o dettagli sulla vostra televisione, sul vostro dispositivo mobile, sul vostro monitor del computer o su un altro dispositivo corrisponda esattamente ai colori o ai dettagli delle Merci alla consegna.
+
+6.3. Merci per la cura della salute e sicurezza: per le Merci utili alla cura della salute, in caso di dubbio sulla sicurezza o su qualsiasi altra informazione relativa al prodotto, vi raccomandiamo di leggere attentamente le informazioni fornite con il prodotto o di contattare il produttore. I contenuti presenti sui siti web non intendono sostituire i consigli dati da un medico, farmacista o altro professionista sanitario abilitato. I clienti devono contattare immediatamente il loro medico se sospettano di avere un problema di salute. Le informazioni e le dichiarazioni sulle Merci non sono volte a diagnosticare, trattare, curare o prevenire malattie o alterate condizioni di salute. Decliniamo qualsiasi responsabilità per inesattezze o esposizioni errate sulle Merci imputabili ai produttori o a soggetti terzi.
+
+7. Responsabilita'
+
+7.1. Gli standard secondo i quali operiamo: cerchiamo di fare sempre il meglio per quanto facciamo e garantiamo che:
+
+(a) eserciteremo ragionevole cura e competenza nel soddisfare ogni obbligo derivante dalle presenti Condizioni di Vendita;
+
+(b) abbiamo il diritto di vendere le Merci;
+
+(c) vendiamo le Merci soltanto per l'uso domestico e privato;
+
+(d) le Merci sono di qualità soddisfacente e idonee al loro scopo;
+
+(e) non contravveniamo ai requisiti di correttezza o di diligenza professionale nello svolgimento della nostra attività.
+
+7.2. La presente Clausola 7 prevale su tutte le altre Clausole (eccetto che sulla Clausola 1.5) e stabilisce l’intera nostra Responsabilità.
+
+7.3. Siamo responsabili per: nessuna disposizione delle presenti Condizioni di Vendita escluderà o limiterà la nostra Responsabilità per (i) frode; (ii) colpa grave, esclusa colpa grave non imputabile a noi; o (iii) qualsiasi Responsabilità che non può essere esclusa o limitata dalla legislazione vigente. Siete obbligati a prendere le misure adeguate per evitare e ridurre danni.
+
+7.4. Categorie di perdita per le quali non siamo responsabili: nonostante la Clausola 7.3, poiché vendiamo soltanto Merci destinate all'uso domestico e privato, in linea di principio non siamo responsabili per: (a) perdita di proventi o reddito; (b) perdita di guadagni reali o previsti; (c) perdita di affari; e (d) perdita indiretta o conseguente (e a scanso di dubbio, alle parole «perdita conseguente» diamo il significato di «perdite conseguenti che le stesse siano prevedibili, note, previste o di altro genere»).
+
+7.5. «Responsabilità»: significa responsabilità in o per qualsiasi causa (compresa ogni violazione contrattuale, fatto illecito, falsa dichiarazione, risarcimento o qualsiasi altra causa di natura legale) relativa a o derivante da o in connessione con le presenti Condizioni di Vendita (compresa la responsabilità espressamente fornita ai sensi delle presenti Condizioni di Vendita o derivante da causa di invalidità o inefficacia delle presenti Condizioni di Vendita).
+
+8. Disposizioni generali
+
+8.1. Interpretazione: nelle presenti Condizioni di Vendita:
+
+(a) le parole che denotano persone, comprese le persone fisiche, società di persone, società a responsabilità limitata, persone giuridiche e associazioni di persone prive di personalità giuridica;
+
+(b) titoli di Clausole quali («8. «Disposizioni Generali» all'inizio della presente Clausola) e titoli di Clausole (quali «Interpretazione:» all'inizio della presente Clausola 8.1) sono volte a facilitare i riferimenti e non formano parte o influiscono sull'interpretazione delle presenti Condizioni di Vendita;
+
+(c) riferimenti a «compreso» e «comprendendo» devono essere altresì considerati come significare rispettivamente «comprende/ono) senza limitazione» e «compreso senza limitazione».
+
+8.2. Nessuna società di persone/agenzia: nessuna disposizione delle presenti Condizioni di Vendita potrà essere interpretata come costituente una joint venture, una società di persone o un rapporto di agenzia tra noi e voi e nessuna parte potrà assumere responsabilità, debito o costo, o stipulare qualsivoglia contratto in nome o per conto dell'altra.
+
+8.3. Cessione: non potete cedere o altrimenti trasferire tutti o parte dei vostri diritti od obblighi previsti dalle presenti Condizioni di Vendita senza la nostra previa approvazione scritta. Non rifiuteremo questa approvazione senza un valido motivo. Avremo il diritto di cedere o di altrimenti trasferire tutti o parte dei nostri diritti od obblighi previsti dalle presenti Condizioni di Vendita a qualsiasi persona.
+
+8.4. Eventi che esulano dal nostro ragionevole controllo: non saremo responsabili per violazioni dei nostri obblighi sanciti dalle presenti Condizioni di Vendita ove fossimo impediti od ostacolati nell'ottemperanza dei medesimi obblighi da qualsiasi causa che esula dal nostro ragionevole controllo. Laddove si verifichi un evento fuori dal nostro ragionevole controllo che influenzi la nostra capacità di ottemperare ai nostri obblighi ai sensi delle presenti Condizioni di Vendita, i medesimi obblighi saranno prorogati per la durata dell'evento e noi vi informeremo di ciò il prima possibile. Quando l'evento impeditivo sarà superato, concorderemo con voi una nuova data di consegna delle vostre Merci, ove possibile.
+
+8.5. Il nostro ambito di applicabilità: intendiamo applicare alla Vendita delle Merci nei vostri confronti soltanto le condizioni stabilite nelle presenti Condizioni di Vendita e nessun’altra dichiarazione fatta altrove.
+
+8.6. Nessuna rinuncia: nessuna tolleranza da parte nostra di una qualsiasi violazione da parte vostra delle presenti Condizioni di Vendita varrà o potrà essere interpretata come una rinuncia da parte nostra a far valere qualsiasi futura violazione, sia essa simile o differente. Nessun ritardo da parte nostra nell'intraprendere iniziative legali relative alla vostra violazione vi potrà esonerare o potrà, in altro modo, influire sulla vostra responsabilità ai sensi delle presenti Condizioni di Vendita.
+
+8.7. Comunicazioni: se non stabilito diversamente nelle presenti Condizioni di Vendita, le comunicazioni alle parti devono avvenire per iscritto e devono essere inviate per posta elettronica (salvo che non si tratti di una comunicazione valida ai fini della notificazione di atti processuali) o per posta prepagata, a voi all’indirizzo che ci avete fornito e a noi alla nostra sede legale.
+
+8.8. Nessun diritto di terzi: tutte le disposizioni delle presenti Condizioni di Vendita trovano applicazione in egual misura e sono a beneficio di Groupon Goods, della(e) sua(e) affiliata(e) e del suo fornitore terzo/dei suoi fornitori terzi di contenuto e dei suoi licenziatari e ognuno avrà il diritto di esercitare e far valere tali disposizioni direttamente. Fatto salvo quanto precede, nessuna condizione delle presenti Condizioni di Vendita può essere altrimenti applicata da qualsiasi persona che non sia una parte delle stesse.
+
+8.9. Sopravvivenza: in ogni caso, le disposizioni delle Clausole 1, 2, 4, 7 e 8 delle presenti Condizioni di Vendita, insieme a quelle disposizioni che sono espressamente indicate come volte a sopravvivere alla scadenza o risoluzione dell’Accordo o che per la loro natura o per il loro contesto sono intese sopravvivere a tale risoluzione, sopravvivranno alla risoluzione dell'Accordo.
+
+8.10. Separabilità: se qualsiasi disposizione delle presenti Condizioni di Vendita dovesse essere ritenuta illegale, invalida o inefficace, tale disposizione sarà rimossa dalle presenti Condizioni di Vendita senza influenzare le rimanenti disposizioni delle presenti Condizioni di Vendita. Ove possibile, la validità e l'efficacia delle rimanenti disposizioni delle presenti Condizioni di Vendita non saranno compromesse.
+
+8.11. Legge applicabile e risoluzione delle controversie: faremo il possibile per risolvere qualsiasi controversia derivante dalle presenti Condizioni di Vendita. Se desiderate intraprendere un'azione legale nei nostri confronti, le presenti Condizioni di Vendita (e tutte le relazioni non contrattuali tra voi e noi) saranno disciplinate e interpretate in conformità alla legislazione italiana ed entrambe le parti con il presente Accordo si dichiarano soggette alla giurisdizione esclusiva dei tribunali competenti in Italia dove avete la vostra residenza o il vostro domicilio. Le parti concordano altresì che la Convenzione delle Nazioni Unite sulla Vendita Internazionale di Merci non trova applicazione in questo Accordo.
+
+9. Assistenza clienti
+
+Informazione di contatto
+
+Telefono: 02 947 54 424
+
+Contattaci: https://www.groupon.it/customer_support
+
+ 
+
+***********************************
+
+ 
+
+Condizioni di vendita coupon – Groupon International Travel GmbH
+ 
+
+1. Informazioni generali
+
+1.1 Queste Condizioni di Vendita si applicano per ogni Coupon che acquistate da Groupon International Travel Gmbh.
+
+1.2 Groupon significa Groupon International Travel GmbH, una società costituita secondo il diritto svizzero, con la sua sede legale in c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Svizzera (numero REA CHE-180.110.104). La partita IVA della società è CHE-349.386.564 MWST.
+
+1.3 Coupon significa uno strumento, in forma fisica o elettronica, che consente al proprietario di tale Coupon (il “Proprietario del Coupon”) di ricevere l'Offerta del Commerciante dal Commerciante durante il periodo di tempo stabilito sul Coupon (il “Periodo di Riscatto”).
+
+1.4 L'Offerta del Commerciante significa le merci e/o i servizi da fornire e/o da erogare da parte del Commerciante al Proprietario del Coupon, come specificato sul Sito di Groupon e sul Coupon.
+
+1.5 Il Commerciante è una terza parte non collegata a Groupon che vende, fornisce e/o eroga l'Offerta del Commerciante. Groupon non vende, fornisce e/o eroga l'Offerta del Commerciante. Esso si limita a vendere e fornire il Coupon.
+
+1.6 Queste Condizioni di Vendita sono state aggiornate da ultimo il 27.06.2017. Groupon si riserva il diritto di modificare unilateralmente e in qualsiasi momento le presenti Condizioni di Vendita. Tutte le modifiche alle presenti Condizioni di Vendita saranno pubblicate online e rese conoscibili mediante banner inseriti nella newsletter. Sarete vincolati soltanto alla versione delle Condizioni di Vendita che avete accettato al momento dell'acquisto di un Coupon.
+
+2. Acquisto di un Coupon
+
+2.1 Per acquistare un Coupon dovete avere come minimo 18 anni. Prima di potere effettuare un acquisto dovete registrarvi e creare un account con Groupon International Limited.
+
+2.2 Cliccando sul pulsante «Acquista Ora» inviate a Groupon una proposta di acquisto del Coupon. Tuttavia, l'acquisto del Coupon non è perfezionato fintanto che non ricevete un'e-mail da Groupon che conferma l'accettazione della vostra proposta. Groupon si riserva espressamente la facoltà di rifiutare la vostra proposta. Inoltre, anche se Groupon ha accettato la vostra proposta, essa può sciogliere il contratto in qualsiasi momento se esistono sospetti fondati che avete commesso o siete in procinto di commettere una qualsivoglia truffa a danno di Groupon, di un terzo affiliato di Groupon o del Commerciante.
+
+2.3 Il Commerciante può applicare i suoi termini e condizioni alla vendita, fornitura e/o erogazione dell'Offerta del Commerciante.
+
+3. Riscatto di un Coupon
+
+3.1 Se non stabilito espressamente in modo diverso:
+
+(a) il Coupon può essere riscattato soltanto una volta;
+
+(b) il Coupon può essere riscattato soltanto con il Commerciante e non con Groupon;
+
+(c) il Coupon è valido per una sola persona; e
+
+(d) dovete seguire le istruzioni per il riscatto associate al Coupon quando riscattate il Coupon con il Commerciante.
+
+3.2 Tutti i Coupon venduti da Groupon sono Coupon che possono essere riscattati soltanto con il Commerciante.
+
+3.3 Per poter riscattare un Coupon dovete presentarlo al Commerciante entro il Periodo di Riscatto. Se non riscattate il Coupon entro il Periodo di Riscatto, lo stesso scadrà automaticamente. A quel punto, quindi, non potrà più essere riscattato e voi non avrete diritto ad alcun rimborso o risarcimento.
+
+3.4 Nel caso in cui l’Offerta del Commerciante sia un'offerta «Direct Checkout», Groupon raccoglierà i vostri dettagli di spedizione al momento dell'acquisto. Groupon farà poi pervenire questi dettagli al Commerciante per vostro conto. Il Commerciante avvierà il riscatto del vostro Coupon e vi invierà l'Offerta del Commerciante.
+
+3.5 Se non stabilito espressamente in modo diverso, il Coupon non dà diritto al Proprietario del Coupon di ricevere l'Offerta del Commerciante in un momento specifico. Si raccomanda caldamente di contattare il Commerciante in tempi brevi. Così facendo, avrete più possibilità di assicurarvi l’Offerta del Commerciante nel vostro periodo preferito. Tenete presente che Groupon non può influenzare la vendita e/o l'erogazione dell'Offerta del Commerciante. Nel caso in cui l’Offerta del Commerciante stabilisca espressamente la consegna di un determinato bene o la prestazione di un determinato servizio entro un dato evento (ad es. Natale), e tale consegna o prestazione non si verifichi nei tempi promessi, potete ottenere un rimborso.
+
+3.6 Se riscattate il Coupon per merci e/o servizi diversi dall'Offerta del Commerciante, non avrete diritto a un accredito, a un rimborso in contanti o a un nuovo Coupon per la differenza tra il valore dell'Offerta del Commerciante e il valore attuale delle merci e/o dei servizi a voi forniti e/o erogati dal Commerciante. Se, invece, il Commerciante vi offre un bene o un servizio diverso dall’Offerta del Commerciante, potete ottenere, dietro adeguata prova da parte Vostra, un rimborso.
+
+3.7 I Coupon possono essere riscattati soltanto per la loro interezza. Non possono essere riscattati in parte o in fasi successive. Se, per qualsivoglia motivo, riscattate il Coupon con un Commerciante per un valore inferiore al valore originale (non scontato) dell'Offerta del Commerciante, non avrete diritto a un accredito, a un rimborso in contanti o a un nuovo Coupon per la differenza tra il valore originale (non scontato) e il valore riscattato.
+
+3.8 Su incarico del Commerciante Groupon può raccogliere le tasse di registrazione o altri costi connessi con l'acquisto e/o il riscatto di un Coupon. Tutte le tasse o i costi (se applicabili) vi saranno comunicati prima dell'acquisto del Coupon.
+
+3.9 Se il Commerciante non è in grado di fornire e/o erogare l'Offerta del Commerciante come descritto per ragioni impreviste, Groupon ve lo comunicherà il prima possibile per e-mail. Groupon vi proporrà o un nuovo Coupon per servizi simili o uguali (se disponibile) o il rimborso del prezzo di acquisto del Coupon.
+
+4. Utilizzo di un Coupon
+
+4.1 Ogni acquisto di un Coupon è soltanto per il vostro uso personale e non commerciale (anche se potete dare il Coupon a un'altra persona per il suo uso personale e non commerciale).
+
+4.2 Siete pienamente responsabili del vostro Coupon. Né Groupon né il Commerciante rispondono per la perdita o il furto di Coupon o per il recupero dei numeri di riferimento o dei codici di sicurezza dei Coupon.
+
+4.3 Vi impegnate a non fornire dati falsi, compresi nomi, indirizzi e/o contatti o dettagli di pagamento falsi né a commettere qualsiasi attività illegale in relazione all'acquisto o all'utilizzo di un Coupon, né a permettere a terzi di agire in tal modo.
+
+4.4 Qualsiasi tentativo di riscattare un Coupon contrariamente a queste Condizioni di Vendita può rendere, a discrezione di Groupon, nullo tale Coupon.
+
+4.5 È vietata la riproduzione di un Coupon.
+
+4.6 È vietato lo scambio commerciale di un Coupon.
+
+5. Recesso (ed eccezioni), Rimborsi e Problemi
+
+5.1 Per legge avete il diritto di recedere dal vostro acquisto del Coupon entro e non oltre 14 giorni di calendario a partire dal giorno successivo alla ricezione dell'e-mail di conferma (il «Periodo di Cancellazione del Coupon»). Tuttavia, se riscattate il vostro Coupon durante il Periodo di Cancellazione del Coupon, chiedete espressamente di ricevere i servizi e accettate di perdere il diritto di recesso dall’acquisto del Coupon. Vogliate notare, a scanso di equivoci, che questo capitolo si applica anche a tutte le offerte «Direct Checkout».
+
+5.2 Se desiderate recedere dal vostro acquisto di un Coupon, potete farlo nei seguenti modi:
+
+5.2.1 compilando e inviando il modulo di annullamento on-line alla pagina http://contattaci.groupon.it/;
+
+5.2.2 chiamando il team dell'assistenza clienti al numero Telefono: 02 94754424 (costi variano a seconda del proprio piano tariffario);
+
+5.2.3 scrivendoci all'indirizzo menzionato al capitolo 1.2.
+
+5.3 Se recedete dal vostro acquisto del Coupon ai sensi del presente capitolo 5, Groupon vi rimborserà tutti i pagamenti effettuati per il vostro acquisto entro e non oltre 14 giorni di calendario a partire dal giorno in cui informate Groupon del vostro recesso.
+
+5.4 Se non avete avuto la possibilità di riscattare il vostro Coupon con il Commerciante prima della scadenza del Periodo di Riscatto per cause non imputabili a voi, potete ottenere un rimborso. A questi fini, dovete dimostrare, in modo soddisfacente per Groupon, che la vostra impossibilità a riscattare il Coupon non è imputabile a voi.
+
+5.5 Se riscattate il vostro Coupon ma il Commerciante non vi ha fornito come di dovere l'Offerta del Commerciante, o se avete un reclamo riguardo l'erogazione dell'Offerta del Commerciante, dovete attivarvi direttamente con il Commerciante. Questo perchè il Commerciante e non Groupon è responsabile per la fornitura e/o l’erogazione dell’Offerta del Commerciante. Groupon si limita a vendere e fornire il Coupon. Tuttavia, se voi e il Commerciante non riuscite ad accordarvi su come risolvere il problema, Groupon può, dietro vostra richiesta, cercare di risolvere la vertenza tra voi e il Commerciante.
+
+5.6 Se il Commerciante richiede il pagamento di costi aggiuntivi per l’erogazione dell’Offerta del Commerciante e siete in grado di dimostrare tale circostanza, potete ottenere un rimborso.
+
+5.7 Il rimborso in contanti sarà effettuato tramite il metodo originale di pagamento adottato. Se il vostro metodo di pagamento originale è stato cancellato, è scaduto o è stato altrimenti modificato, dovete informare immediatamente il team dell'assistenza clienti alla pagina http://contattaci.groupon.it/ Se omettete tale comunicazione e siete stati rimborsati secondo il vostro metodo originale di pagamento, potrebbe essere necessario contattare la vostra banca o il vostro gestore di pagamenti per ottenere il vostro rimborso. Groupon effettua solo un rimborso.
+
+5.8 Avete 30 giorni di tempo dal momento della ricezione del rimborso per rifiutarlo. Se non rifiutate il rimborso durante questi 30 giorni, il rimborso sarà la piena e definitiva liquidazione di qualsiasi pretesa che potreste avanzare nei confronti di Groupon connessa a, derivante da o collegata a tale Coupon.
+
+6. Responsabilità per l'Offerta del Commerciante
+
+6.1 Vogliate tenere presente che è il Commerciante, e non Groupon,:
+
+6.1.1 il venditore, il fornitore e/o l'erogatore dell'Offerta del Commerciante;
+
+6.1.2 la parte che stipula un contratto con il Proprietario del Coupon quando il Coupon è riscattato; e
+
+6.1.3 il responsabile per la fornitura al Proprietario del Coupon dell'Offerta del Commerciante.
+
+7. Gli Standard di Groupon per i Servizi e la Responsabilità
+
+7.1 Groupon garantisce che:
+
+7.1.1 eserciterà ragionevole cura e diligenza nell’adempiere i propri obblighi derivanti dalle presenti Condizioni di Vendita;
+
+7.1.2 i Coupon sono di qualità soddisfacente e adatti al loro scopo; e
+
+7.1.3 non contravviene ai requisiti di correttezza o di diligenza professionale nello svolgimento della sua attività.
+
+7.2 Groupon risponde sempre per: (a) la morte e il danno personale riconducibili direttamente alla negligenza di Groupon; (b) frode o travisamento fraudolento da Groupon stessa posto in essere; o (c) qualsiasi condizione contrattuale implicita che non può essere esclusa o limitata ai sensi della legislazione applicabile.
+
+7.3 Salvo quanto stabilito nel capitolo 7.2 di cui sopra, Groupon non è responsabile per qualsiasi altra perdita o per qualsiasi altro danno che potreste subire, compresa ogni perdita indiretta o conseguente.
+
+7.4 Groupon declina ogni responsabilità per la violazione di obblighi nascenti dalle presenti Condizioni di Vendita ove Groupon stessa non abbia potuto ottemperare a tali obblighi per cause che esulino dal proprio ragionevole controllo.
+
+8. Sito di Groupon
+
+Il Sito di Groupon (il «Sito») significa il sito web su Internet, le applicazioni mobili, le comunicazioni o i servizi elettronici o qualsiasi ubicazione dalla quale potete acquistare un Coupon da Groupon. Il Sito su quale Groupon commercializza i Coupon appartiene a Groupon International Limited. Troverete ulteriori informazioni circa le condizioni di utilizzo del Sito, che sono espressamente parte integrante delle presenti Condizioni di Vendita, qui www.groupon.it/terms_and_conditions/tou112015 .
+
+9. Varie ed eventuali
+
+9.1 Se violate le presenti Condizioni di Vendita e Groupon non intraprende nessuna azione giudiziaria contro di voi, ciò non significa che Groupon ha rinunciato a fare valere i propri diritti e e le proprie azioni.
+
+9.2 Se non stabilito diversamente in queste Condizioni di Vendita, le comunicazioni alle parti devono avvenire per iscritto e devono essere inviate per posta elettronica (salvo il caso in cui siano inviate per fini di notificazione di atti processuali) o per posta prepagata. Qualsiasi comunicazione che vi invierà Groupon sarà all'indirizzo da voi fornito in occasione della registrazione del vostro account Groupon. Potete inviare qualsiasi comunicazione a Groupon all'indirizzo di cui al capitolo 1.2.
+
+9.3 Se una qualsiasi disposizione delle presenti Condizioni di Vendita dovesse essere dichiarata non valida o non efficace, la validità ed efficacia delle rimanenti disposizioni del presente Contratto non saranno interessate. Tale disposizione invalida o inefficace sarà sostituita da una disposizione valida ed efficace che raggiunga il più possibile l'effetto economico previsto dalla disposizione ritenuta invalida o inefficace.
+
+9.4 Le presenti Condizioni di Vendita sono regolate e interpretate ai sensi della legge italiana, a prescindere dall’applicazione di qualsivoglia legge di conflitto o dalla scelta eventualmente operata dalle parti. Eventuali controversie saranno soggette alla competenza esclusiva del Tribunale del vostro luogo di residenza o domicilio.
+
+ 
+
+***********************************
+
+ 
+
+Condizioni di prenotazione
+ 
+
+Questo documento stabilisce i termini e le condizioni di prenotazione per l’utilizzo dei Servizi di Groupon International Travel GmbH (le “Condizioni di vendita”). Non è possibile utilizzare i Servizi (compresa la realizzazione di una Prenotazione o di un Acquisto), senza accettare le presenti Condizioni di vendita. Si noti che le presenti Condizioni di vendita NON verranno applicate all’acquisto, sul mercato, di qualsiasi articolo diverso dall’Alloggio, in quanto detti acquisti sono regolati dalle proprie condizioni di vendita applicabili.
+
+1 INFORMAZIONI DI BASE RELATIVE ALLE PRESENTI CONDIZIONI DI VENDITA
+
+1.1 Groupon International Travel GmbH: Groupon International Travel GmbH è una società di diritto svizzero con numero CHE-180.110.104 avente sede legale in c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Sciaffusa, Svizzera (cui si fa riferimento come “Groupon Travel”, “ci”, “noi” o “nostro”). La partita IVA della società è CHE-349.386.564 MWST.
+
+1.2. Groupon Travel e Fornitori: Per ogni Prenotazione e ogni successivo Aquisto, fungiamo da agente per il Fornitore. L’Alloggio descritto sul Sito di Groupon International non costituisce un’offerta da parte nostra per vendere alloggi simili, ma rappresenta un invito all’utente a proporre un’offerta ai nostri Fornitori. Siamo liberi di accettare o di respingere tale offerta per conto di detti Fornitori. Ciò significa che il contratto per l’Alloggio è tra l’utente e il Fornitore. Il Fornitore (o, eventualmente, il committente del Fornitore) è legalmente responsabile di mettere a disposizione l’Alloggio all’utente. In quanto agente, non siamo in nessun caso legalmente responsabili per la fornitura dell’Alloggio all’utente. Approfondiremo questo aspetto di seguito.
+
+1.3 Quali sono le Condizioni di vendita? Vi preghiamo di leggere attentamente le presenti Condizioni di vendita in quanto verranno applicate all’uso dei Servizi, alle Prenotazioni, agli Acquisti e agli Alloggi (o altro) da parte vostra (di seguito l’”utente”). Non permetteremo di effettuare alcuna Prenotazione o Acquisto se l’utente non conferma di aver letto e accettato le presenti Condizioni di vendita. I Fornitori applicheranno i propri termini e le proprie condizioni che regoleranno la Prenotazione dell’utente e ogni suo successivo Acquisto. Le presenti Condizioni di vendita sono soggette ad eventuali termini e condizioni dei Fornitori coinvolti e l’utente, al momento di effettuare una Prenotazione e di procedere al successivo Acquisto, si impegna ad attenersi a tali termini e condizioni. Qualora ci sia un conflitto tra le presenti Condizioni di vendita ed eventuali termini e condizioni del Fornitore, questi ultimi prevarranno sulle presenti Condizioni di vendita relativamente all’ambito di qualsiasi conflitto.
+
+1.4.Il Sito di Groupon International: La nostra collegata Groupon International Limited in Irlanda (“Groupon International”) gestisce i siti web e mobili e i servizi di newsletter in cui pubblicizziamo gli Alloggi ele Prenotazioni. Consultate i Termini di utilizzo di Groupon International qui. Groupon Travel costituisce uno dei venditori che operano sul Sito di Groupon International. Se l’utente interagisce, in qualsiasi modo, con il Sito di Groupon International, visualizzerà probabilmente i riferimenti a diverse società appartenenti al gruppo Groupon (“Gruppo Groupon”). A seconda di ciò che si acquista dal Sito di Groupon International, l’utente, probabilmente, sarà soggetto a diversi contratti con diverse società del Gruppo Groupon. Le presenti Condizioni di vendita si applicano solo in relazione all’utilizzo dei nostri Servizi. Per saperne di più sui vari rapporti giuridici a cui l’utente può essere soggetto quando accede al Sitodi Groupon International, consultare le FAQ di Groupon International qui.
+
+1.5 Pratiche sulla privacy: Quando l’utente effettua una Prenotazione o un Acquisto mediante Groupon Travel, ci autorizza a raccogliere, elaborare eutilizzare le proprie informazioni per come descritto nella nostra Informativa sulla privacy.
+
+1.6. Le presenti Condizioni di vendita: Quando l’utente utilizza i nostri Servizi (compresa la realizzazione di una Prenotazione o di un Acquisto), accetta automaticamente le presenti Condizioni di vendita. L’invio, da parte nostra, di una e-mail di conferma della Prenotazione da luogo a un contratto, tra l’utente e noi, governato dalle presenti Condizioni di vendita.
+
+1.7. I diritti legali dell’utente: In qualità di consumatore, nulla di quanto contenuto nelle presenti Condizioni di vendita incide sui diritti legali dell’utente. In particolare, l’utente può sempre avvalersi di tutti i diritti applicabili previsti dal Decreto Legislativo 206/2005 (“Codice del Consumatore”) e dal Decreto Legislativo 79/2011 (“Codice del Turismo”).
+
+1.8. Aggiornamenti alle presenti Condizioni di vendita: Il più recente aggiornamento delle presenti Condizioni di Vendita è avvenuto il 27.06.2017. Groupon si riserva il diritto di modificare le presenti Condizioni di Vendita in qualsiasi momento (e pubblicare online tale modifica). Eventuali modifiche alle presenti Condizioni di Vendita effettuate dopo che l’utente ha ricevuto la conferma della Prenotazione via e-mail non saranno applicabili all’utente rispetto a tale Prenotazione e all’eventuale successivo Acquisto relativo a tale Prenotazione.
+
+1.9. Definizioni: Nelle presenti Condizioni di vendita verranno utilizzati vari termini specifici. L’utente li riconoscerà facilmente perché sono indicati con lettera maiuscola. Tali termini specifici vengono definiti in tutte le presenti Condizioni di vendita, nonché nella Clausola 12.
+
+2. LE OBBLIGAZIONI DELL’UTENTE AI SENSI DELLE PRESENTI CONDIZIONI DI VENDITA
+
+2.1. Età minima: Possono effettuare Prenotazioni o Acquisti solo le persone di età pari o superiore ai 18 anni. Effettuando una Prenotazione o un Acquisto l’utente conferma di avere un’età pari o superiore ai 18 anni.
+
+2.2 Esattezza delle informazioni e delle comunicazioni: L’utente riconosce e accetta che Groupon Travel e qualsiasi Fornitore si riservano il diritto di annullare l’Acquisto in qualsiasi momento per mancata comunicazione da parte dell’utente di qualsiasi informazione rilevante riguardo a sé stesso o alle persone per le quali viene effettuata la Prenotazione, come previsto dalle presenti Condizioni di vendita. L’utente garantisce che:
+
+2.2.1 tutte le informazioni forniteci dall’utente derivanti o in connessione con le presenti Condizioni di vendita sono veritiere, complete ed esatte;
+
+2.2.2 l’utente ci informerà tempestivamente di qualsiasi cambiamento relativo all’esattezza delle informazioni forniteci;
+
+2.2.3 l’utente riconosce e accetta la propria responsabilità di divulgare fatti relativi alla sua persona e alle persone per le quali effettua la Prenotazione che potrebbero incidere sulla propria (o sulla loro) possibilità di viaggiare, quali reati penali e precedenti deportazioni dalle destinazioni verso cui si sta viaggiando;
+
+2.2.4 se l’utente o le persone per le quali effettua la Prenotazione intendono recarsi presso una giurisdizione (inclusi gli Stati Uniti) che richiede una dichiarazione della fedina penale e l’utente o le persone per le quali effettua la Prenotazione hanno precedenti penali, incluse violazioni del codice della strada, l’utente dovrà dichiarare tali precedenti al momento della Prenotazione; e
+
+2.2.5 l’utente (e le persone per conto delle quali ha effettuato la Prenotazione) è consapevole di tutte le norme relative all’ingresso in un territorio o in un paese verso cui si reca, comprese eventuali limitazioni e requisiti relativi al passaporto (ad esempio, pagine vuote sul passaporto, o la sua validità); l’utente non ha nessun precedente penale che gli impedisca di viaggiare in quel territorio o paese; e l’utente soddisfa i requisiti di visto, di vaccinazioni, amministrativi e sanitari. Groupon Travel non sarà responsabile se all’utente viene negato l’ingresso al territorio o al paese dove si trova l’Alloggio per non aver rivelato una delle circostanze di cui sopra. Inoltre, qualora all’utente sia negato l’ingresso, non avrà diritto a alcun tipo di rimborso.
+
+2.3 Prenotazione per conto terzi: Se l’utente effettua una Prenotazione per altre persone, l’utente dichiara di essere autorizzato a effettuare tale Prenotazione per conto di detti individui e che tutti gli individui della Prenotazione (o i loro rappresentanti personali) hanno accettato di essere vincolati dalle presenti Condizioni di vendita.
+
+2.4 Comportamento: Durante l’utilizzo dell’Alloggio, l’utente si impegna a non adottare un comportamento che possa causare sofferenza, disagio o generare il rischio di pericolo nei confronti di altri individui e/o provocare danni alla proprietà. Se, nel lasso di tempo dalla partenza al ritorno, l’utente (o le persone per le quali ha effettuato la Prenotazione) viene arrestato o gli viene impedito di viaggiare a discrezione di un Fornitore, o se l’utente viene allontanato dall’Alloggio, sempre a discrezione di un Fornitore, non rimborseremo, per conto del Fornitore, alcuna parte dell’importo di acquisto dell’Alloggio di cui l’utente non ha potuto usufruire a seguito del proprio comportamento (o del comportamento delle persone per le quali ha effettuato la Prenotazione). L’utente accetta di tenerci indenne da ogni perdita, responsabilità, danni o costi da noi sostenuti derivanti da eventuali pretese o procedimenti legali iniziati o minacciati nei nostri confronti da qualsiasi soggetto derivanti o in connessione al comportamento dell’utente (o al comportamento delle persone per le quali ha effettualo la Prenotazione) ai sensi delle presenti Condizioni di vendita.
+
+2.5. Frode: Se noi o un Fornitore veniamo informati o diventiamo consapevoli di qualsiasi frode o attività illecita sospette o reali collegate al pagamento effettuato per una Prenotazione o un Acquisto, ci riserviamo il diritto a nostra esclusiva discrezione di annullare la Prenotazione o l’Acquisto con effetto immediato e senza rimborsare l’utente. Tale diritto di annullamento si applicherà senza pregiudicare qualsiasi altro diritto che noi abbiamo nei confronti dell’utente.
+
+3. PRENOTAZIONE DELL’ALLOGGIO
+
+3.1. Effettuare una prenotazione: In base alla disponibilità, è possibile effettuare una Prenotazione on-line, attraverso il Sito di Groupon International. Per Prenotare è necessario selezionare l’Alloggio che si desidera acquistare, il tipo di camera e le date di viaggio, fare clic su “Prenota”, inserire il proprio indirizzo e-mail e le altre informazioni necessarie per permettere l’accesso dell’utente al suo account o per creare un account, accettare queste Condizioni di prenotazione e fare clic su “Completa l’ordine”. Una volta completati questi passaggi l’utente visualizzerà una pagina sul Sito di Groupon International che conferma la ricezione della Prenotazione.
+
+3.2. Accettazione della prenotazione: Ci riserviamo il diritto di determinare, a nostra esclusiva discrezione, se accettare o meno la prenotazione dell’utente. La Prenotazione non s’intenderà da noi accettata fino a quando (e se) l’utente non avrà ricevuto la conferma che la Prenotazione è stata accettata. Nel caso in cui dovessimo rifiutare la Prenotazione, lo comunicheremo all’utente senza addebitare alcun costo. Se accettiamo la Prenotazione dell’utente, invieremo una e-mail di conferma della Prenotazione per confermare l’Alloggio. È a questo punto – con l’invio della nostra e-mail di conferma della Prenotazione – che accettiamo la Prenotazione e viene concluso il contratto tra l’utente e noi. In seguito addebiteremo il relativo importo.
+
+3.3 Controllo della conferma della Prenotazione: È importante che l’utente verifichi le informazioni contenute nell’email di conferma della Prenotazione nel momento in cui la riceve. In caso di difformità tra la Prenotazione e l’e-mail di conferma della Prenotazione, o se non riceve l’e-mail di conferma della Prenotazione entro le 24 ore successive alla Prenotazione, l’utente può contattarci immediatamente al 02 947 54 424 o via e-mail all’indirizzo https://www.groupon.it/customer_support o assistenza.clienti@groupon.com .
+
+3.4. Contratto dell’utente per la fornitura di Alloggio: Si noti che la parte legalmente responsabile per la fornitura dell’Alloggio all’utente è il Fornitore (sebbene noi siamo i responsabili di quanto esposto nelle presenti Condizioni di vendita). Nella nostra qualità di agente, non siamo legalmente responsabili della fornitura dell’Alloggio all’utente, che sarà invece fornitogli dal Fornitore in forza di un contratto tra quest’ultimo e l’utente. L’utente accetta e riconosce che effettuando la Prenotazione, la fornitura effettiva del suo Alloggio (che non rientra in queste Condizioni di vendita) avverrà in base ai termini e condizioni di un Fornitore.
+
+4. PREZZO
+
+4.1. A chi si paga: Tutti i pagamenti effettuati dall’utente per l’Alloggio saranno da noi prelevati, per conto del Fornitore, subito dopo aver confermato l’accettazione della Prenotazione con l’invio di un’e-mail di conferma (come suindicato).
+
+4.2. Prezzo finale: Ci riserviamo il diritto di modificare i prezzi di qualsiasi Alloggio prima della Prenotazione. L’utente sarà informato del prezzo attuale di qualsiasi Alloggio prima della Prenotazione. Tale prezzo potrebbe essere diverso rispetto al prezzo originariamente visualizzato dall’utente sul Sito di Groupon International.
+
+4.3. Errori di prezzo: In talune circostanze Groupon potrebbe commettere un errore che potrebbe riflettersi nel listino prezzi al momento della Prenotazione da parte dell’utente. Se siamo noi a commettere l’errore (sia che si tratti di errore umano, tecnico o di altra natura), ci riserviamo il diritto di offrire all’utente la possibilità di effettuare una nuova Prenotazione al prezzo corretto o di ricevere un rimborso completo.
+
+4.4 Imposte: In alcuni paesi potrebbero essere previste tasse, imposte, dazi, commissioni, valutazioni o altri oneri (complessivamente “Imposte”) riscossi dalle autorità locali. Prima che l’utente effettui la Prenotazione, gli saranno indicate le Imposte applicabili alla stessa nelle clausole o in qualche sezione del Sito di Groupon International. Si prega di notare che l’utente sarà l’unico e il solo responsabile del pagamento di tali Imposte.
+
+4.5. Servizi Aggiuntivi: Si informa l’utente che durante e nel corso dell’utilizzo dell’Alloggio, potrebbe avere la possibilità di acquistare servizi aggiuntivi. Tali servizi aggiuntivi possono includere pasti e connessione presso l’albergo, ecc. (“Servizi aggiuntivi”). Nel caso in cui l’utente non ha Acquistato tali Servizi aggiuntivi da noi, ogni Servizio aggiuntivo sarà ad esclusivo carico dell’utente e la responsabilità della fornitura di tali Servizi Aggiuntivi sarà del fornitore di tali Servizi aggiuntivi (compreso un eventuale Fornitore terzo). Groupon Travel non si assume alcuna responsabilità sulla fornitura, esecuzione, soddisfazione o altro ancora, di qualsiasi Servizio aggiuntivo.
+
+4.6. Revisione dei prezzi dell’Alloggio dopo la Prenotazione: Fatta salva la clausola 5, Groupon Travel non modificherà il prezzo dell’Alloggio dopo aver inviato all’utente una e-mail di conferma della Prenotazione.
+
+4.7. Rimborsi: Qualora l’utente debba ricevere un rimborso (completo o parziale), verrà rimborsato tramite il metodo di pagamento originario. Qualora l’utente riceva un rimborso, avrà a disposizione 30 giorni dalla data della relativa ricezione per respingerlo. Se l’utente non rifiuta il suddetto rimborso durante questo periodo, esso costituirà sempre una liquidazione completa e definitiva di qualsiasi rivendicazione che l’utente possa avere contro Groupon Travel relativa a, derivante da o connessa con i Servizi, la Prenotazione o l’Acquisto per cui l’utente è stato rimborsato.
+
+5. MODIFICHE E ANNULLAMENTI
+
+5.1. Se l’utente modifica i suoi dati:
+
+5.1.1. Si noti che Groupon Travel potrebbe non essere in grado di modificare il nome delle persone per cui è stata effettuata la Prenotazione. Se la Groupon acconsente a tale richiesta di modificare il nome, lo fa a sua propria discrezione. Se non riusciamo a modificare un nome sulla Prenotazione potrebbe essere necessario annullarla ed effettuarne una nuova, in base alla disponibilità (e incorrere in eventuali costi derivanti dall’annullamento). Se l’utente desidera informarsi su come modificare un nome, può contattarci allo 02 947 54 424 o via e-mail all’indirizzo https://www.groupon.it/customer_support o assistenza.clienti@groupon.com .
+
+5.1.2. Eventuali modifiche di dati diversi dal nome potrebbero non essere consentiti. Tuttavia, l’utente ha sempre la facoltà di annullare l’Acquisto e di effettuare una nuova Prenotazione, in base alla disponibilità (consultare la Clausola 5.2 di cui sotto sugli annullamenti).
+
+5.2. In caso di annullamento dell’Alloggio: Si noti che ogni Acquisto è annullabile, gratuitamente, fino alla relativa data di annullamento (se prevista). L’utente visualizzerà la data di annullamento come parte delle restrizioni generali dell’Alloggio. La data di annullamento verrà comunicata nell’email di conferma della Prenotazione inviata all’utente. Una volta superata la data di annullamento, l’Acquisto dell’utente non è rimborsabile né annullabile. Si prega di consultare le condizioni dell’Alloggio che si desidera prenotare in relazione alla sua data di annullamento, in quanto questa varia da Alloggio a Alloggio. Se il motivo dell’annullamento è incluso nei termini di una polizza assicurativa sottoscritta dall’utente in relazione all’Acquisto, l’utente potrebbe essere in grado di recuperare, ai sensi di data polizza assicurativa, eventuali costi che potremmo addebitargli per l’annullamento. Se l’utente desidera discutere sull’annullamento, può contattarci allo 02 947 54 424 o via e-mail all’indirizzo https://www.groupon.it/customer_support o assistenza.clienti@groupon.com .
+
+5.3. Se un Fornitore modifica l’Alloggio dell’utente: Occasionalmente, un Fornitore potrebbe essere costretto a modificare l’Acquisto effettuato dall’utente. Noi o il Fornitore daremo avviso all’utente di tutte queste modifiche non appena possibile indicando i dettagli aggiornati dell’Acquisto e dell’Alloggio. Groupon non si assume alcuna responsabilità di tali cambiamenti in quanto non opera in qualità di Fornitore.
+
+5.4. Se un fornitore annulla l’Alloggio acquistato dall’utente: Se l’annullamento è dovuto a cause di Forza maggiore o al mancato pagamento da parte dell’utente dell’intero importo dell’Alloggio o è comunque conforme alle presenti Condizioni di vendita, ci riserviamo il diritto di annullare, per qualsiasi motivo e senza alcun risarcimento l’Acquisto dell’utente.
+
+6. STANDARD DI DILIGENZA
+
+6.1. Garantiamo che:
+
+6.1.1. nell’esecuzione dei nostri obblighi applicheremo una ragionevole competenza e diligenza ai sensi delle presenti Condizioni di vendita;
+
+6.1.2 siamo autorizzati a rendere disponibili i Servizi offerti attraverso i siti Web autorizzati; e
+
+6.1.3 non violeremo, nel corso delle nostre attività, i requisiti di diligenza professionale.
+
+7. LIMITAZIONE DI RESPONSABILITÀ
+
+7.1. Limitazione di responsabilità: Questa clausola 7 ha la prevalenza su tutte le altre clausole delle presenti Condizioni di vendita (ad eccezione della Clausola 1.7, a cui è subordinata) e definisce l’intera responsabilità di Groupon Travel in relazione a qualsiasi causa di azione che sorga in conformità o in connessione con le presenti Condizioni di vendita, tra cui l’adempimento, l’inadempimento, l’adempimento presunto o il ritardo nell’adempimento delle nostre obbligazioni ai sensi delle presenti Condizioni di vendita o del Servizio o della fornitura di un Alloggio (o una parte di essi o entrambi).
+
+7.2. Per cosa siamo responsabili: Nulla di quanto contenuto nelle presenti Condizioni di vendita escluderà o limiterà la nostra responsabilità in relazione a (i) la morte o le lesioni personali; (ii) la violazione dei nostri obblighi sanciti dal Codice del Consumatore, dal Codice del Turismo o da ogni altra normativa o regolamento applicabili; (iii) la frode; (iv) la dichiarazione fraudolenta; (v) la colpa grave; o (vi) qualsiasi responsabilità che non può essere esclusa o limitata dalla legge applicabile.
+
+7.3. Esclusione di responsabilità per i Fornitori negli ambiti in cui fungiamo da agente: Qualora per i Fornitori operiamo nelle vesti di agente, la nostra responsabilità nei confronti dell’utente sarà quella di selezionare i Fornitori con massima competenza e attenzione. Nel caso in cui (i) abbiamo agito con massima competenza e attenzione nella scelta del (i) fornitore(i) e (ii) nel rispetto della legge applicabile, escludiamo qualsiasi responsabilità per la fornitura dell’Alloggio all’utente o per eventuali azioni od omissioni del Fornitore. Ciò deriva dal fatto che il contratto legale e gli obblighi di legge per la fornitura dell’Alloggio sono tra l’utente e il Fornitore (e non con Groupon Travel).
+
+7.4. Per cosa non siamo responsabili: Fatta eccezione di quanto affermato in questa Clausola 7 e nella Clausola 1.7, non saremo responsabili nei casi in cui l’inosservanza di queste Condizioni di vendita è: 7.4.1. imputabile all’utente; 7.4.2. imputabile al Fornitore; 7.4.3. imputabile all’inadempimento di un terzo estraneo alla fornitura dell’Alloggio o quando sia dovuto a un evento di Forza Maggiore; o 7.4.4. imputabile a un evento di Forza maggiore che ci impedisce di agire nel rispetto delle presenti Condizioni di vendita.
+
+7.5. Limitazione di responsabilità in relazione ai nostri Servizi: Escludiamo e limitiamo la nostra responsabilità in relazione ai Servizi che forniamo, che può essere esclusa per legge e, nella misura consentita dal Codice del Consumatore e dal Codice del Turismo, non saremo responsabili di: 7.5.1. perdita di ricavi; 7.5.2. perdita di profitti reali o previsti; 7.5.3. perdita di contratti; 7.5.4. perdita derivante dalla mancata disponibilità monetaria; 7.5.5. perdita di risparmi previsti; 7.5.6. perdita di affari; 7.5.7. perdita di opportunità; 7.5.8. perdita di avviamento; 7.5.9. perdita di reputazione; 7.5.10. perdita, danneggiamento o corruzione di dati; e 7.5.11. perdita indiretta o consequenziale.
+
+Con la dicitura “perdita consequenziale” intendiamo le “perdite consequenziali prevedibili, note, previste o altro”).
+
+8. Reclami
+
+8.1. Se si presentano problemi relativi all’Alloggio, l’utente dovrebbe immediatamente sottoporli all’attenzione del Fornitore dell’Alloggio (ad esempio il rappresentante del resort, il direttore dell’albergo, ecc.). Se il reclamo non è risolto a livello locale, l’utente deve contattare Groupon informandola del problema al numero 02 947 54 424.
+
+8.2. In tali circostanze, compieremo ogni ragionevole sforzo per fornire, nei limiti delle nostre capacità, immediata assistenza, se ritenuta opportuna. Se l’utente non ha la possibilità di effettuare una chiamata, può inviare una email a assistenza.clienti@groupon.com e fornire un numero di telefono, e un orario, al quale possiamo contattarlo per fornirgli assistenza.
+
+8.3. Se, dopo aver informato il Fornitore e aver chiamato Groupon (al numero sopra indicato), il reclamo dell’utente resta irrisolto, occorre inviare, entro 28 giorni dal ritorno a casa dell’utente, un reclamo scritto a: ATT.: Servizio Clienti c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Sciaffusa, inserendo il numero di riferimento della prenotazione e qualsiasi altra informazione rilevante sull’Alloggio, di cui potremmo avere bisogno al fine di identificare l’utente. L’indirizzo sopra riportato è dedicato a gestire i reclami di viaggio.
+
+9. PROTEZIONE DEI DATI
+
+9.1. Pratiche sulla privacy: Quando l’utente effettua una Prenotazione o Acquista un Alloggio mediante Groupon Travel, ci autorizza a raccogliere, elaborare e utilizzare le proprie informazioni per come descritto nellanostra Informativa sulla privacy. I nostri Servizi sono resi disponibili attraverso il Sito di Groupon International e effettuando una Prenotazione l’utente accetta i Termini di utilizzo , l’Informativa sulla Privacy e la Politica sui cookie del Sito di Groupon International.
+
+10. INFORMAZIONI UTILI
+
+10.1. Requisiti di passaporto: Per effettuare una Prenotazione o un Acquisto è necessario avere un passaporto valido (per almeno 6 mesi oltre la fine della vacanza dell’utente). I requisiti speciali relativi al passaporto e ai visti nonché qualsiasi altro requisito di immigrazione sono ad esclusiva responsabilità dell’utente. L’utente dovrebbe confermare tali requisiti con le relative ambasciate e/o consolati prima di partire. Non ci assumiamo alcuna responsabilità se l’utente non può partire perché non rispetta i requisiti relativi a passaporto, visto o immigrazione o se non è in possesso dei certificati relativi alla vaccinazione. Per i cittadini dell’Unione europea che viaggiano all’interno dell’Unione europea è sufficiente un documento di identità valido.
+
+10.2. Informazioni sanitarie: A seconda dell’Acquisto effettuato dall’utente, potrebbero essere applicabili, al viaggio, dei servizi sanitari obbligatori. Groupon esorta vivamente l’utente a richiedere consigli e raccomandazioni ad un operatore sanitario almeno otto settimane prima della partenza (sia che si tratti del proprio medico curante, infermiere specializzato, farmacista o clinica specializzata nell’assistenza ai viaggiatori). Per i clienti italiani, sono disponibili ulteriori informazioni sulla consulenza sanitaria relativa ai viaggiall’indirizzo http://www.viaggiaresicuri.it/ . Le informazioni su come ottenere un trattamento medico all’estero, nonché su come ottenere cure mediche a costi ridotti e potenzialmente gratuite in Europa, sono disponibili all’indirizzo http://www.salute.gov.it/portale/temi/p2_4.jsp?area=Assistenza%20sanitaria.
+
+10.3.Consigli del Ministero degli affari esteri: Il Ministero degli Affari Esteri fornisce consigli di viaggio relativi alla maggior parte delledestinazioni di tutto il mondo. Invitiamo l’utente a visitare il sito web http://www.viaggiaresicuri.it/ al fine di ottenere maggiori informazioni specifiche relative al proprio acquisto.
+
+10.4. Assicurazione di viaggio: È importante e fortemente consigliato che l’utente disponga di un’assicurazione viaggio a copertura di tutta la durata di occupazione dell’Alloggio (e di ogni aspetto ad esso collegato). Ciò garantisce all’utente una protezione finanziaria qualora, a causa di determinate circostanze, sia necessario annullare la vacanza. Il tipo di copertura necessaria dipenderà dal tipo di Alloggio acquistato dall’utente.
+
+10.5. Check-in e check-out dell’Alloggio: Il check-in dell’Alloggio dipenderà dal relativo Fornitore. Sebbene è necessario che l’utente verifichi con il suo specifico Fornitore le informazioni sugli orari di check-in e check-out prima dell’arrivo, come regola generale, il check-in avverrà alle 15:00 (ora locale) e il check-out alle ore 11:00 (ora locale). Inoltre, in caso di ritardo dell’utente, questi dovrà informarsi presso il Fornitore per accertarsi che un check-in ritardato non ne pregiudichi i diritti. È esclusiva responsabilità dell’utente rispettare i termini e le condizioni del Fornitore per quanto riguarda il check-in e il check-out.
+
+11. NOTE LEGALI
+
+11.1. Interpretazione: In queste Condizioni di vendita:
+
+11.1.1. i termini che descrivono le persone si riferiscono a persone fisiche, società di persone, società a responsabilità limitata, persone giuridiche e associazioni prive di personalità giuridica;
+
+11.1.2. le intestazioni delle clausole (come “11. NOTE LEGALI” all’inizio di questa Clausola) sono apposte per mera comodità di riferimento e non fanno parte né influiscono sull’interpretazione delle presenti Condizioni di vendita;
+
+11.1.3. i titoli delle clausole (come “Interpretazione:” all’inizio di questa Clausola 11.1) hanno lo scopo di agevolare l’interpretazione delle clausole in cui compaiono; e
+
+11.1.4. i riferimenti ai termini “include” e “incluso” indicheranno rispettivamente “include/ono a mero titolo esemplificativo” e “incluso a mero titolo esemplificativo”.
+
+11.2. Esclusione di rinunzia: Qualora non richiediamo all’utente l’adempimento di qualsiasi delle obbligazioni previste dalle presenti Condizioni di vendita, o omettiamo di esercitare i nostri diritti nei suoi confronti, o ritardiamo nel farlo, ciò non significa che abbiamo rinunciato ai nostri diritti nei suoi confronti né esclude l’obbligo dell’utente di adempiere a tali obbligazioni. Se rinunciamo ad agire a fronte di un’inadempienza dell’utente, lo faremo esclusivamente per iscritto. Tale rinuncia significa solo che abbiamo rinunciato ad agire per tale particolare inadempimento in quel particolare momento e in nessun altro modo libereremo, manleveremo o comunque allevieremo la responsabilità dell’utente in conformità alle presenti Condizioni di vendita.
+
+11.3. Notifiche: Salvo che le presenti Condizioni di vendita definiscano il contrario, le notifiche presentate a ciascuna parte saranno inviate per iscritto e consegnate di persona, tramite posta elettronica (a meno che l’utente non stia inviando una notifica a Groupon Travel in base a un procedimento legale o per presentare un reclamo in base alla Clausola 8.2) o inviate mediante raccomandata con ricevuta di ritorno, all’indirizzo dell’utente che lo stesso ha fornito nella propria Prenotazione o a Groupon Travel presso la sua sede legale.
+
+11.4. Sopravvivenza: Le disposizioni delle Clausole 1, 2, 3, 4, 7, 9, 11 e 12 delle presenti Condizioni di vendita, insieme alle disposizioni di cui si è stabilita espressamente la sopravvivenza alla scadenza o alla risoluzione, e a quelle che per loro natura o in base al contesto sono destinate a sopravvivere a tale risoluzione, sopravvivranno alla scadenza o risoluzione delle presenti Condizioni di vendita.
+
+11.5 Separabilità: Nel caso in cui qualsiasi disposizione delle presenti Condizioni di vendita sia ritenuta invalida, nulla o inefficace, tale disposizione dovrà essere ritenuta separata e, ove possibile, non verrà pregiudicata la validità e l’applicabilità delle rimanenti disposizioni delle presenti Condizioni di vendita.
+
+11.6 Esclusione di partenariato/agenzia: Nulla di quanto contenuto nelle presenti Condizioni di vendita sarà interpretato come determinante di una joint venture, un partenariato o una relazione di agenzia tra l’utente e Groupon Travel e nessuna parte avrà il diritto o l’autorità di invocare alcuna responsabilità, debito o costo o stipulare eventuali contratti o altri accordi a nome o per conto dell’altra parte.
+
+11.7. Esclusione di altre condizioni: Salvo quanto esplicitamente definito nelle presenti Condizioni di vendita, tutte le garanzie, le condizioni e gli altri termini, espressamente o implicitamente previsti per legge, o in altro modo, sono da intendersi esclusi nella misura massima consentita dalla legge applicabile.
+
+11.8. Cessione: Una cessione è un trasferimento, ai sensi delle presenti Condizioni di vendita, dei diritti dell’utente (ad esempio, il diritto di ricevere un risarcimento ove esista tale diritto). L’utente non ha la facoltà di cedere, delegare o in qualche modo trasferire alcuno dei suoi diritti od obblighi ai sensi delle presenti Condizioni di vendita senza il nostro previo consenso e tale consenso non potrà essere irragionevolmente negato. Groupon avrà il diritto di cedere o in altro modo delegare, in tutto o in parte, qualsiasi dei propri diritti o obblighi previsti dalle presenti Condizioni di vendita a qualsiasi persona, ente o società (qualora tale società appartenga al gruppo Groupon) o ad altra società in cui i diritti del consumatore ai sensi di queste Condizioni di vendita non vengono pregiudicati.
+
+11.9 Intero accordo: Le presenti Condizioni di vendita contengono tutte le condizioni concordate tra le parti che regolano le questioni in esso disciplinate e sostituiscono ed escludono qualsiasi precedente contratto, intesa o accordo, sia verbale che scritto, tra l’utente e noi.
+
+11.10. Legge applicabile e giurisdizione: Faremo tutto il possibile per risolvere qualsiasi controversia relativa alle presenti Condizioni di Vendita. Se l’utente intende presentare un ricorso legale contro di noi, deve farlo in Italia dove si applicherà la legge italiana. Questa clausola si applica a tutti i rapporti non contrattuali tra l’utente e noi.
+
+12. DEFINIZIONI
+
+12.1. Per Alloggio si intende un alloggio destinato a persone in un edificio o altra struttura analoga, compresi alberghi, appartamenti, multi-proprietà, ville, condomini e case.
+
+12.2 Per Forza maggiore si intende un evento che è al di fuori del ragionevole controllo di Groupon Travel o di un Fornitore e che non si sarebbe potuto evitare anche se si fosse applicata la dovuta diligenza, tra cui un evento naturale, guerra, sommossa, invasione, azioni di nemici stranieri, ostilità, guerra civile, ribellione, rivoluzione, incendio, esplosione, guasti ai servizi pubblici o insurrezione civile, fulmini, allagamenti, uragani, terremoti, venti di tempesta, tornado, atti di terrorismo o sabotaggio, leggi o regolamenti governativi restrittivi, scioperi, serrate, controversie di lavoro o altre questioni sindacali di ogni tipo (esclusi gli scioperi del personale di Groupon Travel), disordini civili, radiazione ionizzante o contaminazione per radioattività derivante da carburanti nucleari o radioattività, proprietà tossiche, esplosive o pericolose di altra natura di qualsiasi assemblaggio nucleare o componente nucleare, disastro epidemico o di qualsiasi altra natura o condizioni meteorologiche gravi.
+
+12.3. Per Sito di Groupon International si intende qualsiasi piattaforma, tra cui il sito web offerto o gestito da Groupon International, ogni sito web affiliato, rete di business partner, e-mail, applicazioni mobili, altri tipi di offerte elettroniche o altre piattaforme o canali di distribuzione di proprietà, controllati o gestiti da Groupon International o Groupon Travel, i rispettivi affiliati o partner commerciali.
+
+12.4 Per Acquisto si intende l’acquisto di un Alloggio da Groupon Travel. Questa definizione comprende “Acquistato” e “Acquistare”.
+
+12.5 Per Prenotazione si intende la presentazione di un offerta di acquisto di un Alloggio (e tale definizione include “Prenotare” e “Prenotato”).
+
+12.6 Per Servizi si intendono i servizi forniti da Groupon Travel ai clienti ai sensi delle presenti Condizioni di vendita, che includono l’agire in qualità di agente per conto dei Fornitori al fine di offrire la Prenotazione di Alloggi disponibili.
+
+12.7. Per Fornitore si intende qualsiasi fornitore degli Alloggi pubblicizzati da Groupon Travel in qualità di agente per il Fornitore.
+
+ Condizioni di vendita per la Prenotazione di beni e servizi su piattaforma di terze parti (partner) – Groupon Italia S.r.
+
+1. Informazioni generali
+
+1.1 Queste Condizioni di Vendita si applicano ogni qual volta acquistiate su Groupon (quale “Acquirente”) una Prenotazione di beni e servizi sulla piattaforma di terze parti.
+
+1.2 Groupon significa Groupon S.r.l., una società costituita secondo il diritto italiano, registrata in Italia e con la sua sede legale in Corso Buenos Aires 54, Milano, Italia. La partita I.V.A. di Groupon è 06964760968.
+
+1.3 Prenotazione vuole dire il diritto a ricevere l'Offerta del Partner dal Partner, offerta che potrà essere altersì soggetta alla fornitura di un biglietto o altra documentazione.
+
+1.4 L'Offerta del Partner indica le merci e/o i servizi da fornire e/o da erogare da parte del Partner all’Acquirente, come specificato sul Sito di Groupon.
+
+1.5 Il Partner è una terza parte non collegata a Groupon che vende, fornisce e/o eroga l'Offerta del Partner. Il contratto per la fornitura e l’aquisto dell’Offerta del Partner sarà stipulato tra voi ed il Partner presso il quale viene acquistata la Prenotazione ed in ogni caso Groupon concluderà il contrattto per conto di, ed in qualità di agente del Partner. Groupon non vende, fornisce e/o eroga l'Offerta del Partner. . Esso si limita a vendere la Prenotazione.
+
+1.6 Queste Condizioni di Vendita sono state aggiornate da ultimo il 23.08.2018.
+
+1.7. Groupon si riserva il diritto di modificare unilateralmente e in qualsiasi momento le presenti Condizioni di Vendita. Tutte le modifiche alle presenti Condizioni di Vendita saranno pubblicate online e rese conoscibili mediante banner inseriti nella newsletter. Sarete vincolati soltanto alla versione delle Condizioni di Vendita che avete accettato al momento dell'acquisto di una Prenotazione. 2. Acquisto di una Prenotazione2.1 Per acquistare una Prenotazione dovete avere come minimo 18 anni. Prima di potere effettuare un acquisto dovete registrarvi e creare un account con Groupon International Limited.
+
+2.2 Cliccando sul pulsante «Acquista Ora» inviate a Groupon una proposta di acquisto della Prenotazione. Tuttavia, l'acquisto della Prenotazione non è perfezionato fintanto che non ricevete un'e-mail da Groupon che conferma l'accettazione della vostra proposta. Groupon si riserva espressamente la facoltà di rifiutare la vostra proposta. Inoltre, anche se Groupon ha accettato la vostra proposta, essa può sciogliere il contratto in qualsiasi momento se esistono sospetti fondati che avete commesso o siete in procinto di commettere una qualsivoglia truffa a danno di Groupon, di un terzo affiliato di Groupon o del Partner.
+
+3. Ricevere l’Offerta del Partner
+
+3.1 Dopo l’acquisto della Prenotazione, il Partner vi fornità ogni documentazione aggiuntiva (ad esempio, un biglietto) per consentirvi di ricevere l’Offerta del Partner. Tale documentazione aggiuntiva potrà anche essere fronta da una terza parte per conto del Partner.
+
+3.2 Se non stabilito espressamente in modo diverso, la Prenotazione non dà diritto all’Acquirente di ricevere l'Offerta del Partner in un momento specifico. Si raccomanda caldamente di contattare il Partner in tempi brevi. Così facendo, avrete più possibilità di assicurarvi l’Offerta del Partner nel vostro periodo preferito. Tenete presente che Groupon non può influenzare le tempistiche di vendita e/o erogazione dell'Offerta del Partner. Nel caso in cui l’Offerta del Partner stabilisca espressamente la consegna di un determinato bene o la prestazione di un determinato servizio entro un dato evento (ad es. Natale), e tale consegna o prestazione non si verifichi nei tempi promessi, potete ottenere un rimborso.
+
+3.3 Su incarico del Partner Groupon può raccogliere le tasse di registrazione o altri costi connessi con l'acquisto di una Prenotazione. Tutte le tasse o i costi (se applicabili) vi saranno comunicati prima dell'acquisto della Prenotazione.
+
+3.4 Se il Partner non è in grado di fornire e/o erogare l'Offerta del Partner come descritto per ragioni impreviste, Groupon, per conto del Commerciante,  ve lo comunicherà il prima possibile per e-mail.
+
+4. Frodi o attività illegali
+
+4.1 Vi impegnate a non fornire dati falsi, compresi nomi, indirizzi e/o contatti o dettagli di pagamento falsi né a commettere qualsiasi attività illegale in relazione all'acquisto di una Prenotazione, né a permettere a terzi di agire in tal modo.
+
+5. Recesso (ed eccezioni), Rimborsi e Problemi
+
+5.1 Acquistando la Prenotazione, state chiedendo espressamente che la prestazione di Groupon cominci ad essere eseguita. Poichè Groupon non è responsabile per la fornitura dell’Offerta del Partner, una volta che la Prenotazione sia stata fornita, si riterrà che Groupon abbia eseguito a pieno le obbligazioni di sua competenza nei vostri confronti.  Pertanto, non siete titolari al riguardo del diritto legale di recesso entro i 14 giorni in caso di acquisto di una Prenotazione.
+
+5.2. Il vostro diritto di recess dall’Offerta del Partner  sarà soggettp ai termini e condizioni di vendita del Partner e ad ogni previsione di legge applicabile.
+
+5.3 Se acquistate una Prenotazione, ma il Partner non vi fornisce adeguatamente l’Offerta del Partner, o se avete un reclamo riguardo all’erogazione dell’Offerta del Partner, dovrete agire direttamente nei confonti del Partner. Ciò in quanto il Partner, e non Groupon, è responsabile per la fornitura dell’Offerta del Partner. Groupon si limita a vendere la Prenotazione. In ogni caso, qualora voi e il Partner non riusciate a trovare un accordo su come risolvere il reclamo, Groupon, potrà, dietro vostra richiesta, cercare di agevolare la risoluzione della questione tra voi ed il Partner.  
+
+5.7 A meno non informiate in anticipo ed espressamente Groupon del contrario, ogni rimborso sarà effettuato tramite l’originario metodo di pagamento.. Se il vostro metodo di pagamento originario è stato cancellato, è scaduto o è stato altrimenti modificato, dovete informare immediatamente il team dell'assistenza clienti alla seguente pagina http://contactus.groupon.it/. Se omettete tale comunicazione e siete stati rimborsati secondo il vostro metodo originario di pagamento, potrebbe essere necessario contattare la vostra banca o il vostro gestore di pagamenti per ottenere il vostro rimborso. Groupon non effettuerà più di un rimborso.
+
+5.8 Avete 30 giorni di tempo dal momento della ricezione del rimborso per rifiutarlo. Se non rifiutate il rimborso durante questi 30 giorni, il rimborso sarà la piena e definitiva liquidazione di qualsiasi pretesa che potreste avanzare nei confronti di Groupon connessa a, derivante da o collegata a tale Prenotazione.
+
+6. Responsabilità per l'Offerta del Partner
+
+6.1 Vogliate tenere presente che è il Partner, e non Groupon,:
+
+6.1.1 il venditore, il fornitore e/o l'erogatore dell'Offerta del Partner ;
+
+6.1.2 la parte che stipula un contratto con l’Acquirente  in seguito all’Acquisto della Prenotazione; e
+
+6.1.3 il responsabile per la fornitura all’Acquirente dell'Offerta del Partner e per la qualità della stessa Offerta del Partner .
+
+7. Gli Standard di Groupon per i Servizi e la Responsabilità
+
+7.1 Groupon garantisce che:
+
+7.1.1 eserciterà ragionevole cura e diligenza nell’adempiere i propri obblighi derivanti dalle presenti Condizioni di Vendita;
+
+e
+
+7.1.2 non contravviene ai requisiti di correttezza o di diligenza professionale nello svolgimento della sua attività.
+
+7.2 Groupon risponde sempre per: (a) la morte e il danno personale riconducibili direttamente alla negligenza di Groupon; (b) frode o travisamento fraudolento da Groupon stessa posto in essere; o (c) qualsiasi condizione contrattuale implicita che non può essere esclusa o limitata ai sensi della legislazione applicabile.
+
+7.3 Salvo quanto stabilito nel capitolo 7.2 di cui sopra, Groupon non è responsabile per qualsiasi altra perdita o per qualsiasi altro danno che potreste subire, compresa ogni perdita indiretta o conseguente.
+
+7.4 Groupon declina ogni responsabilità per la violazione di obblighi nascenti dalle presenti Condizioni di Vendita ove Groupon stessa non abbia potuto ottemperare a tali obblighi per cause che esulino dal suo ragionevole controllo.
+
+8. Sito di Groupon
+
+Il Sito di Groupon (il «Sito») significa il sito web su Internet, le applicazioni mobili, le comunicazioni o i servizi elettronici o qualsiasi ubicazione dalla quale potete acquistare una Prenotazione da Groupon. Il Sito su quale Groupon commercializza le Prenotazioni appartiene a Groupon International Limited. Troverete ulteriori informazioni circa le condizioni di utilizzo del Sito, che sono espressamente parte integrante delle presenti Condizioni di Vendita, qui www.groupon.it/terms_and_conditions.
+
+9. Varie ed eventuali
+
+9.1 Se violate le presenti Condizioni di Vendita e Groupon non intraprende nessuna azione giudiziaria contro di voi, ciò non significa che Groupon ha rinunciato a fare valere i propri diritti e e le proprie azioni.
+
+9.2 Se non stabilito diversamente in queste Condizioni di Vendita, le comunicazioni alle parti devono avvenire per iscritto e devono essere inviate per posta elettronica (salvo il caso in cui siano inviate per fini di notificazione di atti processuali) o per posta prepagata. Qualsiasi comunicazione che vi invierà Groupon sarà all'indirizzo da voi fornito in occasione della registrazione del vostro account Groupon. Potete inviare qualsiasi comunicazione a Groupon all'indirizzo di cui al capitolo 1.2.
+
+9.3 Se una qualsiasi disposizione delle presenti Condizioni di Vendita dovesse essere dichiarata non valida o non efficace, la validità ed efficacia delle rimanenti disposizioni del presente Contratto non saranno interessate. Tale disposizione invalida o inefficace sarà sostituita da una disposizione valida ed efficace che raggiunga il più possibile l'effetto economico previsto dalla disposizione ritenuta invalida o inefficace.
+
+9.4 Le presenti Condizioni di Vendita sono regolate e interpretate ai sensi della legge italiana, a prescindere dall’applicazione di qualsivoglia legge di conflitto o dalla scelta eventualmente operata dalle parti. Eventuali controversie saranno soggette alla competenza esclusiva del Tribunale del vostro luogo di residenza o domicilio.

@@ -1,0 +1,794 @@
+
+
+
+
+
+Diese Geschäftsbedingungen für Privatkunden gelten ab dem 31. Oktober 2021. Bitte klicke hier, um die bisherigen Geschäftsbedingungen für Privatkunden anzuzeigen, die bis zum 31. Oktober 2021 gelten.
+
+Mein Revolut-Konto
+
+1. Warum sind diese Informationen wichtig?
+
+Dieses Dokument enthält die allgemeinen Geschäftsbedingungen für dein persönliches Revolut-Konto (das Konto) und die damit verbundenen Dienstleistungen. Sie enthalten auch andere wichtige Dinge, die du wissen musst.
+
+Diese allgemeinen Geschäftsbedingungen bilden zusammen mit unserer Gebührenseite, den Datenschutzrichtlinien und allen anderen allgemeinen Geschäftsbedingungen, die sich auf unsere Dienstleistungen beziehen, eine rechtliche Vereinbarung (die Vereinbarung) zwischen:
+
+    dir, dem Kontoinhaber, und
+    uns, Revolut Payments UAB (einem in der Republik Litauen gegründeten Unternehmen mit der Unternehmensnummer 304940980 und eingetragenem Sitz sowie Hauptgeschäftssitz in Konstitucijos ave. 21B, 08130 Vilnius, Republik Litauen).
+Diese Vereinbarung gilt unbegrenzt. Das bedeutet, dass sie gültig ist, bis du oder wir sie beenden.
+
+Wir sind von der Bank of Lithuania nach dem Gesetz über elektronisches Geld und elektronische Geldinstitute der Republik Litauen zur Ausgabe von E-Geld zugelassen (Zulassungsnummer für elektronische Geldinstitute: Nr. 42). Die Bank of Lithuania ist die Zentralbank und Finanzaufsichtsbehörde der Republik Litauen. Ihre Adresse lautet Gedimino ave. 6, 01103 Vilnius, Republik Litauen, Registernummer 188607684 (weitere Informationen über die Bank of Lithuania erhältst du auf ihrer Website unter www.lb.lt, die Bank of Lithuania kann unter der Telefonnummer +370 800 50 500 kontaktiert werden).
+
+Wir unterliegen außerdem dem Gesetz über Zahlungen der Republik Litauen, das unsere Aktivitäten und Haftung, die Bereitstellung von Zahlungsdienstleistungen, die Rechte und Pflichten unserer Kunden und die anfallenden Gebühren regelt.
+
+Wir weisen darauf hin, dass wir an Werktagen der Republik Litauen und nur dann, wenn solche Werktage in der Republik Litauen mit Werktagen in Großbritannien (GB) zusammenfallen, tätig sind und Dienstleistungen erbringen.
+
+Es ist wichtig, dass du verstehst, wie dein Konto funktioniert. Über die Revolut App kannst du jederzeit eine Kopie dieser allgemeinen Geschäftsbedingungen anfordern.
+
+Wenn du mehr wissen möchtest, helfen dir vielleicht unsere FAQ weiter (aber diese FAQ sind nicht Teil unserer Vereinbarung mit dir).
+
+2. Um welche Art von Konto handelt es sich bei meinem Revolut-Konto?
+
+Dein Konto ist ein Zahlungskonto, in dem dein E-Geld aufbewahrt wird. Darauf kann sich E-Geld in verschiedenen Währungen gleichzeitig befinden.
+
+E-Geld ist eine elektronische Alternative zu Bargeld. Wenn du oder jemand anderes uns Geld gibt, geben wir einen entsprechenden Wert von E-Geld in der Währung aus, die du oder die andere Person wählen. Wir speichern das E-Geld in deinem Konto, woraufhin andere Personen es als Zahlungsmittel akzeptieren. Wenn du Zahlungen an externe Konten vornimmst, wird das E-Geld zu seinem Nennwert eingelöst.
+
+In diesen allgemeinen Geschäftsbedingungen verwenden wir den Begriff „Geld“ als Bezeichnung für E-Geld.
+
+3. Nutzung von Geld auf deinem Konto
+
+Sobald du E-Geld auf deinem Konto hast, kannst du unsere Dienstleistungen nutzen. Du kannst beispielsweise Folgendes tun:
+
+    Geld senden und von anderen Revolut-Konten und Nicht-Revolut-Konten empfangen
+    Geld von einer Währung in eine andere wechseln (wir nennen das einen Währungsumtausch). Die verfügbaren Währungen können sich gelegentlich ändern.
+    mit deiner Revolut-Karte Zahlungen tätigen und Bargeld abheben und
+    Informationen zu deinem Konto anzeigen und dieses verwalten.
+Wir erweitern unser Angebot ständig um neue Funktionen und Dienstleistungen. Darüber informieren wir dich in der Revolut App.
+
+Wir bieten unsere Dienste vor allem über die mobile App von Revolut an. Jedoch stellen wir unsere Dienste auch auf andere Weise zur Verfügung, z. B. durch Webseiten, andere Apps, API usw. Diese Bedingungen gelten, wann und wie auch immer du auf unsere Dienste zugreifst. Das bedeutet, dass sie für alle Möglichkeiten des Zugriffs auf einen bestimmten Dienst gelten, selbst wenn wir in diesen Bedingungen sagen, dass auf den Dienst auf bestimmte Weise zugegriffen wird. Wenn wir zum Beispiel über Revolut-Kartenzahlungen sprechen, meinen wir Zahlungen mit einer physischen Karte, aber auch mit einer virtuellen Karte oder einer Karte, die Apple Pay oder Google Pay hinzugefügt wird.
+
+4. Kann ich ein Revolut-Konto eröffnen?
+
+Normalerweise musst du 18 Jahre oder älter sein, um ein Revolut-Konto zu eröffnen. Wenn du unter 18 Jahre alt bist und wir dir ein Revolut-Konto oder einen anderen Service zur Verfügung stellen, werden wir dich über die geltenden Sonderkonditionen informieren.
+
+Wenn du uns bittest, ein Konto für dich zu eröffnen, benötigen wir oder eine in unserem Auftrag handelnde Person Informationen über dich und die Herkunft des Geldes, das du auf dein Konto einzahlen wirst. Dies geschieht aus verschiedenen Gründen, unter anderem, um deine Kreditwürdigkeit und Identität zu überprüfen und um unsere gesetzlichen und regulatorischen Anforderungen zu erfüllen. In unseren Datenschutzrichtlinien erhältst du weitere Informationen darüber, wie wir deine Daten für diese und andere Zwecke verwenden. Sobald uns die benötigten Informationen vorliegen, werden wir dein Konto eröffnen.
+
+Folgende Leistungen stehen dir nicht zur Verfügung:
+
+    die Eröffnung von mehr als einem persönlichen Revolut-Konto oder
+    ein Konto im Rahmen von Revolut für Privatkunden für geschäftliche Zwecke zu nutzen.
+Wenn du ein Revolut-Konto für geschäftliche Zwecke verwenden möchtest, musst du ein Firmenkonto gemäß unseren Geschäftsbedingungen beantragen.
+
+5. Wie erhalte ich Informationen zu Ein- und Ausgängen meines Kontos?
+
+Du kannst alle Ein- und Ausgänge deines Kontos über die Revolut App prüfen. Wir nehmen keine Änderungen an deinen Kontoinformationen vor, und sie stehen dir während deiner Zeit als unser Kunde in der Revolut App zur Verfügung. Wenn du nach der Schließung deines Kontos eine Kopie der Informationen brauchst, kannst du sie herunterladen, während dein Konto noch aktiv ist. Wenn du dein Konto schließt und diese Informationen haben möchtest, kannst du uns eine E-Mail an feedback@revolut.com schicken. Du kannst auch jederzeit Informationen aus der App herunterladen.
+
+Wir senden jedes Mal eine Benachrichtigung an dein Mobilgerät, wenn auf deinem Konto eine Zahlung ein- oder ausgeht. Du kannst Benachrichtigungen über die Revolut App deaktivieren, aber dann musst du deine Kontobewegungen regelmäßig überprüfen. Da es wichtig ist zu wissen, welche Zahlungen auf deinem Konto ein- und ausgehen, empfehlen wir dir, Benachrichtigungen nicht zu deaktivieren.
+
+KOMMUNIKATION
+
+Normalerweise kommunizieren wir über die Revolut App mit dir, und das ist kostenlos. Andere Unternehmen der Revolut-Gruppe können ebenfalls über die Revolut App mit dir kommunizieren, wenn dies mit dir und diesem Unternehmen vereinbart wurde.
+
+Auf diese Weise stellen wir Kontoinformationen zur Verfügung und informieren dich über jeden Betrug oder vermuteten Betrug im Zusammenhang mit deinem Konto. Auf dieselbe Weise teilen wir dir ggf. mit, ob eine Sicherheitsbedrohung für dein Konto besteht. Achte darauf, dass du regelmäßig in der Revolut App nach dieser Art von Informationen siehst.
+
+Um die Sicherheit deines Kontos zu gewährleisten, lade die neueste Software für dein Mobilgerät und die neueste Version der Revolut App herunter, sobald diese verfügbar sind.
+
+Da wir ggf. auch per SMS oder E-Mail mit dir kommunizieren, solltest du deine SMS und dein E-Mail-Konto regelmäßig überprüfen.
+
+Deine Zustimmungen, Genehmigungen, Annahmen und andere Aussagen, die mit der Revolut App abgegeben werden, haben dieselbe rechtliche Gültigkeit wie deine Unterschrift auf einem schriftlichen Dokument. Deine mit uns über die Revolut App abgeschlossenen Vereinbarungen gelten als schriftliche Vereinbarungen, die zwischen dir und uns abgeschlossen werden. Alle Anweisungen an Revolut zur Durchführung von Vorgängen und anderen Handlungen, die von dir über die Revolut App eingereicht/ausgeführt werden, werden als von dir eingereicht/ausgeführt behandelt und gelten als gültige, von dir durchgeführte Handlungen.
+
+Wir kommunizieren in der Regel auf Englisch mit dir.
+
+Halte uns auf dem Laufenden
+
+Bitte halte deine Daten auf dem neuesten Stand und informiere uns sofort, wenn sich deine Angaben geändert haben. Wenn wir feststellen, dass eine deiner Angaben falsch ist, werden wir sie aktualisieren.
+
+Um unsere gesetzlichen und regulatorischen Anforderungen zu erfüllen, müssen wir manchmal nach weiteren Informationen über dich fragen (z. B. wenn deine Ausgaben steigen). Bitte stelle diese Informationen schnell zur Verfügung, damit dein Konto oder unsere Dienste nicht beeinträchtigt werden.
+
+6. Wie kann ich mein Konto schließen?
+
+Du kannst dein Konto jederzeit schließen und dadurch die Vereinbarung beenden, indem du uns dies mitteilst. Du kannst uns über die Revolut App informieren, uns eine entsprechende Mitteilung an unsere Zentrale schreiben oder uns eine E-Mail an feedback@revolut.com senden.
+
+Im Anschluss daran musst du alle noch anfallenden Gebühren bezahlen (z. B. wenn du eine zusätzliche Revolut-Karte angefordert hast). Möglicherweise berechnen wir dir Stornogebühren, die für andere Vereinbarungen gelten, die du mit uns abgeschlossen hast, z. B. wenn du dein Plus-, Premium- oder Metal-Abo kündigst. Die allgemeinen Geschäftsbedingungen von Plus, Premium und Metal findest du hier.
+
+Wenn du oder wir dein Konto schließen, geben wir dir die Möglichkeit, das Geld, das du bei uns deponiert hast, abzuheben (wir bezeichnen das als Einlösung des E-Geldes). Wenn du möchtest, dass wir dir Geld in einer anderen Währung als der Währung, die wir für dich führen, zukommen lassen, werden wir die Währung mit dem jeweils gültigen Kurs umrechnen und unsere übliche Gebühr erheben, bevor wir dir das Geld überweisen.
+
+Kündigung der Revolut-Karte
+
+Wenn du deine Meinung änderst und keine Revolut-Karte mehr wünschst, so ist das kein Problem. Teile uns dies einfach mit, sodass wir die Karte stornieren können.
+
+Wie kann ich von der Vereinbarung zurücktreten?
+
+Du kannst von dieser Vereinbarung zurücktreten und sie innerhalb der ersten 14 Tage nach Eröffnung eines Revolut-Kontos beenden, indem du uns das über die Revolut App mitteilst oder uns eine E-Mail an feedback@revolut.com sendest. Du hast das Recht, ohne Zahlung von Strafgebühren und ohne Angabe von Gründen zurückzutreten. Im Falle eines Rücktritts von der Vereinbarung geben wir dir das verbleibende Guthaben zurück.
+
+7. Was passiert, nach der Schließung meines Kontos?
+
+Wir werden genügend Geld zurückbehalten, um alle Zahlungen zu decken, die du vor der Auflösung deines Kontos genehmigt hast. Du schuldest uns auch immer noch das Geld, das du uns geschuldet hast, während dein Konto geöffnet war.
+
+Wie erhalte ich Zugriff auf mein Geld, nachdem mein Konto geschlossen wurde?
+
+Nachdem dein Konto geschlossen wurde oder deine Revolut-Karte abgelaufen ist, kannst du dich noch für einen Zeitraum von acht Jahren an den Kundenservice wenden (unter feedback@revolut.com) und ihn bitten, dir das Geld zu überweisen, das wir noch für dich verwahren.
+
+Sobald dein Konto geschlossen ist, kannst du dein Geld nur noch in der Währung des Landes abheben, in dem du lebst.
+
+Sicherheit für mein Konto
+
+8. Wie wird mein Geld geschützt?
+
+Wir verleihen dein Geld nicht an andere. Wenn wir von einer Zahlung für dein Konto erfahren oder du Geld darauf einzahlst, legen wir den Gegenwert in E-Geld auf dein Konto. Dabei werden wir schnell entweder
+
+    das Geld auf unsere Anderkonten einzahlen, die wir bei großen globalen Banken im EWR führen (das Geld auf Anderkonten ist von unserem eigenen Geld getrennt); oder
+    die Zahlung in risikoarme Vermögenswerte anlegen, die auf einem separaten Konto bei Finanzinstituten gehalten werden.
+Wir nennen das Sicherung.
+
+Die Sicherung hilft, dich für den Fall zu schützen, dass wir zahlungsunfähig werden. In einem solchen Fall leistet ein Administrator eine Rückzahlung an dich von unseren Anderkonten.
+
+Leider erlaubt uns das Gesetz nicht, dir Zinsen zu bezahlen, und das Geld auf deinem Konto ist nicht durch ein Einlagensicherungsprogramm geschützt.
+
+9. Sicherheitsdaten und Revolut-Karte sicher aufbewahren
+
+Wir tun alles, was wir können, um dein Geld zu schützen. Wir bitten dich, dasselbe zu tun, indem du deine Sicherheitsdaten und Revolut-Karte sicher aufbewahrst. Du solltest daher deine Sicherheitsdaten nicht in der Nähe deiner Revolut-Karte aufbewahren, und du solltest die Daten tarnen bzw. schützen, wenn du sie aufschreibst oder speicherst. Gib deine Sicherheitsdaten an niemanden außer einen Open Banking-Anbieter bzw. Drittanbieter weiter, der in Übereinstimmung mit den gesetzlichen Bestimmungen handelt. In Abschnitt 10 dieser allgemeinen Geschäftsbedingungen findest du weitere Informationen über Open-Banking-Anbieter und Drittanbieter.
+
+Manchmal vergisst man leicht die Schritte, die man unternehmen muss, um sein Geld zu schützen. Nachfolgend erhältst du einige Tipps:
+
+    Stelle sicher, dass du die Revolut App schließt, wenn du sie nicht verwendest; und
+    Schütze dein Handy und dein E-Mail-Konto und verhindere deren Nutzung durch andere Personen.
+Kontaktiere uns so schnell wie möglich über die Revolut App, wenn deine Revolut-Karte verloren gegangen ist oder gestohlen wurde, oder wenn die Revolut-Karte oder deine Sicherheitsdaten ohne deine Zustimmung verwendet werden könnten.
+
+Wenn möglich, solltest du deine Revolut-Karte auch unverzüglich sperren lassen, entweder über die Revolut App oder per Anruf an die automatisierte Telefonnummer unten. Solltest du später feststellen, dass die Sicherheit deiner Revolut-Karte nicht gefährdet ist, kannst du sie entsperren.
+
+So kannst du uns kontaktieren
+
+Auf dem Postweg:
+
+    Konstitucijos ave. 21B, 08130 Vilnius, Republik Litauen.
+Revolut-Karte sperren:
+
+    +370 5 214 3608 (es gelten die Standardtarife deines Telekommunikationsdienstleisters).
+Verloren gegangene oder gestohlene Revolut-Karte bzw. Sicherheitsdaten melden:
+
+    Sende uns auf dem Gerät einer anderen Person eine Nachricht über die Revolut App.
+    Sende uns eine Nachricht über die sozialen Medien.
+    Schicke uns eine E-Mail an feedback@revolut.com.
+Telefonisch:
+
+    +370 5 214 3608 (es gelten die Standardtarife deines Telekommunikationsdienstleisters).
+10. Zahlungen vornehmen und mit „Open Banking“ auf Konten zugreifen
+
+Du kannst „Open Banking“ verwenden, um über die Revolut App auf Konten zuzugreifen, die du bei anderen Anbietern führst, und um anderen Anbietern den Zugriff auf dein Revolut-Konto zu ermöglichen.
+
+Anderen Anbietern den Zugriff auf dein Revolut-Konto ermöglichen
+
+Du kannst anderen Anbietern erlauben, auf deine Kontoinformationen zuzugreifen oder Zahlungen in deinem Namen vorzunehmen. Diese Anbieter werden oft als „Open Banking“-Anbieter oder „Drittanbieter“ bezeichnet.
+
+Solche Anbieter müssen oft von einer Aufsichtsbehörde wie der Bank of Lithuania oder von der Aufsichtsbehörde eines anderen zuständigen Landes zugelassen werden. Wenn du die Nutzung eines Open Banking-Anbieters oder Drittanbieters in Betracht ziehst, solltest du diesen nach Einzelheiten seiner Zulassung fragen (falls vorhanden) und diese selbst überprüfen. (Hierfür kannst du das Online-Register der Bank of Lithuania mit zugelassenen Unternehmen überprüfen).
+
+Wenn du über einen „Open Banking“-Anbieter oder Drittanbieter auf dein Revolut-Konto zugreifst, gelten für deine Nutzung deines Revolut-Kontos weiterhin unsere allgemeinen Geschäftsbedingungen.
+
+Möglicherweise müssen wir den Zugriff eines „Open Banking“-Anbieters oder Drittanbieters auf dein Konto sperren (z. B. wenn wir ein Betrugsrisiko sehen, wenn sie nicht die erforderliche Zulassung besitzen oder wenn es gesetzliche oder regulatorische Gründe hierfür gibt). In diesem Fall werden wir versuchen, dich vorher oder so schnell wie möglich danach zu informieren. Wir werden dies über die Revolut App oder per E-Mail tun, es sei denn, es wäre rechtswidrig oder es sprechen triftige Sicherheitsgründe dagegen. Wir entsperren außerdem den Drittanbieter, sobald es keinen Grund mehr für die Verweigerung des Zugriffs gibt.
+
+Du hast weiterhin das Recht, den Zugriff eines „Open Banking“-Anbieters oder Drittanbieters auf dein Revolut-Konto zu sperren. Du solltest uns kontaktieren, wenn du glaubst, dass ein Drittanbieter ohne deine Zustimmung handelt.
+
+Wenn du einen „Open Banking“-Anbieter oder Drittanbieter nutzt, erteilst du diesen die Befugnis und deine Einwilligung dafür, dass sie Zugriff auf deine Revolut-Kontoinformationen erhalten oder Zahlungen von deinem Revolut-Konto in deinem Namen durchführen. In unseren Datenschutzrichtlinien erhältst du weitere Informationen darüber, wie wir deine Daten für diese und andere Zwecke weitergeben.
+
+Zugriff auf Konten bei anderen Anbietern mit der Revolut App
+
+Du kannst über die Revolut App auch auf deine Konten bei anderen Anbietern zugreifen und Zahlungen von diesen Konten aus einleiten. Wir nennen dies unsere „Open Banking“-Dienstleistungen. Revolut ist für die Erbringung dieser Dienstleistungen zugelassen.
+
+Wenn du unsere „Open Banking“-Dienstleistungen nutzt, um Informationen über ein Konto anzuzeigen, das du bei einem anderen Anbieter führst, musst du uns die Befugnis erteilen, auf dieses Konto zuzugreifen. Wir werden keine der sensiblen Zahlungsdaten speichern, die du zur Verfügung stellst, um diese Befugnis zu erteilen.
+
+Sobald du uns autorisiert hast, zwecks Kontoinformationen auf das Konto zuzugreifen:
+
+    werden wir in deinem Namen auf deine Kontoinformationen zugreifen (d. h. auf Informationen wie deine Kontodaten, deinen Transaktionsverlauf und die Funktionen deines Kontos).
+    werden wir diese Informationen analysieren, um dir Erkenntnisse über deine Ausgaben mitzuteilen (z. B. Vorschläge, wie du Geld sparen könntest).
+    kannst du deine Einwilligung jederzeit in der Revolut App widerrufen.
+In unseren Datenschutzrichtlinien erhältst du weitere Informationen darüber, wie wir deine Daten für diese und andere Zwecke nutzen.
+
+Wenn du unsere „Open Banking“-Dienstleistungen nutzt, um eine Zahlung von einem Konto aus einzuleiten, das du bei einem anderen Anbieter führst, musst du uns ebenfalls die Befugnis erteilen, diese Zahlung vorzunehmen. Wir werden keine der sensiblen Zahlungsdaten speichern, die du zur Verfügung stellst, um diese Befugnis zu erteilen. Wir werden davon ausgehen, dass du uns deine Zustimmung erteilt hast und uns dazu befugt hast, Zahlungen von diesen Konten aus einzuleiten, wenn du dich in der Revolut App für die Nutzung eines bestimmten Zahlungsdienstes entscheidest und nachdem du alle erforderlichen und angeforderten Informationen eingegeben und in der Revolut App übermittelt hast.
+
+11. Gibt es Einschränkungen bei der Verwendung der Revolut App oder der Revolut-Karte?
+
+Bitte handle bei der Verwendung der Revolut App oder der Revolut-Karte vernünftig und verantwortungsbewusst.
+
+Die Revolut App oder die Revolut-Karte dürfen nicht (direkt oder indirekt) wie folgt verwendet werden:
+
+    für illegale Zwecke (z. B. zur Begehung von Betrug)
+    auf eine Weise, die unsere Fähigkeit, unsere Dienstleistungen zu erbringen, beeinträchtigen kann;
+    zum bloßen Transfer von Geld von einem bzw. auf ein Kreditkartenkonto
+    für alle Transaktionen zum Erhalt von Bargeld abgesehen vom Abheben an einem Geldautomaten
+    zur Kontrolle oder Nutzung eines Revolut-Kontos, das nicht Ihres ist
+    zur Weitervergabe der Revolut-Karte an eine andere Person;
+    um anderen Personen den Zugriff auf Ihr Konto oder die Revolut App zu ermöglichen
+    um Nutzungsbeschränkungen eines Dienstanbieters, bei dem Ihre Revolut-Karte registriert ist, zu missbrauchen, auszunutzen oder zu umgehen. So darfst du beispielsweise nur eine Revolut-Karte für einen bestimmten Dienstanbieter verwenden, der ein Gratisabonnement oder einen kostenlosen Testzeitraum anbietet,
+    oder um in Fremdwährungen zu spekulativen Zwecken zu handeln (d. h. um einen erwarteten Anstieg oder Rückgang des Wertes einer Währung auszunutzen) oder um Unterschiede auf dem Devisenmarkt auszunutzen
+Bitte verhalte dich auch respektvoll gegenüber uns und unseren Support-Mitarbeitern – wir sind da, um dir zu helfen.
+
+Geldein- und -ausgänge
+
+12. Geld auf meinem Konto hinzufügen
+
+Du kannst deinem Konto Geld hinzufügen, indem du eine bei uns registrierte Debit- oder Kreditkarte (wir nennen dies deine gespeicherte Karte) oder eine Banküberweisung nutzt. Deine gespeicherte Karte muss auf deinen Namen laufen.
+
+Wenn du Geld per Banküberweisung hinzufügst, musst du die in der Revolut App angegebenen Daten verwenden. Sobald wir das Geld erhalten, fügen wir deinem Konto den Gegenwert in Form von E-Geld hinzu. Befolge unbedingt sorgfältig die Anweisungen in der App, um Verzögerungen zu vermeiden.
+
+Die Kontodaten, die du verwenden musst, um deinem Konto Geld hinzuzufügen, hängen von der Währung des hinzugefügten Geldes ab. Wenn du beispielsweise Geld in Euro (€) auf dein Konto einzahlen möchtest, musst du unsere Kontodaten für das „Euro-Konto“ verwenden, die in der Revolut App angegeben sind.
+
+Wenn du eine gespeicherte Karte oder ein Bankkonto in einer Währung verwendest, um deinem Konto Geld in einer anderen Währung hinzuzufügen, kann deine Bank oder dein Kartenanbieter eine Gebühr erheben.
+
+Wir werden davon ausgehen, dass du deine Zustimmung erteilt und uns die Befugnis erteilt hast, die Transaktion auszuführen, sobald du deinen Zahlungsauftrag in der Revolut App abgeschickt hast.
+
+Weitere Informationen zum Hinzufügen von Geld auf dein Konto findest du in unseren FAQs.
+
+Geld auf deinem E-Geld-Konto halten
+
+Sobald du Geld auf dein E-Geld-Konto überwiesen hast, kannst du es auf verschiedene Arten von Unterkonten, die wir anbieten, weiterüberweisen. Zum Beispiel kannst du dein E-Geld von einer Währung in die andere tauschen, oder es in einer Privatkunden-Vault bzw. Pocket halten. Das sind die Unterkonten deines E-Geld-Kontos. Alle Regeln, die für dein Hauptkonto gelten, gelten auch für deine Unterkonten - zum Beispiel können Inkassoagenturen darauf zugreifen.
+
+Mach dir keine Sorgen, dass der Saldo deines Revolut-Kontos zu niedrig werden könnte
+
+Es ist uns bewusst, dass es wichtig für dich ist, jederzeit Zahlungen von deinem Konto vornehmen zu können. Du kannst uns dazu ermächtigen, einen bestimmten Geldbetrag von deiner gespeicherten Karte auf dein Konto zu überweisen, wenn der Geldwert auf deinem Konto unter einen bestimmten Betrag fällt. Dies bezeichnen wir als Auto-Hinzufügung. Du kannst eine Auto-Hinzufügung jederzeit über die Revolut App oder deinen Kartenanbieter stornieren.
+
+Zahlungslimits
+
+Aufgrund der Vorschriften über die Bekämpfung der Geldwäsche und Terrorismusfinanzierung oder aufgrund der von Dritten angewandten Limits können wir für die Beträge, die auf dein Konto eingezahlt oder von deinem Konto ausgezahlt werden können, oder die Beträge, die du mit deiner Revolut-Karte abheben oder ausgeben kannst, ein Limit festsetzen. Wir können auch den Wert des Währungsumtauschs, den du zu einem bestimmten Zeitpunkt oder über einen bestimmten Zeitraum durchführen kannst, begrenzen. Diese Limits können sich von Zeit zu Zeit ändern. Informationen zu diesen Limits findest du hier.
+
+Achten auf die Einheitlichkeit der Währung
+
+Es ist wichtig, dass jede Zahlung auf dein Konto in der Währung deines Kontos erfolgt. Andernfalls wird die Zahlung in die Währung deines Kontos umgerechnet. Dies bedeutet, dass deinem Konto möglicherweise mehr oder weniger gutgeschrieben wird, als du erwartet hast. In diesem Fall können wir nicht für Verluste haftbar gemacht werden.
+
+13. Geldtransfer zwischen Revolut-Konten
+
+Du kannst Geld auf andere Revolut-Konten senden und von diesen empfangen. Wir nennen diese Art von Zahlungen Sofortüberweisungen. Alle Sofortüberweisungen werden sofort empfangen.
+
+Du kannst eine Sofortüberweisung auf das Konto eines anderen Revolut-Nutzers vornehmen, indem du ihn über seinen Nutzernamen oder eine andere von uns angebotene Methode zu seiner Identifikation aus der Kontaktliste in der Revolut App auswählst und den Anweisungen folgst.
+
+Gruppen-Vaults
+
+Wenn du Mitglied in einem Gruppen-Vault bist, kannst du auch Sofortüberweisungen dorthin vornehmen.
+
+Ein Gruppen-Vault ist ein Konto, das von einem einzelnen Revolut-Nutzer eingerichtet und verwaltet wird. Alle Mitglieder eines Gruppen-Vaults können ihre eigenen Transaktionen im Gruppen-Vault sehen und diesen jederzeit wieder verlassen. Nur der Revolut-Nutzer, der den Gruppen-Vault eingerichtet hat (der Eigentümer), kann automatisch alle Transaktionen im Gruppen-Vault sehen, den Gruppen-Vault schließen, andere Mitglieder hinzufügen oder entfernen und Mitgliedern des Gruppen-Vault das Abheben von Geld erlauben (oder ihre Zugriffsberechtigung widerrufen). Du solltest einem Gruppen-Vault nur dann beitreten oder Geld an ihn senden, wenn du dem Eigentümer vertraust, da er der Eigentümer des Geldes ist – wenn der Eigentümer zu irgendeinem Zeitpunkt kein Revolut-Kontoinhaber mehr ist oder sein Konto gesperrt wird, wirst du keinen Zugriff mehr auf das Geld im Gruppen-Vault haben.
+
+Einkäufe über „Mit Revolut bezahlen“
+
+Du kannst auch eine Sofortüberweisung an ein Unternehmen vornehmen, das „Mit Revolut bezahlen“ verwendet, um Zahlungen zu erhalten. Dies kann auf die folgenden zwei Arten geschehen:
+
+    Du kannst uns anweisen, eine Sofortüberweisung über einen festgelegten Betrag von deinem Revolut-Konto an ein Unternehmen vorzunehmen, entweder sofort oder an einem bestimmten Datum oder an mehreren Daten in der Zukunft (z. B. statt an der Kasse per Karte zu bezahlen). Wir bezeichnen solche Zahlungen als „vom Kunden eingeleitete Zahlungen“.
+    Du kannst deine Zustimmung dafür erteilen, dass ein Unternehmen Sofortüberweisungen von deinem Revolut-Konto einziehen kann (zum Beispiel, wenn du einem Unternehmen erlaubst, regelmäßig Zahlungen von deinem Konto einzuziehen, beispielsweise für ein Abonnement). Diese Zahlungen nennen wir „vom Händler eingeleitete Zahlungen“.
+Vom Kunden eingeleitete Zahlungen
+
+Vom Kunden eingeleitete Zahlungen müssen über einen festgelegten Betrag erfolgen. Der festgelegte Betrag stellt eine einmalige Zahlung dar. Du kannst wiederkehrende, vom Kunden eingeleitete Zahlungen an ein Unternehmen jederzeit deaktivieren (du musst sie am Tag vor ihrer Fälligkeit deaktivieren, wenn du sie verhindern möchtest). Du wirst während des Bezahl- oder Anmeldevorgangs aufgefordert, den Betrag einer vom Kunden eingeleiteten Zahlung sowie jede Wiederholung derselben zu bestätigen und zu authentifizieren. Das Unternehmen wird nur den Betrag erhalten, den du bestätigst, und das Unternehmen kann ohne deine Erlaubnis keine weiteren Zahlungen einziehen.
+
+Vom Händler eingeleitete Zahlungen
+
+Vom Händler eingeleitete Zahlungen können über beliebige Beträge erfolgen, aber du legst Obergrenzen für die Häufigkeit und den Gesamt- oder Einzelwert der vom Händler eingeleiteten Zahlungen fest, die ein Unternehmen einziehen kann. Du kannst vom Händler eingeleitete Zahlungen an ein Unternehmen auch jederzeit deaktivieren. Wenn ein Unternehmen uns jedoch bittet, eine vom Händler eingeleitete Zahlung von deinem Konto einzuziehen, und diese innerhalb der von dir festgelegten Limits liegt, werden wir dich nicht um eine Genehmigung bitten, bevor wir sie durchführen.
+
+Wir werden dich in der Revolut App benachrichtigen, wenn eine vom Kunden eingeleitete Zahlung oder eine vom Händler eingeleitete Zahlung von deinem Revolut-Konto aus erfolgt.
+
+Schutz bei der Verwendung von „Mit Revolut bezahlen“
+
+„Mit Revolut bezahlen“ ist eine Dienstleistung, die wir Unternehmen anbieten, damit du sie direkt von deinem Revolut-Konto aus bezahlen kannst, ohne deine Kartendetails eingeben zu müssen. Wir möchten jedoch, dass „Mit Revolut bezahlen“ sowohl für dich als auch für Unternehmen funktioniert. Daher haben wir eine Käuferschutzrichtlinie erstellt, die gilt, wenn du einen anspruchsberechtigten Kauf über „Mit Revolut bezahlen“ vornimmst.
+
+Erstattungen für vom Händler eingeleitete Zahlungen
+
+Vom Händler eingeleitete Zahlungen werden auf Grundlage einer Einwilligung, die du in der Vergangenheit erteilt hast, von deinem Konto eingezogen. Wir ermutigen Unternehmen, dir den Betrag jeder vom Händler eingeleitete Zahlungen mitzuteilen, bevor sie diese einziehen. Wenn du jedoch der Meinung bist, dass eine vom Händler eingeleitete Zahlung irrtümlich von deinem Konto eingezogen wurde, kannst du uns innerhalb von 8 Wochen nach der Zahlung bitten, sie zurückzuerstatten. Kontaktiere uns per Chat, um eine Rückerstattung zu beantragen, und wir werden dich innerhalb von 10 Werktagen wissen lassen, ob deine Rückerstattung erfolgreich durchgeführt wurde.
+
+14. Andere Arten von Zahlungen tätigen
+
+Es ist einfach, Geld auf dein Bankkonto oder das einer anderen Person zu überweisen. Du kannst eine einmalige Zahlung vornehmen oder eine wiederkehrende Zahlung einrichten. Gib einfach die Bankleitzahl und die Kontonummer (oder bei internationalen Zahlungen BIC und IBAN) des Kontos, auf das du das Geld überweist, in der Revolut App ein und folge den Anweisungen. Möglicherweise benötigen wir dafür noch zusätzliche Informationen.
+
+Verwendung der Revolut-Karte
+
+Mit deiner Revolut-Karte kannst du ebenfalls Zahlungen tätigen und Bargeld abheben. Hierfür kannst du die Details deiner Revolut-Karte (Kartennummer, Ablaufdatum und CVC-Nummer) oder deine PIN eingeben. Wir werden diese Maßnahmen als deine Zustimmung dazu ansehen, auf deinem Revolut-Konto Zahlungen einzuleiten oder Bargeld abzuheben. Du erteilst auch deine Zustimmung dafür, Zahlungen mit deiner Revolut-Karte vorzunehmen, indem du:
+
+    deine Revolut-Karte an das Terminal hältst (eine „kontaktlose“ Transaktion) und andere Aktionen am elektronischen Kartenleser durchführst. Für kontaktlose Zahlungen ist bis zu einem bestimmten Betrag keine PIN-Eingabe erforderlich.
+    auf dem Beleg, der vom elektronischen Kartenleser ausgestellt wurde, für den Kauf unterschreibst;
+    deine Revolut-Karte in den elektronischen Kartenleser einsteckst und eine weitere Aktion durchführst, die der elektronische Kartenleser anfordert, ohne deine PIN einzugeben (z. B. bei der Zahlung von Maut- und Parkplatzgebühren usw.);
+    die Nummer deiner Revolut-Karte und andere Details bereitstellst, und der Einleitung von Zahlungsaufträgen zur Belastung deines Kontos zustimmst, während du eine Vereinbarung mit einem Trader oder Dienstleister abschließt; oder
+    deine Revolut-Karten-Nummer und andere Angaben für einen Trading- oder Dienstanbieter und die Authentifizierung dieser Zahlung mit einer 3D Secure-Methode bereitstellt. Das ist ein Schritt, den du beim Online-Kauf mit deiner Revolut-Karte ausführen musst, wenn ein Trading- oder Dienstanbieter diese Methode implementiert hat. Ist das der Fall, erscheint ein Fenster auf der Website des Trading- oder Dienstanbieters, in dem du aufgefordert werden, die Zahlung zu verifizieren, und du erhältst eine Push-Benachrichtigung an deine Revolut App. Du musst deine App öffnen und die Transaktion bestätigen, um die Zahlung abzuschließen.
+Wenn du mit deiner Revolut-Karte Geld an einem Geldautomaten abhebst oder eine Zahlung durchführst (z. B. in einem Geschäft oder Restaurant), betrachten wir die Zahlung als von dir autorisiert, es sei denn:
+
+    du teilst uns mit, dass Geld von deinem Konto gestohlen wurde, oder
+    du glaubst nicht, dass wir deine Anweisungen korrekt befolgt haben.
+
+Möglicherweise berechnen wir dir eine Gebühr für das Geldabheben. Die entsprechenden Gebühren findest du in unserer Gebührenübersicht.
+
+Wir sind nicht verantwortlich für Verluste, wenn Zahlungen in einer anderen Währung zurückgegeben werden.
+Manchmal geht Geld, das wir für dich an jemanden überweisen sollen, nicht auf dessen Konto ein sondern an uns zurück. Wenn wir bei der Zahlung einen Währungsumtausch durchführen mussten und zeigen können, dass wir alles richtig gemacht haben, werden wir das Geld, wenn wir es dir zurückerstatten, wieder in die ursprüngliche Währung umrechnen. Das bedeutet, dass der Betrag, den du auf dein Konto zurückerstattet bekommst, niedriger (oder auch höher!) sein kann als die von dir geleistete Zahlung. Wir wären nicht verantwortlich für Verluste, die dadurch bei dir entstehen.
+
+ACHTUNG BEI DER EINGABE DER DATEN DES ZAHLUNGSEMPFÄNGERS
+
+Wenn du die Daten der Person eingibst, die du bezahlen möchtest, stelle sicher, dass die Daten korrekt sind. Wenn sie es nicht sind, kann sich deine Zahlung verzögern oder du könntest dein Geld verlieren, wenn es auf das falsche Konto überwiesen wird.
+
+Vergewissere dich, dass du die Person kennst, an die du eine Zahlung leistest. Wenn jemand auf dich zukommt und dich bittet, eine Zahlung an ihn zu leisten, aber du nicht sicher bist, um wen es sich handelt oder wofür die Zahlung ist, bist du möglicherweise das Opfer eines Betrugs und wir können dein Geld möglicherweise nicht für dich zurückbekommen.
+
+Sollte die Person, die du bezahlen möchtest, das Geld nicht erhalten, sind wir nicht verantwortlich, sofern wir die Zahlung korrekt bearbeitet haben, du uns aber die falschen Angaben gemacht hast. Wir werden zwar auf deine Bitte hin gerne versuchen, dein Geld zurückzubekommen, aber das könnte sich in einigen Ländern schwieriger gestalten als in anderen.
+
+Wenn du dich über die Revolut App an unser Kundenserviceteam wendest, können wir dir Informationen zur Verfügung stellen, die dir dabei helfen, das Geld zurückzubekommen, einschließlich der Angaben zu der Person, die das Geld erhalten hat, falls uns diese vorliegen.
+
+Der EWR umfasst alle Länder der Europäischen Union sowie Norwegen, Island und Liechtenstein. Ein „Werktag“ ist ein Tag, an dem die Banken sowohl in der Republik Litauen als auch in Großbritannien geöffnet sind.
+
+SEPA-Lastschriften
+
+Je nachdem, wo du wohnst, kannst du Zahlungen per Lastschrift in Euro von deinem Konto auf Bankkonten im einheitlichen europäischen Zahlungsverkehrsraum (das sind alle Länder des EWR sowie die Schweiz, Monaco und San Marino) vornehmen. Diese Zahlungen werden als SEPA-Lastschriften bezeichnet. Die Bank, die das Konto führt, auf das die Lastschrift einzuzahlen ist (die Bank des Zahlungsempfängers), ist dafür verantwortlich, uns bei Fälligkeit um die Zahlung zu bitten.
+
+Du hast folgende Möglichkeiten:
+
+    den Betrag einer SEPA-Lastschrift oder die Häufigkeit, mit der sie von Ihrem Konto erfolgt (oder beides), zu begrenzen
+    SEPA-Lastschriften, die von Ihrem Konto bezahlt wurden, zu stornieren
+    zu entscheiden, SEPA-Lastschriften nur an bestimmte Personen auszahlen zu lassen
+Du kannst uns hierzu über die Revolut App kontaktieren.
+
+Wenn du eine SEPA-Lastschrift eingerichtet hast, wird die Bank des Zahlungsempfängers diese am Werktag vor Fälligkeit anfordern und wir werden sie am Fälligkeitstag an die Bank zahlen. Handelt es sich bei dem Fälligkeitsdatum um einen arbeitsfreien Tag für die Bank des Zahlungsempfängers (dies ist in der Regel ein Wochenende oder ein Feiertag), so geht die Zahlung am nächsten Werktag bei der Bank ein.
+
+Bitte lies unsere FAQ zu SEPA-Lastschriften.
+
+Zahlungen für Dienstleistungen, die von anderen Unternehmen der Revolut-Gruppe erbracht werden
+
+Die Revolut App ist mehr als nur ein E-Geld-Konto. Es ist eine Plattform, auf der du auf eine ganze Reihe von Diensten zugreifen kannst.
+
+Nicht alle diese Dienstleistungen werden von uns (Revolut Payments UAB) erbracht. Einige werden von anderen Unternehmen innerhalb unserer Gruppe bereitgestellt. Wenn dies der Fall ist, musst du separaten Geschäftsbedingungen mit diesen Unternehmen zustimmen, die für diese Dienstleistungen gelten. Zum Beispiel:
+
+    Wenn du Kryptowährungsdienste nutzt, werden diese von Revolut Ltd zur Verfügung gestellt und unterliegen den Kryptowährungs-AGB, denen du zugestimmt hast. Wir bieten diese Dienstleistungen nicht an und du hast keine Rechte gegen uns im Rahmen dieser Kryptowährungs-AGB.
+    Wenn du Edelmetall-Dienstleistungen nutzt, werden diese von Revolut Ltd zur Verfügung gestellt und unterliegen den Edelmetall-AGB, mit denen du dich einverstanden erklärt hast. Wir stellen diese Dienstleistung nicht zur Verfügung, und du hast gemäß diesen Edelmetall-AGB keine Rechte gegen uns.
+    Wenn du Trading-Dienstleistungen nutzt, werden diese von Revolut Trading Ltd. zur Verfügung gestellt und unterliegen den Trading-AGB, mit denen du dich einverstanden erklärt hast. Wir stellen diese Dienstleistung nicht zur Verfügung, und du hast gemäß diesen Trading-AGB keine Rechte gegen uns.
+    Alle anderen Dienstleistungen, die von einer anderen Konzerngesellschaft erbracht werden.
+Obwohl wir diese Dienstleistungen nicht erbringen, führen sie normalerweise zu einer Zahlung, die an dein E-Geld-Konto oder von deinem E-Geld-Konto bei uns vorgenommen werden muss. Wenn du zum Beispiel Kryptowährung kaufst, wird eine Zahlung von deinem E-Geld-Konto bei uns für die Kryptowährung geleistet, und wenn du sie verkaufst, wird eine Zahlung auf dein E-Geld-Konto überwiesen. In diesem Fall erhält dein Konto auf Anforderung von anderen Unternehmen der Revolut-Gruppe auf der Grundlage von deren allgemeinen Geschäftsbedingungen eine Gutschrift oder Lastschrift.
+
+Manchmal können wir für dein E-Geld-Konto ein Unterkonto einrichten, wenn das für diese Dienstleistungen erforderlich ist. Wenn du zum Beispiel Trading-Dienstleistungen nutzt, siehst du, dass du ein Unterkonto hast, das du finanzieren musst, bevor du die Trading-Dienstleistungen nutzen kannst.
+
+15. Was passiert, wenn eine Zahlung auf das falsche Konto, überhaupt nicht oder verspätet gesendet wurde?
+
+Wir sind stets bemüht, deine Zahlungen korrekt und pünktlich abzuwickeln, aber manchmal gehen die Dinge schief und eine Zahlung kann sich verzögern oder nicht bei der Person eingehen, die du bezahlen wolltest.
+
+Wenn etwas schief gelaufen ist und sich
+
+    die Person, die dich bezahlt,
+    das Bankkonto, auf dem deine Zahlung eingehen sollte, oder
+    der Händler, den du bezahlt hast,
+im EWR befindet, teile uns dies über die Revolut App mit. Du musst uns so schnell wie möglich informieren, spätestens jedoch 13 Monate nachdem der Betrag von deinem Konto abgebucht wurde.
+
+Wenn das Geld nicht auf dem Konto eingegangen ist, an das du es geschickt hast, erstatten wir die Zahlung auf dein Konto zurück. Falls du aufgrund unseres Fehlers Gebühren oder Zinsen zahlen musstest, erstatten wir diese ebenfalls.
+
+Wenn wir eine Zahlung in deinem Namen erhalten haben, das Geld aber nicht rechtzeitig auf dein Konto eingezahlt wurde, werden wir deinem Konto den Betrag der Zahlung sofort gutschreiben.
+
+Für den Währungsumtausch gelten diese Regeln nicht.
+
+Was kannst du tun, wenn du glaubst, dass du einen Fehler gemacht hast?
+
+Du musst immer überprüfen, ob du die richtigen Angaben für die Person eingegeben hast, die du bezahlen möchtest, bevor du eine Zahlung vornimmst. Es ist immer eine gute Idee, eine Testzahlung in Höhe von einem kleinen Betrag (z. B. 1 €) zu leisten, um sicherzustellen, dass die Kontodaten, die du hast, korrekt sind. Du musst immer an Folgendes denken:
+
+    Vergewissere dich, dass du die Person kennst, an die du eine Zahlung leistest. Wenn jemand auf dich zukommt und dich bittet, eine Zahlung an ihn zu leisten, aber du dir nicht sicher bist, um wen es sich handelt oder wofür die Zahlung ist, bist du möglicherweise das Opfer eines Betrugs.
+    Die Kontakte, die du in der Revolut App siehst, entsprechen den Namen und Telefonnummern, die du auf deinem eigenen Telefon gespeichert hast. Diese Namen und Nummern werden weder von uns noch von anderen Personen überprüft. Das bedeutet, dass, wenn du die falsche Nummer oder den falschen Namen auf deinem Telefon gespeichert hast, du die falsche Person bezahlst und dein Geld verlieren kannst.
+    Die Benutzernamen, die du in der Revolut App siehst, können ähnlich wie andere Benutzernamen aussehen und können von einzelnen Benutzern geändert werden. Wir unternehmen Schritte, um unangemessene Benutzernamen zu entfernen, aber diese Benutzernamen werden weder von uns noch von jemand anderem überprüft. Das heißt, wenn du dir nicht sicher bist, dass die Person diejenige ist, die sie vorgibt zu sein, kannst du die falsche Person bezahlen und dein Geld verlieren.
+Wir sind nicht verantwortlich, wenn wir eine Zahlung an die Person leisten, die du uns nennst, auch wenn du uns versehentlich die falsche Kontonummer, den falschen Benutzernamen oder die falsche Telefonnummer gegeben hast. Wenn du uns jedoch darum bittest, versuchen wir, dein Geld für dich zurückzubekommen. Wir können auch versuchen, dir Informationen über den Begünstigten zu besorgen, damit du selbst versuchen kannst, das Geld zurückzubekommen (wenn das Gesetz es uns erlaubt). Obwohl wir das versuchen, garantieren wir nicht, dass wir erfolgreich sind; in einigen Fällen wird es uns nicht gelingen.
+
+Was tun wir, wenn wir oder jemand anders einen Fehler gemacht haben?
+
+Wird hingegen eine Zahlung versehentlich von einer anderen Person auf dein Revolut-Konto eingezahlt, musst du das Geld zurückzahlen. Wenn die Person, die die Zahlung fälschlicherweise getätigt hat, einen Rechtsanspruch auf Rückerstattung geltend macht, müssen wir deine Daten möglicherweise mit ihr teilen.
+
+Aus diesem Grund musst du dein Konto regelmäßig überprüfen, um sicherzustellen, dass alles in Ordnung ist.
+
+16. Senden und Empfangen von Zahlungen per Zahlungslink
+
+Du kannst Geld an Freunde senden, die kein Revolut-Konto haben, indem du einen „Zahlungslink“ einrichtest. Mit einem Zahlungslink kannst du zustimmen, einen bestimmten Betrag zu zahlen, ohne die Daten des Kontos einzugeben, auf das die Zahlung überwiesen wird. Stattdessen wählst du den Betrag aus und teilst den Link, und der Empfänger gibt seine Kontodaten dann selbst ein.
+
+Dazu klickst du auf das Tab „Zahlungen“ der Revolut App, gibst den Betrag ein, den du senden möchtest, klickst auf „Zahlungslink erstellen“ und sendest den Link an den Empfänger.
+
+Darüber hinaus kannst du einen Zahlungslink erstellen, um Zahlungen zu empfangen und diesen Link an eine andere Person schicken.
+
+Sobald du den Link an deinen Freund gesendet hast, muss er den Zahlungslink durch die Eingabe der relevanten Details abschließen.
+
+    Wenn du Geld über einen Zahlungslink sendest, muss dein Freund seine Bankkontodaten in den Link eingeben. Die Zahlung erfolgt dann auf sein Bankkonto, als ob du diese Angaben selbst in die App eingegeben hättest. Manchmal wird dein Freund aufgrund der Höhe oder Art der Zahlung gebeten, Revolut beizutreten, um die Transaktion abzuschließen. Sobald er das getan hat, erfolgt die Zahlung auf sein Revolut-Konto.
+    Wenn du Geld über einen Zahlungslink erhältst, muss dein Freund seine Debit- oder Kreditkartendaten innerhalb von 24 Stunden in den Link eingeben. Die Zahlung erfolgt dann über dessen Karte. Wir können für die Beträge, die du mithilfe eines Zahlungslinks anfordern kannst, Limits festsetzen, was dir in der App angezeigt wird.
+Manchmal müssen wir deinen Freund aus anderen Gründen bitten, ein Revolut-Konto zu eröffnen, bevor er eine Zahlung erhalten kann. Wenn er nicht rechtzeitig ein Revolut-Konto eröffnet, können wir die Zahlung an ihn bzw. von ihm nicht bearbeiten.
+
+Alle Zahlungslinks haben eine Frist. Danach läuft der Link ab, und dein Freund kann die Zahlung an dich nicht leisten bzw. von dir keine Zahlung erhalten. Wir teilen dir in der App mit, welche Frist der Link hat, wenn du ihn erstellst.
+
+Denk daran, dass du, wenn du einen Zahlungslink erstellst, um Geld zu senden, zustimmst, eine Zahlung zu tätigen, ohne selbst die Kontodaten einzugeben. Die Zahlung erfolgt auf die Angaben, die in den Link eingegeben werden. Stell sicher, dass du vorsichtig bist, wo du einen Link teilst und mit wem. Wenn du zum Beispiel einen Link „Geld senden“ mit deinem Freund auf dessen Social-Media-Profil stellst, könnte jemand anders auf den Link klicken und das Geld beanspruchen. Wenn du dir Sorgen um einen von dir erstellten Zahlungslink machst, kannst du ihn (vor dessen Fristende) über den Transaktionsverlauf in der App stornieren.
+
+17. Welcher Wechselkurs wird verwendet?
+
+Weitere Angaben zu unserer Gebühr findest du auf unserer Gebührenübersicht. Unser Live-Wechselkurs wird dir in der Revolut App angezeigt.
+
+Alle Standard- und Plus-Nutzer können jeden Monat einen bestimmten Betrag zu diesem Kurs umtauschen. Der festgelegte Betrag hängt von deiner Basiswährung ab und ist in unserer Gebührenübersicht aufgeführt. Standard- und Plus-Nutzer, die mehr als diesen Betrag umtauschen, bezahlen eine Gebühr für faire Nutzung (Premium- und Metal-Kunden zahlen diese Gebühr nicht).
+
+Sobald wir die Währung umgerechnet haben, zeigt dein Transaktionsverlauf in der Revolut App den von uns verwendeten Wechselkurs an.
+
+Der Wechselkurs kann sich vom Zeitpunkt, an dem du uns mitteilst, dass du die Währung umtauschen möchtest, bis zum Zeitpunkt, zu dem wir die Umrechnung tatsächlich durchführen, ändern. Das bedeutet, dass du, wenn du uns um den Umtausch einer Währung bittest, einen höheren oder niedrigeren Betrag zurückerhalten kannst, als den, den du erwartest.
+
+Wir übernehmen keine Verantwortung in folgenden Fällen: wenn du durch die Währungsumrechnung Geld verlierst, oder wenn dir Gebühren in Rechnung gestellt werden oder du Geld verlierst, weil du deine Revolut-Karte in einem anderen Land verwendest und du den Händler (oder die Bank des Händlers) bittest, die Umwandlung vorzunehmen. (Stell dir zum Beispiel vor, du bist ein litauischer Kunde, der in Japan unterwegs ist. Wenn du deine Rechnung in einem Restaurant bezahlst, stimmst du zu, in Euro statt in Yen zu bezahlen. Das bedeutet, dass du die Bank des Einzelhändlers gebeten hast, die Währung umzutauschen. Wir können nicht verantwortlich sein, wenn diese Bank einen schlechteren Wechselkurs anwendet oder dir Gebühren berechnet).
+
+18. Kann ich eine Zahlung oder einen Währungsumtausch stornieren?
+
+Du kannst eine Zahlung (auch eine reguläre Zahlung wie Dauerauftrag oder SEPA-Lastschrift) jederzeit bis zum Ende des Werktages vor Fälligkeit der von deinem Konto ausgehenden Zahlung stornieren.
+
+Du kannst eine von deinem Konto ausgehende Zahlung nicht mehr am Tag ihrer Fälligkeit stornieren. Das bedeutet, dass sich Transfers zwischen Revolut-Konten nicht stornieren lassen.
+
+Du kannst auch keinen Währungsumtausch stornieren, sobald wir deine Anfrage zu seiner Ausführung erhalten haben.
+
+Eine Überweisung kann problemlos storniert werden.
+
+Du kannst eine Überweisung über die Revolut App stornieren.
+
+19. Wie lange dauert es, bis eine Zahlung erfolgt ist?
+
+Wir sind uns darüber bewusst, dass eines der wichtigsten Dinge beim Tätigen einer Zahlung ist, dass der Zahlungsempfänger sie rechtzeitig erhält. Wann seine Bank das Geld erhält, hängt davon ab, wann du uns anweist, die Zahlung zu leisten, und in welcher Währung diese erfolgen soll.
+
+Im Folgenden wird erklärt, wann wir Zahlungen vornehmen. Bitte beachte, dass alle Zeiten in diesen allgemeinen Geschäftsbedingungen auf der britischen Zeitzone basieren, d. h. auf der Greenwich Mean Time (GMT) von Oktober bis März und auf der British Summer Time (BST) von März bis Oktober.
+
+Sofortüberweisung auf ein Revolut-Konto:
+
+    Du kannst deine Zahlungsanweisung jederzeit einreichen, und wir erhalten sie sofort.
+Zahlung auf das Bankkonto einer anderen Person:
+
+    Wenn du deine Zahlungsanweisung vor 13:00 Uhr (bzw. 15:00 Uhr in Wilna) an einem Werktag einreichst, erhalten wir sie sofort.
+    Wenn du deine Zahlungsanweisung nach 13:00 Uhr (bzw. 15:00 Uhr in Wilna) an einem Werktag einreichst, erhalten wir sie am nächsten Werktag.
+    Wenn du deine Zahlungsanweisung an einem Tag einreichst, der kein Werktag ist, erhalten wir sie am nächsten Werktag.
+Überweisung auf ein Bankkonto per Zahlungslink:
+
+    Du kannst deine Zahlungsanweisung jederzeit einreichen, und wir erhalten sie, wenn die Person, die du bezahlen möchtest, ihre Bankdaten eingibt (solange sie es innerhalb von 24 Stunden nach deinem Versenden des Zahlungslinks tut).
+Zahlung auf ein Bankkonto zu einem späteren Zeitpunkt (z. B. per Dauerauftrag):
+
+    Du kannst deine Zahlungsanweisung jederzeit einreichen und wir erhalten sie am selben Werktag (wenn die Zahlung von deinem Konto an einem Werktag erfolgt) oder am nächsten Werktag (wenn die Zahlung von deinem Konto an einem Tag, der kein Werktag ist, erfolgt).
+Im Folgenden sind die Zeitpunkte aufgeführt, zu denen wir Zahlungen in unterschiedlichen Währungen vornehmen.
+
+Wenn die Währung deiner Zahlung € oder £ ist:
+
+    Nachdem wir die Zahlung von deinem Konto abgebucht haben, wird sie am selben Werktag auf dem Konto des Zahlungsempfängers eingehen.
+Wenn die Währung deiner Zahlung eine andere Währung als € oder £ ist, auf ein Bankkonto im EWR (nicht in Großbritannien):
+
+    Nachdem wir die Zahlung von deinem Konto abgebucht haben, wird sie bis zu vier Werktage später auf dem Konto des Zahlungsempfängers eingehen.
+Wenn die Währung deiner Zahlung eine andere Währung als € oder £ ist, auf ein Bankkonto außerhalb des EWR:
+
+    nachdem wir die Zahlung von deinem Konto abgebucht haben, geht sie so schnell, wie wir die Zahlung dorthin überweisen können, auf das Konto des Zahlungsempfängers ein. Wie lange es dauern würde, hängt davon ab, wo sich die Bank deines Zahlungsempfängers befindet.
+Wenn du uns anweist, einen Währungsumtausch vorzunehmen, erhältst du das gewechselte E-Geld sofort.
+
+20. Wann wir eine Zahlung ablehnen oder verzögern
+
+Unter den folgenden Umständen müssen wir eine Zahlung ablehnen oder verzögern (einschließlich eingehender oder ausgehender Zahlungen):
+
+    wenn Rechts- oder Regulierungsvorschriften uns an der Zahlung hindern oder bedeuten, dass wir weitere Kontrollen durchführen müssen
+    wenn du in einer Weise gegen diese allgemeinen Geschäftsbedingungen verstoßen hast, von der wir vernünftigerweise annehmen, dass sie uns rechtfertigt, deine Zahlung abzulehnen oder zu verzögern
+    wenn die Verarbeitung deiner Anweisung gegen diese allgemeinen Geschäftsbedingungen verstößt oder deine Anweisung nicht alle Informationen enthält, die wir benötigen, um die Zahlung ordnungsgemäß durchzuführen;
+    wenn der Betrag höher als ein für dein Konto geltendes Limit ist oder du dieses überschreiten lassen würdest. Die Limits sind hier aufgeführt;
+    wenn dein Konto nicht ausreichend gedeckt ist, um die Zahlung zu tätigen und alle Kosten zu decken
+    wenn ein Insolvenzantrag gegen dich gestellt wird oder du eine individuelle freiwillige Vereinbarung mit deinen Gläubigern getroffen hast
+    wenn wir, selbst nachdem wir alles Mögliche getan haben, die Zahlung nicht rechtzeitig leisten können
+    wenn eine Drittpartei uns an der Zahlung hindert (z. B. wenn Mastercard oder Visa eine Zahlung oder Bargeldabhebung mit deiner Revolut-Karte nicht zulassen);
+    wenn wir dich um wichtige Informationen gebeten haben, die wir vernünftigerweise benötigen, und du uns diese nicht gegeben hast
+    wenn wir dein Konto gesperrt haben
+Wir können auch die Ausstellung einer neuen Revolut-Karte ablehnen, wenn du nicht genügend Geld auf deinem Konto hast, um uns für die Ausstellung oder Lieferung der Karte zu bezahlen.
+
+WENN WIR ES ABLEHNEN, EINE ZAHLUNG DURCHZUFÜHREN, WERDEN WIR IMMER (ES SEI DENN, DIES WÄRE GESETZESWIDRIG ODER TECHNISCH UNMÖGLICH FÜR UNS) VERSUCHEN, DICH ÜBER DIESE ABLEHNUNG, DIE GRÜNDE FÜR DIESE ABLEHNUNG (SOWEIT MÖGLICH) UND DAS VERFAHREN ZUR BEHEBUNG SACHLICHER FEHLER, DIE ZU DIESER ABLEHNUNG GEFÜHRT HABEN, ZU INFORMIEREN. EINE SOLCHE BENACHRICHTIGUNG WIRD DIR SO BALD WIE MÖGLICH NACH DER ABLEHNUNG ZUGESTELLT.
+
+Wir werden, wenn möglich, die Revolut App nutzen, um dir mitzuteilen, dass wir uns geweigert haben, eine Zahlung zu tätigen. Wenn du wissen möchtest, warum wir die Zahlung abgelehnt haben und was du tun kannst, um ein Problem zu lösen, rufe uns bitte über die App an.
+
+Wir haften nicht für Verluste, die dir dadurch entstehen, dass wir eine Zahlung ablehnen oder verzögern.
+
+21. Drittgebühren für die Erbringung oder den Erhalt von Zahlungen
+
+Wir berechnen keinerlei Gebühren für den Erhalt von Zahlungen. Wir berechnen auch keine Gebühren für den Versand lokaler Zahlungen in deiner Basiswährung.
+
+Wenn du eine Zahlung in einer anderen Währung oder in ein anderes Land durchführst, können wir eine Gebühr für grenzüberschreitende oder SWIFT-Zahlungen berechnen. Die entsprechenden Gebühren findest du in unserer Gebührenübersicht. Wir werden dich in jedem Fall in der Revolut App auf diese Gebühren hinweisen und dir ihre Höhe mitteilen, bevor du eine Zahlung vornimmst.
+
+Andere beteiligte Banken, z. B. die Bank der Person, die du bezahlst, oder bestimmte Korrespondenz- oder Zwischenbanken (Banken, die dir dabei helfen, das Geld zwischen anderen Banken zu überweisen), können manchmal ihre Gebühren aus der Zahlung einbehalten, die du sendest oder empfängst. Dies könnte bedeuten, dass du oder die Person, die du bezahlst, weniger erhält als erwartet. Zum Beispiel könnte es passieren, dass du nur 90 € von jemandem erhältst, der dir 100 € geschickt hat, weil die Bank der anderen Person eine Gebühr in Höhe von 10 € berechnet hat.
+
+Dies kann passieren, wenn
+
+    die Bank der Person, an die du eine Zahlung sendest oder von der du eine Zahlung erhältst, innerhalb des EWR liegt und die Zahlung in einer Währung erfolgt, die nicht die Währung eines EWR-Mitgliedstaats ist, oder
+    du eine Zahlung an jemanden leistest oder von diesem erhältst, dessen Bank außerhalb des EWR liegt.
+Um das noch einmal klarzustellen: Wir berechnen dir selbst keine Gebühren für die Durchführung oder den Erhalt von Zahlungen. Wir geben dir immer den vollen Betrag, den wir von einer anderen Bank erhalten. Ebenso senden wir immer den vollen Betrag, den du uns zu senden bittest, aber wir können nicht garantieren, dass der volle Betrag auf dem Konto der anderen Person eingeht, ohne dass eine Gebühr von einer anderen Bank eingezogen wird.
+
+Was passiert, wenn etwas schief geht?
+
+22. Was passiert, wenn jemand Geld von meinem Konto stiehlt?
+
+Informiere uns so schnell wie möglich über die Revolut App (spätestens innerhalb von 13 Monaten nach dem Datum, an dem das Geld von deinem Konto abgebucht wurde). Wir zahlen das Geld auf dein Konto zurück, wenn einer der folgenden Punkte zutrifft:
+
+    du hättest nicht wissen können, dass für deine Sicherheitsdaten oder die Revolut-Karte das Risiko bestand, missbraucht zu werden.
+    die Zahlung ist erfolgt, weil jemand, der unserer Verantwortung untersteht, einen Fehler gemacht hat;
+    Die Zahlung wurde vorgenommen, nachdem du uns mitgeteilt hattest, dass jemand deine Sicherheitsdaten kannte oder deine Revolut-Karte verloren gegangen ist bzw. gestohlen wurde, oder wir haben dir keine Möglichkeit gegeben, uns darüber zu informieren.
+    Das Gesetz verpflichtet uns, dich zu veranlassen, bestimmte Anweisungen zu befolgen, wenn du uns anweist, die Zahlung vorzunehmen, und wir dies nicht getan haben.
+    Du hast eine Zahlung geleistet, um für bestimmte Waren oder Dienstleistungen zu bezahlen, die du online oder auf andere Weise ohne persönlichen Kontakt gekauft hast (es gibt einige Arten von Verträgen, auf die dies möglicherweise nicht zutrifft, wie z. B. Verträge über Mietunterkünfte, aber wir können dir mehr Informationen darüber geben, wenn du uns über das Problem informierst).
+Wir werden dir auch alle Kosten zurückerstatten, die dir aufgrund des von deinem Konto entwendeten Betrags entstanden sind.
+
+Wir werden kein Geld zurückerstatten, wenn du betrügerisch gehandelt hast oder wenn du absichtlich oder fahrlässig deine Sicherheitsdaten oder die Revolut-Karte nicht sicher aufbewahrt hast (es sei denn, du hast uns dies mitgeteilt, bevor die Zahlung von deinem Konto abgebucht wurde). Zum Beispiel würden wir keine Rückerstattung leisten, wenn du jemandem die PIN deiner Revolut-Karte gegeben hast und er ohne dein Wissen eine Zahlung mit deiner Karte getätigt hat.
+
+23. Wann wir dein Konto oder deine Revolut-Karte sperren könnten
+
+Die Sicherheit deines Geldes ist uns wichtig. Es kann sein, dass wir dich daran hindern, Zahlungen von deinem Konto oder mit deiner Revolut-Karte zu tätigen, wenn wir uns vernünftigerweise um deren Sicherheit oder darum sorgen, dass sie betrügerisch oder ohne deine Erlaubnis verwendet werden.
+
+Möglicherweise müssen wir auch dein Konto oder deine Revolut-Karte sperren, um unseren gesetzlichen Verpflichtungen nachzukommen, die sich aus dem Recht der Republik Litauen ergeben.
+
+Wir informieren dich diesbezüglich über die Revolut App – entweder im Voraus oder so schnell wie möglich, nachdem wir deine Revolut App oder deine Revolut-Karte gesperrt haben. Wir werden dich auch über die Gründe für unser Handeln informieren (es sei denn, es würde deine oder unsere Sicherheit gefährden oder es wäre rechtswidrig). Wir werden dein Konto entsperren, sobald die Gründe für die Sperrung deines Kontos nicht mehr bestehen.
+
+24. Unter welchen Umständen kann mein Konto gesperrt oder geschlossen werden?
+
+In Ausnahmefällen können wir dein Konto sofort schließen oder sperren (einschließlich des Zugriffs auf die von den anderen Rechtspersönlichkeiten der Revolut-Gruppe erbrachten Dienstleistungen) und deinen Zugriff auf unsere Website beenden. Zu außergewöhnlichen Umständen zählen die folgenden:
+
+    wenn wir guten Grund zu der Annahme haben, dass du dich betrügerisch oder anderweitig kriminell verhältst;
+    wenn du uns (oder jemandem, der in unserem Namen handelt) notwendige Informationen vorenthalten hast, oder wir triftigen Grund zu der Annahme haben, dass die von dir angegebenen Informationen falsch oder nicht wahr sind
+    du regelmäßig oder ernsthaft gegen die allgemeinen Geschäftsbedingungen verstoßen hast und du den Verstoß nicht innerhalb eines angemessenen Zeitraums behoben hast, nachdem wir dich darum gebeten haben;
+    wenn wir guten Grund zu der Annahme haben, dass deine Nutzung der Revolut App für uns bzw. unsere Software, Systeme oder Hardware schädlich ist;
+    wenn wir guten Grund zu der Annahme haben, dass deine weitere Nutzung des Revolut-Kontos unserem Ruf schaden oder unseren Geschäftswert mindern könnte
+    wenn wir dich gebeten haben, Geld zurückzuzahlen, das du uns schuldest, und du dies nicht innerhalb einer angemessenen Frist getan hast
+    wenn du für bankrott erklärt wurdest
+    wenn wir zu einem entsprechenden Handeln gemäß allen Gesetzen, Verordnungen, Gerichtsbeschlüssen oder Anweisungen eines Ombudsmanns gezwungen sind
+Wir können darüber hinaus entscheiden, dein Konto aus anderen Gründen zu schließen oder zu sperren. In diesem Fall würden wir dich mindestens sechzig (60) Werktage vorher über die Revolut App kontaktieren.
+
+Durch die Schließung deines Revolut-Kontos und die Beendigung deines Vertrags mit uns können auch alle anderen Verträge, die du mit uns oder über uns getroffen hast, beendet werden. Weitere Informationen dazu erhältst du über die Revolut App oder indem du dich direkt mit uns in Verbindung setzt.
+
+25. Flexible Geschäftsbedingungen
+
+Wir können diese allgemeinen Geschäftsbedingungen nur aus den folgenden Gründen ändern: wenn wir denken, dass die Bedingungen durch eine Änderung verständlicher oder hilfreicher für dich sind; um die Art und Weise widerzuspiegeln, wie unser Geschäft geführt wird, insbesondere wenn die Änderung aufgrund einer Änderung in der Art und Weise erforderlich ist, wie ein Finanzsystem oder eine Technologie bereitgestellt wird; um die für uns geltenden gesetzlichen oder regulatorischen Anforderungen zu erfüllen; um Änderungen im Hinblick auf die Kosten für die Führung unseres Geschäfts zu reflektieren; weil wir neue Dienstleistungen oder Produkte ändern oder einführen, die unsere bestehenden Dienstleistungen oder Produkte betreffen, die unter diese Geschäftsbedingungen fallen.
+Informationen über Änderungen
+
+Wenn wir ein neues Produkt oder eine neue Dienstleistung hinzufügen, das/die die bestehenden allgemeinen Geschäftsbedingungen zu deinem Konto nicht ändert, übernehmen wir es/sie möglicherweise sofort und informieren dich, bevor Sie das Produkt oder die Dienstleistung nutzen.
+
+Andernfalls teilen wir dir die Änderung mindestens 2 Monate im Voraus über die Revolut App mit, bevor wir sie vornehmen. Wir gehen davon aus, dass du mit der Änderung einverstanden bist, es sei denn, du teilst uns mit, dass du dein Konto schließen möchtest, bevor die Änderung in Kraft tritt.
+
+26. Deine Rückerstattungsansprüche für Zahlungen mit der Revolut-Karte und für SEPA-Lastschriften
+
+Zahlungen mit der Revolut-Karte
+
+Du kannst von uns die Rückerstattung eines von deinem Konto abgezogenen Betrages verlangen, wenn alle folgenden Punkte zutreffen:
+
+    Du hast zugestimmt, dass eine Zahlung erfolgen kann, aber nicht in Bezug auf die tatsächliche Höhe des Zahlbetrags.
+    Der abgebuchte Betrag ist höher, als du unter allen Umständen (einschließlich deines Ausgabeverhaltens) vernünftigerweise erwartet hast.
+    Dein Zahlungsempfänger ist im EWR.
+    Du hast die Zahlung nicht direkt bei uns autorisiert.
+    Weder wir noch die von dir bezahlte Person haben dir in den vier Wochen vor ihrer Abbuchung irgendwelche Informationen über die Zahlung gegeben.
+    Du bittest uns innerhalb von acht Wochen nach Zahlungsabbuchung von deinem Konto um die Rückerstattung.
+Zum Beispiel könntest du eine Rückerstattung erhalten, wenn du einem Hotel die Genehmigung erteilt hast, deine Revolut-Karte mit allem aus der Minibar Konsumierten zu belasten, dir das Hotel aber mehr Geld berechnet hat, als du vernünftigerweise zu dem Zeitpunkt hättest erwarten können, als du ihm die Genehmigung dazu erteilt hast.
+
+Zwecks der Untersuchung der Angelegenheit können wir dich um weitere Informationen bitten. Wir leisten dir innerhalb von 10 Werktagen nach dem Datum, an dem du uns die von uns angeforderten Informationen gegeben hast, eine Rückerstattung oder teilen dir mit, warum wir diese nicht durchführen konnten.
+
+SEPA-Lastschriften
+
+Wenn du eine Zahlung per SEPA-Lastschrift vorgenommen hast, müssen die oben genannten Sachverhalte nicht berücksichtigt werden. Du hast Anspruch auf eine bedingungslose Rückerstattung, wenn du uns innerhalb von acht Wochen nach dem Datum, an dem die Zahlung von deinem Konto abgebucht wurde, kontaktierst.
+
+Stornierung von Rückerstattungen
+
+Wenn wir dir eine Rückerstattung geben und dann feststellen, dass du keinen Anspruch darauf hattest, musst du uns den erstatteten Betrag zurückzahlen.
+
+27. Bei wem liegt die Verantwortung, wenn etwas mit meinem Konto, meiner Revolut-Karte oder der Revolut App schiefgeht?
+
+Wir werden so weit wie möglich sicherstellen, dass unsere Services nicht unterbrochen werden und mit angemessener Geschwindigkeit zugänglich sind. Wir können jedoch nicht verbindlich zusichern, dass dies immer der Fall ist oder dass die Dienstleistungen fehlerfrei sind. Wir sind auch darauf angewiesen, dass einige Dienstleistungen von Dritten für dich erbracht werden, was manchmal zu einer Beeinträchtigung unserer Dienstleistungen führen kann. Wir werden immer unser Bestes tun, um alle Probleme mit unseren Dienstleistungen zu lösen, unabhängig von der Ursache.
+
+Wenn du eine Revolut-Karte hast, werden wir dich über alle Änderungen an unserem System informieren, die deine Möglichkeiten zur Nutzung der Karte beeinträchtigen.
+
+Aus folgenden Gründen haften wir nicht für Verluste, die dadurch entstehen, dass wir unseren Verpflichtungen bezüglich der Ein- und Auszahlungen auf dein Konto nicht nachkommen: aufgrund einer gesetzlichen oder regulatorischen Anforderung; unvorhersehbaren Ereignissen, die außerhalb unserer Kontrolle lagen und zu diesem Zeitpunkt unvermeidlich waren; krimineller oder sonstiger rechtswidriger Handlungen Dritter, die zu Schäden für dich oder eine andere Person führen (sofern sie nicht in diesen allgemeinen Geschäftsbedingungen direkt angegeben sind); oder aufgrund einer Sperrung deines Kontos bei der Umsetzung gesetzlicher Anforderungen, einschließlich derjenigen in Bezug auf die Bekämpfung von Geldwäsche und Terrorismusfinanzierung.
+Wenn du deine Revolut-Karte aus irgendeinem Grund nicht benutzen kannst, sind wir dir gegenüber nur für den Austausch dieser Karte verantwortlich.
+
+Wir haften nur für vorhersehbare Verluste.
+
+Wenn wir den Vertrag nicht einhalten, haften wir für den Verlust, den wir zum Zeitpunkt des Vertragsabschlusses hätten vorhersehen können, oder für den Verlust, der sich aus einem Betrug oder grober Fahrlässigkeit unsererseits ergibt.
+
+Wir sind dir gegenüber nicht, weder direkt noch indirekt, verantwortlich für die folgenden Punkte, die sich im Zusammenhang mit diesen allgemeinen Geschäftsbedingungen ergeben: Verlust von Einkommen oder Gewinn; Minderung des Geschäftswerts oder Schädigung deines Rufs; Verlust von Geschäftsverträgen oder -chancen; Verlust erwarteter Einsparungen; Folgeschäden.
+Keine Bestimmung in diesen allgemeinen Geschäftsbedingungen beschränkt oder schließt unsere Haftung für Tod oder Personenschäden aus, die auf Fahrlässigkeit unsererseits zurückzuführen sind, oder für Betrug oder betrügerische Forderungen und Auskünfte.
+
+28. Wie du uns Geld schulden könntest
+
+Du kannst dir kein Geld auf deinem Konto leihen (z. B. indem du Zahlungen über den Wert des darin enthaltenen Geldes leistest), wohingegen du möglicherweise von einem unserer Kreditprodukte profitieren könnest. Wenn dein Kontostand ins Minus rutscht (zum Beispiel, weil du nicht genug E-Geld besitzt, um Gebühren zu decken, die du uns schuldest), musst du innerhalb von 7 (sieben) Tagen nach unserer Aufforderung hierzu den erforderlichen Betrag auf dein Konto einzahlen, um den negativen Kontostand auszugleichen.
+
+Solltest du uns Geld schulden, können wir den Betrag, den du uns schuldest, von jedem Betrag abziehen, den wir an dich zahlen müssen. Wir nennen dies unser Aufrechnungsrecht.
+
+Zahlung von Gebühren oder anderen Beträgen, die du uns schuldest (außer Drittgebühren für die Ausführung oder den Erhalt von Zahlungen)
+
+Die Gebühren, die du möglicherweise an uns zahlen musst, sind auf der Seite mit unserem Gebührenverzeichnis aufgeführt.
+
+Wenn du uns Gebühren (außer Drittgebühren für die Ausführung oder den Erhalt von Zahlungen) oder einen anderen Betrag schuldest, nehmen wir den Betrag, den du uns schuldest, in der Währung des Landes, in dem du lebst (deine Basiswährung), von deinem Konto.
+
+Wenn auf deinem Konto nicht genügend Geld in deiner Basiswährung ist, nehmen wir den Gegenwert aus dem Geld, das du in einer anderen Währung auf dem Konto hast. Wenn du nicht genügend Geld auf deinem Konto hast, um die Gebühren oder andere Beträge zu bezahlen, die du uns schuldest, können wir den Betrag auf andere Weise zurückfordern, wie unten beschrieben.
+
+Möglicherweise bist du für die Zahlung von Steuern oder Kosten verantwortlich, die wir nicht selbst von dir einziehen müssen und die für Zahlungen anfallen, welche du über dein Konto sendest oder erhältst. In manchen Fällen, etwa wenn du deinen Wohnsitz in der Republik Irland hast oder Geld an einem Geldautomaten in der Republik Irland abhebst, können wir den entsprechenden Betrag an Stempelsteuer bis zu dem von den irischen Steuerbehörden vorgeschriebenen gesetzlichen Höchstbetrag erheben. Bitte überprüfe solche Sachverhalte also unbedingt selbst!
+
+Wenn du uns Geld schuldest und dein Konto nicht innerhalb von sieben Tagen auflädst oder den Betrag zurückzahlst, können wir den Betrag wie folgt zurückfordern:
+
+    indem wir den Betrag, den du uns schuldest, von deiner gespeicherten Karte einziehen;
+    indem wir von unserem Recht auf Verrechnung Gebrauch machen oder
+    indem wir andere rechtliche Schritte unternehmen, um das Geld, das du uns schuldest, einzuziehen, wie z. B. die Beauftragung von Anwälten oder Inkassounternehmen.
+Wenn wir einen (oder alle) dieser Schritte durchführen, können wir dir unsere entsprechenden Kosten in Rechnung stellen.
+
+29. Wann bist du möglicherweise für Verluste haftbar?
+
+Du kannst uns gegenüber für bestimmte Verluste haftbar sein.
+
+Wenn du diese allgemeinen Geschäftsbedingungen verletzt und uns dadurch ein Verlust entsteht, gilt Folgendes:
+
+    du haftest für alle Verluste, die wir durch dein Handeln erleiden (wir werden versuchen, die Verluste auf ein Minimum zu beschränken); und
+    du bist auch für alle angemessenen Verfahrenskosten haftbar, die aufgrund unserer Verluste entstehen.
+30. Eine Beschwerde einreichen
+
+Wenn du mit unserem Service nicht zufrieden bist, werden wir versuchen, die beanstandeten Punkte in Ordnung zu bringen.
+
+Wir geben immer unser Bestes, aber wir wissen auch, dass manchmal etwas schiefgeht. Wenn du eine Beschwerde hast, kannst du uns jederzeit kontaktieren. Wir werden jede Beschwerde, die du bei uns einreichst, annehmen und bearbeiten. Du erhältst innerhalb von 15 Werktagen nach der Einreichung deiner Beschwerde und in Ausnahmefällen innerhalb von 35 Werktagen (in einem solchen Fall werden wir dich gesondert benachrichtigen) unsere endgültige Antwort auf deine Beschwerde oder ein Schreiben, in dem erläutert wird, warum die endgültige Antwort nicht abgeschlossen wurde.
+
+Außergerichtliche Streitbeilegungsstelle für Beschwerden im Zusammenhang mit Finanzdienstleistungen
+
+Wenn du mit der Art und Weise, wie wir deine Beschwerde bearbeitet haben, unzufrieden bist, kannst du diese innerhalb von 1 (einem) Jahr nach dem Datum, an dem du deine Beschwerde bei uns eingereicht hast, an die Bank of Lithuania weiterleiten. In diesem Fall dient die Bank of Lithuania als außergerichtliche Streitbeilegungsstelle, die sich mit Streitigkeiten zwischen Verbrauchern und Finanzdienstleistern befasst.
+
+Seine Adresse lautet: Žalgirio g. 90, 09303 Wilna, Republik Litauen.
+
+Weitere Informationen findest du auf der Website der Schlichtungsstelle.
+
+Bitte beachte: Falls du dich an die Bank of Lithuania als außergerichtliche Streitbeilegungsstelle wenden möchtest, musst du deine Beschwerde innerhalb von 3 (drei) Monaten ab dem Tag, an dem du von der angeblichen Verletzung deiner Rechte oder berechtigten Interessen aufgrund deiner Vereinbarung mit uns erfahren hast oder hättest wissen müssen, bei uns einreichen.
+
+Die Prüfung der Beschwerde bei der Bank of Lithuania ist kostenlos.
+
+Die außergerichtliche Schlichtungsstelle für Verbraucherstreitfälle, die nicht die Zuständigkeiten der Bank of Lithuania betreffen, ist die State Consumer Rights Protection Authority.
+
+Seine Adresse lautet: Vilniaus str. 25, 01402, Vilnius, Republik Litauen.
+
+Weitere Informationen findest du auf der Website der Schlichtungsstelle. Du kannst dich auch auf die gesetzlichen Verbraucherschutzbestimmungen des EWR-Landes berufen, in dem du lebst. Du kannst auch eine Beschwerde bei den jeweiligen außergerichtlichen Streitbeilegungsstellen einreichen, die in deinem Land Verbraucherbeschwerden mit Bezug auf die von uns erbrachten Finanzdienstleistungen entgegennehmen. Die Liste dieser Behörden findest du hier.
+
+Außergerichtliche Streitbeilegungsstelle für Beschwerden im Zusammenhang mit der Verarbeitung personenbezogener Daten
+
+Du hast das Recht, eine Beschwerde bei der staatlichen Datenschutzaufsichtsbehörde (SDPI), der litauischen Aufsichtsbehörde für Datenschutzfragen, einzureichen.
+
+Seine Adresse lautet: L. Sapiegos str. 17, 10312 Vilnius, Republik Litauen; E-Mail: ada@ada.lt.
+
+Weitere Informationen findest du auf der Website der Schlichtungsstelle.
+
+Weitere Informationen
+
+Klicke hier, um weitere Informationen zu unserem Beschwerdemanagement zu erhalten.
+
+Eine Beschwerde einreichen
+
+Wenn du nur mit jemandem über ein Problem sprechen möchtest, das dich beunruhigt, kontaktiere uns bitte über die Revolut App. In der Regel können wir Angelegenheiten schnell über die App erledigen. Wahrscheinlich benötigen wir die unten aufgeführten Informationen von dir.
+
+Wenn du es vorziehst, kannst du deine Beschwerde mit diesem Formular einreichen. Oder du kannst uns eine E-Mail an formalcomplaints@revolut.com senden.
+
+Wir benötigen Folgendes von dir:
+
+    Namen und Vornamen
+    Telefonnummer und E-Mail-Adresse, die mit deinem Konto verknüpft sind
+    Problembeschreibung
+    den Zeitpunkt, zu dem das Problem aufgetreten ist und
+    deine Vorstellung davon, wie wir die Sache in Ordnung bringen können.
+Wir schauen uns deine Beschwerde an und melden uns bei dir per E-Mail. Sofern wir dir nichts anderes mitteilen, werden wir auf Englisch mit dir kommunizieren.
+
+Unabhängig von den obenstehenden Regelungen hast du jederzeit das Recht, dich in Bezug auf Beschwerden über unsere Dienstleistungen an die oben genannte außergerichtliche Streitbeilegungsstelle zu wenden. Du hast auch das Recht, ein zuständiges Gericht anzurufen, wenn du der Meinung bist, dass wir gegen ein Gesetz verstoßen haben.
+
+Rechtliche Hinweise
+
+31. Erlaubnis zur Verarbeitung deiner personenbezogenen Daten
+
+Um Dienstleistungen im Rahmen des Vertrags erbringen zu können, müssen wir Informationen über dich einholen. Gemäß dem Datenschutzgesetz sind wir der sogenannte Datenverantwortliche für deine personenbezogenen Daten. Weitere Informationen darüber, wie wir deine personenbezogenen Daten verwenden, findest du in unseren Datenschutzrichtlinien.
+
+Mit dem Abschluss der Vereinbarung erteilst du uns die Erlaubnis, personenbezogene Daten zu erfassen und zu speichern, um dir unsere Dienstleistungen zur Verfügung zu stellen. Die Rechte und Pflichten, die du oder wir aus datenschutzrechtlichen Gründen haben, bleiben davon unberührt.
+
+Du kannst deine Zustimmung widerrufen, indem du dein Konto schließt, wodurch der Vertrag zwischen dir und uns aufgehoben wird. Wenn du dies tust, werden wir deine Daten nicht mehr für die Bereitstellung unserer Dienstleistungen verwenden, aber wir müssen deine Daten möglicherweise aus anderen rechtlichen Gründen aufbewahren.
+
+Vertraulichkeit
+
+Durch den Abschluss dieser Vereinbarung erteilst du uns die Erlaubnis, gegenüber anderen Rechtspersönlichkeiten innerhalb der Revolut-Gruppe (einschließlich der Revolut Bank UAB und Revolut Ltd) folgende Informationen offenzulegen:
+
+    die Tatsache, dass du unser Kunde bist;
+    die Dienstleistungen, die wir dir zur Verfügung stellen;
+    die Kontonummer;
+    dein Kontostand (oder deine Kontostände);
+    Vorgänge, die in deinem Namen durchgeführt wurden oder werden;
+    deine Schuldverpflichtungen uns gegenüber;
+    die Umstände der Bereitstellung der Finanzdienstleistungen für dich;
+    deine finanzielle Situation und deine Vermögenswerte;
+    andere kommerzielle Informationen, die du uns bei der Eröffnung des Kontos zur Verfügung gestellt hast; und
+    deine Aktivitäten, Abos, Schuldverpflichtungen oder Transaktionen an andere Personen.
+Die oben genannten Informationen werden offengelegt, falls es für die Finanzbuchhaltung, Abschlussprüfung, Risikobewertung oder die Nutzung gemeinsamer Informationssysteme oder technischer Ausrüstung (Server) erforderlich ist, oder bei Bedarf für die Erbringung von Dienstleistungen.
+
+Alle oben genannten Punkte bezeichnen wir als „Kundengeheimnis“, das wir gemäß den geltenden Vorschriften schützen müssen.
+
+Durch den Abschluss der Vereinbarung verstehst und bestätigst du, dass, falls du deine Einstellungen in der Revolut App nicht geändert hast, andere Revolut-Nutzer, die dich in ihrer Kontaktliste eingetragen haben, erfahren werden, dass du unser Kunde bist. Du kannst deine Einstellungen jederzeit ändern.
+
+32. Unser geistiges Eigentum
+
+Das gesamte geistige Eigentum an unseren Produkten (z. B. die Inhalte unserer App und auf unserer Website, unser Logo und unsere Kartendesigns) ist Eigentum unserer Muttergesellschaft Revolut Ltd (ein in England und Wales mit der Unternehmensnummer 08804411 eingetragenes Unternehmen mit eingetragenem Sitz in 7 Westferry Circus, Canary Wharf, London, E14 4HD, Großbritannien) und wird von uns und anderen Unternehmen der Revolut-Gruppe verwendet. Du darfst dieses geistige Eigentum nicht als dein eigenes verwenden – außer bei der Nutzung unserer Produkte. Du darfst auch keine unserer Produkte durch Reverse Engineering rückentwickeln (d. h. sie nach einer eingehenden Prüfung ihrer Konstruktion oder Zusammensetzung reproduzieren).
+
+33. Rechtliche Hinweise
+
+Unser Vertrag mit dir
+
+Die Rechte aus dem Vertrag liegen ausschließlich bei dir und uns.
+
+Der Vertrag ist personenbezogen und du kannst keinerlei Rechte oder Pflichten daraus auf andere übertragen.
+
+Unsere Übertragungs- und Abtretungsrechte
+
+Du gestattest uns, alle unsere Rechte und Pflichten aus diesen allgemeinen Geschäftsbedingungen an Dritte zu übertragen oder abzutreten.
+
+Wir übertragen deine und unsere Rechte oder Pflichten aus diesem Vertrag nur dann, wenn es keine wesentlichen negativen Auswirkungen auf deine Rechte unter diesen allgemeinen Geschäftsbedingungen hat, oder es erforderlich ist, um gesetzliche oder regulatorische Anforderungen an uns einzuhalten. Wenn wir Rechte und Pflichten übertragen, nennen wir das „Novation“. Wenn wir ausschließlich Rechte übertragen, nennen wir dies „Abtretung“. Du kannst dein E-Geld-Konto nach der Benachrichtigung über die Abtretung zu kündigen.
+
+Es gilt litauisches Recht
+
+Für diese allgemeinen Geschäftsbedingungen und die Vereinbarung gelten die Gesetze der Republik Litauen. Du kannst dich dennoch auch weiterhin auf die gesetzlichen Verbraucherschutzbestimmungen des EWR-Landes berufen, in dem du lebst.
+
+Es gilt die englische Version dieses Vertrags
+
+Wenn diese allgemeinen Geschäftsbedingungen in eine andere Sprache übersetzt werden, dient die Übersetzung nur als Referenz und es gilt die englische Version. Durch den Abschluss dieser Vereinbarung und die Annahme von Revolut-Dienstleistungen bestätigst du, dass du die englische Sprache verstehst und damit einverstanden bist, mit Revolut in englischer Sprache zu kommunizieren, soweit es die Rechtsbeziehungen betrifft, die sich aus dieser Vereinbarung ergeben, einschließlich in Bezug auf die Einreichung und Beilegung von Beschwerden.
+
+Unser Recht zur Durchsetzung des Vertrags
+
+Wenn du den Vertrag zwischen dir und uns gebrochen hast und wir unsere Rechte nicht durchsetzen oder uns bei der Durchsetzung Zeit lassen, wird uns dies nicht daran hindern, diese oder andere Rechte zu einem späteren Zeitpunkt durchzusetzen.
+
+Ergreifen rechtlicher Maßnahmen gegen uns
+
+Rechtliche Schritte im Rahmen dieser allgemeinen Geschäftsbedingungen können nur vor den Gerichten der Republik Litauen (oder vor den Gerichten eines Mitgliedsstaats der EU, in dem du ansässig bist) unternommen werden.
+
+
+Ergänzung zu den Geschäftsbedingungen für Privatkunden von Revolut Payments UAB
+
+1. Worum es in dieser Ergänzung geht
+
+Dies ist eine Ergänzung (die Ergänzung) zu den Geschäftsbedingungen für Privatkunden, die du mit uns vereinbart hast, mit Bezug auf dein E-Geld-Konto von Revolut für Privatkunden (dein E-Geld-Konto).
+
+Diese Ergänzung gilt, wenn du dich für ein Sichteinlagenkonto bei Revolut Bank UAB (Revolut Bank) anmeldest. Sie regelt, wie Geld zwischen deinem E-Geld-Konto bei uns und deinem Sichteinlagenkonto bei Revolut Bank gesendet wird. Dein Sichteinlagenkonto bei Revolut Bank selbst unterliegt getrennt den Sichteinlagenbedingungen von Revolut Bank.
+
+Eine „Ergänzung“ bedeutet, dass dieses Dokument die Geschäftsbedingungen für Privatkunden, die du mit uns vereinbart hast, ergänzt, sie aber nicht ändert. Diese Ergänzung tritt in Kraft, sobald sie von dir akzeptiert wurde. Wir können dir die darin beschriebenen Dienstleistungen nicht zur Verfügung stellen, wenn du sie nicht akzeptierst.
+
+Wir sind Revolut Payments UAB, ein in der Republik Litauen gegründetes Unternehmen mit der Unternehmensnummer 304940980 und eingetragenem Sitz in Konstitucijos ave. 21B, 08130 Vilnius, Republik Litauen (Revolut Payments). Wir besitzen eine Zulassung der Bank of Lithuania für die Ausgabe von E-Geld und die Bereitstellung von Zahlungsdienstleistungen. Die Bank of Lithuania ist die Zentralbank und Finanzaufsichtsbehörde der Republik Litauen. Ihre Adresse lautet Gedimino ave. 6, 01103 Vilnius, Republik Litauen, ihre Website lautet www.lb.lt und ihre Telefonnummer ist +370 800 50 500.
+
+Wenn du eine Kreditkarte besitzt, gilt diese Ergänzung nicht und wirkt sich nicht auf Aktivitäten im Unterkonto deines Revolut-E-Geld-Kontos aus, mit dem eine Kreditkarte verknüpft ist, die gemäß den Kreditkartenbedingungen (falls vorhanden) ausgestellt wurde. In Übereinstimmung mit den Kreditkartenbedingungen wird der Saldo in einem solchen Unterkonto deines Revolut-E-Geld-Kontos vom Guthaben deines Sichteinlagenkontos getrennt.
+
+2. Geld einzahlen, auszahlen und hinzufügen
+
+In diesem Abschnitt wird festgelegt, wie dein Geld automatisch zwischen deinem Sichteinlagenkonto bei Revolut Bank und deinem E-Geld-Konto überwiesen wird, wenn eine Zahlung von deinem E-Geld-Konto gesendet oder auf dein E-Geld-Konto vorgenommen wird (mit Ausnahme von Zahlungen in dein oder aus deinem Sichteinlagenkonto bei Revolut Bank).
+
+Was passiert mit meinem vorhandenen Geld?
+
+Wenn du diese Ergänzung akzeptierst und dich bei Revolut Bank anmeldest, überweisen wir das vorhandene Guthaben deines E-Geld-Kontos bei Revolut Payments auf dein Sichteinlagenkonto bei Revolut Bank.
+
+Das bedeutet, dass du uns durch die Akzeptanz dieser Ergänzung anweist, das vorhandene Guthaben deines E-Geld-Kontos auf dein Sichteinlagenkonto bei Revolut Bank zu überweisen, wie in dieser Ergänzung beschrieben.
+
+Was passiert, wenn ich eine Zahlung erhalte?
+
+Jedes Mal, wenn du oder jemand anderes Geld auf dein E-Geld-Konto sendet, werden wir es auf dein Sichteinlagenkonto bei Revolut Bank überweisen. Das umfasst alle deine Einzahlungen (wie in Abschnitt 12 der Geschäftsbedingungen für Privatkunden beschrieben).
+
+Wir werden diese Überweisungen so schnell wie möglich (und so nah wie möglich an sofort, wie es uns möglich ist) durchführen. Das bedeutet, dass Geld immer nur vorübergehend in deinem E-Geld-Konto aufbewahrt wird.
+
+Das bedeutet, dass du uns durch die Akzeptanz dieser Ergänzung anweist, Zahlungen von deinem E-Geld-Konto auf dein Sichteinlagenkonto bei Revolut Bank einzurichten, wie in dieser Ergänzung beschrieben.
+
+Geld, das an dein Sichteinlagenkonto bei Revolut Bank gesendet wird, wird von Revolut Bank gemäß den Sichteinlagenbedingungen verwahrt, die du mit Revolut Bank vereinbart hast. Das Geld wird nicht von uns verwahrt (außer während es vorübergehend dein E-Geld-Konto durchläuft).
+
+Was passiert, wenn ich Geld sende oder eine Zahlung vornehme?
+
+Wann immer du Geld über die Revolut App sendest (z. B. an ein Bankkonto bei einer anderen Bank), eine Gebühr für eine Revolut-Dienstleistung zahlst (z. B. eine monatliche Gebühr für Metal oder eine Versicherungsprämie) oder eine beliebige Art von Zahlung mit Revolut durchführst (z. B. eine Lastschrift, ein Zahlungslink oder über andere Zahlungswege), weist du uns an, sofort eine Abbuchungsanfrage an Revolut Bank zu senden, in der ein Geldbetrag von deinem Sichteinlagenkonto angefordert wird, der dem Betrag entspricht, den du für deine Zahlung benötigst. Nachdem der angeforderte Betrag von deinem Sichteinlagenkonto auf dein E-Geld-Konto gesendet wurde, werden wir dir sofort E-Geld ausstellen und es dann gemäß den Geschäftsbedingungen für Privatkunden sofort an den Empfänger auszahlen.
+
+Wann immer du eine Zahlung mit deiner Revolut-Karte tätigst, weist du uns an, sofort eine Abbuchungsanfrage an Revolut Bank zu senden, in der ein Geldbetrag von deinem Sichteinlagenkonto angefordert wird, der dem Betrag entspricht, den du für deine Zahlung benötigst. Nachdem der angeforderte Betrag von deinem Sichteinlagenkonto auf dein E-Geld-Konto gesendet wurde, werden wir dir sofort E-Geld ausstellen. Allerdings wird dieses Geld für eine kurze Zeitspanne in deinem E-Geld-Konto verbleiben, bis es an das Kartensystem ausgezahlt wird. Da du das Geld bereits ausgegeben hast, wird es dir nicht für eine erneute Ausgabe zur Verfügung stehen. 
+
+Es läuft also so: Wenn du dein Geld sendest oder ausgibst, wird es einen sehr begrenzten Zeitraum in deinem E-Geld-Konto verbringen, nachdem es dein Sichteinlagenkonto bei Revolut Bank verlassen hat und bis es ausgezahlt wird.
+
+Was passiert, wenn ich Geld hinzufüge?
+
+Du kannst weiterhin Geld hinzufügen, wie in Abschnitt 12 der Geschäftsbedingungen für Privatkunden beschrieben. Jedes Mal, wenn du dies tust, behandeln wir es wie jeden anderen Geldbetrag, der auf dein Konto gesendet wird, wie im Abschnitt „Was passiert, wenn ich eine Zahlung erhalte?“ oben beschrieben.
+
+Du kannst auch weiterhin die in Abschnitt 12 der Geschäftsbedingungen für Privatkunden beschriebene Funktion zum automatischen Hinzufügen von Geld verwenden. Wann immer der „erinnerte“ Kontostand deines Sichteinlagenkontos bei Revolut Bank unter den Betrag fällt, den du festgelegt hast, wird ganz normal automatisch Geld zu deinem Konto hinzugefügt. (Was dein „erinnerter“ Kontostand ist, wird in Abschnitt 3 unten erläutert.)
+
+Was passiert, wenn ich eine Währungsumrechnung vornehme?
+
+Wenn du uns in der Revolut App aufforderst, einen Währungsumtausch durchzuführen, weist du uns an, sofort eine Abbuchungsanfrage an Revolut Bank zu senden, in der ein Geldbetrag von deinem Sichteinlagenkonto angefordert wird, der dem Betrag entspricht, den du für deinen Umtausch benötigst. Nachdem der angeforderte Betrag von deinem Sichteinlagenkonto an dein E-Geld-Konto gesendet wurde, werden wir dir sofort E-Geld ausstellen, den Umtausch in deinem E-Geld-Konto durchführen und dann den umgetauschten Betrag zurück an dein Sichteinlagenkonto bei Revolut Bank senden.
+
+Das bedeutet, dass du uns durch die Akzeptanz dieser Ergänzung anweist, den umgetauschten Betrag an dein Sichteinlagenkonto bei Revolut Bank zu senden, wie in dieser Ergänzung beschrieben.
+
+Wenn du eine Zahlung vornimmst, die einen Währungsumtausch gemäß den Geschäftsbedingungen für Privatkunden auslöst (wenn du zum Beispiel etwas in einem Geschäft mit deiner Revolut-Karte in £ kaufst, aber nur € in deinem Sichteinlagenkonto hast), führen wir den Währungsumtausch durch, sobald das Geld von deinem Sichteinlagenkonto in deinem E-Geld-Konto eintrifft und bevor du die Zahlung an das Geschäft vornimmst.
+
+3. Welche Informationen enthalten mein Kontostand und Transaktionsverlauf?
+
+Wir behalten den Überblick über alles Geld, das zwischen deinem Sichteinlagenkonto bei Revolut Bank und deinem E-Geld-Konto gesendet wird. Anhand dieser Informationen „erinnern“ wir uns für dich an den Kontostand deines Sichteinlagenkontos bei Revolut Bank.
+
+Das Guthaben, das wir dir in der Revolut App zeigen, ist die Gesamtsumme aus dem „erinnerten“ Kontostand auf deinem Sichteinlagenkonto bei Revolut Bank und allen verfügbaren Guthaben auf deinem E-Geld-Konto. Wir verwenden diesen Kontostand, weil diese beiden Beträge zusammen den Gesamtbetrag darstellen, den du ausgeben kannst.
+
+Dies ist auch der Kontostand, den wir über unsere „Open Banking“-API melden, wenn du einen lizenzierten Drittanbieter für den Zugriff auf dein Konto verwendest.
+
+Um sicherzustellen, dass wir dir korrekte Informationen anzeigen, stimmst du zu, dass wir dazu berechtigt sind, Informationen über dein Sichteinlagenkonto von Revolut Bank zu erhalten (einschließlich aller Informationen über Sperren oder Einschränkungen deines Sichteinlagenkontos und der Gründe dafür). Du stimmst auch zu, dass wir die gleichen Informationen über dein E-Geld-Konto an Revolut Bank senden dürfen. 
+
+Der Transaktionsverlauf, der in deiner Revolut App angezeigt wird, umfasst alle Zahlungen, die du getätigt und erhalten hast. Um die Dinge ein wenig einfacher zu halten, zeigen wir dir in deinem Transaktionsverlauf nicht die automatischen Transaktionen zwischen deinem Sichteinlagenkonto und E-Geld-Konto an, die in Abschnitt 2 beschrieben sind. Diese Informationen werden stattdessen in deinen Transaktionsauszügen angezeigt. Wenn du zum Beispiel 5 € mit deiner Revolut-Karte in einem Geschäft ausgibst, siehst du in deinem Transaktionsverlauf den Einkauf im Geschäft, aber nicht die automatische Transaktion von deinem Sichteinlagenkonto auf dein E-Geld-Konto, mit welcher der Einkauf ermöglicht wurde. Du kannst einen Auszug der automatischen Transaktionen bei uns anfordern, aber bei der Akzeptanz dieser Ergänzung erklärst du dich damit einverstanden, dass diese Transaktionen nicht über den Transaktionsverlaufsbildschirm in der Revolut App oder über Push-Benachrichtigungen bereitgestellt werden.
+
+4. Wann könnte diese Ergänzung enden?
+
+Was passiert, wenn ich kein Sichteinlagenkonto bei Revolut Bank besitze?
+
+Diese Ergänzung ist eine Vereinbarung darüber, wie Geld zwischen deinem Sichteinlagenkonto bei Revolut Bank und deinem E-Geld-Konto bei Revolut Payments bewegt wird. Wenn du kein Sichteinlagenkonto besitzt, können wir diese Dienstleistungen nicht für dich erbringen. Wenn daher dein Sichteinlagenkonto bei Revolut Bank geschlossen wird, endet diese Ergänzung ebenfalls. Die restlichen Geschäftsbedingungen für Privatkunden werden weiterhin in Kraft bleiben und wir werden unsere Dienstleistungen für dich in Einklang mit diesen erbringen.
+
+Was passiert, wenn ich diese Ergänzung beenden möchte?
+
+Wenn du diese Ergänzung beenden, aber dein E-Geld-Konto behalten möchtest, teile es uns über die Revolut App mit. Wir benötigen 10 Werktage Kündigungsfrist für diese Beendigung. Sobald sie beendet wurde, gelten weiterhin die Geschäftsbedingungen für Privatkunden und wir werden unsere Dienstleistungen für dich in Einklang mit diesen erbringen.

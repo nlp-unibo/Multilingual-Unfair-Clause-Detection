@@ -1,0 +1,209 @@
+Warunki Użytkowania
+Obowiązuje od 5 lutego 2020 r.
+
+Niniejsze Warunki Użytkowania (dalej "Umowa") stanowią wiążącą umowę pomiędzy Tobą ("Ty") a Flo Health, Inc., spółką z siedzibą w Delaware ("Firma", "my", "nas"), regulującą zasady korzystania z aplikacji mobilnej Flo FemⓇ, serwisu internetowego (flo.health i reg.flo.health), strony oferującej Kursy (courses.flo.health) ("Kursy"), serwerów używanych przez aplikację, plików komputerowych przechowywanych na tych serwerach oraz wszystkich powiązanych usług, funkcji i treści oferowanych przez Firmę (razem dalej nazywanych "Aplikacja"). Niniejsza Umowa nie została zawarta z Apple, Inc., Google, Inc., ani z żadną spółką od nich zależną, a także z żadnym innym podmiotem.
+
+1. Akceptacja warunków
+
+Prosimy o dokładne zapoznanie się z niniejszą Umową. Tworząc konto lub korzystając z aplikacji potwierdzasz, że akceptujesz postanowienia niniejszej Umowy. JEŚLI NIE ZGADZASZ SIĘ Z POSTANOWIENIAMI TEJ UMOWY, NIE LOGUJ SIĘ I NIE KORZYSTAJ Z APLIKACJI.
+
+Niniejsza Umowa może od czasu do czasu ulegać zmianom. Jeśli wprowadzone zmiany będą w istotny sposób zmieniać Twoje prawa, powiadomimy Cię o tym za pomocą wiadomości e-mail, poprzez Aplikację, lub przedstawiając Ci nową wersję Umowy do zaakceptowania. Kontynuowanie korzystania z Aplikacji po dacie wejścia w życie zaktualizowanej wersji Umowy oznaczać będzie Twoją zgodę na zmiany wprowadzone w Umowie.
+
+2. Zastrzeżenie dotyczące usług medycznych
+
+FIRMA NIE JEST LICENCJONOWANĄ PLACÓWKĄ OPIEKI MEDYCZNEJ, A APLIKACJA NIE MA NA CELU ZASTĄPIENIA PROFESJONALNEJ PORADY LUB DIAGNOZY LEKARSKIEJ, LECZENIA I TERAPII JAKICHKOLWIEK SCHORZEŃ, NIE MOŻE SŁUŻYĆ JAKO METODA KONTROLI URODZEŃ I ZAPOBIEGANIU CIĄŻY. NALEŻY SKONSULTOWAĆ SIĘ Z LICENCJONOWANYM LEKARZEM LUB INNYM WYKWALIFIKOWANYM DOSTAWCĄ OPIEKI ZDROWOTNEJ PRZED PODJĘCIEM JAKICHKOLWIEK DECYZJI LUB DZIAŁAŃ, KTÓRE MOGĄ WPŁYWAĆ NA ZDROWIE I BEZPIECZEŃSTWO TWOJE, TWOJEJ RODZINY LUB PŁODU. NIGDY NIE LEKCEWAŻ PROFESJONALNEJ PORADY LEKARSKIEJ ANI NIE ZWLEKAJ Z UZYSKANIEM JEJ Z POWODU INFORMACJI, UZYSKANYCH W TRAKCIE UŻYTKOWANIA APLIKACJI. ZAWSZE KONSULTUJ SIĘ ZE SWOIM LEKARZEM W PRZYPADKU PYTAŃ LUB WĄTPLIWOŚCI, DOTYCZĄCYCH TWOJEGO STANU ZDROWIA, SCHORZENIA, LUB GDY ZAUWAŻYSZ ZMIANY SWOJEGO STANU ZDROWIA. W NAGŁYCH PRZYPADKACH NATYCHMIAST ZADZWOŃ POD NUMER 112, LUB UDAJ SIĘ DO NAJBLIŻSZEGO CZYNNEGO ODDZIAŁU POGOTOWIA RATUNKOWEGO.
+
+NIE PONOSIMY ODPOWIEDZIALNOŚCI ZA ŻADNE BŁĘDY, ZANIECHANIA LUB ZA NIEZAMIERZONE NIEŚCISŁOŚCI TECHNICZNE LUB BŁĘDY TYPOGRAFICZNE W DOSTARCZANYCH MATERIAŁACH, JAK RÓWNIEŻ ZA NARUSZENIE NORM ETYCZNYCH LUB MORALNYCH OBOWIĄZUJĄCYCH W TWOJEJ SPOŁECZNOŚCI W ZAKRESIE MATERIAŁÓW DOTYCZĄCYCH EDUKACJI SEKSUALNEJ I PODOBNYCH.
+
+3. Rejestracja i kwalifikacja
+
+Przed rozpoczęciem korzystania z Aplikacji możemy cię poprosić o założenie lub zaktualizowanie konta ("Konto") i o podanie danych osobowych, które mogą obejmować Twoje imię i nazwisko, płeć, datę urodzenia oraz adres e-mail. Dane te będą przechowywane i wykorzystywane zgodnie z naszą polityką prywatności, z którą możesz się zapoznać pod adresem flo.health/pl/polityka-prywatnosci?locale=pl ("Polityka Prywatności"). Zobowiązujesz się podać Firmie dokładne i pełne dane oraz aktualizować je na bieżąco w razie zmian.
+
+Aby założyć Konto, uzyskać dostęp do Aplikacji i móc korzystać z Aplikacji zgodnie z obowiązującymi przepisami prawa, musisz mieć ukończone przynajmniej 13 lat (16 lat w UE ). 
+
+Jeśli masz mniej niż 18 lat, Twój rodzic lub opiekun musi zapoznać się i zaakceptować warunki niniejszej Umowy, zaś korzystanie przez Ciebie z aplikacji oznaczać będzie, że Twój rodzic lub opiekun zapoznał się i zaakceptował niniejszą Umowę. Zastrzegamy sobie prawo do ograniczenia dostępu do pewnych treści w Aplikacji użytkownikom poniżej 18. roku życia, według własnego uznania.
+
+4. Korzystanie z Aplikacji
+
+Treści udostępniane za pośrednictwem Aplikacji, podlegają warunkom Polityki Prywatności Firmy flo.health/pl/polityka-prywatnosci?locale=pl. W przypadku rozbieżności pomiędzy postanowieniami niniejszej Umowy a postanowieniami Polityki Prywatności, pierwszeństwo ma niniejsza Umowa.  Ponosisz wyłączną odpowiedzialność za swoje wypowiedzi, konsekwencje publikowania pytań i odpowiedzi oraz za swoje działania, podjęte w oparciu o wypowiedzi, znalezione w publicznie dostępnych treściach Aplikacji. Firma i jej licencjodawcy nie ponoszą odpowiedzialności za konsekwencje wypowiedzi, zamieszczanych w publicznie dostępnych obszarach Aplikacji. Jeśli czujesz się zagrożony lub uważasz, że ktoś inny znajduje się w niebezpieczeństwie, powinieneś natychmiast zawiadomić o tym lokalne organy ścigania. Jeśli uważasz, że potrzebujesz pilnej pomocy lekarskiej, natychmiast skontaktuj się ze swoim lekarzem lub zadzwoń pod numer alarmowy 112. Warunkiem, koniecznym dla korzystania z Aplikacji jest Twoja zgoda na niewykorzystywanie Aplikacji do żadnego celu, sprzecznego z niniejszą Umową. Ponosisz odpowiedzialność za wszystkie swoje działania w związku z Aplikacją i masz obowiązek przestrzegać wszystkich lokalnych, krajowych i międzynarodowych przepisów prawa. Zgadzasz się, że podjęcie którejkolwiek z niżej wymienionych czynności stanowić będzie materialne naruszenie postanowień niniejszej umowy i w związku z tym ZOBOWIĄZUJESZ SIĘ
+
+a. nie odsprzedawać, wynajmować, dzierżawić, wypożyczać, udzielać sublicencji, rozpowszechniać, ani w żaden inny sposób przenosić praw do Aplikacji;
+
+b. nie zmieniać, dokonywać inżynierii odwróconej, dekompilować ani nie demontować Aplikacji;
+
+c. nie kopiować, adaptować, zmieniać, modyfikować, tłumaczyć ani nie tworzyć produktów pochodnych bez pisemnej zgody Firmy;
+
+d. nie zezwalać innym osobom na korzystanie z Aplikacji, w tym między innymi, na dzielone korzystanie za pomocą połączenia internetowego, chyba że będzie to odbywać się zgodnie z warunkami niniejszej Umowy;
+
+e. nie pomijać ani nie blokować żadnych funkcji lub środków technicznych w Aplikacji służących ochronie praw autorskich;
+
+f. nie korzystać z Aplikacji z zamiarem użycia, lub z użyciem, urządzeń, programów lub usług służących obchodzeniu zabezpieczeń technicznych kontrolujących dostęp oraz chroniących prawa do treści i innych utworów chronionych prawem autorskim bez względu na jurysdykcję;
+
+g. nie korzystać ani nie uruchamiać Aplikacji w celu kompilacji danych w sposób wykorzystywany przez lub użyteczny dla konkurencyjnego produktu lub usługi;
+
+h. nie wykorzystywać swojego Konta do reklamowania, promowania lub przekazywania innym osobom komercyjnych reklam, w tym tzw. łańcuszków korespondencji, niechcianych wiadomości e-mail lub korespondencji masowej;
+
+i. nie wykorzystywać swojego Konta do działań niezgodnych z prawem;
+
+j. nie przesyłać treści w celu przekazywania wypowiedzi, które naruszają prawa innych osób;
+
+k. nie przesyłać żadnego rodzaju treści multimedialnych zawierających mowę nienawiści lub przemoc, obraźliwe obrazy lub zachowania, treści obsceniczne, pornografię, treści o wyraźnie seksualnym charakterze, ani innych materiałów skutkujących odpowiedzialnością cywilną lub prawną w świetle obowiązujących przepisów prawa lub niezgodnych z postanowieniami niniejszej Umowy i Polityką Prywatności Firmy; a także
+
+l. nie przesyłać żadnych materiałów zawierających wirusy komputerowe lub inne fragmenty kodu, pliki lub programy komputerowe służące do zakłócania, niszczenia lub ograniczania funkcjonalności dowolnego oprogramowania komputerowego lub niniejszej witryny.
+
+Każde takie zakazane użycie będzie skutkowało natychmiastowym odwołaniem Twojej licencji na korzystanie z Aplikacji.
+
+5. Ochrona prywatności dzieci i ograniczenia wiekowe
+
+Zobowiązujemy się chronić prywatność dzieci. 
+
+Należy pamiętać, że niniejsza Aplikacja nie jest przeznaczona ani zaprojektowana dla dzieci poniżej 13. roku życia. Nie zbieramy danych osobowych od osób, o których wiemy, że mają poniżej 13 lat.
+
+Osoby mieszkające na terenie Unii Europejskiej muszą mieć ukończone co najmniej 16 lat, aby móc korzystać z Aplikacji. W zakresie dopuszczalnym przez prawo nie zezwalamy osobom poniżej 16. roku życia, mieszkającym na terenie Unii Europejskiej, na korzystanie z Aplikacji. 
+
+Musisz mieć ukończone co najmniej 18 lat, aby móc korzystać z niektórych funkcji Aplikacji (np. z niektórych kursów, treści lub dyskusji na niektóre tematy w Sekretnych Rozmowach). 
+
+Jeśli posiadasz informacje o osobie korzystającej z Aplikacji wbrew powyższym ograniczeniom, prosimy o kontakt z nami pod adresem support@flo.health, abyśmy mogli podjąć stosowne kroki w kierunku zamknięcia konta takiej osoby.
+
+6. Kontrola eksportu i sankcji gospodarczych
+
+Oprogramowanie obsługujące Aplikację może podlegać przepisom Stanów Zjednoczonych dotyczącym eksportu i powrotnego wywozu, w tym przepisom eksportowym (Export Administration Regulations, „EAR”) amerykańskiego Departamentu Handlu, a także sankcjom handlowym i gospodarczym nałożonym przez Biuro ds. Kontroli Aktywów Zagranicznych (Office of Foreign Assets Control - OFAC) Departamentu Skarbu USA oraz Międzynarodowych Przepisów w zakresie Obrotu Bronią (International Traffic in Arms Regulations - ITAR) Departamentu Stanu. Oświadczasz, że (1) nie masz miejsca zamieszkania/siedziby w kraju lub regionie objętym embargo rządu Stanów Zjednoczonych ani (2) nie znajdujesz się na liście odmów określonych w przepisach, o których mowa powyżej.
+
+Zobowiązujesz się przestrzegać wszelkich przepisów eksportowych Stanów Zjednoczonych i innych państw, aby Aplikacja, dotyczące jej dane techniczne, ani żaden produkt bezpośredni nie były eksportowane ani ponownie wywożone bezpośrednio lub pośrednio w sposób niezgodny z przepisami prawa, ani nie były używane w celach zabronionych przez prawo.
+
+7. Ograniczona Licencja na korzystanie z Aplikacji
+
+Udzielamy Ci osobistej, globalnej, odwoływalnej, niezbywalnej i niewyłącznej licencji na dostęp i korzystanie z Aplikacji do celów osobistych i niekomercyjnych zgodnie z warunkami niniejszej Umowy.
+
+Wszystkie prawa, tytuły własności i udziały w Aplikacji, które nie zostały wyraźnie przyznane licencjobiorcy w niniejszej Umowie są zastrzeżone dla Firmy.  Do korzystania z oprogramowania, tytułu, nazwy handlowej, znaku towarowego, znaku usługowego, logo, nazwy domeny lub innego identyfikatora noszącego specyficzne cechy marki lub z innych treści stanowiących własność Firmy, niezbędna jest uprzednia pisemna zgoda Firmy. Wnioski o wydanie zgody można kierować na adres support@flo.health.
+
+W celu uniknięcia wszelkich wątpliwości, wyraźnie informujemy, że wszystkie teksty, obrazy, zdjęcia, materiały audio i filmy, informacje o lokalizacji oraz wszelkie inne dane i informacje tworzone przez Firmę i udostępniane przez nią w związku z Aplikacją są własnością Firmy. Dotyczy to także, między innymi, interfejsów wizualnych, funkcji interaktywnych, grafik, projektów, kompilacji Treści Użytkowników oraz kompilacji ocen użytkowników, a także innych elementów i części składowych Aplikacji, z wyłączeniem Treści Użytkowników (zgodnie z definicją poniżej). Z wyjątkiem sytuacji wyraźnie i jednoznacznie określonych w niniejszej Umowie, nie przekazujemy Ci w sposób wyraźny ani dorozumiany żadnych praw, a wszystkie prawa do Aplikacji i Treści Firmy należą do nas.
+
+8. Prawa do Treści Użytkowników
+
+Aplikacja pozwala użytkownikom na dodawanie osobistych notatek, dzielenie się swoimi historiami, publikowanie i zamieszczanie treści, przesyłanie treści (w tym także do przestrzeni publicznych Aplikacji, takich jak Sekretne Rozmowy) oraz na rejestrowanie niektórych informacji w Aplikacji ("Treści Użytkownika"). Zachowujesz wszystkie prawa do Treści Użytkownika, które publikujesz, udostępniasz lub zapisujesz w Aplikacji.
+
+Zamieszczając swoją Treść Użytkownika w Aplikacji, (a) udzielasz Firmie niewyłącznej, zbywalnej, podlegającej sublicencji, globalnej i nieodpłatnej licencji na korzystanie, kopiowanie, modyfikowanie, publiczne wyświetlanie, publiczne odtwarzanie, tworzenie pochodnych wersji na jej podstawie, wykorzystywanie jej w innych opracowaniach, zmienianie, reformatowanie oraz rozpowszechnianie twojej Treści Użytkownika w związku z dostarczaniem i zarządzaniem Aplikacją i powiązanymi usługami lub dla celów promocyjnych Firmy (na przykład poprzez wyświetlanie w naszym serwisie, w naszej Aplikacji, w mediach społecznościowych, w dowolnym serwisie lub na dowolnej platformie w Internecie, według naszego uznania) zgodnie z Polityką Prywatności; oraz (b) zobowiązujesz się do odpowiedzialności wobec Firmy i jej podmiotów stowarzyszonych, dyrektorów, zarządu i pracowników za wszelkie roszczenia i koszty, w tym honoraria prawników pobrane w związku z treścią materiałów lub naruszeniem warunków niniejszej Umowy. 
+
+Firma zastrzega sobie prawo do oceny wszelkich Treści Użytkownika przed dodaniem ich do Aplikacji oraz do usuwania treści multimedialnych z dowolnego powodu, w dowolnym terminie, bez wcześniejszego zawiadomienia, wedle naszego własnego uznania.
+
+9. Korzystanie na własne ryzyko
+
+Naszym celem jest ułatwienie Ci dostępu do przydatnych treści dotyczących zdrowia.  Jednakże Aplikacja nie może i nie gwarantuje poprawy stanu zdrowia i nie ponosi odpowiedzialności za efekty. Korzystasz z Aplikacji i informacji, przewidywań lub sugestii dostarczonych w Aplikacji na swoje własne ryzyko. Nie udzielamy żadnych gwarancji w zakresie dokładności danych, informacji, szacunków oraz przewidywań dostarczanych poprzez Aplikację, a Ty zgadzasz się i  przyjmujesz do wiadomości, że Aplikacja nie służy takiemu samemu celowi, co urządzenia medyczne lub naukowe.
+
+10. Zastrzeżenie dotyczące używania Aplikacji przez nieletnich
+
+INFORMACJE ZAWARTE W APLIKACJI NIE ZACHĘCAJĄ, NIE NAKŁANIAJĄ, ANI W ŻADEN INNY SPOSÓB NIE PROMUJĄ ZACHOWAŃ ANI CZYNNOŚCI SEKSUALNYCH WŚRÓD OSÓB NIEPEŁNOLETNICH ORAZ NIE SĄ SKIEROWANE DO ŻADNEJ KONKRETNEJ OSOBY. WSZELKIE INFORMACJE W APLIKACJI SŁUŻĄ JEDYNIE OGÓLNYM CELOM EDUKACYJNYM.
+
+Dokładnie sprawdzamy materiały udostępniane osobom między 13. a 17. rokiem życia poprzez Aplikację, aby uniknąć przekazywania im nieodpowiednich lub szkodliwych treści. W pełni rozumiemy, że w poszczególnych krajach zasady moralne i etyczne regulujące zakres informacji na temat seksualności dopuszczalny dla niepełnoletnich mogą się różnić.
+
+Nie publikujemy i nie zamierzamy publikować treści o wyraźnie seksualnym charakterze, które w świetle obowiązującego prawa można uznać za szkodliwe dla osób małoletnich lub niepełnoletnich. Podejmujemy odpowiednie działania mające na celu zapewnienie, że wszystkie materiały zamieszczane przez nas w Aplikacji zawierają wyłącznie treści oparte na faktach i poparte wiedzą naukową.
+
+Należy pamiętać, że indywidualne poglądy etyczne w zakresie tego, co jest szkodliwe dla niepełnoletnich, mogą odbiegać od wymagań określonych przepisami prawa regulującymi zakres treści udostępnianych niepełnoletnim. 
+
+11. Subskrypcje
+
+Subskrypcja Flo Premium. Aplikacja mobilna oferuje subskrypcję Premium zapewniającą dostęp do dodatkowych funkcji, takich jak przewidywanie cyklu menstruacyjnego wspomagane algorytmami opartymi na dużej ilości danych, spersonalizowane na podstawie Twoich objawów i fazy cyklu miesięcznego informacje, narzędzia do wykrywania wzorców fizycznych i emocjonalnych, czy pełne raporty na temat stanu zdrowia, które możesz pokazać swojemu lekarzowi. Niektóre z naszych subskrypcji obejmują darmowy okres próbny, podczas którego możesz wypróbować funkcje aplikacji mobilnej bezpłatnie. Subskrypcja z darmowym okresem próbnym jest odnawiana automatycznie po jego ukończeniu i staje się wówczas płatną subskrypcją. Jeśli zdecydujesz się zrezygnować z płatnej subskrypcji zanim zaczniemy pobierać za nią opłaty, anuluj subskrypcję przed zakończeniem darmowego okresu próbnego.
+
+Oferujemy możliwości miesięcznej i rocznej subskrypcji. Opłata zostanie pobrana z Twojej karty kredytowej/debetowej poprzez Twoje konto iTunes lub Google Play po wybraniu opcji subskrypcji i potwierdzeniu zakupu. Płatne subskrypcje są odnawiane automatycznie, o ile opcja automatycznego odnawiania nie jest wyłączona, do momentu jej anulowania w sekcji Zarządzanie Subskrypcjami w ustawieniach Twojego konta. Powiadomimy Cię, jeśli cena subskrypcji wzrośnie, a jeśli to konieczne, poprosimy Cię o zgodę na kontynuowanie subskrypcji. Opłata za subskrypcję zostanie pobrana nie wcześniej niż na 24 godziny przed rozpoczęciem najnowszego płatnego okresu subskrypcji.
+
+Kursy. Oferujemy miesięczną, trzymiesięczną oraz roczną subskrypcję Kursów. Opłata zostanie pobrana z Twojej karty kredytowej/debetowej poprzez Stripe - platformę  płatniczą firmy Stripe, Inc, - po wybraniu opcji subskrypcji i potwierdzeniu zakupu. Rozumiesz i wyraźnie zgadzasz się na przetwarzanie wszystkich swoich płatności i transakcji gotówkowych przez Stripe. Nie dopuszcza się korzystania na platformie Stripe i w Koncie ze skradzionych lub nieautoryzowanych kart kredytowych. Płatne subskrypcje ulegają automatycznemu przedłużeniu, o ile nie zostanie wyłączona funkcja automatycznego przedłużania lub o ile subskrypcja nie zostanie anulowana poprzez kontakt z naszym działem wsparcia support@flo.health. Powiadomimy Cię, jeśli cena subskrypcji wzrośnie, a jeśli to konieczne, poprosimy Cię o zgodę na kontynuowanie subskrypcji. Aby otrzymać zwrot płatności lub w przypadku innych problemów z płatnością za Kursy, należy skontaktować się z naszym działem wsparcia support@flo.health. 
+
+Subskrypcja Flo Premium + Telehealth. Aplikacja mobilna oferuje subskrypcję Premium + Telehealth dostępną wyłącznie dla użytkowników z USA. Subskrypcja Premium + Telehealth podlega odrębnym Warunkom. Prosimy o uważne zapoznanie się z nimi przed wykupieniem subskrypcji.
+
+12. Sekretne Rozmowy
+
+Sekretne Rozmowy Flo („Sekretne Rozmowy”) to specjalna funkcja Aplikacji, pozwalająca użytkownikom na komunikowanie się ze sobą na różne tematy, związane z kobiecym zdrowiem. Wszystkie komentarze użytkowników w Sekretnych Rozmowach są zamieszczane anonimowo. Jeśli usuniesz swoje konto, Twoje komentarze pozostaną widoczne dla pozostałych użytkowników Sekretnych Rozmów.
+
+Użytkownikom Sekretnych Rozmów zabrania się:
+
+    Dodawać nieuprzejme, napastliwe, wulgarne, prowokacyjne, dyskryminujące, nietolerancyjne, religijne, rasistowskie, polityczne, homofobiczne lub obraźliwe komentarze i wypowiedzi;
+    Zamieszczać obrazy lub innych materiały (w tym linki do takich materiałów), mogące zawierać treści, uznawane za obraźliwe, obsceniczne, pornograficzne, naruszające prawa autorskie, posiadające wyraźnie seksualny charakter, które są zabronione w świetle obowiązującego prawa lub niezgodne z niniejszą Umową;
+    Udzielać porad medycznych lub podawać się za pracownika służby zdrowia;
+    Reklamować produkty lub usługi.
+    Wykonywać inne niedozwolone czynności określone w Zasadach Sekretnych Rozmów. 
+
+Według własnego uznania, zastrzegamy sobie prawo do: Usuwania wszelkich nieodpowiednich lub nieistotnych komentarzy lub materiałów; Usuwania lub modyfikowania komentarzy, zawierających dane osobowe, takie jak nazwisko, adres lub e-mail; Ograniczenia lub zakazania dostępu do Sekretnych Rozmów w dowolnym czasie i bez uprzedzenia, jeśli uznamy, że treść lub sposób korzystania z Sekretnych Rozmów stanowi naruszenie niniejszej Umowy; Używania, kopiowania, modyfikowania, mieszania, przemieszczania, zmieniania, publicznego przedstawiania, publicznego odtwarzania i rozpowszechniania dyskusji, komentarzy i materiałów; Blokowania Twoich komentarzy z jakichkolwiek powodów lub ich moderowania, jeśli uznamy to za stosowne; Wyłączenia dostępu do Sekretnych Rozmów w dowolnym czasie i bez wcześniejszego uprzedzenia.
+
+Żadne informacje zamieszczane w Sekretnych Rozmowach nie powinny być uważane za poradę, wydanie recepty lub za sugestię leczenia. Jeśli masz wątpliwości dotyczące swojego stanu zdrowia, skonsultuj się z licencjonowanym pracownikiem służby zdrowia. Należy pamiętać, że nasi użytkownicy nie są pracownikami służby zdrowia i ich zalecenia mogą być nie tylko niedokładne, ale także szkodliwe dla Twojego zdrowia i dobrego samopoczucia. 
+
+Przeczytaj więcej o zasadach dotyczących komunikowania się w Sekretnych Rozmowach w naszych Zasadach Sekretnych Rozmów. Zasady Sekretnych Rozmów stanowią integralną część Umowy. Akceptując Umowę, zgadzasz się z warunkami opisanymi w Zasadach Sekretnych Rozmów.
+
+W MAKSYMALNYM ZAKRESIE DOPUSZCZALNYM PRZEZ PRAWO (W TYM MIĘDZY INNYMI, ALE NIE OGRANICZAJĄC SIĘ DO „USTAWY O NORMACH PRZYZWOITOŚCI W TELEKOMUNIKACJI” Z 1996 R.) FIRMA NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK BEZPOŚREDNIE LUB POŚREDNIE SKUTKI, WYNIKAJĄCE Z INFORMACJI, LINKÓW ORAZ MATERIAŁÓW ZAMIESZCZANYCH PRZEZ UŻYTKOWNIKÓW, JAKICHKOLWIEK DZIAŁAŃ LUB ZANIECHAŃ UŻYTKOWNIKÓW, NARUSZEŃ OBOWIĄZUJĄCYCH PRZEPISÓW PRAWNYCH.
+
+13. Hasła
+
+Ponosisz odpowiedzialność za podjęcie uzasadnionych kroków w celu zabezpieczenia dostępu do konta i hasła do Aplikacji przed niepowołanymi osobami. Ponosisz wyłączną odpowiedzialność za (1) nadzór nad rozpowszechnianiem i wykorzystaniem danych do logowania, nazwy użytkownika i haseł; (2) upoważnianie, monitorowanie i kontrolę dostępu do Twojego konta i hasła w Aplikacji oraz do korzystania z niego; (3) niezwłoczne poinformowanie Firmy, jeśli uważasz, że Twoje konto lub hasło zostały przechwycone, lub jeśli istnieje inny powód potrzeby dezaktywowania hasła. Napisz do nas na adres support@flo.health. Udzielasz Firmie i wszystkim pozostałym osobom lub podmiotom zaangażowanym w działanie Aplikacji prawa do przesyłania, monitorowania, wyszukiwania, przechowywania i wykorzystywania Twoich danych w związku z działaniem Aplikacji. Firma nie może i nie ponosi żadnej odpowiedzialności za jakiekolwiek dane, które podajesz, lub za użycie lub niewłaściwe użycie przez Ciebie lub podmioty zewnętrzne informacji przesyłanych lub otrzymywanych przy użyciu Aplikacji.
+
+14. Wyłączenia gwarancji
+
+Firma kontroluje i obsługuje Aplikację z różnych lokalizacji i nie gwarantuje, że Aplikacja jest odpowiednia lub dostępna do użytkowania we wszystkich lokalizacjach. Aplikacja lub pewne jej funkcje mogą nie być dostępne w Twojej lokalizacji.
+
+APLIKACJA DOSTARCZANA JEST NA ZASADZIE "JAK JEST" I "JAK DOSTĘPNE", BEZ ŻADNYCH WYRAŹNYCH LUB DOROZUMIANYCH GWARANCJI, W TYM MIĘDZY INNYMI DOROZUMIANYCH GWARANCJI TYTUŁU PRAWNEGO, NIENARUSZENIA PRAWA, MOŻLIWOŚCI SPRZEDAŻY I PRZYDATNOŚCI DO OKREŚLONEGO CELU, A TAKŻE ŻADNYCH GWARANCJI DOROZUMIANYCH PRZEZ PRZEBIEG REALIZACJI TRANSAKCJI; WSZYSTKIE GWARANCJE SĄ WYRAŹNIE WYŁĄCZONE, ZA WYJĄTKIEM ZAKRESU WYMAGANEGO PRZEZ PRAWO. FIRMA, JEJ ZARZĄD, PRACOWNICY,  PRZEDSTAWICIELE, WYKONAWCY, PARTNERZY I DOSTAWCY TREŚCI NIE GWARANTUJĄ, ŻE: (A) APLIKACJA BĘDZIE ZABEZPIECZONA LUB DOSTĘPNA W OKREŚLONYM CZASIE LUB LOKALIZACJI; (B) WSZELKIE WADY LUB BŁĘDY ZOSTANĄ NAPRAWIONE; (C) KAŻDA TREŚĆ LUB OPROGRAMOWANIE DOSTĘPNE W LUB POPRZEZ APLIKACJĘ BĘDĄ WOLNE OD WIRUSÓW LUB INNYCH SZKODLIWYCH ELEMENTÓW; (D) WYNIKI KORZYSTANIA Z APLIKACJI SPEŁNIĄ TWOJE WYMAGANIA. KORZYSTANIE Z APLIKACJI STANOWI WYŁĄCZNIE TWOJE WŁASNE RYZYKO; LUB (E) ŻE TREŚCI, TEKSTY, OBRAZY, OPROGRAMOWANIA, GRAFIKI I KOMUNIKATY POCHODZĄCE OD OSÓB TRZECICH I DOSTĘPNE PRZEZ LUB W APLIKACJI, W TYM TAKŻE W SEKRETNYCH ROZMOWACH, SĄ DOKŁADNE, RZETELNE I KOMPLETNE. SYSTEMY PRAWNE NIEKTÓRYCH STANÓW /KRAJÓW NIE PRZEWIDUJĄ MOŻLIWOŚCI OGRANICZENIA OKRESU OBOWIĄZYWANIA GWARANCJI DOROZUMIANEJ (USTAWOWEJ), WIĘC POWYŻSZE OGRANICZENIA MOGĄ NIE MIEĆ ZASTOSOWANIA W TWOJEJ SYTUACJI.
+
+15. Ograniczenie odpowiedzialności
+
+W ŻADNYM RAZIE FIRMA, JEJ ZARZĄD, DYREKTORZY, PRZEDSTAWICIELE, PODMIOTY STOWARZYSZONE, PRACOWNICY, REKLAMODAWCY LUB DOSTAWCY DANYCH NIE BĘDĄ ODPOWIEDZIALNI ZA ŻADNE SZKODY POŚREDNIE, PRZYPADKOWE, WYNIKOWE LUB KARNE SZKODY (W TYM MIĘDZY INNYMI NIEMOŻNOŚĆ UŻYTKOWANIA, UTRATĘ ZYSKÓW LUB UTRATĘ DANYCH) ZARÓWNO W RAMACH POWÓDZTWA O NIEDOTRZYMANIE UMOWY, JAK I O CZYN ZABRONIONY (W TYM MIĘDZY INNYMI ZANIEDBANIE), PRAWA SŁUSZNOŚCI LUB W INNY SPOSÓB, POWSTAŁE W WYNIKU LUB W DOWOLNY SPOSÓB ZWIĄZANE Z KORZYSTANIEM Z NINIEJSZEJ APLIKACJI. CAŁKOWITA ODPOWIEDZIALNOŚĆ, WYNIKAJĄCA Z NINIEJSZYCH WARUNKÓW, Z KORZYSTANIA Z LUB NIEMOŻNOŚCI KORZYSTANIA Z APLIKACJI W ŻADNYM WYPADKU NIE PRZEKROCZY ODPOWIEDNIO KWOT, KTÓRE ZAPŁACIŁEŚ FIRMIE ZA KORZYSTANIE Z APLIKACJI LUB STU DOLARÓW (100$), JEŚLI NIE MIAŁEŚ UPRZEDNIO ŻADNYCH ZOBOWIĄZAŃ PŁATNICZYCH WOBEC FIRMY. NIEKTÓRE JURYSDYKCJE NIE PRZEWIDUJĄ MOŻLIWOŚCI WYŁĄCZENIA LUB OGRANICZENIA ODPOWIEDZIALNOŚCI, WIĘC POWYŻSZE OGRANICZENIA MOGĄ NIE MIEĆ ZASTOSOWANIA W TWOJEJ SYTUACJI. FIRMA I ŻADNA Z OSÓB TRZECICH WYMIENIONYCH W APLIKACJI NIE ODPOWIADAJĄ ZA JAKIEKOLWIEK SZKODY OSOBISTE, W TYM ŚMIERĆ, SPOWODOWANE PRZEZ TWOJE UŻYTKOWANIE LUB NIEWŁAŚCIWE KORZYSTANIE Z APLIKACJI.
+
+16. Wykorzystanie urządzeń mobilnych
+
+Należy zwrócić uwagę, że, jeśli korzystasz z Aplikacji na urządzeniu mobilnym, nadal będą obowiązywać normalne stawki i opłaty Twojego operatora, takie jak opłaty za wiadomości tekstowe i transmisję danych.
+
+17. Usługi Podmiotów Zewnętrznych
+
+Aplikacja może dać Ci dostęp do łączy prowadzących do witryn internetowych podmiotów zewnętrznych, aplikacji lub innych produktów lub usług ("Usługi Podmiotów Zewnętrznych"). Firma w żaden sposób nie kontroluje Usług Podmiotów Zewnętrznych i w związku z tym nie ponosi żadnej odpowiedzialności związanej z Usługami Podmiotów Zewnętrznych. Musisz podjąć odpowiednie kroki, aby ocenić, czy dostęp do Usług Podmiotów Zewnętrznych jest odpowiedni, w tym także pod względem ochrony twoich danych osobowych i prywatności podczas korzystania z takich Usług Podmiotów Zewnętrznych oraz pod względem poszanowania obowiązujących porozumień.
+
+18. Twoje informacje zwrotne
+
+Chętnie przyjmiemy Twoje uwagi dotyczące Aplikacji. Wszelka korespondencja, którą do nas wysyłasz, oraz treści publikowane w sklepach z aplikacjami uważane są za nieopatrzone klauzulą poufności, o ile wyraźnie nie zaznaczysz inaczej. Akceptujesz, że możemy zdecydować się na opublikowanie takiej treści wedle naszego własnego uznania. Zgadzasz się na udzielenie nam pełnomocnictwa do wykorzystywania takich treści nieodpłatnie, oraz korygowania, modyfikowania, dostosowywania i zmieniania kontekstowo lub wprowadzania jakichkolwiek innych zmian, które uznamy za stosowne.
+
+19. Wykonywanie praw
+
+Nie jesteśmy zobowiązani do monitorowania dostępu ani sposobu korzystania z Aplikacji. Niemniej jednak zastrzegamy sobie prawo do robienia tego w celu zapewnienia działania i utrzymania Aplikacji, przestrzegając postanowień tej Umowy oraz stosując się do obowiązujących przepisów prawa. Postępowanie niezgodne z prawem może zostać zgłoszone organom ścigania. Ponadto w toku prowadzonego postępowania prawnego możemy współpracować z organami ścigania, aby ukarać użytkowników naruszających prawo. Zastrzegamy sobie prawo (ale nie jesteśmy zobowiązani) do usuwania lub blokowania wszelkich treści publikowanych w Aplikacji lub dostępu do Aplikacji w dowolnym terminie i bez uprzedzenia oraz wedle naszego własnego uznania, jeśli stwierdzimy, że Twoje treści lub korzystanie z Aplikacji są niewłaściwe lub stanowią naruszenie niniejszej Umowy.
+
+Firma nie ponosi żadnej odpowiedzialności wobec użytkowników Aplikacji, jakichkolwiek innych osób lub podmiotów za wykonanie lub niewykonanie opisanych powyżej czynności.
+
+20. Zmiany w Aplikacji
+
+Aplikacja może być zmieniana, rozszerzana i ulepszana co pewien czas, bez uprzedniego powiadomienia. Możemy także w dowolnym terminie zaprzestać obsługiwania części lub całości Aplikacji lub wybiórczo zablokować określone funkcje Aplikacji. Korzystanie przez Ciebie z Aplikacji nie uprawnia Cię do wymagania ciągłego działania lub dostępności Aplikacji. Jakiekolwiek modyfikacje lub likwidacja Aplikacji lub jakichkolwiek określonej funkcji będzie odbywało się wedle naszego własnego uznania i bez zobowiązań lub odpowiedzialności wobec Ciebie.
+
+21. Odszkodowanie
+
+Zgadzasz się bronić, zwolnić i zabezpieczyć Firmę oraz jej zarząd, dyrektorów, pracowników, przedstawicieli, licencjodawców i dostawców przed wszelkimi roszczeniami, działaniami oraz odpowiedzialnością oraz wszelkimi kosztami i wydatkami związanymi z obroną, w tym, między innymi, przed uzasadnionymi kosztami prawnymi i księgowymi opartymi lub wynikającymi z naruszenia niniejszej Umowy. 
+
+22. Postanowienia końcowe
+
+Spory wynikające z niniejszej Umowy rozstrzygane będą zgodnie z przepisami prawa obowiązującego w stanie Kalifornia (USA) bez względu na ich sprzeczność z innymi przepisami prawa. PEŁNA I WYŁĄCZNA WŁAŚCIWOŚĆ SĄDU W PRZYPADKU POSTĘPOWANIA SPORNEGO WYNIKAJĄCEGO W ZWIĄZKU Z NINIEJSZĄ UMOWĄ NALEŻY DO WŁAŚCIWEGO SĄDU STANOWEGO LUB FEDERALNEGO W HRABSTWIE SAN FRANCISCO, STAN KALIFORNIA, A STRONY NINIEJSZYM BEZWARUNKOWO ZRZEKAJĄ SIĘ PRAWA DO PROCESU Z UDZIAŁEM ŁAWY PRZYSIĘGŁYCH.
+
+Wszelkie pozwy o powództwa w odniesieniu do korzystania przez Ciebie z Aplikacji muszą zostać wniesione w ciągu jednego (1) roku od powstania roszczenia lub podstawy powództwa.
+
+Jeżeli z jakiegokolwiek powodu właściwy sąd stwierdzi, że któreś z postanowień niniejszej Umowy lub jej części jest niemożliwe do wykonania z dowolnego powodu, wówczas takie postanowienie będzie wykonywane w najszerszym dopuszczalnym zakresie, tak aby intencje niniejszej Umowy oraz pozostałe postanowienia niniejszej Umowy pozostały w mocy. W postępowaniu sądowym lub administracyjnym dopuszcza się posługiwanie drukowaną wersją niniejszej Umowy.
+
+Zrzeczenie się przez Firmę prawa wynikającego z niniejszej Umowy nie może być uważane za zrzeczenie się na przyszłość na stałe tego ani żadnego innego prawa, a nieskorzystanie przez Firmę z prawa lub postanowienia niniejszej Umowy nie stanowi zrzeczenia się wynikających z nich praw w przyszłości. Jeśli któreś z postanowień niniejszej Umowy zostanie uznane przez właściwy sąd lub inny uprawniony podmiot działający we właściwej jurysdykcji za nieważne, nielegalne lub niewykonalne, takie postanowienie zostanie usunięte lub ograniczone do najwęższego zakresu, tak aby pozostałe postanowienia niniejszej Umowy zachowały pełną moc. 
+
+Po rozwiązaniu Umowy wszystkie jej postanowienia, które ze względu na swój charakter powinny pozostać w mocy, będą nadal obowiązywać, w tym m.in. postanowienia dotyczące praw własności, wyłączenia gwarancji i ograniczenia odpowiedzialności.
+
+Wszelkie roszczenia pomiędzy stronami wynikające z niniejszej Umowy będą rozpatrywane w sądzie indywidualnie i strony nie będą ich łączyć ani składać pozwów zbiorowych w związku z żadnymi roszczeniem, chyba że wcześniej zostało to uzgodnione na piśmie przez strony.
+
+Możemy w dowolnej chwili odmówić dostarczania usługi, zamknąć Konto lub zmienić zasady udostępniania usługi.
+
+23. Procedura zgłaszania i usuwania treści
+
+Jeśli uważasz, że materiał dostępny w lub za pośrednictwem Aplikacji narusza Twoje prawa autorskie, możesz zażądać usunięcia tych materiałów (lub dostępu do nich) z niniejszej Aplikacji, kontaktując się z Firmą i przedstawiając następujące informacje:
+
+a. Identyfikacja dzieła chronionego prawem autorskim, które jest twoim zdaniem wykorzystywane w sposób bezprawny. Należy opisać dzieło i jeśli to możliwe, załączyć kopię lub lokalizację (np. strona Aplikacji) autoryzowanej wersji dzieła.
+
+b. Identyfikacja materiału, który Twoim zdaniem jest przedmiotem naruszenia oraz jego lokalizacja. Należy opisać materiał, a także podać adres URL lub dowolną inną istotną informację, która pozwoli nam zlokalizować materiał.
+
+c. Twoje imię i nazwisko, adres, numer telefonu i (jeśli to możliwe) adres e-mail.
+
+d. Oświadczenie potwierdzające, że działając w dobrej wierze, przypuszczasz, że rozpowszechnianie treści w sposób opisany w zawiadomieniu odbywa się bez zgody uprawnionego z tytułu praw autorskich lub jego przedstawiciela lub też odbywa się poza granicami dopuszczalnymi przez prawo.
+
+e. Oświadczenie poświadczające, że informacje, które dostarczyłeś są dokładne oraz wskazujące, że "pod karą krzywoprzysięstwa" oświadczasz, że jesteś właścicielem praw autorskich lub posiadasz upoważnienie do działania w imieniu właściciela praw autorskich. 
+
+f. Podpis lub jego elektroniczny odpowiednik złożony właściciela praw autorskich lub jego upoważnionego przedstawiciela.
+
+W wyniku starań o ochronę praw właścicieli praw autorskich Firma utrzymuje politykę w celu rozwiązania Umowy w odpowiednich okolicznościach, w przypadku subskrybentów i posiadaczy kont w Aplikacji, którzy wielokrotnie naruszają zasady.
+Pytania i komentarze
+
+W przypadku uwag lub pytań dotyczących Aplikacji lub niniejszych Warunków Użytkowania, potrzeby uzyskania pomocy lub w razie problemów, prosimy kontaktować się z nami pod adresem support@flo.health.

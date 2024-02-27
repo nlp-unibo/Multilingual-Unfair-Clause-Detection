@@ -1,0 +1,164 @@
+UBER B.
+V.
+Warunki
+Ostatnia aktualizacja: 4 grudzień 2017
+1.
+Stosunek umowny
+Niniejszy Regulamin (zwany dalej „Regulaminem”) reguluje kwestie dostępu lub wykorzystania przez osobę prywatną z jakiegokolwiek kraju na świecie (z wyjątkiem Stanów Zjednoczonych oraz ich terytoriów zamorskich i terytoriów nieinkorporowanych, jak również Chin kontynentalnych) aplikacji, witryn internetowych, treści, produktów oraz usług (zwanych dalej „Usługami”) udostępnianych przez Uber B.
+V.,
+prywatną spółkę z ograniczoną odpowiedzialnością utworzoną w Holandii, z siedzibą pod adresem Mr.
+Treublaan 7, 1097 DP, Amsterdam, Holandia, zarejestrowaną w Amsterdamskiej Izbie Handlowej pod numerem 56317441 (zwaną dalej „Uber”).
+PRZED UZYSKANIEM DOSTĘPU DO USŁUG LUB ROZPOCZĘCIEM KORZYSTANIA Z NICH PROSIMY DOKŁADNIE ZAPOZNAĆ SIĘ Z NINIEJSZYM REGULAMINEM.
+Uzyskiwanie dostępu do Usług oraz korzystanie z nich jest równoznaczne z przyjęciem postanowień niniejszego Regulaminu jako wiążących, co stanowi nawiązanie stosunku umownego między Państwem i Uber.
+Nieprzyjęcie niniejszego Regulaminu oznacza brak możliwości uzyskiwania dostępu do Usług oraz korzystania z nich.
+Niniejszy Regulamin zastępuje zawarte wcześniej umowy oraz porozumienia.
+Uber może w dowolnym momencie oraz z dowolnej przyczyny anulować niniejszy Regulamin lub uniemożliwić korzystanie z wszelkich Usług w odniesieniu do Państwa, jak również przestać w ogóle oferować Usługi oraz odmówić dostępu do nich lub dowolnej ich części.
+Niektóre Usługi mogą podlegać dodatkowym postanowieniom, takim jak regulaminy dotyczące konkretnych wydarzeń, działania lub promocji, a informacja o tego rodzaju dodatkowych postanowieniach zostanie przekazana w związku z odnośnymi Usługami.
+Postanowienia dodatkowe są uzupełnieniem i będą stanowić część Regulaminu na potrzeby odnośnych Usług.
+W przypadku sprzeczności w odniesieniu do przedmiotowych Usług postanowienia dodatkowe mają znaczenie nadrzędne względem niniejszego Regulaminu.
+Uber może od czasu do czasu zmieniać niniejszy Regulamin dotyczący Usług.
+Zmiany wchodzą w życie w momencie opublikowania przez Uber tego rodzaju zaktualizowanego Regulaminu w tym miejscu lub też zaktualizowanych polityk lub postanowień dodatkowych w odnośnych Usługach.
+Dalsze uzyskiwanie dostępu do Usług lub korzystanie z nich po tego rodzaju publikacji oznacza przyjęcie zmienionego Regulaminu.
+Zasady gromadzenia i wykorzystywania przez nas danych osobowych w związku z Usługami określono w Polityce Prywatności Uber, dostępnej pod adresem https://www.uber.com/privacy/notice.
+Uber może przekazać podmiotowi zajmującemu się rozpatrywaniem roszczeń lub ubezpieczycielowi wszelkie niezbędne informacje (w tym Państwa dane kontaktowe) w przypadku otrzymania skargi, wystąpienia sporu lub konfliktu, co może obejmować wypadek, w którym wzięli udział Państwo oraz Usługodawca Zewnętrzny (w tym kierowca firmy transportowej), a tego rodzaju informacje lub dane będą konieczne do rozpatrzenia roszczenia lub rozstrzygnięcia sporu lub konfliktu.
+2.
+Usługi
+Usługi stanowią platformę technologiczną umożliwiającą użytkownikom aplikacji mobilnych lub witryn internetowych Uber udostępnianych w ramach Usług (z których każda będzie oddzielnie zwana „Aplikacją”) zamawianie usług transportowych lub logistycznych u niezależnych usługodawców zewnętrznych świadczących tego rodzaju usługi, w tym u niezależnych usługodawców zewnętrznych świadczących usługi transportowe oraz niezależnych usługodawców zewnętrznych świadczących usługi logistyczne na mocy umowy zawartej z Uber lub określonymi jednostkami stowarzyszonymi Uber (zwanych dalej „Usługodawcami Zewnętrznymi”).
+Jeżeli nie ustalono z Uber inaczej w formie odrębnej pisemnej umowy, Usługi udostępnia się wyłącznie do osobistego, niekomercyjnego użytku.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI, ŻE UBER NIE ŚWIADCZY USŁUG TRANSPORTOWYCH ANI USŁUG LOGISTYCZNYCH ANI TEŻ NIE JEST PRZEWOŹNIKIEM, A WSZYSTKIE USŁUGI TRANSPORTOWE LUB LOGISTYCZNE SĄ ŚWIADCZONE PRZEZ NIEZALEŻNYCH WYKONAWCÓW ZEWNĘTRZNYCH, KTÓRZY NIE SĄ ZATRUDNIENI PRZEZ UBER ANI ŻADNĄ Z JEJ JEDNOSTEK STOWARZYSZONYCH.
+Licencja.
+Pod warunkiem przestrzegania przez użytkownika niniejszego Regulaminu, Uber przyznaje użytkownikowi ograniczoną, niewyłączną, odwołalną i nieprzenoszalną licencję bez prawa udzielania dalszych licencji, na: (i) uzyskiwanie dostępu do Aplikacji oraz korzystanie z nich na własnym urządzeniu wyłącznie w związku z korzystaniem z Usług; oraz (ii) uzyskiwanie dostępu oraz korzystanie z wszelkich treści, informacji oraz powiązanych materiałów, które mogą być udostępniane za pośrednictwem Usług, każdorazowo wyłącznie na prywatny, niekomercyjny użytek użytkownika.
+Wszelkie prawa, których nie przyznano wyraźnie w niniejszym Regulaminie, pozostają zastrzeżone dla Uber oraz jej licencjodawców.
+Ograniczenia.
+Zabrania się: (i) usuwania z jakiejkolwiek części Usług wszelkich informacji o objęciu ochroną praw autorskich, znakiem towarowym lub innych informacji o zastrzeżeniu ochrony; (ii) powielania, modyfikowania, sporządzania utworów zależnych w oparciu o, rozpowszechniania, udzielania licencji, wynajmowania, sprzedawania, odsprzedawania, przenoszenia, publicznego prezentowania, publicznego odtwarzania, transmitowania, strumieniowania, nadawania lub innego wykorzystywania Usług, z wyjątkiem zakresu wyraźnie dozwolonego przez Uber; (iii) dekompilowania, odtwarzania kodu źródłowego oraz rozkładania Usług na czynniki składowe, z wyjątkiem przypadków, w których dopuszczają to przepisy obowiązującego prawa; (iv) publikowania łączy do, mirrorowania oraz publikowania w ramkach jakiejkolwiek części Usług; (v) doprowadzania do uruchomienia oraz uruchamiania jakichkolwiek programów lub skryptów w celu ekstrakcji danych techniką scrapingu, indeksowania, badania lub stosowania innych technik pozyskiwania danych (data mining) z jakiejkolwiek części Usług, jak również nadmiernego obciążania lub uniemożliwiania działania lub ograniczania funkcjonalności jakiegokolwiek aspektu Usług; lub (vi) podejmowania prób uzyskania nieupoważnionego dostępu lub ograniczania jakiegokolwiek aspektu Usług lub związanych z nimi systemów lub sieci.
+Świadczenie Usług.
+Użytkownik przyjmuje do wiadomości, że niektóre Usługi mogą być udostępniane pod różnymi markami Uber lub na żądanie jako usługi opcjonalne związane z transportem lub logistyką, w tym pod markami usług transportowych na żądanie obejmujących obecnie marki „Uber”, „uberPOP”, „uberX”, „uberXL”, „UberBLACK”, „UberSUV”, „UberBERLINE”, „UberVAN”, „UberEXEC” oraz „UberLUX”, jak również marki usług logistycznych „UberRUSH”, „UberFRESH” oraz „UberEATS”.
+Użytkownik przyjmuje również do wiadomości, że Usługi mogą być udostępniane pod takimi markami lub w ramach takich opcji na żądanie poprzez lub w związku z: (i) niektórymi spośród jednostek zależnych oraz jednostek stowarzyszonych Uber; lub (ii) niezależnymi Usługodawcami Zewnętrznymi, w tym kierowcami firm transportowych, osobami posiadającymi licencje na świadczenie usług transportowych lub podobne pozwolenia, licencje lub zgody na świadczenie takich usług.
+Usługi i Treści Usługodawców Zewnętrznych.
+Usługi mogą być udostępniane lub też można uzyskiwać do nich dostęp w związku z usługami lub treściami osób trzecich (co obejmuje treści reklamowe), nad którymi Uber nie sprawuje kontroli.
+Użytkownik przyjmuje do wiadomości, że w przypadku korzystania z tego rodzaju usług i treści osób trzecich zastosowanie mogą mieć inne regulaminy oraz polityki prywatności.
+Uber nie wspiera tego rodzaju usług ani treści osób trzecich i w żadnym przypadku Uber nie będzie ponosić odpowiedzialności w związku z żadnymi towarami ani usługami tego rodzaju osób trzecich.
+Oprócz tego Apple Inc.,
+Google, Inc.,
+Microsoft Corporation lub BlackBerry Limited lub ich odpowiednie międzynarodowe jednostki stowarzyszone oraz jednostki zależne będą beneficjentami niebędącymi stroną niniejszej umowy, w przypadku gdy użytkownik będzie uzyskiwał dostęp do Usług korzystając z aplikacji opracowanych na urządzenia mobilne pracujące odpowiednio pod kontrolą systemów Apple iOS, Android, Microsoft Windows lub Blackberry.
+Tego rodzaju beneficjenci zewnętrzni nie są stronami niniejszej umowy i nie ponoszą żadnej odpowiedzialności z tytułu świadczenia ani wspierania Usług.
+Uzyskiwany przez użytkownika dostęp do Usług z wykorzystaniem tego rodzaju urządzeń podlega postanowieniom regulaminu określonym w odpowiednich regulaminach beneficjentów zewnętrznych.
+Własność.
+Usługi oraz wszystkie prawa z nimi związane są i pozostaną własnością Uber lub własnością licencjodawców Uber.
+Ani niniejszy Regulamin, ani korzystanie przez użytkownika z Usług nie oznacza przyznania użytkownikowi żadnych praw: (i) do Usług ani praw związanych z nimi, z wyjątkiem udzielonej powyżej ograniczonej licencji; lub (ii) do korzystania ani odnoszenia się w jakikolwiek sposób do nazw, logo, nazw produktów i usług, znaków towarowych, znaków usługowych Uber lub licencjodawców Uber.
+3.
+Korzystanie przez użytkownika z Usług
+Konta Użytkowników.
+Aby móc korzystać z większości aspektów Usług, użytkownikmusi zarejestrować się i prowadzić aktywne osobiste konto użytkownika Usług (zwane dalej „Kontem”).
+Aby móc uzyskać Konto, użytkownik musi mieć przynajmniej 18 lat lub być w wieku uznanym za wiek pełnoletniości w danym systemie prawnym (jeżeli jest to wiek inny niż 18 lat).
+Rejestracja konta wymaga przekazania Uber określonych danych osobowych, takich jak imię, nazwisko, adres, numer telefonu komórkowego oraz wiek, jak również określenie przynajmniej jednej prawidłowej metody płatności (karta kredytowa lub akceptowany partner obsługujący płatności).
+Użytkownik zobowiązuje się, że dane zapisane na jego koncie będą rzetelne, kompletne i aktualne.
+Niewywiązanie się z obowiązku zapewnienia rzetelności, kompletności oraz aktualności danych Konta, w tym zarejestrowanie nieprawidłowej metody płatności lub jej wygaśnięcie, może uniemożliwić uzyskiwanie dostępu do Usług oraz korzystanie z nich lub spowodować unieważnienie tych warunków przez Uber.
+Użytkownik ponosi odpowiedzialność z tytułu wszelkich czynności realizowanych za pośrednictwem jego Konta, jak również zobowiązuje się zawsze zabezpieczać i utrzymywać w tajemnicy nazwę użytkownika oraz hasło do Konta.
+O ile Uber nie dopuści innej możliwości na piśmie, użytkownik może mieć tylko jedno Konto.
+Wymogi dotyczące Użytkownika oraz Zasady Zachowania.
+Usługa jest niedostępna dla osób w wieku poniżej 18 lat.
+Użytkownikowi nie wolno zezwalać osobom trzecim na korzystanie z jego Konta, jak również nie wolno mu zezwalać osobom w wieku poniżej 18 lat na korzystanie z usług transportowych ani logistycznych świadczonych przez Usługodawców Zewnętrznych, chyba że dzieje się to w towarzystwie użytkownika.
+Użytkownikowi nie wolno dokonać cesji ani w inny sposób przenieść swojego Konta na rzecz żadnej innej osoby ani podmiotu.
+Użytkownik zobowiązuje się przestrzegać wszystkich przepisów obowiązującego prawa podczas korzystania z Usług i może korzystać z Usług tylko w celach zgodnych z prawem (np.
+niedozwolone jest przewożenie materiałów niezgodnych z prawem lub niebezpiecznych).
+W ramach korzystania z Usług użytkownikowi nie wolno utrudniać, przeszkadzać, powodować niewygody ani szkód majątkowych, zarówno Usługodawcom Zewnętrznym, jak i innym osobom trzecim.
+W niektórych przypadkach, aby móc uzyskać dostęp do Usług lub korzystać z nich, użytkownik może zostać poproszony o okazanie dowodu tożsamości i zgadza się, że w przypadku odmowy okazania dowodu tożsamości może nie uzyskać dostępu do Usług oraz może nie móc z nich skorzystać.
+Wiadomości tekstowe.
+Tworząc Konto użytkownik wyraża zgodę na otrzymywanie informacyjnych wiadomości tekstowych (SMS) wysyłanych przez Usługi w ramach normalnej działalności biznesowej związanej z korzystaniem przez niego z Usług.
+Użytkownik może w dowolnym momencie wycofać zgodę na otrzymywanie wiadomości tekstowych (SMS) od Uber wysyłając wiadomość elektroniczną na adres e-mail support@uber.com, wskazując w niej, że nie życzy sobie więcej otrzymywać tego rodzaju wiadomości oraz podając numer telefonu urządzenia mobilnego, na które przesyłane są wiadomości.
+Użytkownik przyjmuje do wiadomości, że wycofanie zgody na otrzymywanie wiadomości tekstowych (SMS) może wpłynąć na korzystanie przez niego z Usług.
+Kody promocyjne.
+Uber może, wedle swego wyłącznego uznania, tworzyć kody promocyjne, które można wykorzystywać do doładowywania salda Konta lub wymieniać na inne funkcje lub korzyści związane z Usługami lub usługami świadczonymi przez Usługodawców Zewnętrznych, z zastrzeżeniem wszelkich dodatkowych postanowień, które Uber może wprowadzić w odniesieniu do konkretnych kodów promocyjnych (zwanych dalej „Kodami Promocyjnymi”).
+Użytkownik zgadza się, że Kody Promocyjne: (i) muszą być wykorzystywane przez grupę docelową, dla której są przeznaczone, jak również w przewidzianym dla nich celu oraz w sposób zgodny z prawem; (ii) nie mogą być powielane, sprzedawane ani przenoszone w żaden sposób, ani też powszechnie udostępniane (publikowane w sposób ogólnie dostępny ani w żaden inny sposób), chyba że za wyraźną zgodą Uber; (iii) mogą być unieważniane przez Uber z dowolnego powodu, bez ponoszenia przez Uber jakiejkolwiek odpowiedzialności; (iv) mogą być wykorzystywane wyłącznie zgodnie z konkretnymi postanowieniami ustanowionymi przez Uber w odniesieniu do tego rodzaju Kodów Promocyjnych; (v) nie podlegają wymianie na gotówkę; oraz (vi) mogą wygasnąć przed ich wykorzystaniem przez użytkownika.
+Uber zastrzega sobie prawo wstrzymania lub odliczenia salda lub innych funkcji lub korzyści uzyskanych poprzez wykorzystanie Kodów Promocyjnych przez użytkownika lub jakiegokolwiek innego użytkownika w przypadku, gdy Uber stwierdzi lub uzna, że wykorzystanie lub zrealizowanie Kodu Promocyjnego miało charakter błędu, oszustwa, działania niezgodnego z prawem lub naruszenia postanowień obowiązujących w odniesieniu do danego Kodu Promocyjnego lub postanowień niniejszego Regulaminu.
+Treści Publikowane przez Użytkownika.
+Uber może, wedle swego wyłącznego uznania, okresowo umożliwiać użytkownikom wysyłanie, wgrywanie, publikowanie lub udostępnianie Uber w inny sposób za pośrednictwem Usług treści i informacji tekstowych, dźwiękowych lub wizualnych, w tym komentarzy oraz informacji zwrotnych dotyczących Usługi, składanie zgłoszeń wsparcia technicznego oraz składania zgłoszeń w konkursach i promocjach (zwanych dalej „Treściami Użytkownika”).
+Wszystkie Treści Użytkownika udostępnione przez użytkownika pozostają jego własnością.
+Niemniej jednak, przekazując Treści Użytkownika Uber użytkownik udziela Uber obowiązującej na całym świecie, bezterminowej, nieodwołalnej, przenoszalnej, wolnej od tantiem licencji, z prawem do udzielania dalszych licencji, na wykorzystywanie, kopiowanie, modyfikowanie, sporządzanie utworów zależnych, rozpowszechnianie, publiczne prezentowanie, publiczne odtwarzanie oraz inne wykorzystanie tego rodzaju Treści Użytkownika we wszystkich formatach oraz we wszystkich kanałach rozpowszechniania znanych obecnie lub opracowanych w przyszłości (w tym w związku z Usługami oraz działalnością Uber, jak również w placówkach oraz usługach osób trzecich), bez konieczności dodatkowego powiadamiania ani uzyskiwania zgody od użytkownika, jak również bez konieczności wypłacania użytkownikowi lub jakiejkolwiek innej osobie lub podmiotowi jakichkolwiek kwot.
+Użytkownik oświadcza i gwarantuje, że: (i) jest jedynym i wyłącznym właścicielem wszystkich Treści Użytkownika lub posiada wszystkie prawa, licencje, zgody oraz pozwolenia niezbędne, aby udzielić Uber licencji na Treści Użytkownika zgodnie z powyższym opisem; oraz (ii) ani Treści Użytkownika, ani wysyłanie, wgrywanie, publikowanie ani inne udostępnianie tego rodzaju Treści Użytkownika ani też dozwolone na mocy niniejszej Umowy wykorzystywanie Treści Użytkownika przez Uber nie będzie stanowić naruszenia ani przywłaszczenia prawa własności intelektualnej ani prawa własności osoby trzeciej, ani też prawa do ochrony wizerunku ani prywatności, jak również nie będzie skutkować naruszeniem żadnych przepisów obowiązującego prawa.
+Użytkownik zobowiązuje się nie przekazywać Treści Użytkownika, które byłyby oszczercze, miały charakter zniesławienia lub mowy nienawiści, zawierały treści o charakterze przemocy, treści obsceniczne, pornograficzne, niezgodne z prawem lub w inny sposób obraźliwe, o czym Uber będzie decydować wedle swego wyłącznego uznania, niezależnie od tego, czy tego rodzaju materiały są objęte ochroną prawną.
+Uber może, ale nie będzie zobowiązana, weryfikować, monitorować lub usuwać Treści Użytkownika wedle wyłącznego uznania Uber oraz w dowolnym momencie i z dowolnego powodu, bez konieczności powiadamiania użytkownika.
+Dostęp do sieci oraz Urządzenia.
+Użytkownik ma obowiązek zapewnić dostęp do sieci wystarczający do korzystania z Usług.
+Sieć telefonii komórkowej może naliczać opłaty za przesyłanie danych lub wiadomości tekstowych w przypadku uzyskiwania dostępu do Usług lub korzystania z nich za pośrednictwem urządzenia obsługującego łączność bezprzewodową – obowiązkiem użytkownika jest pokrycie tego rodzaju opłat.
+Użytkownik ma obowiązek pozyskać i aktualizować zgodny sprzęt lub urządzenia niezbędne do uzyskiwania dostępu do Usług oraz Aplikacji i korzystania z nich, co obejmuje również wszelkie aktualizacje.
+Uber nie gwarantuje, że Usługi ani też żadna ich część będą działać na jakimkolwiek konkretnym sprzęcie lub urządzeniu.
+Oprócz tego mogą występować również usterki lub opóźnienia w ramach Usług nieodłącznie związane z korzystaniem z Internetu oraz środków komunikacji elektronicznej.
+4.
+Płatność
+Użytkownik rozumie, że korzystanie z Usług może prowadzić do naliczenia opłat z tytułu usług lub towarów otrzymywanych od Usługodawców Zewnętrznych (zwanych dalej „Opłatami”).
+Po otrzymaniu usług lub towarów uzyskanych w wyniku skorzystania z Usług, Uber umożliwi uregulowanie odnośnych Opłat w imieniu Usługodawcy Zewnętrznego, występując w charakterze pełnomocnika pobierającego opłaty w ograniczonym zakresie w imieniu Usługodawcy Zewnętrznego.
+Uregulowanie Opłat w ten sposób będzie równoznaczne z wniesieniem opłaty bezpośrednio na rzecz Usługodawcy Zewnętrznego.
+Kwota Opłaty będzie obejmować odnośne podatki wynikające z przepisów obowiązującego prawa.
+Opłaty wnoszone przez Użytkownika mają charakter ostateczny i bezzwrotny, chyba że Uber wskaże inaczej.
+Użytkownik zachowuje prawo wnioskowania o obniżenie Opłaty pobieranej przez Usługodawcę Zewnętrznego z tytułu usług lub towarów otrzymanych przez Użytkownika od tego rodzaju Usługodawcy Zewnętrznego w momencie odbioru tego rodzaju usług lub towarów.
+Uber udzieli stosownej odpowiedzi na każdy złożony przez Usługodawcę Zewnętrznego wniosek o zmianę wysokości Opłat z tytułu konkretnej usługi lub towaru.
+Wszystkie Opłaty są należne natychmiast, a Uber umożliwi realizację płatności przy wykorzystaniu preferowanej metody płatności wskazanej na Koncie Użytkownika, a następnie prześle Użytkownikowi pocztą elektroniczną potwierdzenie płatności.
+Jeżeli wskazana przez użytkownika na Koncie główna metoda płatności wygaśnie, okaże się nieważna lub z innych powodów nie będzie mogła zostać wykorzystana, użytkownik upoważnia Uber, jako pełnomocnika pobierającego opłaty w ograniczonym zakresie w imieniu Usługodawcy Zewnętrznego, do skorzystania ze wskazanej ewentualnie na Koncie użytkownika alternatywnej metody płatności.
+W stosunkach między Uber i użytkownikiem Uber zastrzega sobie prawo ustanowienia, usunięcia lub zmiany wysokości Opłat z tytułu wszelkich usług lub towarów uzyskiwanych poprzez korzystanie z Usług, a z prawa tego Uber może skorzystać w dowolnym momencie i wedle własnego uznania.
+Oprócz tego użytkownik przyjmuje do wiadomości i wyraża zgodę na to, że Opłaty obowiązujące w określonych obszarach mogą znacznie wzrosnąć w okresach zwiększonego popytu.
+Uber dołoży uzasadnionych starań, aby poinformować użytkownika o wysokości naliczanych ewentualnie Opłat, pod warunkiem, że użytkownik zobowiąże się pokryć Opłaty naliczone na jego Konto niezależnie od tego, czy był świadomy faktu naliczania takiej Opłaty lub jej wysokości.
+Uber może od czasu do czasu udostępniać niektórym użytkownikom oferty promocyjne lub udzielać zniżek, które mogą spowodować różnice w wysokości kwot naliczanych z tytułu tych samych lub podobnych usług lub towarów uzyskiwanych poprzez korzystanie z Usług, a użytkownik wyraża zgodę na to, że tego rodzaju oferty promocyjne oraz zniżki, jeżeli nie zostały mu również udostępnione, nie mają żadnego wpływu na korzystanie przez niego z Usług ani na naliczane mu Opłaty.
+Użytkownik może anulować swoje zamówienie na usługi lub towary od Usługodawcy Zewnętrznego w dowolnym momencie przed przybyciem tego rodzaju Usługodawcy Zewnętrznego, w którym to przypadku może zostać naliczona opłata za odstąpienie.
+Taka struktura płatności ma zapewnić pełne wynagrodzenie Usługodawcy Zewnętrznego z tytułu wyświadczonych usług lub dostarczonych towarów.
+Z wyjątkiem transportowych usług taksówkarskich zamawianych za pośrednictwem Aplikacji, Uber nie przeznacza żadnej części wnoszonej przez użytkownika płatności na napiwek ani dodatek dla Usługodawcy Zewnętrznego.
+Każde oświadczenie składane przez Uber (na stronie internetowej Uber, w Aplikacji lub w materiałach marketingowych Uber) wskazujące, że napiwki są „dobrowolne”, „nieobowiązkowe” lub „wliczone” w kwotę płatności naliczanych z tytułu wyświadczonych usług lub dostarczonych towarów nie ma sugerować, że Uber wypłaca Usługodawcy Zewnętrznemu dodatkowe kwoty ponad wskazane powyżej.
+Użytkownik rozumie i zgadza się na to, że choć ma swobodę wypłacenia napiwku Usługodawcy Zewnętrznemu świadczącemu na jego rzecz usługi lub dostarczającemu mu towary w ramach Usługi, nie jest do tego w żaden sposób zobowiązany.
+Napiwki są dobrowolne.
+Po skorzystaniu z usługi lub odebraniu towaru uzyskanego w ramach Usługi użytkownik będzie mógł ocenić swoje wrażenia i zostawić dodatkową informację zwrotną na temat Usługodawcy Zewnętrznego.
+Opłaty z tytułu naprawy lub sprzątania.
+Użytkownik ma obowiązek pokryć koszty usunięcia uszkodzeń lub niezbędnego sprzątania pojazdu Usługodawcy Zewnętrznego oraz jego mienia, które wynikły z korzystania z Usług w ramach Konta użytkownika w zakresie, w jakim przekraczają one uszkodzenia i sprzątanie wynikające z „normalnego zużycia” (zwane dalej „Naprawami lub Sprzątaniem”).
+W przypadku gdy Usługodawca Zewnętrzny zgłosi konieczność przeprowadzenia Napraw lub Sprzątania, a wniosek o tego rodzaju Naprawy lub Sprzątanie zostanie zweryfikowany przez Uber na podstawie uzasadnionych przesłanek, Uber zastrzega sobie prawo do zrealizowania płatności z tytułu uzasadnionych kosztów tego rodzaju Napraw lub Sprzątania w imieniu Usługodawcy Zewnętrznego, wykorzystując metodę płatności wskazaną przez użytkownika na jego Koncie.
+Tego rodzaju kwoty będą przelewane przez Uber na rzecz odpowiedniego Usługodawcy Zewnętrznego i nie podlegają zwrotowi.
+5.
+Wyłączenie odpowiedzialności, Ograniczenie odpowiedzialności, Zwolnienie z odpowiedzialności.
+WYŁĄCZENIE ODPOWIEDZIALNOŚCI.
+PRZEDMIOTOWE USŁUGI SĄ OFEROWANE W ICH OBECNYM STANIE, WEDŁUG DOSTĘPNOŚCI.
+UBER WYŁĄCZA WSZELKIE OŚWIADCZENIA I GWARANCJE UDZIELONE BEZPOŚREDNIO, DOROZUMIANE LUB WYNIKAJĄCE Z PRZEPISÓW USTAWOWYCH, JEŻELI NIE ZOSTAŁY BEZPOŚREDNIO WYRAŻONE W NINIEJSZYM REGULAMINIE, W TYM DOROZUMIANE GWARANCJE PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ BRAKU NARUSZENIA JAKICHKOLWIEK PRAW.
+OPRÓCZ TEGO UBER NIE SKŁADA ŻADNEGO OŚWIADCZENIA, NIE UDZIELA RĘKOJMI ANI GWARANCJI W ODNIESIENIU DO NIEZAWODNOŚCI, PUNKTUALNOŚCI, JAKOŚCI, PRAWIDŁOWOŚCI ANI DOSTĘPNOŚCI USŁUG ANI ŻADNYCH USŁUG CZY TOWARÓW ZAMÓWIONYCH ZA POŚREDNICTWEM USŁUG, JAK RÓWNIEŻ W ODNIESIENIU DO NIEPRZERWANEGO DOSTĘPU DO USŁUG ANI BRAKU BŁĘDÓW W USŁUGACH.
+UBER NIE GWARANTUJE JAKOŚCI, ODPOWIEDNIOŚCI, BEZPIECZEŃSTWA ANI UMIEJĘTNOŚCI USŁUGODAWCÓW ZEWNĘTRZNYCH.
+UŻYTKOWNIK ZGADZA SIĘ, ŻE PONOSI CAŁE RYZYKO WYNIKAJĄCE Z KORZYSTANIA PRZEZ NIEGO Z USŁUG ORAZ WSZELKICH USŁUG LUB TOWARÓW ZAMÓWIONYCH W ZWIĄZKU Z NIMI, W MAKSYMALNYM ZAKRESIE DOPUSZCZONYM NA MOCY PRZEPISÓW OBOWIĄZUJĄCEGO PRAWA.
+OGRANICZENIE ODPOWIEDZIALNOŚCI.
+UBER NIE PONOSI ODPOWIEDZIALNOŚCI Z TYTUŁU POŚREDNICH, PRZYPADKOWYCH, SPECJALNYCH, PRZYKŁADOWYCH, KARNYCH ANI WYNIKOWYCH SZKÓD I ODSZKODOWAŃ, W TYM Z TYTUŁU UTRACONYCH ZYSKÓW, UTRATY DANYCH, USZCZERBKU NA ZDROWIU ANI SZKÓD MAJĄTKOWYCH ZWIĄZANYCH Z, POWSTAŁYCH W ZWIĄZKU Z ANI W INNY SPOSÓB WYNIKAJĄCYCH Z JAKIEGOKOLWIEK WYKORZYSTANIA USŁUG, NAWET JEŻELI POINFORMOWANO UBER O MOŻLIWOŚCI PONIESIENIA TEGO RODZAJU SZKÓD.
+UBER NIE BĘDZIE PONOSIĆ ŻADNEJ ODPOWIEDZIALNOŚCI Z TYTUŁU ŻADNYCH ODSZKODOWAŃ, ODPOWIEDZIALNOŚCI ANI STRAT WYNIKAJĄCYCH Z: (i) KORZYSTANIA PRZEZ UŻYTKOWNIKA Z USŁUG ANI POLEGANIA PRZEZ NIEGO NA USŁUGACH, ANI TEŻ Z BRAKU MOŻLIWOŚCI UZYSKANIA DOSTĘPU DO USŁUG LUB KORZYSTANIA Z NICH; LUB (ii) WSZELKICH TRANSAKCJI LUB RELACJI MIĘDZY UŻYTKOWNIKIEM A JAKIMKOLWIEK USŁUGODAWCĄ ZEWNĘTRZNYM, NAWET JEŻELI POINFORMOWANO UBER O MOŻLIWOŚCI PONIESIENIA TEGO RODZAJU SZKÓD.
+UBER NIE BĘDZIE PONOSIĆ ODPOWIEDZIALNOŚCI Z TYTUŁU OPÓŹNIENIA LUB NIEWYKONANIA ŚWIADCZENIA Z PRZYCZYN LEŻĄCYCH POZA UZASADNIONYM ZAKRESEM KONTROLI UBER.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI, ŻE USŁUGODAWCY ZEWNĘTRZNI ŚWIADCZĄCY USŁUGI TRANSPORTOWE ZAMAWIANE ZA POŚREDNICTWEM NIEKTÓRYCH MAREK POŚREDNICZĄCYCH MOGĄ OFEROWAĆ USŁUGI WSPÓŁDZIELENIA ŚRODKA TRANSPORTU LUB USŁUGI TRANSPORTOWE ŚWIADCZONE BEZPOŚREDNIO I MOGĄ NIE POSIADAĆ LICENCJI ZAWODOWYCH ANI POZWOLEŃ.
+W ŻADNYM PRZYPADKU ŁĄCZNY ZAKRES ODPOWIEDZIALNOŚCI UBER W STOSUNKU DO UŻYTKOWNIKA W ZWIĄZKU Z USŁUGAMI I Z TYTUŁU WSZELKICH STRAT, SZKÓD I PRZYCZYN POWÓDZTWA NIE BĘDZIE PRZEKRACZAŁ 500 EUR (PIĘCIUSET EURO).
+UŻYTKOWNIK MOŻE KORZYSTAĆ Z USŁUG UBER DO ZAMAWIANIA I UMAWIANIA TRANSPORTU, TOWARÓW LUB USŁUG LOGISTYCZNYCH U USŁUGODAWCÓW ZEWNĘTRZNYCH, NATOMIAST UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI, ŻE UBER NIE PONOSI ŻADNEJ ODPOWIEDZIALNOŚCI WOBEC UŻYTKOWNIKA W ZWIĄZKU Z JAKIMIKOLWIEK USŁUGAMI TRANSPORTOWYMI, LOGISTYCZNYMI ANI DOSTAWĄ TOWARÓW REALIZOWANĄ PRZEZ USŁUGODAWCÓW ZEWNĘTRZNYCH, OPRÓCZ ZAKRESU WYRAŹNIE OKREŚLONEGO W NINIEJSZYM REGULAMINIE.
+OGRANICZENIA ORAZ WYŁĄCZENIE ODPOWIEDZIALNOŚCI OKREŚLONE W NINIEJSZYM USTĘPIE 5 NIE MAJĄ NA CELU OGRANICZYĆ ODPOWIEDZIALNOŚCI ANI ZMIENIAĆ PRAW PRZYSŁUGUJĄCYCH UŻYTKOWNIKOWI JAKO KONSUMENTOWI, KTÓRYCH NIE MOŻNA WYŁĄCZYĆ ZGODNIE Z PRZEPISAMI OBOWIĄZUJĄCEGO PRAWA.
+Zwolnienie z odpowiedzialności.
+Użytkownik zobowiązuje się zwolnić Uber oraz członków jej organów, członków zarządu, pracowników oraz przedstawicieli z odpowiedzialności z tytułu wszelkich roszczeń, żądań, strat, zobowiązań oraz wydatków (w tym kosztów obsługi prawnej) wynikających z lub w związku z: (i) korzystaniem przez użytkownika z Usług lub usług lub towarów uzyskiwanych za pośrednictwem Usług; (ii) naruszeniem przez użytkownika któregokolwiek z postanowień niniejszego Regulaminu; (iii) wykorzystaniem przez Uber dostarczonych przez użytkownika Treści Użytkownika; lub (iv) naruszeniem przez użytkownika praw jakiejkolwiek osoby trzeciej, w tym Usługodawców Zewnętrznych.
+6.
+Prawo właściwe; Arbitraż.
+Z zastrzeżeniem stanowiących inaczej postanowień, niniejsze warunki podlegają wyłącznie prawu Holandii i będą interpretowane zgodnie z tym prawem, z wyłączeniem zasad dotyczących norm kolizyjnych.
+Niniejszego Regulaminu nie dotyczą postanowienia Konwencji Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów z 1980 r. (
+Convention on the International Sale of Goods, CISG).
+Wszelkie spory, konflikty, roszczenia lub rozbieżności zdań wynikające z Usług lub niniejszych warunków lub mające z nimi jakikolwiek związek, w tym w szczególności spory dotyczące ważności Umowy, jej interpretacji lub wykonalności (zwane dalej „Sporami”), zostaną najpierw obowiązkowo skierowane na drogę postępowania polubownego zgodnie z Regulaminem Międzynarodowej Izby Handlowej dotyczącym polubownego rozwiązywania sporów (International Chamber of Commerce Mediation Rules, „Zasady Mediacji ICC”).
+Jeśli dany Spór nie zostanie rozstrzygnięty w ciągu 60 (sześćdziesięciu) dni po złożeniu wniosku o polubowne rozstrzygnięcie Sporu zgodnie z wyżej wymienionymi Zasadami Mediacji ICC, Spór taki zostanie wyłącznie i ostatecznie rozstrzygnięty przez sąd arbitrażowy zgodnie z Regulaminem arbitrażu Międzynarodowej Izby Handlowej („Regulaminem arbitrażu ICC”).
+Przepisy Regulaminu ICC dotyczące arbitrażu w trybie pilnym nie mają zastosowania.
+Spór zostanie rozstrzygnięty przez 1 (jednego) arbitra wyznaczonego zgodnie z Regulaminem ICC.
+Miejscem zarówno mediacji, jak i arbitrażu będzie Amsterdam, bez uszczerbku dla wszelkich praw przysługujących użytkownikowi na mocy Artykułu 18 tzw.
+Rozporządzenia Bruksela I bis (Dz.
+Urz.
+UE 2012 L351/1) lub Artykułu 6:236n holenderskiego Kodeksu Cywilnego.
+Językiem mediacji lub arbitrażu będzie język angielski, chyba że użytkownik nie mówi po angielsku – w takim przypadku mediacja lub arbitraż będą prowadzone zarówno w języku angielskim, jak i w języku narodowym użytkownika.
+Fakt wszczęcia oraz przebieg postępowania mediacyjnego i arbitrażowego, w tym dokumenty oraz pisma przedkładane przez strony, korespondencja z Międzynarodową Izbą Handlową, korespondencja z mediatorem oraz korespondencja, nakazy oraz orzeczenia wystawione przez jedynego arbitra, pozostaną ściśle poufne i nie będą ujawniane żadnej osobie trzeciej bez wyraźnej pisemnej zgody drugiej strony, chyba że: (i) ujawnienie na rzecz osoby trzeciej jest w uzasadnionym zakresie konieczne w kontekście prowadzenia postępowania mediacyjnego lub arbitrażowego; oraz (ii) osoba trzecia zobowiąże się bezwarunkowo na piśmie do przestrzegania zawartego w niniejszej Umowie zobowiązania do zachowania poufności.
+7.
+Inne postanowienia
+Roszczenia dotyczące naruszenia prawa autorskiego.
+Roszczenia dotyczące naruszenia prawa autorskiego należy składać wyznaczonemu przedstawicielowi Uber.
+Adres tego przedstawiciela oraz dodatkowe informacje można znaleźć na stronie internetowej Uber pod adresem https://www.uber.com/legal.
+Powiadomienia.
+Spółka Uber może przesyłać powiadomienia w postaci ogólnego powiadomienia w Usługach, przesyłając wiadomość na adres e-mail użytkownika zapisany w danych Konta lub też zwracając się na piśmie za pośrednictwem tradycyjnej poczty na adres użytkownika zapisany w danych Konta.
+Użytkownik może przesyłać powiadomienia Uber za pośrednictwem poczty tradycyjnej na adres Uber: Mr.
+Treublaan 7, 1097 DP, Amsterdam, Holandia.
+Postanowienia ogólne.
+Użytkownik nie ma prawa przenieść praw ani obowiązków wynikających z niniejszego Regulaminu w całości ani w części bez uzyskania uprzedniej pisemnej zgody Uber.
+Użytkownik udziela Uber zgody na przeniesienie praw i obowiązków wynikających z niniejszego Regulaminu w całości lub w części na: (i) jednostkę stowarzyszoną lub jednostkę zależną; (ii) podmiot przejmujący udziały Uber, jej przedsiębiorstwo lub majątek; lub (iii) następcę na drodze fuzji.
+W wyniku umowy zawartej między Uber i użytkownikiem, jak również w wyniku korzystania z Usług między użytkownikiem, Uber ani żadnym Usługodawcą Zewnętrznym nie powstaje stosunek joint venture, stosunek partnerstwa, stosunek pracy ani stosunek przedstawicielstwa.
+Jeżeli którekolwiek z postanowień niniejszego Regulaminu zostanie uznane za niezgodne z prawem, nieważne lub niewykonalne w całości lub w części, na mocy jakichkolwiek przepisów prawa, tego rodzaju postanowienie lub jego część zostanie w tym zakresie uznane za niestanowiące części niniejszego Regulaminu, natomiast pozostaje to bez uszczerbku dla zgodności z prawem, ważności oraz wykonalności pozostałych postanowień niniejszego Regulaminu.
+W takim przypadku Strony zastąpią niezgodne z prawem, nieważne lub niewykonalne postanowienie lub jego część postanowieniem lub częścią postanowienia, które będzie zgodne z prawem, ważne i wykonalne i które, w maksymalnym możliwym zakresie, będzie miało podobny skutek co niezgodne z prawem, nieważne lub niewykonalne postanowienie lub część postanowienia, uwzględniając treść oraz cel niniejszego Regulaminu.
+Niniejszy Regulamin stanowi całość umowy oraz porozumienia zawartego między stronami w odniesieniu do jej przedmiotu i zastępuje oraz jest nadrzędna względem wszystkich wcześniejszych lub zawartych równolegle umów lub porozumień dotyczących jej przedmiotu.
+W niniejszym Regulaminie sformułowania „w tym” oraz formy słowa „obejmować” oznaczają „w tym w szczególności”.
+https://web.archive.org/web/20200308083549/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=poland&lang=pl

@@ -1,0 +1,110 @@
+Terms of use of websites and communication channels
+June 23, 2016
+Terms of use
+1.
+Admission
+Please read this document (hereinafter the "Terms") carefully as it explains your rights and obligations when using Mozilla websites (hereinafter "Sites") and related channels, social media, newsletters, source code repositories and e-mail messages (together with the Sites, collectively referred to as "Communication Channels").
+By accessing or registering for Communication Channels, you consent to be bound by these Terms.
+Our Sites cover a variety of domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org, and webmaker.org.
+Our sites can also be recognized by names such as Bugzilla @ Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
+Some of our Sites provide you with third-party links, applications, and add-ons subject to separate Terms.
+2.
+Account registration
+Some Sites require account registration in order to access additional features or other Mozilla services.
+In some cases, the User will be presented with additional regulations concerning them.
+You are responsible for all activities related to your account.
+Some Sites allow you to create a username during registration.
+Use of your username must comply with our Fair Use Policy.
+3.
+Content Licensing
+Our communication channels include, among others
+articles, photos, photographs, comments, software code, audio and video clips, and other materials (collectively, "Content").
+Content is written by Mozilla, Mozilla project contributors, and other sources.
+As a rule, Mozilla-authored content is made available to the public for use under an open license, such as Creative Commons (for means of expression) or the Mozilla Public License (for software code).
+In most cases, we ask Mozilla project participants to make Content available under open source licenses.
+However, some of the Content on our Communication Channels comes from sources that prohibit its further use without prior consent.
+Where possible, information on the applicable license can be found in the footer of the Site or in the Content itself.
+The user agrees to be bound by such legal disclaimers.
+Please note that:
+Sometimes the Content clearly indicates that its Author does not intend to use an open license.
+In order to use such Content, you must first contact the author or their representative and obtain their consent.
+Inquiries about Mozilla content can be submitted to licensing@mozilla.org.
+From time to time the Content includes the trademarks, trade marks, logos and brand assets of Mozilla and other companies ("Trademarks").
+Except in a few limited cases, Trademarks may not be used without the prior written consent of the owner.
+Learn more about Mozilla trademarks.
+The software used by the Sites is licensed under MPL or similar open source low restrictive licenses.
+More information on specific licenses can be found in the respective source code or in the GitHub repository.
+4.
+Uploaded Content
+When you interact with our Communication Channels, you may submit your own Content, e.g.
+by commenting on articles, blogging or uploading code, graphics or written material (in each case, "Submissions").
+Unless Submitted Materials are subject to a separate agreement with Mozilla, which will then apply, then:
+For Materials submitted to Mozilla's open source projects:
+You agree to license the Submissions under the terms of the license for the open source project in which you participate.
+More information on specific licenses can be found in the respective source code or in the GitHub repository.
+For all other Submissions, you agree to the following:
+You certify that your Submission complies with these Terms, Mozilla's Terms of Service, and any other additional terms that may apply to the Submission.
+You hereby grant us a nonexclusive, free, worldwide license with the right to sublicense Uploaded Material (to the entities we work with) to use it in connection with the Communication Channel and to promote Mozilla's mission, products and services, both on the Internet and and beyond.
+The User acknowledges that the Submitted Materials may be available to other registered users of the given service or available to the public.
+If the material you are uploading contains any means of expression or software code, you consent to its licensing in accordance with the Site to which you are uploading it.
+You certify that you have all the rights necessary to grant the rights hereby transferred and that the use contemplated under these Terms and Conditions does not infringe the proprietary or intellectual property rights of any third party.
+You acknowledge and agree that Mozilla reserves the right, in its sole discretion, to revise, amend or remove any Submitted Material it deems inappropriate or in breach of these Terms.
+5.
+Privacy Policy and Cookies
+The Website, Communication and Cookie Privacy Policy describes how we treat information received from you in connection with our Communication Channels.
+For example, the privacy policy explains that we place certain cookies on our sites and that you may opt out of receiving them.
+6.
+Communication channels and events
+If you subscribe to our newsletters or register for an account for any of our Sites, you may receive e-mail messages associated with your account (for example, security or legal or privacy updates).
+Some of our Sites contain online tools that allow you to send e-mail to other people.
+The user may e.g.
+invite your contacts to events using your Webmaker account.
+The user undertakes not to misuse other people's e-mail addresses (for example by sending spam).
+Other Sites, e.g.
+MozReps and Webmaker provide tools that allow users to organize events offline for anyone to attend.
+When participating in such events, exercise caution and use common sense.
+7.
+Reports of abuse
+More information on how to make a claim for copyright or trademark infringement can be found here: https://www.mozilla.org/about/legal/report-abuse/.
+8.
+Period of validity; denunciation
+These Terms will continue to apply until terminated by either you or Mozilla.
+You may terminate the contract at any time by ceasing to use Communications and, as the case may be, deleting your account.
+Mozilla may at any time, for any reason, suspend or block your access to the Communication Channel, including if it reasonably suspects that: (i) you have breached these Terms or the Acceptable Use Policy, (ii) you have caused a risk of legal liability Mozilla, or (iii) it is no longer commercially viable to offer you a Communication Channel.
+In all such cases, the Terms will cease to apply.
+However, their provisions in the following sections will remain in force: Assumption of liability, Legal reservations; Limitation of Liability, Other Provisions.
+9.
+Taking responsibility
+You agree to defend Mozilla, its contractors, associates, licensors and partners, and their respective directors, representatives, employees and agents ("Secured Parties"), and assume their liability and indemnify them against any third party claims and expenses. related, including, inter alia,
+remuneration of legal representatives arising from or related to your use of the Communication Channels (including, but not limited to, your uploaded content or your breach of these Terms).
+10.
+Legal reservations; limitations of liability
+THE COMMUNICATION CHANNELS ARE PROVIDED "AS IS", WITH ALL POSSIBLE ERRORS.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, MOZILLA AND PROTECTED PARTIES DISCLAIM ALL WARRANTIES OF COMMUNICATION CHANNELS, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF ABSENCE OF ERRORS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+YOU ASSUME THE ENTIRE RISK AS TO THE USE OF COMMUNICATION TO OWN PURPOSES AND THEIR QUALITY AND PERFORMANCE, BUT NOT LIMITED TO REMOVE OR RISK OF DAMAGE TO USER CONTENT, ACCESS TO THE DATA BY ANY THIRD PARTY, OR USE OR MISUSE MISAPPROPRIATION SENT BY THE MATERIALS BY OTHER USERS.
+THIS LIMITATION IS VALID, REGARDLESS OF MAJORALLY INEFFECTIVE OF ANY REMEDY.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES; IN THAT EVENT, THIS DISCLAIMER MAY NOT APPLY TO YOU.
+EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE PARTIES SECURED SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR DAMAGES PUNITIVE DAMAGES, ARISING FROM THE TERMS AND CONDITIONS OF OR RELATED TO THESE TERMS, YOUR USE OF CHANNEL COMMUNICATION OR INABILITY TO THEIR USE, INCLUDING DIRECT AND including INDIRECT DAMAGES LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, fAILURES AND OTHER COMPUTER EQUIPMENT fAILURES, EVEN IF REPORTED THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE NATURE OF LIABILITY (CONTRACTUAL, TORT OR OTHERWISE) IN WHICH CLAIM based.
+THE COLLECTIVE LIABILITY OF MOZILLA AND THE INSURED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $ 500 (FIVE HUNDRED DOLLARS).
+CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES; IN THAT EVENT, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+11.
+Changes to the provisions of these Terms
+We may update these Terms from time to time, for example to include new features in the Communication Channels or to clarify certain provisions.
+The updated Terms will be posted on the Internet.
+If the changes are significant, we will announce the update through the company's usual channels for this type of announcement, such as blog posts, banners, emails, and forums.
+Your continued use of the Communication Channels after the effective date of such changes is tantamount to your acceptance.
+To help you understand the changes, we will post the effective date at the top of this page.
+12.
+Other provisions
+These Terms constitute the entire agreement between you and Mozilla with respect to Communication Channels and supersede any prior versions of these Terms.
+The Communication Channels and these Terms are governed by the laws of the State of California (United States), excluding its conflict of laws provisions.
+The exclusive courts of law for all claims and disputes arising out of the Communication Channels or these Terms and Conditions are the courts of Santa Clara, California.
+The user consents to the personal jurisdiction of these courts.
+If any part of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+In the event of any discrepancy between the translated version of the Terms and the English version, the English version shall prevail.
+In the event of a conflict between these Terms and any applicable Additional Terms, the Additional Terms shall control.
+13.
+Contact Us
+Mozilla Attn: Mozilla – Legal Notices 331 E.
+Evelyn Ave.,
+Mountain View, CA 94041 United States Phone: 650-903-0800 Fax: 650-903-0875 Legal-notices at mozilla.com

@@ -1,0 +1,305 @@
+Italy: Western Union Money TransferSM Terms and conditions of service
+IT IS IMPORTANT THAT YOU READ AND UNDERSTAND THESE GENERAL CONDITIONS OF CONTRACT BEFORE THE RELEVANT ACCEPTANCE.
+THESE CONDITIONS PROVIDE LIMITATIONS WITH REGARD TO THE SCOPE OF APPLICATION OF OUR OBLIGATIONS TO YOU, AS WELL AS LIMITATIONS AND EXEMPTIONS RELATING TO OUR LIABILITY FOR ANY DAMAGES ARISING FROM THE USE OF THE ONLINE MONEY TRANSFER SERVICE.
+THESE PROVISIONS ARE HIGHLIGHTED IN BOLD.
+The following definitions apply to these General Terms and Conditions:
+to. "Card" means a Visa® or MasterCard® credit card, or a debit card;
+b. “Business day” refers to a day which is not a Saturday or Sunday and on which banks are open for normal business in Vienna;
+c. "Card Issuer" means the issuer as well as the holder of the Card;
+d. "Payment Method" means the options available to the Sender to finance a money transfer through the Western Union On Line Service, which may vary from country to country and may include debit card, credit card, bank account and other methods of payment;
+And. "Prohibited Purpose" means any purpose contrary to the law, such as making or receiving payments related to gambling, chips or gaming credits, making payments to yourself as a Beneficiary in order to prove your financial strength (i.e.
+RISK OF FRAUD); o create one or more profiles, transmit or receive money on behalf of third parties;
+f. "Beneficiary" means the person designated as the recipient of the money remittance (regardless of whether the remittance is made by the Sender through the Western Union On Line Service or by a different person through another Western Union Money Transfer service);
+g. "Sender" indicates the person who carried out the Money Transfer operation through the Western Union On Line Service;
+h. "Transaction" means any remittance of money made through the Western Union On Line Service;
+the. "Western Union", "We", or "Our" means Western Union International Bank GmbH and Western Union International Limited; the provisions referred to in Article 9 of the contractual conditions, as well as the references to "our negligent or fraudulent conduct" also refer to all associated companies or agents, to the extent that these subjects carry out activities that otherwise would have been made by Western Union for the purpose of providing the Western Union On Line Service;
+j. "Western Union Online Service" means the money transfer services (Money Transfer) provided by Western Union through the Western Union website or the Western Union mobile application;
+k. "Western Union Internet Site" or "Site" means the Internet Site used to provide money remittance services and the Western Union mobile application; And
+L. "You" or "Your" means any person who uses the Western Union Internet Site as the Sender.
+1.
+WHO WE ARE
+1.1.
+The Western Union® On Line Service is provided by Western Union International Bank GmbH (“WUIB”) together with Western Union International Limited.
+WUIB is a limited liability company incorporated under Austrian law, with its registered office in THE ICON VIENNA (Tower 24), Wiedner Gürtel 13, A-1100 Vienna, registered in the commercial register held by the Vienna Chamber of Commerce, with number 256187t. The Data Processing Registration Number (EDP) is 2111221.
+Western Union International Limited is a company incorporated under Irish law (company registration number: TO372428) with its registered office at Richview Office Park, Unit 9, Clonskeagh, Dublin 14, Ireland.
+1.2. .
+Customers can obtain information relating to the addresses and operating hours of agents and local sales points by calling the number: 800 789 124.
+You can also contact WUIB at the following telephone number (free from Italy): +322 639 7065; or to the email address Italy.Customer@westernunion.it.
+1.3.
+WUIB is supervised by the Austrian Financial Markets Authority [Finanzmarktaufsicht] ("Financial Market Supervisory Authority"), based in Otto-Wagner-Platz 5, 1090 Vienna, telephone number +43 1 249 59.
+Further information on the Financial Market Supervisory Authority is available by consulting the website www.fma.gv.at.
+2.
+OUR SERVICES
+2.1.
+The Western Union On Line Service offers national and international money transfer services.
+To use the Western Union On Line Service, you must be at least 18 years old and have the usual residence in Italy.
+Each Money Transfer Operation is assigned an identification code, the Money Transfer Control Number or "MTCN".
+2.2.
+By filling in and approving the information required to carry out a Money Transfer Operation as well as accepting these General Terms and Conditions, the Sender orders WUIB to perform a specific Money Transfer operation.
+Each single money remittance order constitutes a single contract between WUIB and the Sender, limited to the execution of a specific Money Transfer operation.
+In no case, the single order determines the stipulation of a framework contract, obliging us, in this way, to carry out single and subsequent money remittance operations.
+The Sender must inform the Beneficiary of the operation.
+2.3. .
+In compliance with legal and regulatory obligations, we undertake to make the transferred sums available to the Beneficiary for collection, at the latest by the end of the business day following the one on which they were received ("Receipt Day").
+The moment of receipt coincides with that in which Western Union receives the sums to be transferred and the related commissions.
+For transfers ordered in paper form, the period is extended by an additional business day.
+2.4.
+For money remittances (i) made to a non-EEA State or (ii) subject to multiple currency exchanges between the Euro and a different currency of a Member State of the European Union or of a State belonging to the EEA or (iii) not collected in Euros, the sums transferred are made available to the Beneficiary for collection at the latest at the end of the fourth day following the Receipt Day.
+2.5.
+In the case of "ordinary" money remittances, the sums are generally made available to the Beneficiary for collection within a few minutes, based on the working hours of each Western Union point of sale.
+In some countries the Money Transfer service may be delayed or subject to further restrictions.
+For more information, please contact the toll-free number indicated in point 1.2 of these General Terms and Conditions.
+2.6.
+The Western Union On Line Service offers various options for the collection of sums, including the availability of cash at an agent, direct sending to a bank account or to a mobile phone, if available.
+Where the sums are to be paid in cash, the Beneficiary is required to provide adequate proof of their identity, in addition to all the details of the transaction required by Western Union in relation to the remittance of money, specifically the name of the Sender, the State of origin of the sums transferred, the name of the Beneficiary, the approximate amount of said sums, as well as any other conditions or requirements, such as the MTCN, which are mandatory for the local agent of Western Union so that the sums transferred can be collected.
+The payment of the sums is made in favor of the Beneficiary whom Western Union or one of its agents deem entitled to collect the amounts transferred, following the control of the relevant identity documents.
+Payments may be made even if the data provided by the Beneficiary and relating to the operation contain minor errors.
+Neither Western Union nor its agents compare the contact details of the Beneficiary.
+In some points of sale, the Beneficiary may be required to provide proof of his identity and / or to answer questionnaires for the collection of the sums.
+These questionnaires, banned in some countries, do not constitute an additional security measure and cannot be used to determine or postpone the payment of a money remittance.
+For transactions to a bank account or mobile phone, Western Union will transfer the sums using the bank details provided by the Sender.
+In the event of a mismatch between the holder of the account number (including mobile phone numbers for telephone accounts) and the name of the indicated Beneficiary, the transaction will be credited to the account number indicated by the Sender.
+2.7.
+As regards money transfer services, current law prohibits operators from having business relationships with certain individuals or countries; WUIB is therefore required to monitor all transactions, comparing them with the lists of names provided by the governments of the countries and territories in which we operate, including the Office of Foreign Assets Control (OFAC) of the US Treasury Department and the European Union. .
+Should a potential match emerge, Western Union will analyze the transaction to determine if the identified name actually corresponds to the person identified in the relevant list.
+To this end, Western Union is entitled to request from the Sender or the designated Beneficiary further details relating to the operation, as well as proof of their identity, resulting in a possible delay in the execution of the operation.
+The foregoing constitutes a legal obligation for all transactions carried out by Western Union (including remittances to and from outside the United States).
+2.8.
+Fees for remittance: information is available on the Western Union website on how Western Union charges the Sender for the cost of remitting money.
+This information can be consulted by the Sender before completing the transfer order.
+The specific remittance fees are listed in the "Send Money Online" section on www.westernunion.com.
+Just select the country of destination, enter the amount to be transferred and click on "Calculate".
+The Sender calculates the total amount of the fees necessary to complete the money remittance, unless the applicable law of the destination country provides otherwise.
+The Beneficiary may be charged additional fees for receiving the sums transferred by the Sender through the ABMT (Account Based Money Transfer) service, mobile phone or through a bank account.
+Money remittances should be made to an account denominated in the local currency (of the Beneficiary), otherwise the receiving institution (where the Beneficiary has its current account) can convert the amounts at its own exchange rate, or refuse the remittance of money.
+The agreement between the Beneficiary and its mobile phone service provider, the MWallet account manager or other provider governs the account and determines the rights, obligations, applicable commissions, available sums and limitations.
+In the event of a mismatch between the holder of the account number (including mobile phone numbers for telephone accounts) and the name of the indicated Beneficiary, the transaction will be credited to the account number indicated by the Sender.
+Western Union may charge additional fees in connection with the use of an account to send and receive money.
+Western Union assumes no responsibility for costs incurred by the Sender or any other account holder in conjunction with exchange rates used for conversion into currencies other than the local currency or for actions or omissions attributable to the final or intermediate financial service provider. .
+2.9.
+Currency exchange
+a.Money remittance is normally made in the currency of the destination country (in some states, payment can only be made in an alternative currency).
+Currency exchanges are carried out at the current exchange rate applied by Western Union.
+Western Union calculates its exchange rate based on the interbank market rates, with the application of a margin.
+Many exchange rates are adjusted several times a day, in line with the closing rates of global financial markets.
+The exchange rate for money remittances is indicated on the website www.westernunion.com by selecting the destination country in the "Send money online" section, entering the amount to be transferred and, finally, clicking on "Calculate".
+b. The currency will be converted at the time of remittance and the Beneficiary will receive the amount in foreign currency indicated during the transfer procedure.
+In some countries, however, local regulation requires that money remittances are converted only at the time of liquidation.
+If the Sender transfers money to one of these countries, the exchange rate indicated above is only an estimate, while the actual rate applied will be determined at the time of payment.
+Western Union agents may offer the Beneficiary the opportunity to receive the sums in a currency other than that selected by the Sender.
+In this case, Western Union (or its agents, mobile phone service provider or account manager) may withhold an additional amount if the sums transferred by the Sender are converted into the currency selected by the Beneficiary.
+If the Sender selects a currency other than the national currency of the destination country, the chosen payment currency may not be available at all points of sale in that state or may not be available in small denominations sufficient for the execution of the entire money remittance.
+In such cases, the agent can carry out all or part of the remittance of money in the national currency.
+Western Union's exchange rate may be less favorable than some published market rates used in transactions between banks and other financial institutions.
+Any discrepancy between the exchange rate applied to customers and the rate applied to Western Union is withheld by Western Union (and, in some cases, by its agents, the mobile phone service provider or the account manager) in addition to the remittance fees.
+Further information on exchange rates relating to specific destination countries can be obtained by contacting the toll-free number indicated below or by consulting our website.
+2.10.
+SMS - In some countries, Western Union offers a free SMS notification to confirm (to the Sender) the receipt by the Beneficiary of the amounts subject to remittance or the availability of the amounts for collection (by the Beneficiary).
+The charges applied by the telephone company are the sole responsibility of the Sender or the Beneficiary.
+Western Union is not responsible for any charges associated with SMS notifications.
+If permitted by applicable law, SMS notifications are sent to the mobile number provided by the Sender and / or the Beneficiary at the time of the transaction.
+Western Union will send SMS notifications to a gateway for forwarding, which in any case remains the responsibility of third parties and cannot be guaranteed by Western Union.
+Western Union is not responsible for technical malfunctions that do not affect its proprietary systems.
+3.
+WESTERN UNION'S LIABILITY TO USERS OF THE SERVICE
+3.1.
+We declare our commitment to provide you with the money transfer service and the information relating thereto in accordance with these General Terms and Conditions in the form of individual payments and to perform due diligence.
+3.2.
+We are not obligated to accept any execution order for any transaction and we will not be liable in any way for refusing to execute such order or for having withdrawn, ceased or in any way limited our services to you.
+However, these Terms and Conditions apply to any order we choose to accept.
+3.3.
+We assume no liability for:
+to. goods or services paid for using the Western Union On Line Service, and in particular for their delivery.
+b. malfunctions of communication tools that cannot be considered dependent on Western Union;
+c. any loss or delay in the transmission of messages resulting from the use of Internet access service providers or caused by a browser or software not subject to Western Union control;
+d. the services provided by the Card Issuer;
+And. viruses originating from third parties;
+f. errors on the Western Union website or the Western Union Online Service deriving from incorrect or incomplete information provided by yourself or by a third party;
+g. any unauthorized use or interception of any message or information before it reaches the Website; or
+h. any unauthorized use or access to your personal data or data relating to your Transaction processed by Western Union, unless such use or access is attributable to the negligence of Western Union.
+3.4.
+Without prejudice to any previous agreement regarding the initiation of a money transfer, we undertake no obligation towards you in relation to the initiation or execution of the money remittance if:
+to. we were unable to obtain satisfactory proof of his identity;
+b. we have reason to believe that the information on the Transaction is incorrect, authorized or falsified;
+c. provides us with incorrect or incomplete information or if the information relating to the Transaction was not given to us sufficiently in advance to be able to promptly finalize the execution of the money remittance; that is to say
+d. the Card Issuer does not authorize the use of this card for the payment of the Transaction and related commissions.
+Our liability is also excluded for damages deriving from the non-payment or delayed payment of a money remittance in favor of a Beneficiary, except for Our obligation pursuant to point 8 or if the Western Union On Line Service fails to perform a Transaction in consequence of one of the events listed above.
+3.5.
+We are allowed to refuse the provision of the Western Union Online Service in whole or in part if the use of the service involves a violation of the Western Union Policies (including the Policies relating to the prevention of fraud, money laundering or terrorist financing). and / or applicable law, a judicial decision or other obligation imposed by a supervisory or governmental authority, or any other body having jurisdiction over Us, if we deem it necessary for the protection of our interests.
+In the event that we refuse to provide you with the Western Union Online Service (in whole or in part) for one of the above reasons, we will notify you as soon as possible and, unless prohibited by law, we will provide you with the reasons. of this refusal.
+3.6.
+We are allowed to suspend, in whole or in part, the operation of the Western Union Internet Site or the Western Union On Line Service, if circumstances beyond our control force us to make such a decision ("Circumstances outside of Our control "), which We therefore deem appropriate.
+In the event that the services provided by the Western Union Internet Site or the Western Union On Line Service must be interrupted for any reason (attributable to us, to third party suppliers or otherwise), we undertake to take all appropriate measures to contain the duration of the interruption as soon as possible.
+3.7.
+We will typically carry out communications via the Internet and by email.
+This does not affect your right to contact us by other means (see Article 1.2), if circumstances require it.
+4.
+USERS RESPONSIBILITY TOWARDS WESTERN UNION
+4.1.
+You declare to pay Western Union the commissions due (see article 2.8 above) for each money transfer operation carried out through the Western Union On Line Service.
+4.2.
+As a user, you are required to pay the amount subject to the remittance plus our commissions through a credit card or bank account (to the extent that WUIB allows a money transfer from an account).
+Before carrying out the money transfer or any other operation, you authorize the issuer of your card to pay the amount of the money remittance and related commissions.
+We will notify you of the total amount that will be charged to your credit card or bank account before the final authorization for the operation.
+4.3.
+You agree and acknowledge that:
+to. the information provided for the purpose of making an online money transfer is true, accurate, up-to-date and complete;
+b. the data of the Transaction (the amount, the name, the country, the name of the Beneficiary, the MTCN) must be shared only with the Beneficiary.
+It is obliged to ensure that unauthorized third parties cannot access the aforementioned information.
+It is also recommended that money transfer operations are addressed to beneficiaries personally known by the Sender;
+c. the Western Union Online Service is not used for illegal purposes;
+d. the Western Union Online Service is not used for Prohibited Purposes;
+And. as part of the Western Union Online Service, no request is made to proceed with Transactions in violation of these General Contract Conditions or other restrictions on the Western Union Website; And
+f. is personally responsible for protecting your password and username, pursuant to the provisions of article 6 below.
+4.4.
+In the event of loss, theft, reproduction, incorrect or unauthorized use of the data relating to the Transaction (see Article 4.3, lett.
+b), above), if you believe that the Operation has been carried out without your consent, has not been carried out or has not been carried out correctly, you must contact the number +322 639 7065 or 800 789 124 (free from Italy) and notify us immediately as soon as you become aware of such events.
+We will investigate the matter later.
+4.5.
+You accept and declare that we are allowed to forward information about you or the services provided to you if requested by a government or supervisory authority or their bodies in the event that:
+to. we were obliged to do so by law; or
+b. we believe that such disclosure could prevent the crime of fraud, money laundering or other crimes.
+5.
+CUSTOMER CARE
+Should you find errors or other problems on the Western Union website or in the operation of the Western Union Online Service, please contact the e-mail address or telephone number listed in Article 1.2.
+or write to us at:
+Western Union Italy
+Lithuania UAB
+J. Balcikonio Str 3,
+Vilnius, Lithuania LT-08247.
+6.
+PASSWORD AND SECURITY
+Before the first money remittance order is placed, you will be asked to provide a password and an e-mail address to use as your username.
+The password and username must not be used by third parties.
+You are responsible for the confidentiality of your password and username, as well as for any transactions carried out using your password and username.
+THE PASSWORD CAN NEVER BE SHARED WITH ANYONE NOR TRANSCRIBED.
+You agree to immediately notify us of any unauthorized use of your password or username or any other breach of security measures by calling +43 800 29 6544 by phone.
+Once we have notified the unauthorized use of your password or username, we will take all necessary measures to prevent further use of this information.
+We will notify you of such measures promptly after taking them and provide reasons for them, unless we are prevented from doing so for legal reasons.
+However, this does not expose us to liability for any loss and damage resulting from your failure to comply with the above duties.
+In any case, your right to a refund or credit of a certain amount by the Issuer is reserved, if your card or bank account is used fraudulently.
+7.
+DISCLOSURE OF INFORMATION TO THIRD PARTIES
+7.1.
+Western Union will use and process your personal data in the manner described in our privacy policy and with your explicit consent.
+For the privacy policy, click here.
+We have the right to amend our privacy policy at any time
+7.2.
+This declaration constitutes an express waiver of banking secrecy, in accordance with section 38 of the Austrian credit system law.
+This consent can be revoked at any time in writing by sending a specific letter to the address of WUIB referred to in Article 1.1 or by e-mail to the address given in Article 1.2.
+7.3.
+We reserve the right to verify the information you provide.
+For credit ratings, obtained on the basis of mathematical-statistical methodologies, Western Union turns to Deltavista GmbH, Diefenbachgasse 35, 1150 Vienna or other service providers appointed by us in order to verify customer data, with the exception of information credit.
+You are allowed to withdraw this consent at any time.
+8.
+RESPONSIBILITY
+A. Unauthorized Operations
+8.1.
+We may be held liable to you in the event that you carry out a Transaction that you have not authorized us to perform.
+Unless you are not liable under Articles 8.2 or 8.3 for a Transaction which you have not authorized, we will refund the relevant amount promptly, at the latest by the end of the business day following the day on which it was notified to us. the Transaction in question is unauthorized or we have otherwise become aware of it.
+Furthermore, we will not claim any reimbursement of Our expenses against you.
+In the event that there are reasonable indications of fraudulent activity on your part, our refund obligation will be suspended, pending further investigations, which will be undertaken promptly.
+8.2.
+He may be held liable up to the maximum amount of EUR 50 for losses that:
+to. result from unauthorized operations resulting from the use of lost, stolen or otherwise missing data relating to the operations (see paragraph 4.3.b above); or
+b. result from your misuse of transaction data.
+8.3.
+We will not hold you liable under paragraph 8.2 if it has not been possible for you to detect such loss, theft or misuse of Transaction data or if the loss of such data was caused by an employee or auxiliary agent acting on Our behalf. , one of our subsidiaries or another external service provider appointed by Us.
+8.4.
+Liability for losses arising from an unauthorized Transaction will not be limited to a maximum amount of EUR 50 as indicated in paragraph 8.2 if the User has acted with fraudulent intent or contributed to the misuse of the Transaction data intentionally or for gross negligence.
+In these cases, you are responsible for all losses caused by any unauthorized Transactions.
+In particular, gross negligence includes, by way of example and not limited to, cases in which you do not promptly notify us of the loss of the Transaction data or do not keep them safe or disclose them to third parties.
+8.5.
+Unless you have acted with fraudulent intent, you are not liable to us:
+to. for losses resulting from unauthorized use of the Transaction data that occur after our receipt of a notification pursuant to paragraph 4.4; or
+b. if we did not ensure that our contacts were available to you for the purpose of the notification referred to in paragraph 4.4.
+B. Failure to perform operations or operations not performed correctly
+8.6.
+We may be held liable to you in the event of failure or incorrect execution of an Operation that you authorize us to perform, unless this is due to your fault.
+The user's fault includes, but is not limited to, the reasons listed in Section 4.3 above.
+This means that in the event of a Transaction not executed or executed incorrectly, we will refund the relative amount (to the extent that the Transaction has not been executed or has been performed incorrectly).
+You have the right to request reimbursement of all expenses and interest to the extent that they have been charged or incurred in connection with the non-execution or incorrect execution of a Transaction.
+8.7.
+To the extent that fees have been charged to a Transaction not executed or incorrectly executed by Us or an intermediary agency and have been deducted from the Recipient's amount as part of such Transaction, we will immediately transfer the amounts charged in connection with such fees.
+8.8.
+Any liability otherwise due to you under section 8.6 is excluded if:
+to. we are able to demonstrate that the amount of the Transaction was received at the appropriate time by the payment service provider of the Recipient; or
+b. for the purposes of paragraph 8.6, a Transaction is considered to have been carried out correctly if we are able to demonstrate that it took place in accordance with the information on the Transaction provided by you.
+If you have provided us with incorrect data for this execution, you may ask us to assist you in recovering the money.
+We cannot guarantee the success of such attempts.
+We reserve the right to charge you a fee to cover any reasonable costs we may incur.
+C. Disclaimer
+8.9.
+Any liability otherwise due to you pursuant to articles 8.1 or 8.6 is excluded in the event that you do not notify us of an unauthorized or incorrectly executed Operation within 13 months from the date of execution.
+8.10.
+Furthermore, we will not be liable pursuant to Article 8 in the event of non-execution or incorrect execution of the Transaction by us, where this is due to Events beyond Our control or to Our statutory obligations.
+8.11.
+We assume no responsibility if the unauthorized or incorrectly executed Transaction is performed by third parties or between third parties that you have indicated before We received your payment for the transfer or for any other Transaction.
+It is necessary to promptly contact the interested third party and inform them of the circumstances of the unauthorized or incorrectly performed Operation.
+8.12.
+We accept no liability for damages due to unusual and unpredictable events over which Western Union has no control and the consequences of which, despite due care, Western Union could not have avoided (caused, for example, by events outside our control, failure of telecommunication lines, civil unrest, wars or other events such as industrial or lock-out actions over which we have no control).
+This also applies to cases in which Western Union is bound by an order of another type under Community law or a national, judicial or administrative order.
+8.13.
+We do not in any way exclude or limit our liability to you where this is unlawful.
+This includes liability for death or personal injury caused by our negligence, for fraud or fraudulent misrepresentation, or for the violation of your legal rights in the event that it would be illegal to exclude or limit such rights in connection with the Western Union On Line Service.
+8.14.
+Except in cases of willful misconduct, gross negligence, death or personal injury, you do not agree that a Western Union affiliate will be subject to any duty of care towards you if such affiliate undertakes duties which otherwise would have to be performed by Western Union in accordance with the contractual relationship entered into with you.
+8.15.
+You are not liable to Western Union, nor is Western Union liable to you for any damage caused by the proper exercise of your rights under these General Terms and Conditions or by the use of the Western Union Online Service.
+9.
+INTELLECTUAL PROPERTY
+The Western Union Website and the Western Union Online Service, their content, related intellectual property rights (including copyrights, patents, database rights, registered trademarks and service marks) belong to Western Union, to its affiliates or third parties.
+All rights connected to the Western Union Website or to the Western Union Online Service remain our property and / or the property of third parties.
+The Western Union Website, as well as the Western Union Online Service, must be used only for the purposes permitted by these General Contract Conditions or as provided by the Website itself.
+You are entitled to view and save copies of the pages of the Western Union website for personal use only.
+In the absence of Our express written approval, however, you are not entitled to create a copy, publish or modify the Western Union Internet Site, the Western Union On Line Service or parts of them, or to create "derivative works" or to participate in their transfer or sale or their publication on the Web or to use them in any other way for commercial or public purposes.
+It is also not entitled to: (a) use robots, spiders, scrapers or other automated programs to access the Western Union Website or the Western Union On Line Service, and / or (b) delete or modify information relating to copyrights , trademarks and other information relating to intellectual property rights published on the Western Union Website (or printed pages of the Website).
+The Western Union name and all other names, as well as proprietary indications of the products and / or services mentioned on the Western Union website are exclusive brands of Western Union or other third parties.
+The names of other products, services or companies that appear on the Site are considered trademarks of their respective owners.
+10.
+LINKS TO OTHER INTERNET SITES
+The Western Union Internet Site may contain links and references to other Internet Sites ("Links").
+The links to these Links do not constitute acceptance by us or by our associates to the contents of the sites of third parties.
+Such links do not imply that Western Union is associated or affiliated with any third party or that it is formally authorized to use its trademark, trade name, logo or copyrighted symbol displayed or accessible through a link, or that such Links are authorized to use the Western Union trademark, trade name, logo, copyrighted symbol.
+Any problem concerning the aforementioned Links should be addressed to the administrators or webmasters of the same.
+Western Union does not represent or confirm the accuracy and reliability of such Links, and expressly disclaims any opinion, opinion, statement or other information displayed or otherwise available through the Links.
+You hereby declare that you assume all risks arising from reliance on the recommendations, judgments, statements or other information displayed or otherwise available through these Links.
+11.
+RIGHT TO WITHDRAW OR CANCEL THE MONEY TRANSFER OR TO WITHDRAW THESE GENERAL CONDITIONS OF CONTRACT
+11.1.
+You have the right to revoke a money remittance made through the Western Union website within 14 days from the order date.
+The withdrawal must be communicated expressly, in writing by e-mail or letter.
+However, the right of withdrawal does not apply if Western Union has already paid the sums to the Beneficiary before having received its notification.
+In exercising its right of withdrawal before paying the sums to the Beneficiary, Western Union will refund the amount subject to the remittance without charging any commission.
+11.2.
+You can revoke a money remittance in writing, by letter or e-mail, provided Western Union has not yet paid the sums to the Beneficiary before receiving its notice of termination.
+In this case we will refund the amount subject to the money remittance at the Western Union exchange rate valid at the time of the return and, in any case, at least at the nominal value of the amount, to the extent that the sums have not been paid. to the Beneficiary within 45 days.
+The remittance fees, in this case, will not be refunded.
+If the sums are not made available for collection by the Beneficiary within three working days, in the event of a notification of its termination for just cause, we will refund the amount subject to the remittance, including commissions (subject to the limits of law and regulations).
+12.
+AGREEMENT
+These General Terms and Conditions, together with the other contractual clauses to which these General Terms and Conditions refer, constitute the contract between you and Us and replace any previous agreement that may exist.
+13.
+SAFEGUARD CLAUSE
+If one or several of the provisions to these Terms and Conditions are invalid, unlawful or unenforceable, then this does not affect the validity of the remaining provisions.
+If one or more of the provisions contained in these General Terms and Conditions are invalid, illegal or unenforceable, this does not affect the validity of the remaining provisions.
+14.
+COMPLAINTS, APPLICABLE LAW AND JURISDICTION
+14.1.
+If you are not satisfied with our service under these General Terms and Conditions, you can make a written complaint by contacting the contacts published on https://www.westernunion.com/it/. We will do our best to deal with your complaint at the earliest opportunity and will send you a definitive response letter within 15 Business Days of receiving your complaint.
+In exceptional circumstances, we will send you an interim response within 15 business days, specifying the deadline by which you will receive your final response, which must not exceed 35 business days from the date of your initial complaint.
+If you do not receive our final answer or are not satisfied with it, you can directly contact the Joint Conciliation Committee of the Austrian Banking Sector (Gemeinsame Schlichtungsstelle der österreichischen Kreditwirtschaft), Wiedner Hauptstraße 63, 1045 Vienna.
+You also have the possibility to assert your rights before the competent courts of general jurisdiction.
+Alternatively, you can use online dispute resolution ("ODR").
+The ODR offers an out-of-court solution to disputes related to online transactions: http://ec.europa.eu/consumers/odr/
+14.2.
+These General Conditions are governed by Austrian law, with the exception of the conflict of laws rules.
+The place of performance is Vienna.
+If you are a consumer resident in Italy, you will also benefit from all the mandatory provisions of the Italian consumer protection law.
+14.3.
+The Court of Vienna, Innere Stand (1st district), is competent in relation to agreements not concluded with consumers, according to Section 1 of the Austrian Law on the Protection of Consumer Rights (KSchG).
+If you are a consumer, you can take legal action in relation to claims or disputes (including non-contractual claims or disputes) arising from or related to these Terms and Conditions both in the courts of your habitual residence and in the Austrian courts.
+If you are a consumer, the Company will take legal action against you in the court of your habitual residence, habitual residence or place of employment.
+14.4.
+ITALIAN CIVIL CODE
+In accordance with the provisions of Art. 1341 and 1342 of the Italian Civil Code, the parties expressly approve the provisions referred to in point 2 (Our services), 3 (Liability of Western Union towards users of the service), 4 (Liability of users towards Western Union), 5 ( Customer service), 6 (Password and security), 7 (Disclosure of information to third parties), 8 (Liability), 11 (Right to revoke or cancel the Money Transfer or to withdraw from these General Terms and Conditions), 12 (Agreement) , 13 (Safeguard clauses), 14 (Complaints, applicable law and competent court) of this Agreement.

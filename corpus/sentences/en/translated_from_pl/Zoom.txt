@@ -1,0 +1,264 @@
+TERMS AND CONDITIONS FOR PROVIDING ZOOM SERVICES
+EFFECTIVE DATE: April 13, 2022
+IMPORTANT, READ CAREFULLY: YOUR USE OF AND ACCESS TO ZOOM VIDEO COMMUNICATIONS, INC. WEBSITE, PRODUCTS AND SERVICES, AND RELATED SOFTWARE.
+AND ITS AFFILIATES ("ZOOM") IS CONDITIONED BY YOUR COMPLIANCE WITH AND ACCEPTANCE OF THESE TERMS, WHICH INCLUDE THE AGREEMENT TO ARBITRATE CLAIMS.
+PLEASE READ CAREFULLY BEFORE ACCEPTING.
+BY CLICKING / SELECTING THE "I AGREE" BUTTON / BUTTON BY ACCESSING THE ZOOM SITE OR BY USING THE ZOOM SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS "AND" INCLUDING ANY ORDERS "AND SUBMITTING CLAIMS.
+ZOOM SERVICES ARE NOT AVAILABLE TO PERSONS WHO ARE NOT LEGALLY LICENSED TO BE BOUND BY THESE TERMS OF SERVICE.
+Zoom will provide the Services, and you may access and use the Services in accordance with this Agreement.
+Zoom may provide services under this Agreement through its Affiliates.
+If the User orders the Services via the online registration page or the order form (hereinafter "Order Form"), the Order Form may contain additional terms and information regarding the ordered Services.
+Unless expressly provided otherwise by such additional terms applicable to the specific Service you choose to use, these additional terms are hereby incorporated into this Agreement with respect to your use of that Service.
+System requirements.
+Use of the Services requires one or more compatible devices, internet access (fees may apply), and certain software (fees may apply), and may require the receipt of updates or upgrades from time to time.
+Because use of the Services requires hardware, software, and Internet access, these factors may affect your ability to access and use the Services.
+High-speed internet access is recommended.
+You acknowledge and agree that it is your responsibility to provide for such system requirements, which may vary.
+DEFINITIONS.
+The following definitions will apply to this Agreement and any reference to the singular includes any reference to the plural and vice versa.
+Definitions for specific Services can be found in the Service Description at https://explore.zoom.us/en/services-description/.
+"Affiliate" means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with that Party.
+For the purposes of this Agreement, "control" means an economic interest or voting right of at least fifty percent (50%) or, in the absence of such economic interest or voting right, the right to direct or cause to direct the management and policy making of such entity.
+"End User" means an Operator or Participant (as defined in the Service Description) who uses the Services.
+"Initial Subscription Period" means the initial subscription period for the Service as set out in the Order Form.
+"Service Effective Date" means the start date of the Initial Subscription Period as set out in the Order Form.
+"Renewal Period" means the renewal period for a subscription to the Service which commences after the end of the Initial Subscription Period or any other Renewal Period set out in the Order Form.
+"Taxes and Charges" and "Taxes or Charges" mean all applicable sales taxes, use taxes, environmental or regulatory taxes, VAT, fees (including customs duties), bills and surcharges, or charges imposed on the provision of the Services to the Customer (except excluding income tax imposed on Zoom).
+"VAT" means value added tax and any other tax of a similar nature, whether or not levied in a Member State of the European Union in place of or in addition to such tax or elsewhere, value added tax (GST), tax PIS / COFINS or a similar indirect tax or any similar Tax levied in connection with or related to the Services provided to the Customer by Zoom.
+"User Data" means the information provided to Zoom in order for Zoom to comply with the terms of the Agreement and to provide access to the Services (e.g.
+company name, invoice address, taxpayer identification number, tax registration number, name and details of the contact person).
+The User is solely responsible for the accuracy of the User Data, and Zoom is not responsible for any errors or omissions in the User Data.
+SERVICES.
+Zoom will provide the Services as described in the Order Form and will provide standard updates to the Services which will be made available to general public by Zoom during the term of the Agreement.
+Zoom may, at its sole discretion, stop providing the Services or modify functionality without prior notice.
+Beta services.
+Zoom may, from time to time, offer access to services which have been identified as a Beta release.
+Access to and use of the Beta versions may be subject to additional agreements.
+Zoom does not guarantee that the Beta will ever be generally available and reserves the right to discontinue or modify the Beta at any time without notice.
+Beta versions are provided "AS IS", may contain bugs, errors, or other defects and use of the Beta version is at your sole risk.
+USE OF THE SERVICES AND YOUR DUTIES.
+Use of the Services may only take place in accordance with the terms of this Agreement.
+You are solely responsible for your and your End Users' use of the Services, and you must comply with and comply with all laws relating to your and each End User use of the Services, including, but not limited to, recording, intellectual property, and intellectual property laws, privacy and export control.
+Use of the Services is excluded where prohibited.
+Registration information.
+You may be required to provide personal information in order to register and / or use certain Services.
+You agree that any such information should be accurate.
+You may also be asked to choose a username and password.
+You are solely responsible for keeping your username and password secure and agree not to disclose them to third parties.
+Your content.
+You acknowledge that you are solely responsible for the content ("Content") posted or transmitted by the User, or displayed or posted by the User when using the Services, and for compliance with all Content Laws, including, without limitation,
+rights that require you to obtain the consent of a third party to use the Content and to provide appropriate notices of third party rights.
+You represent and warrant that you have the right to submit Content to Zoom and that such use does not infringe or infringe any third party rights.
+Under no circumstances will Zoom be liable for (a) Content uploaded or viewed while using the Services, (b) errors or omissions in Content, or (c) any loss or damage arising from the use, access, or denial of Content.
+Although Zoom is not responsible for the Content, it may remove any Content, at any time without notice, if Zoom learns that it violates any provision of this Agreement or the law.
+You retain the copyright and any other rights you already own in Content that you submit, post, or display on or through the Services.
+Recordings.
+The user is responsible for compliance with all recording laws.
+The facilitator can choose to record Zoom meetings and Video Webinars.
+By using the Services, you give Zoom permission to store recordings from any or all Zoom meetings or webinars they join, if such recordings are stored on our systems.
+You will receive a notification (visual or otherwise) when recording is triggered.
+If you do not agree to the recording, you can leave the meeting or the webinar
+Prohibited Use.
+You acknowledge that you will not use or permit any End User to use the Services to: (i) modify, disassemble, decompile, prepare derivative works, reverse engineer or otherwise attempt to access the source code of the Services; (ii) knowingly or resulting from neglect to use the Services in a manner that abuses, interferes with or disrupts the operation of the Zoom network, User accounts or the Services; (iii) engaging in any activity that is illegal, fraudulent, false or misleading; (iv) upload through the Services any material that may infringe the intellectual property or other rights of third parties; (v) building or comparing competing products or services, or copying any features, functionality or graphics of the Services; or (vi) use the Services to transmit any message or material that is harassing, defamatory, threatening, obscene, indecent, infringes the intellectual property rights of any party, or is otherwise unlawful that could result in you being held liable civil law or which constitute or encourage conduct that could constitute a criminal offense under applicable law or regulations; (vii) uploading or transferring any software, Content or code that damages, disables, destroys or adversely affects the operation of the Services in any way, or which damages in any way or is intended to extract information or data from other hardware, software or networks Zoom or other users of the Services; (viii) engaging in any activity or use of the Services in any way that might damage, disable, overload, impair or otherwise disrupt the operation of the Services, servers or networks connected to the Services or Zoom's security systems. (
+ix) use the Services in violation of Zoom's rules or in violation of applicable law, including, but not limited to, anti-spam, export control, privacy, anti-terror laws and regulations, and rights requiring the consent of persons affected by voice and video recordings, and you agree, that they are solely responsible for compliance with all such laws and regulations.
+Use Restrictions.
+You may not reproduce, resell, or distribute the Services or any reports or data generated by the Services for any purpose, unless specifically authorized to do so under a separate agreement with Zoom.
+You may not offer or enable third parties to use the Services you have purchased, display on any website or otherwise publish the Services or any Content obtained from the Service (other than Content you have created), or otherwise generate income. from the Services, or to use the Services to develop, produce, or market services or products essentially similar to the Services.
+RESPONSIBILITY FOR END USERS.
+You are responsible for the actions of all End Users who access or use the Services through their account and agree to ensure that any such End User will comply with the terms of this Agreement and any Zoom regulations.
+Zoom is not responsible for violations.
+If you become aware of any breach of this Agreement in relation to any person's use of the Services, please contact Zoom at trust@zoom.us.
+Zoom may investigate any complaints or violations that it finds and may take any action it deems appropriate, including, but not limited to,
+issue warnings, delete content, or cancel Users' accounts and / or profiles.
+In no event will Zoom be liable for any data or other content viewed while using the Services, including, but not limited to, errors or omissions in such data or content, and for any loss or damage arising from the use, access or deny access to data or content.
+ZOOM'S OBLIGATIONS WITH REGARD TO CONTENT.
+Zoom will maintain appropriate physical and technical safeguards to deter unauthorized disclosure or access to Content in accordance with industry standards.
+Zoom will notify you if it becomes aware of any unauthorized access to the Content.
+Zoom will not access, view, or process the Content except (a) as provided in this Agreement and in Zoom's Privacy Statement; (b) situations where you have authorized or asked to do so, (c) where required to perform your obligations under this Agreement; or (d) where required by law.
+Zoom has no other obligation with respect to the Content.
+CONDITIONS.
+You certify that you are at least 16 years of age and have full capacity and authority to accept the terms, obligations, representations and warranties set out in this Agreement and to comply with and comply with the provisions of this Agreement.
+Access may be blocked without warning if we believe that you are under the age of 16 or are not authorized to use the website.
+DESTINY; RESTRICTION ON USE BY CHILDREN.
+The services are intended for use by businesses.
+You may choose to use the Services for other purposes, subject to the terms and limitations set out in this Agreement.
+Zoom is not intended for use by persons under the age of 16, except through a School Subscriber (as defined in the Service Description) using Zoom for Education (Pre-grade to High School).
+FEES AND CANCELLATION.
+The User agrees that Zoom will charge the credit card or other payment mechanism selected by the User and approved by Zoom ("User Account") with all amounts due for the Services.
+All payments you make to us under this Agreement will be free of any deductions and deductions that may be required by law.
+If such deductions or deductions (including but not limited to
+domestic or cross-border withholding taxes) will be required on any payment, you will pay such additional amounts as are necessary to bring the net amount received by us equal to the amount then due and payable under this Agreement.
+We will provide you with such tax forms as are required to reduce or eliminate the amount of any tax deductions or deductions made in respect of payments made under this Agreement.
+Zoom may change prices at any time, including changing from a free service to a paid service and charging you for Services that were previously offered free of charge; provided, however, that Zoom notifies the User in advance and makes it possible to terminate the Account if it changes the price of the Service for which the User is subscribed and will not charge for the previously free Service, unless the User has been notified of the applicable fees and agreed to their payment.
+You agree that in the event Zoom is unable to collect the fees due to Zoom for the Services through your User Account, Zoom may take any other steps it deems necessary to collect such fees from the User and that the User will be responsible for all costs and expenses incurred by Zoom in connection with such collection activities, including collection fees, court fees and attorney fees.
+You also agree that Zoom may charge interest at the lower of 1.5% per month or the highest amount permitted by law on any amount outstanding on time.
+The user can cancel the subscription at any time.
+In the event of cancellation, you will not be charged any additional terms of service and services will continue until the end of the current Subscription Period.
+In case of cancellation, the User will not receive a refund for already paid services.
+DATA.
+Unless otherwise stated, all prices and fees quoted by Zoom are exclusive of Taxes or Regulatory Fees, Service Fees, Service Fees, Installation Fees, Subscription Fees, or other Account Charges.
+Where applicable Taxes and regulatory fees will be charged on invoices issued by Zoom in accordance with local laws and regulations.
+Zoom at your discretion will calculate the amount of Taxes due.
+Taxes and regulatory fees charged are subject to change without notice.
+VAT invoices.
+If required by the Regulations, Zoom will issue a VAT invoice or a document to the User, which will be treated by the competent tax authorities as a VAT invoice.
+The user confirms that such an invoice can be issued electronically.
+Tax exemptions.
+If the User is exempt from Tax or fee, the User will present to Zoom all relevant tax exemption certificates and / or other documents as requested by the relevant tax authorities to confirm the exempt status.
+Zoom reserves the right to review and verify the tax exemption documents.
+In the event that the tax exemption documents are invalid, Zoom reserves the right to charge the User with applicable taxes.
+Payment of Taxes and payment of fees.
+You will pay Zoom all applicable Taxes and fees.
+The User is solely responsible for paying all Taxes and fees due as a result of Zoom Services providing to the User.
+If you are to pay Taxes and pay fees, the amounts must be paid without any deductions or deductions from Zoom due under this agreement, and you will pay any additional amounts necessary for Zoom to receive the full amount due as if there were no no deduction or deduction required.
+VAT due by the customer.
+Where Taxes and Fees are due by the User to the tax authorities instead of Zoom, as part of a reverse charge or other similar mechanism, the User shall provide Zoom with all evidence appropriate to Zoom to demonstrate the nature of the User's business, e.g.
+a valid tax registration number (or similar information required by applicable VAT legislation).
+Zoom reserves the right to review and verify the tax registration number.
+In the event that the tax registration number is invalid, Zoom reserves the right to charge the User with the applicable VAT.
+For the avoidance of doubt, if you are owed VAT to a tax authority as part of a reverse charge or other similar mechanism, you are solely responsible for paying these amounts to the appropriate tax authority so that Zoom receives the full amount due.
+Taxation determination.
+Determining taxation is based primarily on the location of the business established by the Customer based on Customer Data or, in the case of natural persons, at the place of permanent residence.
+Zoom will refer to this information as the "Buyer Address".
+Zoom reserves the right to check the location against other available evidence to confirm that the User's location provided is correct.
+In the event that the User's location is incorrect, Zoom reserves the right to charge the User with all applicable Taxes and fees.
+Efficient use.
+If the User has purchased Zoom Services and these Services are effectively used by the User's affiliate in a country other than the User's location in the manner specified in point
+9 ust. (
+e) of these Terms of Service, the User acknowledges that, where required, the User will treat it as providing the Services to his affiliate.
+If the User has purchased the Services and these Services are effectively used by a branch or natural person in a country other than the User's location in the manner specified in point
+9 ust. (
+e) of these Terms of Service, you acknowledge that you will inform Zoom of the assigned Services and acknowledge that Zoom has the right to levy Taxes and fees based on the effective use of those Services.
+TERMINATION OF THE CONTRACT.
+The Zoom website contains information on how to cancel a User Account.
+If the User has purchased the Service for a specified period of time, such liquidation will be effective on the last day of the then applicable period.
+The Order Form may specify that the Renewal Period shall start automatically unless either party provides a notice of termination at least thirty (30) days prior to the commencement of the next Renewal Period.
+If you fail to comply with any of the provisions of this Agreement, Zoom may terminate this Agreement immediately and retain any fees previously paid by you.
+Sections 1 and 3 to 22, inclusive, will survive termination of this Agreement.
+Upon termination of this Agreement, you must stop using the Services.
+If at any time you are dissatisfied with the Services, your only remedy is to stop using the Services and follow this termination procedure.
+OWNERSHIP.
+Zoom and / or its suppliers, as applicable, retain ownership of all proprietary rights in the Services and in all trade names, trademarks, service marks, logos and domain names ("Zoom Marks") associated with or displayed with the Services.
+You may not frame or use framing techniques to embed any Zoom trademarks or other proprietary information (including images, text, page layout, or form) of Zoom without express written consent.
+You may not use any meta tags or other "hidden text" utilizing the Zoom trademarks without the express written consent of Zoom.
+CONFIDENTIALITY.
+Each party agrees to treat and maintain the confidentiality of all non-public information received from the other party regarding the activities, systems, operations, strategic plans, customers, prices (including, but not limited to,
+pricing terms set out under this agreement), methods, processes, financial data, programs and / or products of the other party in any form that have been designated as "confidential" or should be understood as confidential by the average person under normal circumstances (hereinafter "Information confidential").
+For the purposes of this Agreement, the User's Confidential Information includes User Data and any information disclosed by User to Zoom relating to User's activities, systems, operations, strategic plans, customers, prices, methods, processes, financial data, programs and / or products of the User.
+Each party agrees to limit the disclosure of Confidential Information of the other party to as few people as possible, and only those who need to know it, are employees of you or its affiliates and are subject to a duty of confidentiality.
+Unless necessary to comply with any applicable obligations under this Agreement, neither party may disclose the other party's Confidential Information to any person, company, or enterprise without the prior written consent of the other party, unless expressly permitted by this agreement. nor use them for your own benefit or for the benefit of a third party.
+Exclusions. "
+Confidential Information ”may not contain Content or information that (a) is already legally known to a party at the time it is received from the other party, without any obligation to maintain the confidentiality of such information; (b) it is or has become publicly known or available without any illegal act of the party; (c) was lawfully received from a third party without limitation or breach of these Terms of Service; or (d) was developed by the party without the use of proprietary, non-public information provided by the other party under this Agreement.
+Exception.
+Either party may disclose Confidential Information as required by law, regulation or court order, so long as a party subject to such law, regulation or court order, where permitted, notifies the other party of such use or requirement prior to disclosure to in order to provide the other party with an opportunity to pursue the protection order and to avoid or limit the disclosure of information to third parties.
+Confidentiality period and confidentiality obligations.
+The confidentiality obligations set out in this section of the Terms of Service will remain in effect for five (5) years from the disclosure of the information.
+Both parties agree to (a) take reasonable steps to protect the other party's Confidential Information, which steps must provide at least the same protection as steps taken by the receiving party to protect its Confidential Information and be no less than a reasonable level of precaution; (b) inform the disclosing party as soon as it becomes aware of any unauthorized use or disclosure of Confidential Information; and (c) in the event of unauthorized disclosure by the receiving party, cooperate with the disclosing party to regain control of the Confidential Information and prevent further unauthorized use or disclosure.
+COPYRIGHT.
+You may not post, modify, distribute, or reproduce in any way copyrighted material, trademarks, publicity, or other proprietary rights without the prior written consent of the owner of such rights.
+Zoom may deny access to the Services to any User suspected of infringing another party's copyrights.
+Without limiting the foregoing, if you believe that your copyrights have been infringed, please notify Zoom as specified here.
+EXPORT RESTRICTIONS.
+The User acknowledges that the Services, or part thereof, are subject to the Export Administration Regulations, 15 C.
+F.
+R.
+Sections 730-774 of the United States and may be subject to other applicable export controls and trade sanctions laws ("Export Controls and Sanctions Laws").
+Upon request, Zoom will provide the US export classification for its Services.
+You and your End Users may not access, use, export, re-export, redirect, transmit, or disclose any part of the Services or any related technical information or material, directly or indirectly, in violation of export control and sanction laws.
+You represent and warrant that: (i) You and your End Users (a) are not citizens of, or located in, a country or territory that is subject to U.S. trade sanctions or other significant trade restrictions (including, but not limited to,
+Cuba, Iran, North Korea, Syria and the Crimea, Donetsk and Lugansk region in Ukraine), and that you and your End Users will not access or use the Services, or export, re-export, redirect or transfer the Services, including countries or territories; (b) are not persons, and are not owned 50% or more, individually or collectively, by persons on the US Treasury Department's list of
+Persons specifically designated and blocked as citizens or on the list of persons evading foreign sanctions; and (c) are not persons on the US Department of Commerce's list of
+Banned Persons or on the Unverified List or on the U.S. Department of State's Approval Lists
+proliferation of weapons of mass destruction; and (ii) You and your End Users located in China, Russia or Venezuela are not Military End Users and will not use the Zoom Services for Military End Use as defined in 15 C.
+F.
+R.
+744.
+21 (iii) no Content created or uploaded by User or End Users is restricted from disclosure, transfer, download, export or re-export under export control and sanction laws; and (iv) You and End Users will not take any action that would violate or be punished under the US anti-boycott laws administered by the Department of Commerce or the US Treasury Department.
+It is your sole responsibility to comply with Export Controls and Sanctions laws and to monitor them for any changes.
+NO USE IN HIGH RISK SITUATIONS.
+Services are not intended or licensed for use in hazardous environments requiring emergency control, including, but not limited to, nuclear facilities, air navigation / communication systems, air traffic control, life support systems, or weapons systems.
+The Services may not be used in or in connection with a HIGH RISK environment.
+INDEMNIFICATION OF CLAIMS.
+You acknowledge that any use of the Services in a manner inconsistent with this Agreement, or any transmission, sublicensing, copying or disclosure of technical information or material related to the Services, may cause irreparable damage to Zoom, its Affiliates, suppliers and any other authorized parties. by Zoom to resell, distribute or promote the Services ("Resellers"), and in such circumstances, Zoom, its Affiliates, suppliers and Resellers will be entitled to a fair compensation, without the need for a deposit or other security, including, but not limited to, initial and permanent security of claims.
+NO WARRANTY.
+YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED "AS IS" AND ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS EXPRESSLY DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED
+IN.
+ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+Zoom, its associate entities, suppliers and resells do not provide any guarantees, nor do you submit any statements regarding the results that can be obtained as a result of the use of services, accuracy or credibility of information obtained through services, or that the services will meet the user's requirements, WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.
+YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK.
+ANY MATERIALS AND / OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES, THE USER WILL USE AT YOUR SOLE AND RISK.
+YOU SHALL BE SOLELY LIABLE FOR ANY DAMAGES RESULTING FROM THE USE OF THE SERVICES.
+THE ENTIRE RISK ARISING FROM THE USE OF THE SERVICES OR THEIR PROVISIONS REMAINS WITH YOU.
+ZOOM DOES NOT ASSUME ANY RESPONSIBILITY FOR THE STORAGE OF ANY INFORMATION ABOUT USERS OR COMMUNICATION BETWEEN USERS.
+ZOOM CANNOT GUARANTEE, AND DOESN'T PROMISE ANY PARTICULAR RESULTS ARISING FROM THE USE OF THE SERVICES.
+USE IS AT YOUR OWN RISK.
+INDEMNIFICATION.
+You agree to indemnify, defend and protect Zoom, its affiliates, officers, directors, employees, consultants, agents, suppliers and Resellers from all third party claims, liability, damage and / or expense (including, but not limited to, attorney fees) resulting from your use of the Services, breach of this Agreement, or your breach or violation by you or another user of an account, of any intellectual property or other rights of any person or entity or applicable law.
+LIMITATION OF LIABILITY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ZOOM OR ITS AFFILIATES, SUPPLIERS OR RESELLERS, BE LIABLE FOR ANY EVENT, EXCEPTIONAL OR EXCEPTIONAL.
+IN.
+Damage for the loss of business profits, interruptions in business, loss of business information or any other cash losses or damage) resulting from the use or inability to use services or the provision or lack of provision of technical support services or other support services resulting from an illegal act (including neglect ) AGREEMENT OR OTHER LEGAL MATTER, EVEN IF ZOOM, ITS AFFILIATES, SUPPLIERS OR RESELLERS HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.
+In each case, the maximum total responsibility of the Zoom, its associate entities, suppliers and resalers, and the exclusive remedy of the User in relation to all claims arising from this contract or associated with it will be limited to the amount actually paid by you for services (if concerned) in TWELVE (12) MONTHS PRIOR TO THE EVENT OR CIRCUMSTANCES GIVING GROUNDS FOR SUCH CLAIMS.
+Since some states and jurisdictions do not allow the exclusion or limitation of liability, the above limitation may not apply to you.
+ARBITRATION AGREEMENT; CLASS ACTION WAIVER.
+If you are based in the United States, you consent to arbitration only on an individual basis as set forth in Exhibit A.
+The parties expressly waive any rights to bring any action, trial or proceeding as class action, private action or any other proceeding in which either party is acting or proposing to act as an agent.
+PRIVACY POLICY AND OTHER PROVISIONS.
+The use of the Services is also governed by the Zoom Privacy Statement, the link to which is available after selecting "Privacy Policy and Legal Regulations" in the footer of the Zoom page.
+The privacy statement and all laws listed at https://explore.zoom.us/en/trust/legal-compliance/ are incorporated herein by this reference.
+In addition, if your use of the Services requires Zoom to process any personally identifiable information ("PII" or "Personal Information"), Zoom will always do so in accordance with our Addendum Addendum.
+Zoom global data processing https://zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf which is incorporated into these Terms of Service.
+In addition, you understand and agree that Zoom may contact you by email or otherwise with information related to your use of the Services, whether or not you opt out of receiving marketing communications or notices.
+MISCELLANEOUS
+Choice of law and court.
+This Agreement will be governed by and construed under the laws of the State of California (USA) as applicable to contracts entered into and performed in California by California residents.
+Except as provided in Schedule A, the parties agree to the exclusive jurisdiction and venue of the state courts located in and serving California County Santa Clara and the federal courts of the Northern District of California.
+Ordering entity.
+In the event that the Zoom account includes an account to an address / sale to an address in India, the entity responsible for order fulfillment in accordance with these Terms is Zoom Affiliate, ZVC India Pvt Ltd.
+Waiver and Severability.
+Failure by either Party to exercise its rights under this Agreement or to perform any provision thereof shall not be deemed a waiver or a loss of such rights or the possibility of enforcing such provision.
+If any provision of this Agreement is found by a court of competent jurisdiction to be unlawful, invalid or unenforceable, that provision will be amended to have as close economic effect as possible to the original provision, and the remainder of this Agreement will remain in full force and effect.
+General provisions.
+This Agreement covers the entire agreement and agreement between the Parties with respect to the subject matter of this Agreement and supersedes any prior agreements and contracts between the Parties with respect to that subject, except where you or your company have entered into a separate agreement in writing or you have signed a form orders referring to a separate agreement regulating the use of the Services.
+In such event, such agreement shall prevail to the extent that any provision of this Agreement conflicts with the terms of such agreement.
+Zoom may change or supplement the terms of this Agreement at any time in its sole discretion.
+Zoom will use commercially reasonable efforts to notify you of any material changes to this Agreement.
+Within ten (10) business days of posting changes to this Agreement (or ten (10) business days of the date of notice, if provided), they will be binding on you.
+If you do not agree to these changes, please stop using the Services.
+If you continue to use the Services after the ten business day period has expired, you will be deemed to have accepted the changes to the terms of this Agreement.
+To use some of the Services, you may be notified to download the software and / or agree to additional terms.
+Unless expressly provided in such additional terms, these additional terms are hereby incorporated into this Agreement.
+This Agreement is written in English, such version is effective in all respects, and any non-English language version of this Agreement is provided for information purposes only.
+Appendix A
+Binding Arbitration
+Appendix A to the Terms describes further provisions that apply to Binding Arbitration and Class Action Waiver.
+Disputes.
+A dispute is any controversy between you and Zoom relating to the Services, any software related to the Services, the price of the Services, your account, advertising, marketing or Zoom communications, your purchase or billing transactions, or any term of this Agreement, pursuant to any legal thought, including contract, warranty, tort, statute or regulation, except in disputes regarding the enforcement or validity of the User's intellectual property rights or Zoom.
+In the best efforts to resolve disputes, and prior to commencing arbitration, each party agrees to notify the other party of the dispute, including a description of the dispute, including a description of the dispute, and what efforts have been made to resolve it, and what the litigant demands as part of the settlement.
+Availability of a court of justice
+small claims.
+Proceedings can be initiated at your local court of
+small claims if the court's requirements are met.
+However, if such a claim is transferred, removed or appealed to another court, Zoom reserves the right to request arbitration.
+Arbitration procedure.
+Disputes not resolved in accordance with Section A or B will be settled by arbitration.
+The American Arbitration Association (AAA) will conduct the arbitration in accordance with its Rules of Commercial Arbitration.
+For more information, visit www.adr.org.
+Arbitration hearings will be held in the federal court district of your primary business location.
+One arbitrator will be appointed.
+The arbitrator must: (a) comply with all applicable laws; (b) comply with applicable statute of limitations; (c) honor valid entitlement claims; (d) make a written decision stating the reasons for the judgment.
+The arbitrator may award damages, declaratory or prescriptive damages and expenses (including reasonable attorney's fees).
+Any arbitral award may be enforced (e.g.
+by judgment) in any court having jurisdiction.
+Under the AAA Rules, the arbitrator decides his jurisdiction, including the arbitration of all claims, but the court has sole power to enforce the prohibition of arbitration in respect of class or as a representative.
+Arbitration Fees.
+If you are unable to pay the costs of the arbitration, Zoom will pay those costs, provided the arbitrator decides whether or not Zoom should be reimbursed in the event of a win.
+For litigation totaling $ 75,000 or more, the AAA Rules govern filing fees and the fees and expenses of the AAA and the arbitrator.
+Conflict with AAA Rules.
+This Agreement will apply in the event of a conflict with the AAA Commercial Arbitration Rules.
+One year requirement to file a claim or dispute.
+Notwithstanding any other statute of limitations, any claim or dispute under this Agreement must be brought before a court of
+small claims or submitted to arbitration within one year from the time it could first be filed, otherwise such dispute or claim will be permanently barred.
+Severability.
+If the class action waiver is found to be illegal or unenforceable with respect to all or some parts of the dispute, then those parts will not be arbitrated but will be settled in court and the remainder will be settled by arbitration.
+If any provision of this Schedule A is found to be illegal or unenforceable, then that provision will be excluded; however, the remaining provisions will continue to apply and shall be construed to achieve as much as possible the original intent of this Annex, including the exclusion of the excluded provision.

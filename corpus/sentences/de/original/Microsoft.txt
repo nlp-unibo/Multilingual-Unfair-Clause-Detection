@@ -1,0 +1,934 @@
+Veröffentlichung: 1. April 2021
+Inkrafttreten: 15. Juni 2021
+Print
+Drucken
+Microsoft-Servicevertrag
+Diese Bestimmungen („Bestimmungen“) gelten für die Nutzung der hier, am Ende dieser Bestimmungen, aufgeführten Produkte, Websites und Dienste von Microsoft für Endanwender (#serviceslist) (die „Dienste“).
+Mit der Möglichkeit, die Dienste zu abonnieren, zu nutzen oder zu bestellen, unterbreitet Ihnen Microsoft ein Angebot.
+Indem Sie ein Microsoft-Konto erstellen, die Dienste nutzen oder die Nutzung der Dienste fortsetzen, nachdem Sie über eine Änderung der Bestimmungen informiert wurden, stimmen Sie den vorliegenden Bestimmungen zu.
+Da Microsoft keine Kopie für Sie speichert, sollten Sie diese Bestimmungen lesen, ausdrucken und bitte selbst eine Kopie zu Ihren Unterlagen nehmen.
+Wenn Sie ein Kleinstunternehmen, ein Kleinunternehmen oder eine gemeinnützige Organisation sind, lesen Sie bitte Abschnitt 15 über den Verzicht auf Ansprüche, die ansonsten nach dem Europäischen Kodex für elektronische Kommunikation für Sie gelten würden.
+Schutz Ihrer Daten
+1. Schutz Ihrer Daten.
+Der Schutz Ihrer Privatsphäre ist uns wichtig.
+Bitte lesen Sie die Microsoft Datenschutzbestimmungen (https://go.microsoft.com/fwlink/?LinkId=521839) (die „Datenschutzbestimmungen“) – in diesen Bestimmungen ist beschrieben, welche Arten von Daten über Sie und Ihre Geräte („Daten“), wir erheben, wie wir Ihre Daten verwenden und auf welchen rechtlichen Grundlagen wir Ihre Daten verarbeiten.
+Die Datenschutzbestimmungen beschreiben auch, wie Microsoft Ihre Inhalte verwendet, d. h. Ihre Kommunikation mit anderen Personen; die Beiträge, die Sie über die Dienste an Microsoft senden; und die Dateien, Fotos, Dokumente, Audiodateien, digitalen Werke, Livestreams und Videos, die Sie über die Dienste hochladen, speichern, übertragen oder teilen („Ihre Inhalte“).
+[Zum Seitenanfang]
+Ihre Inhalte
+2. Ihre Inhalte.
+Bei vielen unserer Dienste können Sie Ihre Inhalte speichern oder versenden oder Materialien von anderen empfangen.
+Wir beanspruchen kein Eigentum an Ihren Inhalten Ihre Inhalte bleiben Ihre Inhalte, und Sie sind für diese verantwortlich.
+    a. Wenn Sie Ihre Inhalte mit anderen Personen teilen, stimmen Sie ausdrücklich zu, dass diese Personen berechtigt sind, Ihre Inhalte für den Zweck, für den Sie sie über die Dienste verfügbar gemacht haben, kostenlos und weltweit zu nutzen, zu speichern, aufzuzeichnen, zu vervielfältigen, zu versenden, zu übertragen, zu teilen, anzuzeigen und weiterzugeben.
+Wenn Sie anderen Personen diese Möglichkeit nicht einräumen möchten, geben Sie Ihre Inhalte nicht über die Dienste frei.
+Sie sichern für die Geltungsdauer dieser Bestimmungen zu und gewährleisten, dass Sie alle erforderlichen Rechte an Ihren Inhalten besitzen (und besitzen werden), die in oder über die Dienste hochgeladen, gespeichert oder mit anderen geteilt werden, und dass die Erfassung, Verwendung und Aufbewahrung Ihrer Inhalte mithilfe der Dienste nicht gegen Gesetze oder die Rechte anderer verstoßen.
+Wir empfehlen Ihnen dringend, regelmäßig Sicherungskopien Ihrer Inhalte zu erstellen.
+Microsoft kann nicht für Ihre Inhalte oder die Materialien verantwortlich gemacht werden, die andere unter Verwendung unserer Dienste hochladen, speichern oder teilen.
+    b. Soweit dies notwendig ist, um Ihnen und anderen die Dienste bereitzustellen (z. B. durch das Ändern von Größe, Form oder Format Ihrer Inhalte zur besseren Speicherung oder Anzeige), um Sie und die Dienste zu schützen und um die Produkte und Dienste von Microsoft zu verbessern, gewähren Sie Microsoft eine weltweite und gebührenfreie Lizenz für geistiges Eigentum zur Verwendung Ihrer Inhalte, z. B. um Kopien Ihrer Inhalte zu erstellen oder Ihre Inhalte aufzubewahren, zu übertragen, neu zu formatieren, mithilfe von Kommunikationswerkzeugen zu verteilen und über die Dienste anzuzeigen.
+Falls Sie Ihre Inhalte in Bereichen eines Diensts veröffentlichen, in denen sie öffentlich oder ohne Einschränkungen online verfügbar gemacht werden, können Ihre Inhalte in Demos oder Materialien zur Bewerbung des Diensts erscheinen.
+Einige der Dienste werden durch Werbung unterstützt.
+Informationen zur Personalisierung von Werbung durch Microsoft finden Sie auf der Seite https://choice.live.com.
+Wir verwenden nicht das von Ihnen in E-Mails, Chats, Videoanrufen oder Mailboxnachrichten Gesagte und nicht Ihre Dokumente, Fotos oder anderen persönlichen Dateien für zielgerichtete Werbung an Sie.
+Unsere Werberichtlinien sind ausführlich in den Datenschutzbestimmungen behandelt.
+[Zum Seitenanfang] Seitenanfang
+Verhaltensregeln
+3. Verhaltensregeln.
+    a. Inhalte, Materialien oder Handlungen, die diese Bestimmungen verletzen, sind nicht erlaubt.
+Mit Ihrer Zustimmung zu diesen Bestimmungen gehen Sie die Verpflichtung ein, sich an diese Regeln zu halten:
+        i. Nehmen Sie keine unrechtmäßigen Handlungen vor.
+        ii.
+Unterlassen Sie jede Handlung, die Kinder ausnutzt, Kindern schadet oder zu schaden droht.
+        iii.
+Versenden Sie kein Spam und unternehmen Sie kein Phishing.
+Bei Spam handelt es sich um unerwünschte bzw. unverlangte Massen-E-Mails, Beiträge, Kontaktanfragen, SMS (Textnachrichten), Sofortnachrichten oder ähnlichen elektronischen Nachrichtenverkehr.
+Phishing ist das Versenden von E-Mails oder anderen elektronischen Nachrichten, um Empfänger in betrügerischer oder widerrechtlicher Absicht zur Offenlegung von personenbezogenen oder vertraulichen Daten wie Kennwörtern, Geburtsdaten, Sozialversicherungsnummern, Ausweisnummern, Kreditkartendaten, Finanzinformationen oder anderen vertraulichen Informationen zu bewegen oder um Zugriff auf Konten oder Datensätze, Dokumente oder andere vertrauliche Informationen und Zahlungsvorgänge zu erhalten und/oder sich finanziell zu bereichern.
+        iv.
+Unterlassen Sie es, unangemessene Inhalte oder anderes Material (das z. B. Nacktdarstellungen, Brutalität, Pornografie, anstößige Sprache, Gewaltdarstellungen oder kriminelle Handlungen zum Inhalt hat) zu veröffentlichen oder über die Dienste zu teilen.
+        v. Unterlassen Sie Handlungen, die betrügerisch, falsch oder irreführend sind (z. B. unter Vorspiegelung falscher Tatsachen Geld fordern, sich als jemand anderes ausgeben, die Dienste manipulieren, um Wiedergabezähler zu erhöhen oder Rankings, Bewertungen oder Kommentare zu beeinflussen).
+        vi.
+Unterlassen Sie es, wissentlich Beschränkungen des Zugriffs auf bzw. der Verfügbarkeit der Dienste zu umgehen.
+        vii.
+Unterlassen Sie Handlungen, die Ihnen, dem Dienst oder anderen Schaden zufügen (wie z. B. das Übertragen von Viren, das Belästigen anderer, das Posten terroristischer oder gewaltextremistischer Inhalte, Hassreden oder Aufrufe zur Gewalt gegen andere).
+        viii.
+Verletzen Sie keine Rechte anderer (z. B. durch nicht autorisiertes Weitergeben oder Freigeben von urheberrechtlich geschützter Musik oder von anderem urheberrechtlich geschütztem Material, den Weiterverkauf oder anderweitigen Vertrieb von Bing-Karten oder Fotos).
+        ix.
+Unterlassen Sie Handlungen, die die Privatsphäre von anderen verletzen.
+        x. Helfen Sie niemandem bei einem Verstoß gegen diese Regeln.
+    b. Durchsetzung.
+Wir behalten uns das Recht vor, Ihre Inhalte zu verweigern, wenn sie die für den Dienst zulässigen Grenzen für Speicher oder Dateigröße überschreiten.
+Wenn Sie gegen Verpflichtungen unter Ziffer 3.a oben oder anderweitig wesentlich gegen diese Bestimmungen verstoßen, sind wir berechtigt, Schritte gegen Sie einzuleiten; dazu gehört, dass wir die Bereitstellung der Dienste einstellen oder Ihr Microsoft-Konto aus wichtigem Grund fristlos schließen oder die Zustellung einer Mitteilung (wie E-Mail, Dateifreigabe oder Sofortnachricht) an die Dienste oder von den Diensten blockieren können.
+Wir behalten uns außerdem das Recht vor, Ihre Inhalte jederzeit sperren oder aus dem Dienst zu entfernen zu können, wenn uns zur Kenntnis gelangt, dass die Inhalte möglicherweise gegen anwendbares Recht oder diese Bestimmungen verstoßen.
+Microsoft behält sich das Recht zur Überprüfung Ihrer Inhalte vor, soweit dies zur Untersuchung mutmaßlicher Verstöße gegen diese Bestimmungen erforderlich ist.
+Wir überwachen die Dienste jedoch nicht und unternehmen auch nicht den Versuch hierzu.
+    c. Geltung für Xbox-Dienste.
+Klicken Sie hier (https://go.microsoft.com/fwlink/?linkid=868531), um sich über die Umsetzung dieser Verhaltensregeln in Bezug auf Spiele, Anwendungen, Dienste und Inhalte zu informieren, die Microsoft für den Xbox-Onlinedienst, für Xbox Game Pass, Games for Windows Live und Xbox Games Studios bereitstellt.
+Ein Verstoß gegen die Verhaltensregeln der Xbox-Dienste (definiert in Ziffer 13.a.i) kann den vorübergehenden oder dauerhaften Ausschluss von der Teilnahme an Xbox-Diensten nach sich ziehen, einschließlich der Verwirkung von Inhaltslizenzen, Xbox-Gold-Mitgliedschaftszeit und Microsoft-Kontoguthaben, die mit dem Konto verbunden sind.
+[Zum Seitenanfang] Seitenanfang
+Nutzung der Dienste und Support
+4. Nutzen der Dienste und Support.
+    a. Microsoft-Konto.
+Für die Nutzung vieler der Dienste ist ein Microsoft-Konto erforderlich.
+Über Ihr Microsoft-Konto können Sie sich bei Produkten, Websites und Diensten anmelden, die von Microsoft und einigen Microsoft-Partnern bereitgestellt werden.
+        i. Erstellen eines Kontos.
+Ein Microsoft-Konto können Sie erstellen, indem Sie sich online registrieren.
+Sie verpflichten sich, bei der Anmeldung Ihres Microsoft-Kontos keine falschen, ungenauen oder irreführenden Angaben zu machen.
+In einigen Fällen hat möglicherweise ein Dritter, beispielsweise Ihr Internetdienstanbieter, Ihnen ein Microsoft-Konto zugewiesen.
+Wurde Ihnen Ihr Microsoft-Konto von einem Dritten zugewiesen, so verfügt dieser Dritte ggf. über zusätzliche Rechte in Bezug auf Ihr Konto, etwa über die Möglichkeit, Ihr Microsoft-Konto zu löschen oder darauf zuzugreifen.
+Befassen Sie sich mit sämtlichen zusätzlichen Bestimmungen, die Ihnen der Dritte vorlegt, da Microsoft keine Verantwortung in Bezug auf diese zusätzlichen Bestimmungen hat.
+Wenn Sie ein Microsoft-Konto im Namen einer juristischen Person, wie z. B. Ihres Unternehmens oder Arbeitgebers, erstellen, sichern Sie zu, dass Sie rechtlich befugt sind, diese juristische Person an die vorliegenden Bestimmungen zu binden.
+Sie können die Anmeldeinformationen für Ihr Microsoft-Konto nicht an einen anderen Nutzer oder eine andere juristische Person übertragen.
+Zum Schutz Ihres Kontos haben Sie Ihre Kontodetails und das Kennwort vertraulich zu behandeln.
+Sie sind für alle Aktivitäten im Zusammenhang mit Ihrem Microsoft-Konto verantwortlich.
+        ii.
+Verwendung des Kontos.
+Sie müssen Ihr Microsoft-Konto nutzen, damit es aktiv bleibt.
+Das bedeutet, dass Sie sich mindestens einmal in zwei Jahren anmelden müssen, damit Ihr Microsoft-Konto und die zugehörigen Dienste aktiviert bleiben, sofern in der Microsoft-Kontoaktivitätsrichtlinie unter https://go.microsoft.com/fwlink/p/?linkid=2086738 oder in einem Angebot für einen kostenpflichtigen Bereich der Dienste kein längerer Zeitraum vorgesehen ist oder gesetzlich nichts anderes festgelegt ist.
+Sollten Sie sich innerhalb dieses Zeitraums nicht anmelden, gehen wir davon aus, dass Ihr Microsoft-Konto inaktiv ist, und werden es für Sie schließen.
+Wie sich die Schließung eines Microsoft-Kontos auswirkt, entnehmen Sie bitte Ziffer 4.a.iv.2. Sie müssen sich mindestens einmal pro Jahr (separat) bei Ihrem Outlook.com-Posteingang und Ihrem OneDrive anmelden.
+Andernfalls schließen wir Ihren Outlook.com-Posteingang und Ihr OneDrive.
+Sie müssen sich in einem Zeitraum von fünf Jahren mindestens ein Mal bei den Xbox-Diensten anmelden, damit der Gamertag Ihrem Microsoft-Konto zugeordnet bleibt.
+Wenn wir den begründeten Verdacht hegen, dass Ihr Microsoft-Konto dem Risiko ausgesetzt ist, auf betrügerische Weise von einem Dritten (beispielsweise infolge einer Kontokompromittierung) verwendet zu werden, ist Microsoft berechtigt, Ihr Konto auszusetzen, bis Sie die Eigentümerschaft reklamieren können.
+Je nach Art der Kompromittierung müssen wir eventuell den Zugriff auf einige oder alle Ihrer Inhalte sperren.
+Bei Problemen mit dem Zugriff auf Ihr Microsoft-Konto rufen Sie diese Website (https://go.microsoft.com/fwlink/?LinkId=238656) auf.
+        iii.
+Minderjährige und Konten.
+Durch die Erstellung eines Microsoft-Kontos oder die Nutzung der Dienste akzeptieren Sie diese Bestimmungen und verpflichten sich zur Einhaltung der Bestimmungen.
+Sie versichern, dass Sie in dem Land, in dem Sie leben, entweder „volljährig“ sind oder das Einverständnis eines Elternteils oder Erziehungsberechtigten haben, sich an Ihrer statt an diese Bestimmungen zu binden.
+Wenn Sie nicht wissen, ob Sie im Land, in dem Sie leben, die Volljährigkeit erreicht haben, oder diesen Abschnitt nicht verstehen, erstellen Sie ein Microsoft-Konto bitte erst, nachdem Sie einen Elternteil oder Erziehungsberechtigten um Hilfe gebeten haben.
+Wenn Sie Elternteil oder Erziehungsberechtigte(r) einer minderjährigen Person sind, akzeptieren Sie diese Bestimmungen als verbindlich für sich selbst und die minderjährige Person und sind für die Beaufsichtigung der minderjährigen Person bei der Nutzung des Microsoft-Kontos oder der Dienste, einschließlich Käufe, verantwortlich.
+Dies gilt unabhängig davon, ob das Konto der minderjährigen Person bereits eröffnet wurde oder zu einem späteren Zeitpunkt erstellt wird.
+        iv.
+Schließen Ihres Kontos.
+            1. Neben etwaigen Kündigungsrechten gemäß den „Rückerstattungsrichtlinien“ (Ziffer 9.g unten) haben Sie jederzeit das Recht, bestimmte Dienste ohne besonderen Grund zu kündigen oder Ihr Microsoft-Konto zu schließen.
+Rufen Sie zum Schließen Ihres Microsoft-Kontos https://go.microsoft.com/fwlink/p/?linkid=618278 auf.
+Wenn Sie uns um die Schließung Ihres Microsoft-Kontos bitten, können Sie wählen, es erst einmal für 30 oder 60 Tage auszusetzen, falls Sie sich doch noch umentscheiden.
+Nach dieser 30- oder 60-tägigen Frist wird Ihr Microsoft-Konto geschlossen.
+Unter Ziffer 4.a.iv.2 unten wird erläutert, was im Falle der Schließung Ihres Microsoft-Kontos geschieht Mit der erneuten Anmeldung während der Aussetzung wird Ihr Microsoft-Konto wieder aktiviert.
+            2. Wenn Ihr Microsoft-Konto geschlossen wird (durch Sie oder uns), hat dies folgende Auswirkungen: Erstens endet Ihr Recht zur Nutzung des Microsoft-Kontos zum Zugriff auf die Dienste mit sofortiger Wirkung.
+Zweitens werden wir mit Ihrem Microsoft-Konto verknüpfte Daten oder Inhalte löschen oder diese anderweitig von Ihnen und Ihrem Microsoft-Konto trennen (es sei denn, wir sind gesetzlich zu deren Aufbewahrung, Rückgabe oder Übermittlung an Sie oder einen von Ihnen benannten Dritten verpflichtet).
+Sie werden dann eventuell nicht mehr auf die Dienste (oder Ihre Inhalte, die Sie in diesen Diensten gespeichert haben) zugreifen können, für die ein Microsoft-Konto erforderlich ist.
+Sie sollten Ihre Daten darum regelmäßig sichern.
+Drittens verlieren Sie möglicherweise den Zugriff auf Produkte, die Sie erworben haben.
+    b. Arbeits- oder Schulkonten.
+Bei bestimmten Microsoft-Diensten können Sie sich mit einer Arbeits- oder Schul-E-Mail-Adresse anmelden.
+Wenn Sie dies tun, stimmen Sie zu, dass der Inhaber der Ihrer E-Mail-Adresse zugeordneten Domäne über das Vorhandensein Ihres Microsoft-Kontos und der damit verknüpften Abonnements benachrichtigt werden kann, Ihr Konto steuern und verwalten sowie auf Ihre Daten, einschließlich der Inhalte Ihrer Mitteilungen und Dateien, zugreifen und diese verarbeiten darf und Microsoft den Inhaber der Domäne benachrichtigen darf, wenn das Konto oder die Daten gefährdet sind.
+Sie nehmen des Weiteren zur Kenntnis, dass die Nutzung der Microsoft-Dienste durch Sie eventuell Verträgen unterliegt, die Microsoft mit Ihnen oder Ihrer Organisation hat, und die vorliegenden Bestimmungen nicht gelten.
+Wenn Sie bereits über ein Microsoft-Konto verfügen und Sie über eine separate Arbeits- oder Schul-E-Mail-Adresse auf die von diesen Bestimmungen erfassten Dienste zugreifen, werden Sie möglicherweise aufgefordert, die Ihrem Microsoft-Konto zugeordnete E-Mail-Adresse zu aktualisieren, um weiter auf die Dienste zugreifen zu können.
+    c. Zusätzliche Ausrüstung / Datentarife.
+Voraussetzung für die Nutzung vieler Dienste ist eine Internetverbindung und/oder ein Datentarif-/Mobilfunkvertrag.
+Möglicherweise benötigen Sie auch zusätzliche Ausrüstung wie ein Headset, eine Kamera oder ein Mikrofon.
+Für Verbindungen, Tarife, Verträge und/oder Ausrüstung, die für die Nutzung der Dienste erforderlich sind, einschließlich Gebühren und Kosten, die deren Anbieter in Rechnung stellen, sind Sie verantwortlich.
+Diese Gebühren fallen zusätzlich zu den von uns für die Dienste berechneten Gebühren an.
+Wir erstatten Ihnen solche Gebühren nicht.
+Informieren Sie sich bei dem jeweiligen Anbieter, ob und in welcher Höhe Ihnen Gebühren berechnet werden.
+    d. Dienstbenachrichtigungen.
+Im Fall wichtiger Mitteilungen zu einem Dienst, den Sie nutzen, senden wir Ihnen Dienstbenachrichtigungen und Informationen, zu deren Angabe wir gesetzlich verpflichtet sind.
+Wenn Sie uns in Verbindung mit Ihrem Microsoft-Konto Ihre E-Mail-Adresse oder Telefonnummer gegeben haben, sind wir berechtigt, Ihnen Dienstbenachrichtigungen per E-Mail oder SMS (Textnachricht) zu senden, unter anderem zur Überprüfung Ihrer Identität vor der Registrierung Ihrer Mobiltelefonnummer und zur Bestätigung Ihrer Einkäufe.
+Wir können Ihnen Dienstbenachrichtigungen auch auf anderem Weg (z. B. in Form von Meldungen im Produkt) zustellen.
+Beim Empfang von Benachrichtigungen per SMS fallen unter Umständen Daten- oder Nachrichtengebühren an.
+Wir empfehlen, dass Sie die von Ihnen angegebene E-Mail-Adresse beobachten und pflegen.
+Wenn Sie nicht damit einverstanden sind, Benachrichtigungen auf elektronischem Weg zu erhalten, müssen Sie die Nutzung der Dienste einstellen.
+    e. Support.
+Für einige Dienste ist ein Kundensupport unter https://support.microsoft.com verfügbar.
+Bestimmte Dienste stellen möglicherweise einen eigenen oder zusätzlichen Kundensupport bereit, der den unter https://www.microsoft.com/support-service-agreement beschriebenen Bestimmungen unterliegt, wenn nichts anderes angegeben ist.
+Der Support ist möglicherweise nicht für Vorschau- oder Betaversionen von Features oder Diensten verfügbar.
+Wenn Sie in Europa ansässig sind, haben Sie auch die Möglichkeit, eine strittige Angelegenheit über das EU-Portal für Online-Streitbelegung zur Klärung zu bringen (https://ec.europa.eu/consumers/odr).
+Verwenden Sie die Adresse MSODR@microsoft.com bitte nur zur Angabe in dem Beschwerdeformular und sonst keinem anderen Zweck.
+    f. Beendigung Ihrer Dienste.
+Wenn Ihre Dienste (entweder von Ihnen oder von uns) gekündigt werden, endet erstens Ihr Zugriffsrecht auf die Dienste mit sofortiger Wirkung, ebenso Ihre Lizenz zur Nutzung der mit den Diensten verbundenen Software.
+Zweitens werden wir mit Ihrem Dienst verknüpfte Daten oder Inhalte löschen oder diese anderweitig von Ihnen und Ihrem Microsoft-Konto trennen (es sei denn, wir sind gesetzlich zu deren Aufbewahrung, Rückgabe oder Übermittlung an Sie oder einen von Ihnen benannten Dritten verpflichtet).
+Sie werden dann eventuell nicht mehr auf die Dienste (oder Ihre Inhalte, die Sie in diesen Diensten gespeichert haben) zugreifen können.
+Sie sollten Ihre Daten darum regelmäßig sichern.
+Drittens verlieren Sie möglicherweise den Zugriff auf Produkte, die Sie erworben haben.
+Wenn Sie Ihr Microsoft-Konto gekündigt und kein anderes Konto haben, über das Sie auf die Dienste zugreifen können, werden Ihre Dienste möglicherweise sofort gelöscht.
+[Zum Seitenanfang] Seitenanfang
+Nutzung von Drittanbieter-Apps und -Diensten
+5. Nutzen von Apps und Diensten Dritter.
+Die Dienste können es Ihnen ermöglichen, auf Produkte, Dienste, Websites, Links, Inhalte, Material, Spiele, Funktionen, Integrationen, Bots oder Anwendungen unabhängiger Dritter (anderer Unternehmen oder Personen als Microsoft) („Drittanbieter-Apps und -Dienste“) zuzugreifen oder solche zu erwerben.
+Viele unserer Dienste helfen Ihnen auch, Apps und Dienste Dritter zu finden, Anforderungen in Bezug auf sie auszuführen oder mit ihnen zu interagieren, oder ermöglichen Ihnen, Ihre Inhalte oder Daten zu teilen.
+Sie verstehen, dass Sie sie durch die Nutzung unserer Dienste anweisen, Ihnen Apps und Dienste Dritter zur Verfügung zu stellen.
+Die Drittanbieter-Apps und -Dienste ermöglichen es Ihnen mitunter, Ihre Inhalte oder Daten bei dem Herausgeber, Provider oder Betreiber der Drittanbieter-Apps und -Dienste zu speichern.
+Die Apps und Dienste Dritter zeigen Ihnen möglicherweise Datenschutzbestimmungen an oder erfordern, dass Sie ihren zusätzlichen Bestimmungen zustimmen, bevor Sie die App oder den Dienst des betreffenden Dritten installieren oder verwenden können.
+Ziffer 13.b enthält zusätzliche Bestimmungen für Anwendungen, die über bestimmte Stores erworben werden, deren Inhaber oder Betreiber Microsoft oder dessen verbundene Unternehmen sind (wie z. B. Office Store, Microsoft Store on Xbox und Microsoft Store on Windows).
+Sie sollten diese Bestimmungen und Datenschutzbestimmungen Dritter lesen, bevor Sie Apps und Dienste Dritter erwerben, verwenden oder anfordern oder Ihr Microsoft-Konto mit diesen verknüpfen.
+Die Bestimmungen Dritter bleiben von jeglichen zusätzlichen Bestimmungen unberührt.
+Microsoft lizenziert im Zusammenhang mit Drittanbieter-Apps und -Diensten kein geistiges Eigentum an Sie.
+Sie akzeptieren, dass Sie das gesamte Risiko und die Verantwortung aus der Nutzung von Drittanbieter-Apps und -Diensten übernehmen und Microsoft Ihnen und anderen gegenüber nicht für Informationen oder Dienste verantwortlich oder haftbar ist, die von Drittanbieter-Apps und -Diensten gestellt werden.
+[Zum Seitenanfang] Seitenanfang
+Serviceverfügbarkeit
+6. Dienstverfügbarkeit.
+    a. Die Dienste, Apps und Dienste Dritter oder über die Dienste angebotene Materialien oder Produkte sind möglicherweise von Zeit zu Zeit nicht verfügbar, werden möglicherweise nur für eine begrenzte Zeit angeboten oder variieren unter Umständen je nach Region oder Gerät oder nach externen Faktoren, wie etwa Ihre Internet- oder Netzwerkverbindung.
+Wenn Sie den mit Ihrem Microsoft-Konto verknüpften Standort ändern, müssen Sie möglicherweise die Produkte erneut erwerben, die für Sie in der vorherigen Region verfügbar waren und von Ihnen bezahlt wurden.
+    b. Wir bemühen uns, die Dienste am Laufen zu halten.
+Sie werden jedoch nicht mit einer garantierten Servicequalität angeboten und alle Online-Dienste leiden gelegentlich unter Störungen und Ausfällen.
+Im Fall eines Ausfalls oder einer Unterbrechung des Diensts sind Sie möglicherweise vorübergehend nicht in der Lage, Ihre Inhalte abzurufen.
+Es wird empfohlen, die Inhalte und Daten regelmäßig zu sichern, die Sie in den Diensten oder während der Verwendung von Drittanbieter-Apps und -Diensten speichern.
+[Zum Seitenanfang] Seitenanfang
+Updates für die Dienste oder die Software und Änderungen an diesen Bestimmungen
+7. Updates für die Dienste oder die Software und Änderungen an diesen Bestimmungen.
+    a. Wir informieren Sie, wenn wir beabsichtigen, diese Bestimmungen zu ändern.
+Wir sind berechtigt, diese Bestimmungen zu ändern, (i) wenn dies aufgrund von anwendbarem Recht erforderlich ist, weil sich z. B. dieses Recht geändert hat, (ii) wenn anwendbares Recht dies anrät oder anordnet, (iii) im Zuge der Weiterentwicklung der Dienste, (iv) aus technischen Gründen, (v) aufgrund betrieblicher Anforderungen oder (vi) bei einer Änderung der Bestimmungen zum Vorteil des Nutzers.
+Wir informieren Sie über die beabsichtigte Änderung, bevor diese wirksam wird, über die Benutzeroberfläche, in einer E-Mail-Nachricht oder auf einem anderen geeigneten Weg.
+Wir bieten Ihnen mindestens 30 Tage vor Inkrafttreten der Änderung die Möglichkeit, die Dienste zu kündigen.
+Wenn Sie die Dienste nach dem Wirksamkeitsdatum der Änderungen nutzen, stimmen Sie den neuen Bestimmungen zu.
+Wenn Sie den neuen Bestimmungen nicht zustimmen, müssen Sie die Nutzung der Dienste einstellen und Ihr Microsoft-Konto in Übereinstimmung mit Ziffer 4.a.iv schließen.
+In der Mitteilung über die beabsichtigte Änderung dieser Bestimmungen weisen wir hierauf nochmals ausdrücklich hin.
+    b. Wir sind zur automatischen Prüfung Ihrer Softwareversion berechtigt – notwendig ist dies zur Bereitstellung der Dienste, damit für Sie kostenlose Softwareupdates oder Konfigurationsänderungen heruntergeladen werden können, und für die Aktualisierung, den Ausbau und die Weiterentwicklung der Dienste.
+Unter Umständen sind Sie verpflichtet, die Software zu aktualisieren, damit Sie die Dienste weiter nutzen können.
+Für solche Updates gelten die vorliegenden Bestimmungen, es sei denn, den Updates liegen zusätzliche oder andere Bestimmungen bei.
+In diesem Fall gelten diese anderen Bestimmungen.
+Sie dürfen die Updates nicht empfangen oder verwenden, wenn Sie den zusätzlichen oder anderen Bedingungen nicht zustimmen, die für die Updates gelten.
+Microsoft ist nicht verpflichtet, Updates zur Verfügung zu stellen, und gewährleistet nicht, dass wir die Version des Systems, für das Sie die Software, Apps, Inhalte oder andere Produkte erworben oder lizenziert haben, unterstützen werden.
+    c. Wir arbeiten kontinuierlich daran, die Dienste zu verbessern, und behalten uns insofern jederzeit das Recht vor, die Dienste zu ändern, Features zu löschen oder den Zugriff auf Drittanbieter-Apps und -Dienste einzustellen.
+Dies gilt insbesondere, wenn unsere Verträge mit Dritten es uns nicht mehr ermöglichen, deren Material zur Verfügung zu stellen, wenn dies für uns nicht mehr sinnvoll ist, wenn sich Technologie weiterentwickelt oder wenn aus Kundenfeedback hervorgeht, dass eine Änderung erforderlich ist.
+Wir informieren Sie im Voraus, wenn eine Änderung an den Diensten dazu führen wird, dass Sie keinen Zugriff auf Ihre Inhalte mehr haben.
+Bei kostenpflichtigen Diensten benachrichtigen wir Sie außerdem im Voraus über andere wesentliche Änderungen der Dienste.
+Außer in dem Umfang, den anwendbares Recht vorsieht, entsteht uns keine Verpflichtung, zuvor erworbene Materialien, Digitale Waren (definiert in Ziffer 13.k) oder Anwendungen zum erneuten Download bereitzustellen oder auszutauschen.
+Wenn wir einen kostenpflichtigen Dienst kündigen, erstatten wir Ihnen anteilig den Betrag Ihrer Zahlungen zurück, die Sie in Bezug auf den zum Zeitpunkt der Kündigung noch nicht abgegoltenen Anteil des betreffenden Diensts geleistet haben.
+    d. Damit Sie Material nutzen können, das durch Digital Rights Management (DRM) geschützt sind, wie beispielsweise bestimmte Musikstücke, Spiele, Filme, Bücher usw., kann die DRM-Software automatisch eine Verbindung zu einem Onlinerechteserver herstellen und DRM-Updates herunterladen und installieren.
+[Zum Seitenanfang] Seitenanfang
+Softwarelizenz
+8. Softwarelizenz.
+Wenn kein separater Microsoft-Lizenzvertrag greift (wie es z. B. der Fall ist, wenn Sie eine Anwendung von Microsoft nutzen, die in Windows enthalten und ein Teil von Windows ist und die Softwarelizenzbestimmungen von Microsoft für das Windows-Betriebssystem auf sich zieht), unterliegt die Software, die wir Ihnen als Teil der Dienste liefern, den vorliegenden Bestimmungen.
+Für Anwendungen, die über bestimmte Stores erworben werden, deren Inhaber oder Betreiber Microsoft oder deren verbundene Unternehmen sind (wie z. B. Office Store, Microsoft Store on Windows und Microsoft Store on Xbox) gilt die Ziffer 13.b.i unten.
+    a. Wenn Sie sich an diese Bestimmungen halten, gewähren wir Ihnen das Recht, im Rahmen Ihrer Verwendung der Dienste eine Kopie der Software pro Gerät weltweit zur Nutzung durch jeweils nur eine Person zu installieren und zu verwenden.
+Auf bestimmten Geräten kann solche Software für Ihre persönliche, nicht kommerzielle Nutzung der Dienste vorinstalliert sein.
+Die Software oder Website, die Teil der Dienste ist, kann Drittanbietercode enthalten.
+Jegliche Codes von Dritten, die von dieser Software oder Website verlinkt oder referenziert werden, werden von den Dritten, die Eigentümer des Codes sind, an Sie lizenziert, nicht von Microsoft.
+Hinweise zu Drittanbietercode, wenn vorhanden, dienen lediglich Ihrer Information.
+    b. Die Software wird lizenziert, nicht verkauft, und Microsoft behält sich alle Rechte an der Software vor, die von Microsoft in diesen Bestimmungen nicht ausdrücklich gewährt werden.
+Folgende Rechte werden durch diese Lizenz nicht erteilt, und entsprechende Handlungen sind unrechtmäßig:
+        i. Umgehen oder Unterlaufen von technologischen Schutzmaßnahmen in oder in Verbindung mit der Software oder den Diensten
+        ii.
+Disassemblieren, Dekompilieren, Entschlüsseln, Hacken, Emulieren, Verwerten oder Zurückentwickeln (Reverse Engineering) von Software oder sonstigen Aspekten der Dienste, die in den Diensten inbegriffen oder darüber verfügbar sind, es sei denn, dass und nur insoweit die anwendbaren Urheberrechtsgesetze dies ausdrücklich gestatten
+        iii.
+Trennen der Komponenten der Software oder Dienste voneinander, um sie auf anderen Geräten zu nutzen
+        iv.
+Veröffentlichen, Kopieren, Vermieten, Leasen, Verkaufen, Exportieren, Importieren, Vertreiben oder Verleihen der Software oder der Dienste, sofern Ihnen dies Microsoft nicht ausdrücklich gestattet
+        v. Übertragen der Software, von Softwarelizenzen oder von Zugangs- oder Nutzungsrechten der Dienste
+        vi.
+Nutzung der Dienste auf eine nicht zulässige Weise, durch die eine andere Person in der Nutzung der Dienste oder im Zugang zu Diensten, Daten, Konten oder Netzwerken gestört werden könnte
+        vii.
+Ermöglichen des Zugangs zu den Diensten oder Ändern eines von Microsoft autorisierten Geräts (z. B. Xbox-Konsolen, Microsoft Surface usw.) durch unbefugte Drittanbieteranwendungen
+[Zum Seitenanfang] Seitenanfang
+Zahlungsbestimmungen
+9. Zahlungsbestimmungen.
+Beim Erwerb eines Diensts finden diese Zahlungsbestimmungen Anwendung, und Sie stimmen diesen Zahlungsbestimmungen zu.
+    a. Gebühren.
+Wenn für einen Teil der Dienste eine Gebühr berechnet wird, stimmen Sie der Zahlung der Gebühr zu.
+Der für die Dienste angegebene Preis beinhaltet alle anfallenden Steuern, sofern nicht etwas anderes angegeben ist.
+Sie tragen die alleinige Verantwortung für die Zahlung dieser Steuern oder sonstigen Gebühren.
+Steuern werden anhand des Standorts zum Zeitpunkt der Registrierung Ihres Microsoft-Kontos berechnet, sofern nichts anderes angegeben ist.
+Nachdem wir Ihnen mitgeteilt haben, dass wir eine Zahlung nicht pünktlich oder nicht vollständig erhalten haben, können wir die Dienste sperren oder kündigen, wenn Sie den vollen Betrag nicht innerhalb der gesetzten Frist entrichten.
+Durch eine Sperrung oder Kündigung der Dienste aufgrund ausbleibender Zahlungen können Sie den Zugriff auf Ihr Konto und dessen Inhalte verlieren.
+Wenn Sie sich mit dem Internet über ein Unternehmensnetzwerk oder ein anderes privates Netzwerk verbinden, das Ihren Standort verschleiert, können andere Gebühren entstehen als die Gebühren, die zu Ihrem tatsächlichen Standort angezeigt werden.
+Je nach Ihrem Standort können manche Transaktionen eine Fremdwährungsumrechnung erfordern oder in einem anderen Land verarbeitet werden.
+Eventuell berechnet Ihre Bank für diese Dienste zusätzliche Gebühren, wenn Sie eine Guthaben- oder Kreditkarte einsetzen.
+Bitte erkundigen Sie sich bei Ihrer Bank.
+    b. Ihr Abrechnungskonto.
+Zur Begleichung der Gebühren für einen Dienst werden Sie gebeten, eine Zahlungsart anzugeben, sobald Sie sich für den Dienst anmelden.
+Für alle Dienste außer Skype können Sie die Abrechnungsinformationen und Zahlungsart auf der Website zur Verwaltung Ihres Microsoft-Kontos (https://go.microsoft.com/fwlink/p/?linkid=618281) einsehen und ändern, und für Software und Produkte von Skype melden Sie sich bitte an Ihrem Konto-Portal unter https://skype.com/go/myaccount an.
+Sie stimmen zu, dass Microsoft ggf. von Ihrer ausstellenden Bank oder dem jeweiligen Bezahlsystem zur Verfügung gestellte aktualisierte Kontoinformationen verwenden darf.
+Sie verpflichten sich, Ihr Konto und andere Informationen, einschließlich E-Mail-Adresse und Angaben zur Zahlungsart, zeitnah zu aktualisieren, damit wir Ihre Transaktionen ausführen und Sie bei Bedarf zu Ihren Transaktionen kontaktieren können.
+Wenn Sie uns auffordern, Ihre Zahlungsart nicht weiter zu verwenden, und uns auf unsere Aufforderung hin in einem angemessenen Zeitraum keine andere Zahlungsart nennen, sind wir berechtigt, Ihren kostenpflichtigen Dienst aus wichtigem Grund zu sperren oder zu kündigen.
+Eine Änderung Ihres Abrechnungskontos wirkt sich nicht auf Belastungen des vorhandenen Abrechnungskontos durch uns aus, bevor wir nach vernünftigem Ermessen auf diese Änderung reagieren konnten.
+    c. Abrechnung.
+Indem Sie Microsoft eine Zahlungsart anbieten, (i) sichern Sie zu, dass Sie autorisiert sind, die von Ihnen angebotene Zahlungsart zu verwenden, und dass alle von Ihnen bereitgestellten Zahlungsinformationen wahr und richtig sind, (ii) ermächtigen Sie Microsoft, Ihnen die Gebühren für die Dienste oder verfügbaren Inhalte auf die von Ihnen genannte Zahlungsart in Rechnung zu stellen, und (iii) ermächtigen Sie Microsoft, Ihnen die Gebühren für alle kostenpflichtigen Features der Dienste in Rechnung zu stellen, für die Sie sich registriert haben oder die Sie verwenden, solange diese Bestimmungen Gültigkeit haben.
+Wir sind, wie beschrieben, berechtigt, Ihnen Abonnementdienste (a) im Voraus, (b) zum Zeitpunkt des Erwerbs, (c) kurz nach dem Erwerb oder (d) auf wiederkehrender Basis in Rechnung zu stellen.
+Wir sind berechtigt, Ihnen maximal den Betrag zu belasten, den Sie genehmigt haben, wir informieren Sie im Voraus über Änderungen des Betrags, den wir für Abonnementdienste berechnen, die sich automatisch verlängern, und bei einer Preisänderung werden wir Ihnen Gelegenheit geben, die Dienste zu kündigen, bevor sich der Preis ändert.
+Wir sind berechtigt, Ihnen gleichzeitig Beträge für mehrere frühere Rechnungszeiträume in Rechnung zu stellen, die noch nicht bearbeitet wurden.
+    d. Regelmäßige Zahlungen.
+Wenn Sie die Dienste auf Abonnementbasis (z. B. monatlich, alle drei Monate oder jährlich) erwerben, verpflichten Sie sich zur Entrichtung regelmäßiger Zahlungen an Microsoft auf die von Ihnen gewählte Zahlungsart in den jeweiligen Abständen, bis das Abonnement für den Dienst von Ihnen oder Microsoft gekündigt wird.
+Sie müssen Ihre Dienste vor dem nächsten Abrechnungsdatum kündigen, damit Ihnen keine weiteren Gebühren für die weitere Nutzung der Dienste in Rechnung gestellt werden.
+Wir stellen Ihnen eine Anleitung bereit, wie Sie die Dienste kündigen können.
+Indem Sie regelmäßige Zahlungen genehmigen, bevollmächtigen Sie Microsoft, Ihr Zahlungsmittel zu speichern und diese Zahlungen als elektronische Abbuchungen oder Überweisungen oder elektronischen Einzug von Ihrem angegebenen Konto (bei der Zahlungsabwicklung über automatisierte Clearingstellen oder dgl.) oder als Belastungen Ihres angegebenen Kontos (bei Zahlungen per Kreditkarte oder dgl.) abzuwickeln (zusammen als „Elektronische Zahlungen“ bezeichnet).
+Abonnementgebühren werden allgemein im Voraus für den jeweiligen Abonnementzeitraum in Rechnung gestellt bzw. belastet.
+Wird eine Zahlung unbezahlt zurückgebucht oder wird eine Kreditkarten- oder ähnliche Transaktion abgewiesen oder verweigert, behalten sich Microsoft oder ihre Dienstanbieter das Recht vor, anfallende Gebühren für Rückbuchungen, Zurückweisungen oder mangelnde Deckung einzutreiben und derartige Zahlungen als Elektronische Zahlung abzuwickeln.
+    e. Onlinekontoauszug und Fehler.
+Für alle Dienste außer Skype stellt Microsoft Ihnen auf der Website für die Microsoft-Kontoverwaltung (https://go.microsoft.com/fwlink/p/?linkid=618284) einen Onlinekontoauszug für Ihr Abrechnungskonto zur Verfügung, den Sie anzeigen und drucken können.
+Onlineauszüge von Skype erhalten Sie, indem Sie sich bei Ihrem Konto unter www.skype.com (https://www.skype.com) anmelden.
+Dies ist der einzige Rechnungsbeleg, den Sie von uns erhalten.
+Die Verfügbarkeit einer Rechnung mit Umsatzsteuerausweis ist abhängig vom jeweiligen Dienst und Land.
+Wenn Ihre Rechnung einen Fehler enthält, prüfen wir ihn bei Benachrichtigung (oder eigener Feststellung) und berichtigen ihn umgehend.
+Wir empfehlen, dass Sie uns einen offensichtlichen Fehler in Ihrer Abrechnung innerhalb von 120 Tagen anzeigen, da wir Korrekturen innerhalb dieses Zeitraums leichter vornehmen können.
+Sie können sich in diesem Zusammenhang auch jederzeit wie in Ziffer 4.e beschrieben an den Kundendienst wenden.
+    f. Erstattungsrichtlinien.
+Sie können – mit oder ohne Grund – innerhalb einer Widerrufsfrist („Widerrufsfrist“) von 14 (vierzehn) Tagen ab dem Kaufdatum widerrufen.
+Falls der Dienst zum Zeitpunkt der Kündigung teilweise bereitgestellt wurde, erhalten Sie eine anteilige Rückerstattung.
+Die Widerrufsfrist endet, sobald Ihnen der Dienst vollumfänglich bereitgestellt wurde; danach kann Ihnen der Kauf nicht zurückerstattet werden.
+Wenn Sie von uns digitale Inhalte kaufen, verwirken Sie Ihr Rücktrittsrecht, sobald Sie den Downloadvorgang starten.
+Sofern gesetzlich oder durch ein bestimmtes Dienstangebot nichts anderes festgelegt ist, sind alle Käufe endgültig und nicht erstattungsfähig.
+Wenn Sie Anspruch auf eine Erstattung haben, finden Sie in Bezug auf alle Dienste mit Ausnahme von Skype Informationen und Anweisungen zum Kündigen eines Diensts und zur Beantragung einer Erstattung über unser Widerrufsformular auf der Website für die Microsoft-Kontoverwaltung (https://go.microsoft.com/fwlink/p/?linkid=618284).
+Im Falle von Skype gelten die hier (https://go.microsoft.com/fwlink/p/?linkid=618286) bereitgestellten Informationen zum Ausfüllen des Widerrufsformulars.
+Sollten Sie der Ansicht sein, dass Microsoft Ihnen fälschlicherweise eine Rechnung gestellt hat, müssen Sie sich an Microsoft wenden, und wir werden die Rechnung überprüfen.
+Wenn wir Erstattung leisten oder eine Gutschrift gewähren, verpflichtet uns das nicht, die gleiche oder eine ähnliche Erstattung auch in Zukunft zu leisten.
+Diese Erstattungsrichtlinien berühren keine Rechte unter anwendbarem Recht.
+Weitere Informationen zur Erstattung finden Sie unter Hilfethema (https://go.microsoft.com/fwlink/p/?linkid=618283).
+    g. Kündigen der Dienste.
+Sie können die Dienste auf der Seite zur Verwaltung von Diensten und Abonnements Ihres Microsoft-Kontos (https://account.microsoft.com/) kündigen, oder wenden Sie sich wie in Ziffer 4.e oben beschrieben an den Kundendienst.
+Durch das Kündigen der bezahlten Dienste werden Ihnen keine weiteren Gebühren für die weitere Nutzung der Dienste in Rechnung gestellt.
+Prüfen Sie zuvor noch einmal eingehend das Angebot, in dem die Dienste beschrieben werden, da (i) Sie möglicherweise zum Zeitpunkt der Kündigung keine Erstattung erhalten, (ii) Sie möglicherweise verpflichtet sind, Kündigungsgebühren zu zahlen, (iii) Sie ggf. verpflichtet sind, alle Gebühren zu begleichen, mit denen Ihr Abrechnungskonto für die Dienste vor dem Kündigungsdatum belastet wurde, und (iv) Sie eventuell den Zugriff auf Ihr Konto verlieren, wenn Sie die Dienste kündigen.
+Ihre Daten werden wie oben in Ziffer 4 beschrieben verarbeitet.
+Bei einer Kündigung werden Ihre Dienste am Ende des aktuellen Dienstzeitraums oder (bei regelmäßiger Abrechnung des Diensts) am Ende des Zeitraums beendet, in dem Sie gekündigt haben.
+Wenn Sie bei Ihrer Bank eine Rückbuchung oder Stornierung für die Zahlung von Services veranlassen, werden Sie zum Zeitpunkt der ursprünglichen Zahlung als storniert eingestuft, und Sie ermächtigen uns, Ihren Service sofort zu stornieren und/oder Inhalte zu widerrufen, die Ihnen im Austausch für eine solche Zahlung zur Verfügung gestellt wurden.
+    h. Testzeitraumangebote.
+Wenn Sie an einem Testzeitangebot teilnehmen, müssen Sie möglicherweise die Testdienste innerhalb des Zeitraums kündigen, der Ihnen bei Ihrer Annahme des Angebots mitgeteilt wurde, um die Berechnung weiterer Gebühren für die Dienste am Ende des Testzeitraums zu vermeiden.
+    i. Werbeangebote.
+Von Zeit zu Zeit bietet Microsoft Dienste für einen Testzeitraum an, in dem Microsoft Ihnen die Dienste nicht berechnet.
+Microsoft behält sich das Recht vor, Ihnen diese Dienste (zum Normalpreis) zu berechnen, sollten Sie gegen die Bestimmungen des Angebots verstoßen.
+    j. Preisänderungen.
+Wenn für Ihr Dienstangebot eine feste Laufzeit und ein fester Preis gelten, gilt dieser Preis für die betreffende Laufzeit.
+Wenn Sie die Dienste danach weiter nutzen möchten, müssen Sie einem neuen Angebot und Preis zustimmen.
+Wenn Ihre Dienste periodisch und nicht für eine bestimmte Zeitdauer bereitgestellt werden (beispielsweise monatlich) und es sich nicht um ein Testangebot handelt, können wir den Preis der Dienste entsprechend den erhöhten Kosten für die Bereitstellung der Dienste ändern, wenn wir neue oder verbesserte Dienstfeatures hinzufügen, oder als Reaktion auf Marktveränderungen (beispielsweise aufgrund von Arbeitskosten, Währungsschwankungen, Änderungen von Steuern/Vorschriften, Inflation, Lizenzgebühren oder Infrastruktur- und Verwaltungskosten).
+Wir informieren Sie mindestens 30 Tage vor Inkrafttreten der Preisänderung.
+Sie erhalten die Möglichkeit zur Kündigung der Dienste gemäß Ziffer 9.h oben, bevor sich der Preis ändert.
+Wenn wir Sie über eine Preisänderung benachrichtigen, informieren wir Sie auch über die Gründe für die Preisänderung und ihren Umfang und dass der neue Preis in Kraft tritt, wenn Sie die Dienste nicht kündigen.
+Wir erinnern Sie auch daran, wie Sie die Dienste kündigen können.
+    k. Zahlungen an Sie.
+Für den Fall, dass wir Ihnen eine Zahlung schuldig sind, stimmen Sie zu, uns rechtzeitig und eindeutig alle Informationen zur Verfügung zu stellen, die wir für die Zahlung an Sie benötigen.
+Sie sind verantwortlich für alle Steuern und Gebühren, die Ihnen ggf. durch die Zahlung entstehen.
+Darüber hinaus müssen Sie alle anderen Bedingungen einhalten, die wir für Ihr Recht auf Zahlungen festlegen.
+Wenn Sie irrtümlicherweise eine Zahlung erhalten, machen wir die Zahlung möglicherweise rückgängig oder verlangen die Rückerstattung der Zahlung.
+Sie erklären sich damit einverstanden, bei unseren diesbezüglichen Bemühungen mit uns zusammenzuarbeiten.
+Darüber hinaus können wir die Zahlung an Sie ohne Vorankündigung kürzen, um eine vorangegangene Überzahlung auszugleichen.
+    l. Zahlungsverzug.
+Bei Zahlungsverzug müssen Sie für die angemessenen Kosten aufkommen, die uns für den Einzug überfälliger Beträge entstehen, einschließlich Anwaltskosten oder sonstiger Rechtskosten, soweit dies unter den anwendbaren Gesetzen und Bestimmungen zulässig ist.
+Wir sind berechtigt, Ihre Dienste zu sperren oder zu kündigen, wenn Sie sämtliche Beträge nicht vollständig und pünktlich bezahlen, nachdem Sie eine Erinnerung von uns erhalten haben – mit der Androhung einer Sperrung und/oder Kündigung der Dienste –, in der Sie zur Zahlung innerhalb eines angemessenen Zeitraums aufgefordert werden.
+Sie können die Sperrung oder Kündigung vermeiden, wenn Sie die erforderliche Zahlung innerhalb des angemessenen Zeitraums tätigen, der in der Erinnerung angegeben ist.
+Wenn der fehlende Betrag nur geringfügig ist, gilt ein anderes Verfahren.
+Fehlende Beträge unter 2 Prozent des Gesamtrechnungswerts werden immer als geringfügig betrachtet.
+Durch eine Sperrung oder Kündigung der Dienste aufgrund ausbleibender Zahlungen kann der Zugriff auf Ihr Microsoft-Konto verloren gehen.
+    m. Geschenkkarten.
+Die Einlösung und Nutzung von Geschenkkarten (mit Ausnahme von Skype-Geschenkkarten) richtet sich nach den Microsoft-Bestimmungen für Geschenkkarten (https://support.microsoft.com/help/10562/microsoft-account-gift-card-terms-and-conditions).
+Informationen zu Skype-Geschenkkarten finden sich auf der Skype-Hilfeseite (https://go.microsoft.com/fwlink/?LinkId=615383).
+    n. Zahlungsabwicklung über Bankkonto.
+Sie können in Ihrem Microsoft-Konto als Zahlungsart ein geeignetes Bankkonto angeben.
+Geeignete Bankkonten sind Konten, die bei einem Finanzinstitut geführt werden, das Direktlastschriften empfangen kann (z. B. ein Finanzinstitut in den USA, das das ACH („Automated Clearing House“)-Verfahren unterstützt, ein Finanzinstitut in Europa, das das SEPA („Single Euro Payment Area“)-Lastschriftverfahren oder in den Niederlanden „iDEAL“-Überweisungen unterstützt).
+Es gelten zusätzlich die Bestimmungen, die Sie akzeptieren, wenn Sie Ihrem Microsoft-Konto Ihr Bankkonto (im Fall von SEPA z. B. das „SEPA-Mandat“) als Zahlungsart hinzufügen.
+Sie sichern zu und gewährleisten, dass das von Ihnen angegebene Bankkonto auf Ihren Namen geführt wird und Sie berechtigt sind, dieses Bankkonto als Zahlungsart zu hinterlegen und zu nutzen.
+Indem Sie Ihr Bankkonto als Zahlungsart hinterlegen oder wählen, bevollmächtigen Sie Microsoft (oder deren Vertreter), eine oder mehrere Lastschriftabbuchungen über den Gesamtbetrag Ihres Einkaufs oder Ihrer Abonnementgebühr (gemäß den Bestimmungen Ihres Abonnementdiensts) von Ihrem Bankkonto zu veranlassen (und ggf. eine oder mehrere Gutschriften auf Ihr Bankkonto zur Korrektur von Irrtürmern, Erstattung von Beträgen oder dgl. zu veranlassen), und Sie ermächtigen das kontoführende Finanzinstitut, derartige Abbuchungen und Gutschriften vorzunehmen.
+Sie nehmen zur Kenntnis, dass diese Ermächtigung in Kraft bleibt, bis Sie die Angabe Ihres Bankkontos in Ihrem Microsoft-Konto löschen.
+Wenn Sie vermuten, dass eine Fehlbuchung vorliegt, wenden Sie sich bitte umgehend wie in Ziffer 4.e beschrieben an den Kundensupport.
+Die Gesetze Ihres Lands können Ihre Haftung für betrügerische, fehlerhafte oder nicht ermächtigte Transaktionen über Ihr Bankkonto begrenzen.
+Indem Sie ein Bankkonto als Zahlungsart hinterlegen oder wählen, bestätigen Sie, dass Sie diese Bestimmungen gelesen und verstanden haben und akzeptieren.
+[Zum Seitenanfang] Seitenanfang
+Vertragsschließende Gesellschaft, Rechtswahl und Gerichtsstand
+10. Vertragsschließende Gesellschaft, Rechtswahl und Gerichtsstand.
+Wenn Sie in der Europäischen Union, Island, Liechtenstein, Norwegen, der Schweiz oder Großbritannien leben (oder als Unternehmen dort Ihren Hauptgeschäftssitz haben) und kostenlose oder kostenpflichtige Dienste nutzen, ist Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irland (beim Companies Registration Office in Irland unter der Nummer 256796 und der Umsatzsteueridentifikationsnummer IE 8256796 U sowie der Adresse 70 Sir John Rogerson’s Quay, Dublin 2, Irland registriert) die vertragsschließende Gesellschaft.
+Für alle Ansprüche im Zusammenhang mit kostenlosen und kostenpflichtigen Diensten gelten die Gesetze von Irland.
+Ihre Rechte nach dem Verbraucherschutzgesetz des Lands, in dem wir Ihnen die Dienste anbieten und in dem Sie Ihren gewöhnlichen Aufenthalt (bzw. als Unternehmen Ihren Hauptgeschäftssitz) haben, bleiben hiervon unbeschadet.
+Als zuständigen Gerichtsstand für alle Rechtsstreitigkeiten, die aus oder im Zusammenhang mit diesen Bestimmungen entstehen, vereinbaren Sie und Microsoft die Gerichte in dem Land, in dem wir Ihnen die Dienste anbieten und in dem Sie Ihren gewöhnlichen Aufenthalt (bzw. als Unternehmen Ihren Hauptgeschäftssitz) haben.
+Alternativ können Sie das zuständige Gericht in Irland wählen.
+[Zum Seitenanfang] Seitenanfang
+Gewährleistungen
+11. Gewährleistungen.
+Als Verbraucher haben Sie bestimmte gesetzlich verbriefte Rechte.
+Diese Rechte verpflichten Microsoft unter anderem zur Bereitstellung der Dienste mit angemessener Sorgfalt und Sachkunde.
+Nichts in diesen Bestimmungen soll unsere Haftung für Verstöße von Microsoft gegen diese Verpflichtung einschränken oder ausschließen.
+MIT AUSNAHME VON FÄLLEN, IN DENEN ARGLISTIG VERSTECKTE MÄNGEL AUFTRETEN ODER DIE NUTZUNG DER DIENSTE DURCH MÄNGEL UNMÖGLICH IST, UND MIT AUSNAHME VON ZAHLUNGSPFLICHTIGEN SKYPE-PRODUKTEN WERDEN ALLE DIENSTE „WIE BESEHEN“, „OHNE GARANTIE DER FEHLERFREIHEIT“ UND „WIE VERFÜGBAR“ BEREITGESTELLT.
+WIR GARANTIEREN DIE GENAUIGKEIT ODER PÜNKTLICHKEIT DER DIENSTE NICHT.
+SIE ERKENNEN AN UND AKZEPTIEREN, DASS COMPUTER UND TELEKOMMUNIKATIONSSYSTEME NICHT FEHLERFREI SIND UND DASS ES GELEGENTLICH ZU AUSFÄLLEN KOMMEN KANN.
+WIR KÖNNEN NICHT GARANTIEREN, DASS DIE DIENSTE UNTERBRECHUNGSFREI, ZEITNAH, SICHER ODER FEHLERFREI SEIN WERDEN.
+WIR UND UNSERE VERBUNDENEN UNTERNEHMEN, HANDELSPARTNER, DISTRIBUTOREN UND LIEFERANTEN GEBEN KEINE VERTRAGLICHEN GARANTIEN ODER ZUSICHERUNGEN AB.
+IHNEN STEHEN ALLE GESETZLICH VORGESEHENEN GEWÄHRLEISTUNGEN ZU, WIR ÜBERNEHMEN ABER KEINE WEITEREN GEWÄHRLEISTUNGEN.
+WIR SCHLIESSEN IN DEM NACH ANWENDBAREM RECHT GRÖSSTMÖGLICHEN UMFANG ALLE KONKLUDENTEN ZWINGENDEN GEWÄHRLEISTUNGEN AUS, EINSCHLIESSLICH DER HANDELSÜBLICHKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, DER FACHMÄNNISCHEN AUSFÜHRUNG UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+[Zum Seitenanfang] Seitenanfang
+Haftungsbeschränkung
+12. Haftungsbeschränkung.
+    a. Microsoft haftet nicht für Ihre Inhalte, Ihre Materialien oder für Materialien Dritter sonstiger Art, einschließlich Links zu Websites Dritter und Aktivitäten, die von Nutzern bereitgestellt wurden.
+Diese Inhalte und Aktivitäten sind weder Microsoft zuzuschreiben, noch geben sie die Meinung von Microsoft wieder.
+    b. Microsoft haftet nur, wenn wesentliche Vertragspflichten oder nach anwendbarem Recht gesetzliche Pflichten verletzt wurden.
+    c. Microsoft, ihre indirekten Vertreter und/oder gesetzlichen Vertreter haften nicht für indirekte Schäden, einschließlich finanzieller Verluste wie entgangene Gewinne, es sei denn, Microsoft, ihre indirekten Vertreter und/oder ihre gesetzlichen Vertreter haben mindestens grob fahrlässig oder vorsätzlich gehandelt.
+    d. Eine gesetzliche verschuldensunabhängige Haftung durch Microsoft, einschließlich einer gesetzlichen Haftung wegen Garantieverletzung, ist von der Haftungsbeschränkung nicht betroffen.
+Das Gleiche gilt für die Haftung von Microsoft, ihren indirekten Vertretern und/oder ihren gesetzlichen Vertretern im Falle eines Betrugs oder ihrer Fahrlässigkeit, die zu einer Verletzung des Körpers oder der Gesundheit einer Person oder zum Tod führt.
+    e. Microsoft ist für eine Nichterfüllung oder verzögerte Erfüllung ihrer Verpflichtungen unter diesen Bestimmungen insoweit nicht verantwortlich oder haftbar, als diese Nichterfüllung oder Verzögerung auf Umstände zurückzuführen ist, die außerhalb des angemessenen Einflussbereichs von Microsoft liegen (z. B. Arbeitskämpfe, höhere Gewalt, Krieg, terroristische Handlungen, böswillige Sachbeschädigung, Unfälle oder die Einhaltung anwendbaren Rechts oder einer behördlichen Anordnung).
+Microsoft unternimmt alle Anstrengungen, die Auswirkungen solcher Ereignisse zu minimieren und die davon nicht betroffenen Verpflichtungen zu erfüllen.
+[Zum Seitenanfang] Seitenanfang
+Dienstspezifische Bestimmungen
+13. Dienstspezifische Bestimmungen.
+Die Bestimmungen vor und nach Ziffer 13 finden allgemein Anwendung für alle Dienste.
+Diese Ziffer enthält dienstspezifische Bestimmungen, die zusätzlich zu den allgemeinen Bestimmungen gelten.
+Wenn sich allgemeine und dienstspezifische Bestimmungen widersprechen, haben die dienstspezifischen Bestimmungen Vorrang.
+[Zum Seitenanfang] Seitenanfang
+Xbox
+    a. Xbox.
+        i. Persönliche, nicht kommerzielle Nutzung.
+Der Xbox-Onlinedienst, Xbox Game Studios (https://www.xbox.com/xbox-game-studios)-Spiele (einschließlich Mojang Games), Anwendungen, Abonnements (z. B. Xbox Game Pass für PC, Xbox Game Pass für die Konsole, Xbox Game Pass Ultimate), Dienste (z. B. Xbox Live) und von Microsoft bereitgestellte Inhalte (zusammen die „Xbox-Dienste“) sind nur für Ihren persönlichen und nicht kommerziellen Gebrauch bestimmt.
+        ii.
+Xbox-Dienste.
+Wenn Sie sich bei Xbox-Diensten registrieren und diese erhalten, werden Informationen zu Spielweise, Aktivitäten und Nutzung von Spielen und Xbox-Diensten mitverfolgt und mit Spieleentwicklern entsprechender Drittparteien geteilt, damit Microsoft und die Spieleentwickler der Drittpartei ihre Spiele betreiben und die Xbox-Dienste liefern können.
+Wenn Sie Ihr Konto für Microsoft Xbox-Dienste mit Ihrem Konto bei einem Nicht-Microsoft („fremden“) Dienst verknüpfen oder über Ihr Konto für Xbox-Dienste auf einen fremden Dienst (d. h. eines anderen Anbieters von Spielen, Apps und Diensten als Microsoft) zugreifen, stimmen Sie zu, dass (a) Microsoft bestimmte Kontoinformationen (wie z. B. Gamertag, Gamerscore, Spielstand, Spielverlauf und Freundesliste) für die fremde Partei wie in den Microsoft-Datenschutzbestimmungen beschrieben freigeben darf und (b), wenn von Ihren Xbox-Datenschutzeinstellungen erlaubt, die fremde Partei auch Zugriff auf Ihre Inhalte aus spielinterner Kommunikation haben darf, wenn Sie bei Ihrem Konto der fremden Partei angemeldet sind.
+Außerdem kann Microsoft, wenn es Ihre Xbox-Datenschutzeinstellungen zulassen, Ihren Namen, Ihren Gamertag, Ihr Spielerbild, Ihr Motto, Ihren Avatar, Spielmitschnitte und Spiele, die Sie gespielt haben, in Mitteilungen an Personen veröffentlichen, denen Sie dies gestatten.
+        iii.
+Ihre Inhalte.
+Für den Aufbau der Xbox-Dienste-Community gewähren Sie Microsoft, ihren verbundenen Unternehmen und Unterlizenznehmern das kostenlose und weltweite Recht, Ihre Inhalte oder Ihren Namen, Ihren Gamertag, Ihr Spielerbild, Ihr Motto oder Ihren Avatar, die Sie für beliebige Xbox-Dienste gepostet haben, ganz oder teilweise sowie material- und datenträgerunabhängig und auf beliebige Art und Weise zu nutzen, zu verändern, zu vervielfältigen, zu verbreiten, zu übertragen, zu teilen und anzuzeigen.
+        iv.
+Spielemanager.
+Bei einigen Spielen können Spielemanager, -botschafter und -hosts eingesetzt werden.
+Spielleiter und Hosts sind keine autorisierten Sprecher von Microsoft.
+Ihre Ansichten entsprechen nicht zwangsläufig denen von Microsoft.
+        v. Xbox-Nutzung durch Minderjährige.
+Wenn Sie als Minderjähriger die Xbox-Dienste nutzen, haben Ihre Eltern oder Erziehungsberechtigten möglicherweise Kontrolle über zahlreiche Aspekte Ihres Kontos und können Berichte über Ihre Nutzung der Xbox-Dienste empfangen.
+        vi.
+Spielewährung oder virtuelle Waren.
+Die Xbox-Dienste können eine virtuelle Spielewährung umfassen (wie Gold, Münzen oder Punkte), die von oder im Auftrag von Microsoft mit echten Geldinstrumenten erworben werden können, wenn Sie im Land Ihres Wohnsitzes volljährig sind.
+Die Xbox-Dienste können auch virtuelle digitale Artikel oder Waren enthalten, die von oder im Auftrag von Microsoft mit echten Geldinstrumenten oder mit Spielewährung erworben werden können.
+Spielewährung und virtuelle Waren können nie in echte Geldinstrumente, Waren oder andere Artikel mit Geldwert von Microsoft oder einer anderen Partei zurückgewechselt werden.
+Abgesehen von einer eingeschränkten, persönlichen, widerrufbaren, nicht übertragbaren, nicht unterlizenzierbaren Lizenz zur Nutzung der Spielewährung und der virtuellen Waren ausschließlich in den Xbox-Diensten haben Sie keine Rechte oder Ansprüche an derartiger Spielewährung oder virtuellen Waren in Verbindung mit einem oder mehreren Xbox-Spielen oder -Apps, die in den Xbox-Diensten vorkommen oder diesen entstammen, oder an allen sonstigen Attributen, die im Zusammenhang mit der Nutzung der Xbox-Dienste stehen oder darin gespeichert sind.
+Microsoft kann ihr Angebot an Spielewährung oder virtuellen Waren von Zeit zu Zeit ändern.
+        vii.
+Softwareupdates.
+Bei einem Gerät, das sich mit den Xbox-Diensten verbinden kann, sind wir berechtigt, Ihre Version der Xbox-Konsolensoftware oder der Xbox-App-Software automatisch zu prüfen und Softwareupdates oder Konfigurationsänderungen für die Xbox-Konsole oder Xbox-App herunterzuladen, auch solche, die Sie am Zugriff auf die Xbox-Dienste, an der Nutzung nicht autorisierter Xbox-Spiele oder Xbox-Apps oder der Nutzung nicht autorisierter Hardwareperipheriegeräte in Verbindung mit einer Xbox-Konsole hindern.
+        viii.
+Ablauf des Gamertag.
+Sie müssen sich in einem Zeitraum von fünf Jahren mindestens ein Mal an den Xbox-Diensten anmelden, andernfalls können Sie den Zugang zu dem Gamertag verlieren, der Ihrem Konto zugeordnet ist, und der Gamertag kann dann an andere Benutzer vergeben werden.
+        ix.
+Cheat- und Manipulationssoftware.
+Wir sind berechtigt, ein Gerät, das sich mit den Xbox-Diensten verbinden kann, automatisch auf unerlaubte Hardware oder Software zu prüfen, die entgegen den Verhaltensregeln dieser Bestimmungen Mogeleien („Cheaten“) und Manipulationen ermöglicht.
+Wir sind berechtigt, Xbox-App-Softwareupdates oder Konfigurationsänderungen herunterzuladen, darunter auch solche, die Sie am Zugriff auf die Xbox-Dienste oder an der Nutzung einer nicht autorisierten Hardware oder Software hindern, die Mogeleien und Manipulationen ermöglicht.
+[Zum Seitenanfang] Seitenanfang
+Store
+    b. Store. „
+Store“ bezieht sich auf einen Dienst, der Ihnen die Möglichkeit bietet, Anwendungen (der Begriff „Anwendungen“ umfasst Spiele) und sonstige digitale Inhalte zu suchen, herunterzuladen, zu erwerben, zu bewerten und eine Rezension dazu zu schreiben.
+Diese Bestimmungen decken die Nutzung von bestimmten, im Besitz von Microsoft oder dessen verbundenen Unternehmen befindlichen oder von diesen betriebenen Stores ab (einschließlich, jedoch nicht beschränkt auf den Office Store, den Microsoft Store auf Windows und den Microsoft Store auf Xbox). „
+Office Store“ steht für einen Store für Office-Produkte und Apps für Office, Microsoft 365, SharePoint, Exchange, Access und Project (Version 2013 oder später) oder jedes andere Konzept unter der Marke Office Store. „
+Microsoft Store on Windows“ steht für einen Store, dessen Inhaber und Betreiber Microsoft oder deren verbundene Unternehmen sind, für Windows-Geräte, wie Smartphones, PCs und Tablets, oder jedes andere Konzept unter der Marke Windows Store, das auf Windows-Geräten wie Smartphones, PCs oder Tablets zugänglich ist. „
+Microsoft Store on Xbox“ steht für einen Store, dessen Inhaber und Betreiber Microsoft oder deren verbundene Unternehmen sind, und der auf Xbox-Konsolen zur Verfügung gestellt wird, oder jedes andere Konzept unter der Marke Microsoft Store, das auf Xbox-Konsolen zur Verfügung gestellt wird.
+        i. Lizenzbestimmungen.
+Wir geben den Herausgeber jeder Anwendung an, die in dem entsprechenden Store verfügbar ist.
+Wenn der Anwendung nicht andere Lizenzbestimmungen beigegeben sind, bilden die Standardlizenzbestimmungen für Anwendungen („SALT“) am Ende dieser Bestimmungen den Vertrag zwischen Ihnen und dem Herausgeber zur Regelung der Lizenzbestimmungen für eine Anwendung, die Sie von einem beliebigen Store (außer dem Office Store) herunterladen, dessen Inhaber und Betreiber Microsoft oder deren verbundene Unternehmen sind.
+Es sei noch einmal klargestellt, dass die hier vorliegenden Bestimmungen für die Nutzung und die Bereitstellung von Microsoft-Diensten gelten.
+Die Ziffer 5 dieser Bestimmungen hingegen gilt genauso für beliebige über den Store erworbene Drittanbieter-Apps und -Dienste.
+Über den Office Store heruntergeladene Anwendungen fallen nicht unter die Standardlizenzbestimmungen für Anwendungen; für solche Anwendungen gelten gesonderte Lizenzbestimmungen.
+        ii.
+Aktualisierungen.
+Microsoft überprüft automatisch, ob Aktualisierungen zu Ihren Anwendungen vorliegen, und lädt diese auch automatisch herunter, selbst wenn Sie nicht beim entsprechenden Store angemeldet sind.
+Sie können Ihre Store- oder Systemeinstellungen ändern, wenn Sie es vorziehen, dass Store-Anwendungen nicht automatisch aktualisiert werden sollen.
+Bestimmte, vollständig oder teilweise online gehostete, Anwendungen aus dem Office Store hingegen können jederzeit vom Entwickler der Anwendung aktualisiert werden und bedürfen dazu eventuell nicht Ihrer Zustimmung.
+        iii.
+Bewertungen und Rezensionen.
+Wenn Sie eine Bewertung oder eine Rezension für eine im Store erhältliche Anwendung oder andere Digitale Waren abgeben, können Sie E-Mails von Microsoft mit Inhalten vom Herausgeber der Anwendung oder der Digitalen Waren erhalten.
+Solche E-Mails stammen von Microsoft; wir geben Ihre E-Mail-Adresse nicht an Herausgeber der von Ihnen über den Store erworbenen Anwendungen oder Digitalen Waren weiter.
+        iv.
+Sicherheitswarnung.
+Um körperliche Schäden und Beschwerden oder eine Überanstrengung der Augen zu vermeiden, sollten Sie bei der Nutzung von Spielen oder anderen Anwendungen regelmäßige Pausen einlegen, insbesondere dann, wenn Schmerzen oder Ermüdungserscheinungen auftreten.
+Wenn Beschwerden auftreten, unterbrechen Sie die Nutzung.
+Mögliche Beschwerden sind Übelkeit, Bewegungskrankheit, Schwindelgefühl, Orientierungsstörungen, Kopfschmerz, Müdigkeit, Überanstrengung oder Trockenheit der Augen.
+Die Beschäftigung mit den Anwendungen kann Sie ablenken und Ihre Umgebung beeinträchtigen.
+Achten Sie auf Stolpergefahren, Stufen, niedrige Decken und zerbrechliche oder wertvolle Dinge, die Schaden nehmen könnten.
+Bei einer sehr geringen Anzahl von Leuten kann es zu Anfällen kommen, wenn sie mit bestimmten visuellen Bildern wie blinkenden Lichtern oder Mustern konfrontiert werden, die möglicherweise in Anwendungen vorkommen.
+Auch bei Personen, bei denen es in der Vergangenheit nie zu Anfällen gekommen ist, besteht das Risiko einer unentdeckten Disposition, durch die solche Anfälle verursacht werden könnten.
+Zu den Symptomen gehören Schwindel, Sehstörungen, Zuckungen oder Zittern der Gliedmaßen, Orientierungslosigkeit, Verwirrungszustände, Bewusstlosigkeit oder Krämpfe.
+Hören Sie sofort auf, die Anwendungen zu benutzen, und suchen Sie einen Arzt auf, wenn eines dieser Symptome bei Ihnen auftritt, oder suchen Sie einen Arzt auf, bevor Sie die Anwendungen benutzen, falls bei Ihnen jemals mit Anfällen verbundene Symptome aufgetreten sind.
+Eltern sollten Ihre Kinder bei der Verwendung von Anwendungen beaufsichtigen und auf Anzeichen für Symptome achten.
+[Zum Seitenanfang] Seitenanfang
+Microsoft Family-Features
+    c. Microsoft Family-Features.
+Die Microsoft Family-Features, darunter Microsoft Family Safety, schaffen für Eltern und Kinder Vertrauen und Sicherheit durch die Möglichkeit, sich gemeinsam auf Verhaltensregeln, Websites, Apps, Spiele, Plätze und Geldausgaben zu einigen, die der eigenen Familie den passenden Rahmen bieten.
+Eltern können auf https://account.microsoft.com/family (oder wie in der Anleitung des Windows-Geräts oder der Xbox-Konsole beschrieben) eine Familie erstellen und Kinder oder andere Eltern einladen, der Familie beizutreten.
+Familienmitgliedern stehen zahlreiche Features zur Verfügung – achten Sie daher bitte genau auf die angezeigten Informationen, wenn Sie eine Familie erstellen oder einer Familie beitreten und wenn Sie Digitale Waren kaufen, zu denen die Familie Zugang haben soll.
+Wenn Sie eine Familie erstellen oder einer Familie beitreten, verpflichten Sie sich, die Familie zu ihrem bestimmungsgemäßen Zweck und nicht unerlaubterweise dazu zu nutzen, sich unrechtmäßig Zugang zu Informationen über andere Personen zu verschaffen.
+[Zum Seitenanfang] Seitenanfang
+Gruppennachrichten
+    d. Gruppennachrichten.
+Verschiedene Microsoft-Dienste ermöglichen es Ihnen, anderen Personen Sprachnachrichten oder SMS („Nachrichten“) zu senden, und/oder ermöglichen es Microsoft und von Microsoft kontrollierten verbundenen Unternehmen, solche Nachrichten in Ihrem Auftrag an Sie und an einen oder mehrere andere Nutzer zu senden.
+WENN SIE MICROSOFT UND VON MICROSOFT KONTROLLIERTE VERBUNDENE UNTERNEHMEN BEAUFTRAGEN, SOLCHE NACHRICHTEN AN SIE ODER ANDERE ZU SENDEN, SICHERN SIE UNS ZU UND GEWÄHRLEISTEN, DASS SIE UND JEDE PERSON, DER WIR IN IHREM AUFTRAG NACHRICHTEN SENDEN, DEM ERHALT SOLCHER NACHRICHTEN UND ETWAIGER RELEVANTER VERWALTUNGS-SMS VON MICROSOFT UND VON VERBUNDENEN UNTERNEHMEN UNTER DER KONTROLLE VON MICROSOFT ZUSTIMMEN. „
+Verwaltungs-SMS“ sind Routinetransaktionsnachrichten eines bestimmten Microsoft-Diensts, wie zum Beispiel eine „Willkommensnachricht“ oder eine Anleitung, wie der Erhalt von Nachrichten abgestellt werden kann.
+Sie oder Gruppenmitglieder, die solche Nachrichten künftig nicht mehr erhalten möchten, können den Erhalt weiterer Nachrichten von Microsoft oder von verbundenen Unternehmen unter der Kontrolle von Microsoft jederzeit wie in der Anleitung beschrieben abstellen.
+Sie stimmen zu, dass Sie der entsprechenden Anleitung des jeweiligen Programms oder Diensts folgen, wenn Sie solche Nachrichten nicht mehr erhalten oder an einer Gruppe nicht mehr teilnehmen möchten.
+Sie stimmen zu, dass Sie Gruppenmitglieder aus der Gruppe entfernen, von denen Sie annehmen, dass sie solche Nachrichten nicht mehr erhalten oder nicht mehr an der Gruppe teilnehmen möchten.
+Sie sichern uns außerdem zu und gewährleisten, dass jede Person, der wir in Ihrem Auftrag Nachrichten senden, weiß, dass jedes Gruppenmitglied für die Kosten eventueller Nachrichtengebühren verantwortlich ist, die dessen Mobilnetzbetreiber festsetzt, einschließlich etwaiger internationaler Nachrichtengebühren, die anfallen können, wenn Nachrichten von USA-Nummern gesendet werden.
+[Zum Seitenanfang] Seitenanfang
+Skype, Microsoft Teams und GroupMe
+    e. Skype, Microsoft Teams und GroupMe.
+        i. Notdienste.
+Es gibt wesentliche Unterschiede zwischen herkömmlichen Mobilfunk- oder Festnetztelefondiensten und Skype, Microsoft Teams und GroupMe.
+Microsoft ist nicht verpflichtet, den Zugriff auf Notdienste für Skype, Microsoft Teams und GroupMe (mit Ausnahme von Skype to Phone, wie unten beschrieben) gemäß den geltenden lokalen oder nationalen Regeln, Vorschriften oder Gesetzen anzubieten.
+Software und Produkte von Skype sind nicht darauf ausgelegt, Notrufe an Krankenhäuser, Polizei, medizinische Versorgungszentren oder sonst eine Dienststelle zu unterstützen oder durchzuleiten, die einen Nutzer mit dem Personal von Notfalldiensten oder mit öffentlichen Notrufzentralen verbindet („Notfalldienste“).
+Nur die Funktion Skype to Phone kann Notrufe unterstützen, d. h. den Anruf bei Notfalldiensten, in einer sehr begrenzten Anzahl von Ländern und lediglich auf bestimmten Versionen oder Plattformen der Skype-Software.
+Einzelheiten zur Verfügbarkeit und zur Konfiguration dieses Features finden Sie hier: https://www.skype.com/go/emergency.
+Beim Zustandekommen eines Notrufs über Skype to Phone müssen Sie Angaben zu Ihrem physischen Standort machen, damit die Notfalldienste reagieren können.
+Microsoft garantiert nicht die Vermittlung von Notrufen.
+Weitere Informationen zum Rufen der 112, der Notrufnummer für die EU, finden Sie unter www.skype.com/go/emergency.
+        ii.
+Änderungen an zahlungspflichtigen Skype-Produkten.
+Sollten wir an den zahlungspflichtigen Skype-Produkten Änderungen vornehmen, die zu Ihrem Nachteil gereichen, informieren wir Sie mindestens dreißig (30) Tage vor Inkrafttreten der Änderungen darüber und über Ihr Recht, die Nutzung des betroffenen Produkts zu beenden, bevor die Änderungen daran wirksam werden.
+Wenn Sie die Nutzung des Produkts nicht vor Inkrafttreten der Änderungen beenden, stimmen Sie den Änderungen zu.
+Wir werden Sie ausdrücklich über diese Tatsache informieren, wenn wir Sie diesbezüglich benachrichtigen.
+        iii.
+APIs oder Broadcasts.
+Wenn Sie Skype in Verbindung mit einem Broadcast nutzen möchten, müssen Sie die „Broadcast-Nutzungsbedingungen“ unter https://www.skype.com/go/legal.broadcast einhalten.
+Wenn Sie eine von Microsoft verfügbar gemachte Anwendungsprogramm-Schnittstelle („API“) nutzen möchten, sind Sie zur Einhaltung der unter www.skype.com/go/legal zur Verfügung stehenden geltenden Lizenzbestimmungen verpflichtet.
+        iv.
+Richtlinien für die faire Nutzung.
+Für Ihre Nutzung der Software und Produkte von Skype gelten unter Umständen Richtlinien für die faire Nutzung.
+Lesen Sie diese Richtlinien durch, durch die Betrug und Missbrauch verhindert werden sollen und nach denen möglicherweise die Art, Dauer oder das Volumen von möglichen Anrufen oder Mitteilungen begrenzt werden.
+Diese Richtlinien werden durch Bezugnahme Bestandteil der vorliegenden Bestimmungen.
+Sie finden diese Richtlinien unter https://www.skype.com/go/terms.fairusage.
+        v. Mapping.
+Software und Produkte von Skype enthalten Features, mit denen Sie Informationen bei einem Mapping-Dienst einreichen oder sich mithilfe eines Mapping-Dienstes in eine Karte eintragen können.
+Durch Ihre Nutzung dieser Features stimmen Sie diesen Bestimmungen und den Nutzungsbedingungen für Google Maps zu, die unter https://www.google.com/intl/en_ALL/help/terms_maps.html verfügbar sind.
+        vi.
+Persönliche, nicht kommerzielle Nutzung.
+Software und Produkte von Skype sind für die persönliche und nicht kommerzielle Nutzung durch Sie bestimmt.
+Dabei ist es Ihnen gestattet, Skype am Arbeitsplatz für Ihre eigenen geschäftlichen Mitteilungen zu nutzen.
+        vii.
+Skype-Nummern/Skype To Go-Nummern.
+Wenn Microsoft Ihnen eine Skype- oder Skype To Go-Nummer bereitstellt, stimmen Sie zu, dass Sie diese Nummer weder besitzen noch berechtigt sind, sie für immer zu behalten.
+In bestimmten Ländern wird Ihre Nummer möglicherweise nicht von Microsoft, sondern von einem Microsoft-Partner zur Verfügung gestellt, und unter Umständen müssen Sie einen gesonderten Vertrag mit diesem Partner abschließen.
+Weitere Informationen zur Skype-Nummer finden Sie unter https://go.skype.com/home.skype-number.
+        viii.
+Skype Manager.
+Wenn Sie ein „Skype Manager-Administratorkonto“ erstellen und verwalten, handeln Sie als Administrator einer Skype Manager-Gruppe und nicht als eine Unternehmensentität.
+Sie sind berechtigt, Ihr persönliches Microsoft-Konto mit einer Skype Manager-Gruppe zu verknüpfen („Verknüpftes Konto“).
+Sie sind berechtigt, zusätzliche Skype Manager-Administratoren zu bestellen, sofern sich diese mit den vorliegenden Bestimmungen einverstanden erklären.
+Wenn Sie Skype-Nummern einem Verknüpften Konto zuweisen, sind Sie dafür verantwortlich, dass die Anforderungen bezüglich Wohnsitz oder Aufenthaltsort der Nutzer Ihrer Verknüpften Konten eingehalten werden.
+Wenn Sie ein Verknüpftes Konto von einer Skype Manager-Gruppe trennen, sind zugewiesene Abonnements, Skype-Guthaben oder Skype-Nummern nicht mehr abrufbar, und Sie können nicht mehr auf die Inhalte oder Materialien zugreifen, die dem Konto zugeordnet sind, zu dem die Verknüpfung aufgehoben wurde.
+Sie verpflichten sich, personenbezogene Daten der Nutzer Ihres Verknüpften Kontos unter Einhaltung aller geltenden Datenschutzgesetze zu verarbeiten.
+        ix.
+Skype-Gebühren und Erstattungen.
+Die zu tragenden Kosten für Anrufe an Telefone außerhalb von Abonnements setzen sich aus einer Verbindungsgebühr (einmalige Abrechnung pro Anruf) und einem Minutentarif (siehe www.skype.com/go/allrates) zusammen.
+Die für Anrufe zu tragenden Kosten werden von Ihrem Skype-Guthaben abgezogen.
+Microsoft kann die Tarife für Anrufe bei Telefonen und kostenpflichtigen Sonderrufnummern außerhalb eines Abonnements ändern.
+Wenn die Änderungen wesentlich und nicht zu Ihrem Vorteil sind (z. B. wenn wir die Tarife erhöhen), werden wir Sie mindestens 30 (dreißig) Tage vor Inkrafttreten der Tarifänderungen per E-Mail oder auf anderem geeigneten Weg informieren.
+Nach dreißig (30) Tagen gelten die neuen Tarife für Ihren nächsten Anruf.
+Die aktuellen Tarife finden Sie unter www.skype.com/go/allrates.
+Falls Sie die neuen Tarife nicht akzeptieren, sollten Sie keine Anrufe tätigen.
+Minutenbruchteile und Gebühren in Bruchteilen einer Währung werden auf die nächste volle Minute bzw. den nächsten vollen Minimumwert einer Währung aufgerundet.
+Alle Preise für zahlungspflichtige Skype-Produkte verstehen sich inklusive geltender Steuern, einschließlich Umsatzsteuer, sofern nichts anderes angegeben ist.
+Die Umsatzsteuer wird auf der Grundlage der angegebenen Rechnungsadresse berechnet.
+Sie verzichten ausdrücklich auf Ihr Recht auf eine Umsatzsteuerrückerstattung von Microsoft, sollte der letztendlich von Skype an die Steuerbehörden zu entrichtende Betrag aus welchen Gründen auch immer niedriger ausfallen als der von Ihnen einbehaltene Umsatzsteuerbetrag.
+Zahlungspflichtige Skype-Produkte sind nicht verfügbar für Kunden aus den folgenden Regionen oder Gebieten: Heiliger Berg Athos, Kanarische Inseln, französische überseeische Departements, Insel Helgoland, Gebiet von Büsingen, Ceuta, Melilla, Livigno, Campione d'Italia und zum italienischen Gebiet gehörender Teil des Luganer Sees.
+Indem Sie ein zahlungspflichtiges Skype-Produkt nutzen, erlischt Ihre Widerrufsfrist, und Ihr Kauf kann weder storniert noch rückerstattet werden.
+Das Ausgeben von Skype-Guthaben, die Zuweisung einer Skype-Nummer bzw. die Nutzung eines Abonnements zählen als „vollständige Bereitstellung“ und/oder „Nutzung“ eines zahlungspflichtigen Skype-Produkts.
+Sie stimmen ausdrücklich zu, dass Skype-Nummern vor Ablauf der Bedenkzeit zugewiesen werden können und ab dem Zeitpunkt der Zuweisung nicht mehr erstattungsfähig sind.
+Außerhalb der Bedenkzeit können nur Abonnements nach den vorliegenden Bestimmungen erstattet werden, die noch nicht genutzt wurden bzw. noch nicht abgelaufen sind.
+Die Bedenkzeit und Rückerstattungen gelten nicht für zahlungspflichtige Skype-Produkte, die (i) über einen unabhängigen Partner erworben wurden, (ii) in bar über Drittpartei-Zahlungsanbieter bezahlt wurden (wie Cash Payment Wallet), (iii) nicht direkt online von Microsoft erworben wurden (z. B. Gutscheine oder Prepaid-Karten) oder (iv) Ihrem Konto von einem Dritten zugewiesen wurden.
+Ungeachtet des Vorstehenden haben Sie nach geltendem Recht möglicherweise Anspruch auf Rückerstattung eines im Voraus bezahlten Abonnement-Guthabens, falls Sie Ihre Skype-Nummer auf einen anderen Anbieter umstellen.
+        x. Skype-Guthaben.
+Microsoft garantiert nicht, dass Sie Ihr Skype-Guthaben zum Kauf aller zahlungspflichtigen Skype-Produkte nutzen können.
+Falls Sie Ihr Skype-Guthaben für einen Zeitraum von 180 Tagen nicht nutzen, setzt Microsoft den Status Ihres Skype-Guthabens auf inaktiv.
+Sie können das Skype-Guthaben über folgenden Link wieder aktivieren: https://www.skype.com/go/store.reactivate.credit.
+Für den Kauf von Skype-Guthaben können Sie die Funktion „Automatisches Aufladen“ aktivieren, indem Sie das entsprechende Kontrollkästchen aktivieren.
+Wenn Sie die Funktion aktivieren, wird Ihr Skype-Guthaben jedes Mal, wenn das Guthaben Ihres Skype-Kontos unter die von Skype jeweils festgelegte Grenze fällt, mit dem von Ihnen gewählten Betrag über die von Ihnen gewählte Zahlungsart aufgeladen.
+Wenn Sie ein Abonnement über eine andere Zahlungsart als Kreditkarte, PayPal oder Moneybookers (Skrill) erworben haben und die Funktion „Automatisches Aufladen“ aktivieren, wird Ihr Skype-Guthaben mit dem Betrag aufgeladen, der zur Begleichung der nächsten fälligen Abonnementzahlung benötigt wird.
+Sie können die Funktion „Automatisches Aufladen“ jederzeit deaktivieren, indem Sie in Ihrem Kontoportal in Skype die zugehörige Einstellung ändern.
+        xi.
+Gebühren für internationale Nachrichten.
+GroupMe und Microsoft Teams nutzen derzeit USA-Nummern für jede erstellte Gruppe.
+Jede von einer GroupMe- oder Microsoft Teams-Nummer gesendete oder empfangene SMS zählt als eine in die Vereinigten Staaten gesendete oder aus den Vereinigten Staaten empfangene internationale SMS.
+Bitte klären Sie die entsprechenden internationalen Tarife mit Ihrem Anbieter.
+[Zum Seitenanfang] Seitenanfang
+Bing und MSN
+    f. Bing und MSN.
+        i. Materialien auf Bing und MSN.
+Die Artikel, Texte, Fotos, Karten, Videos, Videoplayer und Materialien Dritter, die auf Bing und MSN zur Verfügung gestellt werden, einschließlich durch Microsoft-Bots, -Anwendungen und -Programme, sind ausschließlich für Ihre nicht kommerzielle, persönliche Nutzung vorgesehen.
+Andere Verwendungsweisen, wie das Herunterladen, Kopieren oder Weiterverbreiten dieser Materialien oder die Verwendung der Materialien oder Produkte zur Herstellung eigener Produkte, sind nur insoweit zulässig, als dies ausdrücklich von Microsoft oder den Rechteinhabern genehmigt wird oder nach geltendem Urheberrecht rechtmäßig ist.
+Microsoft oder sonstige Rechteinhaber behalten sich alle unter den Lizenzbestimmungen nicht ausdrücklich von Microsoft gewährten Rechte an den Materialien vor.
+        ii.
+Bing Maps.
+Sie sind nicht berechtigt, ohne unsere gesonderte schriftliche Genehmigung Bilder aus der Vogelperspektive von den USA, Kanada, Mexiko, Neuseeland, Australien oder Japan für behördliche Zwecke zu nutzen.
+        iii.
+Bing Places.
+Wenn Sie Ihre Daten oder Inhalte in Bing Places verfügbar machen, gewähren Sie Microsoft eine weltweite, gebührenfreie Lizenz für geistiges Eigentum zur Nutzung, Vervielfältigung, Speicherung, Zusammenführung, Bewerbung, Übertragung, Anzeige oder Verbreitung als Teil eines Diensts sowie das Recht zur Unterlizenzierung eben solcher Rechte an Dritte.
+[Zum Seitenanfang] Seitenanfang
+Cortana
+    g. Cortana.
+        i. Persönliche, nicht kommerzielle Nutzung.
+Cortana ist ein Microsoft-Dienst, eine persönliche Assistentin.
+Die von Cortana gebotenen Features, Dienste und Inhalte (zusammen die „Cortana-Dienste“) sind nur für den persönlichen und nicht kommerziellen Gebrauch bestimmt.
+        ii.
+Funktionalität und Inhalt.
+Cortana bietet eine Reihe von Features, von denen manche personalisiert sind.
+Cortana-Dienste können Ihnen den Zugriff auf Dienste, Informationen oder Funktionen ermöglichen, die von anderen Microsoft-Diensten oder von Drittanbieter-Apps und -Diensten gestellt werden.
+Die dienstspezifischen Bestimmungen von Ziffer 13 gelten auch für Ihre Nutzung entsprechender Microsoft-Dienste, auf die Sie über Cortana-Dienste zugreifen.
+Cortana stellt Ihnen Informationen ausschließlich zu Planungszwecken zur Verfügung, und Sie sollten nach Erhalt dieser Informationen Ihre eigenen Schlüsse daraus ziehen und sich nicht blindlings darauf verlassen.
+Microsoft übernimmt keine Gewähr für die Zuverlässigkeit, Verfügbarkeit oder Aktualität der personalisierten Interaktionen, die von Cortana zur Verfügung gestellt werden.
+Microsoft ist nicht verantwortlich, wenn ein Cortana-Feature verzögert reagiert oder Sie daran hindert, eine Mitteilung oder Benachrichtigung zu empfangen, zu lesen oder zu senden oder einen Dienst zu beziehen.
+        iii.
+Drittanbieter-Apps und -Dienste.
+Bei der Bereitstellung der Cortana-Dienste kann Cortana Ihnen Drittanbieter-Apps und Dienste vorschlagen und Sie bei der Interaktion mit diesen unterstützen (Skills oder verbundene Dienste Dritter).
+Bei der Bereitstellung der Cortana-Dienste tauscht Cortana möglicherweise Informationen wie z. B. Ihre Postleitzahl, Abfragen sowie Antworten, die von den Drittanbieter-Apps und Diensten zurückgegeben werden, mit Drittanbieter-Apps und Diensten aus, um Ihnen zu helfen, die angeforderten Dienste zu beziehen.
+Cortana kann es Ihnen ermöglichen, unter Verwendung der Kontoeinstellungen, die Sie direkt für die betreffenden Drittanbieter-Apps und Dienste eingerichtet haben, Einkäufe über Drittanbieter-Apps und Dienste auszuführen.
+Sie können die Verbindung zwischen Ihrem Cortana-Dienst und den Drittanbieter-Apps und Diensten jederzeit trennen.
+Ihre Nutzung von Cortana-Diensten zur Herstellung einer Verbindung mit Drittanbieter-Apps und Diensten unterliegt Ziffer 5 der vorliegenden Bestimmungen.
+Herausgeber von Drittanbieter-Apps und -Diensten sind berechtigt, den Funktionsumfang oder die Funktionen ihrer Apps und Dienste oder die Integration in Cortana-Dienste zu ändern oder einzustellen.
+Microsoft ist nicht für vom Hersteller bereitgestellte Software oder Firmware verantwortlich oder haftbar.
+        iv.
+Cortana-fähige Geräte.
+Cortana-fähige Geräte sind Produkte oder Geräte, die den Zugriff auf Cortana-Dienste unterstützen, oder Produkte oder Geräte, die mit Cortana-Diensten kompatibel sind.
+Cortana-fähige Geräte sind Geräte oder Produkte von Drittanbietern, die Microsoft nicht gehören und die nicht von Microsoft hergestellt oder entwickelt sind.
+Für solche Geräte oder Produkte von Drittanbietern ist Microsoft nicht verantwortlich oder haftbar.
+        v. Softwareupdates.
+Wir sind berechtigt, Ihre Version der Cortana-Dienstesoftware, die zur Bereitstellung der Dienste notwendig ist, automatisch zu prüfen und kostenlose Softwareupdates oder Konfigurationsänderungen herunterzuladen oder von den Herstellern Cortana-fähiger Geräte zu verlangen, dass diese die Cortana-Dienstesoftware auf dem neuesten Stand halten.
+[Zum Seitenanfang] Seitenanfang
+Office-Dienste
+    h. Bürodienste.
+        i. Microsoft 365 Home, Microsoft 365 Personal, Office Online, Sway, OneNote.com und alle anderen Microsoft 365-Abonnements oder Dienste der Marke Office sind für Ihre persönliche und nicht kommerzielle Nutzung vorgesehen, es sei denn, Ihnen stehen unter einem gesonderten Vertrag mit Microsoft Rechte zur kommerziellen Nutzung zu.
+Die Nutzung von Anwendungen wie Word, Excel, PowerPoint, Outlook, OneDrive, Access und Publisher in der Microsoft 365-Familie, von Microsoft 365 Personal und allen anderen Microsoft 365-Abonnementdiensten unterliegt zusätzlichen Lizenzbestimmungen, die Sie zusammen mit diesen Bestimmungen unter https://aka.ms/useterms finden.
+        ii.
+Outlook.
+Outlook umfasst die Verwendung von Bing Maps.
+Über Bing Maps zur Verfügung gestellte Inhalte, einschließlich Geocodes, können nur innerhalb des Produktes, über das die Inhalte verfügbar sind, genutzt werden.
+Ihre Nutzung von Bing Maps unterliegt den Nutzungsbedingungen für Bing Maps-Endbenutzer, einsehbar unter go.microsoft.com/?linkid=9710837, und den Microsoft-Datenschutzbestimmungen, einsehbar unter go.microsoft.com/fwlink/?LinkID=248686. 
+[Zum Seitenanfang] Seitenanfang
+Microsoft-Gesundheitsdienste
+    i. Microsoft-Gesundheitsdienste.
+        i. Microsoft Band.
+Microsoft Band-Geräte und -Anwendungen sind keine medizinischen Geräte und nur für Zwecke der Fitness und Wellness bestimmt.
+Sie sind nicht für den Einsatz in der Diagnose von Krankheiten, Erkrankungen oder anderen Zuständen bestimmt, ebenso nicht für den Einsatz in der Heilung, Linderung, Behandlung oder Verhütung von Krankheiten oder anderen Zuständen.
+Microsoft ist nicht für Entscheidungen verantwortlich, die Sie aufgrund der von Microsoft Band gegebenen Informationen treffen.
+        ii.
+Health Bots.
+Health Bots, zu denen Aktionspläne, Analysen, Erinnerungen und andere Features gehören können, sind keine medizinischen Geräte und nur für Zwecke der Fitness und Wellness in Verbindung mit dem Programm eines Gesundheitsträgers bestimmt.
+Die Produkte sollen und können ärztlichen Rat nicht ersetzen, und sie sind nicht für den Einsatz in der Diagnose, Heilung, Linderung, Behandlung oder Verhütung von Krankheiten oder anderen Zuständen bestimmt.
+Sie tragen die volle Verantwortung für Ihre Nutzung von Health Bots.
+Microsoft ist nicht für Entscheidungen verantwortlich, die Sie aufgrund der von Health Bots erhaltenen Informationen treffen.
+Konsultieren Sie bei Fragen zu Beschwerden und Ernährungs-, Fitness- oder Wellnessprogrammen stets einen Arzt, bevor Sie Health Bots nutzen.
+Sie sollten aufgrund der Informationen, die Sie in den Diensten oder über die Dienste erhalten, auf gar keinen Fall fachmännischen medizinischen Rat missachten oder die Einholung von ärztlichem Rat aufschieben.
+Wie jede technische Einrichtung können auch Health Bots aus verschiedenen Gründen ausfallen, z. B. weil die Stromversorgung oder Verbindung unterbrochen wird.
+[Zum Seitenanfang] Seitenanfang
+Digitale Waren
+    j. Digitale Waren.
+Microsoft bietet Ihnen über Microsoft Groove, Microsoft Filme & TV, den Store, Xbox-Dienste und andere verwandte und künftige Dienste u. U. die Möglichkeit, Musik, Bilder, Video, Text, Bücher, Spiele oder anderes Material, das in digitaler Form erhältlich ist, („Digitale Waren“) zu beziehen, anzuhören, anzusehen, wiederzugeben bzw. zu lesen.
+Die Digitalen Waren sind nur für Ihren persönlichen, nicht kommerziellen Unterhaltungsgebrauch bestimmt.
+Sie verpflichten sich, keine Kopien der Digitalen Waren weiterzuvertreiben, auszustrahlen, öffentlich aufzuführen, öffentlich zu zeigen oder zu übertragen.
+Digitale Waren können das Eigentum von Microsoft oder von Dritten sein.
+Unabhängig davon erkennen Sie in jedem Fall an, dass Ihre Rechte bezüglich Digitaler Waren durch diese Bestimmungen, durch das Urheberrecht und durch die Nutzungsregeln unter https://go.microsoft.com/fwlink/p/?LinkId=723143 eingeschränkt sind.
+Sie verpflichten sich, nicht den Versuch zu unternehmen, Digitale Waren, die Sie über einen der Dienste beziehen, aus irgendeinem Grund zu verändern, einschließlich nicht zu dem Zweck, Eigentümer oder Quelle der Digitalen Waren zu verschleiern oder zu ändern.
+Microsoft oder die Eigentümer der Digitalen Waren sind berechtigt, Digitale Waren dann und wann ohne Ankündigung aus dem Angebot der Dienste zu nehmen.
+[Zum Seitenanfang] Seitenanfang
+OneDrive
+    k. OneDrive.
+        i. Speicherzuweisung.
+Wenn Sie in Ihrem OneDrive-Konto mehr Inhalt gespeichert haben, als Ihnen laut den Bestimmungen Ihres kostenlosen oder kostenpflichtigen Abonnementdienstes für OneDrive zusteht, und Sie auf eine Mitteilung von Microsoft, Ihr Konto zu bereinigen (indem Sie entweder einen Teil der Inhalte entfernen oder zu einem neuen Abonnementplan mit mehr Speicherplatz wechseln), nicht innerhalb von 30 Tagen (oder einer eventuell in der Mitteilung genannten längeren Frist) reagieren, behalten wir uns das Recht vor, Ihr Konto zu schließen und Ihre Inhalte auf OneDrive zu löschen oder den Zugriff zu sperren.
+        ii.
+Leistungsfähigkeit des Diensts.
+Abhängig von Faktoren wie Ihrem Gerät, der Internetverbindung und den Bemühungen von Microsoft, die Leistungsfähigkeit und Integrität ihres Diensts aufrechtzuerhalten, kann es gelegentlich zu Verzögerungen beim Hochladen oder Synchronisieren von Inhalten auf OneDrive kommen.
+        iii.
+Benachrichtigung über Ablauf.
+Wir informieren Sie mindestens einen Monat im Voraus, bevor wir Ihr OneDrive-Konto gemäß Ziffer 4.a.ii wegen Inaktivität schließen.
+Wenn Sie ein zahlungspflichtiges OneDrive-Abonnement unterhalten, schließen wir Ihr Konto nicht wegen Inaktivität in dem Zeitraum, für den Sie die Nutzung von OneDrive bezahlt haben.
+        iv.
+Änderungen am OneDrive-Dienst.
+Wir informieren Sie mindestens 30 Tage im Voraus, wenn Sie durch eine Änderung an den kostenlosen oder kostenpflichtigen OneDrive-Diensten den Zugriff auf Ihre Inhalte auf OneDrive verlieren.
+        v. Kostenpflichtige Abonnements.
+Wenn wir Ihre OneDrive-Datenspeicherlimits reduzieren oder den OneDrive-Dienst einstellen, sind Sie berechtigt, Ihr kostenpflichtiges OneDrive-Abonnement zu kündigen, und Sie erhalten von uns eine anteilige Rückerstattung der Abonnementgebühr.
+Wir werden Sie über eine solche Änderung mindestens 30 Tage im Voraus informieren, und Sie müssen innerhalb der in der betreffenden Benachrichtigung genannten Frist kündigen.
+[Zum Seitenanfang] Seitenanfang
+Microsoft Rewards
+    l. Microsoft Rewards.
+        i. Microsoft Rewards (das „Programm“) ermöglicht es Ihnen, einlösbare Punkte für Aktivitäten wie Suchanfragen, Einkäufe und die Nutzung anderer Angebote von Microsoft zu sammeln.
+Diese Angebote können je nach Markt verschieden sein.
+Eine Suche ist eine Aktivität, bei der ein einzelner Nutzer manuell Text in der gutwilligen Absicht eingibt, Bing-Suchergebnisse zu eigenen Recherchezwecken zu erhalten, und sie schließt nicht Abfragen durch Bots, Makros oder andere automatisierte oder betrügerische Methoden irgendeiner Art ein („Suche“).
+Ein Einkauf bezieht sich auf den Kauf von Waren oder das Herunterladen von und den Erwerb einer Lizenz für digitale Inhalte von Microsoft, ob unentgeltlich oder gegen Bezahlung („Einkauf“).
+Rewards-Punkte werden nicht für jeden Einkauf bei Microsoft angeboten.
+Microsoft kann von Zeit zu Zeit weitere Gelegenheiten, Punkte zu verdienen, anbieten, wobei aber die einzelnen Verdienstmöglichkeiten nicht unbefristet zur Verfügung stehen.
+Ihre gesammelten Punkte können Sie auf der Seite „Einlösen“ unter https://aka.ms/redeemrewards für Rewards („Prämien“) ausgeben.
+Weitere Informationen finden Sie im Abschnitt „Rewards“ auf support.microsoft.com (https://support.microsoft.com) („Häufig gestellte Fragen“).
+            1. Voraussetzungen für die Teilnahme am Programm.
+Sie benötigen ein gültiges Microsoft-Konto, und Ihre Geräte müssen die Mindestsystemanforderungen (https://account.microsoft.com/rewards/) erfüllen.
+Das Programm steht Nutzern in den unter „Häufig gestellte Fragen“ aufgeführten Märkten zur Verfügung.
+Jede Person kann nur ein Programmkonto unterhalten, auch wenn sie mehrere E-Mail-Adressen hat, und pro Haushalt sind nicht mehr als sechs Konten gestattet.
+Das Programm ist ausschließlich für die persönliche und nicht kommerzielle Nutzung durch Sie bestimmt.
+            2. Punkte.
+Außer Sie geben Punkte innerhalb Ihrer Microsoft-Familie weiter (es können Einschränkungen gelten) oder Sie spenden Ihre Punkte einer der gemeinnützigen Organisationen, die auf der Seite „Einlösen“ aufgeführt sind, können Sie Punkte nicht übertragen.
+Die Punkte sind nicht Ihr persönliches Eigentum, und Sie können sie nicht gegen Barbeträge oder Geld eintauschen.
+Die Punkte werden Ihnen im Rahmen einer Werbeaktion gewährt.
+Sie können keine Punkte kaufen.
+Microsoft kann die Menge der Punkte oder Prämien pro Person, pro Haushalt oder für einen festgelegten Zeitraum (beispielsweise einen Tag) begrenzen, vorausgesetzt, Sie werden nicht durch eine Verletzung des Grundsatzes von Treu und Glauben benachteiligt.
+Sie können über das Programm pro Kalenderjahr nicht mehr als 550.000 Punkte einlösen.
+Punkte, die Sie über dieses Programm verdienen, gelten nicht für andere Programme, die von Microsoft oder Dritten angeboten werden, und sind nicht mit solchen anderen Programmen kombinierbar.
+Nicht eingelöste Punkte verfallen, wenn Sie über einen Zeitraum von 18 Monaten keine weiteren Punkte verdienen oder Punkte einlösen.
+            3. Prämien.
+Sie können Ihre Punkte einlösen oder Punkte zu einer gelisteten gemeinnützigen Organisation beitragen, indem Sie die Seite „Einlösen“ (https://aka.ms/redeemrewards) besuchen oder indem Sie sich über ein Spendenprogramm für automatische Beiträge an gemeinnützige Organisationen anmelden.
+Bestimmte Prämien sind eventuell nur in begrenzter Anzahl verfügbar, und solche Prämien sind erhältlich, solange der Vorrat reicht.
+Es ist möglich, dass Sie weitere Angaben machen müssen, wie zum Beispiel Mitteilung Ihrer Postanschrift und einer Telefonnummer (bei der es sich nicht um eine VOIP- oder gebührenfreie Nummer handelt), und Sie können gebeten werden, einen Code zur Betrugsverhinderung einzugeben oder zusätzlich Rechtsdokumente zu unterzeichnen, um Punkte gegen Prämien einzulösen.
+Eine einmal bestellte Prämie können Sie nicht stornieren oder gegen Punkte zurücktauschen, es sei denn, die gelieferten Produkte sind mangelhaft oder das geltende Recht sieht etwas anderes vor.
+Wenn Sie eine Prämie bestellen, die nicht vorrätig ist oder aus anderen Gründen nicht verfügbar ist, sind wir berechtigt, Ihnen stattdessen eine Prämie von vergleichbarem Wert zu liefern oder Ihnen die Punkte zurückzuerstatten.
+Microsoft ist berechtigt, das Prämienangebot auf der Seite „Einlösen“ zu aktualisieren oder bestimmte Prämien aus dem Angebot zu nehmen.
+Für einige Prämien gelten möglicherweise Bestimmungen hinsichtlich des Mindestalters des Käufers.
+Bestimmungen dieser Art werden im entsprechenden Angebot beschrieben.
+Sie sind verantwortlich für alle Bundes-, Landes- und kommunalen Steuern sowie etwaige weitere Kosten, die durch die Annahme und Verwendung der Prämie anfallen.
+Die Prämien werden an die mit Ihrem Microsoft-Konto verknüpfte E-Mail-Adresse gesendet.
+Bitte sorgen Sie daher dafür, dass Ihre E-Mail-Adresse aktuell ist.
+Nicht zustellbare Prämien werden nicht erneut geliefert und verfallen entsprechend.
+Prämien dürfen nicht weiterverkauft werden.
+Weitere Informationen zum automatischen Spenden von Punkten an gemeinnützige Organisationen finden Sie in den Häufig gestellten Fragen zu Spenden mit Bing (https://www.microsoft.com/rewards/give-mode-overview).
+            4. Teilnahme am Programm kündigen.
+Wenn Sie nicht mehr am Microsoft Rewards-Programm teilnehmen möchten, folgen Sie bitte der Anleitung auf der Abmeldeseite (https://account.microsoft.com/rewards/optout?confirm=false).
+Wenn Sie sich abmelden, verlieren Sie sofort alle Ihre verfügbaren Punkte.
+Ihr Programmkonto kann gelöscht werden, wenn Sie sich in einem Zeitraum von 18 Monaten nicht mindestens ein Mal anmelden.
+Microsoft behält sich außerdem das Recht vor, das Programmkonto eines Nutzers zu löschen, der das Programm manipuliert, missbraucht oder betrügerisch nutzt oder der gegen diese Bestimmungen verstößt.
+Nach der Kündigung der Teilnahme am Programm (durch Sie oder durch uns), oder wenn das Programm eingestellt wird, haben Sie 90 Tage Zeit, Ihre Punkte einzulösen.
+Ansonsten verfallen die Punkte.
+Mit der Kündigung endet Ihr Recht, das Programm zu nutzen und künftige Punkte zu sammeln.
+            5. Weitere Bedingungen.
+Microsoft behält sich das Recht vor, Sie von dem Programm auszuschließen, Ihren Zugang zu dem Programm oder zu Ihrem Prämienkonto zu deaktivieren und/oder Punkte, Prämien und Spendenbeiträge vorzuenthalten, wenn Microsoft glaubt, dass Sie das Programm manipulieren oder in irgendeiner Hinsicht missbrauchen oder möglicherweise Aktivitäten unternehmen, die gegen diese Bestimmungen verstoßen.
+[Zum Seitenanfang] Seitenanfang
+Azure
+    m. Azure.
+Ihre Nutzung des Azure-Dienstes wird durch die Bestimmungen des gesonderten Vertrags geregelt, unter dem Sie die Dienste bezogen haben.
+Bitte besuchen Sie die Seite „Rechtliche Hinweise zu Microsoft Azure“ unter https://aka.ms/AA7z67v.
+[Zum Seitenanfang] Seitenanfang
+Verschiedenes
+14. Sonstiges.
+Diese Ziffern und die Ziffern 1, 9 (für Beträge, die vor Ende der Gültigkeit dieser Bestimmungen anfallen), 10, 11, 12, 16 sowie Ziffern, die ihrer Bestimmung nach fortbestehen, überdauern den Ablauf oder die Kündigung dieser Bestimmungen.
+Wir sind berechtigt, unsere Rechte und Verpflichtungen unter diesen Bestimmungen als Ganzes oder in Teilen jederzeit ohne Ankündigung abzutreten, zu übertragen oder anderweitig darüber zu verfügen, sofern eine solche Abtretung, Übertragung oder Verfügung nicht zu einer Benachteiligung für Sie führt.
+Sie sind nicht berechtigt, diese Bestimmungen oder Rechte zur Nutzung der Dienste abzutreten, zu übertragen oder anderweitig darüber zu verfügen.
+Dies ist der gesamte Vertrag zwischen Ihnen und Microsoft für die Nutzung der Dienste.
+Er hat Vorrang vor allen vorherigen Verträgen zwischen Ihnen und Microsoft bezüglich Ihrer Nutzung der Dienste.
+Alle Teile dieser Bestimmungen gelten in dem nach maßgeblichem Recht höchstzulässigen Umfang.
+Sollte ein Gericht oder Schiedsgericht befinden, dass wir einen Teil dieser Bestimmungen nicht dem Wortlaut nach durchsetzen können, sollen die betreffenden Bestimmungen als durch ähnliche, nach dem maßgeblichen Recht im Umfang durchsetzbare Bestimmungen ersetzt gelten und die übrigen Bestimmungen unverändert bleiben.
+Diese Bestimmungen sind ausschließlich zu Ihren und unseren Gunsten.
+Sie begünstigen keine dritten Personen, mit Ausnahme der Nachfolger oder Abtretungsempfänger von Microsoft.
+Die Zifferüberschriften dienen lediglich als Referenz.
+15. Verzicht auf die Bestimmungen zum Verbraucherschutz für Endbenutzer.
+Wenn Sie ein Kleinstunternehmen, ein Kleinunternehmen oder eine gemeinnützige Organisation sind, erklären Sie sich damit einverstanden, auf alle Ansprüche zu verzichten, die Sie sonst gemäß dem Europäischen Kodex für elektronische Kommunikation (Richtlinie 2018/1972) Artikel 102 Absätze 1, 3 und 5; Artikel 105 Absatz 1 und Artikel 107 Absätze 1 und 3 hätten.
+16. Exportgesetze.
+Sie müssen alle nationalen und internationalen Exportgesetze und -bestimmungen einhalten, die für die Software und/oder die Dienste gelten, darunter Beschränkungen für Bestimmungsorte, Endbenutzer und Endnutzung.
+Weitere Informationen zu geografischen und Exportbeschränkungen finden Sie unter https://www.microsoft.com/exporting.
+17. Rechtevorbehalt und Feedback.
+Außer wie in diesen Bestimmungen ausdrücklich vorgesehen, gewährt Microsoft Ihnen keine Lizenz oder anderen Rechte jedweder Art in Bezug auf Patente, Know-how, Urheberrechte, Geschäftsgeheimnisse, Marken oder andere Teile geistigen Eigentums, die sich im Besitz oder unter der Kontrolle von Microsoft oder einer verbundenen Entität befinden.
+Dies gilt auch für Namen, Handelsaufmachungen und dgl. Wenn Sie Microsoft Ideen, Vorschläge oder Feedback unterbreiten, wie z. B. Ideen für neue Produkte, Technologien, Werbeaktionen oder Produktnamen oder Rückmeldungen und Verbesserungsvorschläge zu Produkten („Feedback“), gewähren Sie Microsoft das kosten-, honorar- und lizenzgebührenfreie und auch sonst mit keinerlei Verpflichtungen Ihnen gegenüber verbundene Recht, von Ihrem Feedback Bearbeitungen zu erstellen oder erstellen zu lassen, und Ihr Feedback in beliebiger Weise und zu beliebigen Zwecken zu nutzen, weiterzugeben und kommerziell zu verwerten.
+Sie dürfen kein Feedback geben, das einer Lizenz unterstellt ist, die es erfordern würde, dass Microsoft die eigene Software, die eigenen Technologien oder eigene Dokumentation an Dritte lizenzieren müsste, weil in diese Ihr Feedback eingegangen ist.
+[Zum Seitenanfang] Seitenanfang
+HINWEISE
+Hinweise und Verfahren zur Geltendmachung von Ansprüchen bei Schutzrechtsverletzungen.
+Microsoft respektiert die Rechte am geistigen Eigentum Dritter.
+Bei Ansprüchen aufgrund einer Verletzung von Rechten des geistigen Eigentums, einschließlich Ansprüchen wegen Urheberrechtsverletzung, empfehlen wir Ihnen, dem von Microsoft benannten Vertreter eine entsprechende Mitteilung zu senden.
+Weitere Informationen und Kontaktdaten finden Sie in den Hinweisen und Verfahren zur Erhebung von Ansprüchen bei Urheberrechtsverletzungen (https://www.microsoft.com/info/cpyrtInfrg.html).
+Microsoft nutzt die Prozesse gemäß Titel 17 der offiziellen Sammlung von Bundesgesetzen der Vereinigten Staaten, Abschnitt 512 für die Beantwortungen von Mitteilungen über Urheberrechtsverletzungen.
+Unter den entsprechenden Umständen kann Microsoft auch Konten von Nutzern von Microsoft-Diensten deaktivieren oder beenden, bei denen zum wiederholten Mal Urheberrechtsverletzungen aufgetreten sein können.
+Hinweise und Verfahren zu Fragen des geistigen Eigentums bei Werbeanzeigen.
+Lesen Sie die Intellectual Property Guidelines (Richtlinien zu geistigem Eigentum) (https://go.microsoft.com/fwlink/?LinkId=243207) bei Fragen zu Rechten des geistigen Eigentums in unserem Werbenetzwerk.
+Urheberrechts- und Markenschutzhinweise.
+Für die Dienste gilt Copyright © Microsoft Corporation und/oder deren Lieferanten, One Microsoft Way, Redmond, Washington 98052, USA.
+Alle Rechte vorbehalten.
+In den Bestimmungen enthalten sind die Markenrichtlinien von Microsoft (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx) (in ihrer jeweils gültigen Fassung).
+Microsoft sowie die Namen, Logos und Symbole aller Produkte, Software und Dienste von Microsoft können entweder nicht eingetragene oder in den Vereinigten Staaten und/oder anderen Ländern eingetragene Marken der Microsoft Unternehmensgruppe sein.
+Bei der nachfolgenden Auflistung handelt es sich um eine nicht erschöpfende Liste der Marken von Microsoft: https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/EN-US.aspx.
+Die Namen der tatsächlichen Firmen und Produkte sind möglicherweise Marken ihrer jeweiligen Inhaber.
+Alle Rechte, die nicht ausdrücklich in diesen Bestimmungen gewährt werden, sind vorbehalten.
+Bestimmte Software, die in bestimmten Microsoft-Websiteservern verwendet wird, basiert zum Teil auf der Arbeit der Independent JPEG Group.
+Copyright © 1991-1996 Thomas G. Lane.
+Alle Rechte vorbehalten.
+Für „gnuplot“-Software, die auf bestimmten Microsoft-Websiteservern verwendet wird, gilt: Copyright © 1986-1993 Thomas Williams, Colin Kelley.
+Alle Rechte vorbehalten.
+Medizinischer Hinweis.
+Microsoft bietet keine medizinische oder gesundheitliche Beratung, Diagnose oder Behandlung an.
+Wenden Sie sich bei Fragen zu Beschwerden und zu Ernährungs-, Fitness- oder Wellnessprogrammen stets an Ihren Arzt oder an andere qualifizierte Gesundheitsdienstleister.
+Sie sollten aufgrund der Informationen, die Sie in den Diensten oder über die Dienste erhalten, auf gar keinen Fall fachmännischen medizinischen Rat missachten oder die Einholung von ärztlichem Rat aufschieben.
+Kursnotierungen und Idexdaten (einschließlich Indexwerten).
+Finanzinformationen, die über die Dienste bereitgestellt werden, sind nur für Ihren persönlichen, nicht kommerziellen Gebrauch bestimmt.
+Sie sind nicht berechtigt, die Finanzdaten oder -marken eines externen Lizenzgebers ohne separaten schriftlichen Vertrag mit dem externen Lizenzgeber in Verbindung mit der Ausgabe, Erstellung, Förderung, dem Handel, der Vermarktung oder Verkaufsförderung von Finanzinstrumenten oder Investmentprodukten (beispielsweise Derivate, strukturierte Produkte, Investmentfonds, Exchange-Traded Funds, Anlageportfolios usw., bei denen Preis, Rendite und/oder Performance des Instruments oder Investmentprodukts auf den Finanzdaten basiert, damit zusammenhängt oder diese verfolgen soll) zu verwenden.
+Finanzhinweis.
+Microsoft ist kein Broker/Händler oder eingetragener Anlageberater nach dem US-Bundeswertpapierrecht oder dem Wertpapierrecht anderer Rechtsordnungen und berät Personen nicht hinsichtlich der Ratsamkeit, in Wertpapiere oder andere Finanzprodukte oder -dienstleistungen zu investieren, diese zu erwerben oder zu verkaufen.
+Nichts in den Diensten stellt ein Angebot oder eine Aufforderung zum Kauf oder Verkauf von Wertpapieren dar.
+Weder Microsoft noch ihre Lizenzgeber von Börsenkursdaten oder Indexdaten unterstützen oder empfehlen bestimmte Finanzprodukte oder -dienstleistungen.
+Kein Teil der Dienste stellt eine fachliche Beratung dar, unter anderem keine Anlage- oder Steuerberatung.
+Hinweis zum H.264/AVC Visual-Standard, MPEG-4 Visual-Standard und VC-1 Video-Standard.
+Die Software enthält möglicherweise die Codec-Technologie H.264/AVC, MPEG-4 Visual und/oder VC-1, die von MPEG LA, L.L.C. lizenziert wird.
+Bei dieser Technologie handelt es sich um ein Format für die Datenkomprimierung von Videoinformationen.
+MPEG LA, L.L.C. verlangt den folgenden Hinweis:
+DIESES PRODUKT IST UNTER DEN H.264/AVC-, MPEG-4 VISUAL- UND VC-1-PATENTPOOLLIZENZEN FÜR DEN PERSÖNLICHEN UND NICHT KOMMERZIELLEN GEBRAUCH EINES VERBRAUCHERS LIZENZIERT, DER (A) VIDEOMATERIAL UNTER EINHALTUNG DER OBIGEN STANDARDS („VIDEOSTANDARDS“) CODIERT UND/ODER (B) H.264/AVC-, MPEG-4 VISUAL- UND VC-1-VIDEO-VIDEOMATERIAL DECODIERT, DAS VON EINEM VERBRAUCHER ZU PERSÖNLICHEN UND NICHT KOMMERZIELLEN ZWECKEN CODIERT WURDE UND/ODER DAS VON EINEM VIDEOANBIETER BEZOGEN WURDE, DER ÜBER EINE ENTSPRECHENDE LIZENZ VERFÜGT.
+KEINE DER LIZENZEN GILT FÜR EIN ANDERES PRODUKT, AUCH NICHT, WENN DAS BETREFFENDE PRODUKT ZUSAMMEN MIT DIESER SOFTWARE IN EINEM EINZIGEN ARTIKEL ENTHALTEN IST.
+ES WIRD KEINE LIZENZ ZU IRGENDEINEM ANDEREN ZWECK GEWÄHRT, AUCH NICHT KONKLUDENT.
+ZUSÄTZLICHE INFORMATIONEN ERHALTEN SIE VON MPEG LA, L.L.C. SIEHE WEBSITE VON MPEG LA (https://www.mpegla.com).
+Zur Vermeidung von Missverständnissen sei gesagt, dass der Hinweis in dieser Ziffer nicht die Nutzung der im Rahmen dieser Bestimmungen zur Verfügung gestellten Software für normale, eigene Geschäftszwecke eines Unternehmens einschränkt oder verhindert, die nicht (i) den Vertrieb der Software an Dritte oder (ii) die Entwicklung von Material mit Technologien nach den VIDEO-STANDARDS zum Vertrieb an Dritte einschließen.
+[Zum Seitenanfang] Seitenanfang
+STANDARDLIZENZBESTIMMUNGEN FÜR ANWENDUNGEN
+STANDARDLIZENZBESTIMMUNGEN FÜR ANWENDUNGEN
+, DIE IM EUROPÄISCHEN WIRTSCHAFTSRAUM ANGEBOTEN WERDEN
+MICROSOFT STORE, MICROSOFT STORE ON WINDOWS UND MICROSOFT STORE ON XBOX
+Diese Lizenzbestimmungen stellen einen Vertrag zwischen Ihnen und dem Herausgeber der Anwendung dar.
+Bitte lesen Sie die Lizenzbestimmungen aufmerksam durch.
+Sie gelten für Softwareanwendungen, die Sie aus dem Microsoft Store, dem Microsoft Store on Windows oder dem Microsoft Store on Xbox herunterladen (in diesen Lizenzbestimmungen jeweils „Store“ genannt), einschließlich etwaiger Updates oder Ergänzungen der Anwendung, es sei denn, der Anwendung sind eigene Bestimmungen beigefügt, in welchem Fall jene gelten.
+WENN SIE DIESE BESTIMMUNGEN NICHT ANERKENNEN, SIND SIE NICHT BERECHTIGT, DIE ANWENDUNG HERUNTERZULADEN ODER ZU NUTZEN UND DÜRFEN DIES ENTSPRECHEND NICHT TUN.
+Der Begriff „Herausgeber der Anwendung“ bezeichnet die juristische Person, die die Anwendung an Sie lizenziert wie im Store angegeben.
+Wenn Sie diese Lizenzbestimmungen einhalten, verfügen Sie über die nachfolgend aufgeführten Rechte.
+    1. RECHTE ZUR INSTALLATION UND NUTZUNG.
+Sie dürfen die Anwendung auf Windows-Geräten oder Xbox-Konsolen wie in den Nutzungsregeln (https://go.microsoft.com/fwlink/p/?LinkId=723143) von Microsoft beschrieben installieren und verwenden.
+Microsoft behält sich das Recht vor, die Nutzungsregeln (https://go.microsoft.com/fwlink/p/?LinkId=723143) von Microsoft jederzeit zu ändern.
+    2. INTERNETBASIERTE DIENSTE.
+        a. Zustimmung zu Internetbasierten oder Wireless-Diensten.
+Wenn sich die Anwendung mit Computersystemen über das Internet verbindet, was die Nutzung eines Drahtlosnetzwerks einschließen kann, stimmen Sie, indem Sie die Anwendung nutzen, der Übermittlung von Standardgeräteinformationen (wie z. B. technischen Informationen über Ihr Gerät, Ihre System- und Anwendungssoftware und Ihre Peripheriegeräte) für Internetgestützte oder Drahtlosnetzwerkdienste zu.
+Wenn in Verbindung mit Ihrer Nutzung der Dienste, auf die Sie unter Verwendung der Anwendung zugegriffen haben, andere Bestimmungen vorgelegt werden, gelten diese Bestimmungen ebenfalls.
+        b. Missbrauch Internetbasierter Dienste.
+Sie sind nicht berechtigt, Internetbasierte Dienste auf eine Weise zu verwenden, durch die Sie sie absichtlich beschädigen oder ihre Verwendung durch andere oder das Wireless-Netzwerk beeinträchtigen.
+Sie sind nicht berechtigt, den Dienst zu nutzen, auf irgendeine Weise nicht autorisierten Zugriff auf Dienste, Daten, Konten oder Netzwerke zu erlangen.
+    3. LIZENZUMFANG.
+Die Anwendung wird lizenziert, nicht verkauft.
+Dieser Vertrag gibt Ihnen nur einige Rechte zur Verwendung der Anwendung.
+Wenn Microsoft die Fähigkeit zur Nutzung der Anwendungen auf Ihren Geräten gemäß Ihrem Vertrag mit Microsoft deaktiviert, erlöschen alle damit verbundenen Lizenzrechte.
+Der Anwendungsherausgeber behält sich alle anderen Rechte vor.
+Sie dürfen die Anwendung nur wie in diesem Vertrag ausdrücklich gestattet verwenden, es sei denn, das anwendbare Recht gibt Ihnen ungeachtet dieser Einschränkung umfassendere Rechte.
+Dabei sind Sie verpflichtet, alle technischen Beschränkungen der Anwendung einzuhalten, die Ihnen nur spezielle Verwendungen gestatten.
+Sie sind nicht dazu berechtigt,
+        a. technische Beschränkungen der Anwendung zu umgehen.
+        b. die Anwendung zurückzuentwickeln (Reverse Engineering), zu dekompilieren oder zu disassemblieren, es sei denn, dass und nur insoweit es das anwendbare Urheberrecht für Computerprogramme ausdrücklich gestattet.
+        c. eine größere Anzahl von Kopien der Anwendung als in diesem Vertrag angegeben oder vom anwendbaren Recht ungeachtet dieser Einschränkung ausdrücklich gestattet anzufertigen.
+        d. die Anwendung zu veröffentlichen oder anderweitig zur Verfügung zu stellen, damit andere sie kopieren können.
+        e. die Anwendung zu vermieten, zu verleasen oder zu verleihen.
+        f. die Anwendung oder diesen Vertrag an einen Dritten zu übertragen.
+    4. DOKUMENTATION.
+Wenn Dokumentation mit der Anwendung bereitgestellt wird, dürfen Sie diese zu Ihren persönlichen Referenzzwecken kopieren und verwenden.
+    5. TECHNOLOGIE- UND AUSFUHRBESCHRÄNKUNGEN.
+Die Anwendung unterliegt möglicherweise Technologiekontroll- oder Exportgesetzen und -regelungen der USA und anderer Länder.
+Sie sind verpflichtet, alle nationalen und internationalen Exportgesetze und -regelungen einzuhalten, die für die von der Anwendung verwendete oder unterstützte Technologie gelten.
+Diese Gesetze enthalten auch Beschränkungen in Bezug auf Bestimmungsorte, Endbenutzer und Endnutzung.
+Weitere Informationen zu Produkten der Marke Microsoft finden Sie unter Microsoft-Website zum Export (https://go.microsoft.com/fwlink/?linkid=868967).
+    6. SUPPORTSERVICES.
+Wenden Sie sich an den Anwendungsherausgeber, um zu erfahren, ob Supportservices verfügbar sind.
+Microsoft, Ihr Hardwarehersteller und Ihr Mobilfunkanbieter (es sei denn, einer davon ist der Anwendungsherausgeber) sind nicht für die Bereitstellung von Supportservices für die Anwendung verantwortlich.
+    7. GESAMTER VERTRAG.
+Dieser Vertrag, die anwendbare Datenschutzrichtlinie, etwaige zusätzliche Bestimmungen, die der Anwendung beigegeben sind, und die für Ergänzungen und Updates geltenden Bestimmungen stellen den gesamten Lizenzvertrag über die Anwendung zwischen Ihnen und dem Herausgeber der Anwendung dar.
+    8. ANWENDBARES RECHT.
+        a. Vereinigte Staaten und Kanada.
+Wenn Sie die Anwendung in den Vereinigten Staaten oder in Kanada erworben haben, dann regeln die Gesetze des Staates bzw. der Provinz, in dem bzw. der sich Ihr Wohnsitz (oder bei einem Unternehmen Ihr Hauptfirmensitz) befindet, die Auslegung dieser Bestimmungen und gelten für Ansprüche aus einer Verletzung dieser Bestimmungen und alle anderen Ansprüche (einschließlich Ansprüche aus Verbraucherschutz, unlauterem Wettbewerb und unerlaubten Handlungen) ungeachtet der Bestimmungen des Internationalen Privatrechts.
+        b. Außerhalb der Vereinigten Staaten und Kanadas.
+Wenn Sie die Anwendung in einem anderen Land erworben haben, gelten die Gesetze dieses Landes.
+    9. RECHTLICHE WIRKUNG.
+Dieser Vertrag beschreibt bestimmte Rechte.
+Möglicherweise haben Sie unter den Gesetzen Ihres Staates oder Landes weitergehende Rechte.
+Dieser Vertrag ändert nicht Ihre Rechte, die sich aus den Gesetzen Ihres Staates oder Landes ergeben, sofern die Gesetze Ihres Staates oder Landes dies nicht zulassen.
+    10. AUSSCHLUSS VON GARANTIEN.
+Die Anwendung wird „wie besehen“, „mit allen Mängeln“ und „wie verfügbar“ lizenziert.
+Der Herausgeber der Anwendung selbst, Microsoft (wenn Microsoft nicht der Herausgeber der Anwendung ist), die Mobilfunkanbieter, über deren Netz die Anwendung bereitgestellt wird, und alle jeweiligen verbundenen Unternehmen, Zulieferer, Vertreter und Lieferanten („Betroffene Parteien“) geben keine weiteren vertraglichen Garantien, Gewährleistungen oder Zusicherungen bezüglich der Anwendung.
+Ihnen stehen alle gesetzlich vorgeschriebenen Gewährleistungen zu, aber wir gewähren keine anderen Garantien.
+In dem nach örtlichem Recht zulässigen Umfang schließen die Betroffenen Parteien alle konkludenten zwingenden Gewährleistungen aus, einschließlich der Handelsüblichkeit, der Eignung für einen bestimmten Zweck, der Zusicherung von Sicherheit und Komfort und der Nichtverletzung von Rechten Dritter.
+    11. BESCHRÄNKUNG VON ABHILFEMASSNAHMEN UND SCHADENERSATZANSPRÜCHEN.
+        a. Der Herausgeber der Anwendung haftet nicht für Nutzerinhalte oder für Materialien Dritter sonstiger Art, einschließlich Links zu Websites Dritter und Aktivitäten, die von Nutzern bereitgestellt wurden.
+Diese Inhalte und Aktivitäten sind weder auf den Anwendungsherausgeber zurückzuführen noch geben Sie die Meinung des Anwendungsherausgebers wieder.
+        b. Der Herausgeber der Anwendung haftet ausschließlich bei Verstößen gegen wesentliche Verpflichtungen aus diesen Lizenzbestimmungen.
+        c. Der Anwendungsherausgeber, seine indirekten Vertreter und/oder gesetzlichen Vertreter haften nicht für unvorhersehbare Schäden und/oder finanzielle Verluste im Zusammenhang mit indirekten Schäden, einschließlich entgangener Gewinne, es sei denn, der Anwendungsherausgeber, seine indirekten Vertreter und/oder seine gesetzlichen Vertreter haben mindestens grob fahrlässig oder vorsätzlich gehandelt.
+        d. Die Haftungseinschränkung wirkt sich nicht auf die gesetzliche verschuldensunabhängige Haftung des Herausgebers der Anwendung aus, einschließlich (ohne hierauf beschränkt zu sein) der Haftung nach dem Produkthaftungsgesetz und der gesetzlichen Haftung bei Garantieverletzungen.
+Das Gleiche gilt für die Haftung des Herausgebers der Anwendung, seiner indirekten Vertreter und/oder seiner gesetzlichen Vertreter im Fall von Betrug oder Fahrlässigkeit, der/die zu einer Verletzung des Körpers oder der Gesundheit oder zum Tod führt.
+        e. Aus diesen Lizenzbestimmungen für Anwendungen und/oder der Nutzung der Anwendung oder von Diensten, die über die Anwendung bereitgestellt werden, dürfen sich außer den in den Absätzen (a) bis (e) dieser Ziffer 11 genannten keine weiteren vertraglichen oder gesetzlichen Ansprüche ergeben.
+[Zum Seitenanfang] Seitenanfang
+Abgedeckte Dienste
+Die folgenden Produkte, Apps und Dienste sind vom Microsoft-Servicevertrag abgedeckt, sind aber möglicherweise auf Ihrem Markt nicht verfügbar.
+    Account.microsoft.com
+    App Bing-Suche
+    Bing Apps
+    Bing Dictionary
+    Bing Image and News (iOS)
+    Bing Maps
+    Bing Rebates
+    Bing Search APIs/SDKs
+    Bing Seiten
+    Bing Translator
+    Bing Webmaster
+    Bing.com
+    Bingplaces.com
+    Cortana fragen
+    Cortana skills by Microsoft
+    Cortana
+    Default Homepage and New Tab Page on Microsoft Edge
+    Dev Center App
+    Dictate
+    education.minecraft.net
+    Face Swap
+    Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
+    Forms.microsoft.com
+    forzamotorsport.net
+    Gerätestatus-App
+    Groove Music Pass
+    Groove
+    GroupMe
+    Karten-App
+    LineBack
+    Microsoft 365 Business Standard und Microsoft 365 Apps*
+        * Gilt, bis eine kommerzielle Domäne zur Nutzung dieser Dienste eingerichtet ist.
+Ab diesem Zeitpunkt gelten separate Bestimmungen für kommerzielle Dienste von Microsoft.
+    Microsoft 365 Consumer
+    Microsoft 365 Family
+    Microsoft 365 Personal
+    Microsoft Academic
+    Microsoft Add-Ins for Skype
+    Microsoft Bots
+    Microsoft Educator Community
+    Microsoft Filme & TV
+    Microsoft Health
+    Microsoft Launcher
+    Microsoft Math Solver
+    Microsoft Pay
+    Microsoft Pix
+    Microsoft Research Interactive Science
+    Microsoft Research Open Data
+    Microsoft Search in Bing
+    Microsoft Soundscape
+    Microsoft Start
+    Microsoft Teams
+    Microsoft Translator
+    Microsoft Wallpaper
+    Microsoft XiaoIce
+    Microsoft-Familie
+    Microsoft-Konto
+    Minecraft Realms Plus and Minecraft Realms
+    Minecraft-Spiele
+    Mixer
+    MSN Dial Up
+    MSN Explorer
+    MSN Finanzen
+    MSN Gesundheit und Fitness
+    MSN Kochen & Genuss
+    MSN News
+    MSN Premium
+    MSN Reisen
+    MSN Sport
+    MSN Wetter
+    MSN.com
+    Next Lock Screen
+    Office 365 Pro Plus optional connected experiences
+    Office für das Web (bislang Office Online)
+    Office in Microsoft 365 Consumer
+    Office in Microsoft 365 Family
+    Office in Microsoft 365 Personal
+    Office Store
+    Office Sway
+    Office.com
+    OneDrive.com
+    OneDrive
+    OneNote.com
+    Outlook.com
+    Paint 3D
+    Presentation Translator
+    Rinna
+    rise4fun
+    Seeing AI
+    Send
+    Skype in the Classroom
+    Skype Manager
+    Skype.com
+    Skype
+    Smart Search
+    Snip Insights
+    Spiele, Apps und Websites von Xbox Game Studios
+    Spreadsheet Keyboard
+    Store
+    Support- und Wiederherstellungs-Assistent für Office 365 von Microsoft
+    Sway.com
+    to-do.microsoft.com
+    Translator for Microsoft Edge
+    Translator Live
+    UrWeather
+    ux.microsoft.com
+    Video Breakdown
+    Visio Online
+    Von Microsoft veröffentlichte Windows-Spiele, -Apps und -Websites
+    Web Translator
+    whiteboard.office.com
+    Windows Fotogalerie
+    Windows Live Mail
+    Windows Live Writer
+    Windows Movie Maker
+    Windows Store
+    Xbox Game Pass
+    Xbox Live Gold
+    Xbox Live
+    Xbox Music
+    Xbox Store
+[Zum Seitenanfang] Seitenanfang
+Verbundene vertragsschließende Gesellschaften (für kostenpflichtige Dienste nach Ziffer 10(b))
+Zurzeit gibt es keine verbundenen vertragsschließenden Gesellschaften.
+Microsoft Ireland Operations Limited ist Ihre vertragsschließende Gesellschaft.

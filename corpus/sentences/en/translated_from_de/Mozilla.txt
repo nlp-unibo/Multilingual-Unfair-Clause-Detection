@@ -1,0 +1,97 @@
+Website and Communication Terms of Use
+23.06.2016
+Terms of Use
+1. Introduction
+Please read the terms of this entire document (“Terms”) carefully as they explain your rights and obligations when you visit any of Mozilla's websites (“Websites”) or related feeds, social media, newsletters, source code -Repositories and emails apply (together with the websites these are collectively referred to as "communications").
+By accessing communications or registering to receive them, you are agreeing to be bound by these terms.
+Our websites span multiple domains, such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org.
+You can also identify our websites by nicknames like Bugzilla @ Mozilla, BMO, MozWiki, MoPad, Webmaker, MozReps, MDN, Marketplace, One and Done, SUMO and AMO.
+Some of our websites connect you to links, apps or add-ons that are provided by other parties and are subject to separate terms.
+2. Office registration
+Some websites require you to register for an account in order to access additional features of a website or other Mozilla service.
+In this case, additional terms will be presented to you.
+You are responsible for all activities under your account.
+Some websites allow you to create a username when you register.
+Your use of a username must comply with our terms of use.
+3. Licensing of Content
+Our communications may include content such as articles, images, photos, comments, software code, audio and video clips, and other materials (collectively, "Content").
+The content authors are Mozilla, contributors to Mozilla projects, and other sources.
+Mozilla-authored content is typically made available for public distribution and reuse using open licenses such as Creative Commons (for meaningful material) or the Mozilla Public License (for software code).
+In most cases, we ask those involved in Mozilla projects to release content under open licenses.
+Some of the content in our communications comes from sources that prohibit further use of their content without prior approval.
+Whenever possible, a notice with the applicable license will appear in the footer of the content or website.
+You agree to adhere to such instructions and explanations.
+In particular, please note the following:
+For some content it is expressly stated that the author has not granted an open license.
+Contact the author or their agent and ask for permission to use such content.
+For questions about content created by Mozilla, please email: licensing@mozilla.org.
+Some content includes trademarks, company or product designs, logos, and trademarks of Mozilla and other parties (“Trademarks”).
+Except to a very limited extent, trademarks may not be used without the prior written consent of the trademark owner.
+Learn more about Mozilla trademarks
+The software used by our websites is licensed under the MPL or similar permissive open source licenses.
+You can find more information about the respective license in the corresponding source code or GitHub repository.
+4. Submitted Content
+You can submit content when you interact with our communications.
+These include Comments on an article, blog posts, code posts, or graphic or written posts (each referred to as a "Submission").
+If your submission is not made under a separate agreement with Mozilla, which in this case takes precedence, then:
+For submissions to open source Mozilla projects:
+You agree to license your submission under the terms of the specific license or open source project to which you are contributing.
+You can find more information about the respective license in the corresponding source code or GitHub repository.
+For all submissions, you agree to the following items in connection with each submission:
+You agree that your submission will comply with these terms, the Mozilla Terms of Use, and any other terms that apply to your submission.
+You hereby grant us a nonexclusive, royalty-free, worldwide, and sublicensable (to the partners we work with) license to use your submission in connection with communicating and promoting, online and offline, Mozilla's mission, products and services.
+You confirm that your submissions can be made available to other registered users of the respective service or the public.
+If your submission contains significant material or software code, you agree to license it in a manner compatible with the particular website on which the submission is made.
+You agree that you have the necessary rights to grant the rights set forth herein and that the use provided for under these terms and conditions does not infringe the property rights of any third party or any third party’s intellectual property rights.
+You agree that Mozilla reserves the right, in its sole discretion, to review, modify, or remove any Submission that Mozilla determines is improper or in violation of these Terms.
+5. Privacy Policy and Cookies
+The privacy policy for Mozilla websites, communications and cookies describes how we use information that we receive from you in connection with our communications.
+The data protection notice explains, for example, that we place certain cookies on our websites and how you can opt out of their placement.
+6. Communication and events
+If you subscribe to our newsletters or register for an account in connection with one of our websites, you may receive transactional emails from us in connection with your account (e.g. updates on legal issues, data protection and security).
+Some of our websites use online tools that allow you to send email to others.
+You can e.g. B. Invite your contacts to events using your Webmaker account.
+You agree not to misuse other people's e-mail addresses (e.g. by sending spam).
+Other websites, such as MozReps and Webmaker, provide tools that users can use to organize events that all other users can attend.
+Please exercise caution in attending such events and do not trust anyone lightly.
+7. Reporting Abuse
+For more information on how to report a copyright or trademark infringement, click here.
+https://www.mozilla.org/about/legal/report-abuse/.
+8. Term; termination
+These Terms of Service apply until terminated by either you or Mozilla.
+You can terminate this agreement at any time and for any reason by ceasing your use of the communications and, if necessary, deleting your account.
+We may suspend or discontinue your access to the Communications at any time and for any reason, including if we have reason to believe that: (i) you have violated these Terms, our Terms of Use, or any other relevant policy; (ii) you expose ourselves to risk or pose a potential legal risk; or (iii) our provision of communications to you is no longer economical.
+In all of these cases, this Agreement will terminate, with the exception of the following sections, which will continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+9. Indemnification
+You agree to remit Mozilla, its suppliers, contributors, licensors and partners and their respective directors, officers, employees and representatives of the foregoing ("indemnified parties") from or against all third party claims and costs, including legal fees, that to protect, hold harmless and indemnify arising from or in connection with your use of the communications (including but not limited to your submissions or a violation of these terms and conditions).
+10. Rejection of liability; Limitation of Liability
+COMMUNICATION IS PROVIDED AS IS, INCLUDING ANY ERRORS.
+TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE GUARANTEED PARTIES DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, IN PARTICULAR THE WARRANTY OF ERRORS, AND NEGOTIABILITY, DISCLAIMER.
+YOU ASSUME THE ENTIRE RISK AS TO THE USE OF THE COMMUNICATION FOR YOUR PURPOSES, AND THE QUALITY AND PERFORMANCE OF THE COMMUNICATION, INCLUDING THE RISK OF DAMAGE TO YOUR HARDWARE, OR YOUR SOFTWARE, OR THE ACCESSORIES, OCCUPIED OR ANOTHER USER MISUSE OR DISTRIBUTED YOUR SUBMISSION.
+THIS LIMITATION SHALL APPLY WITHOUT FAILURE TO FULFILL THE ESSENTIAL PURPOSE OF ANY REMEDIES.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THE LIMITATION SET FORTH HEREIN MAY NOT APPLY TO YOU.
+EXCEPT TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE HARMFUL PARTIES SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES ARISING FROM OR IN CONNECTION WITH THE COMBINATION OF THESE CONDITIONS BY narrowing THE INTANGIBLE GOODWILL, BUSINESS INTERRUPTION, LOSS OF PROFITS, LOSS OF DATA, COMPUTER FAILURE OR OUTAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE LEGAL THEORY (CONTRACT, TORT OR OTHERWISE) TO THE RIGHT REASONS IS.
+THE TOTAL LIABILITY OF MOZILLA AND THE HARMFUL PARTIES UNDER THIS AGREEMENT IS LIMITED TO US $ 500 (FIVE HUNDRED US DOLLARS).
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR INCIDENTAL OR SPECIAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+11. Changes to these terms
+We are entitled to change these conditions from time to time in order to take into account new functions of the communication or to clarify a regulation.
+The new terms will be published online.
+If the changes are significant, we will communicate the updates via our regular information channels such as blogs, banners, e-mails or forums.
+Your continued use of our communications after such changes take effect will be deemed to be your acceptance of such change.
+For a better overview, we will publish the effective date at the top of this page.
+12. Miscellaneous
+These terms constitute the entire agreement between you and Mozilla regarding our communications and take precedence over any previous version of these terms.
+The communication and these terms are subject to the laws of the state of California, USA, excluding the conflict of laws provisions.
+Santa Clara County, California, USA, and you expressly consent to the jurisdiction of those courts, shall have jurisdiction for any claim or matter arising out of the communication or these Terms.
+Should any of these conditions be declared invalid or unenforceable, the remaining conditions will remain unaffected.
+In the event of a conflict between the translated version of these Terms and the English version, the English version will prevail.
+In the event of a conflict between these Terms and relevant Additional Terms, the Additional Terms apply.
+13. Contact
+Mozilla Corporation
+Attn: Mozilla – Legal Notices
+331 E. Evelyn Ave.
+Mountain View, CA 94041
+USA
+Tel.: +1-650-903-0800
+Fax: +1-650-903-0875
+Legal-Notices (bei) mozilla.com

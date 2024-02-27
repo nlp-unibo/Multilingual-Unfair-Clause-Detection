@@ -1,0 +1,164 @@
+UBER B.
+V.
+Conditions
+Last updated: December 4, 2017
+1.
+Contractual relationship
+These Terms and Conditions (hereinafter referred to as the "Terms") govern access to or use by an individual from any country in the world (except the United States and its overseas and non-corporated territories as well as mainland China) of applications, websites, content, products and services (hereinafter "Services") provided by Uber B.
+V.,
+a private limited liability company established in the Netherlands, with its registered office at Mr.
+Treublaan 7, 1097 DP, Amsterdam, The Netherlands, registered with the Amsterdam Chamber of Commerce under number 56317441 (hereinafter "Uber").
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE ACCESSING OR USING THE SERVICES.
+By accessing and using the Services, you are agreeing to be bound by these Terms and Conditions, which will establish a contractual relationship between you and Uber.
+If you do not accept these Regulations, you will not be able to access and use the Services.
+These Regulations supersede previously concluded contracts and agreements.
+Uber may, at any time and for any reason, cancel these Terms or prevent you from using any Services, or stop offering the Services at all, and deny access to them or any part of them.
+Certain Services may be subject to additional terms, such as terms and conditions for specific events, activities, or promotions, and such additional terms will be communicated in connection with the applicable Services.
+Additional provisions are in addition to and will form part of the Terms for the purposes of the applicable Services.
+In the event of a conflict with regard to the Services in question, additional provisions shall prevail over these Regulations.
+Uber may change these Service Terms from time to time.
+Changes will be effective when Uber posts such updated Terms here or updated policies or additional terms on the applicable Services.
+Your continued access to or use of the Services after such posting constitutes acceptance of the revised Terms.
+The rules for our collection and use of personal data in connection with the Services are set out in Uber's Privacy Policy, available at https://www.uber.com/privacy/notice.
+Uber may provide the claims handler or insurer with all necessary information (including your contact details) in the event of a complaint, dispute or conflict, which may include an accident involving you and the Third Party Provider (including the driver of the shipping company) and such information or data will be necessary to resolve a claim or resolve a dispute or conflict.
+2.
+Services
+The Services are a technology platform that enables users of Uber's mobile applications or websites hosted on the Services (each of which will be separately referred to as an "Application") to order shipping or logistics services from independent third-party providers that provide such services, including independent third-party shipping providers. and independent third-party logistics service providers contracted with Uber or certain Uber affiliates ("Third Party Providers").
+Unless otherwise agreed with Uber in a separate written agreement, the Services are made available for personal, non-commercial use only.
+YOU UNDERSTAND THAT UBER DOES NOT PROVIDE TRANSPORT OR LOGISTICS SERVICES OR A CARRIER, AND ALL TRANSPORT OR LOGISTICS ARE PROVIDED BY ANY INDEPENDENT EXTERNAL CONTRACTORS.
+License.
+Subject to your compliance with these Terms and Conditions, Uber grants you a limited, non-exclusive, revocable and non-transferable license with no further license to: (i) access and use the Apps on your own device solely in connection with your use of the Services; and (ii) accessing and using any content, information and related material that may be made available through the Services, from time to time solely for your private, non-commercial use.
+Any rights not expressly granted in these Terms are reserved to Uber and its licensors.
+Restrictions.
+You may not: (i) remove any copyright, trademark, or other proprietary notices from any part of the Services; (ii) reproduce, modify, create derivative works based on, distribute, license, rent, sell, resell, transfer, publicly display, publicly play, broadcast, stream, broadcast or otherwise use the Services, except as expressly permitted by Uber ; (iii) decompile, reverse engineer and disassemble the Services, except as permitted by applicable law; (iv) posting links to, mirroring, or framing any part of the Services; (v) to run and run any programs or scripts to extract data by scraping, indexing, research or other data mining techniques from any part of the Services, as well as overloading or preventing the operation or limiting the functionality of any aspect of the Services ; or (vi) attempting to gain unauthorized access or restriction of any aspect of the Services or related systems or networks.
+Provision of Services.
+You acknowledge that some Services may be made available under different Uber brands or on request as optional transportation or logistics services, including on-demand transportation service brands currently including the "Uber", "uberPOP", "uberX" brands, "UberXL", "UberBLACK", "UberSUV", "UberBERLINE", "UberVAN", "UberEXEC" and "UberLUX" and the logistics service brands "UberRUSH", "UberFRESH" and "UberEATS".
+You also acknowledge that the Services may be made available under or under such brand names upon request through or in connection with: (i) some of Uber's subsidiaries and affiliates; or (ii) Independent Third Party Service Providers, including drivers of shipping companies, persons holding licenses to provide transportation services or similar permits, licenses or consents to provide such services.
+Third Party Service Provider Services and Content.
+Services may be hosted or accessed in connection with third party services or content (including advertising content) over which Uber has no control.
+The User acknowledges that other terms and conditions and privacy policies may apply to the use of such third party services and content.
+Uber does not endorse these third-party services or content, and in no event will Uber be liable for any such third-party goods or services.
+In addition, Apple Inc.,
+Google, Inc.,
+Microsoft Corporation or BlackBerry Limited or their respective international affiliates and subsidiaries will be beneficiaries not party to this agreement if you access the Services using applications developed for mobile devices running Apple iOS, Android, Microsoft Windows or Blackberry.
+Such third party beneficiaries are not party to this agreement and will not be responsible for the provision or support of the Services.
+The user's access to the Services with the use of such devices is subject to the provisions of the regulations set out in the relevant regulations of external beneficiaries.
+Property.
+The Services and all rights attached to them are and will remain the property of Uber or of Uber's licensors.
+Neither these Terms nor your use of the Services grant you any rights: (i) in or in the Services, except for the limited license granted above; or (ii) to use or in any way refer to names, logos, product and service names, trademarks, service marks of Uber, or Uber's licensors.
+3.
+Your Use of the Services
+User Accounts.
+To use most aspects of the Services, you must register with and maintain an active personal user account for the Services ("Account").
+To be able to obtain an Account, you must be at least 18 years of age or of the legal age of majority in your jurisdiction (if other than 18 years of age).
+Registering for an account requires that you provide Uber with certain personal information, such as your name, address, mobile number, and age, as well as specifying at least one valid payment method (credit card or an accepted payment partner).
+The user undertakes that the data stored in his account will be reliable, complete and up-to-date.
+Failure to ensure that your Account information is accurate, complete, and up-to-date, including registration of an incorrect payment method or its expiration, may prevent you from accessing and using the Services or may cause Uber to void these terms.
+The User is responsible for all activities carried out through his Account, as well as undertakes to always protect and keep secret the username and password for the Account.
+Unless Uber allows otherwise in writing, you may only have one Account.
+User Requirements and Behavior Policy.
+The service is not available to persons under the age of 18.
+The User may not allow third parties to use his Account, and he must not allow persons under the age of 18 to use transport or logistics services provided by Third Party Providers, unless it is in the company of the user.
+The User may not assign or otherwise transfer his Account to any other person or entity.
+You agree to comply with all applicable laws when using the Services, and you may use the Services only for lawful purposes (e.g.
+it is not allowed to transport illegal or dangerous materials).
+In using the Services, you must not obstruct, disturb, cause inconvenience or damage to property, neither to Third Party Providers nor other third parties.
+In some cases, in order to access or use the Services, you may be asked to provide proof of identity and agree that if you refuse to provide proof of identity, you may not be able to access and use the Services.
+Text messages.
+By creating an Account, you consent to the receipt of informational text messages (SMS) sent by the Services as part of normal business activities related to your use of the Services.
+The user may at any time withdraw consent to receive text messages (SMS) from Uber by sending an e-mail to the e-mail address support@uber.com, indicating that he does not wish to receive such messages again and providing the phone number of the mobile device to which messages are sent.
+You acknowledge that withdrawing consent to receive text messages (SMS) may affect your use of the Services.
+Promotion codes.
+Uber may, in its sole discretion, create promotional codes that can be used to top up your Account balance or redeemed for other features or benefits related to the Services or services provided by Third Party Providers, subject to any additional terms Uber may make with respect to specific promotional codes (hereinafter referred to as "Promotional Codes").
+You agree that Promotional Codes: (i) must be used by the target audience and for their intended purpose and in a lawful manner; (ii) may not be reproduced, sold or transferred in any way, or made available to the public (publicly available or otherwise), except with the express consent of Uber; (iii) may be revoked by Uber for any reason, without Uber incurring any liability; (iv) may only be used in accordance with the specific terms established by Uber for such Promotional Codes; (v) are not redeemable for cash; and (vi) may expire prior to your use.
+Uber reserves the right to withhold or deduct any balance or other features or benefits obtained through the use of Promotion Codes by you or any other user in the event that Uber determines or believes that the use or redemption of the Promotion Code was in error, fraudulent, illegal or breach of the provisions applicable to a given Promotional Code or the provisions of these Regulations.
+User Posted Content.
+Uber may, in its sole discretion, from time to time allow users to post, upload, post, or otherwise share Uber via the Services with text, audio or visual content and information, including comments and feedback regarding the Service, submitting support tickets, and submitting support tickets. in contests and promotions (hereinafter referred to as "User Content").
+All User Content submitted by you remains your property.
+However, by submitting User Content to Uber, you grant Uber a worldwide, perpetual, irrevocable, transferable, royalty-free license with the right to sub-license, use, copy, modify, derivative works, dissemination, public performance, public Play and otherwise use such User Content in all formats and in all distribution channels known now or in the future (including in connection with the Services and Uber's activities, as well as at third party facilities and services), without the need for additional notice or consent from you, and without having to pay you or any other person or entity any amounts.
+You represent and warrant that: (i) you are the sole and exclusive owner of all User Content, or have all rights, licenses, consents and approvals necessary to grant Uber a license to User Content as described above; and (ii) neither the uploading, uploading, posting or otherwise making available of such User Content nor any use of User Content by Uber permitted under this Agreement shall constitute a violation or misappropriation of any third party intellectual property or proprietary right, or the right to protection of image and privacy, and will not result in violation of any provisions of applicable law.
+You agree not to submit User Content that is defamatory, defamatory or hate speech, contains any content that is violent, obscene, pornographic, illegal or otherwise offensive, as determined by Uber in its sole and absolute discretion. on whether such materials are legally protected.
+Uber may, but will not be obligated to, verify, monitor, or remove User Content at Uber's sole discretion and at any time and for any reason without notice to you.
+Network Access and Devices.
+The User is obliged to provide sufficient access to the network to use the Services.
+The cellular network may incur data or text messaging charges when you access or use the Services through a wireless compatible device and you are responsible for paying for such charges.
+You must obtain and update compatible hardware or devices necessary to access and use the Services and Apps, including any updates.
+Uber does not guarantee that the Services, or any part thereof, will run on any particular hardware or device.
+In addition, there may also be faults or delays in the Services inherent to the use of the Internet and electronic means of communication.
+4.
+payment
+You understand that your use of the Services may lead to you being billed for services or goods received from Third Party Providers ("Fees").
+Upon receipt of the services or goods obtained through the use of the Services, Uber will enable the payment of the applicable Fees on behalf of the Third Party Provider by acting as a limited fee agent on behalf of the Third Party Provider.
+Payment of the Fees in this way will be tantamount to paying the fee directly to the External Service Provider.
+The amount of the Fee will include applicable taxes pursuant to applicable law.
+Your fees are final and non-refundable, unless Uber indicates otherwise.
+The User retains the right to request a reduction in the Fee charged by the External Service Provider for services or goods received by the User from such External Service Provider upon receipt of such services or goods.
+Uber will respond appropriately to any request by a Third Party Provider to change the Fees for a particular service or good.
+All Fees are due immediately and Uber will enable payment to be made using the preferred payment method indicated in your Account, and will then send you an email confirmation of the payment.
+If the primary payment method indicated by the user in the Account expires, becomes invalid or cannot be used for any other reason, the user authorizes Uber, as a limited fee charging agent on behalf of the Third Party Provider, to use an alternative method as indicated in the User Account. payments.
+In the relationship between Uber and you, Uber reserves the right to establish, remove or amend Fees for any services or goods obtained through your use of the Services, and Uber may exercise this right at any time and in its sole discretion.
+In addition, you acknowledge and agree that Charges in certain areas may increase significantly during times of increased demand.
+Uber will use reasonable efforts to inform you of the amount of Fees that may be charged, provided that you agree to pay the Fees charged to your Account, whether or not you were aware of or not.
+Uber may, from time to time, make promotional offers or discounts available to some users, which may result in differences in the amount you billed for the same or similar services or goods obtained through the use of the Services, and you agree that such promotional offers and discounts, if not also made available to him, do not have any impact on his use of the Services or on the Fees charged to him.
+You may cancel your order for services or goods from a Third Party Provider at any time prior to the arrival of such Third Party Provider, in which case a cancellation fee may be charged.
+This payment structure is intended to ensure that the Third Party Service Provider is fully remunerated for the services or goods provided.
+Except for taxi transportation services ordered through the App, Uber does not dedicate any portion of your payment to the tip or allowance of the Third Party Provider.
+Any statement by Uber (on Uber's website, in the App, or in Uber's marketing materials) that tips are "voluntary", "optional" or "included" in the amount of payments charged for services or goods provided is not intended to imply that that Uber pays the Third Party Provider additional amounts over and above those indicated above.
+You understand and agree that while you are free to tip the Third Party Provider providing services to you or providing you with goods under the Service, you are under no obligation to do so.
+Gratuities are voluntary.
+After using the service or receiving the goods obtained under the Service, you will be able to evaluate your experience and leave additional feedback about the Third Party Provider.
+Repair or cleaning fees.
+The User is obliged to cover the costs of removing damage or necessary cleaning of the External Service Provider's vehicle and its property resulting from the use of the Services under the User Account, to the extent that they exceed the damage and cleaning resulting from "normal wear and tear" ").
+In the event that a Third Party Provider requests a Repair or Cleaning, and a request for such Repair or Cleaning is verified by Uber on reasonable grounds, Uber reserves the right to make reasonable payments for such Repair or Cleaning on behalf of the Third Party Provider, using the payment method indicated by the user in his Account.
+Such amounts will be transferred by Uber to the applicable Third Party Provider and are non-refundable.
+5.
+Disclaimer, Limitation of Liability, Indemnification.
+DISCLAIMER.
+THESE SERVICES ARE OFFERED "AS IS", AS AVAILABLE.
+UBER DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES DIRECT, IMPLIED OR STATUTORY, ARISING BY STATUTE, IF NOT BEEN DIRECTLY EXPRESSED IN THIS REGULATIONS, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF ANY RIGHTS.
+IN ADDITION UBER NOT MAKE ANY REPRESENTATIONS NOT WARRANT OR GUARANTEE WITH RESPECT TO THE RELIABILITY, TIMELINESS, QUALITY, ACCURACY OR AVAILABILITY SERVICES OR ANY SERVICES OR GOODS ORDERED THROUGH SERVICES, AS WELL AS WITH RESPECT TO UNINTERRUPTED ACCESS TO THE SERVICE, OR LACK OF ERRORS IN SERVICES .
+UBER DOES NOT GUARANTEE THE QUALITY, SUITABILITY, SAFETY, OR SKILL OF THIRD PARTY SERVICE PROVIDERS.
+YOU AGREE THAT YOU BEAR THE ENTIRE RISK ARISING FROM YOUR USE OF THE SERVICES AND ANY SERVICES OR GOODS ORDERED IN CONNECTION WITH THEM, TO THE MAXIMUM EXTENT PERMITTED TO PERMITTED BY APPLICABLE.
+LIMITATION OF LIABILITY.
+UBER NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES AND DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA, INJURY OR DAMAGE PROPERTY RELATED TO, ARISING IN CONNECTION WITH, OR OTHERWISE ARISING OUT ANY USE OF THE SERVICES, EVEN IF YOU HAVE INFORMED UBER OF THE POSSIBILITY OF SUCH DAMAGE.
+UBER WILL NOT BE LIABLE FOR ANY DAMAGES, LIABILITY OR LOSSES ARISING FROM: (i) YOUR USE OF THE SERVICES OR RELIEF OF SERVICES OR SERVICES; OR (ii) ANY TRANSACTIONS OR RELATIONSHIP BETWEEN YOU AND ANY THIRD PARTY SERVICE PROVIDER, EVEN IF UBER IS INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+UBER WILL NOT BE LIABLE FOR DELAY OR NON-PERFORMANCE OUTSIDE OF UBER'S JUSTIFICATION.
+YOU UNDERSTAND THAT THAT EXTERNAL SERVICE PROVIDERS DO NOT PROVIDE TRANSPORT SERVICES THROUGH CERTAIN INTERMEDIATE BRANDS MAY OFFER ANY SERVICE COOPERATION AND SERVICE COOPERATION SERVICES.
+IN NO EVENT SHALL UBER'S AGGREGATE LIABILITY TO YOU FOR THE SERVICES AND FOR ANY LOSS, DAMAGES, AND CAUSES OF ANY SUCH LIABILITY EXCEED BY EUR 500 (FIVE).
+YOU MAY USE THE SERVICES UBER ORDERING AND appointment TRANSPORT, GOODS OR SERVICES LOGISTICS U external service providers, BUT YOU ACKNOWLEDGE THAT THE UBER SHALL NOT BE LIABLE TO YOU IN CONNECTION WITH ANY transport services, logistics or of goods carried out by external service providers, IN ADDITION TO THE EXTENT EXPRESSLY DEFINED IN THESE TERMS AND CONDITIONS.
+THE LIMITATIONS AND EXCLUSION OF LIABILITY IN THIS SECTION 5 IS NOT INTENDED TO LIMIT YOUR LIABILITY OR TO CHANGE YOUR RIGHTS AS A CONSUMER THAT YOU MAY NOT LIABLE.
+Indemnification.
+You agree to indemnify Uber and its directors, officers, employees and agents against all claims, demands, losses, liabilities and expenses (including attorneys' fees) arising from or in connection with: (i) your use of from the Services or services or goods obtained through the Services; (ii) the user's breach of any of the provisions of these Regulations; (iii) Uber's use of your User Content; or (iv) your breach of the rights of any third party, including Third Party Providers.
+6.
+Governing law; Arbitration.
+Save as otherwise provided, these terms shall be governed solely by and construed in accordance with the laws of the Netherlands, excluding its conflict of law rules.
+These Regulations do not apply to the provisions of the 1980 United Nations Convention on Contracts for the International Sale of Goods (
+Convention on the International Sale of Goods, CISG).
+Any disputes, conflicts, claims or disagreements arising out of the Services or these terms or in any way related to them, including in particular disputes regarding the validity of the Agreement, its interpretation or enforceability (hereinafter referred to as "Disputes"), will first be compulsorily referred to the course of proceedings amicable under the International Chamber of Commerce Mediation Rules, the ICC Mediation Rules.
+If a Dispute is not resolved within 60 (sixty) days after the request for an amicable settlement of a Dispute pursuant to the above-mentioned ICC Mediation Rules, such Dispute shall only and finally be settled by an arbitration tribunal pursuant to the Arbitration Rules of the International Chamber of Commerce ("ICC Arbitration Rules ").
+The provisions of the ICC Rules regarding urgent arbitration do not apply.
+The dispute will be settled by 1 (one) arbitrator appointed in accordance with the ICC Rules.
+The venue for both mediation and arbitration will be Amsterdam, without prejudice to any rights you may have under Article 18, the so-called
+Of the Brussels Ia Regulation (Dz.
+Of
+EU 2012 L351 / 1) or Article 6: 236n of the Dutch Civil Code.
+The language of the mediation or arbitration will be English, unless you speak English, in which case the mediation or arbitration will be conducted in both English and your national language.
+The initiation and course of mediation and arbitration proceedings, including documents and letters submitted by the parties, correspondence with the International Chamber of Commerce, correspondence with the mediator and correspondence, orders and awards issued by the sole arbitrator, will remain strictly confidential and will not be disclosed to any third party without express consent. the other party's written consent, unless: (i) disclosure to the third party is reasonably necessary in the context of mediation or arbitration; and (ii) the third party will unconditionally agree in writing to the confidentiality obligation in this Agreement.
+7.
+Other provisions
+Claims of Copyright Infringement.
+Claims of copyright infringement must be submitted to a designated Uber representative.
+This representative's address and additional information can be found on the Uber website at https://www.uber.com/legal.
+Notifications.
+Uber may send notifications by means of a general notification on the Services by sending a message to the user's email address stored in your Account details or by writing to your email address from your Account details via traditional mail.
+You can send Uber notifications via traditional mail to Uber: Mr.
+Treublaan 7, 1097 DP, Amsterdam, The Netherlands.
+General provisions.
+You may not transfer your rights or obligations under these Terms and Conditions in whole or in part without Uber's prior written consent.
+You consent to Uber transferring your rights and obligations under these Terms, in whole or in part, to: (i) an associate or subsidiary; (ii) the acquirer of Uber's interests, business or property; or (iii) a successor through a merger.
+There is no joint venture, partnership, employment, or agency relationship as a result of a contract between Uber and you as well as your use of the Services between you, Uber, or any Third Party Provider.
+If any of the provisions of these Regulations is found to be illegal, invalid or unenforceable in whole or in part, under any provisions of law, such provision or part thereof will be deemed in this respect as not constituting part of these Regulations, but this is without prejudice to for compliance with the law, validity and enforceability of the remaining provisions of these Regulations.
+In such case, the Parties will replace the unlawful, invalid or unenforceable provision or part thereof with a provision or part of a provision that will be lawful, valid and enforceable and which, to the maximum extent possible, will have a similar effect to the illegal, invalid or unenforceable a provision or part of a provision, taking into account the content and purpose of these Regulations.
+These Regulations constitute the entire contract and the agreement concluded between the parties with regard to its subject matter and supersede and prevail over all previous or concurrent contracts or agreements relating to its subject.
+In these Regulations, the words "including" and the forms of the word "include" mean "including in particular".
+https://web.archive.org/web/20200308083549/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=poland&lang=pl

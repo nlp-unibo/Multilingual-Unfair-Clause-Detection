@@ -1,0 +1,667 @@
+Yahoo Terms of Service
+Exciting news!
+Our parent company was acquired by funds managed by companies affiliated with Apollo Global Management, Inc.
+and its consolidated subsidiaries.
+More information can be found in our press release.
+On November 1, 2021
+the name of the product and service provider you use has changed from Verizon Media EMEA Limited to Yahoo EMEA Limited.
+At this point, the way your data is processed remains unchanged.
+In June 2017, we announced the merger of Yahoo and AOL into a single digital and mobile media company.
+We now operate under the Yahoo Unified Terms of Service.
+If you have a Yahoo or AOL account you will need to agree to the Terms of Service below. (
+Note, if you have not yet accepted the Terms of Service below, Yahoo's existing terms of service or Oath's legacy terms of service (for AOL) still apply to your account.)
+For all Yahoo services and products that do not require registration, the Terms below will apply from May 25, 2018.
+If you create a new account, the Terms and Conditions below will apply from today.
+Yahoo Terms of Service
+Welcome to Yahoo
+Firma Yahoo Inc.
+and all of its brands (including those covered by Yahoo and AOL) are listed in section 13.
+The organizational units listed in sections 13 and 14 (collectively "Yahoo", "we", "us", "our") are part of the Yahoo family of companies.
+Our brands, websites, applications, products, services and technologies ("Services") are offered by the entities listed in section 13.
+Please read sections 1 through 13 and 14 carefully.
+1 i 14.
+13 that relate to the user.
+By using these Services, you agree to these Terms, the policies in our Privacy Center, and any community guidelines and additional terms provided in the context of the Services you are using (collectively, the "Terms").
+Please read these Terms carefully as they constitute the entire agreement between you and us.
+THESE TERMS CONTAIN THE LIMITATIONS OF OUR LIABILITY IN SECTION 9.
+US USERS: IN SECTION 14.
+2 THERE IS A BINDING ARBITRATION AGREEMENT AND CLAUSES RELATING TO CLASS-ACTION AND JURY HARINGS.
+FOR ALL US USERS.
+Use of services
+Power of attorney.
+The User confirms that he is authorized to use the Services in accordance with the applicable laws.
+If it is using the Services on behalf of a company, enterprise, or other entity, it represents that it has the authority to accept these Terms on behalf of that entity.
+In such event, the entity accepts these Terms, and "you" means that entity.
+If you are using an account on behalf of its owner (for example, as an administrator, consultant, or analyst), the Terms apply to your activities performed on behalf of the account owner.
+Indemnification.
+If you use the Services on behalf of a company, enterprise or other entity, or use the Services for commercial purposes, you and the entity shall indemnify the Yahoo Entities (as defined in section 8) from liability and protect them from any liability arising out of lawsuits, claims and actions that may arise. in connection with your use of these Services or a breach of these Terms.
+This includes all damages and expenses arising from claims (including negligence), losses, damages, lawsuits, judgments, litigation costs and attorney's fees.
+Age.
+If you are younger than the Minimum Age (as defined in section 14), you cannot register an account.
+If you do not have an existing Yahoo family account in the US, you must be at least the Minimum Age to use the services.
+Certain areas of the Services contain adult content.
+This content may only be used by adults (i.e. the appropriate age depending on the country).
+Conduct of members.
+You agree not to use the Services in any way that may violate these terms of our Community Guidelines, including:
+obtain or attempt to gain unauthorized access to our Services or servers, systems, networks or data;
+share any content that is harmful to children, threatening, insulting, harassing, prohibited, defamatory, vulgar, obscene, defamatory, violating someone's privacy, spreading hatred, as well as racial, ethnic or otherwise inappropriate;
+violate applicable laws and regulations;
+impersonate any other person or entity, or counterfeit or modify any headers or identifiers to disguise the source of content transmitted through the Services;
+make available any content that is not allowed to be shared or that violates any patents, trademark protection, trade secrets, copyrights or other intellectual property rights of any person or entity;
+post content that contains advertisements or perform other commercial solicitation without our prior written consent;
+make available viruses, computer code, files, programs or content designed to interrupt, destroy or limit the functionality of the Services or affect other users;
+interfere with or disrupt the Services, servers, systems and networks connected to the Services in any way.
+Use of the Services.
+You must follow the guidelines and policies associated with the Services.
+You may not abuse the Services, interfere with them, or attempt to access them using methods other than the interfaces and instructions provided by us.
+The services may only be used to the extent permitted by law.
+Unless expressly stated otherwise, you may not use the Services (or any part of it) or reuse them for commercial purposes.
+Export control.
+You acknowledge that you will comply with US export laws and regulations and the trade restrictions of other countries.
+This includes, but is not limited to, the US Department of Commerce and the Bureau of Industry and Security export regulations, as well as embargoes and trade sanctions programs introduced by the US Treasury and the Office of Foreign Assets Control.
+You acknowledge and warrant that: (1) You are not a prohibited entity on any government export exclusion lists (for example, http://www.bis.doc.gov/complianceandenforcement/liststocheck.htm); (2) you will not re-export or use the Services to transfer software, technology or other technical data to prohibited entities or countries; (3) you will not use the Services in a military context, for the operation of nuclear, missile, chemical and biological weapons, or for any other purpose where the use of the Services violates the export and import regulations of the US or other applicable countries.
+Anti-corruption laws.
+You acknowledge that you will comply with applicable anti-corruption laws, including those that prohibit payment by anyone for the purpose of corruption, in connection with these Terms.
+Ownership and reuse.
+Your use of the Services does not allow you to assume any intellectual or other property rights or interest in the Services or the content you use.
+You may not use any trademarks or logos used on the Services unless we have given our express written consent to do so.
+You may not remove, transmit or amend any legal notices displayed on or in the context of the Services.
+You may not reproduce, modify, rent, lease, sell, exchange, distribute, transmit, transmit, publicly perform, create derivative products or use for any commercial purpose any part of the Services (including content, advertising, APIs and software) without express written consent. ) or access them for this purpose.
+Software license.
+While continuing to comply with these Terms, we grant you a royalty-free, non-transferable, non-transferable, revocable, and non-exclusive license for the software and APIs that may be provided by us through the Services for your personal use.
+This license is for the sole purpose of allowing you to use the Services provided by us as permitted by these Terms and any additional terms or guidelines.
+You may not reverse engineer our software or attempt to extract the source code from it, unless applicable law prohibits such restrictions or we expressly authorize you to do so.
+Our software may automatically download and install security and other updates without prior notice to you.
+Support.
+Unless otherwise expressly stated, we do not warrant that we will provide any support for the Services.
+If we do provide support, we do so at our sole discretion and this does not mean that we will continue to provide support in the future.
+Fees.
+We reserve the right to charge you for using or accessing the Services (and any associated support), whether or not they currently exist, at our sole discretion.
+If we decide to charge you, our payment terms will apply and we will notify you in advance.
+Different versions of the Services.
+Different features may be available in different versions of the Services.
+Some features may not be available in your country or region.
+Certain features may not be available to users communicating using a different version of the Services or third party software.
+Abuse prevention rules.
+We prohibit sending unsolicited e-mail or other messages using our Services.
+You may not carry out commercial activities with non-commercial items and applications based on the Services or use the Services to a large extent without our prior written consent.
+You must not act in a way that hinders the operation of the Services or worsens their quality for other users.
+Envrmnt 360 Terms.
+US Users: The applicable Envrmnt 360 terms are available here in English and here in Spanish.
+RSS Feeds If you are using an RSS feed provided by us (each "Yahoo RSS Feed"), you may only view the content of that feed, without modification, and you must display the source information with a link to the entire article on the Yahoo RSS Feed.
+You cannot place an ad on the Yahoo RSS Feed.
+We reserve the right to withdraw the Yahoo RSS Feed at any time and the right to request you to stop using this feed at any time and for any reason.
+All of our products and services may have specific terms and conditions governing use of the associated Yahoo RSS Feeds.
+User account and notifications
+Account information.
+You may need an account to use some of the Services.
+You must ensure that your account details (information provided when registering or subscribing to the Service) are current, complete, accurate and true.
+With the exception of AOL Accounts, all Yahoo Accounts are non-transferable, and all rights to them will cease to apply if the owner of the account dies.
+Account access.
+The user is responsible for all activities performed on his account and through it.
+To protect your account, do not publish your password.
+Do not use your account password on other services.
+If you forget your password or are unable to verify your Yahoo account, you acknowledge and agree that your account and any associated data may no longer be available.
+This does not apply to the situations listed in the relevant regulations.
+Notifications.
+Yahoo may send you notifications regarding, but not limited to, the Services and changes to these Terms by using email, regular mail, text messages, SMS, MMS, push notifications, in-app messages, publications on the Services, or by telephone or other means. sound methods known now or developed in the future.
+You consent to receive these notifications by any of the methods listed.
+You may not receive notifications if you breach these Terms by accessing the Services in an unauthorized manner.
+It is assumed that he or she receives all notices that should be provided when accessing the Services in an authorized manner.
+Privacy and data protection
+In our Privacy Center, we explain how we handle your personal data.
+By using the Services, you consent to our privacy policy and that we use your information in accordance with this policy.
+By using and benefiting from the Yahoo Services, you acknowledge that many of the Services are personalized.
+We can only provide many of these Services on the basis of personal information that allows you to customize content and advertising.
+Visit our Privacy Center to learn more about personalization.
+Claim procedure for infringement of copyright and other intellectual property rights
+We care about the intellectual property of third parties and expect users to do so as well.
+Where appropriate, and at our sole discretion, we may disable, terminate, or take other steps with respect to infringing user accounts.
+If you believe that your copyright or other intellectual property rights have been infringed, please follow the instructions provided here.
+Content in the Services and License Grant to Yahoo
+Contents.
+Our Services display certain content that we have neither produced nor owned by us.
+Such content is the sole responsibility of the sites or persons who provide it.
+We are not responsible in any way for the actions of third parties, including persons or parties with whom you communicate using the Services.
+Many Services allow you to submit content.
+You are responsible for the content you transmit, post, email, transmit or otherwise make available through the Services.
+Yahoo is not responsible for them.
+We may remove content or refuse to display it if it violates the Terms or applicable law or regulation.
+However, this does not mean that we monitor the Services or check or select any content.
+By using the services, you understand and acknowledge that you may encounter content that is offensive, indecent or objectionable.
+Ownership of Copyright and Grant of License.
+Except as described in specific terms and conditions of our products or our Services, when you submit, share, or transmit data to the Service, you retain ownership and all intellectual property rights you have, and grant us international, royalty-free, non-exclusive, perpetual, irrevocable, transferable and sublicenseable licenses to (a) use, host, store, reproduce, modify, create derivative content (such as translations, adaptations, summaries and other changes), inform, publish, publicly perform, publicly display and distribute such content in any form using any delivery method and any media currently known or future developed; (b) allowing other users to access, reproduce, distribute, publicly perform, create derivative content and publicly execute content through the Services, consistent with the functionality of those Services (for example, when users link to a blog, republish or download content).
+Some Services may have specific conditions or settings that may allow your uploaded content to be used differently.
+You must have the necessary rights to grant us the license described in section 6 (b) for any content you upload, share or upload on these Services.
+Modifying and closing the Services, closing accounts
+We are still developing, changing and improving the Services.
+Unless otherwise stated for your region in Section 14, we may add, remove features, impose restrictions, and temporarily or permanently suspend or disable the Services without notice.
+You may stop using the Services at any time.
+You can cancel or delete your AOL account at any time here, and cancel or delete your Yahoo account here.
+For more information, please visit the appropriate Help Center.
+Unless otherwise stated for your region in Section 14, we may, at any time, for any reason (such as breach of these Terms, a court order, or inactivity), temporarily or permanently suspend or close your account or restrict your account (including access to some or all of the Services).
+Unless your statutory rights provide otherwise, if your account is terminated, your username and password cannot be accessed, your account information, files, and content may be deleted, and your username may be reused by other users.
+If the Service is chargeable, please see our payment terms available here.
+Our warranties and disclaimers
+In the maximum extent permissible by the Law, our superior, subordinate and associate companies, its representatives, managers, employees, subcontractors, agents, partners, licenses and distributors (in total "Yahoo entities") do not make any statements, promises or guarantees, clear ALLEGED ABOUT SERVICES.
+WE PROVIDE OUR SERVICES AS IS, WITH ALL DEFECTS, ACCORDING TO THEIR AVAILABILITY.
+THE USER OF THE SERVICES, INCLUDING THE CONTENT THEREFORE, IS AT YOUR OWN RISK.
+WE MAKE NO REPRESENTATIONS, PROMISES OR WARRANTIES THAT THE SERVICES WILL BE AVAILABLE UNINTERRUPTED, TIMELY, SAFE OR ERROR-FREE.
+YOU UNDERSTAND AND ACKNOWLEDGE THAT THE SECURITY OF ANY DATA TRANSMISSION THROUGH THE INTERNET OR USING DATA STORAGE TECHNOLOGY CANNOT BE GUARANTEED, AND WE EXPRESSLY Deny any warranty, express or implied.
+We do not make any obligations, we do not make promises or offer guarantees in the scope of content contained in the services or made available through the connections from the level of services, technical assistance related to services, specific functions of services, security of services, reliability, quality, quality, accuracy and availability of services or possibilities FULFILLING NEEDS, OFFERING CERTAIN INPUT DATA, OR OBTAINING CERTAIN RESULTS.
+SOME JURISDICTIONS HAVE CERTAIN IMPLIED WARRANTIES, FOR EXAMPLE, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, WE REFUSE ANY IMPLIED OR EXPRESS WARRANTY OR WARRANTY RELATING TO THE SERVICES.
+Limitation of Liability
+To the full extent permitted by the applicable provisions, the User understands and confirms that Yahoo entities are not responsible for: all indirect, special, accidental, resulting compensation (including three times or other multiples), criminal or deterrent compensation resulting from these conditions or related to THEM OR WITH THE USE OF THE SERVICES.
+Yahoo entities are not responsible for the loss of profits, loss of income, loss of business possibilities, reduction of value, including any alleged losses or reducing the value of personal data or for any other losses (total "losses") resulting from these conditions, occurring in connection with them OR RESULTING FROM THE USE OF OR ACCESS TO THE SERVICES, BUT NOT LIMITED TO LOSSES ARISING FROM OR ARISING IN THE CONTEXT OF: DELETION, CHANGES, ERROR DELIVERY OR NON-STORAGE OF DATA HANDLED OR TRANSMISSION; LIMITED SUSPENSION OR CLOSURE OF YOUR ACCOUNT; DOWNLOAD OR DISCLOSURE OF INFORMATION, INCLUDING PERSONAL DATA, THROUGH SERVICES; UNAUTHORIZED ACCESS TO YOUR ACCOUNT OR ANY DATA HANDLED OR TRANSMITTED BY USING THE SERVICES; LINKS TO EXTERNAL SITES OR RESOURCES THROUGH THIRD PARTIES OR SERVICES; USE BY THE USER OF THE PROMOTION OF ADVERTISERS FOUND IN OR AGAINST THE SERVICES; ANY GOODS AND SERVICES SOLD BY THESE ADVERTISERS.
+YAHOO ENTITIES WILL NOT BE LIABLE FOR ANY PROBLEMS CAUSED BY OTHER PARTIES, ERROR OR LEGAL ACTIONS BY THIRD PARTIES, OR RANDOM EVENTS.
+THE LIMITATIONS AND EXCLUSIONS PROVIDED IN THESE TERMS AND CONDITIONS APPLY WHETHER WE HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY LOSSES OR COULD BE EXPECTED TO KNOW ABOUT THEM.
+TO THE FULL EXTENT PERMITTED BY LAW AND EXCLUDING THE SITUATIONS DESCRIBED IN SECTION 14, YAHOO ENTITIES WILL NOT BE LIABLE IN ANY DISPUTES ARISING FROM THE APPLICATION OF THESE TERMS OR RELATED SERVICES TO THEM.
+Feedback
+You acknowledge that any recommendations, ideas, suggestions, suggestions, opinions and other information ("Opinions") sent to us in connection with our products, services, sites, applications or technologies may be used by us without any notice, obligation, or restriction and gratuitously, and waives (confirms that you will not exercise) any rights that it may have or may obtain now or in the future (including moral laws and their equivalents) in the context of the Opinion.
+Paid services and billing.
+Unless otherwise stated in the additional terms that apply to the Services you use, the terms in this Section 11 apply.
+We offer products and services for a fee ("Paid Services").
+Paid Services are subject to additional terms that you agree to when registering for such services, as well as these Terms.
+Registration for the Paid Service requires you to specify a payment method and provide correct billing and payment information, and you must keep this information up to date.
+Many Paid Services require you to have or register a Yahoo or AOL ID.
+AOL Dial-Up customers should see additional terms available here.
+The following important provisions apply to all of our Paid Services:
+Third Party Products.
+If a Paid Service includes a third party product, you understand and acknowledge that your purchase and use of the Service are also governed by the third party's terms of service and privacy policy, which you should read carefully before agreeing to them.
+Payment.
+The user declares that he or she is at least as old as is required to undertake legal obligations.
+It certifies that it will pay all fees for Paid Services purchased from us, as well as all fees arising from the use of the account, including applicable taxes and other fees.
+He is responsible for all fees associated with his account, including his own purchases, any persons he authorizes to use this account, sub and linked accounts (including any persons with implied, real, or obvious authorization), and any persons who obtain access to his account as a result of his failure to protect authentication credentials.
+Payment methods.
+You authorize us to charge the indicated payment method with these fees, and if this fails, to charge another payment method that you register with us, even if we have access to it in connection with other Paid Services.
+You are responsible for all charges even in the event of an error or refusal in charging the indicated payment method.
+You authorize us to store information about any payment methods associated with your account.
+We may import payment information entered in an earlier purchase and provide you with the option to use that information when purchasing a new product.
+You allow us to obtain and use updated information from the issuer of your payment method in accordance with the policies and procedures of the respective card provider.
+In some cases, we may, at our sole discretion, continue to charge a payment method after its expiration date, subject to approval by the payment processing organization or the issuing bank.
+Additional fees may apply for certain payment methods, such as withdrawals from current or savings accounts.
+Terms of payment.
+We may charge you for Paid Services in advance, daily, monthly, yearly, all at once or otherwise in accordance with the terms and conditions provided, as long as your subscription is active, even if you do not download or use the Services and access your online account.
+Automatic Renewal.
+Many of our Paid Services are automatically renewed.
+On the last day you subscribe to any Paid Service, we automatically renew your subscription and charge the credit card or other payment method registered with us, unless the subscription is canceled at least 48 hours before the end of the current period.
+Unless otherwise stated in section 14, your subscription will automatically renew at the then-current price.
+Promotional prices and discounts are not applied when renewing.
+We may, at our sole discretion, charge a payment method with individual fees or combine some or all of the fees for our Paid Services that you use.
+Protection against fraud.
+We may take steps to verify that the credit card information you provide is accurate.
+This includes, but is not limited to, debiting your card for less than $ 1 and getting it back immediately.
+You authorize us to do so for fraud protection purposes.
+Free trials.
+We may offer free trials that allow you to try out a subscription to Paid Services without paying fees or commitments ("Free Trial").
+Unless otherwise stated and the subscription is not canceled before the end of the Free Trial period, you will be charged periodically for the subscription at the then applicable amount.
+Fees will be charged until the subscription is canceled.
+If you are not satisfied with the specific Paid Service, please cancel your subscription before the end of the Free Trial period to avoid charges.
+We reserve the right to limit you to one Free Trial or Promotion for a Paid Service, and to prohibit combining such versions or other promotional offers.
+No refunds.
+All fees are non-refundable, unless stated otherwise in the terms and conditions outlined when registering for a Paid Service, unless otherwise stated for your region in Section 14 or otherwise stated below.
+Close.
+We may, at our sole discretion and without notice, amend, withdraw or terminate any aspect of the Paid Service.
+This includes, but is not limited to, access to support services, content, other products, and ancillary services to the Paid Service.
+In this case, we will issue a refund for the relevant items for the remainder of the period during which they will not be available.
+You can cancel the Paid Service at any time by logging into your online account and closing your subscription.
+Fee Changes and Billing Method.
+We can change the amount of fees and billing methods at any time.
+We will notify you of any price increase at least thirty (30) days in advance.
+In accordance with applicable law, (i) if you do not agree with the proposed change, your only remedy is to cancel the Paid Service before the price change is made, (ii) if you continue to use the Service or subscribe to the Service after the price change, you agree to pay the new price.
+Late payments.
+On the 30th day of non-payment of the fee, the user is considered to be in arrears with payments for the Paid Service.
+We may then close or suspend your account for the Non-Payable Service.
+You are responsible for all costs, including attorneys' fees and collection fees, that we incur to recover payments due.
+90-day warning period.
+You must notify us of billing issues or errors that occur on your payment method statement within 90 days of the first occurrence.
+Failure to do so within the 90-day period waives the right to object to these problems or errors
+Information about these Terms
+Other beneficiaries and conflicts.
+These Terms define the relationship between us and you.
+They do not create the rights of other beneficiaries.
+If there is a conflict or inconsistency between the Terms in this document and any additional terms associated with a particular Service, the conflict or inconsistency will only be resolved based on the additional terms.
+Modification of the Terms.
+Unless otherwise stated for a particular region in Section 14, we may modify the Terms from time to time.
+Unless we indicate otherwise, modifications will be effective from the date they are posted on this page or its future replacement page.
+You should review the Terms regularly.
+We will notify you of material changes as set out in section 3 (c) above.
+Continued use of services.
+You may stop using the Services at any time.
+If you do not stop using the Service or your subscription to the Service after the effective date of any modification to the Terms, you will agree to the modified Terms.
+Waiver and Severability of Terms.
+If we do not exercise or exercise any of the rights or provisions set out in these Terms, it does not constitute a waiver of those rights or a waiver of those provisions.
+If it becomes apparent that any provision (or part of a provision) in these Terms is invalid, we and you agree to nevertheless act as intended, and the remainder of the Terms will remain in effect.
+Transfer.
+We may assign these Terms and Conditions and any rules or other documents contained in or to which these Terms and Conditions (including any rights, licenses and obligations arising therefrom), in whole or in part, without notice, for any reason whatsoever, including for internal restructuring (e.g. merger or liquidation).
+Service provider
+The Services are provided by the company that offers them in your region as set forth in Section 14 ("Applicable Yahoo Entity").
+This does not apply to services listed in section 13 (b).
+Certain Services or features may not be available in your country or region.
+Different features may be available on different versions of the Services.
+Your Service Provider may change if you move to another country and continue to use our Services.
+The following Services are provided by this Yahoo Entity, regardless of your location in the world:
+For section 13 (b) services, section 14 applies.
+2 (USA).
+The following services are provided by Yahoo Inc.:
+Engadget (unless otherwise stated in section 14)
+TechCrunch (unless otherwise stated in section 14)
+Rivals
+Yahoo View
+Yahoo Developer Network
+Makers
+The following services are provided by Yahoo Ad Tech LLC:
+AOL On.
+Learning Center
+The following services are provided by Yahoo Fantasy Sports LLC:
+U.
+S.
+Daily Fantasy
+U.
+S.
+Fantasy Cash Leagues
+U.
+S.
+Fantasy Pro Leagues
+Other Fantastic Sport services are provided by Yahoo Inc.
+Ryot Studio is provided by TheHuffingtonPost.com Inc.
+The Flurry service is provided by Flurry LLC
+Contracting parties, choice of law, place of dispute resolution and other local provisions depending on the region
+In section 13, find the provider of the Services you use.
+You are contracting with this provider for the Services.
+Choice of governing law, venue to resolve disputes, certain terms definitions (including Yahoo's Relevant Entity), and other local terms depending on your region are provided in Section 14.
+If you have any questions, please contact customer support using the appropriate contact information for your region listed below.
+United States (us):
+Defined terms
+Applicable Yahoo Entity: Yahoo Inc. (
+Address: 22000 AOL Way, Dulles, VA 20166).
+Minimum age: 13 years
+BINDING ARBITRATION AGREEMENT.
+US ARBITRATION AGREEMENT.
+YOU AND WE AGREE THAT ANY DISPUTES, CONTROVERSIONS, AND CLAIMS WHICH ARISE IN ANY WAY ARISING FROM OR IN CONNECTION WITH THESE TERMS OR CONNECTED WITH ANY SERVICES OR SUPPLIED BY OUR SERVICES YOU AND OUR EMPLOYEES OR AGENTS ("DISPUTE PARTIES") WILL ONLY BE SOLVED BY INDIVIDUAL ARBITRATION OR BY A COURT OF
+SMALL CIVIL CLAIMS.
+YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU MEAN THAT THE ONLY METHOD OF RESOLVING ANY DISPUTES BETWEEN US WILL BE ARBITRATION OR A COURT COURT.
+SMALL CIVIL CLAIMS.
+YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU AND WE WILL WAIVING YOUR RIGHT TO MAKE A COURT OR AJUDY Hearing (EXCEPT APPLICABLE MATTERS)
+SMALL CIVIL CLAIMS) AND YOU GIVE UP YOUR RIGHT TO FILE A CLASS ACTION OR OTHER ACTION BY AUTHORIZED ENTITIES.
+ARBITRATION PROCEDURES MAY DIFFER FROM COURT, HOWEVER, THE ARBITRER MAY GRANT DAMAGES AND REDRESS TO THE SAME EXTENT AS A COURT, AND YOU WILL SEE AN ARBITRATOR FOR JUDGMENT.
+THE PARTIES UNDERSTAND THAT WITHOUT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO LODGE SUCH CASES AND JURY Hearings.
+THE PARTIES ALSO UNDERSTAND THAT IN CERTAIN SITUATIONS THE COST OF THE ARBITRATION MAY EXCEED THE COST OF THE COURT PROCEEDINGS AND THE RIGHT TO DISCLOSURE IN ARBITRATION MAY BE MORE LIMITED THAN A COURT OF A COURT.
+We also agree on the following issues:
+Notice of Dispute.
+If you or we intend to use arbitration in the context of these Terms, the party requesting arbitration must notify the other party in writing of the Dispute at least 30 days prior to the commencement of the arbitration.
+Notice to Yahoo should be sent either by post to Yahoo, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089, or by email to disputes@yahooinc.com.
+We will send a notification to your e-mail and postal addresses if they are registered with us at the time of sending the notification.
+The notification must describe your claim and expected redress.
+If a Dispute cannot be resolved within 30 days, both parties may submit a request for arbitration.
+Arbitration Procedure.
+The Federal Arbitration Act applies to these Terms.
+In addition to hearings in the court of
+Small Claims Any Disputes will be settled by arbitration by the AAA (American Arbitration Association).
+The AAA will use commercial arbitration rules to arbitrate any Disputes relating to these Terms.
+If you are a personal or household user of the Services, AAA will apply the consumer arbitration rules (excluding any rules or procedures that allow class actions).
+Procedures (including the process for initiating an arbitration), rules and information on fees are available from the AAA (www.adr.org).
+These Terms apply to the extent that they are not inconsistent with AAA's commercial or consumer arbitration rules.
+Option to use a court of
+small civil claims.
+Instead of resorting to arbitration, you can bring an individual claim to an arbitration tribunal.
+Small Claims in your country of residence (or, for businesses, your principal place of business) or Santa Clara County, California, provided the Dispute meets the requirements of such court.
+Arbitration Location.
+Unless you and we agree otherwise, arbitration must be conducted or a suit must be filed with an arbitration tribunal.
+small claims in your country of residence or Santa Clara County, California.
+Arbitration Fees and Expenses.
+We will refund you any fees AAA charges you for filing a dispute arbitration request.
+If you give written notice that you cannot pay the application fee, we will pay the application fee directly to the AAA.
+If the arbitration continues, we will also pay any subsequent administrative and arbitration fees.
+Settlement Proposals.
+We may, without obligation, submit a written settlement offer at any time before or during arbitration.
+The amount and terms of any settlement may not be disclosed to the arbitrator unless the arbitrator issues an opinion on the claim, and no sooner than that.
+If you do not accept the offer and the arbitrator decides to award an amount greater than our offer but less than $ 5,000, we confirm that: (a) we will pay you $ 5,000 in place of the lesser amount awarded; (b) we will reasonably pay the fees you paid and incurred attorneys' fees, (c) we will reimburse all filing fees, arbitrator fees and expenses incurred in connection with the arbitration of your Dispute.
+If the arbitrator's decision awards an amount greater than $ 5,000 and we do not challenge that decision, we will pay the awarded amount.
+Separation.
+If any part of this arbitration agreement is found unenforceable by a court in its jurisdiction, the court will amend the agreement to the extent required (to remedy the unenforceability of the relevant parts) and the parties will arbitrate the Disputes without reference to or use of such unenforceable parts.
+If for any reason the Class Action Waiver set forth in Subsection 14.
+2.c is unenforceable in relation to part or all of the Dispute, the arbitration agreement will not apply to that Dispute or this part of the Dispute.
+Any Disputes covered by the Class Action Waiver that are declared unenforceable may only be adjudicated in a court of the appropriate jurisdiction, but the remainder of the arbitration agreement will remain in effect and enforceable.
+For the avoidance of doubt or uncertainty, the parties do not agree to class arbitration or to arbitrate any claim brought on behalf of other parties.
+US GROUP ACTION WAIVER.
+COLLECTIVE ARBITRATION IS NOT ALLOWED BY THESE TERMS AND CONDITIONS, EVEN IF ALLOWED BY AAA PROCEDURES OR RULES.
+WITHOUT BREACH OF ANY OTHER PROVISIONS OF THESE TERMS, THE ARBITRATOR MAY MAKE A CASH COMPENSATION OR ORDER ONLY IN RESPECT OF ONE PARTY CLAIMING ANY INDEMNIFICATION TO THE EXTENT PERMITTED.
+ARBITRATION AND COURT PROCEEDINGS FOLLOWING THESE TERMS AND CONDITIONS MAY NOT BE BEGINNED, HANDLED OR SOLVED ON BEHALF OF THE GROUP, OR BY THE GROUP, OR OTHERWISE PERSONALLY COMMUNICATED BY ANY PERSON.
+EXCEPT FOR THIS PERSONAL PROCEDURE MAY NOT BE JOINED WITHOUT THE CONSENT OF ALL PARTIES.
+ALL ISSUES RELATING TO THE ENFORCEMENT OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT, NOT BY THE ARBITRATOR.
+JURY HARNESS WAIVER FOR US USERS.
+IF FOR ANY REASON, YOUR DISPUTE WILL BE HOSTED IN A COURT, NOT AN ARBITRATION, YOU AND WE AGREE THAT THIS DISPUTE WILL BE HANDLED WITHOUT JURTS.
+YOU AND WE UNConditionally waive ANY RIGHT TO ANY JURY HALL OF ANY ACTION, PROCEEDING OR CLAIM WITH ANY CIRCUMSTANCES OR CONSEQUENCES.
+IN THE EVENT OF A COURT, THIS PARAGRAPH MAY BE SUBMITTED AS PROOF OF WRITTEN CONSENT TO PROCEEDINGS WITH A JUDGE.
+Choice of law.
+These Terms and the relationship between the parties, including all claims and disputes between the parties, whether of a contractual, tort or otherwise, shall be governed by the laws of the State of New York without regard to their conflict of laws principles.
+In no event will the parties bring claims against each other under the laws of any other jurisdiction.
+Forum.
+If, for any reason, a Dispute is to be brought in court rather than arbitration, any Dispute arising out of or in connection with these Terms (regardless of theory), including the relationship between you and us, will be brought to New York County Courts. in New York State or in the District Court for the southern boroughs of New York. ,
+In such cases, you and we agree to submit to the personal jurisdiction of the courts located in New York County, New York, or the New York District Court, and waive any claim of personal or local impropriety in such courts.
+Customer support.
+Please see below for customer support links.
+Customer support for AOL branded products
+ACCT Other product customer support (in English)
+Customer support for other products (in Spanish)
+Community Guidelines.
+The following are guidelines for the Yahoo community:
+English version
+Spanish version
+The Services are "commercial computer software" and "commercial items" as such terms are used in the US Federal Acquisition Regulation, and US law only applies to the extent accorded to all other users in accordance with these Terms and Conditions, and without go beyond the minimum rights set out in the FAR 52.
+227-19.
+Subtitles.
+Yahoo adheres to the Federal Communications Commission rules and regulations regarding subtitles in video content.
+At https: // www.
+yahooinc.com/accessibility/captioning/ can find out more about this, as well as share any comments or complaints about the video content available on the Yahoo network.
+All the limitations of liability set forth in Section 9 apply in the State of New Jersey but nothing in these Terms shall exclude or limit liability for international tort, intent, gross negligence, or breach of statutory obligations.
+You agree that you will not use the Services to materially support or provide resources (or to conceal or conceal the nature, place, source or ownership of such support or resources) for the benefit of an organization deemed to be terrorist by the United States government under section 219 of the US Act Immigration and Nationality Act
+Argentina (ar), Chile (cl), Colombia (co), Hong Kong (hk), Mexico (mx), Peru (pe) and Venezuela (ve):
+Defined terms
+Applicable Yahoo Entity: Yahoo International Inc. (
+adres: 1921 NW 87 Avenue, Doral, FL 33172, USA)
+Minimum age: 13 years
+BINDING ARBITRATION AGREEMENT.
+ARBITRATION AGREEMENT.
+YOU AND YAHOO AGREE THAT ANY DISPUTES, CONTROVERSIONS, AND CLAIMS WHICH ARISE IN ANY WAY ARISING FROM OR IN CONNECTION WITH THESE TERMS OR CONNECTED WITH ANY SERVICES OR SERVICES FROM OUR SERVICES, YOU AND OUR EMPLOYEES OR AGENTS ("DISPUTE PARTIES") WILL ONLY BE SOLVED BY INDIVIDUAL ARBITRATION OR BY A COURT FOR
+SMALL CIVIL CLAIMS.
+YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU MEAN THAT THE ONLY METHOD OF RESOLVING ANY DISPUTES BETWEEN US WILL BE ARBITRATION OR A COURT COURT.
+SMALL CIVIL CLAIMS.
+YOU ALSO UNDERSTAND THAT, BY AGREEING THESE TERMS, YOU AND YAHOO WILL WAIVING YOUR RIGHT TO MAKE A COURT OR AJUDY Hearing (EXCEPT APPLICABLE MATTERS).
+SMALL CIVIL CLAIMS) AND YOU GIVE UP YOUR RIGHT TO FILE A CLASS ACTION OR OTHER ACTION BY AUTHORIZED ENTITIES.
+ARBITRATION PROCEDURES MAY DIFFER FROM COURT, HOWEVER, THE ARBITRER MAY GRANT DAMAGES AND REDRESS TO THE SAME EXTENT AS A COURT, AND YOU WILL SEE AN ARBITRATOR FOR JUDGMENT.
+THE PARTIES UNDERSTAND THAT WITHOUT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO LODGE SUCH CASES AND JURY Hearings.
+THE PARTIES ALSO UNDERSTAND THAT IN CERTAIN SITUATIONS THE COST OF THE ARBITRATION MAY EXCEED THE COST OF THE COURT PROCEEDINGS AND THE RIGHT TO DISCLOSURE IN ARBITRATION MAY BE MORE LIMITED THAN A COURT OF A COURT.
+The parties also agree on the following:
+Notice of Dispute.
+If you or we intend to use arbitration in the context of these Terms, the party requesting arbitration must notify the other party in writing of the Dispute at least 30 days prior to the commencement of the arbitration.
+Notice to us must be sent either by traditional mail to Yahoo, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089, or by e-mail to disputes@yahooinc.com.
+We will send a notification to your e-mail and postal addresses if they are registered with us at the time of sending the notification.
+The notification must describe your claim and expected redress.
+If a Dispute cannot be resolved within 30 days, both parties may submit a request for arbitration.
+Arbitration Procedure.
+These Terms are governed by the Federal Arbitration Act.
+In addition to hearings in the court of
+Small Claims Any Disputes will be settled by arbitration by the AAA (American Arbitration Association).
+The AAA will use commercial arbitration rules to arbitrate any Disputes relating to these Terms.
+If you are a personal or household user of the Services, AAA will apply the consumer arbitration rules (excluding any rules or procedures that allow class actions).
+Procedures (including the process for initiating an arbitration), rules and information on fees are available from the AAA (www.adr.org).
+These Terms apply to the extent that they are not inconsistent with AAA's commercial or consumer arbitration rules.
+Option to use a court of
+small civil claims.
+Instead of resorting to arbitration, you can bring an individual claim to an arbitration tribunal.
+Small Claims in your country of residence (or, for businesses, your principal place of business) or Santa Clara County, California, provided the Dispute meets the requirements of such court.
+Arbitration Location.
+Unless you and we agree otherwise, arbitration must be conducted or a suit must be filed with an arbitration tribunal.
+small claims in your country of residence or Santa Clara County, California.
+Arbitration Fees and Expenses.
+We will refund you any fees AAA charges you for filing a dispute arbitration request.
+If you give written notice that you cannot pay the application fee, we will pay the application fee directly to the AAA.
+If the arbitration continues, we will also pay any subsequent administrative and arbitration fees.
+Settlement Proposals.
+We may, without obligation, submit a written settlement offer at any time before or during arbitration.
+The amount and terms of any settlement may not be disclosed to the arbitrator unless the arbitrator issues an opinion on the claim, and no sooner than that.
+If you do not accept the offer and the arbitrator decides to award an amount greater than our offer but less than $ 5,000, we confirm that: (a) we will pay you $ 5,000 in place of the lesser amount awarded; (b) we will reasonably pay the fees you paid and incurred attorneys' fees, (c) we will reimburse all filing fees, arbitrator fees and expenses incurred in connection with the arbitration of your Dispute.
+If the arbitrator's decision awards an amount greater than $ 5,000 and we do not challenge that decision, we will pay the awarded amount.
+Separation.
+If any part of this arbitration agreement is found unenforceable by a court in its jurisdiction, the court will amend the agreement to the extent required (to remedy the unenforceability of the relevant parts) and the parties will arbitrate the Disputes without reference to or use of such unenforceable parts.
+If for any reason the Class Action Waiver set forth in Subsection 14.
+1.c is unenforceable in relation to part or all of the Dispute, the arbitration agreement will not apply to that Dispute or this part of the Dispute.
+Any Disputes covered by the Class Action Waiver that are declared unenforceable may only be adjudicated in a court of the appropriate jurisdiction, but the remainder of the arbitration agreement will remain in effect and enforceable.
+For the avoidance of doubt or uncertainty, the parties do not agree to class arbitration or to arbitrate any claim brought on behalf of other parties.
+CLASS ACTION WAIVER.
+COLLECTIVE ARBITRATION IS NOT ALLOWED BY THESE TERMS AND CONDITIONS, EVEN IF ALLOWED BY AAA PROCEDURES OR RULES.
+WITHOUT BREACH OF ANY OTHER PROVISIONS OF THESE TERMS, THE ARBITRATOR MAY MAKE A CASH COMPENSATION OR ORDER ONLY IN RESPECT OF ONE PARTY CLAIMING ANY INDEMNIFICATION TO THE EXTENT PERMITTED.
+ARBITRATION AND COURT PROCEEDINGS FOLLOWING THESE TERMS AND CONDITIONS MAY NOT BE BEGINNED, HANDLED OR SOLVED ON BEHALF OF THE GROUP, OR BY THE GROUP, OR OTHERWISE PERSONALLY COMMUNICATED BY ANY PERSON.
+EXCEPT FOR THIS PERSONAL PROCEDURE MAY NOT BE JOINED WITHOUT THE CONSENT OF ALL PARTIES.
+ALL ISSUES RELATING TO THE ENFORCEMENT OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT, NOT BY THE ARBITRATOR.
+WAIVER OF THE RIGHT TO A TRIAL AT JUDGMENT.
+IF FOR ANY REASON, YOU AND YAHOO AGREE THAT THE DISPUTE WILL BE HANDLED WITHOUT JURTS.
+YOU AND YAHOO UNConditionally WAIVER ANY RIGHT TO ANY JURY HALL OF ANY ACTION, PROCEEDINGS OR CLAIMS WITH ANY APPEAL OF ANY CLAIM.
+IN THE EVENT OF A COURT, THIS PARAGRAPH MAY BE SUBMITTED AS PROOF OF WRITTEN CONSENT TO PROCEEDINGS WITH A JUDGE.
+Choice of law.
+These Terms and the relationship between the parties, including all claims and disputes between the parties, whether of a contractual, tort or otherwise, shall be governed by the laws of the State of New York without regard to their conflict of laws principles.
+In no event will the parties bring claims against each other under the laws of any other jurisdiction.
+Forum.
+If, for any reason, a Dispute is to be brought in court rather than arbitration, any Dispute arising out of or in connection with these Terms (regardless of theory), including the relationship between you and us, will be brought to New York County Courts. in New York State or in the District Court for the southern boroughs of New York.
+In such cases, you and we agree to submit to the personal jurisdiction of the courts located in New York County, New York, or the New York District Court, and waive any claim of personal or local impropriety in such courts.
+Customer support.
+Please see below for customer support links.
+Argentina
+Chile
+Colombia
+Hong Kong
+Mexico
+Peru
+Venezuela
+Community Guidelines.
+The Yahoo Community Guidelines are available here.
+The Services are "commercial computer software" and "commercial items" as such terms are used in the US Federal Acquisition Regulation, and US law only applies to the extent accorded to all other users in accordance with these Terms and Conditions, and without go beyond the minimum rights set out in the FAR 52.
+227-19.
+Subtitles.
+Yahoo adheres to the Federal Communications Commission rules and regulations regarding subtitles in video content.
+Please visit https://www.yahooinc.com/accessibility/captioning/ for more information, and to provide any comments or complaints about video content on the Yahoo network.
+All the limitations of liability set forth in Section 9 apply in the State of New Jersey but nothing in these Terms shall exclude or limit liability for international tort, intent, gross negligence, or breach of statutory obligations.
+You agree that you will not use the Services to materially support or provide resources (or to conceal or conceal the nature, place, source or ownership of such support or resources) for the benefit of an organization deemed to be terrorist by the United States government under section 219 of the US Act Immigration and Nationality Act.
+Brazil (br):
+Defined terms
+Applicable Yahoo Entity: Yahoo do Brasil Internet Ltda. (
+address: Av.
+Brigadier Faria Lima, 3.
+600 - 9th floor, São Paulo/SP, 04538-132, Brasilia)
+Minimum age: 13 years.
+Persons aged 13 to 18 must obtain consent from their parents or legal guardian in order to agree to our Terms and to use the Services.
+Services Provided: OneSearch, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports, and Yahoo LifeStyle.
+If you use any of these services while in Brazil or otherwise contracting with Yahoo do Brasil Internet Ltda.,
+the services are provided by Yahoo do Brasil Internet Ltda.
+Region-specific provisions in section 14.
+4 applies to such use and supersedes any provision of Section 1 or Section 13 (a) of these Terms.
+Other Services: Services not listed in section 14.
+4 (b) are not provided by Yahoo do Brasil Internet Ltda.,
+who has no authority or ability to take any action concerning them.
+This includes accessing and disclosing user data as well as removing user generated content.
+Choice of law.
+Terms and the relationship between you and Yahoo do Brasil Internet Ltda.
+are governed by the laws of the Federative Republic of Brazil without regard to its conflict of law rules.
+Customer support.
+Customer support is available on this page.
+Protecting our systems and our users' information is of the utmost importance in keeping Yahoo users safe and maintaining their trust.
+You can find more information about safeguards, including the steps we have taken and will take in this context, on the website.
+YOU UNDERSTAND AND AGREE THAT YOUR USE AND PROVISION OF THESE SERVICES INCLUDES THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING PERSONAL INFORMATION, INCLUDING PERSONAL INFORMATION.
+Kanada (ca i cf):
+Defined terms
+Applicable Yahoo Entity: Yahoo Canada Corp. (
+adres: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
+Minimum Age: The legal age for signing a binding contract in the province or territory of residence.
+Choice of law.
+These Terms and the relationship between the parties, including any claims or disputes between the parties, whether of a contractual, tort or otherwise, shall be governed by the laws of the Province of Ontario without regard to their conflict of laws principles.
+In no event will the parties bring claims against each other under the laws of any other jurisdiction.
+Updates.
+We may automatically download to your device and install the latest versions of the Services when new versions or features become available.
+Certain provinces and territories (including Quebec) do not allow the warranty exclusion.
+In these provinces and territories, you only receive guarantees that are expressly required under the relevant laws.
+In some provinces and territories (including Quebec) it is not possible to exclude or limit liability for all types of damages.
+In these provinces, we are only liable for damages for which it must be expressly liable under the applicable laws.
+Customer support.
+Please see below for customer support links.
+Customer Support (in English)
+Customer support (in French)
+Forum.
+Any claim against us must only be brought in the courts of the province of Ontario, Canada.
+In such cases, you and we agree to submit to the personal jurisdiction of the courts located in the Province of Ontario, and waive any claim of personal or local impropriety in such courts.
+Australia (au):
+Defined terms
+Applicable Yahoo Entity:
+For OneSearch, Yahoo Lifestyle, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather, the applicable Yahoo Entity is Yahoo Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) The terms and relationship between you and Yahoo Australia Pty Ltd are governed by the laws of the State of New South Wales, without regard to its conflict of laws principles. (
+b) You and Yahoo Australia Pty Ltd agree to be subject to the exclusive jurisdiction of the courts of the State of New South Wales.
+For other Services, the Applicable Yahoo Company is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166) and these Services are subject to the terms and conditions set out in section 14.
+2 (United States).
+Minimum age: 13 years
+Customer support.
+Customer support is available on this page.
+Reserved.
+Indie (in):
+Defined terms
+Applicable Yahoo Entity:
+For OneSearch, Yahoo Mail and Yahoo Search, the Applicable Yahoo Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) Regd.
+Office: 03-106, 3rd Floor, WeWork Oberoi Commerz II, 1 Mohan Gokhale Rd, Colony No 2, Aarey Colony, Mumbai - 400 063, Maharashtra, India) and the following conditions apply: (a) "Minimum Age" means 13 years.
+Persons between 13 and 18 years of age must obtain consent from their parents or legal guardian in order to use the Services or register an account. (
+b) You must be at least 13 years of age to agree to the Terms.
+Persons between 13 and 18 years of age must obtain consent from their parents or legal guardian in order to use the Services or register an account. (
+c) The terms and the relationship between you and Yahoo India Private Limited are governed by the laws of India without regard to its conflict of laws principles. (
+d) You and Yahoo India Private Limited agree to be subject to the exclusive jurisdiction of the courts of Mumbai, India.
+For other Services:
+The applicable Yahoo Entity is the Yahoo Entity that has been identified as the provider of the Service.
+The terms and relationships between you and the Relevant Yahoo Entity governed by the law of the place where the Relevant Yahoo Entity acquires legal capacity.
+Alternatively:
+If no Yahoo Entity has been identified as the provider of the Service, the Applicable Yahoo Entity is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166) and these Services are subject to the terms and conditions set out in section 14.
+2 (United States).
+Customer support.
+Customer support is available on this page.
+Representative for
+Yahoo India Complaints.
+To contact a sales representative
+Complaints at Yahoo India, use this page.
+Click here to see an important ad ban order from India's Supreme Court under the PCPNDT Act 1994.
+Japan (jp):
+Defined terms
+Applicable Yahoo Entity:
+For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp and AOL Mail, the Applicable Yahoo Entity is Boundless Inc. (
+address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10 7-0062 Japonia).
+Yahoo Japan branded products available in Japan are provided by a third party.
+For all other Services, the Applicable Yahoo Entity is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166).
+Minimum Age: 18 years old (however, 18-19 year olds must obtain parental or legal guardian consent to accept our Terms of Service.
+Choice of law.
+The terms and conditions between you and us are governed by Japanese law, without regard to its conflict of laws principles.
+Forum.
+You and we agree to be submitted to the exclusive jurisdiction of the Tokyo District Court of Japan.
+Modifications to the Services and Terms
+When we modify the Services as described in section 7 (a) or modify these Terms in accordance with section 12 (b), we will give reasonable notice if the modifications will materially harm you or restrict your access to the Services or your ability to use the Services. of them.
+We may not be able to notify you in advance if we modify the Terms or Services that are required for security or security, for legal or regulatory reasons.
+In such a case, notification will be sent as soon as practicable after the modification is made.
+Limitation of Liability.
+Nothing in these Terms affects your rights under the laws of Japan that cannot be changed or waived by contract.
+Consequently, if an agreement to use the Services in accordance with these Terms is deemed to be a consumer agreement under the Consumer Contract Act, some of the exclusions and limitations described in section 9 of these Terms regarding our liability for willful actions or gross negligence, will not apply.
+Customer support.
+Customer support is available on this page.
+New Zealand (nz):
+Defined terms
+Applicable Yahoo Entity:
+For For OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport, Applicable Yahoo Affiliate is Yahoo New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010, New Zealand ) and the following terms apply: (a) The terms and relationship between you and Yahoo New Zealand Limited are governed by the New Zealand laws, without regard to its conflict of laws principles. (
+b)> You and Yahoo New Zealand Limited agree to be subject to the exclusive jurisdiction of the courts of New Zealand.
+For other Services, the Applicable Yahoo Entity is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166) and these Services are subject to the terms and conditions set out in section 14.
+2 (United States).
+Minimum age: 13 years
+Customer support.
+Customer support is available on this page.
+Singapore (sg), Indonesia (id), Malaysia (my), Philippines (ph), Thailand (th) or Vietnam (vn):
+Defined terms
+Applicable Yahoo Entity:
+For OneSearch, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather and Aviate, Yahoo!
+Singapore Digital Marketing Pte.
+Ltd. (
+Address: 60 Anson Road, # 12-01 Mapletree Anson, Singapore 079914) and the following terms apply: (a) Terms and your relationship with Yahoo!
+Singapore Digital Marketing Pte.
+Ltd.
+are governed by the laws of Singapore without regard to their conflict of law rules. (
+b) You and Yahoo!
+Singapore Digital Marketing Pte.
+Ltd.
+agree to be subject to the exclusive jurisdiction of the Singapore Courts.
+For other Services:
+The applicable Yahoo Entity is the Yahoo Entity that has been identified as the provider of the Service.
+The terms and relationships between you and the Relevant Yahoo Entity governed by the law of the place where the Relevant Yahoo Entity acquires legal capacity.
+Alternatively:
+If no entity is identified as the provider of the Service, the Relevant Yahoo Entity is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166) and these Services are subject to the terms and conditions set out in section 14.
+2 (United States).
+Minimum age: 13 years
+Customer support.
+Please see below for customer support links.
+Singapore
+Indonesia
+Malaysia
+Philippines
+Thailand
+Vietnam
+Taiwan (tw):
+Defined terms
+Applicable Yahoo Entity:
+For OneSearch, Yahoo Auctions, Yahoo Automotive, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Shopping, Yahoo Sports, Yahoo Stock, Yahoo Store Marketplace, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather and Aviate Applicable Yahoo Entity is Yahoo!
+Taiwan Holdings Limited, Taiwan Branch (adres: 14F, No.
+66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) Terms and the relationship between you and Yahoo!
+Taiwan Holdings Limited, Taiwan Branch is governed by the laws of the Republic of China without regard to its conflict of law rules. (
+b) You and Yahoo!
+Taiwan Holdings Limited, Taiwan Branch agree to be subject to the exclusive jurisdiction of the Taiwan District Court of Taiwan, Republic of China.
+For other Services:
+The applicable Yahoo Entity is the Yahoo Entity that has been identified as the provider of the Service.
+The terms and relationships between you and the Relevant Yahoo Entity governed by the law of the place where the Relevant Yahoo Entity acquires legal capacity.
+Alternatively:
+If no Yahoo Entity has been identified as the provider of the Service, the Applicable Yahoo Entity is Yahoo Inc. (
+address: 22000 AOL Way, Dulles, VA 20166) and these Services are subject to the terms and conditions set out in section 14.
+2 (United States).
+Minimum age: 13 years
+Customer support.
+Customer support is available on this page.
+Europe, Middle East and Africa
+Defined terms
+Relevant Yahoo Entity: Yahoo EMEA Limited (Address: 5-7 Point Square, North Wall Quay, Dublin 1, Ireland)
+Minimum age: In the European Union, the minimum age is 16 years (or less if the country has an appropriate agreement on the processing of personal data available).
+In countries outside the European Union, the minimum age is 13 years.
+Choice of law.
+Irish law, their application, interpretation and formulation, and the relationship between the parties, including all claims and disputes that may arise between the parties (including non-contractual claims and disputes), are governed by Irish law without regard to its conflict of laws principles.
+Forum.
+Except as set forth in paragraph (d) below, you and we agree that we will be subject to the exclusive jurisdiction of the courts of Ireland in respect of any dispute or claim arising out of, their application, interpretation or formulation (including non-contractual claims and disputes) and arising in connection with with them.
+In such cases, you and we agree to submit to the personal jurisdiction of the courts located in Ireland and waive any claim of personal or local impropriety in such courts.
+If you live in a country in the European Union, nothing in these Terms, including paragraphs (b) and (c) above, will affect your rights under mandatory local laws or choice of jurisdiction that cannot be changed by contract.
+The European Commission provides an online dispute resolution platform available at https://ec.europa.eu/consumers/odr/.
+Customer support.
+Please see below for customer support links.
+Ireland
+Great Britain
+Germany
+France
+Spain
+Italy
+All other countries
+Modifications to the Services and Terms
+When we modify the Services as described in section 7 (a) or modify these Terms in accordance with section 12 (b), we will give reasonable notice if the modifications will materially harm you or restrict your access to or use of the Services. of them.
+Your continued use of the Services after the effective date of the modification constitutes your agreement to the modified Services or Terms.
+We may not be able to notify you in advance if we modify the Terms or Services that are required for security or security, for legal or regulatory reasons.
+In such event, notification will be sent as soon as practicable.
+Notice of Cancellation, Suspension, or Limitation of Access to the Services or Account
+Notwithstanding subsection (f) above, and without prejudice to any statutory rights, we may, without notice, temporarily or permanently, suspend or cancel your account, impose restrictions on it, or restrict access to part or all of your account or the Services:
+if you breach, or we believe you breach, the Terms, including any agreements, rules or guidelines in them;
+in response to requests from law enforcement or other government agencies as part of a proper legal process;
+due to unexpected errors or technical or security problems;
+if your account is experiencing long periods of inactivity as described in our Account Deletion Policy.
+If we permanently suspend or close your account, we will give you advance notice and allow you to access and save information, files and content associated with your account for a reasonable period, unless we have reason to believe that continued access to your account will violate applicable laws, law enforcement or other government agency requests, or will harm us or a third party.
+Time of withdrawal from the contract for customers in the European Union.
+The following provisions supplement section 11 (Paid Services and Billing).
+Customers residing in the European Union may cancel the Paid Service without giving any reason within 14 days from the date of the contract.
+You can notify us by completing and submitting this form.
+If you have no other option, you can fill out this form and send it to us by post.
+Notification must be sent to us within the 14-day cancellation period.
+Exceptions.
+For digital content that we do not deliver on a physical medium, you acknowledge that the cancellation period will expire as soon as you start downloading or streaming the digital content.
+Refund.
+We will refund any fees we receive for the Paid Service no later than 14 days from the date of receipt of the cancellation notification.
+Unless explicitly stated otherwise, we will use the same payment method that was used for the first transaction.
+You acknowledge that if you start using the Paid Service before the end of the cancellation period, you will pay all charges up to the date of cancellation.
+Automatic Renewal.
+In addition to section 11 (b) (v), the following applies: If your subscription is automatically renewed and the price increases, you will receive a new price notification with the option to terminate your subscription within 14 days of receiving notification.
+In this case, the new price will not take effect and the subscription will cease to be active at the end of this period.
+Limitations and Exclusions of Liability.
+Nothing in these Terms affects your rights under the laws of Ireland and the European Union that cannot be changed or waived by contract.
+As a result, some of the exclusions and limitations described in sections 8 and 9 of the Terms do not apply to consumers residing in the European Union countries.
+Our responsibility.
+Notwithstanding Section 9, we accept liability for our fraudulent statements and for situations where you suffer damage or die as a result of our negligence in relation to the Services.
+Additional terms for users in Italy can be found here.
+Additional terms and conditions for users in Germany can be found here.
+Last updated: January 25, 2022

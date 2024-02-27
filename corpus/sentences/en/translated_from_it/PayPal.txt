@@ -1,0 +1,929 @@
+These Terms of Use will be effective from January 28, 2022.
+Welcome to PayPal
+These are the contractual conditions between the user and PayPal (Europe) S.à r.l.
+et Cie, S.C.A. ("PayPal") which govern the use of the PayPal account and services by the user and which in PayPal are referred to as the "Terms of Use".
+These Terms of Use apply only to the PayPal accounts of users residing in Italy.
+If you are a natural person you must be at least 18 years old and have the full legal capacity to enter into a contract in order to open a PayPal account and use the PayPal services.
+If the user is a company, this must be registered in Italy.
+These Terms of Use do not apply to your use of PayPal's Xoom service, which is governed separately by the Legal Agreements for Xoom.
+To use PayPal services, you need to open a PayPal account.
+By opening and using a PayPal account, you agree to comply with all the conditions described in these Terms of Use.
+The user also agrees to comply with what is indicated in the following additional documents and in any other document reported on the "Legal Agreements" page concerning him: Rates page; PayPal Buyer Protection Program; PayPal Sales Protection Program; Permitted use rules; Terms of use relating to other payment methods; All future changes communicated in the Rules Update already posted on the "Legal Agreements" page.
+Read carefully all the conditions of use described here and any other document concerning the user.
+PayPal reserves the right to periodically modify these Terms of Use and the documents indicated above.
+The updated version will become effective upon posting online, unless otherwise specified.
+If the changes limit your rights or increase your responsibilities, PayPal will post a notice on its website's Rules Updates page and notify you at least two months' notice.
+By continuing to use our services after any changes to these Terms of Use become effective, you agree to be bound by those changes.
+In case you do not accept the changes, you can close your account before they come into force.
+Information about PayPal and its service
+The main activity of PayPal is the issuance of electronic money and the provision of payment services that use it.
+More information about PayPal and its service can be found on the Important Payment and Service Information page.
+These Terms of Use, together with the other legal conditions and the notices required by law related to the use of our service by the user, will always remain available to the user on the PayPal website (usually on the "Agreements legal ").
+PayPal may also send this information to you.
+If you wish, you can request a copy of the legally required notices (including these Terms of Use and Important Payment and Service Information) from PayPal.
+PayPal will transmit this documentation to the user in a form that allows it to be stored and reproduced (for example via email).
+To open an account
+PayPal offers two types of accounts: personal and business.
+Personal account
+With a personal account, you can send and request money to friends and family and pay for online purchases.
+In order to take advantage of all the features currently available in a personal account, holders of certain existing personal accounts may need to change the category of their accounts (and in some cases provide additional information to PayPal).
+A user who intends to use their PayPal account primarily to sell goods must open a Business account or convert their personal account into a Business account.
+Business account
+Business accounts are designed for people and companies (established or not) who use PayPal mainly to receive online payments due to sales or donations.
+Business accounts may be subject to different rates than those applicable to personal accounts.
+For more details, see the Rates section.
+By opening a Business account or converting a personal account into a Business account, you warrant to PayPal that you will use this account primarily for commercial purposes.
+Commercial company qualification
+If the business carried out through any type of PayPal account reaches certain thresholds or involves specific segments or commercial activities, in order to continue accepting card payments, the credit / debit card networks require acceptance of the Commercial Company Agreements by you directly with PayPal's processing partners.
+In this case, the aforementioned Commercial Company Agreements will apply, in addition to these Terms of Use, to all payments processed by PayPal on your behalf.
+Safe use of the PayPal account
+You are required to take sensible and satisfactory measures to avoid misuse of your PayPal account as well as to maintain an adequate level of security and control over all devices, items, IDs, passwords and identification numbers / codes. personnel used to access your PayPal account and services.
+See PayPal's guidelines on Important Payment and Service Information page.
+You are required to comply with all reasonable instructions PayPal may issue regarding the security of the payment method.
+PayPal may require the user to authenticate any instructions regarding their account (for example, provide PayPal with the information necessary to ensure that it is really the user who is sending the instruction to PayPal, such as their correct login information. which include your email address and password), or log into your account to provide PayPal with the payment instruction.
+The user is obliged to keep his contact details up to date on his PayPal account profile which include, inter alia, the postal address, email address and a telephone number of which he is the main user.
+You can expressly grant, revoke and manage permissions to third parties to perform certain operations on your behalf.
+In some cases you can do it from your PayPal account, in others directly with interested third parties.
+You acknowledge that by granting third parties authorization to act on your behalf, PayPal will be able to communicate certain information about your PayPal account to them.
+You may allow authorized third-party service providers, with a valid license under the law, to:
+Provide account information services to access your account information on your behalf.
+Check whether the amount required to perform a card payment transaction is available in the user's account.
+Provide payment order initiation services to initiate payments from your account on your behalf.
+The granting of authorization to third parties to access the user's account in any way does not exempt him from the responsibilities set forth in these Terms of Use.
+You are liable to PayPal for any actions you authorize third parties to perform on your behalf.
+You will not hold PayPal responsible and will release PayPal from any liability arising from any third party actions or omissions in relation to the permissions granted to them by you and subject to your mandatory legal rights.
+Close your PayPal account
+The user can close his account at any time.
+Please refer to the PayPal Help section for information on how to proceed.
+PayPal may close your account at its discretion with 2 months' notice.
+PayPal may also close your account at any time if: You have violated these Terms of Use and / or PayPal is authorized to close your account under these Terms of Use.
+The user does not log into the account for 3 years.
+PayPal suspects that the account was accessed without the user's authorization.
+Should PayPal decide to close the user's account, PayPal will send the latter a notice of account closure and will include, where possible, the reasons for such closure together with the possibility of transferring all the uncontested money present on the PayPal account of the 'user.
+When the user's account is closed:
+These Terms of Use terminate immediately unless they are to remain beyond termination, to the extent and as long as PayPal deems it necessary, for the purpose of closing the account and in accordance with applicable law.
+PayPal may cancel any pending transactions and you will lose any balance associated with special payment solutions.
+PayPal has the right to suspend, limit or interrupt the access or use of all or some services, websites, software, systems (including any networks and servers used for the provision of the services) managed by or on behalf of PayPal or any PayPal service.
+Prior to closure, you will continue to be responsible for any outstanding obligations under these Terms of Use relating to your account prior to closure.
+PayPal may store your account data in its databases in order to comply with legal obligations.
+PayPal may withhold your e-money after account closure to the extent and for the time reasonably required to allow us to protect PayPal and / or any third parties from the risk of chargebacks, fees, fines or penalties and other attributions of liability of any nature.
+After this period, the user will be able to regain possession of the money relating to uncontested payments that he holds with PayPal.
+If you have any questions about money held in your account after closing, please contact PayPal.
+Legal representatives of an account holder declared incapable or deceased can contact PayPal for assistance.
+In the event that you wish to interrupt the provision of the services or any part or functionality thereof for any reason, PayPal undertakes to notify you at least two months' notice, unless it believes in good faith that:
+The service or functionality must be discontinued in advance by law or by the relationship with a third party.
+Normal practice may create a safety risk or a substantial technical, economic or material burden.
+Link and unlink a payment method
+Money in your account in legal terms is defined as "electronic money" and is recognized in the European Economic Area as a form of money that can be used for online transactions.
+You can use a payment method to pay PayPal and obtain e-money in your account or to receive transfers from your account, as further described in these Terms of Use (see in particular Top up your account or transfer money and Fund payment ).
+You can link or disconnect from your PayPal account, as a payment method, a credit, debit or prepaid card (where available), a bank account or PayPal Credit (where available).
+PayPal may limit the availability of payment methods as part of its risk management.
+The user should keep their payment method details (e.g. credit card number and expiration date) up-to-date.
+If this data changes, PayPal may update it using the information and third-party sources it has available without involving the user.
+If you do not want PayPal to update your card details, you can contact the issuing company to request it or to remove the payment method from your PayPal account.
+If PayPal updates the user's payment method, it will retain any preference settings linked to that method.
+The user can choose to confirm the card or bank account to allow PayPal to verify that they are valid and that the user is the effective owner.
+PayPal allows the user to confirm the data through the "connection and confirmation" procedure (for cards) or the "bank account confirmation" procedure (for bank accounts), as well as through other procedures that PayPal can communicate to user or publish if necessary.
+Continuous authorization to PayPal to charge the user's payment methods
+By linking a payment method to your PayPal account, you authorize PayPal to automatically debit / credit the connected payment method on an ongoing basis (pursuant to these Terms of Use and the terms of any mandate, e.g.
+direct bank debit, used by the service provider of the payment method in question to dispose and maintain such authorization) of the requested e-money value:
+To cover the payment amount (plus any transaction fees payable to PayPal) when you use your account to send a payment to another user.
+To top up the user's account when the user uses the "Top up Account" feature in the account interface.
+PayPal may resort to the payment method again if the previous attempt was unsuccessful.
+The user who cancels a continuous authorization from their payment method is required to reimburse PayPal for any amount in e-money already paid by PayPal but not yet paid with the payment method in question.
+The user can revoke the authorization by disconnecting the payment method from their PayPal account.
+SEPA is an initiative of the European Commission and the European banking industry, created to make transactions within the European Union more efficient.
+Whenever you link a bank account to your PayPal account or use a new bank account for the first time as a payment method, you grant PayPal a SEPA Direct Debit Mandate.
+If you are using a SEPA direct debit mandate for ongoing authorization:
+You can access the mandate and its mandate reference number (MRN) in your PayPal account profile at any time and cancel or change the mandate for future transactions.
+PayPal will notify the user of the amount of payment by SEPA Direct Debit and the days required for the amount to be credited to PayPal from the bank account together with the confirmation of the purchase.
+Should PayPal resubmit a payment request via SEPA direct debit due to the cancellation of the initial payment, no (additional) information will be given on the amount and the new expected times.
+You can request a refund from your bank at any time up to eight weeks after the SEPA direct debit payment date, subject to the bank's terms and conditions.
+Risk of chargebacks on the payment method used and eCheck use cases
+When you use a payment method, PayPal may keep the corresponding e-money in a reserve account for as long as it has reason to believe that there is a risk of cancellation by the payment method provider.
+This situation occurs because PayPal does not have all the information necessary to credit the payment money into the user's PayPal balance as long as there is such a risk of reversal.
+When the user asks PayPal to make a payment from his account to that of another user by financing it from his bank account and PayPal keeps the electronic money deriving from the transaction in the manner described above, the type of payment from the user's bank account is called "eCheck".
+See the Funding Payments Sent from Your Account section below to learn how PayPal uses eChecks.
+Own and use a PayPal Balance
+You will not receive interest or other fees on the money in your account, as this money is electronic and European law prohibits you from paying interest on electronic money.
+Furthermore, electronic money is neither a deposit nor an investment within the meaning of Luxembourg law, therefore the deposit guarantee in Luxembourg or the investor compensation schemes operated by the Conseil des Protection des Deposants et des Investisseurs cannot protect you.
+PayPal may hold and transfer money to your account in and between:
+The PayPal Balance e
+The reserve account
+at any time under these Terms of Use.
+Saldo PayPal
+The operational part of the user's account contains the PayPal balance, which is the balance of the money available for payments or transfers.
+When you use the PayPal payment service to pay another user, PayPal undertakes to transfer the money from your PayPal balance to the recipient's account.
+At the time of payment, you must have a sufficient PayPal balance to cover the amount of the payment made and the fees due for the transaction.
+Other requirements also apply - see the Making Payments section below.
+If you do not have sufficient PayPal balance or have chosen a preferred payment method, you can also request PayPal to obtain money in your name from the applicable payment method and to issue e-money to your PayPal balance in order to make the payment.
+When transferring the money, the user must have sufficient PayPal balance to cover the amount they wish to transfer.
+See Top up your account or transfer money to learn how to get a PayPal balance and how to transfer it.
+If your PayPal balance shows a negative amount, it is the net amount owed to PayPal at that time.
+Reserve account
+Money marked on the main account page as "pending", "not executed", "blocked" or otherwise restricted at any given time is held in the account area which acts as a reserve account.
+The user cannot access or use the money in the reserve account.
+Top up your account or transfer money
+Top up your account
+To have electronic money on your account, the user can, pursuant to these Terms of Use:
+Accepting payments to your account from other people.
+In this case, PayPal may charge fees.
+Obtain electronic money by paying PayPal an equivalent amount.
+You can get e-money from PayPal:
+Automatically, using applicable payment methods to cover payment amounts you ask PayPal to send to other users (and transaction fees payable to PayPal).
+Manually, using the "Top up account" function available in the account interface to pay PayPal an amount in electronic money or to ask PayPal to debit the payment method linked to the account.
+The execution of any payment to PayPal by the payment method provider is the legal responsibility of the provider.
+PayPal has no control over the time it takes to complete the payment.
+Transfer money
+If you have a PayPal balance, you can withdraw an amount and transfer it to the payment method linked to your PayPal account, subject to approval from time to time obtained by PayPal.
+The linked payment method to transfer the amount to can be a bank account or a credit or debit card, depending on the country in which the user's PayPal account is registered.
+When you ask PayPal to transfer an amount from your balance under these Terms of Use, PayPal may:
+Convert e-money into cash to be transferred to the designated payment method.
+Instruct your bank to transfer such money to your designated payment method.
+PayPal agrees to send the transfer payment instructions to its bank by the end of the next business day ("business day" means a day on which Luxembourg banks are open to the public) if no other delays occur under the these Terms of Use.
+Once the bank receives these instructions, PayPal will have no control over the time it takes to complete the payment.
+At this point, it will be the PayPal bank, the provider of the user's payment method and the payment systems on which they are based that will assume the responsibility of transferring the money to the designated payment method and all of this can affect the time it takes for the actual crediting of the money.
+PayPal may allow you to transfer money by sending it to
+An eligible bank account (where PayPal permits) via:
+A standard transfer to the bank account linked to the user's account (this transfer / redemption functionality is sometimes referred to as a "bank transfer").
+A direct debit to the bank account linked to the user's account.
+PayPal may allow the above transfers to be made via the debit card linked to the relevant bank account.
+Your Mastercard or Visa credit card (if available).
+Fees apply to transfers.
+In addition, PayPal will communicate the rates in advance each time the user initiates a transfer.
+The payment method (for example, bank account or card) to which the user requests the transfer must be denominated in the original currency of the account opening or in another currency supported by PayPal for transfers to the country of residence of the 'user.
+You can only transfer your PayPal balance in your account opening currency, unless otherwise agreed.
+In order to transfer an amount from a PayPal balance to another currency, the user will need to convert that balance to the opening currency of their account or the conversion will take place automatically at the time of the transfer.
+PayPal will use its own exchange rate for the transaction.
+This means that if the user transfers money:
+to a PayPal balance in a currency other than the original account opening currency, the conversion into that currency will be done using the PayPal transaction exchange rate;
+to a payment method (for example, a bank account or card) that has a different currency than the original account opening currency, the conversion into the currency of the payment method will be done using the PayPal transaction exchange rate.
+The issuing company may also charge you an amount if a currency conversion to the currency in which the card was issued is required.
+If the user has a Business account, this exchange rate does not apply.
+Instead, you will be charged a currency conversion fee applied to an external exchange rate, as described on the rates page (see also the "How to convert PayPal currencies" section).
+To protect you, other PayPal users and PayPal itself from loss, as well as to enable us to comply with anti-money laundering regulations and comply with other legal obligations, PayPal may delay a transfer in certain situations, including when necessary. verify that the user has authorized the transfer or that payments to the user's PayPal account are subject to reversal (for example, following a chargeback, bank reversal, or a dispute from a buyer).
+If a restriction is applied to your PayPal account or if a payment is blocked or your account or an associated account has a negative balance in any currency while a transfer from your PayPal account is pending, the the user will have to carry out the transfer again after the restriction or block has been removed or after having fully repaid the negative balance.
+PayPal may set limits on transfers and the user will be able to see them by logging into their PayPal account.
+To remove the transfer limit, the user must follow the procedure that PayPal will communicate or publish periodically (the notification may be shown on the main page of the account).
+Manage money in different currencies
+Upon opening, the account is configured to be used with its opening currency.
+The opening currency of the user's account is the euro (EUR).
+The user can set the currency on their card.
+PayPal can configure the account to allow the user to also use it to deposit money and send and receive payments in currencies other than the one in which the account was opened.
+PayPal may allow an account holder to convert their balance into another currency.
+If your PayPal balance is insufficient to cover the amount of a payment ordered in a specific currency, PayPal can perform a currency conversion from a PayPal balance to another currency to cover the missing amount.
+Sending payments in certain currencies may be restricted in some countries.
+PayPal may also allow you to choose how payments received on your account in currencies other than the original opening currency are handled and / or converted.
+To receive money in a currency other than the one in which the account was opened, it may be necessary to create a balance in that currency or to convert the money into another currency that PayPal allows the user to hold.
+Payments in certain currencies can only be received by automatically converting money into another currency that PayPal allows you to hold.
+If you receive a payment from someone who does not have a PayPal account and that payment is made in a currency that your current account setup does not allow you to use, PayPal may automatically convert the amount received into a currency supported by the account at at the time of payment.
+For information on how to transfer in different currencies, see the section on Transferring Money above.
+If one of the balances in the user's account currency presents, for any reason, an amount owed to PayPal, PayPal may decide to offset this amount by using the money present in the balance in another currency of the user or by deducting it from the amounts received on the your account or any amounts that you try to transfer or send from your account or another account, as well as by deducting the amount from any transfer you try to make.
+If for a period of 21 days your PayPal balance reflects an amount owed to PayPal that is not expressed in euros (EUR), PayPal can convert the amount owed into euros (EUR).
+At its discretion, PayPal may impose limits on the amount of money the user can convert or the number of conversions they can perform.
+You are responsible for all risks associated with having multiple currencies on a PayPal account.
+You may not manage or convert currencies for speculative purposes, conversion arbitrage, conversion options, or any other activity that PayPal deems primarily aimed at earning money by taking advantage of currency conversion rates.
+PayPal can block, cancel or reverse any transaction that violates these rules.
+PayPal currency conversion methods
+Except as provided below and on the rates page, in the event of a currency conversion by PayPal, this will be completed at the transaction exchange rate established by PayPal for the conversion in question.
+The transaction exchange rate is adjusted periodically, typically between 5:00 pm and 7:00 pm Eastern Standard Time (EST) (in New York City, United States) every business day.
+These changes take effect immediately.
+The user can access the "Currency Converter" tool to find out the transaction exchange rate applicable to certain currency conversions.
+The exchange rates displayed by the "Currency Converter" indicate the rates applicable at the time the instrument is used and may vary.
+Pursuant to the other provisions of the Terms of Use, when you complete a transaction, you will be shown the exchange rate of the transaction so that you can decide whether to pay at the rate indicated.
+In certain circumstances, the transaction exchange rate may be applied to the payment for the transaction regardless of when the payment is processed or only if the seller has processed the transaction within a certain period, as indicated prior to the transaction.
+At the end of this period, PayPal may use the exchange rate in effect at the time the seller processes the transaction or may refuse to perform the currency conversion.
+If the user has authorized a payment under an automatic debit agreement or if PayPal is unable to communicate with the user when the user authorizes a payment in person (for example, due to lack of connectivity by you or the seller at that time) and currency conversion is used for that payment, PayPal will use the exchange rate in effect at the time the seller processes the transaction.
+The transaction exchange rate for payments under the automatic debit agreement or in the event that PayPal was unable to communicate with the customer when the customer authorized a payment in person, may therefore vary from time to time.
+If the user is a seller and has agreed to pay the exchange rate of the transaction in place of the buyer or if the user has a Business account and performs a currency conversion on the PayPal account that is not part of a specific transaction from or on the account (for example, by converting the balance to another currency), the exchange rate of the transaction does not apply.
+Instead, the user will pay a currency conversion fee applied to an external exchange rate, as described on the rates page.
+The external exchange rate depends on the rates set by the global markets on the day of conversion or the previous business day.
+Currency conversion options
+When the payment is from a credit or debit card and PayPal determines that a currency conversion is required, you agree and authorize PayPal to convert the currency in place of the credit or debit card company.
+If provided by the card issuer and its network, the user can have the card issuer convert the currency of the card payment into the currency of the PayPal account used by the user to send the payment.
+This choice can be presented to the user in various ways, including configuring the card currency, the ability to choose which currency to make the transaction, who to make the conversion (PayPal or the card issuer) or which conversion rate is applied to the transaction.
+If the card issuer converts the currency, the card company will determine the currency conversion rate and any fees to be charged.
+PayPal will always convert for transactions where the user uses the existing balance or linked bank account as a payment method.
+If PayPal determines that a currency conversion is required to perform a transaction that also requires a back-up payment method, you may not be able to decide who between PayPal or the card issuer will perform the currency conversion for. the payment made with the reserve payment method.
+If the currency conversion is proposed at a point of sale by the seller and not by PayPal, and the user decides to authorize the payment transaction based on the rates and exchange rate charged by the seller, PayPal assumes no responsibility for such conversion. currency.
+Account statements and requests for accounting documents
+Unless restricted, the user can log into their PayPal account to view and download the statement.
+Instead of receiving periodic account statements via email, you agree to check your transactions by viewing your PayPal account history.
+The main details of the payments will be sent to the user via email and the transaction history will also be updated and made available to the user who can consult it at any time by logging into their account.
+The user can also access a downloadable report from their PayPal account.
+The report shows all rates and any other amounts charged to the user's PayPal account during the specified period.
+The report will be updated and made available only in the event that tariffs have been applied or transactions have been carried out on the user's PayPal account during the specified period.
+The method by which PayPal provides transaction information will allow the user to keep and reproduce the information unchanged, for example by printing a copy.
+PayPal reserves the right to charge a fee if it provides you with additional information or transaction history and other rate information by an alternative method, but no amount will be charged for the data requested following a good faith statement. of an error on the PayPal account.
+Rates
+The rates applied by PayPal on its services are indicated on the rates page.
+The rates shown include all applicable taxes, but there may be other taxes or costs that are not paid through or are not imposed by PayPal.
+The costs of telephone and Internet services requested by the user's provider and the costs of other similar or associated services deriving from the use of PayPal's services are borne by the user.
+PayPal may deduct its fees from the user's PayPal balance.
+PayPal may deduct its transaction fees directly from the amounts it transfers before crediting the user's PayPal balance.
+All information on the amounts credited and the fees charged will be communicated to the user via email or entered in the transaction history (which the user can consult by logging into the account).
+If a payment requires the payment of a fee to PayPal, you will be notified when you provide payment instructions to PayPal.
+The user cannot discount or deduct amounts from the PayPal fees.
+PayPal may charge you for any other service provided to you outside of these Terms of Use.
+The charges will be communicated to the user when requesting these services.
+If you are a seller and wish to claim (and maintain) the volume-staggered merchant rate, the applicable terms are those of the merchant rate set out below in the Receiving Payments section.
+Make a payment
+General provisions for making a payment
+Payment instruction of the user
+PayPal may allow the user to send a payment instruction using the different methods that will be communicated from time to time.
+How the user can send a payment instruction may depend on the type of payment to be made, for example:
+To pay for a purchase or make a donation, many sellers and / or fundraising entities or individuals allow users to instruct PayPal for payment through a dedicated PayPal Checkout or by integrating another PayPal payment collection method on their sites.
+To send a payment to someone, the user can log into their PayPal account and use the "Send money" function.
+PayPal may require the user to authenticate the payment instruction (i.e. provide the data necessary to ensure that the user himself gives the instruction, for example by sending his / her correct access data including the email address and password) and to otherwise log into your PayPal account to provide PayPal with the payment instruction.
+To speed up the payment process, PayPal offers the user the possibility to select some recipients to make them "trusted beneficiaries" of pre-authorized payments.
+To make this type of payment, as a rule, the user does not need to log in to their PayPal account (with password, PIN or other).
+The user can of course access the list of trusted beneficiaries in his PayPal account and modify it at any time.
+Cancellation of a payment instruction
+Once sent to PayPal, a payment instruction can no longer be canceled unless it is subject to an automatic debit agreement (see further details below).
+How long does a payment take?
+Payments between PayPal users depart from the payer's account within the business day following the date of receipt of the completed payment instruction.
+Payment will start from the user's account within 2 working days following the date of receipt of the complete payment instructions if this occurs:
+On a day that is not working.
+After 4pm on a business day.
+PayPal may allow you to request payment on a specified date in the future, and if so, the money will be transferred from your account on the specified date.
+The times indicated above may be delayed following the application of other clauses of these Terms of Use.
+Cases in which PayPal can refuse to make a payment
+PayPal may consider the payment instruction incomplete and refuse to make the payment if:
+Your PayPal balance does not cover the payment amount.
+PayPal has reason to believe that linked payment methods do not have enough money to cover the payment amount.
+The user has not provided all the mandatory data requested during the payment procedures that PayPal uses to accept the user's payment instructions (for example, sufficient information about the recipient that PayPal could request and authentication of the user's payment instruction ).
+The payment exceeds the sending limit communicated by PayPal to the user when the latter tries to make the payment.
+PayPal has reason to believe that any prohibited activity involving your account has been performed, or that your account has violated these Terms of Use.
+Cases where the payment is not accepted by the recipient
+A PayPal user can send a payment to a recipient who does not have a PayPal account, but that recipient must open a PayPal account to collect the money.
+The recipient who already has a PayPal account can refuse to accept the money.
+If the recipient refuses to accept the money or does not open a PayPal account and does not request the money within 30 days from the date of sending, the money (including any costs charged) will be credited back to the user's account.
+See Account Refunds to find out what can happen when you receive a refund to your PayPal account.
+Sending limits
+At its discretion, PayPal may impose limits on the amount and value of payments that you can make, including those related to your purchases.
+The user can view any sending limits by logging into their PayPal account.
+To remove the sending limit, the user must follow the procedure communicated to him by PayPal or published from time to time (and possibly reported on the main page of the user's account).
+Set up automatic debits to your account
+Seller delayed payments
+When the user pays for certain sellers or certain purchases (for example, purchases that must be shipped to him or can be updated and finalized by the seller):
+Authorize the seller to collect the payment at a later time.
+Instructs PayPal to automatically pay the seller when the seller requests it.
+The user's authorization typically remains valid for 30 days, but may last longer.
+If the user has a positive balance, PayPal can withhold the payment amount on that balance until the seller collects it.
+If the payment requires a currency conversion by PayPal, the exchange rate for the transaction will be established and applied (as described in the Currency Conversion section) at the time the payment is processed.
+Your authorization allows the seller to update the payment amount before collecting it (to reflect any changes made to the purchase and agreed between the seller and the user, such as additional taxes, shipping or postage charges, or discounts).
+PayPal is never asked to check for any changes (not even when payment is made).
+PayPal may transfer any amount based on your authorization and upon receipt of the seller's instructions on the final payment amount.
+Payments by automatic debit
+The user can use an automatic debit to manage recurring payments to be made to the same recipient.
+When the user enters into an automatic debit agreement:
+to. It authorizes designated recipients to collect payments from your account on dates determined by them (payments may refer to amounts due for a purchase of goods or services under a separate contract between you and the recipient).
+b. Instructs and authorizes PayPal to pay Designated Recipients (or other recipients designated by the Designated Recipient) when such recipients request PayPal to make payment.
+The recipient will thus become a "trusted beneficiary" of all payments that the user makes in his favor and for this reason the user will not always be forced to access the PayPal account (with password, PIN or other) to approve recurring payments at expected deadlines.
+Payments made under the automatic debit agreement may have varying amounts and may be sent on various dates.
+PayPal is only a payment service provider, so it cannot know what the user has established in their agreements with the recipient or why the recipient has decided to collect the payment, nor should we expect otherwise.
+PayPal is under no obligation to verify or confirm the amount requested by the recipient for the purpose of processing payments made under the automatic debit agreement.
+PayPal uses different names for payments that may be required by an automatic debit agreement, including "automatic payments", "subscription payments", "recurring payments", "referral transactions", "pre-authorized transfers" or "pre-authorized payments. ".
+You can cancel an automatic debit agreement at any time via your account interface or by contacting PayPal.
+If a payment under the automatic billing agreement is due before the end of the next business day following the cancellation request, PayPal may decide to cancel the agreement only after that payment has been made.
+When you cancel an automatic billing agreement, you may still be indebted to the recipient for goods or services received but not yet paid for.
+If PayPal determines that an automatic debit requires a currency conversion and performs it, PayPal will apply the transaction exchange rate in effect at the time the payment is processed.
+The exchange rate may vary for each payment transaction.
+Refunds to the account
+How refunds are made
+PayPal may allow the recipient of your payment to:
+Refuse to accept it.
+Decide to accept it and then use the PayPal service to send the user a refund of the entire amount or part of it at a later time.
+PayPal will credit the amount of the refused or refunded payments to the user's balance.
+PayPal will credit the amount of unclaimed payments to your balance within 30 days from the date the payment was made.
+If a payment amount is returned to you in any of the ways above, PayPal can convert the returned amount into one of the following currencies:
+In the currency of the balance used for the initial payment (before any conversion was made to the currency received by the recipient).
+In the user's original account opening currency.
+In US dollars (if you do not yet have a balance in that currency, PayPal will open one in your name).
+If the initial payment sent by you required a currency conversion, PayPal will convert the returned amount back from the currency in which it was received by the recipient as follows:
+If the amount is returned within one day of the initial payment date, PayPal will use the transaction exchange rate applicable on the initial payment date so that the user receives the original amount in the original converted currency for the initial payment.
+If the amount is refunded after one day from the initial payment date, PayPal will use the transaction exchange rate applicable at the time of converting the refunded amount and you will provide your consent.
+The exchange rate of the transaction can be applied immediately and without notifying the user.
+PayPal may also automatically withdraw the returned amount from the user's balance and transfer it to the payment method used for the initial payment.
+Transfers can also include a currency conversion (see the Transferring Money section above).
+Risks When Receiving Refunds
+The amount returned may be less than the initial payment amount.
+This can happen for the following reasons:
+The recipient sends a refund of less than the initial payment amount.
+As a purely payment service provider, PayPal cannot know what reimbursement is due to the user by the recipient of the initial payment or why the recipient of the initial payment refunded a certain amount.
+Exchange rate fluctuations of the transaction.
+PayPal is not responsible for any losses resulting from the recipient's decision to refuse or refund the user's payment, except when the refund sent by the recipient is a payment made incorrectly by PayPal.
+PayPal is not responsible for the difference between the initial payment value and the corresponding refund value, except when the refund is an incorrect payment (see Troubleshooting section).
+Finance the payment
+Select a preferred payment method
+The user can select a preferred payment method after logging into the account.
+Under these Terms of Use, your preferred payment method will be used as the default method for payments sent from your account.
+For some automatic debit agreements, you can set up different preferred payment methods.
+Special payment solutions
+Some payments may be made through special payment solutions linked to your PayPal account, such as seller or transaction specific balance, gift cards or other promotional payment solutions.
+The use and priority of these special payment solutions are subject to additional terms of use between you and PayPal.
+The main page of the user's account can report the theoretical amount available in the special payment solutions to make eligible payments at a certain time.
+This amount does not constitute electronic money, is not considered part of the user's PayPal balance and cannot be redeemed for cash.
+It represents only the amount of electronic money that PayPal is willing to issue and credit to the user's account at the time of (and exclusively for the purpose of immediate financing) an eligible payment, pursuant to the additional conditions of use of this solution. special payment and only for the period indicated in the same.
+If the user's payment funded through a special payment solution is canceled for any reason at a later time, PayPal will retain the amount that was funded through the special payment solution and, unless that solution has already expired, will reinstate the special payment solution.
+Fund payments sent from the account
+PayPal will obtain e-money for payment sent from your account from the following funding sources, in the order shown here and to the extent that they are available:
+Special payment solutions (if available for the transaction in question)
+Preferred payment method (if selected and available)
+Preexisting PayPal balance
+Bank account (direct debit via bank mandate)
+PayPal Credit (where available)
+PayPal-branded debit card (where available)
+PayPal-branded credit card (where available)
+Debit card
+Credit card
+Bank account (eCheck, if available)
+PayPal Buyer Protection Program
+When you purchase an item from a seller who accepts PayPal, you may be eligible for a refund under the PayPal Buyer Protection program.
+Where applicable, the PayPal Buyer Protection program authorizes a refund to you of the entire purchase price of the item and any initial shipping costs incurred.
+PayPal Buyer Protection does not constitute a guarantee on either the product or the service.
+No warranties of any kind are given.
+PayPal Buyer Protection is an additional service and does not replace the legal guarantees provided for by current consumer protection legislation.
+Regardless of the application of Purchase Protection, consumers have the right to assert their rights under the legal guarantee of conformity of goods supplied by the seller.
+PayPal determines, in its sole discretion, whether your complaint meets the PayPal Buyer Protection Program requirements.
+PayPal's initial decision is considered final, but you may appeal against PayPal if you have new or substantiated information that was not available at the time the initial decision was made or if you believe an error has occurred. in the decision-making process.
+The program conditions are set out on the PayPal Buyer Protection program page and form an integral part of these Terms of Use.
+Receive payments
+General provisions for receiving payments
+PayPal may allow anyone (account holder or not) to send a payment instruction that results in the issuance or transfer of electronic money to your account.
+By integrating (or having already integrated) into your platform or online payment pages any functionality aimed at allowing a buyer who does not have an account to send a payment to his PayPal account, the user accepts all the additional conditions of use. related to this functionality that PayPal will make available to you on any page of the PayPal or Braintree website or online platform (including the developer pages and the Legal Agreements page).
+These additional terms include the PayPal Terms of Use for other payment methods.
+Receiving a payment to your PayPal account is not the same as receiving the corresponding money.
+Notification that a payment has been sent is not equivalent to receiving e-money on the account, unless the user has accepted the payment.
+PayPal may allow you to accept payments in any currency supported by the service from time to time.
+If in your point of sale, the user (and not PayPal) proposes to the buyer the currency conversion for an amount received via PayPal, the user is required to inform the buyer of the exchange rate applied and any fees that will be applied. to the payment transaction.
+PayPal assumes no liability to the buyer in the event that the user does not inform him about the exchange rate and related fees.
+You acknowledge that failure to disclose the exchange rate and related fees charged to the buyer may constitute a criminal offense.
+Any payment sent to you may be subject to cancellation, payment review, restriction, reserve or block, as permitted by these Terms of Use.
+Reception limits
+At its discretion, PayPal may impose limits on the amount and value of payments that you can receive, including money from purchases.
+To remove the reception limit, the user is required to follow the procedure that PayPal will communicate to him or will publish on occasion (sometimes on the main page of the user's account).
+New payment solution
+PayPal's new payment solution includes:
+Dedicated payment functionality built into the platform or the user's online payment pages to allow any buyer, with or without a PayPal account, to send a payment to the user's account.
+Support anti-fraud tool.
+The new service allows the user to choose whether to take advantage of the new payment solution in full or in part, choosing the functionality or combination of functionalities he wishes.
+By choosing to use the service offered by PayPal with the new payment solution, in addition to these Terms of Use, you agree to the additional terms below relating to the following features: When you use PayPal's APM functionality as a part of the new payment solution, the PayPal Terms of Use relating to other payment methods.
+When the user uses: PayPal's Advanced Credit and Debit Card Payments service as part of the new payment solution; and PayPal's Fraud Protection as part of the new payment solution; Our fees apply for the use of the new payment solution.
+Rules on the increase
+PayPal respects the law and does not in any way encourage the application of surcharges because it is, among other things, a commercial practice that can penalize the consumer and create unnecessary misunderstandings, conflicts and waivers to use the payment service.
+The user undertakes not to apply surcharges to the use of PayPal services.
+Presentation of PayPal
+You must propose and manage PayPal as a brand or payment method at least on a par with other methods offered in your stores, including websites and mobile applications.
+There must therefore be equivalence or substantial similarity:
+In the positioning of the logo.
+In the position within each store.
+In the treatment regarding the payment procedure and terms, conditions, limitations and rates, always with respect to other brands and payment methods present in the user's points of sale.
+In statements made to customers or in other public communications, you must not misrepresent PayPal as a payment method or show a preference for other payment methods than PayPal.
+Tax management
+It is the user's responsibility to determine what taxes must be applied to payments made or received; it is also its sole responsibility to calculate, collect, declare and correctly pay taxes to the competent authorities.
+It is not PayPal's responsibility to determine whether any taxes should apply to the transaction or to properly calculate, collect, report or remit taxes resulting from any transaction.
+Since PayPal is a banking service provider, PayPal services are not subject to VAT in the European Union.
+Refund Policy and Privacy Policy
+You must post a refund and return policy and a privacy policy.
+In-store payments and QR code transactions
+If you accept PayPal payments at your physical store or point of sale, you must communicate the total amount of the transaction to the customer before making it.
+The user can only debit the customer's account after the customer has authorized the transaction.
+You must also provide your customers with a paper receipt if they request it.
+You agree to attach to each transaction you make an accurate and truthful description of the goods and services that are purchased.
+If the user uses a QR code to accept payments in his physical store, he will need to use a QR code intended for transactions of goods and services.
+Furthermore, QR codes cannot be used by the user to personally accept payment for a transaction involving an online sale of goods and services.
+In the event of a buyer's complaint regarding QR code transactions, you may be required to provide PayPal with additional proof of delivery or other documents and information regarding the transaction.
+Marketplace sellers
+If you are a seller on a marketplace or sell through a third-party application where PayPal is available, you must comply with all rules applicable to the marketplace's purchase protection program or third-party application for sales. made through that channel.
+These protection systems may require you to take certain actions and may affect how complaints are processed.
+PayPal may allow you to authorize certain marketplaces to use your account to pay amounts owed by you to the marketplace or to the buyer (as applicable) following a complaint, subject to the marketplace termination process, which in PayPal are defined as "Amounts due to the marketplace".
+By providing such authorization, when the marketplace informs PayPal of the complaint, the user authorizes PayPal to send payments of any amounts due to the marketplace relating to said complaint, transferring them from the user's PayPal account to the marketplace or to the interested buyer (to as applicable), in accordance with the instructions that the marketplace will have provided to PayPal.
+Regarding complaints submitted to PayPal, if PayPal decides to resolve them in favor of the user, the user's instructions regarding the payment of the amounts due to the marketplace can be canceled.
+You can also cancel these instructions by contacting PayPal.
+All complaints submitted directly to the marketplace are governed solely by the marketplace rules.
+PayPal Seller Protection does not cover or regulate complaints against the seller submitted directly to the marketplace by its buyers.
+Accept payments for automatic debits
+If PayPal allows you to accept payments from a buyer under an automatic billing agreement, when you submit a payment request to PayPal under that agreement, you:
+It guarantees PayPal that the indicated amounts have been accepted and authorized by the account holder from which they will be deducted (including any changes to the amounts themselves) and that it will communicate the charge to the payer in advance.
+In the event of an increase, you agree to report at least 4 weeks in advance the amount that will be withdrawn and that the buyer cannot reasonably expect to pay, considering the buyer's previous spending patterns and the circumstances of the payment, and acknowledges its liability to PayPal for any reimbursement of such payment under these Terms of Use.
+PayPal cumulative payments
+If you use cumulative payments, the conditions relating to PayPal cumulative payments will apply.
+Your responsibility as a business customer to notify PayPal of any rate errors
+When you have access to account statements or other account activity information made available by PayPal in connection with your Business Account, you will have sixty (60) days to notify PayPal in writing of any errors or discrepancies. regarding fees or other charges applied by PayPal.
+If you fail to notify PayPal within this period, it is understood that you believe this information is correct, consequently PayPal will have no obligation to rectify it.
+For the purposes of this provision, such errors or discrepancies in relation to rates or costs are different from unauthorized transactions or other errors in electronic transfer, for which different notification timelines are established as specified herein.
+Refunds and reversals of payments
+When the user receives a payment, it may be refunded or canceled.
+PayPal may allow you to send the buyer a refund of the payment.
+PayPal may reverse your payment under certain circumstances.
+See the rest of this section for more details.
+Refunds
+Only the user (and not PayPal) is responsible:
+Legal and contractual obligations towards the buyer for any amount returned by the user.
+Any difference between the cost of the initial payment incurred by the purchaser and the value of the amount returned to the latter (due, for example, to fluctuations in the exchange rates of the transaction), unless the refund is due to an incorrect payment (see the Troubleshooting section).
+See the PayPal Fees section for more details on the fees you paid to PayPal as the recipient of your initial payment and which PayPal holds when you take advantage of the special trade refund feature available in your PayPal account, according to the methods from time to time permitted by PayPal, except in the event that the refund is due to an incorrect payment (see the Troubleshooting section).
+Starlings
+If you receive a payment into your account, you must return the full payment amount and any losses resulting from processing your payment (including any chargeback fees or dispute fees) to PayPal.
+This type of transaction may include PayPal's liability (including any fees, expenses and penalties) to third parties (including the payer and the provider of its payment method).
+A reversal occurs when PayPal exercises its right to set off amounts on your account, pursuant to the User Refunds section of these Terms of Use.
+If your PayPal balance for a particular currency is not sufficient to cover the amount owed to PayPal in that currency, PayPal may perform a conversion from a balance in another currency to offset the amount at its own exchange rate. transaction applicable at the time the reversal is processed.
+This means, for example, that if you are a seller, the amounts of payments that you have received on your account may be removed from your account once the goods or services sold have been delivered or provided.
+A reversal can occur when PayPal:
+Reimburse a buyer covered by PayPal Buyer Protection following a complaint they raise against you.
+Compensate the acquirer or his payment method provider (or both) for either of them filing a claim regarding the payment amount subject to the reversal process used by the payment method provider.
+For example:
+If the acquirer used a card to fund the payment to you, they may be trying to get a "chargeback" from the card company.
+The card issuer, not PayPal, determines whether the payer is eligible for a chargeback.
+To learn more about chargebacks, see the Chargeback Guide accessible via the PayPal Security page and the section titled "Safe Selling".
+The PayPal Security page is accessible from the PayPal website.
+PayPal charges a fee for receiving a chargeback request.
+If the buyer used a bank account to fund the payment, he or the bank might make a bank reversal.
+The requested amount may be greater than the initial amount received by the user due to fluctuations in the currency exchange rate from the time of payment to the time of the request.
+PayPal may be forced to compensate the buyer if the buyer claims that there was a problem with the payment (including cases where the payment was not authorized or was incorrect, or when an unexpected payment was made subject to a payment agreement. automatic debit).
+To do this, refer to the Troubleshooting section.
+PayPal may perform a cancellation for any other reason under these Terms of Use, including the provision of Actions PayPal may take if you engage in prohibited activities.
+Rates for the dispute
+PayPal will charge sellers a dispute fee to facilitate the online dispute resolution process for transactions processed through a buyer's PayPal account or through the "Payments Without PayPal Account" service.
+The dispute fee applies when the buyer files a complaint directly with PayPal or requests a chargeback from their card company or a chargeback from their bank.
+The dispute fee will be charged as a standard dispute fee or as a high volume dispute fee.
+The fee for the dispute will be charged in the currency selected by the user in the list of those available for the original transaction.
+If the transaction was made in a currency not listed in the dispute fee table, the fee will be charged in the currency of the user's main account.
+The dispute fee will be deducted from your PayPal account after the complaint is resolved.
+The amount of the dispute fee will be determined at the time the dispute is created.
+The rate depends on the ratio of all complaints for Item Not Received and Significantly Not as Described that the user received and the total amount of sales recorded by the user in the last quarter (dispute report).
+Total complaints include all Item Not Received and Significantly Not as Described complaints that are forwarded to PayPal either directly or through buyers' card issuing companies or banks.
+Total complaints do not include "Unauthorized Transaction" complaints.
+For example, for a dispute opened in September, the dispute ratio is calculated by considering the ratio between the total complaints received and the total sales occurred in the months of June, July and August.
+The September Complaint Rate will determine the dispute rate applicable to all complaints filed in October.
+If your dispute ratio is 1.5% or more and you have performed more than 100 sales transactions in the previous three months, the high-volume dispute rate will apply for each dispute.
+Otherwise, disputes will be subject to the standard dispute rate.
+Disputes that:
+Requests are forwarded to the PayPal Resolution Center and not converted into a PayPal complaint.
+They have been resolved directly between you and the buyer and are not converted into a complaint with PayPal.
+They were presented directly by the buyer to PayPal as unauthorized transactions.
+at PayPal's sole discretion, they meet all PayPal Seller Protection Program requirements.
+are complaints related to a transaction with a value less than twice the amount of the standard dispute fee.
+They have been resolved in your favor by PayPal or your issuing company.
+Disputes that:
+Requests are forwarded to the PayPal Resolution Center and not converted into a PayPal complaint.
+They have been resolved directly between you and the buyer and are not converted into a complaint with PayPal.
+were presented directly by the buyer to PayPal as unauthorized transactions.
+Sellers charged with High Volume Dispute Fees may be required to provide information to PayPal including the cause of the increase in their dispute rate.
+Even if neither the standard dispute rate nor the high volume dispute rate is applied to the complaints listed above, the complaint can still be included in the overall dispute ratio calculation.
+Chargeback fees
+For transactions that are not processed through a buyer's PayPal account or through the "Pay without PayPal Account" service, where the buyer tries to obtain a chargeback for the transaction at the card issuer, PayPal will charge the user for the chargeback fees in order to facilitate the chargeback process.
+These charges will apply regardless of whether the buyer's attempt to obtain the chargeback against the card issuer is successful or unsuccessful.
+Applicable chargeback fees will be deducted from your PayPal account.
+Chargeback fees are applied as specified in the chargeback fees table and are charged in the currency selected by the user in the available currency list for the original transaction.
+If the transaction was made in a currency not listed in the chargeback fee table, the fee will be charged in the currency of the user's main account.
+Impact of PayPal Buyer Protection on Sellers
+You must read the PayPal Buyer Protection provisions and, if you sell goods and services to buyers with PayPal accounts in countries other than your own, you must also know the PayPal Buyer Protection applicable to buyers in each affected country, as the rights of the buyers anticipated by individual programs can impact sellers.
+For more information on PayPal Buyer Protection, go to the Legal Agreements page, select the buyer's country at the top of the page, and read the PayPal Buyer Protection program provisions set out in the corresponding Terms of Use.
+If you are denied a complaint made under the PayPal Buyer Protection program in any country:
+You will be required to waive the full purchase price of the item or transaction plus the original shipping costs.
+This condition applies when you are the primary seller or a secondary seller of goods or services.
+For example, agents selling event tickets or online travel agents will lose the full purchase amount paid by the buyer.
+In some cases, the item may not be returned to the user.
+Claims under Buyer Protection are considered fully resolved only if:
+the refund to the buyer is processed through PayPal, or
+you provide PayPal with proof it deems acceptable, in its sole discretion, that the buyer has accepted the alternative resolution offered.
+You will not be entitled to any refund of the PayPal fees paid in connection with the sale.
+If the complaint was about receiving an item that was noticeably not as described, the item may typically not be returned to you or the user may be required to accept the return of the item and pay the return charges.
+If the claim was for an item received significantly not as described as sold by the user and found to be counterfeit, the user will be required to refund the full purchase price to the buyer and it is possible that the item will not be returned to them.
+If you accept PayPal payments from buyers for goods or services sold through eBay, you must read and understand eBay's Money Back Guarantee program.
+Unless you have decided to unsubscribe from the program by calling eBay, PayPal will treat eBay's decisions in favor of your buyers under that program as the basis for reversing a PayPal payment made to you.
+If the balance of the Cash account or the PayPal Business account is not sufficient to cover the amount, PayPal can:
+Proceed to block your PayPal account until it has enough money to cover the amount.
+Create a negative balance on the user's PayPal account.
+PayPal Sales Protection Program
+Cases of eligibility
+The user who receives an amount in excess of EUR 100,000.00 per month on their PayPal account at least once in a period of 6 consecutive months and / or who applies surcharges for the use of PayPal (if applicable regulations allow it) not is considered eligible for PayPal Seller Protection and is required to comply with the provisions of this section, unless otherwise agreed with PayPal.
+Each year, in October and April, PayPal will check if you are eligible for Seller Protection.
+A user who sells an item to a buyer may be eligible for a refund under the PayPal Seller Protection Program if the transaction has been disputed or reversed as set forth in the Cancellations, Claims, or Chargebacks section.
+Where applicable, PayPal Seller Protection allows the user to withhold the full amount of the purchase.
+The number of payments you can receive coverage for is unlimited.
+By visiting the "Transaction Details" page of your PayPal account, you can determine if a transaction is eligible for the protection provided by the program.
+The program conditions are set out on the PayPal Seller Protection Program page and form an integral part of these Terms of Use.
+ACTIVITIES NOT PERMITTED, BLOCKS AND DAMAGES AGREED
+Activities not allowed
+In connection with your use of the PayPal websites, account or services or during your interactions with PayPal, you cannot and must not:
+Violate these Terms of Use, PayPal's Acceptable Use Policy, Commercial Company Agreements (where applicable to you), or any other agreement between PayPal and you.
+Violate any law, statute, ordinance or regulation (for example, those governing financial services, consumer protection, unfair competition, discrimination or misleading advertising).
+Violate any copyrights, patents, trademarks, trade secrets or other intellectual property rights or rights of publicity or confidentiality of PayPal or any third party.
+Selling counterfeit goods.
+Acting in a defamatory, libelous, threatening or harassing manner.
+Providing false, inaccurate or misleading information.
+Send or receive money that PayPal can reasonably believe to be resulting from potentially fraudulent or unauthorized activity.
+Refuse to cooperate with an investigation or to confirm your identity or other information you have provided to PayPal.
+Attempting "double redemption" during a dispute by obtaining or seeking to obtain money from both PayPal and the seller, bank or card company for the same transaction.
+Check an account linked to another that has performed any of the prohibited activities mentioned here.
+Conducting your business or using PayPal services in a way that involves or could involve:
+Complaints
+Buyer requests (to PayPal or card issuers) to cancel payments made to you
+Fees, penalties, penalties or other damages or losses caused to PayPal, other PayPal customers, third parties or you.
+Use your PayPal account or services in a way that PayPal, Visa, Mastercard, American Express, Discover or any other electronic wire transfer network would reasonably believe to be an abuse of the system or a violation of the rules of the credit / debit card issuers.
+Allow your account balance to be in debt to PayPal.
+Withdrawing a cash advance with your credit card (or helping others to do so).
+Access PayPal services from a country not included in the list of allowed countries.
+Take any action that unreasonably or disproportionately overloads PayPal websites, software and systems (including all networks and servers used to provide PayPal services) operated by or on behalf of PayPal or PayPal services.
+Facilitate the spread of viruses, Trojan horses, malware, worms or other computer programs that may or attempt to damage, interrupt, corrupt, misuse, negatively interfere with, intercept or expropriate by stealth or gain unauthorized access to systems, PayPal data, information or services.
+Use an anonymous proxy; use any robot, spider or automatic device or manual process to monitor or copy PayPal's websites without prior written permission; or use any device, software or procedure to circumvent PayPal's robot exclusion headers.
+Interfere, interrupt or attempt to interfere or disrupt the websites, software, PayPal systems (including all networks and servers used for the provision of PayPal services) operated by or on behalf of PayPal, any PayPal service, or the use of any PayPal service by other users.
+Take any action that could cause PayPal to lose one or more services provided by Internet service providers, payment processing companies or other suppliers.
+Use PayPal services to check credit card behavior.
+Circumvent PayPal's rules or regulations on your PayPal account, such as temporary or unlimited suspensions, other blockages, limitations or restrictions, by doing the following, among others: attempting to open an account New or additional PayPal when your account has a negative balance or has been blocked, suspended or otherwise limited; open a new or additional PayPal account using data that you do not own (for example, name, address, email address, etc.); or use another person's PayPal account.
+Harass and / or threaten employees, agents or other PayPal users.
+Abusing the online dispute resolution process and / or the PayPal Buyer Protection Program and / or the PayPal Sales Protection Program.
+Cause PayPal to receive an excessive number of closed claims in favor of the disputed payment sender relating to your PayPal account or business.
+Receive a credit score from a risk center that indicates a high level of risk associated with your use of PayPal services.
+Using a credit card to withdraw a cash advance (or help others do so).
+Disclose or distribute data relating to another user to third parties or use them for marketing purposes without having obtained his explicit consent.
+Send unsolicited emails to a user or use PayPal services to finance sending or other activities related to sending unsolicited emails to third parties.
+Copy, reproduce, communicate to third parties, alter, modify, create derivative works, publicly display or embed any content on PayPal's websites without the prior written consent of PayPal or any third party rights holders.
+Communicate your account password to others or use other users' passwords.
+PayPal is in no way responsible for any losses suffered by the user including, without limitation, the use of the account by anyone other than the user as a result of improper use of passwords.
+Do or omit to do or attempt to do or omit to do any thing or action that may interfere with the proper functioning of the PayPal service or the activities carried out within the PayPal services or in a manner other than the terms of these Terms of 'use.
+Request or send a personal transaction payment to perform a business transaction.
+Allow your use of the PayPal service to expose PayPal to the risk of non-compliance with legal obligations relating to the prevention and countering of money laundering and terrorist financing and other similar regulations (including, without limitation, the cases in which PayPal cannot verify the user's identity or the user does not take steps to remove the sending, receiving or transfer limits, or when the user exposes PayPal to the risk of receiving penalties imposed by the European, US authorities or otherwise related to the processing of your transactions).
+Integrate or use PayPal services without complying with all mandatory requirements communicated to you in the Integration or Programmer's Guide or in any other documentation published by PayPal from time to time.
+Advertise, promote, present or describe to your customers the PayPal Credit product or any other credit-based payment method co-branded with PayPal without first obtaining: (1) the regulatory clearances necessary to do so; (2) written authorization from PayPal and (if not PayPal) the card issuer.
+Suffering a breach of the security of its websites or systems that could result in unauthorized disclosure of customer data or lead PayPal to determine that there is a reasonable likelihood of this happening.
+You acknowledge that your possible involvement in the aforementioned prohibited activities reduces your and others' ability to safely access and / or use your account and PayPal services in general.
+Actions PayPal can take if you engage in prohibited activities
+If PayPal believes that you have engaged in any prohibited activity, it may at any time and in its sole discretion take various measures to protect PayPal, its customers and other interested third parties.
+Actions that PayPal may take include, without limitation, the following: Terminate these Terms of Use, limit, and / or close or suspend your account, immediately and without penalty to PayPal.
+Refuse to provide PayPal services to you in the future.
+Suspend, limit or interrupt, at any time and without liability, the user's access to sites, software, systems (possibly including networks and servers used for the provision of PayPal services) managed by or on behalf of PayPal, to the account Your PayPal or any PayPal service, possibly limiting your ability to pay or send money through one of the payment methods linked to your account, reducing your ability to send money or make transfers.
+Block your money to the extent and for the time reasonably necessary to protect yourself against any risks of attribution of responsibility.
+Among other things, the user acknowledges that:
+The risk of attribution of liability that PayPal runs in relation to the card-funded payments that the user receives can last until there is no longer the possibility that the resolution of a chargeback will result in favor of the payer / buyer (as established by the rules of the circuits credit cards).
+This depends on specific factors, including but not limited to:
+The type of goods or services for which the user receives payment.
+The deadline for the delivery of goods or for the performance of the services for which the user receives payment (for example, the sale of tickets for an event months in advance of the date of the event itself could present a risk of chargeback higher and more lasting than the sale of other goods or services).
+The risk of attribution of responsibility that PayPal runs following a complaint or a dispute arising from a payment received by the user may last for the time necessary for the parties involved to close the complaint or dispute and all the appeals associated with the complaint or dispute according to the PayPal Buyer Protection.
+The risk of attributing PayPal's liability following a user insolvency case may last for as long as and to the extent that applicable insolvency laws limit PayPal's ability to take legal action against of the user.
+If you allow your account to have a negative balance with PayPal, the risks of damage to PayPal can last for as long and to the extent that these amounts are still owed to PayPal.
+Block the user's PayPal account and / or block the money on the reserve account (including, by way of example, a block lasting more than 180 days, if requested by PayPal in cases where his rights are harmed by the involvement of the user in a prohibited activity).
+Refuse to carry out a specific payment transaction at any time and for any reason with the exclusive obligation to disclose the refusal and the related reasons, as well as the ways in which the user can solve the problem, in cases where it is possible, on required and provided it is not prohibited by law.
+Reverse a payment (possibly also to the sender's payment method).
+Take legal action against you.
+Suspend your eligibility for the PayPal Buyer Protection Program and / or the PayPal Seller Protection Program (including retroactively).
+Contact third parties and disclose details of prohibited activities as set forth in the PayPal Privacy Statement.
+Request or update inaccurate data provided by the user.
+Require the user to provide information or documents in order to verify their identity and / or in relation to the goods or services provided under a transaction.
+If you have violated the PayPal Acceptable Use Policy, you are consequently liable for damages resulting from the violation of these rules.
+If you are using your PayPal account primarily for commercial, business, craft, or professional purposes and violate the Acceptable Use Policy, then:
+In addition to being subject to the aforementioned actions, you will be required to pay PayPal the amount corresponding to the damages suffered by PayPal due to the violation of the Acceptable Use Policy.
+You acknowledge and agree that the amount of US $ 2,500.00 (or the equivalent in the currency of the country in which you reside) for violating the Acceptable Use Policy is:
+A reasonable minimum estimate of the actual damages suffered by PayPal including, but not limited to, internal administrative costs incurred by PayPal for monitoring and tracking violations, damage to PayPal's reputation and brand, and penalties imposed on PayPal by its customers. business partners, resulting from your breach in consideration of all circumstances currently existing, including the relationship between the amount and extent of damage caused to PayPal that could reasonably be expected.
+Reasonable and proportionate in its application to the provision of services to the user.
+Necessary, but not more than sufficient, to protect PayPal's legitimate interest in your compliance with the Acceptable Use Policy.
+PayPal may deduct such damages directly from any existing balance in any PayPal account controlled by you.
+See also the User Responsibilities section below.
+Unless specifically instructed by PayPal, you may not use or attempt to use your account while it is suspended or closed.
+You must ensure that all agreements with vendors or other third parties involving third party initiated payments (including automatic debit payments) set up from your account are immediately canceled upon termination, suspension or closure of your account.
+You remain responsible under these Terms of Use for all expenses and other amounts incurred while using your account at any time, regardless of account termination, suspension or closure.
+Blocks, restrictions and reservations
+What are the blocks, limitations and reserves?
+In certain circumstances, in order to protect PayPal and the security and integrity of the network of buyers and sellers using PayPal services, PayPal may take account or transaction level action.
+If PayPal chooses to take any of the actions described in this document, it will generally notify you of the action taken, although it may, as long as it is reasonable (for example, if you violate these Terms of Use or when it is advisable for safety reasons), act without giving any notice to the user.
+To inquire about an account restriction, hold or reserve, please visit the Resolution Center or follow the instructions in the restriction, hold or reserve notification email.
+You acknowledge and agree that any amounts blocked under these Terms of Use may be placed in your reserve account and that you must provide PayPal with all information that may reasonably be requested from you to enable us to determine if the risk no longer exists. .
+Blocks
+A hold is an action that PayPal can take under certain circumstances, both at the transaction level and at the account level.
+When PayPal blocks the amount of a payment, the money is not available to either the sender or the recipient.
+PayPal examines many factors before blocking a payment, including: account reputation, transaction history, company type, past disputes, and overall customer satisfaction.
+Some common situations that lead PayPal to block payments are those in which it has reason to believe that:
+Transactions are high-risk, i.e. when the transaction involves the sale of goods or services that fall into a high-risk category or when other facts known to PayPal may increase the number of chargeback requests, other complaints or disputes, or when the sale relates to goods and services often involved in cases of fraud or illegal activity.
+There is a sudden and abnormal change in the sales activity of a PayPal account holder, resulting in an increase in the number of chargebacks, cancellations or complaints received on their PayPal account.
+A PayPal account is used in connection with prohibited activities.
+A PayPal account involved in the transaction has been compromised or stolen financial data (bank account or credit card) is being used to make payments or a transaction has not been properly authorized.
+A user tries to send or transfer money received fraudulently.
+A user has not provided sufficient information for PayPal to verify his identity or that of his business and / or that the user's transaction history with PayPal is limited.
+A payment sent to you as a seller is contested as a payment to be canceled and reversed.
+A buyer has filed a chargeback, reversal, or claim under PayPal Buyer Protection for a payment that you received.
+The buyer files a claim under the marketplace termination process.
+There is a risk of money being written off in the user's account to the chosen payment method.
+There is a risk of attribution of liability (a non-exhaustive list of examples of this risk can be found in the Actions that PayPal can take if you engage in prohibited activities above).
+Payment review
+When PayPal identifies a potentially high-risk transaction, it carefully reviews it before approving it.
+This procedure is implemented in cases where PayPal, in its reasonable discretion, has a reasonable suspicion that the buyer's account is being used for prohibited activities or for other reasons.
+This includes cases where there is a risk of liability attribution (a non-exhaustive list of examples of this risk can be found in the Actions that PayPal can take if you engage in prohibited activities above).
+If a payment is subject to review, PayPal may:
+Execute the payment order sent by the buyer.
+Restrict, at its discretion, the payer's account immediately after the execution of the order.
+Proceed to block the payment.
+Advise the recipient to delay the delivery of the purchased item through payment.
+This may delay the receipt of an item purchased by you as a buyer.
+If PayPal authorizes the transaction, it will notify the seller of this decision and invite the seller to ship the item.
+If PayPal does not authorize the transaction, it will be canceled and the money returned to you, unless PayPal has a legal obligation to take other action.
+All payments that pass the review stage are still subject to reversal in accordance with these Terms of Use, but may be eligible for the PayPal Seller Protection program if they meet the requirements.
+PayPal will notify you by email and / or in the "History" section of your PayPal account.
+The subject of a payment review is solely the payment itself.
+The review is done to reduce the likelihood of PayPal users becoming involved in high-risk transactions.
+Reviewing a payment is not a check or a statement by PayPal about the reputation, business or business characteristics of any party to the payment transaction and should not be considered a disrespect for any person.
+Blocks due to user instructions
+Certain PayPal features may allow you (either directly or through someone authorized to act on your behalf, such as an online marketplace platform on which you make sales transactions) to authorize PayPal to block your money (including payment proceeds received using PayPal) into your reserve account.
+In this case, PayPal will show the user the status of the availability of the money blocked in his balance; the description of the status may vary depending on the functionality used by the user to instruct PayPal to block.
+PayPal will release the amount based on instructions received from you (or from the entity that you have authorized to act on your behalf), in accordance with the remainder of these Terms of Use.
+Account Limitations
+The limitations are applied to protect PayPal, buyers and sellers when PayPal detects prohibited activity, increased financial risk, or seemingly unusual or suspicious activity.
+The restrictions also help PayPal collect the data necessary to keep your PayPal account open.
+There are several reasons why restrictions may apply to a user's PayPal account, including when PayPal has reason to believe that:
+Someone is using the PayPal account without the user's knowledge, in which case the restriction is necessary for security reasons and to investigate the alleged fraudulent activity.
+Someone has used your card or bank account without your authorization, for example, where this is reported to PayPal by your bank or credit or debit card company.
+You have violated these Terms of Use or the Acceptable Use Policy.
+Your performance as a seller indicates that your PayPal account is at high risk.
+Some examples: signs of poor sales performance resulting from the unusually high number of complaints and chargebacks; selling a completely new or very expensive type of product; rapid increase in the usual sales volume.
+There is a risk of attribution of liability (a non-exhaustive list of examples of this risk can be found in the Actions that PayPal can take if you engage in prohibited activities above).
+PayPal may also limit your PayPal account in order to comply with applicable laws.
+Before a restriction can be removed, you will need to resolve any issues you have encountered with your account.
+Typically, the restriction is removed after the user has provided the requested information.
+However, if after receiving the requested information, PayPal believes that there is still a risk, it is possible that it decides to take steps to protect itself, other users, third parties or the user himself from chargebacks, tariffs, penalties, penalties, risks. legal and / or regulatory and any other attribution of responsibility.
+Reserves
+PayPal may make a reservation on an account at any time if it believes there is a high level of risk associated with you, your account, your business model or your transactions.
+When a reserve is applied to a PayPal account, the money in the account, in whole or in part, becomes unavailable for transfer, to avoid the risk of any transactions made by the user being reversed or canceled, as well as any other related risk. to your account and your use of PayPal services.
+Decisions made by PayPal about whether to apply a reservation depend on a number of factors, including information made available to PayPal from internal sources or third parties.
+PayPal takes into account a number of non-exclusive factors and assesses whether and how those factors have changed over time, including:
+The years of activity of the user.
+If the industry in which the user operates is at high risk of chargeback.
+Your payment processing history with PayPal and other vendors.
+Your personal financial reputation and / or your business.
+The user's delivery times.
+If the user has a higher than average number of returns, chargebacks, complaints or disputes.
+There are two types of reservations that apply separately or simultaneously to PayPal accounts:
+The "Renewable reserve" provides that a percentage of the amount of each transaction received each day is blocked and then released at a later time according to pre-established times.
+For example, the reserve can be set at 10% and blocked for a period of 90 days: this means that 10% of the money received on the 1st day is blocked and then released on the 91st day, 10% of the money received on the 2nd day. it is blocked until the 92nd day and so on.
+Renewable Reserve is the most common type of reserve.
+The "Minimum Reserve" is a specific minimum amount that the user must keep available on their balance at all times.
+The minimum reserve is retained as an advance amount deposited in a single solution (also called advance reserve) or it is established dynamically, similarly to the renewable reserve, accumulating a percentage of the amount of each sale until the minimum share is reached. pre-established.
+If PayPal applies a reserve to a PayPal account, the money will be transferred to the user's reserve account and will be "pending".
+The user will be notified of this.
+You will also be notified if PayPal changes the type of reserve based on a change in its risk assessment.
+You will take, at your own expense, any further action reasonably required to set a reservation or other form of guarantee in the manner deemed reasonably appropriate by PayPal.
+This includes signing all necessary documents and registering any form of document reasonably required by PayPal to complete any form of warranty.
+TROUBLESHOOTING
+The user is strongly advised to check their account regularly and carefully.
+If the user encounters a problem ...
+If you have reason to believe that there is a problem with your account or PayPal services, you should do the following:
+1.
+Identify the type of problem first
+Payment for unexpected automatic debit
+In this case you have entered into an automatic debit agreement and a payment has been sent from your account to another PayPal account under the aforementioned agreement but:
+The user had not previously agreed with the recipient the exact amount of the payment.
+The payment amount was higher than you could reasonably expect to pay based on previous charges and other circumstances.
+Wrong payment
+In this case, a payment sent from the user's account to another PayPal account did not go through as specified at the time of the request (e.g. wrong or late amount, wrong recipient), or the payment was received by the user.
+Security / fraud issue
+Unauthorized payment
+In this case, a payment was sent from the user's account without being authorized either by the user or by a person in charge of making payments on behalf of the user.
+Other type of security / fraud issue
+In this case, another security or fraud problem has occurred such as:
+An unauthorized login has been made to the user's account.
+The user's password or PIN has been compromised.
+A device used by the user to access PayPal services has been lost, stolen or disabled.
+Before contacting PayPal, promptly follow the instructions in the "What to do if you have a security problem" section of Important Payment and Service Information.
+Another kind of problem
+In this case, there is another type of problem with your account or with PayPal services that was not mentioned above.
+For example, PayPal may have made a real calculation or mathematical mistake on your PayPal account during a top-up or money transfer to / from the account.
+If a purchase paid for with PayPal does not match the description or has not been received, the PayPal Buyer Protection Rules may override those described in this section.
+Please refer to the PayPal Buyer Protection Rules section to understand how to resolve these specific issues.
+2.
+I will inform PayPal of the problem
+Contact PayPal in the first place to report the problem (specifying the type of problem in question so that PayPal can intervene as quickly as possible).
+You must provide all information on the circumstances of the problem that PayPal reasonably requests and take all measures indicated to facilitate the investigation.
+If the user reports the problem verbally, PayPal may also request to report it in writing within the next 10 working days.
+PayPal may communicate to third parties the information it deems relevant in such circumstances, based on the provisions of the Privacy Policy.
+What PayPal will do to help you ...
+In accordance with the rest of these Terms of Use, PayPal's intent is to investigate the issue and work with you to resolve the matter within 60 days.
+Also, if the problem is:
+An unexpected payment for an automatic debit, within 10 working days of the user's communication, PayPal:
+It will refund the payment amount to the user.
+He will explain why he cannot make the refund.
+A payment sent in error to another PayPal account, PayPal:
+It will immediately try to trace the payment and inform the user of the search result without charging him any amount.
+It will compensate the user as soon as possible (and in any case no later than the end of the business day following the communication of the problem) by restoring his account to the state in which it would have been if the incorrect payment had been sent in the correct way specified by the sender.
+This means that:
+If the incorrect payment has resulted in the user having less money than they would have had if the payment had been made as ordered, PayPal will credit the difference to the account.
+If the incorrect payment has resulted in you having more money than you would have had if the payment had been made as indicated, PayPal may debit the difference from your account.
+It will make a refund to your account for any loss or damage directly, reasonably and foreseeably caused by the incorrect payment.
+An unauthorized payment to another PayPal account, PayPal will return as soon as possible (and in any case no later than the end of the business day following the communication of the problem) the user's account to the state in which it would have been if the error occurred payment had never taken place.
+This procedure can also provide for the reimbursement of the payment to the user.
+In which cases PayPal cannot compensate the user ...
+As indicated above, the user is not entitled to any compensation from PayPal and must return any compensation already obtained by PayPal (which PayPal may cancel from the user's account) if:
+You fail to provide PayPal with all information reasonably requested regarding the circumstances of the problem (including failure to submit the required written notification within 10 business days of any verbal reporting of the problem by you).
+You fail to take all reasonable steps required by PayPal to support the investigation.
+PayPal can prove that you have acted fraudulently.
+PayPal can demonstrate that the problem occurred for reasons beyond its control (such as a fire, flood, or loss of Internet connection), despite reasonable precautions being taken.
+PayPal has reason to believe that there is no problem providing compensation to you.
+At least one of the following specific cases has occurred:
+Payment for unexpected automatic debit
+Wrong payment
+Unauthorized payment
+The user reports the problem to PayPal more than eight weeks after the payment was made.
+You have authorized PayPal to make the payment and the details of the payment have been disclosed to you by PayPal or the seller at least four weeks before the payment is processed.
+The user reports the problem to PayPal after more than 13 months from the day of execution of the payment.
+PayPal can prove that you have provided incorrect payment details.
+PayPal can prove that the payment was sent as and when specified and requested by the buyer.
+For a reason not attributable to PayPal, the user did not have sufficient balance to complete the payment.
+PayPal can demonstrate that their system was not functioning properly and that the user was aware of the disruption when the transaction was performed.
+A delay that you believe to be the cause of an incorrect payment is actually due to PayPal applying a block, restriction or reservation under these Terms of Use.
+The user reports the problem to PayPal after more than 13 months from the day of execution of the payment.
+PayPal can prove that the payment was made because you have intentionally failed to protect the security of your account or through gross negligence (for example, you have recklessly chosen to share your PayPal ID, password or PIN with other people ).
+Another type of security / fraud issue has occurred that the user did not report to PayPal.
+PayPal will not reimburse any unauthorized payments made from your account prior to reporting the issue.
+Sometimes the problem may be detected by PayPal first.
+To alert the user of a problem, PayPal uses the Message Center, which the user can consult by logging into their account.
+If it is necessary for the user to act promptly, PayPal can also use other communication channels, such as email, to solicit his intervention.
+If a payment is made in error using the user's payment method, PayPal may correct the error by debiting or crediting the amount, as appropriate, to the user's appropriate payment method.
+Complaints
+Reporting of disputes between the user and PayPal relating to PayPal services
+Contact PayPal to report any disputes between you and PayPal regarding PayPal services.
+In the event of a dispute between you and PayPal, PayPal's goal is to understand and resolve the user's problem and, in the event that a satisfactory solution cannot be found for the latter, to offer a neutral and convenient method of resolve the dispute quickly.
+If the user is not satisfied with the outcome of the complaint ...
+If, after completing the conversion to complaint procedure, you are not satisfied with the outcome of a dispute relating to PayPal services, you can further escalate the matter by contacting one of the following entities:
+European Consumer Center (ECC-Net).
+For more information on ECC-Net and to find out how to contact them, visit https://ec.europa.eu/info/live-work-travel-eu/consumers/resolve-your-consumer-complaint/ european-consumer-centers-network-ecc-net_it.
+Commission de Surveillance du Secteur Financier (CSSF).
+The CSSF is the authority responsible for the prudential supervision of companies in the financial sector in Luxembourg, such as PayPal.
+You can contact the CSSF at: 283 Route d'Arlon, L-1150 Luxembourg.
+Further information and directions on how to contact the CSSF are available at http://www.cssf.lu or by visiting the European Union Online Dispute Resolution website at https://ec.europa.eu/consumers/ odr / main / index.cfm? event = main.home2.show & lng = IT.
+TERMS OF USE PAYPAL
+Other legal terms
+Communications Between PayPal and You
+Contact PayPal
+To contact PayPal:
+Write to PayPal by post to the head office: PayPal (Europe) S.à r.l.
+et Cie, S.C.A, c / a: Legal Office, 22-24 Boulevard Royal L-2449, Luxembourg; or
+Visit the Contact PayPal page where you can:
+Click the "Send us an email" link to contact PayPal online; or
+Click the "Call Us" link to view our phone number and call PayPal.
+Legal notices regarding these Terms of Use must be sent to PayPal by post.
+User notifications
+You agree that PayPal may send you notifications or other information either by posting it on PayPal's websites (including the publication of information available only by logging into your account), by email or post to the addresses on your account, or by contacting them by phone. or via SMS.
+You must have Internet access and an email account to receive communications and information relating to PayPal services.
+With the exception of changes made to these Terms of Use, such communications will be considered received within 24 hours following publication on the PayPal sites or sending by email.
+Notices sent by post will be deemed to have been received three working days after shipment.
+PayPal reserves the right to close your PayPal account if you withdraw your consent to receive electronic communications.
+Disclosure of Reasons for PayPal's Actions
+PayPal's decisions regarding blocks, limitations, reservations and any other actions set forth in these Terms of Use, which limit or extend your access to services, infrastructure, websites, software or systems (including networks and servers used for the provision of PayPal services) owned or operated by or on behalf of PayPal (including, but not limited to, blocks, limitations, suspensions, interruptions, withholdings and reservations) may be based on confidential criteria that are essential for the risk management and the protection of PayPal and its customers and / or service providers.
+PayPal may use its own risk and fraud measurement models to assess the risk associated with your PayPal account.
+Additionally, PayPal may be subject to legal or governmental restrictions that prevent it from disclosing certain information about your decisions to you.
+PayPal is under no obligation to disclose details of risk management or security procedures to you.
+PayPal's rights
+Warranty
+To ensure compliance with these Terms of Use, you grant PayPal the right to legally access the money in your account to cover any amounts owed to PayPal.
+In legal terms, this right is defined as the right of retention and guarantee on the user's PayPal account.
+Responsibility of the user
+You are responsible for all cancellations, chargebacks, complaints, fees, penalties, penalties and other damages caused to PayPal, PayPal users or third parties caused or resulting from the violation of these Terms of Use. and / or your use of the PayPal services, regardless of their termination, suspension or closure.
+You agree to indemnify PayPal, the third parties or affected users for all damages listed above.
+Refund in case of user responsibility
+You agree that PayPal may deduct any amount, including costs, fees or otherwise, that you owe to PayPal or its affiliates from the balance of your own or controlled accounts, as set out in the Indemnification and Limitation of Liability section below. below (including, by way of example, the amounts relating to the services provided by any affiliated company).
+In short, the right to set off allows PayPal to deduct such fees, expenses or other amounts mentioned in this section from the balance of a PayPal account in the name of or controlled by a user.
+If the balance does not have enough money to cover the user's responsibilities, PayPal reserves the right to recover the amount due by deducting it (in whole or in part) from any payments received or from top-ups made to the account.
+Alternatively, you can agree to refund PayPal by other methods.
+PayPal may also recover amounts owed to you by legal means, including, without limitation, by using a debt collection agency.
+Assumption of rights
+If PayPal invalidates and cancels a payment sent by the user to a recipient (on the initiative of the user or not), the user agrees to delegate to PayPal his rights vis-à-vis the recipient and third parties related to the payment and agrees that PayPal , at its discretion, can enforce these rights on behalf of the user.
+In legal terms, this is called "subrogation" or "assignment" to PayPal of your rights against the recipient and any third party related to the payment.
+Exclusion of Waiver
+The failure of PayPal to take action against you or third parties who have violated their obligations under these Terms of Use does not constitute a waiver of the right to act in similar cases of violation in the future.
+User information
+PayPal may ask you for any information it deems reasonable to facilitate the actions described in these Terms of Use, in order to reduce the risk of fraud or to comply with its legal obligations (including anti-money laundering).
+The user is required to respond to such requests in a timely manner.
+This may involve sending, at the user's expense, by fax, email or otherwise, identification documents and information relating to the user's finances and operations (for example, the most recent financial statements and summary of monthly activities).
+Indemnification and Limitation of Liability
+In this section and in the section relating to "intellectual property", we use the term "PayPal" to refer to PayPal (Europe) S. à r.l.
+et Cie, S.C.A., to the parent company PayPal Holdings, Inc.,
+to its affiliates and anyone who works for them or is authorized to act on their behalf.
+Affiliated companies include any company controlled by PayPal, by which PayPal is controlled or which is jointly controlled with PayPal by the same entity.
+Individuals who work for PayPal or its affiliates or who are authorized to act on behalf of either PayPal include any director, officer, employee, agent, joint venture participant, service provider and supplier of PayPal or of its affiliates.
+Compensation
+You are required to indemnify PayPal for actions related to your PayPal account and the use of PayPal services.
+You agree to defend, refund and hold PayPal harmless from any and all claims or requests (including reasonable attorney's fees) made or suffered by any third party as a result of the following:
+Violation of these Terms of Use by the user.
+Misuse of PayPal Services by the User.
+Violation of any law or the rights of third parties by the user.
+Actions or omissions by third parties to which the user grants permissions to use their PayPal account or to access websites, software and systems (including any networks and servers used for the provision of PayPal services ) managed by or on behalf of PayPal or for accessing PayPal services on behalf of the user.
+Limitation of Liability
+PayPal's liability is limited with respect to your PayPal account and your use of PayPal services.
+PayPal cannot be held responsible under any circumstances for:
+Direct or indirect loss of profits.
+Accidental, indirect or specific damages (including, without limitation, damages resulting from loss of data or business opportunities)
+arising from or related to websites, software and systems (including any networks and servers used to provide PayPal services) operated by or on behalf of PayPal, to any PayPal service or to these Terms of Use (whatever the cause, including negligence), where permitted by applicable law.
+PayPal's liability to: You or any third party; it is limited in any case to the actual amount of direct damages (excluding losses of direct profits), where permitted by applicable laws.
+Further, where permitted by applicable law, PayPal assumes no liability, and you agree that you will not hold PayPal liable, for any damages or losses (including, without limitation, loss of money, intrinsic value, reputation, profit or otherwise intangible losses or special, indirect or consequential damages) deriving directly or indirectly from:
+Your use or inability to use websites, software and systems (including any networks and servers used to provide PayPal services) operated by or on behalf of PayPal or any PayPal service.
+Service delays or interruptions regarding websites, software, systems (including any networks and servers used for the provision of PayPal services) managed by or on behalf of PayPal, and any PayPal service.
+Viruses or other malicious software installed by accessing websites, software and systems (including any networks and servers used for the provision of PayPal services) operated by or on behalf of PayPal, any PayPal service or any website or service linked to the sites , to PayPal software or services.
+Technical problems, bugs, errors or inaccuracies of any kind relating to websites, software and systems (including any networks and servers used for the provision of PayPal services) managed by or on behalf of PayPal or to any PayPal service or contained in the information and in the available charts.
+Third Party Content, Actions or Omissions.
+A suspension or other action taken in connection with your PayPal account.
+Your need to change your practices, content or behavior, or loss of business opportunities or your inability to do business as a result of changes to these Terms of Use or PayPal's rules.
+Absence of guarantee
+PayPal services are provided "as is" and without any express, implied or legal warranties.
+PayPal expressly disclaims any implied warranties of:
+Title
+Marketability
+Fitness for a specific purpose
+Non-violation
+PayPal has no control over the products or services provided by sellers who accept PayPal as a payment method and cannot guarantee that a buyer or seller dealing with you will complete the transaction or is authorized to do so.
+PayPal does not guarantee continuous, uninterrupted or secure access to any part of the PayPal services.
+The use of websites, software and systems (including any networks and servers used to provide PayPal services) operated by or on behalf of PayPal may be hindered by various factors beyond PayPal's control.
+PayPal will make every effort to ensure timely processing of requests relating to electronic debit and credit transactions involving bank accounts, debit cards, credit cards and check issuances, but PayPal makes no representations or warranties as to the time required. to complete processing, as services depend on many factors beyond your control, such as delays in the banking system or the international postal service.
+Some countries do not allow the exclusion of implied warranties, so the above disclaimers may not apply to you.
+PayPal cannot guarantee the accuracy of information contained in PayPal correspondence, reports, website and verbal communications from PayPal administrators, officers and staff in all contexts and circumstances, and you should not do reliance on them.
+You are required to carefully check your correspondence and promptly notify PayPal of any abnormal circumstances or events that do not comply with the instructions provided.
+PayPal disclaimer
+In the event of a dispute between you and another PayPal account holder, you release PayPal from any liability relating to:
+Complaints
+Requests
+Damage (actual and indirect)
+of any kind and nature, known and unknown, deriving from or in any way connected to this dispute.
+By accepting this disclaimer, the user expressly waives all protections that would limit the scope of application, with the exception of those only for complaints that the user is aware of or suspects exist in his favor at the time of acceptance. of said exemption.
+Only you (not PayPal) are responsible for understanding and complying with all laws, rules and regulations that may apply in your jurisdiction regarding the use of PayPal services (including, but not limited to, regulated activities, activities subject to a license, export or import business, tax or foreign currency transaction).
+Intellectual property
+PayPal Trademarks
+"PayPal.com", "PayPal" and all logos relating to PayPal services are trademarks or registered trademarks of PayPal or its licensors.
+The user is prohibited from copying, imitating, modifying or using them without the prior written consent of PayPal.
+Additionally, all page headers, custom graphics, button icons, and scripts are service marks, trademarks, and / or image hallmarks of PayPal.
+The user is prohibited from copying, imitating, modifying or using them without the prior written consent of PayPal.
+The user can use the HTML logos provided by PayPal in order to direct web traffic to PayPal services.
+The user is not authorized to make any alteration, modification or change to the HTML logos, and may not use them in a disparaging way against "PayPal" and the PayPal services or display them in a way that suggests sponsorship or approval by PayPal.
+All rights, titles and interests in and to the PayPal websites, whatever their content, the PayPal services, the technology of these services and all technologies and content created or deriving from the foregoing are owned exclusively by PayPal and its licensors.
+Licensing, in general
+To you who use PayPal software, such as an API, developer toolkit or other software application, which may include software provided by our service providers or integrated with the software, systems or services of the same suppliers, that you have downloaded or otherwise accessed via a web or mobile platform, PayPal grants a revocable, non-exclusive, non-sublicensable, non-transferable, and free of charge limited license to access and / or use PayPal's software in accordance with documentation accompanying such software.
+This license grant applies to the software and all updates, upgrades, new versions and replacement software.
+You may not rent or otherwise transfer your rights relating to the software to third parties.
+You must comply with the implementation, access and use requirements contained in the documentation accompanying the PayPal services.
+In the event of failure to comply with the requirements for implementation, access and use, the user will be responsible for all damages caused to himself, to PayPal or to third parties.
+PayPal may update or discontinue use of any software upon notification to the user.
+Although PayPal may (1) integrate certain third-party materials and technologies into any web application or other application, including its own software, and / or (2) access certain third-party materials and technologies and use them to facilitate the provision of services PayPal, this right for or on such third party materials has not been granted to the user, who therefore cannot enjoy them.
+You agree not to modify, alter, tamper with, repair, copy, reproduce, adapt, distribute, display, publish, reverse engineer, translate, disassemble, decompile or otherwise attempt to create source code derived from the software or other materials or third party technologies, or otherwise create derivative works of any third party software or materials or technologies.
+You acknowledge that all rights, titles and interests in the PayPal software are owned by PayPal and any third party material incorporated therein is owned by PayPal's external service providers.
+Any other third party software application used by you on PayPal's websites is subject to the license signed between you and the third party who provided the software in question.
+You agree that PayPal does not own, control or assume any responsibility for any third party software applications that you choose to use on the sites, software and / or in connection with PayPal services.
+Your License Grant to PayPal and Intellectual Property Warranties
+PayPal does not claim ownership of any content that you provide, upload, submit or send to PayPal.
+Similarly, PayPal does not claim ownership of content hosted on third party websites or applications that use PayPal services to provide payment services related to your content.
+Without prejudice to the next paragraph, when providing content to PayPal companies or publishing content through PayPal services, the user grants PayPal (and third parties collaborating with PayPal) a non-exclusive, irrevocable, free, transferable and valid worldwide for the use of its content and associated advertising and intellectual property rights to help us improve, manage and promote current PayPal services and develop new ones.
+PayPal does not pay the user any compensation for its contents.
+You acknowledge that PayPal's use of your content does not infringe any intellectual property or advertising rights.
+Furthermore, the user acknowledges and warrants that he owns or otherwise controls all rights in the content provided, agrees to waive moral rights and undertakes not to claim them against PayPal.
+Vendor License Grant to PayPal
+Without prejudice to the provisions set out in the previous paragraph, as a seller who uses PayPal services to accept payments for goods and services, during the entire period of validity of these Terms of Use, the user grants PayPal the valid right in worldwide, non-exclusive, transferable, sublicensable (through different levels), free of charge and fully paid, to publicly use and display their brand (s) (including, but not limited to, registered and unregistered trademarks, trade names , service marks, logos, domain names and other designations owned, licensed or used by you) for the purpose of (1) identifying you as a merchant who accepts PayPal services as a form of payment and (2) to any other use to which the user expressly consents.
+Various
+Assignment
+You may not transfer or assign any rights or obligations assumed under these Terms of Use without the prior written consent of PayPal.
+PayPal may transfer or assign these Terms of Use or any rights or obligations arising therefrom at any time.
+Applicable law
+These Terms of Use and the relationship between PayPal and you are governed by the laws of England and Wales.
+However, if the user is a consumer, nothing contained in these Terms of Use will deprive him of the protections guaranteed by the mandatory provisions of Italian law (in particular those relating to consumer rights).
+Any claims between PayPal and the sellers arising out of or associated with these Terms of Use or the provision of PayPal services and not otherwise resolvable, will be subject to the non-exclusive jurisdiction of the English and Welsh courts, without prejudice to the right of the sellers to initiate proceedings. against PayPal in a competent court in Luxembourg.
+The above does not affect PayPal's right to appeal to the competent Italian court requesting the issuance of an injunction for the recovery of fees owed by the sellers.
+With reference to disputes with consumers, the relevant non-derogable legislation on jurisdiction and applicable law applies.
+The court of the consumer's place of residence or domicile is the one competent for complaints involving consumers.
+Privacy
+It is very important for PayPal to protect your privacy.
+To better understand PayPal's commitment to protecting your privacy, as well as how PayPal follows for disclosing and using your data, see the Privacy Statement.
+Languages ​​and translation of the Terms of Use
+PayPal will communicate with the user only in Italian.
+These Terms of Use are stipulated only in Italian.
+Any translation of these Terms of Use is provided for convenience only and is not intended to change the terms of the document.
+Use by the user (as a seller) of personal data and data protection laws
+If you (as a seller) receive personal data about another PayPal customer, you must keep it confidential and use it exclusively in connection with PayPal services.
+The user may not disclose or distribute personal data concerning PayPal customers to third parties or use them for marketing purposes unless the interested parties give their explicit consent.
+You may not send unsolicited emails to a PayPal customer or use PayPal services to collect payments for sending or assisting in sending unsolicited emails to third parties.
+To the extent that the user processes the personal data of a PayPal customer pursuant to these Terms of Use, the user and PayPal will be independent data controllers (rather than joint controllers), or each of them will separately determine the purposes and means of processing such personal data.
+You and PayPal agree to act in accordance with applicable privacy and data protection legal requirements, including the rules, directives, codes of conduct and regulatory requirements applicable to data controllers in relation to these Terms. of use.
+The user and PayPal will have and will comply with the provisions of their privacy statements, communications, rules and procedures established independently in relation to the personal data processed by the user and by PayPal relating to these Terms of Use.
+In compliance with applicable data protection laws, the user and PayPal undertake to:
+Adopt and manage all appropriate security measures in relation to the processing of such personal data.
+Keep track of all processing activities carried out under these Terms of Use; And
+Do not take or allow any action to be taken, knowingly or deliberately, that could involve the other party in a violation of applicable data protection laws.
+The personal data collected by the user relating to the PayPal services (and not generated, collected or obtained by the user in any other way through a separate relationship with the customer that is not connected to the use of the PayPal services) will be used by the user only in the to the extent necessary and relevant to PayPal services and for no other purpose, unless the customer has provided the user with prior explicit consent.
+Full Terms of Use and Third Party Rights
+These Terms of Use constitute the entire agreement between you and PayPal regarding the PayPal service.
+If any provision of these Terms of Use is found to be invalid or unenforceable, that provision will be deleted and the remaining provisions will continue to apply.
+Under the United Kingdom Contracts (Rights of Third Parties) Act 1999, a person who is not a party bound by these Terms of Use is not entitled to avail or enforce the terms of these Terms (except third parties that fall within the definition of "PayPal" under the Indemnification and Limitation of Liability section above, with respect to their respective rights under these Terms of Use), but this does not affect any third party right or remedy that exists or is available to regardless of the Contracts Act.
+PayPal as a login method
+PayPal may allow you to authenticate with PayPal to access certain external websites or mobile apps.
+For this purpose, PayPal may share the user's login status with a third party, to allow them to log in in this way, as well as providing personal and other account data that the user agrees to share in order to be recognized by the third party. part.
+PayPal does not grant the third party access to the user's account and will make payments from the user's account to the third party only upon specific instruction and authorization of the user.
+If you allow visitors to authenticate through PayPal when they access your site, app or accounts, you must accept all specific terms that apply when this feature is made available to you and must comply with any requirements included in the guidelines or in the integration manual.
+PayPal does not guarantee or confirm in any way the identity of the subjects who choose to use this access method.
+PayPal does not share any personal or other account data (such as login status) that you have acquired with you unless you have received your consent to disclose them.
+Corporate customers
+When referring to "PSD2" in this section it means the second European Union Payment Services Directive ((EU) 2015/2366).
+PayPal considers you a "corporate customer" if, at the date of signing these Terms of Use, you are not:
+A consumer (i.e. a person acting for purposes other than commercial, business or professional).
+A micro-enterprise (i.e. a company with fewer than 10 employees and an annual budget that does not exceed € 2 million).
+If you are a corporate customer, PayPal may not apply certain provisions of the PSD2 directive to you for the use of PayPal services.
+If the user is a corporate customer:
+You are not entitled to refunds for automatic debit payments.
+When you encounter a problem, you have up to 60 (sixty) days from the date it occurred to report it to PayPal, after which PayPal will have no obligation to investigate the matter and issue a refund.
+PayPal is under no obligation to comply with the information requirements set out in Title III of the PSD2 Directive and equivalent in any application of PSD2 in the Member States of the European Economic Area, which may be applicable to you ("PSD2 transpositions").
+Articles 72 and 89 of the PSD2 directive and the equivalent provisions in the transpositions of the PSD2 do not apply to the use of the PayPal service by the user or, even in cases where these Terms of Use may indicate otherwise, PayPal is not liable for any loss or damage that you may suffer under these articles and provisions.
+Section numbers and defined terms
+If other documents (for example, terms and conditions) refer to section numbers or terms defined in these Terms of Use, please refer to the Terms of Use Reference Notes to find their provision or definition.

@@ -1,0 +1,303 @@
+Condizioni del servizio dell'app Kardia
+Il sito Web situato su alivecor.com (il “Sito") appartiene ad AliveCor, Inc. (“
+AliveCor”, “noi” o “ci”).
+Come indicato di seguito, AliveCor ti concede il diritto di utilizzare il Sito, le nostre applicazioni software, tra cui, a titolo esemplificativo ma non esaustivo, Kardia (collettivamente “Software” o “App") e i servizi forniti attraverso il Sito o il Software (collettivamente , il”Servizio"), secondo i termini e condizioni d'uso (“Condizioni del servizio”) esposti di seguito.
+Il termine “tu”, o “utente”, si riferisce alla persona che visita il Sito.
+LEGGERE ATTENTAMENTE LE PRESENTI CONDIZIONI DEL SERVIZIO.
+FACENDO CLIC SU “ACCETTO” O ACCEDENDO AL SERVIZIO, L'UTENTE ACCETTA DI ESSERE VINCOLATO ALLE CONDIZIONI DEL SERVIZIO.
+SE NON DESIDERA ESSERE VINCOLATO DA QUESTE CONDIZIONI DEL SERVIZIO, L’UTENTE NON DEVE ACCEDERE O UTILIZZARE IL SERVIZIO.
+ACCETTANDO LE PRESENTI CONDIZIONI O UTILIZZANDO IL SERVIZIO, L'UTENTE RICONOSCE DI AVER LETTO, COMPRESO E ACCETTATO DI ESSERE VINCOLATO DAI SEGUENTI TERMINI E CONDIZIONI, INCLUSA L'INFORMATIVA SULLA PRIVACY. (
+COLLETTIVAMENTE, LE “CONDIZIONI").
+Se l'utente non è idoneo, oppure non accetta le Condizioni, non è autorizzato a utilizzare il Servizio.
+IL SERVIZIO È DISPONIBILE PER GLI UTENTI DI KARDIA NEGLI STATI UNITI D'AMERICA (USA), AUSTRALIA, ARUBA, CANADA, FRANCIA, GERMANIA, HONG KONG, INDIA, IRLANDA, ITALIA, GIAMAICA, PAESI BASSI, SPAGNA, TRINIDAD, TOBAGO E REGNO UNITO.
+IL SERVIZIO HA IL SOLO SCOPO DI REGISTRARE, VISUALIZZARE, MEMORIZZARE E TRASMETTERE ELETTROCARDIOGRAMMI ("DATI ECG").
+L'UTENTE DEL SERVIZIO È RESPONSABILE PER I DATI ECG REGISTRATI E MEMORIZZATI DAL SERVIZIO.
+IL SERVIZIO NON È PROGETTATO PER DIAGNOSTICARE PATOLOGIE CARDIACHE O AVVISARE AUTOMATICAMENTE I PROFESSIONISTI SANITARI O I PAZIENTI DI PATOLOGIE CARDIACHE O CARDIOVASCOLARI O ARITMIE ANOMALE POTENZIALMENTE GRAVI.
+IL SERVIZIO NON È DESTINATO AL MONITORAGGIO CONTINUO E NON GARANTIAMO UNA RISPOSTA DA PARTE DI QUALSIASI MEDICO A MESSAGGI PUBBLICATI O EVENTI MEDICI SEGNALATI ATTRAVERSO IL SERVIZIO.
+SEBBENE ALIVECOR POSSA CONSENTIRE DI UTILIZZARE UN SERVIZIO OPZIONALE DI INTERPRETAZIONE DELL'ECG O CONNETTERE L’ACCOUNT DELL’UTENTE A UN OPERATORE SANITARIO ATTRAVERSO IL SERVIZIO KARDIA PRO, NON RIVEDE, MONITORA, VALUTA O ANALIZZA AUTOMATICAMENTE LE INFORMAZIONI GENERATE DAL SERVIZIO.
+L'UTENTE HA LA RESPONSABILITÀ DI PRESENTARE I DATI MEDICI AL PROPRIO MEDICO PER L'ANALISI E LA DIAGNOSI CORRETTA.
+Se non ci si trova in una giurisdizione che vieta l'uso esclusivo dell'arbitrato per la risoluzione delle controversie, le presenti Condizioni prevedono che tutte le dispute tra l'utente e AliveCor saranno risolte mediante ARBITRATO VINCOLANTE.
+L'UTENTE ACCETTA DI RINUNCIARE AL DIRITTO DI RIVOLGERSI A UN TRIBUNALE per far valere o difendere i propri diritti ai sensi del presente contratto, tranne che per le questioni che possono essere portate davanti a un giudice di pace.
+I diritti dell'utente saranno stabiliti da un ARBITRO NEUTRALE e NON da un giudice o una giuria e le rivendicazioni dell'utente non possono avere forma di class action.
+Consultare l'articolo 24 (“Risoluzione delle controversie e arbitrato”) per i dettagli relativi all'accettazione, da parte dell'utente, sull'arbitrato delle dispute con AliveCor.
+Uso del Servizio.
+Il Servizio è destinato esclusivamente per consentire di caricare, visualizzare, condividere con il proprio medico e utilizzare alcuni dati relativi all'utente, così come messi a disposizione dal Servizio.
+Non è consentito accedere o utilizzare il Servizio per qualsiasi altro scopo.
+È possibile utilizzare il servizio, compresi tutti i dati presentati all'utente sul Servizio o dal Servizio, o comunque ospitati o memorizzati da AliveCor per l'utente, solo per conto dell'utente e per scopi leciti e adeguati, e subordinatamente al pieno rispetto delle presenti Condizioni e di altre linee guida e politiche applicabili al Servizio, che AliveCor può pubblicare di tanto in tanto.
+Idoneità.
+Per utilizzare il Servizio, occorre aver compiuto i 18 anni di età.
+Accettando le presenti Condizioni, l'utente dichiara e garantisce a noi che: (a) ha compiuto i 18 anni di età; (b) non è stato, in precedenza, sospeso o rimosso dal Servizio e (c) la registrazione e l'uso del Servizio sono conformi a tutte le leggi e le normative applicabili nella propria giurisdizione.
+Se utilizza il Servizio per conto di un'entità, organizzazione o azienda, l'utente dichiara e garantisce di avere l'autorità necessaria per vincolare detta organizzazione alle presenti Condizioni e accetta di essere vincolato dalle presenti Condizioni per conto di detta organizzazione.
+Account e registrazione.
+Per accedere alla maggior parte delle funzionalità del Servizio, occorre registrare un account.
+Quando si effettua la registrazione di un account, all'utente può essere richiesto di fornire informazioni personali come il nome, l'indirizzo e-mail, la password, il sesso, l’altezza o la data di nascita.
+L’utente può scegliere di fornirci ulteriori informazioni.
+L'utente accetta che le informazioni fornite debbano essere accurate, e di mantenerle sempre accurate e aggiornate.
+Al momento della registrazione, viene richiesto di specificare una password.
+L'utente ha la responsabilità esclusiva di mantenere la riservatezza di account e password e accetta la responsabilità per tutte le attività che vengono effettuate con il proprio account.
+Se l'utente ha motivo di ritenere che l'account non è più sicuro, deve immediatamente comunicarlo all'indirizzo e-mail support@alivecor.com.
+L'account può scadere automaticamente dopo un periodo di inattività superiore a dodici (12) mesi consecutivi.
+Pagamento.
+L'accesso al Servizio o a talune funzionalità del Servizio può essere a pagamento.
+Prima di pagare qualsiasi importo, l'utente può rivedere e confermare l'importo che sarà addebitato.
+Tutti gli importi sono non rimborsabili nella misura massima consentita ai sensi della legge applicabile.
+Se AliveCor modifica gli importi relativi al Servizio, inclusa l'aggiunta di costi o spese aggiuntive, ne darà relativo preavviso.
+Se l'utente non accetta le spese, AliveCor può interrompere la fornitura del Servizio.
+AliveCor addebiterà gli importi secondo il metodo specificato al momento dell'acquisto.
+L'utente autorizza AliveCor ad addebitare tutti gli importi indicati nelle presenti Condizioni, per il Servizio selezionato, secondo detto metodo di pagamento.
+Se l'utente paga qualsiasi importo con una carta di credito, AliveCor può chiedere la pre-autorizzazione del conto relativo alla carta di credito prima dell'acquisto, al fine di verificare che la carta di credito sia valida e disponga dei fondi necessari a coprire l'acquisto.
+Il Servizio può includere funzionalità per l'attivazione, l'aggiornamento o l'annullamento dei pagamenti ricorrenti per gli addebiti periodici.
+Se si attivano o si aggiornano i pagamenti ricorrenti tramite il Servizio, si autorizza AliveCor ad addebitare periodicamente, fino al momento della cancellazione dei pagamenti ricorrenti o dell'account, tutte le somme maturate alla data di scadenza del pagamento delle somme maturate, o precedentemente.
+Se si utilizza il Servizio per aggiornare o annullare un pagamento una tantum o ricorrente autorizzato esistente, tale aggiornamento o annullamento potrebbe richiedere diversi giorni lavorativi affinché abbia effetto.
+AliveCor non raccoglie o archivia informazioni finanziarie come definito nell'Informativa sulla privacy.
+Licenza.
+AliveCor possiede e gestisce il servizio.
+I documenti e altre informazioni e contenuti disponibili sul Servizio (il “Contenuto del sito") sono protetti da copyright e da altre leggi sulla proprietà intellettuale in tutto il mondo.
+Tutti i copyright e altri avvisi di proprietà su qualsiasi Contenuto del Sito devono essere conservati su qualsiasi copia prodotta.
+Qualsiasi riproduzione, modifica, distribuzione, visualizzazione pubblica o esecuzione pubblica non autorizzata di qualsiasi Contenuto del sito è severamente vietata.
+AliveCor ei suoi fornitori si riservano tutti i diritti non concessi in queste Condizioni.
+Fatte salve le restrizioni di cui alle presenti Condizioni, AliveCor concede all'utente una licenza limitata, non esclusiva, non trasferibile, non concedibile in sublicenza e revocabile, per installare e utilizzare l'App in formato codice oggetto sui dispositivi che possiede o di cui ha il controllo, solo per utilizzare i Servizi.
+Scaricando o utilizzando l'app o le app, l'utente:
+Riconosce che l'app è concessa in licenza e non venduta e
+Riconosce che potrebbero essere applicati condizioni e costi di terze parti per l'utilizzo e il funzionamento del dispositivo portatile in connessione con l'utilizzo dell'app, come ad esempio le condizioni del proprio gestore di servizi e le spese per il servizio di telefonia, l'accesso ai dati o la funzionalità di messaggistica.
+L'utente riconosce inoltre di essere l'unico responsabile per il pagamento di tutte tali spese.
+Servizio di interpretazione clinica.
+Disposizioni generali.
+Il servizio di interpretazione clinica di AliveCor (il “Servizio di interpretazione clinica") è una risorsa di terze parti in partnership con AliveCor che consente di importare, visualizzare e interpretare correttamente i dati.
+Il Servizio di interpretazione clinica comunica ad AliveCor tutti i risultati relativi ai dati e AliveCor rende tali risultati disponibili all'utente all'interno del Servizio.
+Accettando le presenti Condizioni, l'utente accetta di essere iscritto al Servizio di interpretazione clinica, sebbene l'utilizzo di tale Servizio sia facoltativo.
+All'utente vengono addebitati costi quando e se utilizza uno dei Servizi di interpretazione clinica.
+AliveCor si riserva il diritto di cambiare i fornitori del Servizio di interpretazione clinica o di interrompere una o più offerte del Servizio di interpretazione clinica.
+Report.
+L'utente può utilizzare il Servizio per generare report o risultati di AliveCor utilizzando i propri dati.
+Tutti i report forniti da AliveCor e da qualsiasi Servizio di interpretazione clinica non suggeriscono una diagnosi.
+Il report interpretato è inteso come informazioni per l'utente ed è destinato a essere utilizzato come uno strumento da parte del medico per fornire una corretta diagnosi e trattamento, tenendo in considerazione l'anamnesi completa dell'utente.
+La diagnosi basata sui dati può essere effettuata unicamente dal medico.
+L'utente ha la responsabilità di presentare i dati medici al proprio medico per l'analisi e la diagnosi corretta.
+Registrazioni ECG.
+L'utente può ottenere una registrazione ECG dal proprio dispositivo in qualsiasi momento.
+Le registrazioni ECG dell'utente sono soggette a diversi fattori correlati alla propria salute e alle proprie attività.
+AliveCor e i fornitori dei Servizi di interpretazione clinica non rilasciano alcuna garanzia sulla precisione o sul significato clinico dell'interpretazione dei dati.
+Si prega di notare che il proprio medico potrebbe non essere d'accordo con l'interpretazione dei dati.
+Se l'utente decide di utilizzare uno dei Servizi di interpretazione clinica, noi condivideremo le sue informazioni dopo aver ricevuto l'autorizzazione attraverso il Servizio.
+Limitazioni.
+Date le limitazioni legate alla telemedicina, la giurisdizione locale potrebbe limitare la capacità di fruire del Servizio di interpretazione clinica.
+Dal momento che l'utente utilizza un dispositivo mobile per la raccolta dei dati, ha la responsabilità di accertarsi che il Servizio di interpretazione clinica sia legale ai sensi della legge sulla telemedicina locale.
+Servizio di monitoraggio personalizzato.
+In alcune circostanze, AliveCor può fornire all'utente notifiche o azioni consigliate in base all'analisi di AliveCor dei dati storici e di altre informazioni fornite ad AliveCor, come “farmaci”, “sintomi” o “attività”.
+Ad esempio, AliveCor può suggerire all'utente di inviare periodicamente i propri dati al Servizio di interpretazione clinica per il monitoraggio continuo della salute cardiaca.
+Tali notifiche o azioni suggerite, o la loro mancanza, non sono un'indicazione della salute dell'utente, né si propongono di sostituire il parere del medico.
+L'utente ha la responsabilità di presentare i propri dati al medico e di decidere con quest'ultimo il corso d'azione ottimale in base alla propria anamnesi.
+AliveCor consente anche di programmare promemoria attraverso il Servizio, ad esempio per ricordare di assumere farmaci.
+AliveCor non rilascia alcuna dichiarazione circa l'accuratezza, l'affidabilità, la completezza o la tempestività di eventuali notifiche push, dal momento che alcune parti del processo sono al di fuori del controllo di AliveCor.
+L'utente accetta di affidarsi a tali promemoria a proprio rischio e AliveCor esclude ogni responsabilità derivante dal loro utilizzo.
+L'utente accetta che AliveCor può inviare notifiche push al proprio dispositivo mobile per scopi correlati al Servizio o per scopi di marketing, se abilitati e in conformità con l'Informativa sulla privacy.
+L'utente può disattivare le notifiche push dalle impostazioni del dispositivo.
+Dichiarazioni e garanzie dell'utente.
+Kardia e gli utenti di Kardia Pro dichiarano, garantiscono e pattuiscono con AliveCor di essere residenti negli Stati Uniti, Anguilla, Australia, Aruba, Austria, Bahrain, Belgio, Canada, Chile, Francia, Germania, Hong Kong, Ungheria, India, Irlanda, Israele, Italia, Giamaica, Kuwait, Lussemburgo, Malto, Paesi Bassi, Nuova Zelanda, Norvegia, Oman Pakistan Polonia, Qatar, Spagna, Svizzera, Trinidad, Tobago Regno Unito o nel Emirati Arabi Uniti.
+L'utente dichiara, garantisce e pattuisce con AliveCor quanto segue: (1) che le presenti Condizioni sono stati sottoscritti dall'utente e costituiscono un contratto valido e vincolante con l'utente, applicabile conformemente alle loro condizioni; (2) se utilizza il servizio per conto di un'altra entità, di essere un rappresentante autorizzato di tale entità e di avere l'autorità e accettare di vincolare l'entità alle presenti Condizioni; (3) di non accedere o utilizzare il Servizio ad eccezione di quanto espressamente consentito dalle presenti Condizioni e da eventuali informazioni aggiuntive, linee guida o politiche pubblicate da AliveCor, comprese quelle pubblicate nel Servizio; (4) di accedere e utilizzare il Servizio nel pieno rispetto della normativa vigente e (5) che tutte le informazioni, i dati e gli altri materiali forniti dall'utente a supporto della registrazione dell'account sono accurati e veritieri in tutti gli aspetti.
+Contenuto dell'utente
+Contenuto generale dell'utente.
+Alcune caratteristiche del Servizio possono consentire all'utente, al proprio fornitore di assistenza sanitaria o ad altri utenti di caricare contenuti nel Servizio, compresi messaggi, immagini, dati, testo, informazioni sulla posizione e altri tipi di informazioni ("Contenuto dell'utente") e di pubblicare tale Contenuto dell'utente nel Servizio.
+L'utente conserva i diritti d'autore, inclusi eventuali diritti morali e qualsiasi altro diritto di proprietà che l'utente può detenere nel Contenuto dell’utente che invia al Servizio; a condizione che, se si sceglie di collegare il proprio account al servizio Kardia Pro o ai sistemi informativi offerti dal proprio operatore sanitario, i dati forniti al proprio operatore sanitario potrebbero diventare parte del proprio archivio sanitario e tale copia potrebbe essere di proprietà e/o controllata dal proprio operatore sanitario in base alla legge applicabile.
+Concessione di licenza limitata ad AliveCor.
+Postando o pubblicando Contenuto dell'utente, l'utente concede ad AliveCor i diritti e una licenza perpetua, irrevocabile, mondiale, non esclusiva, royalty-free, interamente pagata, trasferibile (con diritto di concessione in sublicenza) per utilizzare, ospitare, memorizzare, trasferire, visualizzare, eseguire, riprodurre, modificare, creare opere derivate e distribuire il Contenuto dell'utente, interamente o in parte, per qualsiasi scopo in conformità con la nostra Informativa sulla privacy, in qualsiasi formato e attraverso qualsiasi canale attualmente noto o sviluppato in futuro.
+Possiamo anche creare dati e immagini anonime dal Contenuto dell'utente; tali dati e immagini non faranno più parte del Contenuto dell'utente.
+L'utente rinuncia in modo irrevocabile e perpetuo a qualsiasi diritto che possa avere in relazione al Contenuto dell'utente alterato o manipolato secondo modalità che l'utente possa ritenere discutibili.
+AliveCor si riserva il diritto di rifiutare di accettare, pubblicare, visualizzare o trasmettere qualsiasi Contenuto dell'utente a sua esclusiva discrezione.
+Concessione di licenza limitata ad altri utenti.
+Pubblicando o condividendo il Contenuto dell'utente con altri utenti del Servizio, o connettendo l’account al proprio operatore sanitario attraverso il servizio Kardia Pro, l'utente concede a tali utenti e/o all’operatore sanitario una licenza non esclusiva per accedere e utilizzare tale Contenuto dell'utente come consentito dalle presenti Condizioni e dalla funzionalità del Servizio.
+Dichiarazioni e garanzie del Contenuto dell'utente.
+L'utente ha la responsabilità esclusiva per il proprio Contenuto dell'utente e per le conseguenze della pubblicazione dello stesso.
+Postando o pubblicando Contenuto dell'utente, l'utente afferma, dichiara e garantisce:
+di essere l'autore e il proprietario del Contenuto dell'utente o di possedere le licenze, i diritti, le autorizzazioni e i permessi necessari per autorizzare AliveCor e gli utenti del Servizio a utilizzare e distribuire il Contenuto dell'utente come necessario per esercitare le licenze concesse dall'utente in questo articolo, nella maniera contemplata da AliveCor, dal Servizio e dalle presenti Condizioni, e
+che il Contenuto dell'utente e l'uso dello stesso, così come contemplato dalle presenti Condizioni, non: (i) infrangono, violano o si appropriano indebitamente di alcun diritto di terze parti, inclusi eventuali diritti d'autore, marchi, brevetti, segreti commerciali, diritti morali, diritti alla privacy, diritti di pubblicità, o qualsiasi altro diritto di proprietà intellettuale o diritto di proprietà; (ii) calunniano, diffamano, denigrano o pregiudicano il diritto alla privacy, pubblicità o altri diritti di proprietà di qualsiasi altra persona; o (iii) comportano la violazione di leggi o regolamenti da parte di AliveCor.
+L'utente accetta di pagare tutte le royalty, le spese e le altre somme dovute a qualsiasi persona a causa del Contenuto dell'utente pubblicato su o tramite il Servizio.
+Esclusione di responsabilità relativa al Contenuto dell'utente.
+Non abbiamo alcun obbligo di modificare o controllare il Contenuto dell'utente postato o pubblicato dagli utenti e non abbiamo alcuna responsabilità in merito allo stesso.
+AliveCor può, tuttavia, in qualsiasi momento e senza preavviso, filtrare, rimuovere, modificare o bloccare qualsiasi Contenuto dell'utente che a suo insindacabile giudizio violi le presenti Condizioni o che sia altrimenti discutibile.
+L'utente riconosce che quando utilizza il Servizio sarà esposto a Contenuto dell'utente proveniente da diverse fonti e accetta che il Contenuto dell'utente può essere impreciso, offensivo, indecente o discutibile.
+Nella misura massima consentita dalla legge applicabile, l'utente accetta di rinunciare, e rinuncia, a qualsiasi diritto legale o equo o rimedio a disposizione contro AliveCor rispetto al Contenuto dell'utente.
+Escludiamo espressamente qualsiasi responsabilità in relazione al Contenuto dell'utente nella misura massima consentita dalla legge applicabile.
+Qualora venissimo informati da un utente o proprietario di contenuto che un Contenuto dell'utente potrebbe non rispettare le presenti Condizioni, potremmo effettuare indagini in relazione all'accusa e decidere, a nostra esclusiva discrezione, di rimuovere il Contenuto dell'utente, diritto che ci riserviamo di esercitare in qualsiasi momento e senza preavviso.
+Procedura relativa a Contenuto dell'utente illegale
+Se si ritiene che un Contenuto dell'utente non rispetti le presenti Condizioni, si prega di contattarci.
+Rispettiamo le disposizioni del Digital Millennium Copyright Act (il “DMCA”) applicabili alle nostre operazioni (17 U.S.C. §512 e successive modifiche).
+In caso di lamentele correlate a diritti di proprietà intellettuale in relazione a materiale pubblicato sul Servizio, è possibile contattare il nostro agente dedicato all'indirizzo seguente:
+AliveCor, Inc.
+ATTN: Legal Department (Copyright Notification)
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+Stati Uniti d'America
+650-396-8650
+E-mail: copyright@alivecor.com
+Si prega di notare che, ai sensi della legislazione applicabile, fornire consapevolmente informazioni false, fuorvianti o inesatte relative alla violazione del Contenuto dell'utente può comportare sanzioni civili o penali.
+Tutte le comunicazioni ai sensi del Digital Millennium Copyright Act (il “DMCA”) relative al fatto che i materiali ospitati da o distribuiti attraverso il Servizio violano i diritti di proprietà intellettuale devono includere tutte le informazioni richieste dal DMCA per tali avvisi.
+Violazioni ripetute.
+AliveCor sospenderà immediatamente e senza preavviso gli account degli utenti che AliveCor ritiene abbiano commesso “Violazioni ripetute".
+Un utente commette una violazione ripetuta se è stato informato di attività di violazioni o se il suo Contenuto dell'utente è stato rimosso dal Servizio almeno tre volte.
+Condotta non consentita.
+UTILIZZANDO IL SERVIZIO, L'UTENTE ACCETTA DI NON:
+utilizzare o accedere al Servizio (a) da una giurisdizione in cui tale utilizzo o accesso non è autorizzato, (b) per scopi illegali o (c) in violazione di qualsiasi legge locale, statale, nazionale o internazionale;
+condurre attività che possano essere dannose per altri individui o che possano danneggiare la reputazione di AliveCor;
+violare, o incoraggiare altri a violare, alcun diritto di terzi, anche attraverso la violazione o l'appropriazione indebita di diritti di proprietà intellettuale di terze parti, o rivelare informazioni personali relative a un'altra persona;
+pubblicare, caricare o distribuire link o contenuti di marketing o pubblicitari, o qualsiasi Contenuto dell'utente o altri contenuti illegali, diffamatori, calunniosi, imprecisi o che una persona ragionevole potrebbe ritenere essere discutibili, profani, indecenti, pornografici, molesti, minatori, imbarazzanti, astiosi o comunque inappropriati;
+utilizzare scraper, robot o altri dispositivi di raccolta dei dati su o tramite il Servizio, o elaborare o altrimenti fornire il Servizio a terze parti senza l'autorizzazione di AliveCor;
+interferire con le funzionalità di sicurezza del Servizio, tra cui: (a) disattivando o eludendo le caratteristiche che impediscono o limitano l'uso o la copia di qualsiasi contenuto; o (b) effettuando reverse engineering, decompilando o in altro modo tentando di scoprire il codice sorgente di qualsiasi parte del Servizio, comprese le app, se non nella misura in cui tale attività sia espressamente consentita dalla legge applicabile nonostante tale limitazione;
+interferire con il funzionamento del Servizio o la fruizione dello stesso da parte di qualsiasi utente, tra cui: (a) caricando o in altro modo diffondendo virus, adware, spyware, worm o altro codice maligno; (b) proponendo qualsiasi offerta non richiesta o pubblicità ad un altro utente del Servizio; (c) tentando di raccogliere informazioni personali, tra cui, a titolo esemplificativo, Dati ECG o altre informazioni sulla salute relative a un altro utente o a terzi senza il loro consenso; o (d) manomettendo o causando l'interruzione di qualsiasi rete, apparecchiatura o server connesso o utilizzato per fornire il Servizio, o violando qualsiasi regolamentazione, politica o procedura di tale rete, apparecchiatura o server;
+condurre attività fraudolente, tra cui impersonare una persona o entità, dichiarare false affiliazioni, accedere a qualsiasi altro Servizio o account senza autorizzazione o falsificare le informazioni fornite per la registrazione dell'account;
+modificare, tradurre, o creare lavori derivati, adattamenti o raccolte di, o basate su, il Servizio o parte di esso, oppure usare, copiare o riprodurre il Servizio o parte di esso diversamente da quanto espressamente consentito in queste Condizioni;
+cedere, concedere in sublicenza, concedere in leasing, vendere, concedere un interesse di sicurezza in o altrimenti trasferire l'accesso consentito ai sensi delle presenti Condizioni o qualsiasi materiale (come definito nell'articolo 15) o qualsiasi diritto o possibilità di visualizzare, accedere o utilizzare qualsiasi materiale, o
+tentare di effettuare una delle azioni descritte nell'articolo , oppure aiutare o consentire a una persona di effettuare una delle azioni descritte nell'articolo 10.
+Servizi di terze parti e siti Web correlati.
+Il Sito può contenere collegamenti ad altri siti Web gestiti da terze parti.
+Tali siti Web di terzi non sono sotto il controllo di AliveCor e non siamo responsabili per il contenuto di qualsiasi sito Web di terzi o di qualsiasi collegamento contenuto in un sito Web di terzi.
+AliveCor fornisce questi collegamenti solo per comodità e non rivede, approva, monitora, avalla, garantisce o rilascia alcuna dichiarazione in relazione a siti Web di terzi.
+AliveCor può fornire strumenti tramite il Servizio che consentono di esportare informazioni, tra cui, a titolo esemplificativo, Dati ECG e Contenuto dell'utente, ad applicazioni o servizi di terze parti come Google Fit o Apple Salute, o importare informazioni da tali applicazioni o servizi di terze parti, anche attraverso funzionalità che consentono di collegare il proprio account AliveCor con un account di un servizio di terze parti.
+Utilizzando uno di questi strumenti, l'utente dichiara, garantisce e accetta che tali trasferimenti sono consentiti dalla legge applicabile e che l'utente è autorizzato a, e che noi possiamo per conto dell'utente, trasferire dette informazioni da o verso il servizio di terze parti applicabile in conformità con l’Informativa sulla privacy.
+I servizi di terze parti non sono sotto il nostro controllo e noi non siamo responsabili per qualsiasi utilizzo delle informazioni esportate da parte dei servizi di terze parti.
+Se si attivano le caratteristiche del servizio che sono progettate per importare informazioni da tali servizi di terze parti, si autorizza e si concede ad AliveCor una licenza irrevocabile e perpetua per utilizzare tali informazioni importate e divulgarle a terzi, come il proprio operatore sanitario, in conformità alla nostra Informativa sulla privacy e alla legislazione applicabile.
+Il Servizio può anche contenere collegamenti a siti di terze parti.
+I siti Web collegati non sono sotto il nostro controllo e noi non siamo responsabili per il loro contenuto.
+Cessazione dell'uso; sospensione e modifica del Servizio.
+L'utente può rimuovere il proprio account in qualsiasi momento attenendosi alle procedure illustrate sul sito Web AliveCor oppure contattando il servizio clienti all'indirizzo support@alivecor.com.
+Se l'utente viola una delle disposizioni contenute nelle presenti Condizioni, l'autorizzazione da parte nostra a utilizzare il Servizio terminerà automaticamente.
+Inoltre, AliveCor può a sua esclusiva discrezione sospendere l'account dell'utente per il Servizio o sospendere o interrompere l'accesso al Servizio in qualsiasi momento se si viola una disposizione delle presenti Condizioni, se non forniamo più una qualsiasi parte dei Servizi o per qualsiasi altro motivo, con o senza preavviso.
+Ci riserviamo inoltre il diritto di modificare o interrompere il Servizio in qualsiasi momento (anche limitando o interrompendo alcune funzionalità del Servizio), temporaneamente o definitivamente, senza fornire preavviso all'utente.
+Nella misura massima consentita dalla legge applicabile, non ci assumiamo alcuna responsabilità in relazione a qualsiasi modifica al Servizio o a qualsiasi sospensione o interruzione dell'accesso o dell'utilizzo del Servizio da parte dell'utente, a condizione che se AliveCor cessa di fornire il Servizio e interrompe di conseguenza l'accesso al Servizio da parte dell'utente, quest'ultimo avrà diritto a un rimborso proporzionale degli importi pagati anticipatamente ad AliveCor per l'utilizzo del Servizio.
+Al momento della chiusura dell'account dell'utente o dello scioglimento del presente accordo per qualsiasi motivo, AliveCor può a sua discrezione eliminare tutti i dati associati all'account dell'utente.
+Informativa sulla privacy; condizioni aggiuntive
+Informativa sulla privacy.
+Si prega di leggere attentamente l'Informativa sulla privacy di AliveCor (“Informativa sulla privacy”) per tutte le informazioni correlate alle nostre modalità di raccolta, utilizzo, memorizzazione e divulgazione delle informazioni personali.
+L'Informativa sulla privacy di AliveCor è incorporata nelle presenti Condizioni mediante questo riferimento e ne è resa parte integrante.
+L'utente acconsente alla raccolta, all'hosting, all'utilizzo, alla divulgazione e agli altri tipi di trattamento o elaborazione dei propri dati personali (tra cui la condivisione dei dati con i fornitori terzi), così come descritto nell'Informativa sulla privacy.
+Condizioni aggiuntive.
+L'utilizzo del Servizio da parte dell'utente è soggetto a tutte le condizioni, le politiche, le regole o le linee guida aggiuntive applicabili al Servizio o ad alcune caratteristiche del Servizio che possiamo pubblicare o a cui possiamo rimandare dal Servizio (le “Condizioni aggiuntive"), quali gli accordi di licenza con l'utente finale per tutte le applicazioni software scaricabili, oppure regole che sono applicabili a una particolare funzione o contenuto del Servizio, ai sensi dell'articolo .
+Tutte le Condizioni aggiuntive sono incorporate nelle presenti Condizioni mediante questo riferimento e ne sono rese parte integrante.
+Modifiche alle presenti Condizioni.
+Ci riserviamo il diritto, a nostra discrezione, di modificare le presenti Condizioni in qualsiasi momento.
+Si prega di verificare le presenti Condizioni con frequenza periodica.
+Se una modifica alle presenti Condizioni cambia sostanzialmente i diritti o gli obblighi dell'utente (“Modifiche materiali”), comunicheremo le Condizioni modificate via e-mail all'indirizzo fornito nel profilo utente.
+Le Modifiche materiali entreranno in vigore dopo la loro accettazione da parte dell’utente.
+Le modifiche non sostanziali entrano in vigore al momento della pubblicazione.
+Le controversie derivanti dalle presenti Condizioni saranno risolte in conformità alla versione delle presenti Condizioni che era in vigore nel momento in cui è sorta la controversia.
+L'unico ed esclusivo rimedio a disposizione dell'utente in caso di disaccordo con qualsiasi modifica alle presenti Condizioni è quello di cancellare l'account.
+L'utente non può emendare o modificare le presenti Condizioni in nessun caso.
+Proprietà; diritti di proprietà.
+Il servizio è di proprietà e gestito da AliveCor.
+Le interfacce visive, la grafica, il design, la compilazione, le informazioni, i dati, il codice informatico (incluso il codice sorgente o codice oggetto), i prodotti, il software, i servizi e tutti gli altri elementi del Servizio (i “Materiali") forniti da AliveCor sono protetti dalle leggi sulla proprietà intellettuale e da altre leggi.
+Tutti i Materiali inclusi nel Servizio sono di proprietà di AliveCor o di nostri licenzianti terzi.
+Non è possibile utilizzare i Materiali diversamente da quanto espressamente autorizzato da AliveCor.
+AliveCor si riserva tutti i diritti sui materiali non concessi esplicitamente nelle presenti Condizioni.
+Subappaltatori.
+L'utente ivi acconsente all'ingaggio, da parte di AliveCor, di terze parti (tra cui affiliati di AliveCor) per eseguire o supportare l'esecuzione del Servizio o del sito Web AliveCor, come ad esempio il Servizio di interpretazione clinica, nella sua interezza o parzialità.
+Commenti.
+Se si sceglie di fornire opinioni e suggerimenti relativi a problemi del Servizio o proposte o miglioramenti allo stesso ("Commenti"), si concede ad AliveCor un diritto illimitato, perpetuo, irrevocabile, non esclusivo, interamente versato, e royalty-free per sfruttare i commenti in qualsiasi modo e per qualsiasi scopo, anche per migliorare il Servizio e creare altri prodotti e servizi.
+Indennità.
+Nella misura massima consentita dalla legge applicabile, l'utente è responsabile per l'utilizzo del Servizio, e indennizza, manleva e, se richiesto da AliveCor, difende AliveCor e i suoi funzionari, direttori, dipendenti, consulenti, affiliati, filiali e agenti (collettivamente, le “Entità AliveCor") da e contro ogni pretesa, responsabilità, danno, perdita e spesa, incluse le ragionevoli spese e i costi legali, derivanti da o in qualsiasi modo connessi con: (a) l'accesso, l’uso o il presunto uso del Servizio; (b) la violazione di qualsiasi parte delle presenti Condizioni, ogni dichiarazione, garanzia o accordo a cui si fa riferimento nelle presenti Condizioni, o di qualsiasi legge o regolamento applicabile; (c) la violazione di qualsiasi diritto di terze parti, tra cui il diritto di proprietà intellettuale o di pubblicità, di riservatezza o altri diritti di proprietà o privacy; (d) qualsiasi controversia o questione sorta tra l'utente e terze parti; e (e) tutte le pretese derivanti da o relative a frode, dolo, atti criminali o colpa grave commessi dall'utente.
+Nella misura massima consentita dalla legge applicabile, ci riserviamo il diritto, a nostre spese, di assumere la difesa esclusiva e il controllo di qualsiasi questione altrimenti soggetta a indennizzo da parte dell'utente (senza limitare gli obblighi di indennizzo in relazione a tale questione) e, in tal caso, l'utente accetta di collaborare nella nostra difesa di tale rivendicazione.
+Esonero di responsabilità; assenza di garanzie
+IL SERVIZIO E TUTTI I MATERIALI E I CONTENUTI DISPONIBILI TRAMITE IL SERVIZIO SONO FORNITI “COME SONO” E “COME DISPONIBILI", SENZA GARANZIE O CONDIZIONI DI ALCUN TIPO, ESPLICITE O IMPLICITE.
+LE ENTITÀ ALIVECOR ESCLUDONO TUTTE LE GARANZIE DI QUALSIASI TIPO, ESPLICITE O IMPLICITE, RELATIVE AL SERVIZIO, A TUTTI I MATERIALI E CONTENUTI DISPONIBILI ATTRAVERSO IL SERVIZIO E A QUALSIASI SOFTWARE O HARDWARE ASSOCIATO O UTILIZZATO CON IL SERVIZIO, O ALLA DISPONIBILITÀ DI QUANTO MENZIONATO, TRA CUI: (A) QUALSIASI GARANZIA IMPLICITA DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO, TITOLO, PACIFICO GODIMENTO O NON VIOLAZIONE DEI DIRITTI DI TERZI; (B) QUALSIASI GARANZIA BASATA SU CONSUETUDINI COMMERCIALI E (C) QUALSIASI GARANZIA CHE I DATI ECG O LE ALTRE INFORMAZIONI DISPONIBILI SUL SERVIZIO O TRASMESSE DALLO STESSO SIANO VERE, COMPLETE O ACCURATE.
+L'UTENTE RICONOSCE E ACCETTA SPECIFICAMENTE CHE ALIVECOR NON È RESPONSABILE PER QUALSIASI DECISIONE SANITARIA O CORRELATA PRESA DALL'UTENTE O DAL PROPRIO OPERATORE SANITARIO IN BASE AI DATI RACCOLTI, TRASMESSI O VISUALIZZATI DA O SUL SERVIZIO, INDIPENDENTEMENTE DALL'ACCURATEZZA DI TALI DATI.
+LE ENTITÀ ALIVECOR NON GARANTISCONO CHE IL SERVIZIO O QUALSIASI PARTE DI ESSO, O QUALSIASI MATERIALE O CONTENUTO OFFERTO TRAMITE IL SERVIZIO, SARÀ PRIVO DI INTERRUZIONI, SICURO O PRIVO DI ERRORI, VIRUS O ALTRI COMPONENTI DANNOSI, E NON GARANTISCONO CHE TALI PROBLEMI VERRANNO CORRETTI.
+NESSUN CONSIGLIO O INFORMAZIONE, SIA ORALE CHE SCRITTA, OTTENUTA DALL’UTENTE TRAMITE IL SERVIZIO O QUALSIASI MATERIALE O CONTENUTO DISPONIBILE TRAMITE IL SERVIZIO CREERÀ ALCUNA GARANZIA IN MERITO A QUALSIASI ENTITÀ AliveCor O AL SERVIZIO, NON ESPRESSAMENTE INDICATA NELLE PRESENTI CONDIZIONI.
+L’UTENTE SI ASSUME TUTTI I RISCHI PER EVENTUALI DANNI CHE POSSONO DERIVARE DALL'USO O DALL'ACCESSO AL SERVIZIO, DALL’INTERAZIONE CON QUALSIASI ALTRO UTENTE DEL SERVIZIO O DAI MATERIALI E DAL CONTENUTO DISPONIBILE TRAMITE IL SERVIZIO.
+L'UTENTE RICONOSCE E ACCETTA DI USARE IL SERVIZIO E DI UTILIZZARE, ACCEDERE, SCARICARE O ALTRIMENTI OTTENERE MATERIALI O CONTENUTI ATTRAVERSO IL SERVIZIO E QUALSIASI ALTRO SITO O SERVIZIO ASSOCIATO A PROPRIA DISCREZIONE E RISCHIO, E DI ESSERE L’UNICO RESPONSABILE PER EVENTUALI DANNI ALLE SUE PROPRIETÀ (COMPRESO IL PROPRIO COMPUTER O IL DISPOSITIVO MOBILE UTILIZZATO IN RELAZIONE AL SERVIZIO), O PER LA PERDITA DI DATI DERIVANTE DALL’USO DEL SERVIZIO O DAL DOWNLOAD E L'USO DI DETTO MATERIALE O CONTENUTO.
+I PARAGRAFI PRECEDENTI SI APPLICANO NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE.
+ALCUNE GIURISDIZIONI POSSONO VIETARE L'ESCLUSIONE DI GARANZIE, IN PARTICOLARE L'ESCLUSIONE DI GARANZIE PREVISTE DALLA LEGGE O IMPLICITE, COME LE GARANZIE LEGALI DI CONFORMITÀ PER PRODOTTI OFFERTI AI CONSUMATORI DELL'UE, E POSSONO PREVEDERE ALTRI DIRITTI CHE VARIANO A SECONDA DELLA GIURISDIZIONE.
+Limitazione di responsabilità
+IN NESSUN CASO LE ENTITÀ ALIVECOR SARANNO RESPONSABILI PER DANNI DIRETTI, INDIRETTI, ACCIDENTALI, SPECIALI, CONSEQUENZIALI O PUNITIVI (COMPRESI DANNI PER PERDITA DI PROFITTI, AVVIAMENTO, O QUALSIASI ALTRA PERDITA IMMATERIALE) DERIVANTI DA O RELATIVI ALL’ACCESSO O USO O ALL’INCAPACITÀ DI ACCEDERE O UTILIZZARE UN SERVIZIO O QUALSIASI MATERIALE O CONTENUTO SUL SERVIZIO, IN BASE A GARANZIA, CONTRATTO ILLECITO CIVILE (INCLUSA LA NEGLIGENZA), LEGGE O QUALSIASI ALTRA TEORIA LEGALE, ANCHE SE L’ENTITÀ ALIVECOR SIA STATA INFORMATA DELLA POSSIBILITÀ DI DANNI.
+A SCANSO DI EQUIVOCI, I DANNI ESCLUSI COMPRENDONO ANCHE, A TITOLO ESEMPLIFICATIVO, PERDITA DI RISPARMI O RICAVI, PERDITA DI PROFITTO, PERDITA DI UTILIZZO, PERDITA DI VITA O SALUTE, RIVENDICAZIONI DI TERZI E QUALSIASI COSTO DI QUALSIASI APPARECCHIATURA O SERVIZIO SOSTITUTIVO.
+SALVO QUANTO PREVISTO NELL'ARTICOLO 241.E, SE ALIVECOR NON ESCLUDE LEGALMENTE ALCUNA RESPONSABILITÀ PER TUTTI I DANNI MENZIONATI, LA RESPONSABILITÀ COMPLESSIVA DELLE ENTITÀ ALIVECOR PER TUTTI I RECLAMI DERIVANTI DA O RELATIVI ALL'USO O ALL'INCAPACITÀ DI UTILIZZARE QUALUNQUE PARTE DEL SERVIZIO O DIVERSAMENTE AI SENSI DI QUESTE CONDIZIONI, LA RESPONSABILITÀ CONTRATTUALE, EXTRACONTRATTUALE O DI ALTRO TIPO È LIMITATA ALLA CIFRA SUPERIORE TRA L'IMPORTO PAGATO PER UTILIZZARE IL SERVIZIO O $ 100, NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE.
+ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DI RESPONSABILITÀ PER DANNI CONSEGUENTI O ACCIDENTALI, CASO IN CUI TALI LIMITAZIONI SI APPLICANO ALL'UTENTE NELLA MISURA CONSENTITA IN TALE GIURISDIZIONE.
+INOLTRE, NULLA NELLE PRESENTI CONDIZIONI LIMITA O ESCLUDE QUALSIASI RESPONSABILITÀ CHE NON PUÒ ESSERE LIMITATA O ESCLUSA DALLA LEGGE, COME LA RESPONSABILITÀ PER LA VIOLAZIONE INTENZIONALE DELLE PRESENTI CONDIZIONI.
+NULLA NELLE PRESENTI CONDIZIONI CONDIZIONA I DIRITTI LEGALI DELL'UTENTE COME CONSUMATORE.
+CIASCUNA DISPOSIZIONE DELLE PRESENTI CONDIZIONI CHE PREVEDA UNA LIMITAZIONE DI RESPONSABILITÀ, ESCLUSIONE DI GARANZIE, O ESCLUSIONE DI DANNI INTENDE E RIPARTISCE I RISCHI TRA LE PARTI AI SENSI DELLE PRESENTI CONDIZIONI.
+QUESTA RIPARTIZIONE È UN ELEMENTO ESSENZIALE DELLA BASE DEL CONTRATTO TRA LE PARTI.
+CIASCUNA DI QUESTE DISPOSIZIONI È SEPARABILE E INDIPENDENTE DA TUTTE LE ALTRE DISPOSIZIONI DELLE PRESENTI CONDIZIONI.
+LE LIMITAZIONI PREVISTE NEL PRESENTE ARTICOLO 20 SI APPLICANO ANCHE NEL CASO IN CUI UN QUALSIASI RIMEDIO LIMITATO NON RAGGIUNGA IL SUO SCOPO ESSENZIALE.
+Forza maggiore.
+AliveCor sarà dispensata dalle prestazioni ai sensi delle presenti Condizioni per un periodo in cui subisce impedimenti o ritardi nell'esecuzione di qualsiasi obbligo di cui alle presenti Condizioni, in tutto o in parte, a seguito di un Evento di forza maggiore.
+Nella misura massima consentita dalla legge applicabile, ai fini del presente articolo, per “Evento di forza Maggiore” si intende un evento o una serie di eventi causati da o derivanti da una delle seguenti ragioni: (1) condizioni meteorologiche o altri elementi di natura o atti di Dio; (2) atti di guerra, atti di terrorismo, insurrezioni, sommosse, disordini civili o ribellione; (3) quarantena o embargo, (4) scioperi dei lavoratori; (5) inattività di telecomunicazioni, reti, computer, server o Internet; (6) accesso non autorizzato ai sistemi informatici di AliveCor da parte di terzi; o (7) altre cause al di fuori del ragionevole controllo di AliveCor.
+Legge applicabile e tribunali competenti.
+Nella misura massima consentita dalla legge applicabile, le presenti Condizioni sono regolati dalle leggi dello Stato della California, indipendentemente dai principi o dalle norme in materia di conflitto di leggi.
+Se una causa o procedimento in tribunale è consentito dalle presenti Condizioni, l'utente e AliveCor accettano di sottoporsi alla giurisdizione personale ed esclusiva dei tribunali statali e federali situati all'interno contea di Santa Clara, California, con lo scopo di risolvere ogni controversia.
+Se l'utente è un consumatore che si trova nella UE, tale giurisdizione dei tribunali contea di Santa Clara sarà non esclusiva.
+Noi operiamo il Servizio presso i nostri uffici negli Stati Uniti, e non garantiamo che materiali inclusi nel servizio siano appropriati o disponibili per l'uso in altri luoghi.
+Disposizioni generali.
+Le presenti Condizioni, unitamente all'Informativa sulla privacy e ad altri accordi espressamente incorporati come riferimento negli stessi, sono l'accordo e l'intesa esclusivi tra l'utente e AliveCor in relazione all'utilizzo del Servizio.
+Salvo quanto espressamente previsto in precedenza, le presenti Condizioni possono essere modificati solo mediante un accordo per iscritto firmato dai rappresentanti autorizzati di tutte le parti delle presenti Condizioni.
+L'utente non può cedere o trasferire le presenti Condizioni o i propri diritti di cui alle presenti Condizioni, in tutto o in parte, per effetto di legge o in altro modo, senza il nostro previo consenso scritto, che può essere concesso o negato a esclusiva discrezione di AliveCor.
+Qualsiasi tentativo di cessione da parte dell'utente senza detto consenso sarà nullo e non valido.
+Noi possiamo cedere le presenti Condizioni in qualsiasi momento senza preavviso o consenso, nella misura massima consentita ai sensi della legge applicabile.
+La mancata richiesta di prestazioni di qualsiasi disposizione non influenzerà il nostro diritto di richiedere le prestazioni in qualsiasi altro momento successivo, né rappresenta una rinuncia da parte nostra di qualsiasi violazione o inadempienza delle presenti Condizioni, né qualsiasi altra disposizione di queste Condizioni rappresenta una rinuncia a qualsiasi successiva violazione o inadempienza o rinuncia alla clausola stessa.
+L'utilizzo delle intestazioni nelle presenti Condizioni ha puro scopo di comodità e non ha effetto sull'interpretazione delle disposizioni.
+Se una delle parti delle presenti Condizioni è considerata essere invalida o non applicabile, alla parte non applicabile sarà dato effetto nella maggiore misura possibile, mentre le parti rimanenti avranno pieno vigore ed effetto.
+Al momento della cessazione delle presenti Condizioni, sopravvivranno gli articoli 8-10, 12, 13, 18, 19 e 21- 25, unitamente all'Informativa sulla privacy e agli altri accordi.
+Risoluzione delle controversie e arbitrato
+LEGGERE ATTENTAMENTE QUESTA SEZIONE PERCHÉ RICHIEDE DI ARBITARE ALCUNE CONTROVERSIE E RECLAMI CON NOI E LIMITA IL MODO IN CUI L’UTENTE HA IL DIRITTO DI EFFETTUARE RICHIESTE A NOI.
+Disposizioni generali.
+Nella misura massima consentita dalla legge applicabile e nell'interesse della risoluzione delle controversie tra l'utente e AliveCor nel modo più efficace e conveniente, l'utente e AliveCor convengono che ogni controversia che dovesse insorgere in relazione alle presenti Condizioni sarà risolta mediante arbitrato vincolante, a meno l'utente non sia un consumatore si trova in una giurisdizione che vieta l'uso esclusivo dell'arbitrato per la risoluzione delle controversie.
+L'arbitrato è meno formale di una causa in tribunale.
+L'arbitrato si serve di un arbitro neutrale, anziché un giudice o una giuria, e può consentire una discovery più limitata rispetto a un tribunale, e può essere soggetto a una revisione molto limitata da parte dei giudici.
+Gli arbitri possono assegnare gli stessi danni e rimedi di un giudice di tribunale.
+Questo accordo di arbitrato delle controversie include tutti i reclami derivanti da o connessi a qualsiasi aspetto delle presenti Condizioni, sia in base a contratto, illecito civile, legge, frode, false dichiarazioni o qualsiasi altra teoria legale, e indipendentemente dal fatto che la rivendicazione sorga durante o dopo la cessazione delle presenti Condizioni.
+L'UTENTE RICONOSCE E ACCETTA CHE, ACCETTANDO LE PRESENTI CONDIZIONI, INSIEME AD ALIVECOR RINUNCIA AL DIRITTO A UN PROCESSO CON GIURIA O A PARTECIPARE A UNA CLASS ACTION, NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE.
+Rifiuto dell’accordo per arbitrare: L’utente può rifiutare questo accordo per arbitrare contattando support@alivecor.com entro 30 giorni dalla prima accettazione delle presenti Condizioni del servizio e affermando che l’utente (includere il nome e cognome e l'indirizzo email utilizzato per la registrazione al Servizio) declina questo accordo di arbitrato.
+Eccezioni.
+Fatte salve le disposizioni dell'articolo 24A, nulla nelle presenti Condizioni sarà considerato come rinuncia, preclusione o altrimenti limitazione del diritto di ciascuna parte a: (a) presentare un ricorso individuale presso un giudice di pace; (b) perseguire un'azione di applicazione attraverso un ente federale, statale, o locale se detta azione è disponibile; (c) chiedere un provvedimento ingiuntivo presso un tribunale o (d) sporgere denuncia in un tribunale per avanzare una rivendicazione di violazione di proprietà intellettuale.
+Arbitro.
+Nella misura massima consentita dalla legge applicabile, qualsiasi arbitrato tra l'utente e AliveCor sarà risolto ai sensi del Federal Arbitration Act, e regolato dalle Commercial Dispute Resolution Procedures e dalle Supplementary Procedures for Consumer Related Disputes (congiuntamente, “Norme di AAA") della American Arbitration Association ("AAA"), come modificate dalle presenti Condizioni, e amministrate dalla AAA.
+Le norme di AAA e i moduli per la compilazione sono disponibili online all'indirizzo www.adr.org, chiamando AAA al numero 1-800-778-7879 oppure contattando AliveCor.
+Comunicazione; procedura.
+La parte che intende chiedere un arbitrato deve prima inviare una comunicazione scritta relativa alla controversia all'altra mediante posta certificata degli Stati Uniti o Federal Express (è richiesta la firma) o, solo se tale altra parte non ha fornito un indirizzo fisico, mediante posta elettronica ("Comunicazione").
+L'indirizzo di AliveCor per l'invio delle comunicazioni è: AliveCor, Inc.,
+444 Castro Street, Suite 600 Mountain View, CA 94041 USA.
+La comunicazione deve: (a) descrivere la natura e la base del reclamo o della controversia e (b) indicare il rimedio specifico ricercato ("Richiesta").
+Le parti sosterranno attività in buona fede per risolvere la controversia direttamente; qualora non raggiungessero un accordo entro 30 giorni dalla ricezione della comunicazione, l'utente o AliveCor possono dare avvio a un procedimento di arbitrato.
+Durante l'arbitrato, l'importo della liquidazione offerto dall'utente o da AliveCor non deve essere divulgato all'arbitro se non dopo la decisione definitiva e l'assegnazione, se presente, da parte di quest'ultimo.
+Se la controversia viene risolta tramite arbitrato a favore dell'utente, AliveCor corrisponderà all'utente la somma più elevata tra le seguenti: (i) l'importo concesso dall'arbitro, se presente; (ii) l'ultimo importo di liquidazione per iscritto offerto da AliveCor nella risoluzione della controversia prima del lodo arbitrale o (iii) $ 1.000.
+Costi.
+Se si avvia l'arbitrato in conformità alle presenti Condizioni, AliveCor rimborserà l'utente per il pagamento dei costi di istruttoria, a meno che la richiesta sia superiore a $ 10.000, nel qual caso il pagamento delle spese sarà deciso dalle Norme di AAA.
+Qualsiasi udienza dell'arbitrato si terrà in una località da concordare nella Contea di Santa Clara, in California, ma se la richiesta è pari o inferiore a $ 10.000, è possibile scegliere se l'arbitrato verrà condotto: (a) esclusivamente sulla base dei documenti presentati all'arbitro; (b) mediante un'udienza telefonica senza comparizione; o (c) mediante un'udienza svolta di persona, come stabilito dalle Norme di AAA nella contea (o parrocchia) dell'indirizzo di fatturazione dell'utente.
+Se l'arbitro ritiene che la sostanza della rivendicazione dell'utente o i rimedi indicati nella Richiesta siano frivoli o avanzati per uno scopo improprio (come misurato secondo gli standard stabiliti dalla Regola federale di procedura civile 11(b)), il pagamento di tutte le spese sarà disciplinato dalle Norme di AAA.
+In questo caso, l'utente accetta di rimborsare AliveCor per tutti i fondi precedentemente erogati e che sono altrimenti l'obbligo di pagamento dell'utente ai sensi delle Norme di AAA.
+Indipendentemente dalle modalità di svolgimento dell'arbitrato, l'arbitro deve emettere una decisione scritta motivata sufficiente a spiegare i risultati essenziali e le conclusioni su cui si basano la decisione e il lodo, se del caso.
+L'arbitro può prendere decisioni e risolvere le controversie per quanto riguarda il pagamento e il rimborso dei costi o delle spese in qualsiasi momento durante il procedimento e su richiesta di una delle parti entro 14 giorni dalla decisione dell'arbitro in relazione a detta questione.
+Esclusione di class action.
+NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, L'UTENTE E ALIVECOR ACCETTANO CHE CIASCUNA PARTE POSSA AVANZARE RIVENDICAZIONI CONTRO L'ALTRA SOLO NELLA PROPRIA CAPACITÀ INDIVIDUALE E NON COME UN ATTORE O MEMBRO DI CLASSE IN QUALSIASI EVENTUALE PROCEDIMENTO DI CLASSE O RAPPRESENTAZIONE.
+Inoltre, a meno che non concordato da entrambi l'utente e AliveCor o diversamente, l'arbitro non può consolidare la rivendicazione di più di una persona, e non può altrimenti presiedere qualsiasi forma di procedimento rappresentativo o di classe, nella misura massima consentita dalla legge applicabile.
+Rivendicazioni.
+Nella misura massima consentita dalla legge applicabile, nessuna azione derivante, correlata o relativa alle presenti Condizioni dovrà essere avanzata oltre un (1) anno dopo la maturazione della causa di azione.
+Tale periodo non può essere esteso per alcun motivo, se non con il consenso scritto di entrambe le parti.
+Con il presente si rinuncia a tutte le leggi o disposizioni di legge che possano modificare o estendere il decorso del termine di prescrizione e nessuna norma o disposizione di legge può estendere il periodo limitato citato in questo paragrafo, nella misura massima consentita dalla legge applicabile.
+Modifiche alla presente disposizione di arbitrato.
+Se AliveCor apporta qualsiasi futura modifica a tale disposizione di arbitrato, diversa da un cambiamento dell'indirizzo di AliveCor per le comunicazioni, l'utente può respingere la modifica, inviando una comunicazione scritta entro 30 giorni dalla modifica dell'indirizzo di AliveCor per le comunicazioni; in tal caso l'account AliveCor dell'utente sarà immediatamente interrotto e la presente disposizione di arbitrato, come in vigore immediatamente prima delle modifiche respinte, sopravvivrà.
+Applicazione.
+Se l'articolo 24G risulta non applicabile o se l'intero articolo 24 risulti non applicabile, l'intero articolo 24 sarà nullo e non valido e, in tal caso, le parti accettano che la giurisdizione e la sede esclusiva indicata all'articolo 22 regoleranno tutte le azioni derivanti o correlate alle presenti Condizioni.
+Avvisi; consenso alle comunicazioni elettroniche.
+Utilizzando il Servizio, l'utente acconsente a ricevere alcune comunicazioni elettroniche da parte nostra come descritto nella nostra Informativa sulla privacy.
+Si prega di leggere la nostra Informativa sulla privacy per maggiori informazioni sulle nostre pratiche relative alle comunicazioni elettroniche.
+L'utente accetta che eventuali comunicazioni, accordi, informazioni integrative e altre comunicazioni che inviamo elettronicamente all'utente soddisfano tutti i requisiti di comunicazione previsti dalla legge, compresi quelli che prevedono che le comunicazioni avvengano in forma scritta.
+Tutte le comunicazioni di AliveCor destinate all'utente sono ritenute consegnate e in vigore se inviate all'indirizzo di posta elettronica fornito dall'utente durante il processo di registrazione o quando pubblicate o rese disponibili all'utente sul Servizio.
+Se si modifica l'indirizzo di posta elettronica fornito in connessione con la registrazione per accedere e utilizzare il Servizio, è necessario aggiornarlo in conformità con le procedure stabilite sul Servizio.
+Fornendo il proprio numero di cellulare a noi, l’utente acconsente a ricevere messaggi di testo a tale numero richiesto per la verifica dell'account, le notifiche dei messaggi e altri scopi relativi al Servizio.
+Sebbene non venga addebitata una tariffa per i messaggi di testo, il proprio operatore potrebbe addebitare spese, dati e altri costi standard.
+L’utente è responsabile di tali addebiti.
+Possiamo inviare e ricevere messaggi di testo tramite operatori telefonici cellulari o altre reti e il livello di affidabilità può variare.
+Non siamo responsabili per la tempestività o la consegna finale del messaggio, poiché questo è al di fuori del nostro controllo ed è responsabilità dell'operatore telefonico cellulare o di altre reti.
+Fatto salvo quanto sopra, utilizzeremo il numero di cellulare dell’utente in conformità con l'Informativa sulla privacy.
+COMUNICAZIONE RELATIVA AD APPLE
+L'utente riconosce che le presenti Condizioni sono stipulati unicamente con AliveCor e non con Apple, e Apple non è responsabile per l'app e il relativo contenuto.
+Apple non ha alcun obbligo di fornire servizi di manutenzione e supporto in relazione all'app.
+Nel caso in cui l'app non sia conforme a qualsiasi garanzia applicabile, l'utente può informare Apple e Apple rimborserà il prezzo d'acquisto all'utente, se corrisposto e, nella misura massima consentita dalla legge applicabile, Apple non ha alcun altro obbligo di garanzia in relazione all'app.
+Apple non è responsabile per la risoluzione di eventuali rivendicazioni da parte dell'utente o di terzi in relazione all'app o al possesso e/o all'uso dell'app da parte dell'utente, tra cui: (i) rivendicazioni sulla responsabilità del prodotto; (ii) ogni altra rivendicazione relativa al fatto che l'app non è conforme a un requisito legale o regolamentare applicabile; e (iii) le pretese derivanti dalle leggi sulla tutela dei consumatori o simili.
+Apple non è responsabile per le indagini, la difesa, la liquidazione e il rilascio di qualsiasi pretesa di terze parti che l'app o il possesso e l'uso dell'app da parte dell'utente viola i diritti di proprietà intellettuale di terzi.
+Durante l'utilizzo dell'app, l'utente accetta di rispettare tutte le Condizioni applicabili di terze parti.
+Apple e le consociate di Apple sono beneficiari terzi delle presenti Condizioni e, previa accettazione degli stessi da parte dell'utente, Apple avrà il diritto (e si riterrà che l'utente lo abbia accettato) di far rispettare le Condizioni all'utente come beneficiario terzo degli stessi.
+L'utente dichiara e garantisce che (i) non si trova in un paese soggetto a embargo dal governo degli Stati Uniti, oppure indicato dal governo degli Stati Uniti come paese “sostenitore del terrorismo”; e (i) non fa parte di uno dei paesi indicati dal governo degli Stati Uniti come proibito o limitato.
+Informazioni di contatto.
+Il servizio è offerto da AliveCor, Inc.
+Per contattarci, è possibile scrivere all'indirizzo support@alivecor.com.
+Ultima revisione: [07/01/2019]

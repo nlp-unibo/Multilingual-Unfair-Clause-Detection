@@ -1,0 +1,604 @@
+REGULAMIN ŚWIADCZENIA USŁUG GRINDR
+Witamy w aplikacji Grindr LLC („Grindr”, „My”, „Nas”, „Nasz”) na urządzenia mobilne („Oprogramowanie Grindr”), stronie internetowej oraz we wszelkich innych usługach lub aplikacjach mobilnych lub sieciowych będących własnością, kontrolowanych lub oferowanych przez Grindr teraz lub w przyszłości (łącznie „Usługi Grindr”).
+Dla jasności wszelkie odniesienia do „Usług Grindr” obejmują „Oprogramowanie Grindr”.
+Użytkownicy, którzy uzyskują dostęp, pobierają, używają, kupują i/lub subskrybują Usługi Grindr (łącznie lub indywidualnie „Ty”, „Twój” lub „Użytkownik” lub „Użytkownicy”) muszą to robić zgodnie z poniższymi Warunkami świadczenia usług (niniejszym "Porozumienie").
+NINIEJSZA UMOWA STANOWI PRAWNIE WIĄŻĄCĄ UMOWĘ MIĘDZY UŻYTKOWNIKIEM A GRINDR.
+PRZED SKORZYSTANIEM Z JAKICHKOLWIEK USŁUG GRINDR NALEŻY UWAŻNIE PRZECZYTAĆ.
+DOSTĘP DO USŁUG GRINDR, POBIERANIE, KORZYSTANIE, KUPUJĄC I/LUB SUBSKRYBUJĄC USŁUGI GRINDR, POTWIERDZASZ, ŻE PRZECZYTAŁEŚ, ZROZUMIAŁEŚ I ZGADZASZ SIĘ PRZESTRZEGAĆ WARUNKÓW NINIEJSZEJ UMOWY.
+JEŚLI NIE WYRAŻASZ ZGODY NA NINIEJSZĄ UMOWĘ, PROSZĘ NATYCHMIAST ZAPRZESTAĆ KORZYSTANIA Z USŁUG GRINDR.
+SEKCJA 21 NINIEJSZEJ UMOWY ZAWIERA POSTANOWIENIA REGULUJĄCE SPOSÓB ROZWIĄZYWANIA SPORÓW MIĘDZY UŻYTKOWNIKIEM A NAMI.
+W SZCZEGÓLNOŚCI UMOWA O ARBITRAŻ W TEJ SEKCJI BĘDZIE, Z OGRANICZONYMI WYJĄTKAMI, WYMAGAĆ, BY SPORY MIĘDZY UŻYTKOWNIKIEM A NAMI BYŁY PODDANE WIĄŻĄCEMU I OSTATECZNEMU ARBITRAŻOWI, CHYBA ŻE NIE ZREZYGNOWAŁEŚ Z REZYGNACJI.
+DODATKOWO: (1) MOŻESZ DOCHODZIĆ ROSZCZENIA PRZECIWKO NAS WYŁĄCZNIE INDYWIDUALNIE, A NIE W ŻADNYM POSTĘPOWANIU ZBIOROWYM LUB PRZEDSTAWICIELSKIM; ORAZ (2) UŻYTKOWNIK ZRZEKA SIĘ SWOICH PRAW DO UZYSKIWANIA ODPOWIEDZIALNOŚCI W SĄDZIE ORAZ DO ROZSĄDZANIA SWOICH ROSZCZEŃ PRZEZ SĄD PRZYSIĘGŁYCH.
+ZAPOZNAJ SIĘ Z SEKCJĄ 21, ABY UZYSKAĆ ​​WIĘCEJ INFORMACJI DOTYCZĄCYCH NINIEJSZEJ UMOWY O ARBITRAŻ, MOŻLIWYCH SKUTKÓW NINIEJSZEJ UMOWY O ARBITRAŻ, ORAZ JAK REZYGNOWAĆ Z UMOWY O ARBITRAŻ.
+JEŚLI JESTEŚ MIESZKAŃCEM UNII EUROPEJSKIEJ, WIELKIEJ BRYTANII LUB NIEKTÓRYCH KRAJÓW POZA STANAMI ZJEDNOCZONYMI, ZAPOZNAJ SIĘ Z WARUNKAMI SPECJALNYMI DLA UŻYTKOWNIKÓW MIĘDZYNARODOWYCH („WARUNKI SPECJALNE”).
+JEŚLI JESTEŚ MIESZKAŃCEM KRAJU WYMIENIONEGO W WARUNKACH SZCZEGÓLNYCH, MOŻESZ MIEĆ DODATKOWE PRAWA LUB NIEKTÓRE CZĘŚCI NINIEJSZEJ UMOWY, TAKIE JAK UMOWA O ARBITRAŻ, MOGĄ NIE DOTYCZYĆ CIEBIE.
+Zalecamy zachowanie kopii niniejszej Umowy w celach informacyjnych.
+Możesz otrzymać kopię niniejszej Umowy, wysyłając do nas wiadomość e-mail na adres: help@grindr.com, Temat: Umowa dotycząca warunków świadczenia usług.
+OGRANICZENIA WIEKOWE I BEZPIECZEŃSTWO.
+ZAKAZ UŻYTKOWANIA PRZEZ OSÓB NIELETNICH.
+ŻADNA OSOBA W WIEKU PONIŻEJ 18 LAT (LUB DWADZIEŚCIA JEDEN (21) LAT W MIEJSCACH, W KTÓRYCH OSIEMNAŚCIE (18) LAT NIE JEST WIEKEM WIĘKSZOŚCI) NIE MOŻE BEZPOŚREDNIO ANI POŚREDNIO PRZEGLĄDAĆ, POSIADAĆ ANI W INNY SPOSÓB UŻYWAĆ USŁUG GRINDR.
+MUSISZ BYĆ PEŁNOLETNI.
+NINIEJSZYM OŚWIADCZASZ I GWARANTUJESZ, ŻE MASZ OBECNIE 18 LAT LUB WIĘCEJ (LUB DWADZIEŚCIA JEDEN (21) LAT W MIEJSCACH, GDZIE OSIEMNAŚCIE (18) LAT NIE JEST WIEKEM WIĘKSZOŚCI) I JESTEŚ ZDOLNY DO ZGODNEGO Z PRAWEM I WYKONYWANIE WSZYSTKICH OBOWIĄZKÓW OKREŚLONYCH W NINIEJSZEJ UMOWIE.
+BEZPIECZEŃSTWO.
+GRINDR NIE ODPOWIADA ZA KORZYSTANIE Z USŁUG GRINDR ANI ZA DZIAŁANIA INNYCH UŻYTKOWNIKÓW, Z KTÓRYMI MOŻESZ WYMIENIAĆ INFORMACJE LUB KONTAKTOWAĆ SIĘ.
+GRINDR NIE PRZEPROWADZA WERYFIKACJI SWOICH UŻYTKOWNIKÓW DOTYCZĄCYCH CZYNNOŚCI PRZESTRZEGAJĄCYCH PRAWA KARNEGO LUB INNYCH.
+GRINDR NIE WERYFIKUJE PODAWANYCH PRZEZ UŻYTKOWNIKÓW INFORMACJI DOTYCZĄCYCH TOŻSAMOŚCI, ZDROWIA, KONDYCJI FIZYCZNEJ LUB INNYCH INFORMACJI.
+GRINDR NIE PONOSI TAKŻE ODPOWIEDZIALNOŚCI ZA CZYNNOŚCI LUB KONSEKWENCJE PRAWNE KORZYSTANIA Z UŻYTKOWNIKA W MIEJSCACH, KTÓRE MOGĄ PRÓBOWAĆ KRYMINALIZOWAĆ LUB OGRANICZAĆ TWOJE OSOBISTE INTERAKCJE.
+UŻYTKOWNIK MUSI PODEJMOWAĆ WŁASNE ŚWIADOMIE DECYZJE DOTYCZĄCE KORZYSTANIA Z APLIKACJI W SWOJEJ LOKALIZACJI I OCENIĆ WSZELKIE POTENCJALNE NIEPOŻĄDANE KONSEKWENCJE.
+OSTRZEŻENIE: WAŻNE WYŁĄCZENIE ODPOWIEDZIALNOŚCI DOTYCZĄCE DANYCH LOKALIZACJI.
+USŁUGI GRINDR SĄ PRZEZNACZONE WYŁĄCZNIE JAKO USŁUGI OSOBISTE, LOKALIZACYJNE DO UŻYTKU INDYWIDUALNEGO I NIE NALEŻĄ BYĆ UŻYWANE JAKO SYSTEM LOKALIZACJI AWARYJNEJ, UŻYWANE PODCZAS PROWADZENIA LUB OBSŁUGI POJAZDU ANI UŻYWANE W POŁĄCZENIU Z JAKIKOLWIEK NIEBEZPIECZNYM ŚRODOWISKIEM WYMAGAJĄCYM BEZPIECZNEJ DZIAŁALNOŚCI LUB JAKIEJKOLWIEK INNEJ APLIKACJI, W KTÓREJ AWARIA LUB NIEDOKŁADNOŚĆ TEJ APLIKACJI LUB USŁUG GRINDR MOŻE PROWADZIĆ BEZPOŚREDNIO DO ŚMIERCI, OBRAŻEŃ CIAŁA LUB POWAŻNYCH USZKODZEŃ FIZYCZNYCH LUB MAJĄTKU.
+GRINDR NIE JEST ODPOWIEDNI ANI NIE JEST PRZEZNACZONY DO CELÓW ZNAJDOWANIA RODZIN, ŚLEDZENIA FLOTY LUB ŻADNYCH INNYCH ZASTOSOWAŃ BIZNESOWYCH LUB PRZEDSIĘBIORSTW.
+OBECNIE ISTNIEJĄ INNE PRODUKTY, KTÓRE MOGĄ BYĆ UŻYWANE SPECJALNIE DO TYCH CELÓW.
+MIĘDZYNARODOWYCH UŻYTKOWNIKÓW.
+Używaj poza Stanami Zjednoczonymi Ameryki.
+Usługi Grindr są kontrolowane i oferowane przez firmę Grindr ze Stanów Zjednoczonych Ameryki i niezależnie od miejsca zamieszkania Użytkownika korzystanie z nich podlega prawu stanu Kalifornia w USA.
+Grindr nie gwarantuje, że Usługi Grindr nadają się do użytku w innych lokalizacjach lub są legalne we wszystkich jurysdykcjach.
+Osoby, które uzyskują dostęp do Usług Grindr lub z nich korzystają z innych lokalizacji, robią to na własne ryzyko i są odpowiedzialne za przestrzeganie prawa lokalnego.
+Wyrażasz zgodę na przesyłanie i przetwarzanie Twoich danych w Stanach Zjednoczonych Ameryki i każdej innej jurysdykcji na całym świecie.
+Zapoznaj się z naszą Polityką prywatności, aby uzyskać więcej informacji o tym, jak zbieramy, wykorzystujemy i przekazujemy Twoje dane.
+Specjalne warunki.
+Jeśli jesteś rezydentem niektórych krajów, w tym krajów Unii Europejskiej i Wielkiej Brytanii, możesz mieć dodatkowe prawa lub niektóre części niniejszej Umowy mogą Cię nie dotyczyć, jeśli wymaga tego prawo obowiązujące w Twojej jurysdykcji.
+Więcej informacji można znaleźć w Warunkach specjalnych dla użytkowników międzynarodowych.
+Język angielski.
+Grindr może udostępniać tłumaczenia niniejszej Umowy i lokalne wersje językowe Usług Grindr dla wygody i przyjemności międzynarodowych użytkowników.
+Niniejsza Umowa została sporządzona w języku angielskim iw zakresie, w jakim przetłumaczona wersja niniejszej Umowy jest niezgodna z wersją angielską, wersja angielska będzie obowiązywać.
+Podobnie Grindr zastrzega sobie prawo do poprawiania błędów w tłumaczeniu i podobnych problemów wynikających z oferowania lokalnych wersji językowych niniejszej Umowy i Usług Grindr.
+REJESTRACJA TWOJEGO KONTA; KORZYSTANIE Z KONTA.
+Rejestracja Twojego konta.
+Jeśli utworzysz konto w którejkolwiek z Usług Grindr („Konto użytkownika”) i prześlesz nam informacje, musisz upewnić się, że takie informacje są dokładne.
+Musisz niezwłocznie zaktualizować takie informacje, jeśli ulegną zmianie.
+Konta są wyłącznie do Twojego użytku.
+W żadnym momencie nie możesz korzystać z konta innej osoby.
+Nie możesz kupować, sprzedawać, wynajmować ani dzierżawić dostępu do swojego konta użytkownika lub swojej nazwy użytkownika bez naszej pisemnej zgody.
+Nie będziesz udostępniać ani w inny sposób przekazywać swojego konta użytkownika ani danych uwierzytelniających.
+Bezpieczeństwo Twojego konta.
+Ponosisz całkowitą odpowiedzialność za zachowanie poufności swojego hasła i konta.
+Ponosisz całkowitą odpowiedzialność za wszelkie działania, które mają miejsce na Twoim koncie.
+Zgadzasz się natychmiast powiadomić Grindr o każdym nieautoryzowanym użyciu Twojego konta lub innym naruszeniu bezpieczeństwa.
+Nie ponosimy odpowiedzialności za jakiekolwiek straty, szkody, odpowiedzialność, wydatki lub opłaty adwokackie, które możesz ponieść w wyniku użycia przez kogoś innego Twojego hasła lub konta, za Twoją wiedzą lub bez niej.
+Nie mamy obowiązku przechowywania danych dotyczących Twojego konta.
+Grindr nie ma obowiązku przechowywania rejestru Twojego konta ani żadnych danych lub informacji, które mogłeś przechowywać dla swojej wygody za pośrednictwem swojego konta lub Usług Grindr.
+Usługi Grindr nie są przeznaczone do przechowywania danych.
+Ponosisz wyłączną odpowiedzialność za tworzenie kopii zapasowych swoich danych (np. osobne zapisywanie danych kontaktowych osób poznanych za pośrednictwem Usług Grindr).
+POLITYKA PRYWATNOŚCI.
+Nasze gromadzenie, wykorzystywanie i udostępnianie danych osobowych i innych informacji o Tobie podlega naszej Polityce prywatności.
+Wyrażasz zgodę na gromadzenie, przechowywanie, wykorzystywanie i udostępnianie tych informacji zgodnie z naszą Polityką prywatności.
+MODYFIKACJE USŁUG.
+Zastrzegamy sobie prawo, według własnego uznania, do modyfikowania, dodawania lub zaprzestania świadczenia usług Grindr lub dowolnej ich części w dowolnym momencie, z dowolnego powodu i bez ponoszenia odpowiedzialności wobec użytkownika, z wyjątkiem przypadków określonych w niniejszym punkcie 6.
+Zastrzegamy sobie jednak prawo do wprowadzania takich modyfikacji, uzupełnień lub zaprzestania świadczenia usług bez takiego powiadomienia, jeśli jest to konieczne w celu zachowania zgodności z prawem, ochrony lub egzekwowania praw lub w inny sposób w celu rozwiązania sytuacji awaryjnej lub jej zapobieżenia.
+Jeśli wprowadzimy istotne zmiany w Usługach Premium, które: (a) ograniczą funkcjonalność dostępną dla Użytkownika w takiej Usłudze Premium i (b) są obowiązkowe (tj. nie wymagają od Użytkownika aktualizacji Oprogramowania Grindr w celu wejścia w życie); Użytkownik może odpowiednio zamknąć swoje konto w ciągu dziesięciu (10) dni od wprowadzenia takich modyfikacji (zgodnie z punktem 11.2) i otrzymać proporcjonalny zwrot wszelkich kwot opłaconych z góry, ale niewykorzystanych na takie Usługi premium.
+Zastrzegamy sobie prawo do pobierania opłat za dostęp do całości lub części Usług Grindr w dowolnym momencie i zmiany takich cen w dowolnym momencie, pod warunkiem że żadne zmiany nie wpłyną na opłaty za Usługi Premium, za które już zapłaciłeś.
+NASZA WŁASNOŚĆ; NASZE PRAWA WŁASNOŚCI.
+Usługi Grindr są własnością Grindr i są przez nią obsługiwane.
+Usługi Grindr, treści, interfejsy wizualne, informacje, grafika, projekty, kompilacje, kod komputerowy, produkty, oprogramowanie, usługi, w tym aplikacje na urządzenia mobilne, oraz wszystkie inne elementy Usług Grindr (łącznie „Materiały”) są chronione prawami autorskimi, wzorami graficznymi, patentami i znakami towarowymi Stanów Zjednoczonych, prawami i konwencjami międzynarodowymi oraz wszystkimi innymi odpowiednimi prawami własności intelektualnej i prawami własności oraz obowiązującymi przepisami prawa.
+Wszystkie Materiały zawarte w Usługach Grindr są własnością Grindr lub jej spółek zależnych lub stowarzyszonych i/lub zewnętrznych licencjodawców.
+Wszystkie znaki towarowe, znaki usługowe i nazwy handlowe wyświetlane w Usługach Grindr są własnością Grindr lub jej podmiotów stowarzyszonych i/lub zewnętrznych licencjodawców.
+Z wyjątkiem sytuacji wyraźnie dozwolonych przez Grindr na mocy niniejszej Umowy, Użytkownik zgadza się nie sprzedawać, licencjonować, dystrybuować, kopiować, modyfikować, publicznie prezentować ani wyświetlać, przekazywać, publikować, edytować, adaptować, tworzyć prac pochodnych ani wykorzystywać Materiałów w inny sposób.
+WYTYCZNE DOTYCZĄCE UŻYTKOWANIA; ZASADY UŻYTKOWANIA; ZABRONIONE POSTĘPOWANIE I UŻYTKOWANIE.
+WYTYCZNE DOTYCZĄCE PROFILU UŻYTKOWNIKA GRINDR, znajdujące się pod adresem http://www.grindr.com/community-guidelines/ („Wytyczne”), z późniejszymi zmianami, zostają niniejszym włączone do niniejszej Umowy przez odniesienie.
+Przed skorzystaniem z Usług Grindr należy uważnie przeczytać Wytyczne.
+MOŻEMY USUNĄĆ TWOJE ZGŁOSZENIA I MOŻEMY ZABLOKOWAĆ TWOJE KONTO.
+Grindr może zażądać od Użytkownika usunięcia lub Grindr może usunąć wszelkie Treści użytkownika (zgodnie z definicją poniżej) w dowolnym momencie z dowolnego powodu lub bez żadnego powodu.
+Jakiekolwiek naruszenie Wytycznych lub niniejszej Umowy przez Twoje Treści Użytkownika, określone przez Grindr, może skutkować zablokowaniem Twojego Konta Użytkownika i może prowadzić do zakończenia Twojego dostępu do Usług Grindr.
+UŻYTKOWNIK ROZUMIE I NINIEJSZYM PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ NA NASTĘPUJĄCE WARUNKI DOTYCZĄCE ZABRONIONEGO POSTĘPOWANIA I WYKORZYSTANIA WYMIENIONYCH PONIŻEJ:
+NIE będziesz używać Usług Grindr ani żadnych informacji wyświetlanych w ramach Usług Grindr do „prześladowania”, nękania, wykorzystywania, zniesławiania, gróźb lub oszukiwania innych Użytkowników; naruszają prywatność lub inne prawa Użytkowników; zbierać, próbować gromadzić, przechowywać lub ujawniać bez pozwolenia lokalizację lub dane osobowe innych Użytkowników;
+NIE będziesz zamieszczać materiałów obraźliwych, pornograficznych lub szkodliwych na stronie profilu osobistego Usług Grindr;
+NIE będziesz korzystać z Usług Grindr do jakichkolwiek celów komercyjnych lub nieprywatnych, takich jak sprzedaż lub reklama towarów lub usług, i będziesz korzystać z Usług Grindr do osobistego, niekomercyjnego użytku wyłącznie w sposób i do celów, które zamierzamy;
+Użytkownik NIE będzie korzystał z usług Grindr w celu zlecania lub zachęcania do jakichkolwiek celów niezgodnych z prawem lub z naruszeniem jakichkolwiek przepisów prawa lokalnego, stanowego, krajowego lub międzynarodowego, w tym przepisów regulujących czyny przestępcze, substancje zabronione lub kontrolowane, własność intelektualną i inne prawa własności, ochrona danych i prywatność oraz kontrola importu lub eksportu;
+NIE będziesz umieszczać na swojej stronie profilu osobistego materiałów, które zawierają wideo, audio, zdjęcia lub obrazy jakiejkolwiek osoby poniżej osiemnastego (18) roku życia lub jakiejkolwiek osoby powyżej osiemnastego (18) roku życia bez jej wyraźnej zgody ;
+NIE będziesz składać niezamówionych ofert, reklam, propozycji ani wysyłać wiadomości-śmieci do innych Użytkowników Usług Grindr.
+Obejmuje to niezamawiane reklamy, materiały promocyjne lub inne materiały nakłaniające, masowe wysyłanie reklam komercyjnych, kolczugi, ogłoszenia informacyjne, prośby o cele charytatywne i petycje o podpisy, ankiety lub prośby o udział w ankietach lub badaniach;
+NIE będziesz podszywać się pod żadną osobę lub podmiot, fałszywie twierdzić, że jest powiązany z jakąkolwiek osobą lub podmiotem, ani uzyskiwać dostępu do Kont Użytkowników Grindr innych Użytkowników;
+NIE będziesz wprowadzać w błąd źródła, tożsamości ani treści informacji przesyłanych za pośrednictwem Usług Grindr;
+NIE będziesz wyświetlać aplikacji Grindr lub danych profilu na jakimkolwiek zewnętrznym wyświetlaczu lub monitorze ani w żadnym miejscu publicznym;
+Użytkownik NIE będzie usuwał, obchodził, wyłączał, uszkadzał ani w inny sposób ingerował w funkcje związane z bezpieczeństwem Usług Grindr, funkcje, które uniemożliwiają lub ograniczają korzystanie lub kopiowanie jakichkolwiek treści dostępnych za pośrednictwem Usług Grindr, ani funkcje wymuszające ograniczenia w korzystaniu z Usług Grindr Usługi;
+NIE będziesz celowo zakłócać ani szkodzić działaniu Usług Grindr ani czerpaniu z nich przyjemności przez Użytkownika w jakikolwiek sposób, w tym przesyłanie lub rozpowszechnianie w inny sposób wirusów, robaków lub innego złośliwego kodu;
+NIE będziesz publikować, przechowywać, wysyłać, przekazywać ani rozpowszechniać żadnych informacji lub materiałów, które rozsądna osoba mogłaby uznać za budzące zastrzeżenia, zniesławiające, oszczercze, obraźliwe, obsceniczne, nieprzyzwoite, pornograficzne, napastliwe, zastraszające, zawstydzające, wulgarne, nienawistne rasistowskich, etnicznych lub w inny sposób obraźliwych dla jakiejkolwiek grupy lub osoby, celowo wprowadzających w błąd, fałszywych lub w inny sposób nieodpowiednich, niezależnie od tego, czy ten materiał lub jego rozpowszechnianie jest niezgodne z prawem;
+NIE będziesz publikować, przechowywać, wysyłać, przesyłać ani rozpowszechniać żadnych informacji ani materiałów, które naruszają jakiekolwiek patenty, znaki towarowe, tajemnice handlowe, prawa autorskie lub jakiekolwiek inne prawa jakiejkolwiek osoby;
+NIE będziesz korzystać z Usług Grindr z żadnymi produktami, systemami ani aplikacjami zainstalowanymi lub w inny sposób połączonymi lub komunikującymi się z pojazdami, lub w inny sposób umożliwiającymi nawigację pojazdu, pozycjonowanie, dyspozycję, prowadzenie po trasie w czasie rzeczywistym, zarządzanie flotą lub podobne aplikacje;
+Użytkownik NIE będzie korzystał z Usług Grindr w związku z niebezpiecznymi środowiskami wymagającymi bezawaryjnej pracy ani z jakąkolwiek aplikacją, w której awaria lub niedokładność tej aplikacji lub Usług Grindr może prowadzić do śmierci, obrażeń ciała lub szkód fizycznych lub szkód majątkowych;
+NIE będziesz podejmować prób uzyskania nieautoryzowanego dostępu do Usług Grindr lub jakiejkolwiek ich części, innych kont, systemów komputerowych lub sieci połączonych z Usługami Grindr lub jakiejkolwiek ich części poprzez hakowanie, wydobywanie haseł lub w jakikolwiek inny sposób ani ingerować w ani próbować ingerować w prawidłowe działanie Usług Grindr lub jakiekolwiek działania prowadzone w Usłudze Grindr;
+NIE będziesz sondować, skanować ani testować podatności Usług Grindr ani żadnego systemu lub sieci; używać jakichkolwiek robotów, pająków, scraperów lub innych zautomatyzowanych środków w celu uzyskania dostępu do Usług Grindr w jakimkolwiek celu bez naszej wyraźnej pisemnej zgody; omijać nasze nagłówki wykluczeń robotów lub inne środki, których możemy używać w celu uniemożliwienia lub ograniczenia dostępu do Usług Grindr; modyfikować Usług Grindr w jakikolwiek sposób lub w jakiejkolwiek formie; używać ani rozwijać aplikacji lub innych produktów wchodzących w interakcję z Usługami Grindr lub zapewniających dostęp do treści lub informacji innych Użytkowników bez naszej pisemnej zgody; ani używać zmodyfikowanych wersji Usług Grindr, w tym w celu uzyskania nieautoryzowanego dostępu do Usług Grindr; I
+NIE będziesz przeszkadzać nikomu w korzystaniu z Usługi Grindr ani pomagać ani zachęcać do jakichkolwiek działań zabronionych niniejszą Umową.
+USŁUGI PREMII; ZAKUPY.
+Usługi premium.
+Niektóre Usługi, takie jak Grindr Xtra lub Grindr Unlimited, mogą być dostępne wyłącznie po utworzeniu Konta Użytkownika i uiszczeniu opłaty („Usługi Premium”).
+Za pośrednictwem takich kont będziesz mieć dostęp do takich Usług Premium na czas określony, który zostanie automatycznie odnowiony.
+Okres obowiązywania, okres odnowienia i całkowity koszt każdej oferty Usług Premium zostaną podane w ramach Usług Grindr lub w inny sposób, w którym oferowane są Usługi Premium.
+USŁUGI PREMIUM AUTOMATYCZNIE ODNAWIAJĄ SIĘ.
+USŁUGI PREMIUM ODNAWIAJĄ SIĘ AUTOMATYCZNIE CIĄGLE POD KONIEC OKRESU SUBSKRYPCJI, A TWOJA METODA PŁATNOŚCI BĘDZIE AUTOMATYCZNIE OBCIĄŻANA WEDŁUG AKTUALNEJ CENY ODNOWIENIA (ORAZ OBOWIĄZUJĄCYCH PODATKÓW), BEZ JAKICHKOLWIEK DODATKOWYCH DZIAŁAŃ Z TWOJEJ STRONY.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ, ŻE USŁUGI PREMIUM ODNAWIAJĄ SIĘ AUTOMATYCZNIE, CHYBA ICH ANULOWANIA LUB ZAWIESZENIA LUB ZAKOŃCZENIA ICH ZGODNIE Z NINIEJSZĄ UMOWĄ.
+ZASADY ANULOWANIA.
+MOŻESZ ANULOWAĆ USŁUGI PREMIUM W DOWOLNYM CZASIE, ZGODNIE Z WARUNKAMI NINIEJSZEJ UMOWY.
+W CELU ANULOWANIA NALEŻY POSTĘPOWAĆ Z INSTRUKCJAMI PODANYMI W USŁUGACH GRINDR.
+NIE MA ŻADNYCH OPŁAT ZA ANULOWANIE.
+INSTRUKCJE DOTYCZĄCE ANULOWANIA USŁUG PREMIUM MOŻNA OTRZYMAĆ PRZEZ PROŚBĘ E-MAIL NA ADRES help@grindr.com.
+Premie próbne.
+Dostęp do usług Grindr Premium może być od czasu do czasu udostępniany w ramach ograniczonej czasowo bezpłatnej wersji próbnej („Próbna” lub „Premium próbne”).
+Należy pamiętać, że niniejsza Umowa dotyczy również dowolnej wersji próbnej.
+Możesz zostać poproszony o podanie informacji o swojej karcie kredytowej lub debetowej podczas rejestracji do wersji próbnej.
+W takim przypadku Twoja karta kredytowa lub debetowa zostanie obciążona tylko wtedy, gdy nie anulujesz swojego okresu próbnego przed końcem okresu próbnego.
+Jeśli poprosimy o podanie danych Twojej karty kredytowej lub debetowej, a Ty nie anulujesz jednoznacznie przed zakończeniem Okresu próbnego, Twój Okres próbny może zostać przekształcony w płatną subskrypcję, a Twoja karta kredytowa lub debetowa może zostać obciążona opłatą abonamentową obowiązującą w czasie Twoja Próba rozpoczęła się jako pierwsza.
+Subskrypcje próbne nie są dostępne dla byłych Użytkowników Usług Premium lub Użytkowników, którzy wcześniej otrzymali bezpłatną wersję próbną i anulowali ją przed opłaceniem Usług Premium.
+Zakupy.
+Zastrzegamy sobie prawo do poprawiania błędów (poprzez zmianę informacji w Usługach Grindr lub poprzez poinformowanie Cię o błędzie i umożliwienie anulowania zamówienia) lub do aktualizacji informacji w dowolnym momencie bez powiadomienia.
+Możemy przyjąć lub odrzucić prośby o anulowanie poszczególnych zamówień według naszego wyłącznego uznania.
+Wszystkie wyprzedaże się skończyły.
+Kody promocyjne.
+Grindr może od czasu do czasu, według własnego uznania, oferować określone kody promocyjne na zniżki.
+Kody promocyjne są niezbywalne i nie można ich wymienić na gotówkę, kredyt ani na wcześniejsze zakupy.
+Nie ma alternatywy dla gotówki.
+Ponadto kody promocyjne nie mogą być używane w połączeniu z żadną inną ofertą lub zniżką promocyjną i muszą zostać wykorzystane przed opublikowaną datą, jeśli została podana.
+Utraconych kodów promocyjnych nie można wymienić.
+Ogranicz jeden kod promocyjny na klienta.
+Kody promocyjne są nieważne tam, gdzie są zabronione.
+Każdy program promocyjny może zostać zakończony lub zmodyfikowany przez Grindr w dowolnym momencie według naszego wyłącznego uznania.
+Płatności nie podlegają zwrotowi.
+O ile wyraźnie nie postanowiono inaczej w niniejszej Umowie (w tym w Artykule 24, jeśli Użytkownik jest rezydentem niektórych stanów Stanów Zjednoczonych oraz w Warunkach specjalnych, jeśli Użytkownik jest rezydentem niektórych krajów), wszelkie płatności dokonane na rzecz Grindr są ostateczne, a wszystkie opłaty nie refundowane.
+Anulowanie obowiązuje w następnym okresie rozliczeniowym, w którym płatność jest należna, chyba że niniejsza Umowa wyraźnie stanowi inaczej.
+podatki.
+O ile w momencie zakupu nie określono inaczej, wszystkie płatności na rzecz Grindr nie obejmują żadnych podatków, opłat ani ceł nałożonych przez organy podatkowe, a Ty jesteś odpowiedzialny za zapłacenie wszystkich takich podatków, opłat lub ceł.
+Mikrotransakcje.
+Od czasu do czasu Użytkownik może mieć możliwość zakupu ograniczonej, osobistej, nieprzenoszalnej, niepodlegającej podlicencjonowaniu i odwołalnej licencji na określone funkcje dodatkowe do użytku wyłącznie w Usługach Grindr (łącznie „Mikrotransakcje”).
+Grindr zastrzega sobie prawo do pobierania opłat, według własnego uznania, za prawo dostępu do funkcji dodatkowych lub korzystania z nich i/lub może rozpowszechniać funkcje dodatkowe za opłatą lub bezpłatnie.
+Grindr może w dowolnym momencie zarządzać, regulować, kontrolować, modyfikować lub eliminować Mikrotransakcje i/lub funkcje dodatkowe.
+Wszelkie saldo funkcji dodatkowych widoczne na Twoim koncie użytkownika nie stanowi rzeczywistego salda ani nie odzwierciedla żadnej przechowywanej wartości, lecz stanowi miarę zakresu Twojej licencji.
+Funkcje dodatkowe nie wiążą się z opłatami za nieużywanie; jednakże licencja udzielona Użytkownikowi w ramach Mikrotransakcji wygaśnie zgodnie z warunkami niniejszej Umowy, gdy przestaniemy świadczyć Usługi Grindr lub gdy Konto Użytkownika zostanie zamknięte lub usunięte w inny sposób.
+Grindr nie ponosi żadnej odpowiedzialności wobec Użytkownika ani osób trzecich w przypadku skorzystania przez Grindr z takich praw.
+Udostępnianie funkcji dodatkowych do użytku w Usługach Grindr jest usługą rozpoczynającą się natychmiast po zaakceptowaniu takich Mikrotransakcji.
+WSZYSTKIE MIKROTRANSAKCJE DOKONYWANE ZA POŚREDNICTWEM USŁUG GRINDR SĄ OSTATECZNE I BEZZWROTNE.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI, ŻE GRINDR NIE JEST ZOBOWIĄZANY DO ZAPEWNIENIA ZWROTU PIENIĘDZY Z JAKIEGOKOLWIEK POWODU I ŻE NIE OTRZYMASZ PIENIĘDZY ANI INNEJ KOSZTÓW ZA NIEWYKORZYSTANE FUNKCJE DODATKOWE, GDY KONTO ZOSTANIE ZAMKNIĘTE, NIEZALEŻNIE OD DOBROWOLNOŚCI CZY PRZYMÓWIENIA.
+TWOJE WYKORZYSTANIE.
+Użytkownik przyjmuje do wiadomości, że dostęp do niektórych Usług Grindr można uzyskać wyłącznie po pobraniu Oprogramowania Grindr na urządzenie mobilne.
+Nie będziesz mieć możliwości przeglądania Treści użytkownika (w tym czatu), chyba że pobierzesz Oprogramowanie Grindr i zarejestrujesz konto.
+GRINDR ZASTRZEGA SOBIE PRAWO, ALE NIE MA OBOWIĄZKU, DO MONITOROWANIA KORZYSTANIA Z USŁUG GRINDR PRZEZ JAKIEGOKOLWIEK UŻYTKOWNIKA, W TYM REJESTRACJI UŻYTKOWNIKA LUB PRZESYŁANIA WIADOMOŚCI, ORAZ KORZYSTANIA PRZEZ UŻYTKOWNIKA Z INFORMACJI O LOKALIZACJI I PROFILI INNYCH UŻYTKOWNIKÓW LUB DOSTĘPU DO nich.
+W ZWIĄZKU Z TYM GRINDR ZASTRZEGA RÓWNIEŻ PRAWO DO (A) ZABLOKOWANIA UŻYTKOWNIKOWI UŻYTKOWANIA LUB DOSTĘPU DO USŁUG GRINDR, W TYM DO INFORMACJI O LOKALIZACJI LUB PROFILI INNYCH UŻYTKOWNIKÓW LUB (B) ZAMKNIĘCIA KONTA UŻYTKOWNIKA Z DOWOLNEGO POWODU I BEZ JAKIEGOKOLWIEK POWIADOMIENIA LUB NASZEJ ODPOWIEDZIALNOŚĆ WOBEC CIEBIE.
+ZWROTY BĘDĄ PRZYZNAWANE WYŁĄCZNIE W PRZYPADKU WYRAŹNIE OKREŚLONYCH W NINIEJSZEJ UMOWIE.
+Wyłącznie Ty ponosisz odpowiedzialność za swoje zaangażowanie w kontakt z innymi Użytkownikami oraz za wszelkie treści i materiały, które dostarczasz do Usług Grindr.
+Zgadzasz się, że Grindr nie ponosi odpowiedzialności za jakiekolwiek straty lub szkody poniesione w wyniku takich interakcji.
+Grindr zastrzega sobie prawo, ale nie ma obowiązku, monitorowania nieporozumień między Tobą a innymi Użytkownikami.
+Grindr nie kontroluje zawartości Kont i profili Użytkowników.
+Grindr ma prawo, ale nie ma obowiązku, monitorowania takich treści w dowolnym celu.
+Użytkownik przyjmuje do wiadomości, że ponosi wyłączną odpowiedzialność za wszystkie treści i materiały, które dostarcza do Usług Grindr.
+NASZA ODMOWA LUB ZAWIESZENIE ŚWIADCZENIA USŁUG.
+Użytkownik może zamknąć swoje konto w dowolnym momencie z dowolnego powodu, postępując zgodnie z instrukcjami podanymi w Usługach Grindr.
+Po anulowaniu Twojego konta niniejsza Umowa zostanie natychmiast rozwiązana, z wyjątkiem przypadków określonych w sekcji 25.4 poniżej.
+Jeśli masz Konto Użytkownika skonfigurowane do cyklicznego rozliczania się za Usługę Premium, możesz anulować swoje Konto Użytkownika w dowolnym momencie.
+Będziesz mieć taki sam dostęp przez każdy okres rozliczeniowy lub okresy, za które zapłaciłeś.
+Grindr może zawiesić lub zamknąć dowolne Konto Użytkownika, które posiadasz w Usługach Grindr lub Twój dostęp do Usług Grindr lub korzystanie z nich lub jakiejkolwiek ich części, jeśli Grindr uzna, że ​​treść Twojego profilu lub Twoje zachowanie w ramach Usług Grindr narusza nasze Warunki świadczenia usług lub w inny sposób naruszył niniejszą Umowę lub z jakiegokolwiek innego powodu, według własnego uznania, z zastrzeżeniem sekcji 11.4 i 11.5 poniżej.
+Grindr może również w dowolnym momencie usunąć i odrzucić całość lub część Konta Użytkownika lub Treści Użytkownika (zgodnie z definicją poniżej).
+Zgadzasz się, że każde zakończenie Twojego dostępu do Usług Grindr lub Konta Użytkownika, które posiadasz, lub jego części, może nastąpić bez uprzedniego powiadomienia (z wyjątkiem przypadków określonych w sekcji 11.4 poniżej) i zgadzasz się, że Grindr nie będzie ponosić odpowiedzialności wobec Ciebie ani jakiejkolwiek stronie trzeciej za takie wypowiedzenie, a zwroty będą wypłacane wyłącznie w przypadkach wyraźnie określonych w niniejszej Umowie (w tym w sekcji 11.5 poniżej).
+Na przykład możemy dezaktywować Twoje Konto Użytkownika z powodu przedłużającej się nieaktywności.
+Bez ograniczania naszych innych praw, zastrzegamy sobie prawo do usunięcia wszystkich Treści użytkownika z Usług Grindr po zamknięciu lub anulowaniu konta użytkownika.
+Wszelkie podejrzenia o oszustwa, nadużycia lub nielegalne działania, które mogą stanowić podstawę do zaprzestania korzystania przez Użytkownika z Usług Grindr, mogą zostać przekazane odpowiednim organom ścigania.
+Te środki zaradcze stanowią dodatek do wszelkich innych środków, które Grindr może przysługiwać na mocy prawa lub na zasadzie słuszności.
+Jeśli zapłaciłeś za Usługę Premium, Grindr powiadomi Cię z co najmniej 30-dniowym wyprzedzeniem o zakończeniu Twojego dostępu do Usług Grindr lub dowolnego Konta Użytkownika, chyba że treść Twojego profilu lub Twoje zachowanie w ramach Usług Grindr narusza nasze Warunki świadczenia usług lub w inny sposób naruszyli niniejszą Umowę, w takim przypadku Grindr może natychmiast zawiesić lub zablokować Twój dostęp do Usług Grindr lub dowolnego Konta użytkownika.
+Jeśli zapłaciłeś za Usługę Premium, a Grindr odmówi Ci dostępu do Usług Grindr lub dowolnego Konta użytkownika, Grindr dokona proporcjonalnego zwrotu wszelkich kwot opłaconych z góry, ale niewykorzystanych na takie Usługi Premium; pod warunkiem, że jeśli Grindr zamknie Ci dostęp do Usług Grindr lub dowolnego Konta Użytkownika z powodu naruszenia przez Ciebie naszych Warunków świadczenia usług, Grindr będzie uprawniony do zatrzymania kwot zapłaconych przez Ciebie za Usługi Grindr.
+Jednak tam, gdzie jest to wymagane przez prawo (np. w Wielkiej Brytanii), Grindr zatrzyma tylko kwotę na pokrycie wszystkich kosztów i innych strat poniesionych w wyniku naruszenia lub naruszenia, co może nadal oznaczać, że zwrot nie jest należny.
+Użytkownik przyjmuje do wiadomości i zgadza się, że firma Google, Apple lub inny dostawca platformy zewnętrznej (w zależności od używanego urządzenia i systemu operacyjnego) może być zarejestrowanym handlowcem w przypadku transakcji obejmujących Usługi Grindr.
+W związku z tym może być konieczne zażądanie zwrotu kosztów, do którego Użytkownik jest uprawniony na mocy niniejszej Umowy, za pośrednictwem sklepu App Store, Google Play lub innej platformy strony trzeciej (w stosownych przypadkach).
+Jeśli uważasz, że Grindr zawiesił lub zamknął Twoje konto użytkownika przez pomyłkę, możesz w dowolnym momencie skontaktować się z nami pod adresem help@grindr.com.
+TREŚCI UŻYTKOWNIKA.
+Usługi Grindr umożliwiają przesyłanie treści i materiałów (takich jak zdjęcia, pomysły, notatki, koncepcje lub kreatywne sugestie) przez Ciebie i innych Użytkowników do Grindr i innych Użytkowników („Treści Użytkownika”) oraz hostowanie, udostępnianie i/lub publikowanie takich Treści Użytkownika u Grindr i innych Użytkowników.
+Ponosisz wyłączną odpowiedzialność za własne Treści użytkownika i konsekwencje ich opublikowania lub opublikowania.
+W związku z Treściami Użytkownika oświadczasz i gwarantujesz, że: (i) jesteś właścicielem lub posiadasz niezbędne licencje, prawa, zgody i zezwolenia na używanie oraz upoważniasz Grindr do używania całej własności intelektualnej i wszelkich innych praw własności do wszelkie Treści Użytkownika, aby umożliwić włączenie i korzystanie z Treści Użytkownika w sposób przewidziany w Usługach Grindr i niniejszej Umowie; oraz (ii) masz pisemną zgodę, zwolnienie i/lub zezwolenie każdej możliwej do zidentyfikowania osoby w Treściach użytkownika na używanie imienia lub wizerunku każdej takiej możliwej do zidentyfikowania osoby fizycznej w celu umożliwienia włączenia i korzystania z Treści użytkownika w sposób przewidziany w Usługach Grindr i niniejszej Umowie.
+Dla jasności, zachowujesz wszystkie swoje prawa własności do Treści użytkownika.
+Użytkownik przyjmuje do wiadomości, że podczas korzystania z Usług Grindr będzie narażony na Treści Użytkownika pochodzące z różnych źródeł oraz że Grindr nie ponosi odpowiedzialności za dokładność, użyteczność, bezpieczeństwo ani prawa własności intelektualnej do takich Treści Użytkownika lub z nimi związane.
+Ponadto rozumiesz i potwierdzasz, że możesz być narażony na Treści użytkownika, które są niedokładne, obraźliwe, nieprzyzwoite lub budzące sprzeciw.
+Grindr nie ponosi żadnej odpowiedzialności w związku z Treściami Użytkownika lub wynikającymi z nich.
+Grindr nie ponosi odpowiedzialności za aktywne monitorowanie Treści Użytkownika pod kątem nieodpowiednich treści.
+Jeśli w dowolnym momencie Grindr zdecyduje, według własnego uznania, monitorować Treści Użytkownika, Grindr mimo wszystko nie ponosi odpowiedzialności za treść Treści Użytkownika, nie jest zobowiązany do modyfikowania lub usuwania nieodpowiednich Treści Użytkownika ani nie ponosi żadnej odpowiedzialności za zachowanie Użytkownika przesyłanie Treści Użytkownika.
+Ponadto Grindr nie popiera i nie kontroluje treści Treści Użytkownika przesłanych przez innych Użytkowników.
+Grindr nie udziela żadnych gwarancji, wyraźnych ani dorozumianych, co do treści Treści użytkownika ani dokładności i wiarygodności jakichkolwiek Treści użytkownika.
+Niemniej jednak Grindr zastrzega sobie prawo do uniemożliwienia użytkownikowi przesyłania Treści użytkownika oraz do edytowania, ograniczania lub usuwania Treści użytkownika z dowolnego powodu w dowolnym momencie.
+Treści użytkownika są własnością Użytkownika, który je przesłał, z zastrzeżeniem licencji Grindr na takie Treści użytkownika na mocy niniejszej Umowy.
+Użytkownik nie może udostępniać, wyświetlać ani powielać Treści Użytkownika jakiejkolwiek innej strony, z wyjątkiem przypadków dozwolonych w niniejszej Umowie.
+Niniejszym udzielasz i oświadczasz i gwarantujesz, że masz prawo udzielić Grindr nieodwołalnej, niewyłącznej, nieodpłatnej i w pełni opłaconej ogólnoświatowej licencji na reprodukcję, dystrybucję, publiczne wyświetlanie i wykonywanie, przygotowywanie dzieł pochodnych, włączanie do innych działa, a także w inny sposób wykorzystywać i wykorzystywać Treści Użytkownika (poprzez nieograniczone poziomy sublicencji) wyłącznie w celu włączenia Treści Użytkownika do Usług Grindr oraz w inny sposób dozwolony w niniejszej Umowie.
+Zgadzasz się nieodwołalnie zrzec się (i spowodować zrzeczenie się) wszelkich roszczeń i twierdzeń dotyczących praw osobistych lub przypisania w odniesieniu do Treści użytkownika.
+Niniejszym udzielasz również Grindr, w związku ze sprzedażą Grindr lub aktywów Grindr, prawa do sprzedaży lub przeniesienia Treści użytkownika na stronę trzecią.
+Zapoznaj się z naszą Polityką prywatności, aby uzyskać dodatkowe informacje na temat wykorzystywania, gromadzenia lub udostępniania Twoich danych, w tym Treści użytkownika.
+Jeśli przekażesz Grindr jakiekolwiek opinie lub sugestie dotyczące Usług Grindr („Informacje zwrotne”), niniejszym udzielasz Grindr wieczystej, nieodwołalnej, ogólnoświatowej licencji (z prawem do udzielania podlicencji) na korzystanie z takich Opinii i powiązanych informacji w dowolny sposób, jaki uzna za właściwy .
+Grindr będzie traktować każdą Opinię przekazaną Grindr jako niepoufną i niezastrzeżoną.
+Grindr nie będzie w żadnych okolicznościach zobowiązany do zrekompensowania Użytkownikowi jakichkolwiek Informacji zwrotnych.
+Zgadzasz się, że nie przekażesz Grindr żadnych informacji ani pomysłów, które uważasz za poufne lub zastrzeżone, lub za które oczekujesz wynagrodzenia.
+WITRYNY, PRODUKTY I USŁUGI OSÓB TRZECICH; SPINKI DO MANKIETÓW.
+Usługi Grindr mogą zawierać łącza do innych witryn internetowych lub usług, czy to w reklamach, czy w inny sposób („Witryny osób trzecich”) wyłącznie dla wygody Użytkowników.
+Grindr nie rekomenduje takich witryn, do których prowadzą łącza, ani informacji, materiałów, produktów lub usług zawartych w innych witrynach, do których prowadzą łącza, lub dostępnych za pośrednictwem innych witryn, do których prowadzą łącza.
+Ponadto Grindr nie udziela żadnych wyraźnych ani dorozumianych gwarancji w odniesieniu do informacji, materiałów, produktów lub usług zawartych w witrynach, do których prowadzą łącza, lub dostępnych za ich pośrednictwem.
+Dostęp i korzystanie z witryn, do których prowadzą łącza, w tym informacji, materiałów, produktów i usług w witrynach, do których prowadzą łącza, lub dostępnych za pośrednictwem witryn, do których prowadzą łącza, odbywa się wyłącznie na Twoje własne ryzyko.
+Nie kontrolujemy tych Witryn osób trzecich, a niniejsza Umowa nie ma zastosowania do firm, których Grindr nie jest właścicielem ani nie kontroluje, ani do działań osób, których Grindr nie zatrudnia ani którymi nie zarządza.
+Należy zawsze sprawdzać warunki użytkowania zamieszczone na Stronach internetowych osób trzecich.
+Twoja korespondencja, kontakty biznesowe lub udział w promocjach reklamodawców znalezionych w Usługach Grindr lub za ich pośrednictwem są wyłącznie między Tobą a takim reklamodawcą.
+Użytkownik zgadza się, że Grindr nie ponosi odpowiedzialności za jakiekolwiek straty lub szkody jakiegokolwiek rodzaju poniesione w wyniku takich transakcji lub w wyniku obecności takich reklamodawców w Usługach Grindr.
+Podmioty inne niż Grindr mogą świadczyć usługi lub sprzedawać produkty za pośrednictwem Usług Grindr.
+Nie ponosimy odpowiedzialności za badanie ani ocenę ani nie gwarantujemy ofert żadnej z tych firm ani treści ich ofert produktów i usług.
+Grindr nie przyjmuje żadnej odpowiedzialności za działania, produkty i treści wszystkich tych stron ani żadnych innych stron trzecich.
+Należy dokładnie zapoznać się z oświadczeniami o ochronie prywatności stron trzecich oraz innymi warunkami użytkowania.
+Korzystając z aplikacji innych firm, które łączą się z Usługami Grindr („Aplikacje innych firm”), potwierdzasz i zgadzasz się, że Grindr może przesyłać Treści użytkownika do Witryn innych firm lub Aplikacji innych firm za pośrednictwem interfejsów protokołów aplikacji opracowanych i utrzymywanych przez te Witryny lub Aplikacje Osób Trzecich.
+Grindr nie ponosi odpowiedzialności za przesyłanie Treści Użytkownika z Usług Grindr do Witryn Internetowych Osób Trzecich lub Aplikacji Osób Trzecich ani za korzystanie z Treści Użytkownika w Witrynach internetowych Osób Trzecich lub Aplikacjach Osób Trzecich.
+Powinieneś zapoznać się z warunkami świadczenia usług i polityką prywatności wszelkich Stron internetowych lub Aplikacji stron trzecich.
+Grindr nie ponosi odpowiedzialności i nie popiera żadnych funkcji, treści ani innych materiałów dostępnych w Witrynach osób trzecich lub Aplikacjach osób trzecich lub za ich pośrednictwem.
+Grindr nie monitoruje, nie kontroluje ani nie zatwierdza Witryn osób trzecich ani Aplikacji osób trzecich.
+W związku z tym, jeśli zdecydujesz się uzyskać dostęp do Witryn osób trzecich lub Aplikacji stron trzecich, robisz to na własne ryzyko i zgadzasz się, że korzystanie przez Ciebie z jakichkolwiek Witryn osób trzecich lub Aplikacji stron trzecich odbywa się na zasadzie „tak jak jest”, bez żadnych gwarancji dotyczących działania Witryn osób trzecich lub Aplikacji stron trzecich oraz że niniejsza Umowa nie ma zastosowania do korzystania przez Ciebie z jakichkolwiek Witryn osób trzecich lub Aplikacji stron trzecich.
+Użytkownik przyjmuje do wiadomości i zgadza się, że Grindr może łączyć Treści Użytkownika i informacje o lokalizacji dla Kont Użytkowników z Usług Grindr z zewnętrznymi źródłami informacji i aplikacjami innych firm podczas świadczenia Usług Grindr.
+W zakresie, w jakim jakiekolwiek Twoje Treści Użytkownika zawierają Twoje dane osobowe (zgodnie z definicją w Polityce Prywatności), wszelkie przekazywanie takich Danych Osobowych będzie podlegać Polityce Prywatności.
+REKLAMA.
+Grindr i jego licencjobiorcy mogą publicznie wyświetlać reklamy i inne informacje obok Treści użytkownika.
+Nie masz prawa do żadnej rekompensaty za takie reklamy.
+Sposób, tryb i zakres takiej reklamy mogą ulec zmianie bez specjalnego powiadomienia lub naszej odpowiedzialności wobec Ciebie.
+LICENCJE UŻYTKOWNIKA KOŃCOWEGO.
+Urządzenie przenośne.
+Aby korzystać z Oprogramowania Grindr, Użytkownik musi posiadać urządzenie mobilne zgodne z Usługami Grindr.
+Grindr nie gwarantuje, że Usługi Grindr będą kompatybilne z Twoim urządzeniem mobilnym.
+Ponosisz odpowiedzialność za wszelkie opłaty komórkowe, które możesz ponieść za korzystanie z Usług Grindr, w tym za wiadomości tekstowe, opłaty roamingowe i opłaty za transmisję danych.
+Jeśli nie masz pewności co do obowiązujących opłat, przed skorzystaniem z usług Grindr skontaktuj się ze swoim dostawcą usług mobilnych.
+Przyznanie licencji.
+Z zastrzeżeniem przestrzegania przez Użytkownika warunków niniejszej Umowy, Grindr niniejszym udziela Użytkownikowi niewyłącznej, niezbywalnej, odwołalnej licencji na (i) korzystanie ze skompilowanej kopii kodu Oprogramowania Grindr na koncie Użytkownika na urządzeniu mobilnym będącym własnością lub dzierżawionym wyłącznie przez Użytkownika do osobistego, niekomercyjnego użytku oraz (ii) korzystać z Usług Grindr (innych niż Oprogramowanie Grindr) do osobistego, niekomercyjnego użytku zgodnie z przeznaczeniem Grindr, o czym Grindr od czasu do czasu komunikuje publicznie.
+Ograniczenia.
+Użytkownikowi NIE wolno: (i) modyfikować, dezasemblować, dekompilować ani przeprowadzać inżynierii wstecznej Usług Grindr ani żadnej technologii udostępnionej w związku z Usługami Grindr, z wyjątkiem przypadków, w których takie ograniczenie jest wyraźnie zabronione przez prawo bez możliwości umownego zrzeczenia się; (ii) wynajmować, dzierżawić, pożyczać, odsprzedawać, udzielać sublicencji, dystrybuować ani w inny sposób przekazywać Usług Grindr osobom trzecim ani wykorzystywać Usług Grindr do udostępniania czasu lub podobnych usług na rzecz osób trzecich; (iii) wykonywać żadnych kopii Usług Grindr; (iv) usuwać, obchodzić, wyłączać, uszkadzać lub w inny sposób ingerować w funkcje związane z bezpieczeństwem Usług Grindr, funkcje uniemożliwiające lub ograniczające korzystanie lub kopiowanie jakichkolwiek treści dostępnych za pośrednictwem Usług Grindr lub funkcje wymuszające ograniczenia w korzystaniu z Usług Grindr Usługi; ani (v) tworzyć rozszerzeń produktów powiązanych z Usługami Grindr lub współpracujących z nimi, z wyjątkiem przypadków, w których takie ograniczenie jest wyraźnie zabronione przez prawo bez możliwości umownego zrzeczenia się; lub (vi) usuwać informacji o prawach autorskich i innych prawach własności w Usługach Grindr.
+Ulepszenia.
+Użytkownik przyjmuje do wiadomości, że Grindr może od czasu do czasu wydawać ulepszone wersje Usług Grindr i może automatycznie aktualizować drogą elektroniczną wersję Usług Grindr, z których korzysta na swoim urządzeniu mobilnym lub w inny sposób.
+Wyrażasz zgodę na taką automatyczną aktualizację na swoim urządzeniu mobilnym i zgadzasz się, że warunki niniejszej Umowy będą miały zastosowanie do wszystkich takich aktualizacji.
+Zgadzasz się, że Grindr nie będzie ponosić wobec Ciebie odpowiedzialności za takie aktualizacje.
+Otwarte źródło.
+W zakresie, w jakim Usługi Grindr wykorzystują kod open source lub kod strony trzeciej, który może być włączony do Usług Grindr, taki kod open source lub kod strony trzeciej jest objęty odpowiednią umową EULA typu open source lub licencją strony trzeciej, jeśli taka istnieje, zezwalające na użycie takiego kodu.
+Żadne z postanowień niniejszej Umowy nie ogranicza Twoich praw ani nie przyznaje Ci praw, które zastępują warunki jakiejkolwiek stosownej licencji użytkownika końcowego na takie oprogramowanie typu open source.
+Aby uzyskać więcej informacji, skontaktuj się z nami pod adresem legal@grindr.com (wpisując „Open Source” w temacie e-maila).
+Prawa zastrzeżone.
+Powyższa licencja udzielona na mocy niniejszej Umowy nie stanowi sprzedaży Usług Grindr ani ich kopii, a Grindr lub jej zewnętrzni partnerzy lub dostawcy zachowują wszelkie prawa, tytuły i udziały w Usługach Grindr (i wszelkich ich kopiach).
+Wszelkie próby przeniesienia przez Ciebie jakichkolwiek praw, obowiązków lub obowiązków wynikających z niniejszej Umowy, z wyjątkiem przypadków wyraźnie określonych w niniejszej Umowie, są nieważne.
+Grindr zastrzega sobie wszelkie prawa, które nie zostały wyraźnie przyznane na mocy niniejszej Umowy.
+Znaki towarowe, znaki usługowe i logo.
+Nazwy i logo związane z Usługami Grindr są własnością Grindr.
+Żadne użycie tych znaków nie jest dozwolone, chyba że za uprzednią pisemną autoryzacją i zgodą Grindr.
+Wszelkie prawa zastrzeżone.
+Użytkownicy końcowi z sektora rządowego.
+Usługi Grindr są przeznaczone do użytku przez osoby fizyczne, a nie podmioty rządowe.
+Jeśli Grindr upoważnia do korzystania z Usług Grindr w imieniu rządu Stanów Zjednoczonych lub rząd Stanów Zjednoczonych korzysta z Usługi Grindr bez upoważnienia, wówczas używanie, powielanie, wyświetlanie, modyfikowanie, powielanie, wydawanie, wykonywanie, dystrybucja i ujawnianie Usług Grindr (lub jej część) przez rząd Stanów Zjednoczonych podlega ograniczeniom określonym w niniejszej Umowie oraz zgodnie z DFARS 227.7202-1(a) i 227.7202-3(a) (1995), DFARS 252.227-7013(c)(1) (ii) (PAŹDZIERNIK 1988), FAR 12.212(a) (1995), FAR 52.227-19 lub FAR 52.227-14 (ALT III), odpowiednio.
+W przeciwnym razie żadne z postanowień niniejszej Umowy ani w żaden inny sposób nie daje użytkownikowi rządowemu praw do Usług Grindr szerszych niż te określone w niniejszej Umowie.
+Kontrola eksportu.
+Usługi Grindr pochodzą ze Stanów Zjednoczonych i podlegają przepisom i regulacjom eksportowym Stanów Zjednoczonych.
+Usługi Grindr nie mogą być eksportowane ani reeksportowane przez Użytkownika do niektórych krajów lub osób lub podmiotów, którym zabroniono eksportu ze Stanów Zjednoczonych.
+Ponadto Usługi Grindr mogą podlegać przepisom importowym i eksportowym innych krajów.
+Użytkownik zgadza się przestrzegać wszystkich przepisów prawa Stanów Zjednoczonych i innych krajów związanych z korzystaniem z Usług Grindr.
+Sklepy z aplikacjami.
+Użytkownik przyjmuje do wiadomości i zgadza się, że dostępność Usług Grindr zależy od strony trzeciej, od której Użytkownik otrzymał Usługi Grindr, np. Android Market lub Apple App Store (każdy z nich zwany „Sklepem z aplikacjami”).
+Użytkownik przyjmuje do wiadomości, że niniejsza Umowa została zawarta między Użytkownikiem a Grindr, a nie ze sklepem App Store.
+Każdy App Store może mieć własne warunki, na które Użytkownik musi wyrazić zgodę przed pobraniem z niego Usług Grindr.
+Zgadzasz się przestrzegać, a Twoja licencja na korzystanie z Usług Grindr jest uzależniona od przestrzegania przez Ciebie wszystkich obowiązujących warunków odpowiedniego sklepu z aplikacjami.
+NASZE WYŁĄCZENIA ODPOWIEDZIALNOŚCI; ŻADNYCH GWARANCJI DLA CIEBIE.
+NIEKTÓRE PRZEPISY STANOWE, PROWINCJALNE I KRAJOWE NIE ZEZWALAJĄ NA OGRANICZENIA DOROZUMIANYCH GWARANCJI.
+JEŚLI TE PRAWA MAJĄ ZASTOSOWANIE DO UŻYTKOWNIKA, NIEKTÓRE LUB WSZYSTKIE Z POWYŻSZYCH WYŁĄCZEŃ, WYŁĄCZEŃ LUB OGRANICZEŃ MOGĄ NIE MIEĆ ZASTOSOWANIA DO UŻYTKOWNIKA I MOGĄ MIEĆ DODATKOWE PRAWA.
+PROSZĘ ZAPOZNAĆ SIĘ Z „SPECJALNYMI WARUNKAMI DLA UŻYTKOWNIKÓW MIĘDZYNARODOWYCH”, W CELU ZNAJDOWANIA NIEKTÓRYCH WYJĄTKÓW DLA TAKICH UŻYTKOWNIKÓW.
+USŁUGI GRINDR ORAZ WSZELKIE OPROGRAMOWANIE, USŁUGI LUB APLIKACJE UDOSTĘPNIONE W POŁĄCZENIU Z USŁUGAMI GRINDR LUB ZA POŚREDNICTWEM USŁUG GRINDR SĄ ŚWIADCZONE W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO „TAK JAK JEST”, „W MIARĘ DOSTĘPNOŚCI” ORAZ „ZE WSZYSTKIMI WADAMI” ORAZ BEZ JAKICHKOLWIEK GWARANCJI WYRAŹNYCH LUB DOROZUMIANYCH.
+FIRMA GRINDR ORAZ JEJ DOSTAWCY, PODMIOTY STOWARZYSZONE I LICENCJODAWCY WYŁĄCZAJĄ WSZELKIE GWARANCJE, WYRAŹNE LUB DOROZUMIANE, W TYM DOROZUMIANE GWARANCJE TYTUŁU, PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW WŁASNOŚCI.
+FIRMA GRINDR ORAZ JEJ DOSTAWCY I LICENCJODAWCY NIE GWARANTUJĄ, ŻE FUNKCJE ZAWARTE W USŁUGACH GRINDR BĘDĄ DZIAŁAĆ NIEPRZERWANIE LUB WOLNE OD BŁĘDÓW, ŻE WADY ZOSTANĄ USUNIĘTE ANI ŻE USŁUGI GRINDR LUB SERWER, KTÓRY UDOSTĘPNIAJĄ, SĄ WOLNE OD WIRUSÓW LUB INNYCH SZKODLIWE SKŁADNIKI.
+GRINDR ORAZ JEGO DOSTAWCY I LICENCJODAWCY (W TYM ZEWNĘTRZNI LICENCJODAWCY OPERATORÓW BEZPRZEWODOWYCH GRINDR) NIE GWARANTUJĄ ANI NIE SKŁADAJĄ ŻADNYCH OŚWIADCZEŃ DOTYCZĄCYCH UŻYTKOWANIA LUB SKUTKÓW WYKORZYSTANIA JAKICHKOLWIEK INFORMACJI O LOKALIZACJI LUB INNYCH USŁUG GRINDR W ZAKRESIE BEZPIECZEŃSTWA, POPRAWNOŚCI, DOKŁADNOŚCI, WIARYGODNOŚCI LUB INNEJ INFORMACJI.
+UŻYTKOWNIK (A NIE GRINDR LUB JEJ DOSTAWCY LUB LICENCJODAWCY) PONOSI CAŁKOWITY KOSZT WSZELKICH NIEZBĘDNYCH USŁUG LUB SPRZĘTU NIEZBĘDNEGO DO DOSTĘPU DO USŁUG GRINDR.
+UŻYTKOWNIK ROZUMIE I ZGADZA SIĘ, ŻE POBIERANIE LUB W INNY SPOSÓB UZYSKANIE MATERIAŁÓW LUB DANYCH POPRZEZ KORZYSTANIE Z USŁUG GRINDR NA WŁASNE UZNANIE I RYZYKO.
+TWOJE ZWOLNIENIE Z ODPOWIEDZIALNOŚCI; TRZYMASZ GRINDRA NIESZKODLIWEGO.
+Zgadzasz się zabezpieczyć, bronić i chronić firmę Grindr (oraz jej spółki stowarzyszone, wykonawców, pracowników, agentów oraz dostawców i licencjodawców) przed wszelkimi roszczeniami, pozwami, pozwami, stratami, kosztami, szkodami i wszelkimi innymi zobowiązaniami, w tym honoraria adwokackie wniesione przez stronę trzecią wynikające lub związane z (a) korzystaniem przez użytkownika lub niewłaściwym wykorzystaniem jakichkolwiek informacji o lokalizacji lub innymi usługami Grindr ogólnie, (b) jakimkolwiek naruszeniem praw jakiejkolwiek innej osoby lub podmiotu przez użytkownika, (c) jakimkolwiek domniemanym naruszeniem lub naruszeniem niniejszej Umowy przez Użytkownika lub (d) korzystaniem przez Użytkownika z Usług Grindr w celu osobistego spotkania z innym Użytkownikiem lub zlokalizowania i uczestniczenia w jakimkolwiek miejscu lub wydarzeniu offline.
+Grindr zastrzega sobie prawo do objęcia na Twój koszt wyłącznej obrony i kontroli we wszelkich sprawach, w których jesteś zobowiązany do zabezpieczenia Nas przed roszczeniami, a Ty zgadzasz się współpracować z Nami w obronie tych roszczeń.
+To zobowiązanie do obrony i odszkodowania ma rozciągać się w najszerszym zakresie dozwolonym przez prawo i pozostanie w mocy po niniejszej Umowie i korzystaniu przez Ciebie z usług Grindr.
+OGRANICZENIE NASZEJ ODPOWIEDZIALNOŚCI I TWOICH SZKÓD.
+NIEKTÓRE PRZEPISY STANOWE, PROWINCJALNE I KRAJOWE NIE ZEZWALAJĄ NA OGRANICZENIA ODPOWIEDZIALNOŚCI.
+JEŚLI TE PRAWA MAJĄ ZASTOSOWANIE DO UŻYTKOWNIKA, NIEKTÓRE LUB WSZYSTKIE PONIŻSZE POSTANOWIENIA MOGĄ NIE MIEĆ ZASTOSOWANIA DO UŻYTKOWNIKA.
+PROSZĘ ZAPOZNAĆ SIĘ Z WARUNKAMI SPECJALNYMI DOTYCZĄCYMI NIEKTÓRYCH WYJĄTKÓW DLA TAKICH UŻYTKOWNIKÓW.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ, ŻE W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO, W ŻADNYCH OKOLICZNOŚCIACH, ŁĄCZNIE Z ZANIEDBANIEM, NIE BĘDZIE GRINDR (W TYM, DO CELÓW NINIEJSZEGO ART. DOSTAWCY) PONOSZĄ ODPOWIEDZIALNOŚĆ WOBEC UŻYTKOWNIKA ZA WSZELKIE SZKODY SZCZEGÓLNE, POŚREDNIE, PRZYPADKOWE, KARNE, ODPOWIEDZIALNOŚĆ, WTÓRNE LUB PRZYKŁADOWE, ZWIĄZANE Z LUB WYNIKAJĄCE Z: (A) KORZYSTANIA Z USŁUG GRINDR; (B) UJAWNIANIE, WYŚWIETLANIE LUB UTRZYMANIE PRZEZ NAS INFORMACJI O TWOJEJ LOKALIZACJI; (C) KORZYSTANIA LUB NIEMOŻNOŚCI KORZYSTANIA Z USŁUG GRINDR; (D) USŁUGI GRINDR OGÓLNIE (W TYM OPROGRAMOWANIE GRINDR) LUB SYSTEMY UDOSTĘPNIAJĄCE USŁUGI GRINDR; LUB (E) JAKICHKOLWIEK INNYCH INTERAKCJI Z GRINDR LUB INNYM UŻYTKOWNIKIEM USŁUG GRINDR, NAWET JEŚLI GRINDR LUB UPOWAŻNIONY PRZEDSTAWICIEL GRINDR ZOSTAŁ POWIADOMIONY O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD.
+UŻYTKOWNIK ZGADZA SIĘ, ŻE OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE W TEJ SEKCJI BĘDĄ OBOWIĄZYWAĆ WSZELKIE ROZWIĄZANIE LUB WYGAŚNIĘCIE NINIEJSZEJ UMOWY I, W ZAKRESIE DOZWOLONYM PRZEZ PRAWO, BĘDĄ OBOWIĄZYWAĆ NAWET JEŚLI JAKIEKOLWIEK OGRANICZONY ŚRODEK ZARADCZY OKREŚLONY W NINIEJSZEJ STRONIE NIE SPEŁNIA SWOJEGO PODSTAWOWEGO CELU.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ, ŻE W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO, W ŻADNYCH OKOLICZNOŚCIACH, ŁĄCZNIE Z ZANIEDBANIEM, NIE BĘDZIE GRINDR (W TYM, DO CELÓW NINIEJSZEGO ART. DOSTAWCY) PONOSZĄ ODPOWIEDZIALNOŚĆ WOBEC UŻYTKOWNIKA ZA WSZELKIE SZKODY SZCZEGÓLNE, POŚREDNIE, PRZYPADKOWE, KARNE, ODPOWIEDZIALNOŚĆ, WTÓRNE LUB PRZYKŁADOWE, ZWIĄZANE Z LUB WYNIKAJĄCE Z: (A) KORZYSTANIA Z USŁUG GRINDR; (B) UJAWNIANIE, WYŚWIETLANIE LUB UTRZYMANIE PRZEZ NAS INFORMACJI O TWOJEJ LOKALIZACJI; (C) KORZYSTANIA LUB NIEMOŻNOŚCI KORZYSTANIA Z USŁUG GRINDR; (D) USŁUGI GRINDR OGÓLNIE (W TYM OPROGRAMOWANIE GRINDR) LUB SYSTEMY UDOSTĘPNIAJĄCE USŁUGI GRINDR; LUB (E) JAKICHKOLWIEK INNYCH INTERAKCJI Z GRINDR LUB INNYM UŻYTKOWNIKIEM USŁUG GRINDR, NAWET JEŚLI GRINDR LUB UPOWAŻNIONY PRZEDSTAWICIEL GRINDR ZOSTAŁ POWIADOMIONY O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD.
+UŻYTKOWNIK ZGADZA SIĘ, ŻE OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE W TEJ SEKCJI BĘDĄ OBOWIĄZYWAĆ WSZELKIE ROZWIĄZANIE LUB WYGAŚNIĘCIE NINIEJSZEJ UMOWY I, W ZAKRESIE DOZWOLONYM PRZEZ PRAWO, BĘDĄ OBOWIĄZYWAĆ NAWET JEŚLI JAKIEKOLWIEK OGRANICZONY ŚRODEK ZARADCZY OKREŚLONY W NINIEJSZEJ STRONIE NIE SPEŁNIA SWOJEGO PODSTAWOWEGO CELU.
+W ŻADNYM WYPADKU FIRMA GRINDR (ANI JEJ PODMIOTY STOWARZYSZONE, WYKONAWCY, PRACOWNICY, AGENTÓW, DOSTAWCÓW LUB ZEWNĘTRZNYCH LICENCJODAWCÓW LUB DOSTAWCÓW) CAŁKOWITEJ ODPOWIEDZIALNOŚCI WOBEC UŻYTKOWNIKA ZA WSZELKIE SZKODY, STRATY I PRZYCZYNY DZIAŁAŃ WYNIKAJĄCE Z LUB ZWIĄZANE Z NINIEJSZĄ UMOWĄ LUB KORZYSTANIEM PRZEZ UŻYTKOWNIKA Z USŁUG GRINDR (W WARUNKACH KONTRAKTU, DELIKTU (W TYM ZANIEDBANIA), GWARANCJI LUB W INNY SPOSÓB) PRZEKROCZĄ KWOTY ZAPŁACONE PRZEZ UŻYTKOWNIKA ZA DOSTĘP DO USŁUG GRINDR W CIĄGU DWUNASTU (12) MIESIĘCY BEZPOŚREDNIO POPRZEDZAJĄCYCH DATĘ ROSZCZENIA LUB PIĘĆDZIESIĄT DOLARÓW, W ZALEŻNOŚCI OD TEGO, KTÓRA JEST WIĘKSZA.
+NINIEJSZA SEKCJA 18 NIE MA NA CELU WYŁĄCZENIA ODPOWIEDZIALNOŚCI, KTÓREJ GRINDR NIE MOŻE WYŁĄCZYĆ NA MOCY OBOWIĄZUJĄCEGO PRAWA.
+UZNAJESZ KORZYŚCI WYNIKAJĄCE Z OKAZJI Z GRINDR.
+UŻYTKOWNIK PRZYJMUJE DO WIADOMOŚCI I ZGADZA SIĘ, ŻE FIRMA GRINDR OFEROWAŁA USŁUGI GRINDR, USTALAŁA JEJ CENY I ZAWARŁA NINIEJSZĄ UMOWĘ W OPARCIU O WYŁĄCZENIA GWARANCJI I OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE POWYŻEJ.
+UŻYTKOWNIK POTWIERDZA I ZGADZA SIĘ, ŻE WYŁĄCZENIA GWARANCJI I OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE W NINIEJSZEJ UMOWIE OZNACZAJĄ ROZSĄDNY I SPRAWIEDLIWY PODZIAŁ RYZYKA MIĘDZY UŻYTKOWNIKA A GRINDR, ORAZ ŻE WYŁĄCZENIA GWARANCJI I OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE W NINIEJSZEJ UMOWIE STANOWIĄ PODSTAWOWĄ PODSTAWA UMOWY MIĘDZY UŻYTKOWNIKIEM A GRINDR.
+BEZ TYCH OGRANICZEŃ I WYŁĄCZEŃ ODPOWIEDZIALNOŚCI GRINDR NIE BĘDZIE MÓGŁ ŚWIADCZYĆ UŻYTKOWNIKOWI USŁUG GRINDR NA ROZSĄDNYCH EKONOMICZNIE ZASADACH.
+UWOLNIJ NAS.
+W najszerszym zakresie dozwolonym przez obowiązujące prawo niniejszym zwalniasz nas (oraz naszych urzędników, pracowników, agentów, następców i cesjonariuszy) i na zawsze zwalniasz z wszelkich przeszłych, obecnych i przyszłych sporów, roszczeń, kontrowersje, żądania, prawa, zobowiązania, odpowiedzialność, powództwo i powództwo wszelkiego rodzaju i natury (w tym obrażenia ciała, stres emocjonalny, kradzież tożsamości, śmierć oraz utrata i uszkodzenie mienia), które powstały lub wynikają bezpośrednio lub pośrednio z lub odnosi się bezpośrednio lub pośrednio do (1) jakichkolwiek interakcji, działania lub zaniechania lub Treści użytkownika dostarczanych przez innych Użytkowników Usług Grindr lub (2) dowolnej witryny, produktów, usług i łączy osób trzecich zawartych na lub dostępne za pośrednictwem usługi Grindr.
+ROZWIĄZYWANIE NASZYCH SPORÓW; UMOWA NA ARBITRAŻ.
+Użytkownik i Grindr zgadzają się, że wszelkie spory, które powstały lub mogą powstać między nami w jakikolwiek sposób w związku z korzystaniem przez Państwa z Usług Grindr lub dostępem do nich, jakąkolwiek ważnością, interpretacją, naruszeniem, egzekwowaniem lub rozwiązaniem niniejszej Umowy lub w inny sposób odnoszące się do Grindr w jakikolwiek sposób (łącznie „Objęte spory”) zostaną rozwiązane zgodnie z postanowieniami określonymi w niniejszym punkcie 21.
+Nieformalna rezolucja.
+Jeśli masz z nami jakikolwiek spór, ty i my zgadzamy się, że przed podjęciem jakichkolwiek formalnych działań skontaktujesz się z nami pod adresem legal@grindr.com, podając krótki, pisemny opis sporu i swoje dane kontaktowe (w tym adres e-mail powiązany z Twoje Konto Użytkownika, jeśli Twój spór dotyczy konta) i poczekaj, aż minie sześćdziesiąt (60) dni, podczas których postaramy się osiągnąć polubowne rozwiązanie każdego problemu z Tobą.
+Obowiązujące prawo.
+Użytkownik i my zgadzamy się, że prawo federalne Stanów Zjednoczonych, w tym Federalna ustawa o arbitrażu oraz (w zakresie, w jakim nie jest to sprzeczne z prawem federalnym lub nie jest przez nie uprzedzone) prawo stanu Kalifornia, USA, bez względu na zasady kolizyjne, będą regulują wszystkie Kwestie sporów objętych niniejszą Umową, z wyjątkiem przypadków wyraźnie określonych w Warunkach specjalnych.
+Nasz arbitraż.
+Ty i my zgadzamy się, że niniejsza Umowa i każda jej część stanowi dowód transakcji obejmującej handel międzystanowy, a Federalna Ustawa Arbitrażowa ma zastosowanie we wszystkich przypadkach i reguluje interpretację i egzekwowanie zasad arbitrażu oraz postępowania arbitrażowego.
+Wszelkie Kwestie sporne objęte Umową muszą być rozstrzygane indywidualnie w drodze wiążącego arbitrażu prowadzonego przez Amerykańskie Stowarzyszenie Arbitrażowe („AAA”) zgodnie z jego Regulaminem Arbitrażu Konsumenckiego (w tym, w stosownych przypadkach, z wykorzystaniem procedury za biurkiem, telefonu lub wideokonferencji i dozwolonej w celu ograniczenia kosztów podróży).
+Ty i My zgadzamy się, że arbiter nie będzie prowadził żadnej formy arbitrażu grupowego ani zbiorowego, ani nie będzie łączyć ani konsolidować roszczeń osób fizycznych lub w ich imieniu.
+Ty i My zgadzamy się, że arbiter, a nie jakikolwiek federalny, międzynarodowy, stanowy lub lokalny sąd lub agencja, będzie miał wyłączne uprawnienia do rozstrzygania wszelkich sporów związanych z interpretacją, stosowalnością, wykonalnością lub tworzeniem niniejszej Umowy, w tym wszelkich roszczeń, że wszystkie lub jakakolwiek część niniejszej Umowy jest nieważna lub podlega unieważnieniu lub określone roszczenie podlega arbitrażowi.
+Ty i my zgadzamy się, że wyrok w sprawie orzeczenia wydanego przez arbitra może zostać wydany w dowolnym sądzie właściwej jurysdykcji.
+Nagroda arbitra dla Ciebie lub dla nas.
+Ty i my zgadzamy się, że w sprawach, w których żądane zadośćuczynienie przekracza 5000 USD, decyzja arbitra będzie zawierała najważniejsze ustalenia i wnioski, na których arbiter oparł orzeczenie.
+Arbiter rozstrzygnie co do istoty wszystkich roszczeń zgodnie z obowiązującym prawem, w tym uznanymi zasadami słuszności, i będzie honorować wszelkie roszczenia dotyczące przywilejów uznanych przez prawo.
+Arbiter nie jest związany orzeczeniami wydanymi we wcześniejszych postępowaniach arbitrażowych z udziałem różnych Użytkowników, ale jest związany orzeczeniami wydanymi we wcześniejszych postępowaniach arbitrażowych z udziałem tego samego Użytkownika Grindr w zakresie wymaganym przez obowiązujące prawo.
+Ty i My zgadzamy się, że orzeczenie arbitra będzie ostateczne i wiążące, a wyrok w sprawie orzeczenia wydanego przez arbitra może zostać wydany w dowolnym sądzie posiadającym jurysdykcję.
+Zadośćuczynienie i zadośćuczynienie.
+Z wyjątkiem przypadków określonych w sekcji 21.6 poniżej, arbiter rozstrzygnie wszystkie kwestie dotyczące odpowiedzialności na podstawie wszelkich roszczeń dochodzonych przez Użytkownika lub Grindr i może przyznać deklaratoryjne lub nakazowe zadośćuczynienie wyłącznie na korzyść pojedynczej strony ubiegającej się o zadośćuczynienie i tylko w zakresie niezbędnym do zapewnić zadośćuczynienie uzasadnione indywidualnym roszczeniem tej strony.
+W zakresie, w jakim użytkownik lub Grindr wystąpili o zadośćuczynienie publiczne (tj. zadośćuczynienie, którego głównym celem i skutkiem jest zakazanie czynów niezgodnych z prawem, które grożą szkodą publiczną w przyszłości), prawo do takiego zadośćuczynienia i jego zakres musi być przedmiotem postępowania sądowego sąd cywilny o właściwej jurysdykcji, a nie w postępowaniu arbitrażowym po tym, jak strona ubiegająca się o wydanie nakazu publicznego wygrała postępowanie arbitrażowe.
+Strony uzgadniają, że postępowanie sądowe dotyczące wszelkich kwestii związanych z publicznym nakazem sądowym zostanie zawieszone do czasu rozstrzygnięcia merytorycznego wszelkich indywidualnych roszczeń w postępowaniu arbitrażowym.
+Wyjątki od naszej umowy dotyczącej arbitrażu sporów.
+Istnieją tylko dwa wyjątki od tej umowy dotyczącej arbitrażu:
+Po pierwsze, jeśli jedna ze stron zasadnie uważa, że ​​druga strona w jakikolwiek sposób naruszyła lub groziła naruszeniem praw własności intelektualnej drugiej strony, strona, której prawa zostały naruszone, może wystąpić o wydanie nakazu lub innego odpowiedniego środka tymczasowego w dowolnym sądzie właściwej jurysdykcji .
+Po drugie, każda ze stron zachowuje prawo do dochodzenia zadośćuczynienia w sądzie ds. drobnych roszczeń w przypadku sporów lub roszczeń w zakresie właściwości takich sądów.
+Kto ponosi koszty arbitrażu.
+Ty i my zgadzamy się, że wszelkie płatności za zgłoszenie, opłaty administracyjne i opłaty arbitra będą podlegać zasadom AAA, chyba że niniejsza umowa arbitrażowa stanowi inaczej.
+Przyszłe poprawki do umowy o arbitraż.
+Niezależnie od odmiennych postanowień niniejszej Umowy, Ty i My zgadzamy się, że jeśli wprowadzimy jakąkolwiek zmianę do niniejszej umowy w celu arbitrażu w przyszłości, poprawka ta nie będzie miała zastosowania do żadnego roszczenia wniesionego w postępowaniu sądowym przeciwko Grindr przed wejściem w życie data zmiany.
+Jednak poprawka będzie miała zastosowanie do wszystkich innych sporów lub roszczeń podlegających umowie o arbitraż, które powstały lub mogą wyniknąć między Tobą a Grindr.
+Jeśli nie zgadzasz się na te zmienione warunki, możesz zamknąć swoje konto w ciągu trzydziestu (30) dni od opublikowania lub powiadomienia, a zmienione warunki nie będą Cię obowiązywać.
+Forum sądowe ds. Sporów prawnych.
+O ile Ty i My nie uzgodnimy inaczej i z wyjątkiem przypadków opisanych w Sekcji 21.6.2 (Sąd ds. drobnych roszczeń), w przypadku uznania, że ​​powyższa zgoda na arbitraż nie ma zastosowania do Ciebie ani do konkretnego roszczenia lub sporu, albo w wyniku Twoja decyzja o odstąpieniu od umowy o arbitraż, w wyniku decyzji arbitra lub orzeczenia sądowego, lub dlatego, że jesteś użytkownikiem międzynarodowym, do którego niniejsza umowa o arbitraż nie ma zastosowania, zgadzasz się (z wyjątkiem przypadków przewidzianych przez prawa), że wszelkie roszczenia lub spory, które powstały lub mogą powstać między Tobą a Grindr, muszą być rozstrzygane wyłącznie przez sąd stanowy lub federalny w hrabstwie Los Angeles w Kalifornii.
+Użytkownik i Grindr wyrażają zgodę na poddanie się wyłącznej osobistej jurysdykcji sądów znajdujących się w hrabstwie Los Angeles w Kalifornii w celu rozstrzygania wszelkich takich roszczeń lub sporów.
+MOŻESZ ZREZYGNOWAĆ Z ARBITRAŻU.
+JEŚLI JESTEŚ NOWYM UŻYTKOWNIKIEM GRINDR, MOŻESZ ODRZUCIĆ UMOWĘ NA ARBITRAŻ („REZYGNACJA”) PRZESYŁAJĄC DO NAS POWIADOMIENIE O REZYGNACJI NA ADRES ARBITRATIONOPTOUT@GRINDR.COM („POWIADOMIENIE O REZYGNACJI”) LUB ZWYKLE POCZTĄ DO: Grindr LLC, PO Box 69176, West Hollywood, CA 90069.
+POWIADOMIENIE O REZYGNACJI MUSI BYĆ OTRZYMANE NIE PÓŹNIEJ NIŻ TRZYDZIEŚCI (30) DNI OD DATY ZAAKCEPTOWANIA WARUNKÓW NINIEJSZEJ UMOWY PO RAZ PIERWSZY.
+JEŚLI NIE JESTEŚ NOWYM UŻYTKOWNIKIEM GRINDR, MASZ DO TRZYDZIESTU (30) DNI OD OGŁOSZENIA NOWYCH WARUNKÓW, ABY ZŁOŻYĆ POWIADOMIENIE O REZYGNACJI Z ARBITRAŻU.
+Procedura rezygnacji z arbitrażu.
+Aby zrezygnować, musisz wysłać e-mailem swoje imię i nazwisko, adres (w tym adres, miasto, województwo i kod pocztowy), adresy e-mail powiązane z Twoim kontem (kontami), których dotyczy rezygnacja, oraz niezmieniony cyfrowy obraz Twojego ważnego prawa jazdy na adres: arbitrationoptout@grindr.com.
+Ta procedura to jedyny sposób, w jaki możesz zrezygnować z umowy o arbitraż.
+Jeśli Użytkownik zrezygnuje z umowy o arbitraż, wszystkie inne części niniejszej Umowy i niniejsza sekcja dotycząca sporów (w tym sekcje 19 (Potwierdzasz korzyści wynikające z ugody z Grindr) i od 14 do 18 (14 – Reklama; 15 – Licencje użytkownika końcowego; 16 – Nasze wyłączenia odpowiedzialności; Brak gwarancji dla Ciebie, 17 – Twoje zwolnienie z odpowiedzialności za nas; Unieszkodliwiasz Grindr i 18 – Ograniczenie naszej odpowiedzialności i Twoich szkód)) będą nadal obowiązywać.
+Rezygnacja z niniejszej umowy o arbitraż nie ma wpływu na żadne wcześniejsze, inne ani przyszłe umowy arbitrażowe, które możesz zawrzeć z nami.
+ZRZEKASZ SIĘ PEWNYCH PRAW.
+ZGADZAJĄC SIĘ NA NINIEJSZĄ UMOWĘ, NINIEJSZYM NIEODWOŁALNIE ZRZEKASZ SIĘ WSZELKICH PRAW, KTÓRE MOŻESZ MIEĆ (i) DO ROZPRAWY SĄDOWEJ (INNEJ NIŻ SĄD DOTYCZĄCY DROBNYCH ROSZCZEŃ, JAK OPISANO POWYŻEJ), (ii) DO WYSTĘPOWANIA W FORMIE PRZEDSTAWICIELA LUB PRYWATNEGO PROKURATORA GENERALNEGO LUB W JAKIEJKOLWIEK INNEJ ZDOLNOŚCI REPREZENTACYJNEJ LUB UCZESTNICTWA W JAKIKOLWIEK KLASIE POWODÓW W JAKIMKOLWIEK SPRAWIE SĄDOWYM, ARBITRAŻOWYM LUB INNYM POSTĘPOWANIU WSZCZĘTYM PRZECIWKO NAS I/LUB POWIĄZANYM OSOBOM TRZECIM, NAWET JEŻELI ARBITRAŻ NIE JEST WYMAGANY NA MOCY NINIEJSZEJ UMOWY, ORAZ (iii) SPRAWA SĘDZIOWSKA.
+PRZEDAWNIANIE TWOICH ROSZCZEŃ.
+NIEZALEŻNIE OD JAKICHKOLWIEK PRZEPISÓW LUB PRZEPISÓW PRAWNYCH, WSZELKIE ROSZCZENIA LUB PODSTAWY ROSZCZEŃ WYNIKAJĄCE Z KORZYSTANIA Z WITRYNY, USŁUG LUB NINIEJSZEJ UMOWY MUSZĄ ZOSTAĆ ZŁOŻONE W CIĄGU JEDNEGO (1) ROKU OD POSTANOWIENIA TAKIEGO ROSZCZENIA LUB PODSTAWY ROSZCZENIA LUB BĘDZIE NA ZAWSZE ZABRONIONA.
+POLITYKA POWIADOMIENIA I USUWANIA.
+Grindr szanuje prawa własności intelektualnej i oczekuje tego samego od swoich Użytkowników.
+Grindr niezwłocznie i bez powiadomienia zamknie konta Użytkowników, których Grindr uzna za „wielokrotnie naruszających prawa”.
+Osoba wielokrotnie naruszająca prawo to Użytkownik, który został powiadomiony przez Grindr o naruszeniach związanych z działalnością naruszającą prawo więcej niż dwa razy i/lub którego Treść użytkownika została usunięta z Usług Grindr więcej niż dwa razy. (
+Pamiętaj, że zastrzegamy sobie prawo do zamykania kont również w przypadku pojedynczego naruszenia zgodnie z sekcją 8.3.)
+Jeśli jesteś właścicielem praw autorskich lub jego przedstawicielem i uważasz, że jakiekolwiek treści udostępniane w jakichkolwiek Usługach Grindr naruszają Twoje prawa autorskie, możesz przesłać powiadomienie, przekazując Wyznaczonemu pełnomocnikowi Grindr ds. praw autorskich następujące informacje na piśmie:
+Fizyczny lub elektroniczny podpis osoby upoważnionej do działania w imieniu właściciela wyłącznego prawa, które zostało rzekomo naruszone;
+Identyfikacja dzieła chronionego prawem autorskim, które rzekomo zostało naruszone, lub, jeśli jedno powiadomienie obejmuje wiele dzieł chronionych prawem autorskim w odpowiednich Usługach Grindr, reprezentatywną listę takich dzieł w odpowiednich Usługach Grindr;
+Identyfikacja materiału, który rzekomo narusza lub jest przedmiotem działań naruszających prawo i który ma zostać usunięty lub do którego dostęp ma zostać zablokowany, oraz informacje wystarczające, aby umożliwić firmie Grindr zlokalizowanie materiału;
+Informacje wystarczające do umożliwienia Grindr skontaktowania się ze stroną składającą skargę, takie jak adres, numer telefonu oraz, jeśli jest dostępny, adres e-mail, pod którym można się skontaktować ze stroną składającą skargę;
+Oświadczenie, że strona zgłaszająca skargę w dobrej wierze uważa, że ​​wykorzystanie materiału w sposób, którego dotyczy skarga, nie jest dozwolone przez właściciela praw autorskich, jego przedstawiciela lub prawo (na przykład: „Jestem w dobrej wierze przekonany, że wykorzystanie treści chronionych prawem autorskim, które są tu wskazane, nie są autoryzowane przez właściciela praw autorskich, jego przedstawiciela lub prawo.”);
+I
+Oświadczenie, że informacje zawarte w zawiadomieniu są zgodne z prawdą i pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że strona składająca reklamację jest upoważniona do działania w imieniu właściciela wyłącznego prawa, które rzekomo zostało naruszone (np. „Przysięgam pod groźbą kary za składanie fałszywych zeznań , że informacje zawarte w tym powiadomieniu są dokładne i że jestem właścicielem praw autorskich lub jestem upoważniony do działania w imieniu właściciela praw autorskich do praw autorskich, które zostały rzekomo naruszone przez wspomnianą treść”.
+Z wyznaczonym przedstawicielem firmy Grindr ds. praw autorskich w celu otrzymywania powiadomień o domniemanym naruszeniu można skontaktować się w następujący sposób:
+Grindr spółka z ograniczoną odpowiedzialnością
+Uwaga: agent ds. praw autorskich
+PO Pudełko 69176
+West Hollywood, Kalifornia 90069
+Telefon: (310) 776-6680
+E-mail: help@grindr.com
+Dla jasności, do wyznaczonego agenta ds. praw autorskich Grindr należy kierować wyłącznie powiadomienia w ramach tej sekcji.
+Przyjmujesz do wiadomości, że jeśli nie spełnisz wszystkich wymagań niniejszego punktu 22, Twoje zawiadomienie DMCA może nie być ważne.
+Należy pamiętać, że zgodnie z sekcją 512(f) amerykańskiej ustawy o prawie autorskim każda osoba, która świadomie wprowadza w błąd, twierdząc, że materiał lub działanie narusza prawa autorskie, może zostać pociągnięta do odpowiedzialności.
+DODATKOWE WARUNKI SKLEPU APPLE APPLE.
+Jeśli korzystasz z Oprogramowania Grindr ze sklepu Apple App Store, zastosowanie mają następujące dodatkowe warunki.
+W zakresie, w jakim inne warunki niniejszej Umowy są mniej restrykcyjne lub w inny sposób sprzeczne z warunkami niniejszej sekcji 23, zastosowanie mają bardziej restrykcyjne lub sprzeczne warunki niniejszej sekcji 23, ale wyłącznie w odniesieniu do Grindr Oprogramowanie ze sklepu Apple App Store:
+Potwierdzenie.
+Grindr i Ty przyjmujesz do wiadomości, że niniejsza Umowa została zawarta wyłącznie między Grindr a Tobą, a nie z Apple, oraz że Grindr, a nie Apple, ponosi wyłączną odpowiedzialność za Oprogramowanie Grindr i jego zawartość.
+W zakresie, w jakim niniejsza Umowa przewiduje zasady użytkowania Oprogramowania Grindr, które są mniej restrykcyjne niż Zasady użytkowania określone dla Oprogramowania Grindr w Warunkach świadczenia usługi Apple App Store lub w inny sposób są z nimi sprzeczne, zastosowanie mają bardziej restrykcyjne lub sprzeczne warunki Apple .
+Zakres licencji.
+Licencja udzielona Użytkownikowi na Oprogramowanie Grindr jest ograniczona do nieprzenoszalnej licencji na korzystanie z Oprogramowania Grindr na produkcie iOS, którego Użytkownik jest właścicielem lub który kontroluje, zgodnie z Zasadami użytkowania określonymi w Warunkach korzystania z usługi Apple App Store.
+Konserwacja i wsparcie.
+Grindr ponosi wyłączną odpowiedzialność za świadczenie wszelkich usług konserwacji i wsparcia w odniesieniu do Oprogramowania Grindr, zgodnie z niniejszą Umową (jeśli dotyczy) lub zgodnie z wymogami obowiązującego prawa.
+Grindr i Ty przyjmujecie do wiadomości, że Apple nie ma żadnego obowiązku świadczenia jakichkolwiek usług konserwacji i wsparcia w odniesieniu do Oprogramowania Grindr.
+Gwarancja.
+Grindr ponosi wyłączną odpowiedzialność za wszelkie gwarancje na produkt, wyraźne lub dorozumiane przez prawo, w zakresie, w jakim nie zostały skutecznie wyłączone.
+W przypadku niezgodności Oprogramowania Grindr z jakąkolwiek obowiązującą gwarancją Użytkownik może powiadomić Apple, a Apple zwróci Użytkownikowi cenę zakupu Oprogramowania Grindr; i w maksymalnym zakresie dozwolonym przez obowiązujące prawo, Apple nie będzie mieć żadnych innych zobowiązań gwarancyjnych w odniesieniu do Oprogramowania Grindr, a wszelkie inne roszczenia, straty, zobowiązania, szkody, koszty lub wydatki związane z nieprzestrzeganiem jakiejkolwiek gwarancji będą ponoszone przez Grindr wyłączna odpowiedzialność.
+Reklamacje produktów.
+Grindr i Ty przyjmujesz do wiadomości, że Grindr, a nie Apple, odpowiada za rozpatrywanie wszelkich roszczeń Użytkownika lub osób trzecich związanych z Oprogramowaniem Grindr lub posiadaniem i/lub korzystaniem przez Ciebie z Oprogramowania Grindr, w tym: (i) roszczeń z tytułu odpowiedzialności za produkt; (ii) wszelkie twierdzenia, że ​​Oprogramowanie Grindr nie spełnia jakichkolwiek obowiązujących wymogów prawnych lub regulacyjnych; oraz (iii) roszczenia wynikające z ochrony konsumentów lub podobnych przepisów.
+Niniejsza Umowa nie ogranicza odpowiedzialności Grindr wobec Użytkownika poza zakres dozwolony przez obowiązujące prawo.
+Prawa własności intelektualnej.
+Grindr i Ty przyjmujecie do wiadomości, że w przypadku jakiegokolwiek roszczenia strony trzeciej, że Oprogramowanie Grindr lub posiadanie i używanie przez Państwa Oprogramowania Grindr narusza prawa własności intelektualnej tej osoby trzeciej, Grindr, a nie Apple, będzie ponosić wyłączną odpowiedzialność za dochodzenie, obronę, rozstrzygnięcie i zwolnienie z wszelkich takich roszczeń dotyczących naruszenia własności intelektualnej.
+Zgodność z prawem.
+Oświadczasz i gwarantujesz, że (i) nie znajdujesz się w kraju, który jest objęty embargiem rządu USA lub który został wyznaczony przez rząd USA jako kraj „wspierający terroryzm”; oraz (ii) nie figurujesz na żadnej liście podmiotów objętych zakazem lub ograniczeniami sporządzonej przez rząd Stanów Zjednoczonych.
+Nazwa i adres programisty.
+Dane kontaktowe Grindr w przypadku pytań, skarg lub roszczeń użytkowników końcowych dotyczących Oprogramowania Grindr podano w punkcie 25.7 poniżej.
+Warunki umowy strony trzeciej.
+Podczas korzystania z Oprogramowania Grindr należy przestrzegać obowiązujących warunków umowy osób trzecich.
+Beneficjent będący stroną trzecią.
+Grindr i Ty przyjmujesz do wiadomości i zgadzasz się, że Apple i podmioty zależne Apple są beneficjentami niniejszej Umowy będącymi stronami trzecimi oraz że po zaakceptowaniu przez Ciebie warunków niniejszej Umowy Apple będzie mieć prawo (i zostanie uznane, że zaakceptowało prawo) do wyegzekwowania niniejszej Umowy od Ciebie jako jej beneficjenta będącego stroną trzecią.
+SZCZEGÓLNE WARUNKI STANOWE DOTYCZĄCE PRAWA DO ANULOWANIA.
+Do niniejszej Umowy zostają dodane następujące postanowienia dotyczące Użytkowników z opłaconą subskrypcją mieszkających w Arizonie, Kalifornii, Connecticut, Illinois, Iowa, Minnesocie, New Jersey, Nowym Jorku, Karolinie Północnej, Ohio, Rhode Island, Wisconsin lub w jakimkolwiek innym stanie, którego prawa mogą wymagać zawiadomienia o prawach do anulowania: Ty, kupujący, możesz anulować niniejszą Umowę, bez żadnych kar ani zobowiązań, w dowolnym momencie przed północą trzeciego dnia roboczego sprzedawcy pierwotnej umowy następującego po dacie niniejszej umowy, z wyłączeniem niedziel i świąt.
+Aby anulować niniejszą Umowę, wyślij pocztą lub dostarcz podpisane i opatrzone datą powiadomienie lub wyślij telegram informujący, że Ty, kupujący, anulujesz niniejszą Umowę lub słowa o podobnym skutku.
+Niniejsze zawiadomienie należy przesłać do:
+Grindr spółka z ograniczoną odpowiedzialnością
+PO Pudełko 69176
+West Hollywood, Kalifornia 90069
+W przypadku, gdy umrzesz przed końcem okresu opłaconej subskrypcji, Twój majątek będzie uprawniony do zwrotu tej części jakiejkolwiek płatności dokonanej przez Ciebie za opłaconą subskrypcję, która przypada na okres po Twojej śmierci.
+W przypadku, gdy staniesz się niepełnosprawny (tak, że nie będziesz mógł korzystać z płatnej subskrypcji, a stan zostanie zweryfikowany na piśmie przez lekarza) przed końcem okresu opłaconej subskrypcji, będziesz uprawniony do zwrotu tej części wszelkich płatność dokonana przez Ciebie za subskrypcję, która jest przypisana do okresu po Twojej niepełnosprawności, poprzez wysłanie zawiadomienia Grindr na ten sam adres podany powyżej.
+POSTANOWIENIA RÓŻNE.
+Rozdzielność, zrzeczenie się postanowień umowy.
+Ty i My zgadzamy się, że jeśli jakiekolwiek postanowienie niniejszej Umowy zostanie uznane za niezgodne z prawem, nieważne lub z jakiegokolwiek powodu niewykonalne, wówczas postanowienie to zostanie uznane za możliwe do oddzielenia od niniejszej Umowy i nie będzie miało wpływu na ważność i wykonalność pozostałych postanowień.
+Od postanowienia niniejszej Umowy można odstąpić wyłącznie w drodze pisemnego dokumentu podpisanego przez stronę uprawnioną do korzystania z takiego postanowienia.
+Niezgłoszenie przez którąkolwiek ze stron żądania wykonania któregokolwiek z postanowień niniejszej Umowy w żaden sposób nie wpływa na prawo takiej strony do późniejszego egzekwowania tego postanowienia.
+Zrzeczenie się prawa do jakiegokolwiek naruszenia któregokolwiek z postanowień niniejszej Umowy nie będzie interpretowane jako ciągłe zrzeczenie się prawa do innych naruszeń tego samego lub innych postanowień niniejszej Umowy.
+Powiadomienia.
+Grindr może przekazywać Użytkownikowi powiadomienia, w tym dotyczące zmian w niniejszej Umowie, za pośrednictwem poczty elektronicznej lub publikacji w Usługach Grindr.
+Niniejszym wyrażasz zgodę na korzystanie z komunikacji elektronicznej.
+Aby przekazać Grindr powiadomienie, możesz to zrobić za pośrednictwem adresu fizycznego i adresu e-mail podanego w sekcji 25.7, a takie powiadomienie wejdzie w życie po otrzymaniu.
+Nie możesz przypisać, ale Grindr może. Niniejsza Umowa oraz wszelkie prawa i licencje udzielone na jej mocy nie mogą być przenoszone ani cedowane przez Użytkownika.
+Jednak Grindr może w dowolnym momencie iz dowolnego powodu przenieść lub scedować niniejszą Umowę i zobowiązania zawarte w Umowie bez ograniczeń na osobę trzecią.
+Niniejszym przyjmujesz do wiadomości i zgadzasz się, że jeśli inna firma nabędzie naszą firmę, działalność lub nasze aktywa, transakcja ta może obejmować sprzedaż lub przeniesienie Treści użytkownika, a Ty zgadzasz się na takie przeniesienie bez dalszych działań lub potwierdzenia.
+Przetrwanie zapasów.
+Następujące sekcje pozostaną w mocy po rozwiązaniu niniejszej Umowy lub zakończeniu korzystania przez Użytkownika z Usług Grindr lub subskrypcji Usług Grindr: 1-3, 4.3, 4.4, 5-7, 9.6, 9.7, 10, 12-14, 15 (z wyłączeniem 15.2 ), 16-23 i 25.
+Brak Beneficjentów Zewnętrznych.
+Przeszłe, obecne i przyszłe podmioty stowarzyszone Grindr (tj. firmy kontrolujące, kontrolowane przez lub znajdujące się pod wspólną kontrolą Grindr) są beneficjentami będącymi stronami trzecimi wszystkich praw, ochrony i korzyści przyznanych Grindr na mocy niniejszej Umowy, w tym sekcji 21.
+W przeciwnym razie niniejsza Umowa nie jest beneficjentem będącym osobą trzecią.
+nagłówki; Całość porozumienia.
+Odniesienia do nagłówków w niniejszym dokumencie służą wyłącznie celom informacyjnym, nie stanowią części niniejszej Umowy i nie będą uważane za ograniczające lub naruszające jakiekolwiek jej postanowienia.
+Słowo „w tym” oznacza „w tym bez ograniczeń”.
+Niniejsza Umowa stanowi całość porozumienia między Tobą a Nami w odniesieniu do jej przedmiotu i nie może być modyfikowana, chyba że w formie pisemnej uzgodnionej przez obie strony.
+Nasze ujawnienia; Twoje zapytania.
+Usługi opisane w niniejszym dokumencie są oferowane przez Grindr LLC, PO Box 69176, West Hollywood, CA 90069.
+Jeśli masz pytanie lub skargę, możesz skontaktować się z nami pod powyższym adresem lub pod adresem: help@grindr.com.
+Mieszkańcy stanu Kalifornia mogą skontaktować się z Działem Obsługi Reklamacji Wydziału Usług Konsumenckich Kalifornijskiego Departamentu ds. Konsumentów pocztą pod adresem 1625 North Market Blvd.,
+Sacramento, CA 95834 lub telefonicznie pod numerem (916) 445-1254 lub (800) 952-5210.
+Specjalne warunki dla użytkowników międzynarodowych
+ZJEDNOCZONE KRÓLESTWO.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Wielkiej Brytanii w zakresie wymaganym przez obowiązujące prawo:
+Anulowanie w ciągu 14-dniowego okresu anulowania.
+Masz prawo anulować swoje usługi Grindr Premium w ciągu czternastu (14) dni bez podania przyczyny.
+Okres anulowania wygaśnie po czternastu (14) dniach od zakupu Usług Premium Grindr.
+Jeśli skorzystałeś z bezpłatnego okresu próbnego, okres anulowania wygaśnie czternaście (14) dni od rozpoczęcia bezpłatnego okresu próbnego.
+Aby skorzystać z prawa do anulowania Usług Grindr Premium w ciągu czternastodniowego (14) okresu anulowania, musisz poinformować nas o swojej decyzji, wysyłając jednoznaczne oświadczenie na adres help@grindr.com.
+Możesz skorzystać ze wzoru formularza odstąpienia od umowy, który znajduje się w załączniku I(B) do dyrektywy o prawach konsumenta.
+Niezwłocznie prześlemy Ci potwierdzenie otrzymania takiego anulowania pocztą elektroniczną.
+Aby dotrzymać terminu do odstąpienia od umowy, wystarczy, że wyślesz wiadomość dotyczącą wykonania przysługującego Ci prawa do odstąpienia od umowy przed upływem terminu do odstąpienia od umowy.
+Nie ma oddzielnych opłat za anulowanie, ale nie ma zwrotów, z wyjątkiem przypadków określonych w niniejszym dokumencie.
+Zwrócimy Ci proporcjonalną kwotę opłaty Premium za niewykorzystany okres Twoich Usług Premium.
+Nadal będziesz zobowiązany do uiszczania opłaty za usługę premium za okres korzystania z usług premium, dopóki nie poinformujesz nas o anulowaniu (z wyłączeniem bezpłatnego okresu próbnego, w którym nie pobrano żadnej opłaty), w związku z czym nie zwrócimy ci kwoty za tę część Usługi premium.
+Zwrotu dokonamy bez zbędnej zwłoki i nie później niż czternaście (14) dni od dnia, w którym zostaliśmy poinformowani o Twojej decyzji o rezygnacji z Usług Premium.
+Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie zgodziliście się Państwo na inne rozwiązanie.
+Wyjątki od ograniczeń odpowiedzialności.
+Żadne z postanowień niniejszej Umowy nie wyłącza ani nie ogranicza odpowiedzialności firmy Grindr (lub jej spółek stowarzyszonych, wykonawców, podwykonawców, dyrektorów, funkcjonariuszy, pracowników, agentów, zewnętrznych dostawców lub licencjodawców) za śmierć lub obrażenia ciała wynikające z naszych zaniedbania, oszustwa lub oszukańczego wprowadzenia w błąd lub jakiejkolwiek innej odpowiedzialności, której nie można wykluczyć ani ograniczyć na mocy obowiązującego prawa.
+ARBITRAŻ MOŻE NIE DOTYCZYĆ CIEBIE.
+JEŚLI JESTEŚ MIESZKAŃCEM WIELKIEJ BRYTANII I PODLEGASZ DYREKTYWIE W ZAKRESIE ALTERNATYWNYCH ROZSTRZYGANIA SPORÓW (2013/11/UE) I ROZPORZĄDZENIU W SPRAWIE ROZSTRZYGANIA SPORÓW ONLINE (UE 524/2013) (ORAZ WSZELKICH PRZEPISÓW WYKONAWCZYCH W KAŻDYM PAŃSTWIE CZŁONKOWSKIM UE), UMOWA O ARBITRAŻ W SEKCJI 21 NIE BĘDZIE MIEĆ ZASTOSOWANIA DO UŻYTKOWNIKA, ALE MAJĄ ZASTOSOWANIE POSTANOWIENIA SEKCJI 21.8 (Forum sądowe dla sporów prawnych), Z WYJĄTKIEM SYTUACJI WYMAGANYCH PRZEZ PRAWO INACZEJ.
+PROSZĘ UWAŻNIE PRZECZYTAĆ SEKCJĘ 21.8.
+Platforma internetowego rozstrzygania sporów Komisji Europejskiej jest dostępna pod następującym linkiem Platforma ODR.
+Brak uszczerbku dla prawa konsumenckiego.
+Jako konsument skorzystasz z wszelkich bezwzględnie obowiązujących przepisów prawa kraju, w którym mieszkasz.
+Żadne z postanowień niniejszych warunków, w tym między innymi Sekcja 21, nie wpływa na Twoje prawa jako konsumenta do polegania na takich bezwzględnie obowiązujących przepisach prawa lokalnego.
+Jurysdykcja lokalna.
+Lokalne prawo Twojej jurysdykcji może upoważniać Cię do rozpatrzenia sporu związanego z niniejszą Umową przez sądy lokalne, niezależnie od warunków sekcji 21, w której zgadzamy się, że wszystkie spory niepodlegające warunkom sekcji 21 będą rozpatrywane w sądy zlokalizowane w Los Angeles, Kalifornia, USA.
+Niniejsza Umowa nie ogranicza żadnych przysługujących Ci praw, które mają zastosowanie niezależnie od warunków umowy, którą zawarłeś.
+Jednak zawierając niniejszą Umowę lub w inny sposób, Grindr nie zgadza się na poddanie jurysdykcji sądów innych niż wymienione w sekcji 21 i zastrzega sobie prawo do zakwestionowania, że ​​nie podlega jurysdykcji żadnego innego sądu.
+UNIA EUROPEJSKA.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem UE w zakresie wymaganym przez obowiązujące prawo.
+Anulowanie w ciągu 14-dniowego okresu anulowania.
+Masz prawo anulować swoje usługi Grindr Premium w ciągu czternastu (14) dni bez podania przyczyny.
+Okres anulowania wygaśnie po czternastu (14) dniach od zakupu Usług Premium Grindr.
+Jeśli skorzystałeś z bezpłatnego okresu próbnego, okres anulowania wygaśnie czternaście (14) dni od rozpoczęcia bezpłatnego okresu próbnego.
+Aby skorzystać z prawa do anulowania Usług Grindr Premium w ciągu czternastodniowego (14) okresu anulowania, musisz poinformować nas o swojej decyzji, wysyłając jednoznaczne oświadczenie na adres help@grindr.com.
+Możesz skorzystać ze wzoru formularza odstąpienia od umowy, który znajduje się w załączniku I(B) do dyrektywy o prawach konsumenta.
+Niezwłocznie prześlemy Ci potwierdzenie otrzymania takiego anulowania pocztą elektroniczną.
+Aby dotrzymać terminu do odstąpienia od umowy, wystarczy, że wyślesz wiadomość dotyczącą wykonania przysługującego Ci prawa do odstąpienia od umowy przed upływem terminu do odstąpienia od umowy.
+Nie ma oddzielnych opłat za anulowanie, ale nie ma zwrotów, z wyjątkiem przypadków określonych w niniejszym dokumencie.
+Zwrócimy Ci proporcjonalną kwotę opłaty Premium za niewykorzystany okres Twoich Usług Premium.
+Nadal będziesz zobowiązany do uiszczania opłaty za usługę premium za okres korzystania z usług premium, dopóki nie poinformujesz nas o anulowaniu (z wyłączeniem bezpłatnego okresu próbnego, w którym nie pobrano żadnej opłaty), w związku z czym nie zwrócimy ci kwoty za tę część Usługi premium.
+Zwrotu dokonamy bez zbędnej zwłoki i nie później niż czternaście (14) dni od dnia, w którym zostaliśmy poinformowani o Twojej decyzji o rezygnacji z Usług Premium.
+Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie zgodziliście się Państwo na inne rozwiązanie.
+Wyjątki od ograniczeń odpowiedzialności.
+Żadne z postanowień niniejszej Umowy nie wyłącza ani nie ogranicza odpowiedzialności Grindr (lub jej spółek stowarzyszonych, wykonawców, podwykonawców, dyrektorów, funkcjonariuszy, pracowników, agentów, zewnętrznych dostawców lub licencjodawców) w zakresie, w jakim nie można jej wyłączyć lub ograniczone przez obowiązujące prawo.
+ARBITRAŻ MOŻE NIE DOTYCZYĆ CIEBIE.
+JEŚLI JESTEŚ MIESZKAŃCEM UNII EUROPEJSKIEJ I PODLEGASZ DYREKTYWIE W ZAKRESIE ALTERNATYWNYCH ROZSTRZYGANIA SPORÓW (2013/11/UE) I ROZPORZĄDZENIU W SPRAWIE ROZSTRZYGANIA SPORÓW ONLINE (UE 524/2013) (ORAZ WSZELKICH PRZEPISÓW WYKONAWCZYCH W KAŻDYM PAŃSTWIE CZŁONKOWSKIM UE), UMOWA O ARBITRAŻ W SEKCJI 21 NIE BĘDZIE MIEĆ ZASTOSOWANIA DO UŻYTKOWNIKA, ALE MAJĄ ZASTOSOWANIE POSTANOWIENIA SEKCJI 21.8 (Forum sądowe dla sporów prawnych), Z WYJĄTKIEM SYTUACJI WYMAGANYCH PRZEZ PRAWO INACZEJ.
+PROSZĘ UWAŻNIE PRZECZYTAĆ SEKCJĘ 21.8.
+Platforma internetowego rozstrzygania sporów Komisji Europejskiej jest dostępna pod następującym linkiem Platforma ODR.
+Brak uszczerbku dla prawa konsumenckiego.
+Jako konsument będziesz korzystać z wszelkich bezwzględnie obowiązujących przepisów prawa kraju, w którym mieszkasz.
+Żadne z postanowień niniejszych warunków, w tym między innymi Sekcja 21, nie wpływa na Twoje prawa jako konsumenta do polegania na takich bezwzględnie obowiązujących przepisach prawa lokalnego.
+Jurysdykcja lokalna.
+Lokalne prawo Twojej jurysdykcji może upoważniać Cię do rozpatrzenia sporu związanego z niniejszą Umową przez sądy lokalne, niezależnie od warunków sekcji 21, w której zgadzamy się, że wszystkie spory niepodlegające warunkom sekcji 21 będą rozpatrywane w sądy zlokalizowane w Los Angeles, Kalifornia, USA.
+Niniejsza Umowa nie ogranicza żadnych przysługujących Ci praw, które mają zastosowanie niezależnie od warunków umowy, którą zawarłeś.
+Jednak zawierając niniejszą Umowę lub w inny sposób, Grindr nie zgadza się na poddanie jurysdykcji sądów innych niż wymienione w sekcji 21 i zastrzega sobie prawo do zakwestionowania, że ​​nie podlega jurysdykcji żadnego innego sądu.
+HISZPANIA.
+Oprócz warunków określonych powyżej dla mieszkańców UE i zastępujących sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Hiszpanii, w zakresie wymaganym przez obowiązujące prawo mają zastosowanie do Ciebie następujące warunki:
+Język.
+Obowiązująca będzie hiszpańska wersja niniejszej Umowy.
+modyfikacje.
+Grindr poinformuje Użytkownika o wszelkich istotnych modyfikacjach Usług i/lub Wytycznych, jak również o wszelkich zmianach w niniejszych warunkach.
+odnowienia.
+Grindr (bezpośrednio lub za pośrednictwem sklepu z aplikacjami) powiadomi Użytkownika z wyprzedzeniem o dacie odnowienia subskrypcji Usług Premium i subskrypcji próbnej przed obciążeniem karty kredytowej lub debetowej.
+Prawa moralne.
+Twoje prawa moralne do Treści użytkownika nie zostaną przeniesione ani zrzeczone.
+PORTUGALIA.
+Oprócz warunków określonych powyżej dla mieszkańców UE, następujące warunki mają zastosowanie do Użytkownika i zastępują sprzeczne warunki niniejszej Umowy, jeśli Użytkownik jest rezydentem Portugalii w zakresie wymaganym przez obowiązujące prawo:
+Język.
+Portugalska wersja niniejszej Umowy będzie obowiązywać.
+modyfikacje.
+Grindr poinformuje Użytkownika o wszelkich istotnych modyfikacjach Usług i/lub Wytycznych, jak również o wszelkich zmianach w niniejszych warunkach.
+odnowienia.
+Grindr (bezpośrednio lub za pośrednictwem sklepu z aplikacjami) powiadomi Użytkownika z wyprzedzeniem o dacie odnowienia subskrypcji Usług Premium i subskrypcji próbnej przed obciążeniem karty kredytowej lub debetowej.
+Prawa moralne.
+Twoje prawa moralne do Treści użytkownika nie zostaną przeniesione ani zrzeczone.
+NIEMCY.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Niemiec w zakresie wymaganym przez obowiązujące prawo:
+Zgoda na usunięcie danych.
+Użytkownik przyjmuje do wiadomości, że korzystając z Usług Grindr, wyraża zgodę na usuwanie swoich danych (np. wiadomości na czacie) do innych użytkowników natychmiast po ich dostarczeniu.
+Ograniczenia odpowiedzialności.
+Poniższe postanowienia zastępują wszelkie sprzeczne lub niespójne sformułowania w Warunkach:
+Ponosimy odpowiedzialność tylko w następujący sposób: Ponosimy nieograniczoną odpowiedzialność zgodnie z przepisami ustawowymi (i) za szkody wynikające z utraty życia, uszkodzenia ciała lub zdrowia; (ii) w przypadku zamiaru; (iii) w przypadku rażącego niedbalstwa; oraz (iv) zgodnie z ustawą o odpowiedzialności za produkt.
+Nie ograniczając powyższego, ponosimy odpowiedzialność tylko za lekkie zaniedbanie w przypadku naruszenia „istotnego” zobowiązania wynikającego z niniejszej umowy. "
+„Istotne” zobowiązania w tym znaczeniu to zobowiązania, które są niezbędne do wykonania umowy, których naruszenie zagroziłoby osiągnięciu celu umowy i na których przestrzeganiu można w związku z tym regularnie polegać.
+W takich przypadkach odpowiedzialność jest ograniczona do szkód typowych dla umowy i możliwych do przewidzenia; w innych przypadkach nie ponosimy odpowiedzialności za lekkie zaniedbanie.
+W zakresie, w jakim odpowiedzialność Grindr jest wyłączona lub ograniczona zgodnie z powyższymi postanowieniami, dotyczy to również odpowiedzialności Grindr za jej przedstawicieli prawnych, pracowników i zastępców.
+Niniejsze ograniczenia odpowiedzialności pozostają w mocy po wygaśnięciu stosunku umownego między użytkownikiem a Grindr oraz po okresie korzystania przez użytkownika z Usług Grindr.
+Wzrost cen.
+Niezależnie od punktu 6, podniesiemy ceny i zmodyfikujemy Usługę tylko w zakresie dozwolonym przez prawo niemieckie.
+Brak odszkodowania.
+Sekcja 17 nie ma zastosowania do Ciebie.
+Zakończenie.
+Grindr może zamknąć Twoje konto tylko wtedy, gdy naruszysz niniejszą Umowę lub naruszysz prawo.
+W przypadku rozwiązania umowy Grindr zwróci wszelkie kwoty wymagane przez prawo niemieckie.
+Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie zgodziliście się Państwo na inne rozwiązanie.
+Prawa moralne.
+Twoje prawa moralne do Treści użytkownika nie zostaną przeniesione ani zrzeczone.
+KANADA.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Kanady w zakresie wymaganym przez obowiązujące prawo:
+Rozwiązywanie sporów.
+Punkty 3-21.7 (Arbitraż) i/lub 21.11 (Zrzeczenie się prawa do pozwu zbiorowego) nie będą miały zastosowania do Ciebie, jeśli którekolwiek z takich postanowień jest niewykonalne na mocy prawa Twojej prowincji zamieszkania.
+Sekcja 21.8 będzie nadal obowiązywać we wszystkich takich przypadkach.
+Prawa do anulowania.
+Mieszkańcy niektórych Prowincji mogą mieć prawo do anulowania Usług Premium zgodnie z wymogami lokalnego prawa.
+Grindr będzie honorować takie prawa do anulowania.
+AUSTRALIA.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Australii w zakresie wymaganym przez obowiązujące prawo:
+Przekazywanie danych osobowych za granicę.
+Wyrażając zgodę na przesyłanie i przetwarzanie Twoich danych w Stanach Zjednoczonych Ameryki i dowolnej innej jurysdykcji na całym świecie, potwierdzasz, że inne jurysdykcje (w tym Stany Zjednoczone Ameryki) mogą nie zapewniać ochrony prywatności równoważnej Ustawie o ochronie prywatności z 1988 r. ( Cth).
+Użytkownikowi może nie przysługiwać środek zaradczy przeciwko Grindr, ponieważ ani Australijska zasada prywatności 8.1, ani sekcja 16C Ustawy o ochronie prywatności nie będą miały zastosowania.
+Inżynieria wsteczna.
+Ograniczenia dotyczące modyfikacji, dezasemblacji, dekompilacji lub inżynierii wstecznej Usług Grindr podlegają prawom Użytkownika wynikającym z Części III Dział 4A („Czyny niestanowiące naruszenia praw autorskich do programów komputerowych”) Ustawy o prawie autorskim z 1968 r. (Cth).
+Gwarancje konsumenckie.
+Odpowiedzialność Grindr za nieprzestrzeganie jakiejkolwiek obowiązującej gwarancji konsumenckiej wynikającej z części 3-2 dział 1 australijskiego prawa konsumenckiego jest ograniczona do:
+w przypadku towarów dostarczonych Tobie, wymianę towaru lub dostawę towaru równoważnego (lub zapłatę kosztów wymiany lub dostawy na rzecz Ciebie) lub naprawę towaru (lub zapłatę kosztów ty z naprawy); I
+w przypadku usług świadczonych na Twoją rzecz, ponowne świadczenie usług lub zapłata kosztów ponownego świadczenia usług.
+ARGENTYNA.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś rezydentem Argentyny w zakresie wymaganym przez obowiązujące prawo:
+Anulowanie w ciągu 10-dniowego okresu anulowania.
+Masz prawo anulować swoje Usługi Grindr Premium w ciągu dziesięciu (10) dni bez podania przyczyny.
+Okres anulowania wygaśnie po dziesięciu (10) dniach od zakupu Usług Premium Grindr.
+Jeśli skorzystałeś z bezpłatnego okresu próbnego, okres anulowania wygaśnie dziesięć (10) dni od rozpoczęcia bezpłatnego okresu próbnego.
+Aby skorzystać z prawa do anulowania Usług Grindr Premium w trakcie dziesięciodniowego (10) okresu anulowania, należy poinformować nas o swojej decyzji na adres help@grindr.com w drodze jasnego oświadczenia.
+Niezwłocznie prześlemy Ci potwierdzenie otrzymania takiego anulowania pocztą elektroniczną.
+Aby dotrzymać terminu do odstąpienia od umowy, wystarczy, że wyślesz wiadomość dotyczącą wykonania przysługującego Ci prawa do odstąpienia od umowy przed upływem terminu do odstąpienia od umowy.
+Nie ma oddzielnych opłat za anulowanie, ale nie ma zwrotów, z wyjątkiem przypadków określonych w niniejszym dokumencie.
+Zwrócimy Ci proporcjonalną kwotę opłaty za Usługi Premium za niewykorzystany okres Twoich Usług Premium.
+Nadal będziesz zobowiązany do uiszczania opłaty za usługę premium za okres korzystania z usług premium, dopóki nie poinformujesz nas o anulowaniu (z wyłączeniem bezpłatnego okresu próbnego, w którym nie pobrano żadnej opłaty), w związku z czym nie zwrócimy ci kwoty za tę część Usługi premium.
+Zwrotu dokonamy bez zbędnej zwłoki.
+Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie zgodziliście się Państwo na inne rozwiązanie.
+Zasady powiadamiania i usuwania.
+Jeśli Użytkownik jest mieszkańcem Argentyny, zasady powiadamiania i usuwania treści określone w punkcie 22 nie mają do niego zastosowania.
+Zamiast tego, jeśli Użytkownik uważa, że ​​jakakolwiek treść udostępniana w jakiejkolwiek Usłudze Grindr wyrządza mu szkodę i może zostać uznana za ewidentnie nielegalną, może przesłać Grindr powiadomienie, wskazując przedmiotową treść i dostarczając dokumentację potwierdzającą jego tożsamość, a także szczegółowo szkody wyrządzone przez treść.
+Grindr przeanalizuje roszczenie i jeśli treść jest ewidentnie niezgodna z prawem (tj. pornografia dziecięca, dane ułatwiające popełnienie przestępstwa, odniesienia do przestępstwa lub rasizmu itp.),
+następnie Grindr przystąpi do jego usunięcia.
+Grindr nie usunie żadnych innych treści, które wyrządzają szkody, ale których nie można uznać za wyraźnie nielegalne, chyba że Użytkownik dostarczy zawiadomienie sądowe nakazujące usunięcie danych treści.
+Wszelkie powiadomienia w tym celu należy przesyłać na adres legal@grindr.com.
+BRAZYLIA.
+Poniższe warunki mają zastosowanie do Ciebie i zastępują sprzeczne warunki niniejszej Umowy, jeśli jesteś mieszkańcem Brazylii w zakresie wymaganym przez obowiązujące prawo:
+Prawo do żalu.
+Użytkownik ma prawo anulować swoje Usługi Grindr w ciągu siedmiu (7) dni kalendarzowych bez podania przyczyny.
+Okres anulowania wygaśnie po siedmiu (7) dniach kalendarzowych od zakupu przez Ciebie Usług Grindr.
+Aby skorzystać z prawa do anulowania Usług Grindr w trakcie siedmiodniowego (7) okresu anulowania, Użytkownik musi poinformować nas pod adresem legal@grindr.com o swojej decyzji o anulowaniu w drodze jasnego oświadczenia.
+Niezwłocznie prześlemy Ci potwierdzenie otrzymania takiego anulowania pocztą elektroniczną.
+Aby dotrzymać terminu do odstąpienia od umowy, wystarczy, że wyślesz wiadomość dotyczącą wykonania przysługującego Ci prawa do odstąpienia od umowy przed upływem terminu do odstąpienia od umowy.
+Zwrócimy każdą zapłaconą przez Ciebie kwotę.
+Zwrotu płatności dokonamy bez zbędnej zwłoki i w możliwie najkrótszym terminie od dnia, w którym zostaliśmy poinformowani o Twojej decyzji o odstąpieniu od umowy.
+Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie zgodziliście się Państwo na inne rozwiązanie.
+Arbitraż nie będzie miał zastosowania do Ciebie.
+Wszelkie procedury sporne wynikające z niniejszej Umowy będą rozstrzygane przez sąd właściwy dla właściwego adresu Użytkownika.
+Powiadomienie o usunięciu treści wrażliwych lub prywatnych.
+W przypadku nieupoważnionego ujawnienia Twoich zdjęć, filmów, zdjęć lub innych Twoich materiałów zawierających nagość lub prywatne treści o charakterze seksualnym, Grindr zobowiązuje się do podjęcia wszelkich niezbędnych działań, w zakresie mającym zastosowanie do naszych usług technicznych, w celu usunięcia wspomnianych treści z należytą starannością i w jak najkrótszym czasie, pod warunkiem, że poinformujesz nas o naruszeniu poprzez identyfikację i określenie treści naruszających prawo.
+Ponadto, jeśli jesteś narażony na niedokładne, obraźliwe, nieprzyzwoite lub kontrowersyjne treści innych Użytkowników, możesz powiadomić nas o takich treściach, abyśmy mogli podjąć odpowiednie środki w celu ich usunięcia, w stosownym zakresie.
+Stosowanie prawa brazylijskiego.
+Ty i my zgadzamy się, że prawo brazylijskie będzie miało również zastosowanie do niniejszej Umowy, zwłaszcza w odniesieniu do prawa do prywatności, ochrony danych osobowych oraz tajemnicy komunikacji prywatnej i dzienników.
+Ty i my zgadzamy się przestrzegać wszystkich obowiązujących przepisów brazylijskich.
+Przechowywanie danych dotyczących Twojego konta.
+Będziemy przechowywać dzienniki aplikacji w poufności, w kontrolowanym i bezpiecznym środowisku, przez sześć (6) miesięcy od daty subskrypcji, zgodnie z obowiązującym prawem brazylijskim.
+Zastrzegamy sobie prawo do ujawnienia dzienników aplikacji i/lub wszelkich innych zapisów Twojego konta, w tym prywatnych wiadomości, w celu wykonania nakazów sądowych.
+Naliczanie opłat.
+Za każdym razem, gdy zdecydujemy się obciążyć Cię opłatą za część lub całość Usług Grindr, na ekranie Twojego telefonu komórkowego zostanie wyświetlony komunikat, dzięki któremu będziesz mógł (i) zatwierdzić odpowiednią usługę i odpowiednie opłaty, w którym to przypadku zostaniesz poproszony o podanie danych Twojej karty kredytowej; lub (ii) odmówić odpowiedniej usługi i kontynuować korzystanie z bezpłatnej części Usług Grindr.
+Ograniczenie odpowiedzialności.
+Postanowienia dotyczące ograniczenia odpowiedzialności ustanowione w niniejszej Umowie mogą, co do zasady, nie mieć zastosowania do Użytkownika, ponieważ obowiązek wypłaty odszkodowania jest zasadą porządku publicznego w Brazylii.
+Ty i my jesteśmy świadomi, że prawo brazylijskie nie zezwala na odszkodowanie za szkody pośrednie, a jedynie rzeczywiste straty i utratę zysków bezpośrednio i bezpośrednio przez nie spowodowane.
+Przedawnienie Twoich roszczeń.
+Postanowienia niniejszej Umowy dotyczące przedawnienia mogą nie mieć zastosowania do Użytkownika, jeśli obowiązujące prawo brazylijskie przewiduje inny lub szczególny okres przedawnienia dla określonego roszczenia.
+W takim przypadku Użytkownik będzie podlegał określonemu okresowi przedawnienia przewidzianemu w obowiązującym prawie brazylijskim.
+Modyfikacje niniejszej Umowy.
+Zastrzegamy sobie prawo do zmiany, według naszego wyłącznego uznania, dowolnych postanowień niniejszej Umowy w dowolnym czasie iz dowolnego powodu, niezależnie od Twojej wcześniejszej zgody.
+O takich modyfikacjach zostaniesz powiadomiony.
+Data wejścia w życie: 13 marca 2020 r. lub akceptacja użytkownika, co nastąpi wcześniej.

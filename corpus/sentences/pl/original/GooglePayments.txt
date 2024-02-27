@@ -1,0 +1,477 @@
+Aby uniknąć jakichkolwiek wątpliwości, spółka GPL zapewni Kupującemu Usługę (jak opisano poniżej w Warunkach korzystania z usługi) w związku z zakupami Kupującego na platformie handlowej Google i w związku z darowiznami na cele charytatywne względem Sprzedawców, którzy są organizacjami charytatywnymi.
+Lista platform handlowych obsługiwanych w ramach Usługi jest dostępna tutaj.
+Google może okresowo aktualizować platformy handlowe, ale wszelkie transakcje będą przetwarzane zgodnie z poniższymi Warunkami korzystania z usługi.
+Aby uzyskać dalsze informacje na temat tego, czy dana usługa jest platformą handlową, należy zapoznać się z warunkami korzystania z tej usługi.
+Warunki korzystania z usługi
+28 marca 2018 r.
+Te Warunki korzystania z usługi przez Kupującego („Umowa”) stanowią umowę zawartą pomiędzy Google Payment Limited, spółką zarejestrowaną w Anglii (pod numerem 05903713), z siedzibą pod adresem 5 New Street Square, London EC4A 3TW, Wielka Brytania, („GPL”), a użytkownikiem („Kupującym”).
+Z GPL można skontaktować się pocztą e-mail przez Centrum pomocy na stronie https://support.google.com/payments.
+GPL jest autoryzowanym przez Urząd Nadzoru Finansowego (Financial Conduct Authority, FCA) i podlegającym jego regulacjom emitentem pieniędzy elektronicznych („E-pieniędzy”), wpisanym do rejestru FCA pod numerem 900008.
+GPL jest spółką zależną Google International, LLC („Google”).
+Przed podjęciem decyzji o zaakceptowaniu tej Umowy i kontynuowaniu procesu rejestracji należy zapoznać się z całością Umowy.
+Ta Umowa reguluje sposób uzyskania dostępu do usługi Google Payments i korzystania z niej przez Kupującego.
+Opisane poniżej usługi są świadczone przez GPL.
+Przed podjęciem decyzji o zaakceptowaniu tej Umowy i kontynuowaniu procesu rejestracji należy zapoznać się z całością Umowy.
+Instrumenty finansowania zapisane na koncie Google Payments Kupującego mogą wyświetlać się pod marką Google Pay, ale nadal podlegają tej Umowie, gdy są używane w związku z opisanymi niżej usługami.
+Zgadzając się na tę Umowę, Kupujący oświadcza, że ma ukończone 18 lat i posiada zdolność do zawarcia prawnie wiążącej umowy.
+Przed przejściem dalej należy wydrukować lub zapisać kopię tej Umowy w celach archiwalnych.
+Kupujący może zaakceptować Umowę zgodnie z postanowieniami punktu 3.
+Umowa zaczyna obowiązywać od dnia zaakceptowania jej przez Kupującego („Data wejścia w życie”).
+1.
+Definicje
+W tej Umowie są używane następujące zdefiniowane terminy:
+„Konto” oznacza konto E-pieniędzy prowadzone przez GPL dla Kupującego.
+„Umowa” oznacza te Warunki korzystania z usługi przez Kupującego.
+„AISP” oznacza dostawcę usług informacji o koncie, czyli dostawcę usług płatniczych (nie jest nim GPL) świadczącego usługę informacji o koncie – usługę online, która dostarcza skonsolidowane informacje o co najmniej jednym koncie płatności, które może obejmować Konto Kupującego.
+„Dzień roboczy” oznacza dzień niebędący sobotą, niedzielą ani dniem ustawowo wolnym od pracy w Wielkiej Brytanii.
+„Płatność przez Operatora” (jeśli Kupujący ma możliwość korzystania z usług Płatności przez Operatora) oznacza proces płatności, w którym GPL wysyła Transakcję finansowania do Operatora w celu rozliczenia jej na Koncie rozliczeniowym Operatora, które należy do Kupującego.
+„Operator” oznacza zatwierdzonego przez GPL operatora sieci komórkowej, który oferuje Konto rozliczeniowe Operatora.
+„Konto rozliczeniowe Operatora” oznacza konto z miesięcznym lub innym terminem rozliczeniowym prowadzone przez Operatora, które Kupujący zarejestrował w Usłudze do realizowania określonych Transakcji finansowania.
+„Treść” oznacza dowolną poradę, opinię, ofertę, propozycję, stwierdzenie, dane lub inne informacje wyświetlane lub rozpowszechniane, zakupione lub opłacone za pomocą Usługi.
+„Klient” oznacza osobę lub podmiot rejestrujący się w Usłudze jako Kupujący lub Sprzedawca.
+„Spory” oznaczają wszelkie nieporozumienia, postępowania sądowe, ugody lub inne spory między Klientami bądź innymi osobami trzecimi wynikające z korzystania z Usługi, inne niż Spory dotyczące Usługi.
+„E-pieniądze” oznaczają elektroniczną wartość pieniężną emitowaną przez GPL po otrzymaniu środków od Kupującego.
+E-pieniądze są przechowywane w systemie komputerowym GPL i stanowią roszczenie Kupującego wobec GPL o rozliczenie odpowiedniej kwoty.
+E-pieniądze nie są depozytem.
+„Instrument finansowania” oznacza kartę kredytową, kartę debetową, Konto rozliczeniowe Operatora lub inny instrument płatniczy zarejestrowany przez Kupującego w Usłudze i używany przez spółkę GPL do finansowania emisji E-pieniędzy za pośrednictwem Usługi w celu przetwarzania Transakcji finansowania oraz w innych celach.
+„Transakcja finansowania” oznacza transakcję, w której GPL (i) inicjuje przelew Kwoty do zapłaty z Instrumentu finansowania Kupującego do GPL, (ii) wydaje Kupującemu kwotę E-pieniędzy równą Kwocie do zapłaty oraz (iii) przesyła kwotę E-pieniędzy z Konta Kupującego do Sprzedawcy, od którego Kupujący zakupił Produkt.
+„Google” oznacza firmę Google International, LLC oraz jej Podmioty zależne i stowarzyszone.
+„Witryna GPL” oznacza witrynę należącą do GPL lub jej Podmiotów zależnych i stowarzyszonych.
+Określenia „GPL”, „my”, „nasze” i „nas” odnoszą się do spółki Google Payment Limited.
+„Dane logowania” oznaczają nazwę użytkownika i hasło wydane Kupującemu przez GPL w celu umożliwienia dostępu do Konta.
+„Zlecenie zapłaty” oznacza (i) instrukcję przekazywaną GPL przez Sprzedawcę w celu dokonania Transakcji finansowania autoryzowanej przez Kupującego, co stanowi również powiadomienie dla GPL o upoważnieniu Kupującego do zainicjowania zakupu od GPL kwoty E-pieniędzy równej Kwocie do zapłaty w Transakcji finansowania lub (ii) instrukcję przekazywaną GPL przez Sprzedawcę w celu dokonania Zwrotu środków zgodnie z zaistniałą sytuacją.
+„Produkt” oznacza dowolny cyfrowy lub fizyczny towar lub usługę, które Kupujący może zakupić od Sprzedawcy, korzystając z Usługi.
+„Kwota do zapłaty” oznacza kwotę równą cenie Produktu wraz z wszelkimi powiązanymi obowiązującymi opłatami, podatkami i kosztami dostawy.
+„Zwrot środków” oznacza transakcję, w której GPL przesyła E-pieniądze od Sprzedawcy na Konto Kupującego, a następnie wykupuje odpowiednią kwotę i inicjuje jej przelew na Instrument finansowania Kupującego za pomocą funkcji zwrotu środków w Usłudze.
+„Sprzedawca” oznacza dowolną osobę lub podmiot korzystający z Usługi w celu sprzedawania Produktów i otrzymywania Kwot do zapłaty z Transakcji finansowania.
+„Usługa” oznacza świadczoną przez GPL usługę o nazwie Google Payments, która służy do obsługi płatności E-pieniędzmi.
+„usługi” oznaczają wszystkie usługi oferowane przez GPL na mocy Umowy, w tym również Usługę.
+„Spory dotyczące Usługi” oznaczają wszelkie nieporozumienia, skargi, postępowania sądowe, ugody lub pozostałe spory między GPL a Klientami wynikające wyłącznie z domniemanego niewywiązania się przez GPL ze swoich zobowiązań określonych w Umowie lub przepisach obowiązującego prawa oraz jakiegokolwiek związanego z tym błędu w świadczeniu Usługi.
+„Podmioty zależne i stowarzyszone” oznaczają zależne i stowarzyszone podmioty prawne Google na całym świecie.
+„Usługa nieregulowana” oznacza usługę dostarczoną przez GPL, taką jak usługi wymienione w punkcie 10.
+1(c), która nie jest usługą płatności E-pieniędzmi.
+„Kupujący” oznacza osobę, która przesłała zgłoszenie lub zarejestrowała się w celu korzystania z Usługi lub korzysta z niej, aby przeprowadzić Transakcję finansowania zakupu Produktu.
+„Adres e-mail Kupującego” oznacza adres e-mail podany przez Kupującego podczas rejestracji.
+2.
+Relacje Kupującego ze spółką GPL
+2.
+1 Sposób korzystania z Usługi przez Kupującego podlega warunkom tej Umowy.
+2.
+2 Korzystając z Usługi, Kupujący kupuje od GPL E-pieniądze, które od razu zostaną wykorzystane do realizacji płatności na rzecz Sprzedawców.
+2.
+3 GPL może także świadczyć Usługi nieregulowane, zgodnie z postanowieniami tej Umowy.
+3.
+Akceptacja Umowy
+3.
+1 Aby korzystać z usług objętych tą Umową, Kupujący musi najpierw ją zaakceptować.
+Bez wcześniejszego zaakceptowania Umowy korzystanie z usług jest niemożliwe.
+3.
+2 Ta Umowa stanowi prawnie wiążące porozumienie między Kupującym a GPL w zakresie korzystania z usług przez Kupującego, dlatego ważne jest, aby Kupujący dokładnie zapoznał się z jej treścią.
+Akceptując Umowę, Kupujący zobowiązuje się korzystać z usług w sposób zgodny z jej wymaganiami.
+3.
+3 Kupujący może zaakceptować Umowę: (a) klikając opcję zaakceptowania Umowy, jeśli opcja ta została udostępniona Kupującemu przez GPL w interfejsie użytkownika, lub; (b) korzystając z usług – w tym przypadku Kupujący rozumie i akceptuje fakt, że GPL będzie traktować rozpoczęcie korzystania z usług jako zaakceptowanie Umowy.
+3.
+4 Kupujący nie może korzystać z usług ani zaakceptować Umowy, jeśli:
+    (a) wiek nie upoważnia go do zawarcia wiążącej umowy z GPL ani korzystania z Instrumentu finansowania zarejestrowanego na potrzeby usług lub
+    (b) został pozbawiony prawa do korzystania z usług na mocy przepisów obowiązujących w Stanach Zjednoczonych lub innych krajach – także w tym, w którym mieszka lub korzysta z usług.
+4.
+Dostępność i język Umowy
+4.
+1 W trakcie procesu rejestracji kopia Umowy jest przekazywana Kupującemu w postaci do wydrukowania.
+Kopia Umowy, wraz z wprowadzanymi co pewien czas zmianami, jest dostępna dla Kupującego w Witrynie GPL.
+4.
+2 W czasie trwania Umowy Kupujący może prosić o jej udostępnienie, a link do niej zostanie przesłany bezpłatnie na Adres e-mail Kupującego.
+4.
+3 Umowa jest udostępniana Kupującemu w języku polskim i może również zostać udostępniona w języku angielskim.
+4.
+4 W razie jakiejkolwiek sprzeczności między polską a angielską wersją Umowy obowiązuje wersja w języku polskim.
+5.
+Rejestracja w Usłudze
+5.
+1 Aby korzystać z usług, Kupujący musi podać wszystkie wymagane informacje na stronach internetowych rejestracji w usłudze Google Payments.
+5.
+2 Kupujący musi zarejestrować prawidłowy Instrument finansowania, który będzie służyć do finansowania zakupu E-pieniędzy za pośrednictwem Usługi.
+5.
+3 Instrument finansowania musi być powiązany z adresem rozliczeniowym w kraju, w którym Usługa została udostępniona.
+5.
+4 Kupujący musi podać aktualne, pełne i dokładne informacje oraz dbać o ich aktualność i dokładność podczas korzystania z usług.
+GPL może wymagać od Kupującego podania dodatkowych informacji – jako warunku dalszego użytkowania usług lub w celu korzystania przez Kupującego z nowej usługi albo by określić, czy zezwolić Kupującemu na dalsze korzystanie z usług.
+Kupujący zobowiązuje się podać wymagane w tym zakresie przez GPL informacje, w tym dane potrzebne do zweryfikowania jego tożsamości lub potwierdzenia autentyczności każdego Instrumentu finansowania zarejestrowanego przez Kupującego w GPL.
+6.
+Świadczenie Usługi przez spółkę GPL
+6.
+1 Zdarza się czasem, że całość lub część Usługi na rzecz Kupującego świadczą w imieniu GPL Podmioty zależne i stowarzyszone.
+Kupujący uznaje i akceptuje fakt świadczenia Usługi na jego rzecz przez Podmioty zależne i stowarzyszone.
+6.
+2 GPL ciągle wprowadza innowacje, aby zapewnić swoim użytkownikom możliwie najwyższy poziom usług.
+Kupujący uznaje i akceptuje fakt, że GPL może co jakiś czas udostępniać nową usługę bez wcześniejszego powiadomienia.
+Kupujący otrzyma Umowę, która została zmieniona w związku z wprowadzeniem nowej usługi, pocztą e-mail lub poprzez udostępnienie mu linku do zaktualizowanej Umowy podczas rejestracji.
+Nową wersję Umowy Kupujący może zaakceptować w sposób określony w punkcie 3.
+6.
+3 Kupujący uznaje i akceptuje fakt, że GPL może zaprzestać świadczenia mu usług zgodnie z postanowieniami Umowy.
+Kupujący może w każdej chwili zaprzestać korzystania z usług.
+Kupujący nie musi powiadamiać o tym GPL.
+6.
+4 Kupujący uznaje i akceptuje fakt, że GPL może bez wcześniejszego powiadomienia go wprowadzić ogólne zasady i ograniczenia dotyczące użytkowania usług, w tym między innymi limity dotyczące liczby i wartości pojedynczych lub łącznych Transakcji finansowania w określonym czasie.
+6.
+5 GPL może odmówić realizacji dowolnej Transakcji finansowania, Zlecenia zapłaty lub innej operacji w ramach usług, jeśli ma uzasadnione podstawy, aby podejrzewać, że doszło do oszustwa, naruszenia obowiązującej Umowy przez Kupującego lub Sprzedawcę albo naruszenia prawa.
+Realizacja transakcji może również zostać opóźniona z powodu konieczności wypełnienia przez GPL zobowiązań wynikających z obowiązujących przepisów dotyczących zapobiegania praniu pieniędzy, a także w przypadku, gdy GPL podejrzewa, że transakcja wiąże się z oszustwem.
+Jeżeli GPL odmówi wykonania Transakcji finansowania, Zlecenia zapłaty lub korzystania z innych usług, poinformuje o tym Kupującego, chyba że takie postępowanie GPL byłoby niezgodne z prawem lub spowodowałoby naruszenie uzasadnionych środków bezpieczeństwa.
+6.
+6 Kupujący uznaje i akceptuje fakt, że jeśli GPL zablokuje mu dostęp do Konta, uniemożliwiając używanie jego Danych logowania, może to oznaczać brak dostępu Kupującego do Usługi, szczegółów Konta oraz wszelkich plików lub innych treści znajdujących się na jego Koncie.
+7.
+Korzystanie z Usługi przez Kupującego
+7.
+1 Kupujący zobowiązuje się korzystać z usług wyłącznie w sposób dozwolony w:
+    (a) Umowie;
+    (b) zasadach i ograniczeniach dotyczących usług okresowo publikowanych i aktualizowanych przez spółkę GPL i jej podmioty stowarzyszone;
+    (c) wszelkich obowiązujących przepisach prawa, regulacjach oraz ogólnie przyjętych procedurach i wytycznych w odpowiednich jurysdykcjach (w tym we wszelkich przepisach prawa dotyczących eksportu i importu danych lub oprogramowania w Stanach Zjednoczonych oraz innych odpowiednich krajach).
+7.
+2 Bez uszczerbku dla powyższych postanowień Kupujący uznaje i akceptuje fakt, że odpowiada za zgłaszanie i regulowanie wszelkich obowiązujących podatków wynikających z korzystania przez niego z usług.
+Kupujący tym samym zobowiązuje się przestrzegać wszystkich obowiązujących przepisów podatkowych, w tym dotyczących zgłaszania i regulowania wszelkich zobowiązań podatkowych powstałych w związku z Transakcjami finansowania.
+7.
+3 Kupujący zobowiązuje się nie uzyskiwać dostępu (ani nie podejmować prób uzyskania dostępu) do żadnej z usług w sposób inny niż poprzez interfejs udostępniony przez GPL, o ile nie otrzyma na to zgody w odrębnej umowie z GPL.
+Kupujący przyjmuje do wiadomości, że to ograniczenie będzie obowiązywać także w przypadku korzystania z usług w sposób zautomatyzowany.
+Nie dotyczy to jednak prawa Kupującego do korzystania z usług AISP.
+7.
+4 Kupujący zobowiązuje się nie podejmować żadnych działań, które zakłócałyby działanie usług (lub serwerów i sieci powiązanych z usługami).
+7.
+5 Kupujący zobowiązuje się, że nie będzie reprodukować, powielać, kopiować, sprzedawać ani odsprzedawać usług w żadnym celu, o ile nie otrzyma na to zgody w odrębnej umowie z GPL.
+7.
+6 Kupujący akceptuje fakt, że ponosi wyłączną odpowiedzialność (oraz że GPL nie ponosi odpowiedzialności wobec Kupującego ani żadnej osoby trzeciej) za naruszenie jakichkolwiek zobowiązań Kupującego wynikających z Umowy oraz za skutki (w tym wszelkie możliwe straty i szkody poniesione przez GPL) każdego takiego naruszenia.
+8.
+Bezpieczeństwo Danych logowania i Konta Kupującego
+8.
+1 Kupujący zobowiązuje się używać wszelkich Danych logowania powiązanych z jego Kontem wyłącznie w sposób zgodny z określonymi w tej Umowie warunkami korzystania z Usługi, które dotyczą używania tych danych.
+8.
+2 Kupujący rozumie i akceptuje fakt, że jest odpowiedzialny za zachowanie poufności Danych logowania powiązanych z jego Kontem i podjęcie wszelkich uzasadnionych kroków w celu zapewnienia poufności tych informacji.
+8.
+3 Jeśli Kupujący korzysta z Usługi w ramach firmy, potwierdza, że wszyscy członkowie kadry kierowniczej, pracownicy, agenci, przedstawiciele i inne osoby mające dostęp do jego Danych logowania są do tego odpowiednio uprawnione oraz że są one upoważnione do zawarcia prawnie wiążącej umowy w imieniu firmy, spółki lub innego właściwego podmiotu prawnego.
+8.
+4 Odpowiedzialność Kupującego za korzystanie z Usługi jest opisana w punkcie 17 poniżej.
+8.
+5 Kupujący ma obowiązek niezwłocznie powiadomić GPL o utracie, kradzieży lub przywłaszczeniu Danych logowania lub Konta na stronie „Nie możesz zalogować się na konto Google”, a także o nieuprawnionym użyciu Danych logowania lub Konta na stronie „Zgłaszanie nieautoryzowanych obciążeń” w Centrum pomocy dla kupujących.
+Kupujący zobowiązuje się również niezwłocznie powiadomić GPL w ten sam sposób o każdym innym znanym mu naruszeniu bezpieczeństwa związanym z Usługą.
+8.
+6 Jeśli Kupujący sądzi, że jego Konto zostało otwarte lub użyte w nieuprawniony sposób, powinien zapoznać się z sekcją o zgłaszaniu nadużyć.
+Powinien też przeczytać odpowiedzi na Najczęstsze pytania, aby dowiedzieć się więcej o tym, jak GPL chroni kupujących przed oszustwami.
+8.
+7 Aby uzyskać zwrot za nieautoryzowane lub nieprawidłowo przeprowadzone Transakcje finansowania, należy powiadomić GPL poprzez Centrum pomocy dla kupujących niezwłocznie, a w każdym razie nie później niż w ciągu trzynastu (13) miesięcy po dacie obciążenia (będącej jednocześnie datą pobrania środków z Instrumentu finansowania), po uzyskaniu informacji o nieautoryzowanej lub nieprawidłowo przetworzonej Transakcji finansowania (patrz punkt 17).
+8.
+8 GPL może zawiesić możliwość używania Danych logowania lub Konta Kupującego w przypadku podejrzenia, że ich bezpieczeństwo zostało naruszone lub że zostały użyte w sposób nieuprawniony lub nieuczciwy.
+8.
+9 GPL poinformuje Kupującego z wyprzedzeniem, a jeśli nie będzie to możliwe – natychmiast po wystąpieniu takiej sytuacji – o zawieszeniu możliwości używania Danych logowania lub Konta, podając przyczyny zawieszenia, chyba że przekazanie takich informacji naruszyłoby uzasadnione środki bezpieczeństwa lub byłoby niezgodne z prawem.
+Po ustąpieniu przyczyn zawieszenia GPL ponownie aktywuje Dane logowania lub Konto Kupującego albo zapewni mu nowe aktywne Dane logowania lub Konto tak szybko, jak będzie to możliwe.
+9.
+Prywatność i dane osobowe Kupującego
+9.
+1 Polityka prywatności Google opisuje, w jaki sposób postępujemy z danymi osobowymi użytkowników, którzy korzystają z produktów i usług Google.
+Oprócz tego na stronie https://payments.google.com/files/privacy.html znajdują się informacje o tym, jak chronimy dane osobowe i prywatność użytkownika korzystającego z Usługi.
+Kupujący może poprosić o elektroniczną wersję Polityki prywatności GPL w formacie PDF, kontaktując się z Google przez Centrum pomocy na stronie https://support.google.com/payments.
+9.
+2 Kupujący wyraża zgodę na wykorzystanie swoich danych zgodnie z zasadami ochrony prywatności przedstawionymi w punkcie 9.
+1.
+9.
+3 Weryfikacja tożsamości Kupującego i wymagania dotyczące zapobiegania praniu pieniędzy.
+    (a) Kupujący przyjmuje do wiadomości, że GPL oferuje mu usługi oraz kontynuuje ich oferowanie, pod warunkiem że Kupujący pomyślnie przejdzie wszystkie badania stanu i kontrole tożsamości, jakie może przeprowadzić GPL, oraz będzie przestrzegać wymagań GPL oraz instytucji obsługującej karty, a także wymogów prawnych związanych z zapobieganiem praniu pieniędzy.
+Kontrole tożsamości mogą obejmować kontrole kredytowe, kontrole pod kątem prania pieniędzy wymagane na mocy odpowiednich przepisów prawa, kontrole wymagane przez instytucje obsługujące karty oraz kontrole mające na celu zapewnienie zgodności z odpowiednimi przepisami prawa.
+Kupujący zapewni wszelką wymaganą przez spółkę GPL pomoc w przeprowadzeniu takich kontroli i stwierdzeniu zgodności z wymaganiami dotyczącymi zapobiegania praniu pieniędzy, łącznie z dostarczeniem dodatkowych informacji związanych z rejestracją lub służących do weryfikacji tożsamości, jakich może zażądać GPL.
+    (b) Kupujący zgadza się na udostępnianie przez spółkę GPL osobom trzecim i uzyskiwanie od nich, zarówno wewnątrz Europejskiego Obszaru Gospodarczego, jak i poza nim, w zakresie dozwolonym przez prawo, posiadanych informacji o Kupującym, w tym danych osobowych, zgodnie z definicją w odpowiednich przepisach o ochronie danych, w celu przeprowadzenia przez spółkę GPL obowiązujących badań stanu i kontroli tożsamości.
+Kupujący akceptuje także fakt, że wspomniane osoby trzecie mogą zachować udostępnione w ten sposób informacje.
+    (c) Niespełnienie warunków przedstawionych w punkcie 9.
+3, w tym niedostarczenie przez Kupującego informacji żądanych przez spółkę GPL w celu przeprowadzenia weryfikacji tożsamości lub ustalenia zgodności z wymaganiami dotyczącymi zapobiegania praniu pieniędzy, może skutkować natychmiastowym zawieszeniem możliwości korzystania przez Kupującego z usług, a także wypowiedzeniem tej Umowy.
+10.
+Instrument finansowania
+10.
+1 Kupujący akceptuje fakt, że dane jego Instrumentu finansowania będą używane przez spółkę GPL do:
+    (a) obciążania Kupującego Kwotą do zapłaty, w tym wszystkimi powiązanymi obowiązującymi opłatami, podatkami i kosztami dostawy;
+    (b) przetwarzania wszystkich płatności wymaganych do obciążenia Kupującego wszelkimi innymi opłatami wynikającymi z korzystania przez niego z Usługi;
+    (c) przekazania ich osobie trzeciej na prośbę Kupującego w celu pobrania przez nią opłaty za usługi lub towary dostarczane Kupującemu.
+W takim przypadku jest to Usługa nieregulowana świadczona Kupującemu przez GPL.
+Po przekazaniu danych Instrumentu finansowania osobie trzeciej GPL nie bierze dalszego udziału w transakcji pomiędzy Kupującym a osobą trzecią.
+Taka transakcja nie jest Transakcją finansowania.
+W kwestiach związanych z tego rodzaju transakcjami z osobą trzecią, np.
+w sprawach sporów i zwrotu środków, należy kontaktować się bezpośrednio z osobą trzecią lub dostawcą Instrumentu finansowania (np.
+wydawcą karty kredytowej lub debetowej).
+10.
+2 Kupujący upoważnia GPL do sprawdzenia, czy jego Instrument finansowania ma prawidłowe saldo, u podmiotu, który go wydał (instytucji finansowej lub Operatora), pod nadzorem Kupującego, w tym między innymi przez przesłanie żądania autoryzacji płatności, wpłaty niewielkiej kwoty lub dokonania obciążenia na Instrumencie finansowania zgodnie z odpowiednimi zasadami instytucji obsługującej karty.
+10.
+3 Kupujący upoważnia GPL do okresowego uzyskiwania raportu kredytowego lub składania innych zapytań dotyczących historii kredytowej bądź pozostałych informacji, które GPL może uznać za potrzebne do oceny, czy Kupujący kwalifikuje się do zarejestrowania w usługach lub do dalszego korzystania z nich.
+11.
+Przetwarzanie płatności z wykorzystaniem E-pieniędzy; Płatność przez Operatora; subskrypcje / transakcje cykliczne
+11.
+1 GPL zobowiązuje się świadczyć Usługę Kupującemu w celu umożliwienia realizacji Transakcji finansowania.
+11.
+2 Kupujący musi wyrazić zgodę na wykonanie Transakcji finansowania, aby została ona autoryzowana.
+Kupujący potwierdza fakt, że korzystając z Usługi do zakupu Produktu od Sprzedawcy, wyraża zgodę na przetworzenie Transakcji finansowania oraz akceptuje fakt, że po udzieleniu przez niego zgody cofnięcie autoryzowanej Transakcji finansowania jest niemożliwe.
+Kupujący akceptuje również fakt, że Sprzedawcy mogą z dowolnego powodu odmówić realizacji jakiegokolwiek zamówienia na Produkt oraz że dopóki Sprzedawca nie prześle Zlecenia zapłaty do GPL zgodnie z punktem 11.
+4, spółka GPL nie jest zobowiązana do realizacji Transakcji finansowania.
+11.
+3 Za pomocą Usługi GPL przechowuje informacje podane przez Kupującego, takie jak np.
+dane Instrumentu finansowania i informacje dotyczące dostawy, oraz przeprowadza Transakcje finansowania i Zwroty środków, korzystając z odpowiedniej sieci kart kredytowych lub debetowych, odpowiedniego Operatora lub odpowiedniej sieci bankowej.
+11.
+4 Po autoryzowaniu przez Kupującego wykonania Transakcji finansowania Sprzedawca może przesłać Zlecenie zapłaty do GPL zgodnie z zasadami przyjętymi przez spółkę GPL.
+Po otrzymaniu od Sprzedawcy Zlecenia zapłaty GPL zainicjuje przelew Kwoty do zapłaty z Instrumentu finansowania Kupującego do GPL.
+GPL wyda wówczas Kupującemu kwotę E-pieniędzy równą Kwocie do zapłaty najpóźniej wówczas, gdy GPL otrzyma z Instrumentu finansowania Kupującego odpowiednie faktyczne środki, po czym GPL niezwłocznie dokona przelewu wydanej kwoty na rzecz Sprzedawcy.
+GPL nie ponosi odpowiedzialności za terminowość otrzymania środków z Instrumentu finansowania Kupującego ani nie ma na nią wpływu.
+Kupujący jest powiadamiany za pomocą informacji w historii transakcji na jego Koncie o przesłaniu przez Sprzedawcę Zlecenia zapłaty do GPL.
+11.
+5 Transakcje finansowania mogą zostać odrzucone lub opóźnione z przyczyn podanych w punkcie 6.
+5.
+11.
+6 Kupujący tym samym wyraźnie upoważnia GPL do wykonania poniższych czynności (lub do ich zlecenia osobie trzeciej):
+    (a) obciążenia Instrumentu finansowania Kupującego, jakie jest wymagane w celu zakupu E-pieniędzy i zrealizowania Transakcji finansowania;
+    (b) dokonania, przy użyciu Usługi, wpłaty na Instrument finansowania Kupującego wymaganej kwoty w związku z unieważnieniem dowolnej Transakcji finansowania, zwrotem środków lub korektą Kwoty do zapłaty.
+11.
+7 Kupujący uznaje i akceptuje fakt, że:
+    (a) transakcje sprzedaży Produktów Sprzedawcy są transakcjami między Sprzedawcą a Kupującym, w których udziału nie bierze spółka GPL, firma Google ani żaden z jej podmiotów stowarzyszonych, chyba że spółka GPL, firma Google lub dowolny jej podmiot stowarzyszony został wyraźnie wskazany jako Sprzedawca lub Kupujący biorący udział w transakcji, oraz
+    (b) spółka GPL, firma Google ani żaden jej podmiot stowarzyszony nie jest Kupującym, Sprzedawcą ani stroną związaną z żadną Transakcją finansowania, chyba że zostało to wyraźnie wskazane w informacjach o Produkcie w witrynie Google lub odpowiednich warunkach korzystania z usługi.
+    (c) W przypadku gdy wcześniejsza transakcja płatnicza zostanie odrzucona lub zwrócona przez organizację płatniczą, Sprzedawca i GPL, działając w imieniu Sprzedawcy, może ponownie przesłać transakcję płatniczą za zakup Produktu do organizacji płatniczej w celu jej przetworzenia co najmniej raz.
+11.
+8 E-pieniądze, a tym samym Usługa, nie podlegają funduszowi gwarancyjnemu Financial Services Compensation Scheme ani żadnemu publicznemu czy prywatnemu funduszowi ubezpieczeniowemu.
+11.
+9 Płatność przez Operatora.
+Niektórzy Sprzedawcy akceptujący płatności przez usługę Google Payments mogą zezwolić Kupującemu na realizowanie płatności przez obciążenie Konta rozliczeniowego Operatora.
+Gdy za pośrednictwem usługi Google Payments dokonuje się Płatności przez Operatora, obowiązują następujące dodatkowe warunki:
+    (a) Do zarejestrowania Konta rozliczeniowego Operatora jako opcji płatności w usłudze Google Payments wymagane są numer telefonu komórkowego Kupującego oraz nazwa i adres rozliczeniowy (w tym kod pocztowy) zarejestrowane na Koncie rozliczeniowym Operatora, które jest powiązane z tym numerem telefonu.
+Kupujący wyraża zgodę na przekazanie tych informacji przez Operatora do usługi Google Payments i zobowiązuje się sprawdzić ich poprawność podczas rejestracji Płatności przez Operatora oraz poprawić ewentualne błędy.
+Usługa Google Payments wykorzysta udostępnione informacje do ustawienia Konta rozliczeniowego Operatora jako Instrumentu finansowania na koncie w usłudze Google Payments oraz do umożliwienia korzystania z Usługi.
+Kupujący wyraża także zgodę na wzajemne udostępnianie przez GPL i Operatora informacji o działaniach dotyczących Płatności przez Operatora w celu obciążania Konta rozliczeniowego Operatora lub dokonywania na nie wpłat, wycofywania z nich środków, realizowania na nie płatności za zakupy, zwrotów środków lub korekt Transakcji finansowania, a także w celu rozwiązywania sporów, świadczenia obsługi klienta i w innych celach związanych z Płatnościami przez Operatora.
+    (b) Gdy Kupujący wybiera opłacenie transakcji przy użyciu Płatności przez Operatora, uprawnia tym samym Sprzedawcę i GPL do przekazania obciążenia lub wpłaty do Operatora, a Operatora do dokonania odpowiedniego obciążenia Konta rozliczeniowego Operatora lub wpłaty na nie, w celu zrealizowania Transakcji finansowania albo jej wycofania, zwrotu lub korekty.
+    (c) Kupujący może używać Płatności przez Operatora do zakupu aplikacji (np.
+przeznaczonych do pobrania lub sieciowych, tapet, dzwonków, gier czy narzędzi zwiększających produktywność) („Aplikacje”) na zgodne urządzenie i za jego pomocą od określonych sprzedawców w Google Play.
+Aplikacje te nie są sprzedawane przez Operatora, Google, GPL ani Google Play.
+Kupujący może zidentyfikować Sprzedawcę Aplikacji w miejscu zakupu.
+    (d) Zakupy zrealizowane za pomocą Płatności przez Operatora podlegają również warunkom korzystania z Konta rozliczeniowego Operatora.
+Kupujący jest zobowiązany ponieść wszelkie obciążenia i powiązane opłaty, które mogą być nakładane zgodnie z warunkami korzystania z Konta rozliczeniowego Operatora za użytkowanie Płatności przez Operatora.
+    (e) W razie pytań o obciążenia i opłaty na Koncie rozliczeniowym Operatora należy skontaktować się z obsługą klienta Operatora.
+W sprawach dotyczących usługi Google Payments należy skontaktować się z zespołem obsługi klienta Google Payments.
+Pytania związane z produktami (takimi jak Aplikacje na Androida) zakupionymi przy użyciu Płatności przez Operatora należy kierować do Sprzedawców konkretnych Aplikacji.
+    (f) Operator, Google, GPL ani Google Play nie odpowiadają za żaden produkt (w tym Aplikację) zakupiony z użyciem Płatności przez Operatora, w tym za niepowodzenie, przerwanie lub opóźnienie pobierania, instalacji, użytkowania i transmisji, zwroty środków, reklamy osób trzecich, jakie Kupujący może napotkać podczas używania produktu lub Aplikacji, zmiany, jakie może wywołać Aplikacja w działaniu urządzenia, w tym wszelkie zmiany, jakie mogą mieć wpływ na plan taryfowy lub usługi Operatora oraz rozliczenia z nim, ani za jakiekolwiek treści i strony, do których można uzyskać dostęp za pośrednictwem Aplikacji.
+11.
+10 Subskrypcje / transakcje cykliczne:
+    (a) W przypadku, gdy Usługa oferuje Kupującemu możliwość płatności za subskrypcję, rozpocznie się ona po kliknięciu „Zaakceptuj i kup” (lub podobnej opcji) podczas zakupu subskrypcji.
+Jest to opłata cykliczna, która będzie okresowo pobierana automatycznie.
+Jeśli nie stwierdzono inaczej, subskrypcja i odpowiednie upoważnienie do rozliczania będą obowiązywać, dopóki Kupujący ich nie anuluje.
+    (b) Klikając „Zaakceptuj i kup” (lub podobną opcję), Kupujący upoważnia odpowiedniego Sprzedawcę do wystawienia Zlecenia zapłaty za Transakcję finansowania opłaconą za pomocą wybranego Instrumentu finansowania w danym okresie rozliczeniowym za subskrypcję w wysokości równej Kwocie do zapłaty.
+Kupujący upoważnia odpowiedniego Sprzedawcę do pobrania Kwoty do zapłaty z innego Instrumentu finansowania, jeśli został on wybrany na koncie Google Payments, w przypadku gdy Sprzedawca nie może obciążyć wskazanego Instrumentu finansowania z jakiegokolwiek powodu.
+    Kwota do zapłaty będzie nadal pobierana ze wskazanego lub alternatywnego (jeśli taki istnieje) Instrumentu finansowania w każdym okresie rozliczeniowym do momentu anulowania subskrypcji, chyba że w warunkach korzystania z usługi określono inaczej.
+Kwota do zapłaty może zostać zmieniona przez Sprzedawcę w okresie subskrypcji.
+    (c) Instrument finansowania Kupującego zostanie obciążony Kwotą do zapłaty w każdym okresie rozliczeniowym na podstawie daty wykupienia subskrypcji.
+    (d) Kupujący może anulować subskrypcję w dowolnym momencie, wykonując czynności opisane tutaj, jednak anulowanie zacznie obowiązywać dopiero po upływie bieżącego okresu rozliczeniowego.
+Kupujący nie otrzymuje zwrotu pieniędzy za bieżący okres rozliczeniowy.
+Do końca bieżącego okresu rozliczeniowego Kupujący ma dostęp do odpowiedniej subskrypcji.
+    (e) GPL zastrzega sobie prawo do dokonywania zwrotów i wpłat środków wyłącznie według własnego uznania.
+Jeżeli GPL dokona zwrotu lub wpłaty środków, nie oznacza to zobowiązania do takiego samego ani podobnego zwrotu środków w przyszłości.
+    (f) Kupujący ma prawo do zwrotu autoryzowanej Transakcji finansowania, która jest częścią subskrypcji, jeśli: (i) zwrócił się z prośbą o zwrot środków w ciągu ośmiu (8) tygodni od daty realizacji Transakcji finansowania, (ii) na Zamówieniu nie pojawiła się Kwota do zapłaty w czasie autoryzacji Transakcji finansowania oraz (iii) Kwota do zapłaty, którą Kupujący został obciążony, przekracza uzasadnioną przypuszczalną wartość, biorąc pod uwagę poprzednie wydatki, tę Umowę i okoliczności sprawy.
+GPL może poprosić Kupującego o podanie dodatkowych informacji, które w uzasadniony sposób są konieczne do sprawdzenia roszczenia o zwrot.
+Zwrot lub uzasadnienie odmowy zwrotu zostanie przedstawione w ciągu dziesięciu (10) Dni roboczych po przesłaniu prośby o zwrot lub, w przypadku gdy GPL prosi o podanie dodatkowych informacji, w ciągu dziesięciu (10) Dni roboczych po otrzymaniu tych informacji.
+12.
+Punkt zarezerwowany
+13.
+Dozwolone Transakcje finansowania
+13.
+1 Kupujący może korzystać z Usługi wyłącznie do przetwarzania Transakcji finansowania dotyczącej Produktu zakupionego od Sprzedawcy w ramach legalnej i zrealizowanej w dobrej wierze transakcji sprzedaży Produktu lub w ramach darowizny na cele charytatywne dla Sprzedawcy, jeśli Sprzedawca określa swoją działalność jako „non-profit” i został zweryfikowany przez GPL jako zarejestrowana i certyfikowana organizacja non-profit.
+Usługi nie można wykorzystywać do przetwarzania Transakcji finansowania lub w inny sposób do przesyłania Sprzedawcy E-pieniędzy lub wartości pieniężnych niezwiązanych z zakupem Produktu ani jako darowizn na cele charytatywne dla Sprzedawcy, jeśli Sprzedawca nie określa swojej działalności jako non-profit i nie został zweryfikowany przez GPL jako zarejestrowana i certyfikowana organizacja non-profit.
+13.
+2 Usługi nie można wykorzystywać do pobierania zaliczek od Sprzedawców ani do zakupu ekwiwalentów gotówki (czeków podróżnych, kart przedpłaconych, przekazów pieniężnych itp.).
+Kupujący nie może korzystać z Usługi:
+    (a) w celu przeprowadzania Transakcji finansowania w związku ze sprzedażą lub wymianą jakichkolwiek towarów albo usług, których sprzedaż bądź zakup w kraju zamieszkania Kupującego lub korzystania przez niego z Usługi są niezgodne z prawem;
+    (b) w celu przeprowadzania Transakcji finansowania w związku ze sprzedażą lub wymianą jakichkolwiek towarów albo usług, których sprzedaż bądź zakup w kraju zamieszkania Sprzedawcy lub korzystania przez niego z Usługi są niezgodne z prawem, lub
+    (c) w związku z jakąkolwiek inną nielegalną transakcją.
+13.
+3 Kupujący zobowiązuje się nie korzystać z Usługi w celu przeprowadzania Transakcji finansowania w przypadku jakichkolwiek Produktów naruszających Umowę, inne zasady lub reguły dotyczące Usługi (wraz z ich okresowymi aktualizacjami) bądź obowiązujące przepisy prawa.
+Aktualne zasady dotyczące Produktów i innych transakcji, za które nie wolno płacić, korzystając z Usługi, można znaleźć tutaj.
+Nieprzestrzeganie tych ograniczeń może spowodować zawieszenie lub zakończenie korzystania przez Kupującego z Usługi.
+14.
+Opłaty za obsługę, wymiana walut, odsetki
+14.
+1 GPL nie pobiera od Kupującego opłaty za korzystanie z Usługi.
+Osoby trzecie mogą jednak naliczać inne podatki lub koszty z tytułu korzystania z Usługi przez Kupującego.
+Na przykład Kupujący akceptuje i uznaje fakt, że Operator lub instytucja finansowa, które wydały jego Instrument finansowania, mogą pobierać opłatę w związku z obciążaniem Instrumentu finansowania w wyniku Transakcji finansowania.
+Aby uzyskać więcej informacji na temat wszelkich takich opłat, Kupujący powinien zapoznać się z warunkami, jakim podlega jego Instrument finansowania.
+14.
+2 GPL nie dokonuje w Usłudze wymiany żadnych walut.
+14.
+3 GPL nie pobiera żadnych odsetek za korzystanie z Usługi.
+15.
+Spory dotyczące Usługi i inne
+15.
+1 GPL zapewnia różne narzędzia, aby pomóc Kupującemu w komunikowaniu się ze Sprzedawcami w celu rozwiązania Sporu, który mógł powstać w związku z transakcją przeprowadzoną za pomocą Usługi.
+Jeśli Kupujący nie jest w stanie rozwiązać Sporu, GPL może prowadzić mediacje w Sporze między Kupującym a Sprzedawcą, jeżeli którakolwiek ze stron poprosi o pomoc.
+W takiej sytuacji GPL rozpatrzy Spór i stosownie do sytuacji zaproponuje niewiążące rozwiązanie.
+Szczegółowe informacje można znaleźć w odpowiedziach na Najczęstsze pytania.
+15.
+2 GPL może oferować w Usłudze funkcję wystawiania opinii lub inny system rankingowy w celu zapewnienia Kupującemu pomocy w ocenie doświadczeń związanych z korzystaniem z Usługi.
+Kupujący potwierdza fakt, że dowolna taka funkcja wystawiania opinii lub system rankingowy prezentuje wyłącznie opinie innych użytkowników Usługi i nie stanowi opinii, oświadczeń ani gwarancji GPL w odniesieniu do innych użytkowników Usługi.
+15.
+3 Wszelkie roszczenia lub spory wynikające z tej Umowy, w tym Spory dotyczące Usługi, lub ze świadczenia Usługi przez GPL należy w pierwszej kolejności zgłosić do zespołu obsługi klienta GPL przez Centrum pomocy dla kupujących.
+Więcej informacji o wewnętrznych procedurach obsługi skarg można znaleźć tutaj.
+Wszystkie skargi, które nie zostały pozytywnie rozpatrzone, Kupujący może zgłosić do Rzecznika ds.
+usług finansowych (Financial Ombudsman Service) na adres: Exchange Tower, London E14 9SR; telefonicznie: 0800 023 4567 lub 0300 123 9 123; w witrynie: http://www.financial-ombudsman.org.uk albo pocztą e-mail: complaint.info@financial-ombudsman.org.uk.
+Skargi te można też zgłosić, korzystając z platformy do internetowego rozstrzygania sporów na stronie Komisji Europejskiej https://ec.europa.eu/consumers/odr/main/?event=main.adr.show.
+16.
+Zwroty środków i rozliczenia
+16.
+1 Kupujący dokonuje za pomocą Usługi zakupu E-pieniędzy, które natychmiast są wydawane na zakup Produktów, dlatego nie ma on możliwości wykupienia tych E-pieniędzy.
+W przypadku wykonania Zwrotu środków przez Sprzedawcę lub GPL nastąpi wykup E-pieniędzy i wpłata środków z powrotem na Instrument finansowania Kupującego.
+16.
+2 Jeśli po zakończeniu obowiązywania Umowy na koncie Kupującego pozostanie kwota E-pieniędzy, a obowiązujące kontrole dotyczące zapobiegania praniu pieniędzy, oszustwom i innej nielegalnej aktywności zostaną ukończone pomyślnie, GPL niezwłocznie po zakończeniu Umowy wykupi całkowitą pozostałą kwotę E-pieniędzy i rozpocznie przelew tej kwoty na wyznaczone konto bankowe Kupującego.
+16.
+3 Jeśli nie można wykupić zaległej kwoty E-pieniędzy zgodnie z punktem 16.
+2, Kupujący może w ciągu sześciu (6) lat po zakończeniu obowiązywania Umowy zwrócić się o wykup pełnej zaległej kwoty.
+Po tym czasie E-pieniądze, które pozostały na koncie Kupującego, stają się własnością GPL.
+Na potrzeby tego punktu 16.
+3 Umowa ulega rozwiązaniu, gdy Kupujący traci możliwość wykorzystania E-pieniędzy do realizacji Transakcji finansowania, w szczególności w przypadku, gdy Konto jest zawieszone zgodnie z Umową.
+Jeśli prawo do korzystania z E-pieniędzy zostanie przywrócone w ciągu sześciu (6) lat, takie rozwiązanie Umowy nie będzie skuteczne.
+GPL może według własnego uznania przywrócić Konto i wszelkie powiązane E-pieniądze po upływie sześciu lat.
+Wykup realizowany na mocy tego punktu 16.
+3 zależy od pomyślnego wyniku kontroli zapobiegającej praniu pieniędzy, oszustwom i innej nielegalnej działalności.
+Kupujący zgadza się dostarczyć na żądanie GPL informacje wymagane przez GPL do przeprowadzenia tych kontroli.
+16.
+4 Punkt 16.
+3 w żadnym stopniu nie ogranicza prawa GPL do wypowiedzenia Umowy zgodnie z punktem 19.
+4 lub do wykupienia środków zgodnie z punktem 16.
+2.
+17.
+Odpowiedzialność Kupującego
+17.
+1 W przypadku nieautoryzowanej lub nieprawidłowo przeprowadzonej Transakcji finansowania Kupujący jest upoważniony do odszkodowania na mocy punktu 17 tylko wtedy, gdy powiadomi on GPL o tej transakcji bez zbędnej zwłoki, a w żadnym razie nie później niż trzynaście (13) miesięcy po dacie obciążenia (czyli dacie pobrania środków z Instrumentu finansowania).
+To ograniczenie czasowe nie obowiązuje jednak w sytuacji, gdy GPL nie przekaże ani nie udostępni Kupującemu stosownych informacji o transakcji zgodnie z przepisami prawa (na przykład w dostępnej online historii transakcji na Koncie Kupującego).
+17.
+2 W przypadku, gdy Kupujący jest upoważniony do odszkodowania z tytułu nieautoryzowanej Transakcji finansowania, GPL zwróci kwotę takiej transakcji tak szybko, jak to możliwe, jednak nie później niż na koniec Dnia roboczego, w którym GPL uzyska informacje o takiej transakcji, a jeśli to możliwe, przywróci Konto do stanu, w jakim byłoby ono, gdyby nieautoryzowana Transakcja finansowania nie miała miejsca.
+W praktyce oznacza to, że kwota E-pieniędzy odpowiadająca wartości Transakcji finansowania zostanie wpłacona na Konto Kupującego, wykupiona i natychmiast wpłacona z powrotem na jego Instrument finansowania.
+Jeśli GPL ma uzasadnione podstawy, aby podejrzewać, że Kupujący dokonał oszustwa w związku z roszczeniem z tytułu nieautoryzowanej transakcji, przed podjęciem decyzji dotyczącej dokonania zwrotu przeprowadzi dochodzenie i poinformuje Kupującego o jego wyniku tak szybko, jak to możliwe.
+17.
+3 W przypadku gdy GPL nieprawidłowo przeprowadzi Transakcję finansowania, niezwłocznie zwróci kwotę takiej transakcji oraz, jeśli ma to zastosowanie, przywróci Konto do stanu, w jakim byłoby ono, gdyby nieprawidłowo przeprowadzona Transakcja finansowania nie miała miejsca.
+Na prośbę Kupującego GPL podejmie natychmiastowe starania w celu wyśledzenia każdej nieprawidłowo przeprowadzonej Transakcji finansowania i powiadomi Kupującego o wynikach.
+17.
+4 Jeśli Kupujący postępował nieuczciwie bądź jeśli celowo lub w wyniku rażącego zaniedbania nie przestrzegał postanowień Umowy dotyczących jego Konta, jest odpowiedzialny za straty poniesione w związku z nieautoryzowanymi transakcjami, a jeśli w takich przypadkach został dokonany zwrot, GPL ma prawo obciążyć Konto Kupującego kwotą zwrotu.
+GPL może przeprowadzić dochodzenie przed dokonaniem zwrotu z tytułu nieautoryzowanej transakcji lub po nim.
+18.
+Brak rekomendacji Produktów
+18.
+1 GPL nie potwierdza ani nie rekomenduje, jak również nie ponosi odpowiedzialności z tytułu: (a) bezpieczeństwa, jakości, dokładności, niezawodności, integralności ani legalności żadnego Produktu, prawdziwości ani dokładności opisów Produktów, ani żadnej Treści wyświetlanej lub rozpowszechnianej, zakupionej lub opłaconej za pośrednictwem Usługi; (b) możliwości zakupu Produktów przez Kupującego ani możliwości dostarczenia Kupującemu Produktów przez Sprzedawców.
+18.
+2 Spółka GPL nie odpowiada za edytowanie, modyfikowanie, odmowę publikacji ani usuwanie jakichkolwiek Treści (w całości lub w części), które według jej uznania są sporne, błędne, nielegalne, fałszywe lub naruszają Umowę, choć zastrzega sobie prawo do wykonywania tych czynności.
+19.
+Zakończenie relacji Kupującego z GPL
+19.
+1 Umowa obowiązuje do momentu wypowiedzenia jej przez Kupującego albo GPL w sposób określony poniżej.
+19.
+2 Jeśli Kupujący chce wypowiedzieć swoją umowę prawną z GPL, może to zrobić w dowolnym momencie ze skutkiem natychmiastowym i bez ponoszenia kosztów:
+    (a) powiadamiając GPL zgodnie z punktem 23.
+5 poniżej oraz
+    (b) zamykając swoje Konta w Usłudze.
+    Prawo Kupującego do wypowiedzenia Umowy na mocy punktu 19.
+2 obejmuje ustawowe prawo do rozwiązania Umowy zgodnie z obowiązującymi przepisami wdrażającymi dyrektywę 2002/65/WE.
+19.
+3 GPL może w dowolnym momencie bez powiadomienia wypowiedzieć swoją umowę prawną z Kupującym, jeśli: (a) Kupujący naruszył dowolne istotne postanowienie Umowy (lub działał w sposób świadczący o tym, że nie zamierza albo nie jest zdolny przestrzegać istotnych postanowień Umowy) lub; (b) spółka GPL jest do tego prawnie zobowiązana (jeśli na przykład świadczenie Usługi Kupującemu jest lub staje się niezgodne z prawem).
+19.
+4 Jeśli w tej Umowie nie podano krótszego okresu, zgodnie z obowiązującym prawem spółka GPL może w dowolnym momencie wypowiedzieć Umowę, powiadamiając Kupującego z co najmniej dwumiesięcznym wyprzedzeniem.
+19.
+5 Po zakończeniu obowiązywania tej Umowy wszystkie prawa, zobowiązania i obowiązki prawne dotyczące Kupującego i GPL (lub powstałe w czasie obowiązywania tej Umowy), a także określone jako obowiązujące bezterminowo, pozostaną niezmienione, a postanowienia zawarte w punkcie 24.
+6 będą bezterminowo stosowane do tych praw, zobowiązań i obowiązków prawnych.
+20.
+Wyłączenia gwarancji
+20.
+1 Spółka GPL oraz jej Podmioty zależne i stowarzyszone (a także ich licencjodawcy) nie udzielają żadnych wyraźnych gwarancji lub rękojmi ani nie składają oświadczeń dotyczących świadczenia usług.
+20.
+2 W szczególności spółka GPL oraz jej Podmioty zależne i stowarzyszone (a także ich licencjodawcy) nie oświadczają Kupującemu ani nie zapewniają go, że:
+    (a) użytkowane przez Kupującego usługi spełnią jego wymagania;
+    (b) użytkowanie usług przez Kupującego będzie odbywać się bez przerw, na czas, bezpiecznie i bez błędów;
+    (c) informacje uzyskane przez Kupującego podczas korzystania z usług będą dokładne i wiarygodne.
+20.
+3 Usług nie dotyczą żadne inne warunki, gwarancje ani postanowienia (w tym dorozumiane postanowienia dotyczące zadowalającej jakości, przydatności do określonego celu czy zgodności z opisem) poza tymi, które zostały wyraźnie ustanowione w tej Umowie.
+20.
+4 Żadne postanowienie Umowy nie ma wpływu na te ustawowe prawa, które zawsze przysługują Kupującemu jako konsumentowi i na zmianę których nie może on wyrazić zgody w umowie ani których nie może się zrzec.
+21.
+Ograniczenie odpowiedzialności
+21.
+1 Żadne postanowienie Umowy nie wyłącza ani nie ogranicza odpowiedzialności GPL za straty, której nie można wyłączyć lub ograniczyć zgodnie z obowiązującym prawem.
+21.
+2 Z zastrzeżeniem powyższego punktu 21.
+1 spółka GPL oraz jej Podmioty zależne i stowarzyszone (a także ich licencjodawcy) nie ponoszą odpowiedzialności wobec Kupującego z tytułu: (a) jakichkolwiek szkód pośrednich lub wtórnych, które mogą zostać poniesione przez Kupującego.
+Obejmuje to wszelką utratę zysków (pośrednią lub bezpośrednią), utratę wartości lub reputacji firmy bądź utratę danych Kupującego; (b) jakichkolwiek strat ani szkód, które mogą zostać poniesione przez Kupującego w wyniku: (i) zaufania Kupującego co do kompletności, dokładności lub istnienia reklam bądź w wyniku relacji lub transakcji pomiędzy Kupującym a reklamodawcą lub sponsorem, którego reklamy są wyświetlane w witrynie GPL; (ii) wszelkich zmian, jakie GPL może wprowadzić w usługach, albo tymczasowego lub stałego zaprzestania świadczenia usług (lub jakichkolwiek funkcji w ramach usług); (iii) problemów z działaniem usług; (iv) usunięcia, uszkodzenia lub niemożności zapisu danych komunikacyjnych obsługiwanych lub transmitowanych w ramach lub za pośrednictwem usług; (v) nieprzekazania GPL przez Kupującego dokładnych informacji o koncie lub; (vi) korzystania z usług przez Kupującego w jakikolwiek nieuczciwy sposób.
+21.
+3 GPL zwróci jednak Kupującemu wszelkie opłaty i odsetki poniesione przez niego w wyniku niewykonania lub nieprawidłowego wykonania przez GPL Transakcji finansowania.
+22.
+Zmiany Umowy
+22.
+1 Kupujący akceptuje fakt, że GPL może co pewien czas wprowadzać zmiany w Umowie.
+W razie dokonania zmian, z wyjątkiem sytuacji, w przypadku których w tej Umowie podano krótszy okres, przy zachowaniu zgodności z prawem GPL powiadomi Kupującego o tych zmianach z dwumiesięcznym wyprzedzeniem przed proponowaną datą ich wejścia w życie, wysyłając wiadomość na Adres e-mail Kupującego.
+22.
+2 Kupujący uznaje i akceptuje fakt, że jeśli nie powiadomi GPL o woli przeciwnej, zgodnie z punktem 23.
+5, przed datą wejścia zmian w życie, uznaje się, że zaakceptował zmiany.
+Jeśli Kupujący powiadomi GPL w opisany sposób, Umowa zostanie nieodpłatnie rozwiązana bezpośrednio przed datą wejścia zmian w życie.
+Kupujący w dowolnym momencie przed datą wejścia zmian w życie ma również prawo wypowiedzieć Umowę ze skutkiem natychmiastowym i bez ponoszenia kosztów.
+22.
+3 Żadne postanowienia zawarte w punkcie 22 nie ograniczają: (a) prawa GPL do okresowego aktualizowania i korygowania swoich zasad ani do dodawania co pewien czas nowych funkcji bez wcześniejszego powiadomienia.
+Nową funkcję Kupujący może zaakceptować, korzystając z niej.
+Takie zmiany mogą zostać wprowadzone przy użyciu wybranej według uznania GPL metody, która może obejmować wysłanie wiadomości e-mail lub opublikowanie informacji w witrynie Google;
+    (b) prawa stron do zmiany warunków w tym postanowieniu 22, gdy taka zmiana nie jest zabroniona przez prawo i obie strony wyrażą na nią zgodę;
+22.
+4 zmiany dotyczące Usługi nieregulowanej mogą zostać przedstawione w wiadomości e-mail z zachowaniem czternastodniowego terminu powiadomienia.
+23.
+Komunikacja i powiadomienia
+23.
+1 Wszystkie informacje będą udostępniane lub przekazywane Kupującemu w sposób umożliwiający łatwe z nich skorzystanie, w przejrzystej i zrozumiałej formie oraz w przystępnym tekście w języku polskim lub angielskim.
+23.
+2 Oświadczenia, powiadomienia i inne wiadomości mogą być kierowane do Kupującego za pomocą poczty tradycyjnej lub elektronicznej, publikacji w Witrynie GPL bądź przy użyciu innych uzasadnionych sposobów.
+23.
+3 GPL może komunikować się z Kupującym w sprawach związanych z usługami za pośrednictwem elektronicznych środków komunikacji, w tym (a) wysyłając wiadomość na Adres e-mail Kupującego lub (b) publikując powiadomienia i komunikaty w Witrynie GPL.
+Kupujący akceptuje fakt, że GPL może wysyłać do niego wiadomości elektroniczne dotyczące wszelkich spraw związanych z korzystaniem przez niego z usług, w tym dotyczące Umowy (oraz wszelkich jej zmian i nowych wersji), a także powiadomienia i oświadczenia dotyczące usług i autoryzacji płatności.
+Poszczególne wiadomości są obsługiwane w następujący sposób:
+Umowa jest przekazywana Kupującemu podczas rejestracji w formie możliwej do wydrukowania.
+Zmiany Umowy po rejestracji są przekazywane w wiadomości wysłanej na Adres e-mail Kupującego.
+Z wyjątkiem sytuacji, co do których w Umowie postanowiono inaczej, powiadomienie o wypowiedzeniu Umowy jest przekazywane w wiadomości wysłanej na Adres e-mail Kupującego.
+Informacje o Transakcjach finansowania i Zwrotach środków będą dostępne online w historii transakcji na Koncie Kupującego w Centrum płatności Google.
+Informacje na temat zawieszenia dostępności Usługi są udostępniane online w historii transakcji na Koncie Kupującego.
+Informacje na temat odrzucenia Transakcji finansowania i Zwrotów środków są udostępniane online w historii transakcji na Koncie Kupującego.
+23.
+4 Kupujący powinien zachować kopie komunikacji elektronicznej w postaci wydruku lub zapisanej kopii elektronicznej.
+Informacje w formacie elektronicznym są przekazywane Kupującemu przy założeniu, że ma on możliwość ich wydrukowania lub zapisania.
+23.
+5 Wszelkie powiadomienia przekazywane GPL na mocy Umowy należy wysyłać listem poleconym na adres Google Payment Limited, 5 New Street Square, London EC4A 3TW, Wielka Brytania i oznaczać jako przeznaczone dla zespołu ds.
+płatności „Google Payments Team”, z wyjątkiem następujących przypadków:
+Powiadomienie o utracie, kradzieży, nieautoryzowanym użyciu lub naruszeniu bezpieczeństwa należy niezwłocznie przesłać przez Centrum pomocy dla kupujących.
+Powiadomienie o wypowiedzeniu tej Umowy należy przesłać przez Centrum pomocy dla kupujących.
+Powiadomienie na mocy postanowienia zawartego w punkcie 22.
+2 należy przesłać przez Centrum pomocy dla kupujących.
+23.
+6 Kupujący może bezpłatnie przeglądać swoje transakcje online w historii transakcji na Koncie Kupującego, która jest aktualizowana co najmniej raz w miesiącu.
+Kupujący wyraża zgodę na nieotrzymywanie wyciągu w formie papierowej.
+Od 13 lipca 2018 r.
+GPL zacznie bezpłatnie wysyłać co miesiąc link do historii transakcji online pocztą e-mail, chyba że Kupujący zwróci się z osobną prośbą do GPL o nieotrzymywanie miesięcznego wyciągu pocztą e-mail.
+Kupujący może poprosić o udostępnienie informacji o swoich transakcjach tylko w historii transakcji na Koncie online.
+Na prośbę Kupującego możemy według własnego uznania przekazać mu dodatkowe wyciągi, papierowe lub inne, dotyczące transakcji, jednak w takim przypadku możemy obciążyć go odpowiednią opłatą administracyjną.
+23.
+7 W przypadku gdy GPL musi się skontaktować z Kupującym w razie domniemanego lub faktycznego oszustwa albo zagrożenia bezpieczeństwa, GPL wyśle mu wiadomość na podstawowy adres e-mail z prośbą o kontakt.
+GPL może również wysłać wiadomość na dodatkowy adres e-mail lub SMS-a na numer telefonu, jeśli został podany.
+24.
+Ogólne warunki prawne
+24.
+1 Nagłówki punktów w tej Umowie służą wyłącznie do celów referencyjnych i nie wpływają na interpretację ani kształt Umowy.
+24.
+2 Odniesienie do dowolnej ustawy lub przepisu ustawowego obejmuje odniesienie do tej ustawy lub przepisu z wszystkimi okresowymi poprawkami, rozszerzeniami i nowelizacjami.
+24.
+3 Jeśli w Umowie wyraźnie nie określono inaczej, wszystkie podane w niej kwoty są wyrażone w euro.
+24.
+4 Ta Umowa stanowi całość porozumienia pomiędzy Kupującym a GPL i reguluje sposób korzystania z usług przez Kupującego (nie dotyczy jednak żadnych usług, które GPL może udostępniać Kupującemu na mocy odrębnych pisemnych umów) i całkowicie zastępuje wszelkie wcześniejsze umowy dotyczące usług zawarte pomiędzy Kupującym a GPL.
+24.
+5 Kupujący akceptuje fakt, że jeśli spółka GPL nie korzysta z któregokolwiek prawa lub świadczenia zawartego w Umowie bądź nie wymaga jego stosowania (lub z którego spółka GPL może korzystać na mocy dowolnego obowiązującego prawa), nie jest to uznawane za formalne zrzeczenie się przez nią praw, a te prawa i świadczenia nadal są dostępne dla GPL.
+24.
+6 Jeśli sąd mający jurysdykcję w zakresie spraw związanych z Umową wyda wyrok stwierdzający, że któreś z postanowień Umowy jest nieważne, to postanowienie to zostanie usunięte z Umowy, bez wpływu na pozostałą jej część.
+Pozostałe postanowienia Umowy nadal będą ważne i wiążące.
+24.
+7 Kupujący nie może dokonać cesji korzyści płynących z Umowy ani w żaden inny sposób przekazać swoich praw i obowiązków wynikających z Umowy bez uprzedniej pisemnej zgody GPL.
+GPL może dokonać cesji korzyści lub w inny sposób przekazać swoje prawa i obowiązki wynikające z Umowy dowolnej osobie trzeciej bez powiadomienia o tym Kupującego i bez jego zgody, chyba że wpłynie to na zmianę usług płatniczych Kupującego i praw związanych z obsługą e-pieniędzy na mocy Umowy.
+W takim przypadku GPL powiadomi Kupującego zgodnie z punktem 22.
+24.
+8 Kupujący uznaje i akceptuje fakt, że każdy podmiot należący do grupy przedsiębiorstw, których spółką macierzystą jest GPL, jest beneficjentem tej Umowy będącym osobą trzecią i że tego rodzaju przedsiębiorstwa są uprawnione do bezpośredniego egzekwowania i realizowania wszelkich postanowień tej Umowy, które zapewniają im korzyści (lub prawa).
+Oprócz tego żadna inna osoba ani firma nie jest beneficjentem Umowy będącym osobą trzecią.
+24.
+9 Umowa oraz relacje z GPL wynikające z Umowy podlegają prawu angielskiemu, z zastrzeżeniem dodatkowych praw konsumenckich zgodnie z prawem polskim.
+Kupujący i GPL wyrażają zgodę na poddanie się jurysdykcji polskich sądów w celu rozstrzygnięcia kwestii prawnych wynikających z Umowy.
+Niezależnie od postanowienia zawartego w tym punkcie 23.
+9 Kupujący akceptuje fakt, że GPL nadal może starać się o wydanie nakazu sądowego (lub równoważnego typu pilnego orzeczenia sądu) w dowolnej jurysdykcji.

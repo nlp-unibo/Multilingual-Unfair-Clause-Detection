@@ -1,0 +1,500 @@
+https://payments.google.com/files/tos/buyer/Buyer_GB.html
+
+Google Payments
+
+For the avoidance of doubt, GPL will provide Buyer with the Service (as defined in the Terms of Service below) in respect of Buyers purchases on Googles marketplaces and in respect of charitable donations made to Sellers which are charities.
+
+A list of Googles marketplaces supported by the Service can be found here. Google may update the marketplaces from time to time, but all marketplace transactions will be processed in accordance with the Terms of Service below. Please consult the terms and conditions of the product for further information about whether a particular product is a marketplace or not.
+
+Google Payments Terms of Service - Buyer (GB)
+March 28, 2018
+
+These Terms of Service ("Agreement") are a legal contract between Google Payment Limited, a company incorporated in England (Company No. 05903713), whose registered office is at 5 New Street Square, London EC4A 3TW, United Kingdom ("GPL") and You ("Buyer"). GPL can be contacted by email through the Help Centre at https://support.google.com/payments. GPL is authorised and regulated by the Financial Conduct Authority ("FCA") as an electronic money ("E-money") institution and is entered into the FCA register with register number 900008. GPL is a subsidiary of Google International, LLC ("Google").
+
+This Agreement governs Your access to and use of: Google Payments; Sending Transactions using Google Pay; and Funding Instruments saved to Your Google Payments account (which may be presented to You under the Google Pay brand), when used in connection with the services described below. The services described below are provided by GPL. Please review the Agreement carefully before You decide whether to accept them and continue with the registration process.
+
+By accepting this Agreement, You represent that You are 18 years old or older and You are capable of entering into a legally-binding agreement.
+
+Before You continue You should print off or save a copy of this Agreement for Your records. You can accept the Agreement as described in clause 3. The Agreement will be effective from the date of Your acceptance ("Effective Date").
+1. Defined Terms
+
+The following defined terms appear in this Agreement:
+
+"Account" means the E-money account GPL holds for You which can be used to fund Purchase Transactions and Sending Transactions, and to store E-money issued to You by GPL.
+
+"AISP" means an account information service provider, which is a payment service provider (that is not GPL) providing an account information service, which is an online service that can provide You with consolidated information on one or more of Your payment accounts, which may include Your Account.
+
+"Business Day" means a day that is not a Saturday, a Sunday or a bank holiday in the United Kingdom.
+
+"Business Products" means goods and/or services (as used in ordinary sense of the word) that are provided during the conduct of business.
+
+"Content" means any advice, opinion, offer, proposal, statement, data or other information displayed or distributed, purchased or paid through the Service.
+
+"Customer" means a person or entity that registers with the Service as a Buyer or a Seller.
+
+"Disputes" means any disagreements, litigation, arrangements and/or other such disputes between Customers or other third parties arising from the use of the Service other than Service Disputes.
+
+"E-money" means electronic value issued by GPL on receipt of funds. E-money resides in GPL's computer system and represents a claim against GPL for redemption. E-money is not a deposit.
+
+"Funding Instrument" means the credit card, debit card, Operator Billing Account, bank account or other payment instrument which You register for use with the Service and which will be used by GPL to fund the issuing of E-money through the Service in order to process Purchase Transactions, Sending Transactions and for other purposes.
+
+"Google" means Google International, LLC, and its Subsidiaries and Affiliates.
+
+"GPL Website" means a website of GPL or its Subsidiaries or Affiliates.
+
+"GPL", "we", "our" or "us" means Google Payment Limited.
+
+"Login Details" means the username and password that GPL issues to You to access Your Account.
+
+"Operator" means a mobile telephone operator approved by GPL that offers an Operator Billing Account.
+
+"Operator Billing" means the process by which GPL submits a request to the Operator for the billing of a purchase of E-money to the Buyer's Operator Billing Account.
+
+"Operator Billing Account" means the monthly or other periodic billing account provided to You by Your Operator that You register with the Service to fund the purchase of E-money.
+
+"Payment Order" means (i) the instruction the Seller gives to GPL to execute a Purchase Transaction authorised by You, (ii) the instruction the Seller gives to GPL to execute a Refund Transaction, or (iii) the instruction You give to GPL to execute a Sending Transaction, as the context requires.
+
+"Payment Service Rights" means the rights set out in Part 6 and Part 7 of the Payment Services Regulations 2017.
+
+"PISP" means a payment initiation service provider, which is a payment service provider (that is not GPL) providing a payment initiation service, which is an online service that You can use to initiate a Sending Transaction.
+
+"Product" means any digital or physical merchandise, goods or service You may purchase from a Seller using the Service.
+
+"Purchase Amount" means an amount equal to the price of a Product, including any related fees, taxes or delivery charges, as applicable.
+
+"Purchase Transaction" means the transaction by which GPL transfers the Purchase Amount from Your Account to the E-money account of a Seller from whom You are purchasing a Product.
+
+"Redemption Rights" means the rights set out in regulation 39(b) of the Electronic Money Regulations 2011.
+
+"Refund Transaction" means the transaction by which GPL transfers an amount of E-money from the Seller to Your Account as part of a refund process.
+
+"Seller" means any person or entity that uses the Service to sell Products and receive Purchase Amounts from Purchase Transactions.
+
+"Sending Amount" means an amount specified by You to be sent to a person specified by You.
+
+"Sending Transaction" means the transaction by which GPL transfers the Sending Amount from Your Account to the E-money account of the person specified by You.
+
+"Service" means the E-money payment service provided by GPL.
+
+"services" means all services offered by GPL under the Agreement, including the Service.
+
+"Service Disputes" means any disagreements, complaints, litigation, arrangements and/or other such disputes between GPL and Customers arising solely from the alleged failure by GPL to meet its obligations under the Agreement or any applicable law and any associated error in the provision of the Service.
+
+"Subsidiaries and Affiliates" means subsidiaries and affiliated legal entities of Google around the world.
+
+"Unregulated Service" means a service provided by GPL that is not an E-money payment service, such as the service set out in clause 10.1(c).
+
+"You", "Your" and "Buyer" means a person that applies to, or registers to use, or uses, the Service.
+
+"Your email address" means the email address provided by You during sign-up.
+
+2. Your relationship with GPL
+
+2.1 Your use of the Service is subject to the Agreement.
+
+2.2 By using the Service You will purchase E-money from GPL which will immediately be used to make payments to Sellers, unless specified otherwise.
+
+2.3 Unregulated Services may also be provided by GPL, as set out in the Agreement.
+
+3. Accepting the Agreement
+
+3.1 In order to use the services, You must firstly accept the Agreement. You may not use the services if You do not accept the Agreement.
+
+3.2 The Agreement forms a legally-binding agreement between You and GPL in relation to Your use of the services and it is important that You take the time to read it carefully. By accepting the Agreement You agree to use the services in accordance with the requirements of the Agreement.
+
+3.3 You can accept the Agreement by: (a) Clicking to accept or agree to the Agreement, where this option is made available to You by GPL in the user interface; or (b) Actually using the services. In this case, You understand and agree that GPL will treat Your use of the services as acceptance of the Agreement from that point onwards.
+
+3.4 You may not use the services and may not accept the Agreement if:
+
+    (a) You are not of legal age to form a binding contract with GPL and operate the Funding Instrument You register for use with the services; or
+
+    (b) You are a person barred from receiving the services under the laws of the United States or other countries including the country in which You are resident or from which You use the services.
+
+4. Provision and language of the Agreement
+
+4.1 A copy of the Agreement will be provided to You in printable form during the sign-up process. A copy of the Agreement, as amended from time to time, is available to You on the GPL Website.
+
+4.2 Throughout the duration of the Agreement, You may request to be provided with the Agreement, and a link to the Agreement will be sent to Your email address free of charge.
+
+4.3 The Agreement will be provided to You in English.
+
+4.4 Where GPL has provided You with a translation of the English-language version of the Agreement, You agree that the translation is provided for Your convenience only and that the English-language version of the Agreement will govern Your relationship with GPL.
+
+4.5 If there is any contradiction between the English language version of the Agreement and a translation, the English language version takes precedence.
+
+5. Registration for the Service
+
+5.1 To use the services, You must complete all required information elements on the Google Payments registration processes.
+
+5.2 If You wish to use the Service to purchase E-money, You must register a valid Funding Instrument.
+
+5.3 The Funding Instrument must be associated with a billing address in a country where the Service is made available.
+
+5.4 You must provide current, complete and accurate information and maintain it as current and accurate during Your use of the services. GPL may require You to provide additional information as a condition of continued use of the services or in order to allow You to start using a new service, or to assist in determining whether to permit You to continue to use the services. You agree to provide such information as GPL may require in this regard, including information necessary to validate Your identity or confirm the authenticity of any Funding Instrument which You register for use with GPL.
+
+5.5 Subject to the terms of clauses 5.5 to 5.8, You may use Your Account for business purposes:
+
+    (i) You must declare to GPL that You intend to use the Account for such purposes, either during registration or, where You later decide to use the Account for such purposes, by notifying GPL by updating Your registration details at payments.google.com and comply with any requests from GPL for information about Your business and the purposes for which You are using Your Account.
+
+    (ii) If You request a Customer to execute a Sending Transaction to You as a payment related to Your business, You must provide the associated Business Products in accordance with all applicable law, any policies or processes established by GPL and the rules applicable to the Service.
+
+    (iii) If a Customer initiates a chargeback or otherwise reverses the funding of a Sending Transaction, or if GPL reverses a Sending Transaction, You agree that GPL may deduct such reversed amount from Your Account and if this results in a negative balance on Your Account may suspend Your Account until such time as You purchase or otherwise receive additional E-money to restore Your Account to good standing.
+
+    (iv) You agree that: (a) GPL may delay any redemption of E-money related to the proceeds of Your business (no such delay to be more than six (6) months unless required by law); (b) GPL may put a reserve requirement on Your Account in order to manage chargebacks or other transaction reversals that may result in a negative balance on Your Account; and (c) in order to comply with clauses 5.5(iv)(a) and (b) You will not exercise Your Redemption Rights to circumvent these terms.
+
+    (v) Regarding taxes and invoices:
+
+        (a) You provide all necessary invoice information to any Customer.
+
+        (b) You will pay any applicable taxes, including sales, use, personal property, value-added, excise, customs fees, import duties or stamp duties or other taxes and duties imposed by governmental entities of whatever kind and imposed with respect to Your Business Products, including penalties and interest, but specifically excluding taxes based upon GPL's net income.
+
+        (c) GPL is not responsible for, and is not the entity collecting value added tax, income tax or other taxes with respect to Your Purchase Transactions, Sending Transactions (whether as the sender or recipient) or redemption of E-money.
+
+        (d) When GPL has the legal obligation to collect or perform any other act with respect to any applicable taxes, the following terms apply (as appropriate): (1) the appropriate amount will be invoiced to and paid by You within thirty (30) days of the date of invoice or other notification; (2) You will promptly provide GPL with such documentation as may be required by the applicable governmental entity in order for GPL to process payments hereunder (including, without limitation, a valid certificate of Your exemption from obligation to pay taxes as authorised by the appropriate governmental entity); (3) GPL may withhold any payments required to be made hereunder until You have provided such documentation; and (4) You will promptly provide GPL with original or certified copies of all tax payments or other sufficient evidence of tax payments at the time such payments are made by You pursuant to the Agreement.
+
+5.6 If You use Your Account for business purposes, You will not:
+
+    (a) ask any Customer to provide You with the account numbers or details of any Funding Instrument;
+
+    (b) use the Account in relation to Business Products that violate the Agreement, applicable law, other policies or rules applicable to the Service, or involve the purchase any of the items set out in the policy provided here.
+
+5.7 The consumer protection terms of the Agreement except those that arise from or replace the Payment Service Rights do not apply to the provision of the services that are used for the purpose of Your business.
+
+5.8 If You do not comply with the requirements of 5.5 and 5.6, GPL may either terminate or suspend Your Account.
+
+6. Provision of the Service by GPL
+
+6.1 Sometimes Subsidiaries and Affiliates will provide all or part of the services to You on behalf of GPL. You acknowledge and agree that Subsidiaries and Affiliates will be entitled to provide the services to You.
+
+6.2 GPL is constantly innovating in order to provide the best possible experience for its users. You acknowledge and agree that GPL may provide a new service from time to time without prior notice to You. We will provide You with any revised Agreement resulting from the introduction of a new service by email or by providing a link to the updated Agreement during sign-up. You can accept the revised Agreement as specified in clause 3.
+
+6.3 You acknowledge and agree that GPL may stop providing the services to You as provided in the Agreement. You may stop using the services at any time. You do not need to inform GPL when You stop using the services.
+
+6.4 You acknowledge and agree that GPL may establish general practices and limits concerning the use of the services without prior notice to You, including without limitation individual or aggregate transaction limits on the value or number of Purchase Transactions and Sending Transactions during any specified time period(s).
+
+6.5 GPL may refuse to execute any Purchase Transaction, Sending Transaction, Payment Order, or other use of the services if GPL has reasonable grounds to suspect fraud, a breach of the applicable Agreement by You or the Seller, or a violation of law. Transactions may also be delayed due to GPL's compliance with its obligations under applicable anti-money laundering legislation, including if GPL suspects the transaction involves fraud. In the event that GPL refuses to execute a Purchase Transaction, Sending Transaction, Payment Order, or other use of the services, You will be notified, unless it is unlawful for GPL to do so, or would compromise reasonable security measures.
+
+6.6 You acknowledge and agree that if GPL disables access to Your Account by stopping the use of Your Login Details, You may be prevented from accessing the Service, Your Account Details or any files or other content which is contained in Your Account.
+
+7. Use of the Service by You
+
+7.1 You agree to use the services only as permitted by:
+
+    (a) The Agreement;
+
+    (b) Policies and limits for the services, as published and updated by GPL and its affiliates from time to time; and
+
+    (c) Any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
+
+7.2 Without prejudice to the above, You agree and acknowledge that the reporting and payment of any applicable taxes arising from Your use of the services is Your responsibility. You hereby agree to comply with any and all applicable tax laws, including the reporting and payment of any taxes arising in connection with Purchase Transactions.
+
+7.3 You agree not to access (or attempt to access) any of the services by any means other than through the interface that is provided by GPL, unless You have been specifically allowed to do so in a separate agreement with GPL. You acknowledge that this restriction will apply to use of the services by any automated means. This does not affect Your right to use AISP or PISP services.
+
+7.4 You agree that You will not engage in any activity that interferes with or disrupts the services (or the servers and networks which are connected to the services).
+
+7.5 Unless You have been specifically permitted to do so in a separate agreement with GPL, You agree that You will not reproduce, duplicate, copy, sell, trade or resell the services for any purpose.
+
+7.6 You agree that You are solely responsible for (and that GPL has no responsibility to You or to any third party for) any breach of Your obligations under the Agreement and for the consequences (including any loss or damage which GPL may suffer) of any such breach.
+
+8. Your Login Details and Account security
+
+8.1 You agree to use any Login Details associated with Your Account only in accordance with the terms and conditions set out in this Agreement governing their use.
+
+8.2 You agree and understand that You are responsible for maintaining the confidentiality of Login Details associated with Your Account and taking all reasonable steps to keep this information confidential.
+
+8.3 If You are using the services in a business capacity, You agree that all officers, employees, agents, representatives and others having access to Your Login Details will be properly authorised to do so, and will have the authority to legally bind the business, partnership or other legal entity concerned.
+
+8.4 Your liability for usage of the Service is set out in clause 17 below.
+
+8.5 You must notify GPL without undue delay through Cant sign in to Your Google Account on the Buyer Help Centre on becoming aware of the loss, theft, or misappropriation of Your Login Details or Account, and through Report unauthorized charges on the Buyer Help Centre on becoming aware of unauthorised use of Your Login Details or Account. You agree to notify GPL without undue delay and in the same manner of any other breach of security regarding the Service of which You have knowledge.
+
+8.6 If You believe that Your Account has been opened or used in an unauthorised manner, please see our how to report abuse section. Also, please see our Frequently Asked Questions for more information on how GPL protects You from fraud.
+
+8.7 In order to get a refund for any unauthorised or incorrectly executed Purchase Transactions or Sending Transactions, You must notify GPL through the Buyer Help Centre without undue delay, and in any case no later than thirteen (13) months after the debit date (which will be the same date that the funds have been taken from Your Account), on becoming aware of any such transactions (also see clause 17).
+
+8.8 GPL may suspend the use of Your Login Details or Account where it suspects that their security may have been compromised, or that unauthorised or fraudulent use has taken place.
+
+8.9 GPL will inform You in advance or, if that is not possible, immediately after of the suspension of the use of Your Login Details or Account, specifying the reasons for the suspension, unless such provision of information would compromise reasonable security measures or be otherwise unlawful. GPL will reactivate Your Login Details or Account, or provide You with new active Login Details or Account, as soon as it is practicable after the reasons for the suspension cease to exist.
+9. Privacy and Your personal information
+
+9.1 The Google Privacy Policy describes how we treat personal information when You use Google's products and services. In addition, GPL's privacy policy at https://payments.google.com/files/privacy.html explains how GPL treats Your personal information, and protects Your privacy, when You use the Service.You may request that an electronic copy of the GPL privacy policy be sent to You in PDF form by contacting us through the help centre at https://support.google.com/payments.
+
+9.2 You agree to the use of Your data in accordance with GPL's privacy policies.
+
+9.3 Buyer Identity Verification; Anti-Money Laundering Requirements.
+
+    (a) Buyer acknowledges that GPL is offering and continues to offer the services to Buyer on the condition that Buyer satisfies all due diligence and identity checks GPL may conduct, and that Buyer complies with GPL, card association, and regulatory anti-money laundering requirements. Identity checks may include credit checks, anti-money laundering checks required by relevant legislation, checks required by card associations, and checks to meet relevant regulatory requirements. Buyer will provide all assistance requested by GPL in carrying out such checks and determining compliance with anti-money laundering requirements, including the provision of such additional registration or identity verification information as GPL may require.
+
+    (b) Buyer consents to GPL sharing with and obtaining from third parties, both inside and outside the European Economic Area and to the extent permitted by law, information held about the Buyer, including personal data as defined under relevant data protection legislation, for the purpose of GPL conducting applicable due diligence and identity checks, and the Buyer agrees that such third parties may retain the information shared in this way.
+
+    (c) Non-satisfaction of the conditions in this clause 9.3, including that Buyer provides information requested by GPL to conduct identity verification, or determine compliance with anti-money laundering requirements, may result in the immediate suspension of Buyer's use of the services and also the termination of this Agreement.
+
+10. Funding Instrument
+
+10.1 You agree that Your Funding Instrument details will be used by GPL to:
+
+    (a) Debit or charge You for the Purchase Amount or the Sending Amount, including all related fees, taxes, or delivery charges, as applicable;
+
+    (b) Process all payments which are required to charge You for any other fees or charges arising from Your use of the Service;
+
+    (c) Where requested by You, pass to a third party for that third party to charge for goods or services it will supply to You. This is an Unregulated Service provided to You by GPL. In such cases, after passing the Funding Instrument details to that third party, GPL will have no further involvement in Your transaction with that third party. This transaction is neither a Purchase Transaction nor a Sending Transaction. You should contact the third party or Your Funding Instrument provider (e.g. credit or debit card provider) directly regarding any issues with such third-party transactions, including refunds and disputes.
+
+10.2 You authorise GPL to confirm that Your Funding Instrument is in good standing with the issuing financial institution or Operator and under Your control, including but not limited to, by submitting a request for a payment authorisation and/or a low value credit and/or debit amount to the Funding Instrument.
+
+10.3 You authorise GPL to obtain a credit report and/or to otherwise make credit or other background enquiries from time to time as GPL may deem appropriate to evaluate Your registration for, or continued use of, the services.
+
+10.4 You agree not to purchase E-money other than for the purpose of undertaking Purchase Transactions and/or Sending Transactions. In particular You agree not to purchase and redeem E-money for the purpose of accumulating rewards that accumulate with use of a particular Funding Instrument, unconnected to any underlying Purchase Transaction or Sending Transaction.
+11. Purchase Transactions; Sending Transactions; Operator Billing; Subscriptions/Recurring Transactions
+
+11.1 Purchase Transactions
+
+    (a) GPL agrees to provide the Service to You in order to facilitate Purchase Transactions.
+
+    (b) You must give consent to the execution of a Purchase Transaction for it to be authorised. You agree that by using the Service to purchase a Product from a Seller You are providing consent for the Purchase Transaction to be processed and agree that once consent has been provided by You, the authorised Purchase Transaction can no longer be revoked. You also agree that Sellers may refuse to process any order for a Product for any reason, and that until the Seller has submitted the Payment Order to GPL in accordance with clause 11.1(d), GPL is under no obligation to execute a Purchase Transaction.
+
+    (c) By using the Service GPL will store information which You provide, such as Funding Instrument details and delivery information, and will process Purchase Transactions and Refund Transactions through the appropriate credit card or debit card network, Operator or bank network.
+
+    (d) You can fund Your Purchase Transaction using either Your Funding Instrument, Your Account or a combination of the two. Once You authorise the execution of a Purchase Transaction using one of these options, the Seller may submit the Payment Order to GPL in accordance with GPL policies.
+
+    (e) This clause 11.1(e) only applies if You choose to fund or partially fund the Purchase Transaction with Your Funding Instrument. On receipt of the Payment Order from the Seller, GPL will initiate transfer all of or part (as directed by You) of the Purchase Amount from Your Funding Instrument to GPL. GPL will then issue You with an amount of E-money equal to all or part (as directed by You) of the Purchase Amount at the latest when GPL receives valid corresponding funds from Your Funding Instrument, after which GPL will immediately transfer the Purchase Amount to the Seller's E-Money account. GPL will not be responsible for, and does not control, when GPL receives the funds from Your Funding Instrument. You will be notified, through information in Your Account transaction history, when the Seller has submitted the Payment Order to GPL.
+
+    You hereby expressly authorise GPL to (or to procure a third party to):
+
+        (1) Charge or debit Your Funding Instrument as necessary to purchase E-money to complete the processing of a Purchase Transaction;
+
+        (2) Credit to Your Funding Instrument such amounts as may be necessary to effect any reversal of a Purchase Transaction, refunds, or adjustment to the Purchase Amount, through the Service.
+
+    (f) This clause 11.1(f) only applies if You choose to fund or partially fund the Purchase Transaction with Your Account - (a) Purchase Amount funded only by Your Account - on receipt of the Payment Order from the Seller, GPL will immediately transfer the Purchase Amount from Your Account to the Seller's E-money account; (b) Purchase Amount partially funded by Your Account - when GPL issues You with an amount of E-money corresponding to the part of the Purchase Amount funded by Your Funding Instrument, GPL will immediately transfer the Purchase Amount to the Sellers E-money account.
+
+    (g) Purchase Transactions may be rejected or delayed as provided in clause 6.5.
+
+    (h) You acknowledge and agree that:
+
+        (1) The Seller's sales of Products are transactions between the Seller and You and not with GPL, Google or any of its affiliates, unless GPL, Google, or any of its affiliates is expressly designated as a Seller or Buyer in the transaction; and
+
+        (2) Neither GPL nor Google nor any of its affiliates is a Buyer, a Seller or a party in connection with any Purchase Transaction, unless expressly designated as such in the listing of the Product on a Google website or its terms of service.
+
+        (3) A Seller and GPL, acting on behalf of the Seller, may resubmit a payment transaction relating to Your Funding Instrument for a purchase of E-money or a Product purchase to the payment network for processing one or more times in the event that a prior payment transaction is declined or returned by the payment network.
+
+11.2 Sending Transactions
+
+    (a) You can fund Your Sending Transaction using either Your Funding Instrument, Your Account or a combination of the two.
+
+        (1) You authorise the execution of a Sending Transaction, using these options, by submitting the Payment Order to GPL following GPL's instructions. You will need to provide the email address or other contact information specified by GPL of the recipient of the Sending Amount. You agree that by using the Service to make a Sending Transaction, You are providing consent for the Sending Transaction to be processed. You agree that once consent has been provided by You, the authorised Sending Transaction can no longer be revokedunless the recipient's account has not yet been credited with the Sending Amount, in which case You can revoke the Sending Transaction by following our online instructions or using "Contact us" in the Google Pay Buyer Help Centre. If the Sending Transaction is revoked and Your Account has already been debited, Your Account will be credited with the Sending Amount on the day of the revocation subject to clause 6.5. You may also authorise the execution of a Sending Transaction by giving Your consent for the execution to a PISP.
+
+        (2) In order for the recipient to receive the Sending Amount, he/she must be registered as a Customer of GPL in order to accept the Sending Amount by following GPL's online instructions.
+
+        (3) Where the recipient already has an Account that can receive transfers of E-money, GPL will normally credit the recipient's Account immediately upon the recipient's acceptance of the transfer. Where the recipient does not have an Account that can receive E-money, they will receive a notification and be asked to create an Account that can receive E-money. If the recipient fails to do this within the timeframe notified by GPL to both You and the recipient (which will not be more than 30 days), the Sending Amount will be returned to Your Account.
+
+    (b) This clause 11.2(b) only applies if You choose to fund or partially fund the Sending Transaction with Your Funding Instrument. On receipt of the Payment Order from You, GPL will initiate transfer of all or part (as directed by You) of the Sending Amount from Your Funding Instrument to GPL. GPL will then issue You with an amount of E-money equal to all or part (as directed by You) of the Sending Amount at the latest when GPL receives valid corresponding funds from Your Funding Instrument, after which GPL will immediately transfer the Sending Amount to the E-money account of the person specified in Your Payment Order subject to clause 11.2(a). GPL will not be responsible for, and does not control, when GPL receives the funds from Your Funding Instrument. You will be notified, through information in Your Account transaction history, when You have submitted the Payment Order to GPL and of the status of the Payment Order.
+
+    You hereby expressly authorise GPL to (or to procure a third party to) charge or debit Your Funding Instrument as necessary to purchase E-money to complete the processing of a Sending Transaction.
+
+    (c) This clause 11.2(c) only applies if You choose to fund or partially fund the Sending Transaction with Your Account - (a) Sending Amount funded only by Your Account - on receipt of the Payment Order from You, GPL will immediately transfer the Sending Amount from Your Account to the E-money account of the person specified in Your Payment Order upon his/her acceptance of the Sending Amount subject to clause 11.2(a); (b) Sending Amount partially funded by Your Account - when GPL issues You with an amount of E-money corresponding to the part of the Sending Amount funded by Your Funding Instrument, GPL will immediately transfer the Sending Amount to the E-money account of the person specified in Your Payment Order upon his/her acceptance of the Sending Amount subject to clause 11.2(a).
+
+    (d) Sending Transactions may be rejected or delayed as provided in clause 6.5.
+
+    (e) If a Customer requests a Sending Amount from You through Google Wallet, You may accept or reject the request. If You accept the request, this will constitute a Payment Order by You for the execution of a Sending Transaction. The requested Sending Amount will be funded by Your Funding Instrument, Your Account, or a combination of the two depending on which You specify when You accept the request.
+
+    (f) You may also receive or request a Sending Amount, in which case the provisions in this clause 11.2 will apply to You as the recipient of or as the person requesting the Sending Amount.
+
+    (g) GPL may debit amounts from Your Account that have been paid to Your Account in error and to which You are not entitled.
+
+11.3 Operator Billing.
+
+    (a) Certain Sellers that accept Google Payments may permit You to have Your purchase billed to Your Operator Billing Account. These additional terms apply when You use Operator Billing through Google Payments:
+
+    (b) To register Your Operator Billing Account as a payment option, Google Payments requires Your mobile telephone number, and the name and billing address, including zip code, of the Operator Billing Account associated with that number. You consent to Your Operator providing this information to Google Payments, and You will review the information during sign-up for Operator Billing, and correct any inaccuracies. This information will be used by Google Payments for the purpose of establishing Your Operator Billing Account as a Funding Instrument in Your Google Payments Account, and for operating the Service. You also agree that GPL and Your Operator may share information with each other regarding Your Operator Billing activity in order to charge or credit Your Operator Billing Account and otherwise complete payments for purchases, reversals, refunds or adjustments of Purchase Transactions, Sending Transactions, resolve disputes, provide customer support, and for other Operator Billing-related purposes.
+
+    (c) When You choose to fund a transaction with Operator Billing, You authorise the Seller and/or GPL to submit charges and credits to Your Operator, and Your Operator to make such charges and credits to Your Operator Billing Account, as necessary, to complete the Purchase Transaction, the Sending Transaction, or the reversal, refund, or adjustment of the transaction.
+
+    (d) You can use Operator Billing to purchase applications (e.g. downloadable or networked applications, wallpapers, ringtones, games, and productivity tools) ("Apps") for and with Your compatible device from certain merchants on Google Play. These Apps are not sold by Your Operator , Google, GPL, or Google Play. You can identify the Seller of the App at the point of purchase.
+
+    (e) Funding of transactions made through Operator Billing is also subject to the terms & conditions of Your Operator Billing Account. You are responsible for any charges and related fees that may be imposed under Your Operator Billing Account terms & conditions as a result of Your use of Operator Billing.
+
+    (f) You may contact Your Operator's customer service if You have a question about the charges or fees billed to Your Operator Billing Account. If You have a question regarding Google Payments related matters, You may contact Google Payments customer service. You should direct support questions regarding products, such as Google Play Apps, purchased through Operator Billing to the Seller from whom You purchased the App.
+
+    (g)None of Operator, Google , GPL, or Google Play is responsible for any product (including an App) purchased with Operator Billing, including download, installation, use, transmission failure, interruption, or delay, refunds, third-party advertisements You may encounter while using the product or App, alterations any App may make to the functionality of Your device, including any changes that may affect Your Operator's plan, service, or billing, or any content or website You may be able to access through the App.
+
+11.4 Subscriptions/Recurring Transactions
+
+    (a) In the event that the Service offers You the ability to pay for subscriptions, Your subscription will start when You click "Accept & buy" (or equivalent phrase) on a subscription purchase. This is a recurring billing transaction and You will be charged automatically on a periodic basis. Unless otherwise stated, Your subscription and the relevant billing authorisation will continue indefinitely until cancelled by You.
+
+    (b) By clicking "Accept & buy" (or equivalent phrase), You authorise the applicable Seller to issue a Payment Order for a Purchase Transaction funded by Your chosen Funding Instrument and/or Your Account each designated billing period for the subscription for the Purchase Amount (e.g. weekly, monthly or annually). You further authorise the applicable Seller to charge the Purchase Amount to the alternate Funding Instrument, if You have selected one in Your Google Payments Account, in the event that the Seller is unable to charge to Your designated Funding Instrument for any reason.
+
+    The Purchase Amount will continue to be charged each period to Your designated Funding Instrument or alternate Funding Instrument (if applicable) each billing period, until You cancel Your subscription, unless as otherwise stated in the terms and conditions. The Purchase Amount is subject to change by the Seller during the subscription period.
+
+    (c) The start of the billing period for the subscription will be billed each period based on the date of the subscription purchase.
+
+    (d) You may cancel a subscription at any time by following the process described here, but the cancellation will not become effective until the end of the current billing period. You will not receive a refund for the current billing period. You will continue to be able to access the relevant subscription for the remainder of the current billing period.
+
+    (e) We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+
+    (f)You have the right to a refund of an authorised Purchase Transaction that is part of a subscription if: (i) You request the refund within eight (8) weeks of the debit date of the Purchase Transaction; (ii) the Purchase Order did not specify the Purchase Amount when You authorised the Purchase Transaction; and (iii) the Purchase Amount debited exceeds the amount that You could reasonably have expected taking into account Your previous spending pattern, this Agreement and the circumstances of the case. GPL may ask You to provide additional information that is reasonably necessary to investigate the refund claim. Any refund or a justification for refusing a refund will be provided within ten (10) Business Days following the refund request, or, if GPL has asked You for additional information, within ten (10) Business Days of receiving the information.
+
+12. Reserved
+
+13. Permissible Purchase Transactions and Sending Transactions
+
+13.1 You may only use the Service to process a Purchase Transaction for a Product that is purchased from a Seller through a legitimate, bona fide sale of the Product, or for charitable donations made to Seller where Seller identifies its primary product type as non-profit and is verified by GPL as a registered and certified non-profit organisation.. The Service may not be used to process a Purchase Transaction, or otherwise transfer any E-money or monetary value to a Seller that is unrelated to a purchase of a Product, or for charitable donations made to Seller that does not identify its primary product type as non-profit and is not verified by GPL as a registered and certified non-profit organisation.
+
+13.2 The Service may not be used to receive cash advances from Sellers or to facilitate the purchase of cash equivalents (travellers' cheques, prepaid cards, money orders etc.). You may not use the Service to:
+
+    (a) Process Purchase Transactions in connection with the sale or exchange of any goods or services which are illegal to sell or purchase in the country in which You are resident or accessing the Service from;
+
+    (b) Process Purchase Transactions in connection with the sale or exchange of any goods or services which are illegal to sell or purchase in the country in which the Seller is resident or uses the Service from; or
+
+    (c) Use the Service in connection with any other underlying illegal transaction.
+
+13.3 You agree that You will not use the Service to process Purchase Transactions for any Products that violate the Agreement, other policies or rules applicable to the Service (as updated from time to time) or applicable law. The current policy that establishes the Products and other transactions that may not be paid for with the Service is provided here. Failure to comply with these limitations may result in suspension or termination of Your use of the Service.
+
+13.4 You agree that You will not use the Service to process Sending Transactions that violate the Agreement, other policies or rules applicable to the Service (as updated from time to time) or applicable law. In addition, if You process a Sending Transaction in relation to the purchase of goods or services, You must not purchase any goods or services that violate the Agreement, applicable law, other policies or rules applicable to the Service, or any of the items set out in the policy provided here. Failure to comply with these limitations may result in suspension or termination of Your use of the Service.
+
+14. Service Fees; Foreign Exchange; Interest
+
+14.1 GPL will not charge You a fee to use the Service. However, other taxes or costs imposed by third parties may apply to Your use of the Service. For example, You agree and understand that the financial institution or Carrier that issues Your Funding Instrument may charge You a fee in connection with the debiting or charging of the Funding Instrument resulting from the Purchase Transaction or Sending Transaction. You should consult the terms and conditions governing Your Funding Instrument for more information about any such fees.
+
+14.2 GPL will not perform any foreign currency exchange as part of the Service.
+
+14.3 GPL will not charge You any interest in Your use of the Service.
+
+15. Disputes and Service Disputes
+
+15.1 GPL will provide various tools to assist You in communicating with Sellers to resolve a Dispute that may arise with respect to a Purchase Transaction processed through the Service. If You are unable to resolve a Dispute, GPL can mediate a Dispute between You and a Seller, if either party requests assistance. If this occurs, GPL will review the Dispute and propose a non-binding solution, if appropriate. For more detailed information, please see our Frequently Asked Questions.
+
+15.2 GPL may offer a feedback or other ranking system on the Service to assist You in evaluating Your experiences of using the Service. You acknowledge that any such feedback or ranking system represents solely the opinion of other users of the Service, and is not an opinion, representation, or warranty by GPL with respect to other users of the Service.
+
+15.3 Any claim or dispute arising under the Agreement, including a Service Dispute, or as a result of the provision of the Service by GPL should in the first instance be referred to GPL's customer service through the Buyer Help Centre. More information on the internal complaint handling procedures can be found here. You may refer any complaints not resolved to Your satisfaction to the Financial Ombudsman Service. You may contact the Financial Ombudsman by post: Exchange Tower, London E14 9SR; telephone: 0800 023 4567 or 0300 123 9 123; website: http://www.financial-ombudsman.org.uk; and e-mail: complaint.info@financial-ombudsman.org.uk.
+
+You may also refer any complaints not resolved to Your satisfaction to the Financial Ombudsman Service using the European Commissions online dispute resolution platform at https://ec.europa.eu/consumers/odr/main/?event=main.adr.show.
+
+16. Refunds and redemption
+
+16.1 When You purchase E-money using Your Funding Instrument, You will be spending it immediately on the purchase of Products, so You will not be able to redeem it. In the event of a Refund Transaction from a Seller or from GPL, the E-money will be redeemed and the funds credited back to Your Funding Instrument.
+
+16.2 You can store E-money in Your Account. You can load additional funds onto Your Account by purchasing E-money using Your Funding Instrument by, amongst other methods, visiting payments.google.com and following instructions set out there. At any time during the Agreement You can redeem in part or in full the E-money in Your Account by making a redemption request to GPL by visiting payments.google.com. GPL will without delay redeem the requested amount of E-money and initiate transfer of the amount to Your designated bank or building society account subject to (i) the successful completion of applicable anti-money laundering, fraud and other illegal activity checks and (ii) the successful completion of GPL's processes to verify that the bank or building society account is Yours (for example, by GPL depositing a small amount of money in the bank or building society account and asking You to confirm how much was deposited).
+
+16.3 If after termination of the Agreement there is an amount of E-money outstanding on Your Account, and subject to the successful completion of applicable anti-money laundering, fraud and other illegal activity checks, GPL will without delay redeem the full amount of the outstanding E-money and initiate transfer of the amount to Your designated bank or building society account.
+
+16.4 If the outstanding amount of E-money cannot be redeemed in accordance with clause 16.3, You will have six (6) years following the termination of the Agreement to request the redemption of the outstanding amount in full, after which time any E-money left in Your Account becomes the property of GPL. For the purposes of this clause 16.4 only, the Agreement is deemed to have terminated when You no longer have the right to use Your E-money for the purpose of making Purchase Transactions and Sending Transactions, including but not limited to instances when Your Account is suspended as permitted under the Agreement. If Your right to use Your E-money is restored within six (6) years, the deemed termination will not be effective. GPL may, in its discretion, restore Your Account and any associated E-money after the 6 year period has elapsed. Any redemption made pursuant to this clause 16.4 is subject to the successful completion of applicable anti-money laundering, fraud and other illegal activity checks and You agree to provide the information requested by GPL in order for GPL to complete these checks.
+
+16.5 Nothing in clause 16.4 limits GPL's right to terminate the Agreement pursuant to clause 19.4 and/or redeem pursuant to clause 16.3.
+
+17. Your liability
+
+17.1 In the event of an unauthorised or incorrectly executed Purchase Transaction or Sending Transaction, You are only entitled to redress under this clause 17 if You notify GPL of the unauthorised or incorrectly executed Purchase Transaction or Sending Transaction without undue delay upon becoming aware of the transaction, and in any case no later than thirteen (13) months after the debit date (which will be the same date that the funds have been taken from Your Funding Instrument or Account). However, this time limit does not apply if GPL did not provide or make available the relevant transaction information to You as required by law (for example, in Your online Account transaction history).
+
+17.2 Where You are entitled to redress in the case of an unauthorised Purchase or Sending Transaction, GPL will refund the amount of the unauthorised Purchase Transaction or Sending Transaction as soon as practicable, and in any event no later than the end of the Business Day on which GPL becomes aware of any such transaction, and, where applicable, restore Your Account to the state it would have been in had the unauthorised Purchase Transaction or Sending Transaction not taken place. In practice this means that E-money equivalent to the value of the transaction in question will be credited to Your Account, redeemed and immediately credited back to Your Funding Instrument if the transaction was funded by Your Funding Instrument, or credited to Your Account if the transaction was funded by Your Account. Where GPL has reasonable grounds to suspect fraudulent behaviour by You in relation to Your claim for an unauthorised transaction, GPL will first conduct an investigation before deciding whether to refund, and will notify You of the outcome of the investigation as soon as possible.
+
+17.3 Where GPL has incorrectly executed a Purchase or Sending Transaction, GPL will without undue delay refund the amount of the incorrectly executed Purchase or Sending Transaction and, where applicable, restore Your Account to the state it would have been in had the incorrectly executed Purchase Transaction or Sending Transaction not taken place. GPL will, at Your request, make immediate efforts to trace any incorrectly executed Purchase or Sending Transaction and notify You of the outcome.
+
+17.4 If You have acted fraudulently or have with intent or gross negligence failed to comply with the aspects of the Agreement relating to Your Account, You will be liable for all losses incurred in respect of unauthorised transactions, and if a refund has already been made in such cases, GPL has the right to debit Your Account with the amount of the refund. GPL may conduct an investigation prior to or after a refund for an unauthorised transaction.
+
+18. No Endorsement of Products
+
+18.1 GPL does not represent or endorse, and will not be responsible for: (a) The safety, quality, accuracy, reliability, integrity or legality of any Product, the truth or accuracy of the description of Products, or of any Content displayed or distributed, purchased or paid through the Service; or (b) Your ability to buy Products or the ability of Sellers to deliver Products to You.
+
+18.2 GPL reserves the right, but will have no responsibility, to edit, modify, refuse to post or remove any Content, in whole or in part, that in GPL's sole and absolute discretion is objectionable, erroneous, illegal, fraudulent or otherwise in violation of the Agreement.
+
+19. Ending Your relationship with GPL
+
+19.1 The Agreement will continue to apply until terminated by either You or GPL as set out below.
+
+19.2 If You want to terminate Your legal agreement with GPL, You may do so immediately and without charge at any time by:
+
+    (a) Notifying GPL in accordance with clause 23.5 below; and
+
+    (b) Closing Your Accounts for the Service.
+
+    Your right to terminate under this clause 19.2 includes Your statutory right of withdrawal from the Agreement under the applicable legislation implementing Directive 2002/65/EC.
+
+19.3 GPL may at any time terminate its legal agreement with You without notice if: (a) You have breached any material provision of the Agreement (or have acted in manner that clearly shows that You do not intend to, or are unable to comply with the material provisions of the Agreement); or (b) GPL is required to do so by law (for example, where the provision of the Service to You is, or becomes, unlawful).
+
+19.4 Unless a shorter period is provided in this Agreement, as permitted by law, GPL may at any time terminate the Agreement by giving You two (2) months' notice.
+
+19.5 When this Agreement comes to an end, all of the legal rights, obligations and liabilities that You and GPL have benefited from, been subject to (or which have accrued over time whilst the Agreement has been in force) or which are expressed to continue indefinitely, will be unaffected by this cessation, and the provisions of clause 24.6 will continue to apply to such rights, obligations and liabilities indefinitely.
+
+20. Exclusion of Warranties
+
+20.1 GPL, its Subsidiaries and Affiliates (and their licensors) make no express warranties or representations with respect to the provision of the services.
+
+20.2 In particular, GPL, its Subsidiaries and Affiliates (and their licensors) do not represent or warrant to You that:
+
+    (a) Your use of the services will meet Your requirements;
+
+    (b) Your use of the services will be uninterrupted, timely, secure or free from error; and
+
+    (c) Any information obtained by You as a result of Your use of the services will be accurate or reliable.
+
+20.3 No conditions, warranties or other terms (including any implied terms as to satisfactory quality, fitness for purpose or conformance with description) apply to the services except to the extent that they are expressly set out in the Agreement.
+
+20.4 Nothing in the Agreement will affect those statutory rights which You are always entitled to as a consumer and that You cannot contractually agree to alter or waive.
+
+21. Limitation of Liability
+
+21.1 Nothing in the Agreement will exclude or limit GPL's liability for losses which may not be lawfully excluded or limited by applicable law.
+
+21.2 Subject to clause 21.1 above, GPL, its Subsidiaries and Affiliates (and its licensors) will not be liable to You for: (a) Any indirect or consequential losses which may be incurred by You. This will include any loss of profit (whether incurred directly or indirectly), any loss of goodwill or business reputation, or any loss of data suffered by You; (b) Any loss or damage which may be incurred by You as a result of: (i) Any reliance placed by You on the completeness, accuracy or existence of any advertising, or as a result of any relationship or transaction between You and any advertiser or sponsor whose advertising appears on the GPL Website; (ii) Any change which GPL may make to the services, or any permanent or temporary cessation in the provision of the services (or any features within the services); (iii) Malfunction of the services; (iv) The deletion of, corruption of, or failure to store any communications data maintained or transmitted by or through Your use of the services; (v) Your failure to provide GPL with accurate account information; and (vi) Any fraudulent use of the services by You.
+
+21.3 However, GPL will reimburse You for any charges or interest which You incur as a consequence of the non-execution or incorrect execution by GPL of a Purchase Transaction or Sending Transaction.
+
+22. Changes to the Agreement
+
+22.1 You agree that GPL may make changes to the Agreement from time to time. When these changes are made, GPL will, except where a shorter period is provided in this Agreement, as permitted by law, give You two (2) months' notice of such changes by email sent to Your email address before their proposed date of entry into force.
+
+22.2 You understand and agree that You will be deemed to have accepted the changes unless You notify GPL to the contrary by notice as provided in clause 23.5 prior to the date on which the changes are to come into effect, in which case the Agreement will terminate without charge immediately before the effective date of the changes. You also have the right to terminate the Agreement immediately and without charge at any time before the effective date of the changes.
+
+22.3 Nothing in this clause 22 will limit: (a) GPL's right to update and revise its policies from time to time or to add new features from time to time without prior notice, which may be accepted by You by using the new feature. Such revisions may take place using a method chosen at GPL's discretion and such method may include email communication, or publication on a Google website;
+
+    (b) The parties' right to vary the terms of this clause 22 where the variation is not prohibited by law and both parties agree to it.
+
+22.4 Changes to an Unregulated Service can be introduced by email with fourteen (14) days' notice.
+
+23. Communications and Notices
+
+23.1 All information will be made available or provided to You in an easily accessible manner, in easily understandable language, in a clear and comprehensible form and in English.
+
+23.2 Statements, notices and other communications to You may be made by mail, email, postings on GPL Website or other reasonable means.
+
+23.3 GPL may communicate with You regarding the services by means of electronic communications, including (a) sending email to Your email address, or (b) posting notices or communications on GPL Website. You agree that GPL may send electronic communications to You in relation to any matter relating to Your use of the services including the Agreement (and revisions or amendments to the Agreement), notices or disclosures regarding the services and payment authorisations. Particular communications will be handled as follows:
+
+    The Agreement will be provided to You at the sign-up in a printable form;
+    Changes to this Agreement after the sign-up will be provided in an email sent to Your email address;
+    Except where this Agreement provides otherwise, a notice to terminate this Agreement will be provided in an email sent to Your email address;
+    Information about Purchase, Sending and Refund Transactions will be made available in Your online Account transaction history in Google payments centre and You can view Your Account balance in Google Payments centre under Google Pay balance;
+    Information about a suspension of the Service will be made available in Your online Account transaction history; and
+    Information about the rejection of Purchase, Sending and Refund Transactions will be made available in Your online Account transaction history.
+
+23.4 You should maintain copies of electronic communications by printing a paper copy or saving an electronic copy, and information that is provided to You in an electronic format is provided under the assumption that You will be able to print or save such information.
+
+23.5 Any notice sent to GPL under the Agreement should be sent by registered post to Google Payment Limited,5 New Street Square, London EC4A 3TW, United Kingdom, and marked for the attention of "Google Payments Team", with the exception that:
+
+    Notification of loss, theft, unauthorised use, or security breach should be sent as soon as possible through the Buyer Help Centre.
+    Notification of termination of this Agreement should be sent through the Buyer Help Centre.
+    Notification under clause 22.2 should be sent through the Buyer Help Centre.
+
+23.6 You will be able to view Your transactions free of charge in Your online Account transaction history, which is updated at least monthly, and You agree not to receive paper statements. From 13 July 2018 GPL will send You a link to Your online transaction history by email monthly and free of charge unless You separately request GPL not to receive the monthly statement by email, and request to have the information about Your transactions made available to You in Your online Account transaction history only. Upon Your request we may at our discretion provide You with additional statements, paper or otherwise, of the transactions but in this case we may charge You a reasonable administration fee.
+
+23.7 If GPL needs to contact You in the event of suspected or actual fraud or security threats, GPL will send an email to Your primary email address prompting You to contact GPL. In addition, GPL may also send an email to Your secondary email address, or an SMS to Your phone number, if provided.
+
+24. General legal terms
+
+24.1 The headings to the clauses of this Agreement are for ease of reference only and will not affect the interpretation or construction of the Agreement.
+
+24.2 Reference to any statute or statutory provision includes a reference to that statute or statutory provision as from time to time amended, extended or re-enacted.
+
+24.3 Unless otherwise expressly stated in the Agreement, all amounts stated in the Agreement are denominated in Pounds Sterling.
+
+24.4 The Agreement constitutes the whole legal agreement between You and GPL and governs Your use of the services (but excludes any services that GPL may provide to You under a separate written agreement), and completely replaces any prior agreements between You and GPL in relation to the services.
+
+24.5 You agree that if GPL does not exercise or enforce any legal right or remedy which is contained in the Agreement (or which GPL has the benefit of under any applicable law), this will not be taken to be a formal waiver of GPL's rights and that those rights or remedies will still be available to GPL.
+
+24.6 If any court of law, having the jurisdiction to decide on a matter relating to the Agreement, rules that any provision of the Agreement is invalid then that provision will be removed from the Agreement without affecting the rest of the Agreement. The remaining provisions of the Agreement will continue to be valid and enforceable.
+
+24.7 You may not assign the benefit of the Agreement, or otherwise subcontract or transfer any of Your rights or obligations under the Agreement, without the prior written approval of GPL. GPL may assign the benefit, or otherwise subcontract or transfer its rights and obligations under the Agreement, to any third party without notice to You and without Your consent except where this results in a change to Your Payment Service Rights or Redemption Rights under the Agreement, in which case GPL will provide You with a notice in accordance with clause 22.
+
+24.8 You acknowledge and agree that each member of the group of companies of which GPL is the parent will be a third-party beneficiary to the Agreement and that such other companies will be entitled to directly enforce, and rely upon, any provision of the Agreement which confers a benefit on (or rights in favour of) them. Other than this, no other person or company will be a third-party beneficiary to the Agreement.
+
+24.9 The Agreement, and Your relationship with GPL arising out of or relating to the Agreement, will be governed by the law of England and Wales. If You are resident elsewhere in the UK, any relevant consumer protection law of Your home jurisdiction that exceeds the consumer protection law of England and Wales will also apply. All disputes arising out of or relating to the Agreement shall be subject to the jurisdiction of the courts of England and Wales. If You are resident elsewhere in the UK, the Agreement will be subject to the relevant court in Your home jurisdiction (i.e. Scotland or Northern Ireland). Notwithstanding the rest of this clause 24.9, You agree that GPL will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+
+24.10 E-money, and therefore the Service, is not subject to the Financial Services Compensation Scheme nor any public or private insurance scheme

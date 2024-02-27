@@ -1,0 +1,168 @@
+This translation is provided for convenience only; in the event of any discrepancies, the English version shall prevail.
+Dropbox Terms of Service Released: April 17, 2018.
+Effective: May 25, 2018
+Our previous Terms of Service can be found here.
+Thanks for using Dropbox!
+The Terms of Service ("Terms") cover your access to and use of our services, client software and websites ("Services").
+If you live outside of the United States of America, Canada, and Mexico ("North America"), your contract is with Dropbox International Unlimited Company, and if you live in North America, your contract is with Dropbox, Inc.
+Our Privacy Policy explains how information is collected and used, while our Acceptable Use Policy sets out your responsibilities when using our services.
+By using our Services, you are agreeing to be bound by the Terms, our Privacy Policy, and Acceptable Use Policy.
+If you use our Services for the purposes of an organization, you are agreeing to these Terms on behalf of that organization.
+User Materials and Permissions
+When using our Services, you provide us with things such as files, content, messages, contacts, etc. ("
+Your materials ”).
+Your content belongs to you.
+These Terms do not give us any rights to your material except for the limited rights that allow us to provide the Services.
+We need your permission to perform activities such as storing your material on our servers, backing it up and sharing it when you ask us to do so.
+Our Services also provide features such as photo thumbnails, document preview, commenting, easy sorting, editing, sharing and searching.
+These and other features may require our systems to access your material so that they can store and scan it.
+You give us permission to perform these activities, and this permission extends to our affiliates and trusted third parties with whom we work.
+Sharing User Content.
+Our services allow you to share your content with others, so you need to think carefully about what you want to share.
+User Responsibility
+You are responsible for your own behavior.
+Your content and you must follow our Acceptable Use Policy.
+Content on the Services may be protected by the intellectual property rights of others.
+Do not copy, upload, download or share content, unless you are authorized to do so.
+We have the right to check your behavior and your content for compliance with our Acceptable Use Policy.
+Despite the above, we are also under no obligation to do so.
+We are not responsible for the content of others posted and made available through the Services.
+Help us keep you informed and protect your content.
+Secure your password for the Services and keep your account information up to date.
+Do not share your account credentials or give access to your account to other people.
+You may use our Services as permitted by applicable law, including export control laws and regulations.
+You must be at least 13 years of age to use our Services, and in some cases even older.
+If you live in France, Germany or the Netherlands, you must be at least 16 years old.
+Check local laws regarding digital consent age.
+If you do not meet these age requirements, you may not use the Services.
+Software
+Some of our Services allow you to download client software ("Software"), which may update itself automatically.
+As long as you comply with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use the Software solely to access the Service.
+To the extent that any component of the Software may be offered under an open source license, we will make that license available to you, and the terms of that license may expressly supersede some of these terms.
+Provided that the following restrictions are not prohibited by law, you agree not to reverse engineer or decompile the Services, attempt or assist anyone else in doing so.
+Beta services
+Every once in a while we publish products and features that we continue to test and evaluate.
+These Services are marked as beta, preview, early access, or evaluation (or similar words or phrases) and may not be as reliable as other Dropbox services - please take this into account.
+Our materials
+The Services are protected by copyright, trademark, and other US and foreign laws.
+These terms do not give you any rights, title or interest in the Services, someone else's content on the Services, Dropbox trademarks, its logos, or other brand features.
+Your feedback is appreciated, but please note that we may use your comments and suggestions without any obligation to you.
+Copyright
+We respect the intellectual property of others and ask you to do the same.
+We will respond to notices of alleged copyright infringement if they comply with the law.
+Such notices should be made based on our Copyright Policy.
+We reserve the right to remove or block any allegedly infringing content and to close the accounts of those who have repeatedly infringed copyright laws.
+Below are details of our agent designated to receive notices of alleged copyright infringement on the Services:
+Copyright Agent
+Dropbox, Inc.
+333 Brannan Street
+San Francisco, CA 94107
+copyright@dropbox.com
+Paid accounts
+Payment.
+You can increase your disk space and add paid features to your account (by changing your account to a "paid account").
+We will automatically charge you from the date you switch to a Paid Account and on the date of each periodic renewal up to the date of cancellation.
+If you are on an annual rate plan, we'll email you a reminder of the upcoming renewal date by email with reasonable notice.
+You are responsible for all applicable taxes and we will charge them when required.
+Some countries have mandatory local laws regarding your right to cancel, and this section does not override those rights.
+No refund.
+You can cancel your Dropbox paid account at any time.
+Costs are only reimbursed if required by law.
+For example, users residing in the European Union have the right to unsubscribe from a Paid Account within 14 days of their creation, to upgrade to a Paid Account, or to renew such Account.
+Change to a lower tariff.
+Your Paid Account will remain active until canceled or closed in accordance with these Terms.
+If you do not pay for your account that is due on time, we reserve the right to suspend your account or reduce the amount of storage to the size of free accounts.
+Changes.
+We may change the amount of fees, but we will notify you in advance of these changes via a message sent to the email address associated with your account.
+Dropbox Teams
+Email address.
+If you sign up for a Dropbox account using an email address provided by your organization, that organization may be able to block Dropbox use until you upgrade to a Dropbox account (e.g.
+as a Dropbox Business or Dropbox Enterprise plan) or link your Dropbox account to a personal email address.
+Using Dropbox Teams.
+If you join the Dropbox team, you must use it in accordance with your organization's policies and policies.
+Please note that Dropbox team accounts are controlled by the organization.
+Admins can access information and can disclose, restrict, or delete information in their Dropbox team account.
+They can also restrict or revoke access to the Dropbox team account.
+After converting an existing Dropbox account to a Dropbox team account, admins may prevent your account from being separated from your Dropbox team account later.
+Termination of use of the Service
+You have the free choice to stop using our Services at any time.
+We reserve the right to suspend or block your access to the Services with notice if: (a) you breach these Terms; (b) you will use the Services in a way that poses a real risk of damage or loss to us or other users; or (c) if you do not have a paid account, you will not use our Services continuously for 12 months.
+We will send you a prior notice to the email address associated with your account, allowing you to opt-out of the action that led to our contact with you and allowing you to export your material from our Services.
+If, after such notification, you do not take the steps requested, we will block or suspend your access to the services.
+We will not notify you prior to disabling access if: (a) you materially breach these Terms, (b) it would create legal obligations for us or impair our ability to provide the Services to other users, or (c) it is prohibited by law.
+Termination of the provision of Services
+We may decide to terminate the Services in response to unforeseen circumstances beyond Dropbox's control or as a legal requirement.
+In this case, we will notify you in advance to allow your material to be exported from our systems.
+If we terminate the Services in this manner before the expiry of any fixed or minimum term for which you have paid us, we will refund you part of the fees paid in advance but for which you did not receive the Services.
+Services provided "as is"
+We strive to provide the best Service, but there are some things we cannot guarantee.
+TO THE FULL EXTENT PERMITTED BY LAW, DROPBOX AND ITS AFFILIATES, SUPPLIERS AND DISTRIBUTORS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE SERVICES PROVIDED.
+THE SERVICES ARE PROVIDED "AS IS".
+WE DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+Some countries do not allow the above disclaimers, in which case they do not apply.
+Limitation of Liability
+WE DO NOT EXCLUDE OR LIMIT OUR LIABILITY IN CASE WHERE IT WILL BE Illegal - THIS INCLUDES LIABILITY FOR FRAUD OR KEEPING INSERTED INTO MISFEED BY A PERSONAL INJURY.
+IN COUNTRIES WHERE THE FOLLOWING EXCLUSIONS ARE NOT ALLOWED, OUR LIABILITY IS EXCLUSIVELY LIMITED TO LOSSES AND DAMAGES WHICH ARE FORFECTABLE AS A RESULT OF OUR INDEMNITY OR CONTRACTUAL CONDITION.
+THIS SECTION DOES NOT AFFECT YOUR CONSUMER RIGHTS WHICH MAY NOT BE WAIVED OR LIMITED BY ANY CONTRACT.
+IN COUNTRIES WHERE ARE ALLOWED EXCLUSIONS OR LIMITATIONS OF LIABILITY, DROPBOX, ITS AFFILIATES, SUPPLIERS OR DISTRIBUTORS WILL NOT BE LIABLE FOR: i.
+ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OR RETORIAL DAMAGES AND II.
+ANY LOSS OF USE, DATA, ORDERS OR PROFITS, REGARDLESS OF LEGAL BASIS.
+THESE EXCLUSIONS OR LIMITATIONS APPLY WHETHER DROPBOX OR ITS AFFILIATES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.
+IF YOU ARE USING A COMMERCIAL, BUSINESS OR RESALE SERVICE, DROPBOX, ITS AFFILIATES, SUPPLIERS OR DISTRIBUTORS WILL NOT BE LIABLE FOR ANY LOSS, LOSS, LOSS, OR LOSS OF LOSS.
+DROPBOX AND ITS AFFILIATES ARE NOT RESPONSIBLE FOR THE CONDUCT OF ANY SERVICE USER ON OR OFF THE INTERNET.
+EXCEPT KIND OF LIABILITY THAT CANNOT BE LIMITED BY LAW (AS ​​DESCRIBED IN THIS SECTION), OUR LIABILITY IS LIMITED TO ANY AMOUNT OF $ 20 OR 100% OF ANY FRAMEWORK FROM ANY FRAMEWORK FROM THE FRAMEWORK OF THE LAW TWO AMOUNTS IS BIGGER.
+Dispute resolution
+Let's try to come to an agreement first.
+We want to address your concerns without having to raise the matter at the formal and legal level.
+Before filing a lawsuit against Dropbox, you consent to try to resolve the dispute informally by contacting us at dispute-notice@dropbox.com.
+We will try to resolve the dispute informally and by e-mail.
+If a dispute is not resolved within 15 days of your request, you have the right to initiate formal proceedings against Dropbox.
+Judicial forum for disputes.
+You and Dropbox agree that any legal proceedings to resolve a claim relating to these Terms will be brought before the federal or state courts of San Francisco County, California, subject to the mandatory arbitration rules below.
+You and Dropbox consent to submit to the personal and local jurisdiction of such courts.
+If you live in the country (e.g.
+in one of the Member States of the European Union) whose laws grant consumers the right to settle disputes before a local court, this section does not affect these requirements.
+IF YOU ARE A RESIDENT OF THE UNITED STATES, IN ADDITION, YOU AGREE TO SUBMIT TO MANDATORY ARBITRATION:
+Agreement of both parties to arbitration.
+You and Dropbox agree to settle any claim in connection with these Terms or the Services through final and binding arbitration by a single arbitrator, except as set forth in the Exceptions to the Arbitration Agreement section.
+This includes disputes arising out of and relating to the interpretation or application of this Compulsory Arbitration Section, including its enforceability, revocation or validity.
+Arbitration Waiver.
+You may decline this arbitration agreement by clicking here and submitting the opt-out form within 30 days of your original account registration.
+However, if you have accepted an earlier version of these Terms allowing you to opt out of arbitration, your previous decision to opt out or not remain in effect.
+Arbitration procedures.
+The American Arbitration Association (AAA) will conduct its arbitration based on its Commercial Arbitration Rules and Supplementary Procedures for Consumer Disputes.
+The arbitration will take place in the United States county where you live or work, San Francisco, California, or any other location to which we agree.
+Arbitration Fees.
+The AAA rules will govern all arbitration fees.
+Dropbox will pay all individual arbitration fees for claims less than $ 75,000.
+If you receive an arbitration award that is more favorable than the offers we made to satisfy your claim, we will pay you $ 1,000 in addition to the award.
+Dropbox will not seek reimbursement for its attorneys unless the arbitrator deems the claim to be frivolous.
+Exceptions to the Arbitration Agreement.
+Both you and Dropbox can make a claim (if they qualify) in a court of
+Small Claims in County San Francisco (California) or any county of the United States where you live or work.
+Either party may bring a lawsuit solely to secure a claim to stop the unauthorized use or abuse of the Services or infringement of intellectual property (e.g.
+trademarks, trade secrets, copyrights or patent rights) without first engaging in arbitration or the informal dispute resolution process described above.
+If the arbitration agreement does not apply to you or your claim, you consent to the exclusive jurisdiction of the state and federal courts in San Francisco, California to resolve your claim.
+NO CLASS ACTION.
+You can only resolve disputes with us on an individual basis and you cannot bring a claim as a plaintiff or as a member of a class action, consolidated or represented group.
+Collective arbitrations, class actions, legal actions representing collective interest and consolidation with other arbitrations are not allowed.
+If this clause is found impossible to comply with, the entire content of this mandatory arbitration section will be invalid.
+Governing Law
+These Terms will be governed by the laws of the State of California, except for its conflicts of law.
+However, in some countries (including European Union countries) there are laws requiring contracts to be governed by the local laws of the consumer's country.
+This section does not override these provisions.
+Entire Agreement
+These Terms constitute the entire agreement between you and Dropbox with respect to the subject matter of the Terms and shall supersede and supersede any prior or contemporaneous agreements or terms applicable to that subject.
+These conditions do not create any rights for the benefit of third parties.
+Waiver, Severability, and Assignment
+Dropbox's inability to comply with an order does not waive its right to do so later.
+If any provision is found to be unenforceable, the remaining provisions of the Terms will remain in full effect and an enforceable substitute condition will be established that reflects our intentions as closely as possible.
+You may not transfer any rights under these Terms and any such attempt will be void.
+Dropbox may transfer its rights to any of its affiliates or subsidiaries, or to any business successor associated with the Service.
+Changes
+We may update these Terms from time to time to better reflect: (a) changes to the law, (b) new legal requirements, or (c) improvements or enhancements to our Services.
+If any update affects your use of the Services or your rights as a user of the Services, we will notify you prior to the update becoming effective by sending an email to the email address associated with your account or via in-product notification.
+Such updated terms will be effective at least 30 days from the date of our notification.
+If you do not agree to our updates, please close your account before they take effect.
+Where appropriate, we will offer you a pro-rata refund of the prepaid amounts for the Services, including the account closure date.
+By continuing to use the Services after the update becomes effective, you accept the new Terms.

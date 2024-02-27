@@ -1,0 +1,539 @@
+TERMS AND CONDITIONS FOR USING UBISOFT SERVICES
+Menu
+TERMS AND CONDITIONS FOR USING UBISOFT SERVICES
+Last updated: May 12, 2020
+"We all play the same rules"
+WELCOME TO THE WORLD OF UBISOFT!
+PLEASE READ THE REGULATIONS.
+The Ubisoft team provides players with an authentic and memorable experience.
+Thanks to games, applications, websites and online services (hereinafter referred to as our "Services"), our players can have fun, share their experiences with others and develop their skills.
+To ensure that you can take full advantage of our Services, we have established rules that govern every aspect of our community and apply to our entire community - you, other players, and ourselves.
+By using the Services and Content, the definitions of which are given below, you accept these "Regulations".
+1 What are Ubisoft Services and Content?
+This section provides a definition of the Services and a list of documents that should be read before accessing the Services.
+1.
+1 Ubisoft Services ("Services") includes games, downloadable content, season passes, and other game software (recorded on a disc or other physical medium, or available for download or streaming), as well as other software, internet and mobile services, including their web features and other functionalities, together with their updates and new versions, related websites, Uplay and any other Ubisoft platform, Uplay + service, hosted live events, servers, software and infrastructure through which they are currently or in the future made available to the user by UBISOFT ENTERTAINMENT S.
+A.
+or any of its subsidiaries or affiliates, in particular UBISOFT EMEA SAS and UBISOFT GmbH (collectively "Ubisoft" or "we").
+1.
+2 These regulations ("Regulations") define the rules of access and use of the above Services by the user ("user").
+By using the Services and Content (as defined below), you accept and agree to be bound by these Terms and the applicable age and territory criteria.
+Additional terms may apply to individual Services, e.g.
+Ubisoft Store Terms of Sale, End User License Agreement and Code of Conduct (the "Code of Conduct").
+In addition, our Privacy Policy will help you understand how we use the personal information we may collect when you use our Services.
+Please read the above documents before accessing the Services.
+"Content" means all elements that are part of the Services, in particular elements found in games, personalization elements, maps, avatars, gameplay action, graphics, music and sounds, text, all messages and information elements, names, themes, items, binding , costumes, effects, dialogues, slogans, places, characters, charts, concepts, choreographies, videos, audiovisual effects, domains.
+Content is also user-generated or other user-generated content that constitutes User Generated Content (as defined in section 6.1.
+11); Ubisoft Virtual Warluta (as defined in p.
+3.
+3) and Test Content (as defined in p.
+12).
+1.
+3 The Services and Content are not sold and are licensed to you.
+This means that we grant you a personal, limited, non-transferable and revocable license to use the Services and access Content for entertainment, non-commercial purposes, subject to your compliance with these Terms and Conditions.
+2 How do I create an Account and what do I need to know before creating one?
+This section describes the step-by-step process and security rules for creating a Ubisoft Account and selecting a username and / or avatar required to access the Services.
+2.
+1 You may need to create a Ubisoft account ("Account") to access and use certain Services, including online play.
+The User may create an Account by providing correct, complete and up-to-date data, including an active e-mail address.
+We may need to verify that your details, including your telephone number and email address, are correct to ensure the safety of minors and other users and to reduce the risk of fraud.
+The user undertakes to send the necessary documents (e.g.
+copy of ID card or passport) at our request, in any way.
+If you have any doubts or questions regarding your User Account, please visit https://support.ubi.com/Account or https://account.ubisoft.com.
+2.
+2 Account Security.
+Any activities performed on the Account using the user's password, in particular the purchase of Services, shall be considered activities performed by the user.
+To ensure the security of the Account, it is necessary to:
+a) Establish a strong alphanumeric password.
+For security reasons, we have the right to reject a password that is not strong enough to secure your Account.
+b) Establish a password that is different from all other passwords used by the user and change it regularly.
+c) Activate 2-step verification and other security features available in your Account settings.
+d) You should never share your Account details (username, password, etc.)
+other people.
+We never ask users to reveal their password.
+e) You should never authorize other persons to access and / or use your User Account.
+2.
+3 You agree to notify us immediately of any unauthorized use of your username, password, or other Account details, or any breach of security related to the Services, via the website: https://support.ubi.com.
+2.
+4 Set an avatar / username.
+You may need to create a username and / or password to access and use some of the Services.
+These items will be associated with the User Account and visible to other users.
+We therefore recommend that you do not include your real name in your username.
+The selected username or avatar (i) may not be the same as the name or avatar associated with another user's Account, and (ii) may not contain "Ubi" or "Ubisoft" or the Ubisoft logo.
+We reserve the right to decline a user's chosen username and / or avatar at our sole discretion.
+2.
+5 Having more than one Account.
+You may not create more than one Account, unless we give your consent.
+In this case, the user undertakes to close the additional Account at our request or agrees to its closure by us.
+3 What are the terms of using our Services?
+This section describes the terms governing the use of certain Services and Content (e.g.
+Forums, Virtual Currency) and some access routes to our Services (including mobile access).
+3.
+1        Fora.
+The Services may include forums, newsgroups, chat rooms, and other types of online message boards (collectively, "Forums").
+When using the Forums, the user should be aware that his avatar, username and messages are public and visible to other users present in the Forums (unless it is a Private Forum).
+The user sends messages at his own risk.
+You are solely responsible for their upload, publication and dissemination.
+When interacting with other users on the Forums, observe the following security measures:
+You should never share information by which a user can be identified in real life.
+Never arrange meetings with people you meet in a chat, especially if the person asks you to keep the conversations or meetings secret; do not accept invitations to apps and channels outside of the Services.
+You should report behavior and content that appears suspicious or inappropriate, including chat conversations that made you feel uncomfortable.
+You should talk to people around you and use the blacklist feature, if available in the Service, so as not to receive unwanted messages.
+3.
+2        Ubisoft Store.
+The user can purchase products in our online store available at https://store.ubi.com/ or via the Uplay application.
+We have the right to restrict you from purchasing products based on various criteria, including
+age, limited availability of the product, etc.
+We may offer periodic promotions which will be subject to separate terms and conditions.
+3.
+3 Points, virtual currency.
+We may license you to access or use online or offline items on our Services, including virtual points, coins or currencies (collectively "Ubisoft Virtual Currency").
+When you receive a Ubisoft Virtual Currency from us or our authorized partner, you are granting you a personal, limited, non-transferable, non-exclusive and revocable license to access Ubisoft Virtual Currency that has been expressly made available to you.
+Ubisoft Virtual Currency has no monetary or other value outside of the Services.
+Ubisoft Virtual Currency cannot be sold, transferred or exchanged for cash.
+It can only be exchanged for Content available on the Services.
+Ubisoft Virtual Currency is non-refundable and you will not be entitled to a refund for any unused currency except where required to do so by law.
+Once Ubisoft Virtual Currency has been exchanged for Content, you may not return or exchange the Content you have received or receive a refund.
+3.
+4 Wallet.
+You may obtain access to an electronic wallet ("Wallet") in your Account.
+The wallet is not a bank account or a payment instrument, and the funds that the user places in it:
+they do not constitute personal movable property,
+may only be used to purchase Content or Services from us,
+outside of the Services, they have no value and are not redeemable for cash, and
+are not refundable or transferable, unless required to do so by law.
+We have the right to set the maximum amount of funds:
+which you may have in your Wallet;
+how much can the user add to his Wallet during the day / month; and / or
+what a user can spend using their Wallet.
+Established limits may be updated periodically at our discretion.
+3.
+5 prepaid cards.
+We may allow you to purchase prepaid cards and / or use prepaid cards to purchase Content and / or Services and / or top up your Wallet.
+If the amount in the User's Wallet has reached the limits referred to in point
+3.
+4, the user will not be able to top up his Wallet with a prepaid card.
+3.
+6 Technical security measures, Internet connection, digital rights management.
+Some Services may be protected by us through technical security measures and digital rights management, including but not limited to
+physical security, digital watermarks, digital activation keys, direct authorizations.
+To access online features, the ability to play online and use certain Content, including Content that can only be unlocked once with a unique code, and some Services protected by digital rights management technology, you may need a permanent high-speed Internet connection. speed.
+3.
+7 Mobile services.
+Some Services are also available on mobile phones, smartphones, tablets and other compatible mobile devices.
+The use of the Services on mobile devices requires the consent of the person who pays the bill for the mobile device and Internet connection.
+Using the Services on a mobile device may incur connection charges for which we cannot be held responsible.
+Some Mobile Services allow you to make in-game purchases and microtransactions.
+The convenience of using the Services may vary depending on the capabilities and functions of the mobile device and network.
+We are not able to guarantee the comfort of using the Services as offered by other devices.
+4 How can we modify our Services?
+This section describes under what circumstances we may modify our Services and Content, including the applicable prices.
+4.
+1 General Information.
+We make no guarantees as to the availability of our Services at all times, worldwide and / or on any device.
+We make no guarantees as to the minimum period of time for which a given Service will be available.
+We reserve the right to withdraw all or part of the Services at any time.
+4.
+2 Service Price Change.
+We reserve the right to change the prices of the Services, including converting a Paid Service to a Service available free of charge and vice versa.
+The amendment will only apply to orders placed after its entry into force.
+4.
+3 Changing Access to Services and Content.
+a) We have the right at any time and for any reason, in particular for technical reasons such as updates, maintenance or restarting, to modify the Content in order to improve or optimize the Services.
+b) We may allow or ask you to download software, updates, patches and / or other programs and tools provided by us or our licensors ("Ubisoft Software").
+We hereby grant you a personal, non-transferable and non-exclusive license to use the Ubisoft Software, without territorial limitations, for the duration of the protection of the intellectual property rights of the Ubisoft Software solely for the purpose of using the Services.
+We have the right to define the terms of use of any Ubisoft Software as we make it available to you.
+The performance of the Ubisoft Software and Services may vary depending on the hardware used.
+We may provide you with periodic updates or modifications to the Ubisoft Software that may be necessary for your continued use of the Services.
+c) Modifications may affect the functioning of the Services and / or the rights acquired by the user or cause the loss of progress in the game.
+d) We also have the right to:
+specify the maximum number of days for which the Content will be saved on the Services;
+define the maximum volume of messages that can be sent and received through the Account;
+determine the maximum memory capacity assigned by our servers to your User Account;
+determine the maximum number of user accesses to the Services, including the maximum duration of each access in a given period.
+5 What are the rules we follow to ensure a friendly, safe and fair gaming environment?
+This section describes the rules of conduct that must be followed by the user and the practices that are prohibited in order to guarantee a friendly, safe and fair gaming environment.
+5.
+1 We are committed to providing each user with a friendly, safe and respectful gaming environment, both during gameplay and at any other time while using our Services.
+This is particularly important to us because our Services users include people of different ages, including minors.
+In order for each user to feel part of such a kind, safe and fair community, it is imperative that users comply with the following rules (the "Code of Conduct").
+5.
+2 The User may use the Services only for lawful purposes and in accordance with their intended purpose.
+Using the Services in violation of applicable law or regulations is prohibited.
+5.
+3 The following is a non-exhaustive list of prohibited practices that may result in an investigation by our personnel and the imposition of penalties (in accordance with section
+6):
+1.
+Providing false data when registering the Account (e-mail address, date of birth, etc.).
+2.
+Create and use an incorrect username or avatar.
+This applies, inter alia, to
+using names or images:
+· Containing profanity, sexual references or hate speech, condemning terrorism, fascism, violence against children; or
+· Containing any reference to religion, political opinion or which could easily give rise to disputes or divisions.
+3.
+Impersonating other users or our representatives.
+This applies, for example, to:
+Create an Account highly similar to an existing Account or a user, with the express intention of impersonating that user without his / her consent;
+Posting comments or creating an Account that could suggest that they come from our representatives or similarly authorized persons.
+4.
+Insulting, harassing or intimidating users and / or our representatives (i.e.
+our employees, members of our community (moderators, main players, etc.))
+using any form of communication (incl.
+Content creation tools, Forums, in-game chats or chats or voice messaging), using any medium on the Services and / or on third party websites.
+This applies, for example, to:
+Trolling (posting entries that are intentionally controversial or off topic to provoke other users),
+Flejmów (constantly insulting other users),
+Spamming (posting absurd or unrelated posts or posting the same or similar posts repeatedly),
+Use of language or content that is inappropriate, illegal, dangerous, threatening, abusive, offensive, indecent, sexually explicit, vulgar, defamatory, invading privacy, hateful, racist, sexist, homophobic, transphobic, illegal ethical or harassing.
+5.
+Posing a threat to minors and inappropriate behavior towards minors, including:
+Seduction (encouraging users to engage in inappropriate or illegal acts on and / or off the Services);
+· Comments, private messages, User-generated content that alludes to inappropriate behavior towards minors, incl.
+physical and sexual abuse, pornographic material and any other obscene content;
+· Other actions or comments, referred to in the Rules of Conduct, directed at or concerning minors.
+6.
+Using any means on the Services not expressly authorized by us to collect or capture data from other users.
+This applies, for example, to:
+Phishing (attempts to obtain personal data, Account data or other private information from another user);
+Doxing (disclosing, otherwise reproducing, or providing someone else's personal information to anyone);
+· Sniffing (data theft or interception by tracking network traffic).
+7.
+Use of items that infringe any intellectual property or other rights of us or any other entity.
+8.
+Unauthorized disclosure of information, i.e.
+creating, using, sharing and / or publishing by any means, within and / or outside the Services, any content that violates the obligation of confidentiality, an individual's right to privacy, or that encourages unlawful acts (eg.
+piracy, cracking or the distribution of counterfeit software).
+9.
+Sale, lease, marketing, arrangement, modification, decompilation, disassembly, reverse programming, translation, adaptation, reproduction, distribution, dissemination, reposting, uploading, cataloging, copying, unsubscribing and / or automating any information, programs, products or other elements of the Content and / or Services by any means, without our express consent.
+10.
+Modifying, distorting, blocking, unnaturally loading, disrupting, slowing down and / or preventing the normal functioning of all or part of the Services, or the access of other users to them or the functioning of partner networks, or attempting any of the above actions.
+This applies, inter alia, to
+conducting DDoS attacks (ang.
+Distributed denial-of-service), the purpose of which is to block services.
+11.
+Uploading or disseminating viruses, Trojans, worms, bombs, corrupted files and / or other harmful tools or corrupted data and / or organizing attacks or engaging in any way in attacks on our servers and / or Services or the servers and services of our service providers and / or partners.
+12.
+The use or circulation of computer programs for the automation and handling of macros, in particular the use and / or circulation of programs or applications such as cheats, hacks, bots, scripts or trainers.
+13.
+Use or circulation of the Services through twin sites.
+14.
+Another type of manipulation that gives the user (and / or team members) an unfair advantage (e.g.
+wallhacks, aimhacks) or negatively affects the experience of other users.
+15.
+Using another streamer's live stream to gain an unfair advantage or to harass an in-game streamer, e.g.
+stream sniping.
+16.
+Any behavior that disrupts the general gameplay in the game itself, on the Forum or in any Service, in particular:
+Spamming,
+· stan AFK (the.
+Away From Keyboard),
+·       farming,
+Advertising or soliciting other products,
+Harassment or unsportsmanlike conduct in the game, in particular killing members of your team, leaving the game prematurely due to anger caused by the game, blocking interactions between players and / or other game behavior aimed at disrupting or interrupting the overall flow of the game.
+17.
+The exploitation of faults or errors that give the user an unfair advantage over other users or jeopardize the overall balance or economy of the Service.
+18.
+Using other users' assistance or offering assistance to other users to gain an unfair advantage.
+This applies, for example, to:
+Joining forces with cheating users;
+Teaming up with more experienced users to raise your level / stats in areas of the game normally reserved for new users;
+Create alternative Accounts to join forces with new or less experienced users to help them unfairly raise their level / stats.
+19.
+Acquiring, using, and / or promoting unauthorized benefits developed by third parties, such as matchmaking services that enable you to rank up.
+20.
+Obtaining or attempting to gain unauthorized access to elements of the Services.
+21.
+Creating, delivering, using alternative methods of using the Services, e.g.
+server emulators.
+22.
+Reloading content that has already been moderated in the Forums or other Services.
+23.
+Blocking voice communication, deliberate use of sounds to jam other people's voice calls.
+24.
+Bypassing regional restrictions related to the Service by using proxy servers, VPN or other tools.
+25.
+Improperly using the "Help" option or the "Report" feature, or submitting to our staff, including our support team
+customer support, false reports.
+26.
+Fraud, credit card withdrawal or "chargeback" resulting in a negative balance.
+A chargeback may occur due to credit card theft, identity theft, or the use of the card by family or friends without the consent of the cardholder.
+27.
+Fraud, trying to defraud or mislead other people for material gain.
+28.
+Acquisition, sale, lease, sharing, lending, exchange or transfer in any other way the ownership of the Account and / or the means of access to the Account and / or enabling a third party to use it in any way, as part of the Services or on the website of a third party.
+29.
+Failure to follow the instructions of our representative.
+6 What penalties do we apply to prevent and combat unlawful practices?
+This section describes some of the disciplinary and legal steps we can take to combat practices that are detrimental to the game environment and our community.
+In the event of a breach of these Regulations and / or the Code of Conduct, we have the right to impose penalties on users.
+Penalties are determined individually, based on many different criteria, in particular, the seriousness of the violation, the number of violations and their impact on the Services, other users and / or our representatives.
+The following is a non-exhaustive list of the penalties we apply: 1.
+Give a warning, 2.
+Deactivating your username, avatar or password, 3.
+Reverting game progress to the previous state, 4.
+Decreasing the level of the Account or the level / number of points in a given Service, 5.
+Restricting access to certain functions (e.g.
+chats) in one or more Services, 6.
+Temporary blockage of the Account's access to one or more Services, 7.
+Long-term blockade of the Account's access to one or more Services, 8.
+Prevent access to a specific Service or several Services on a given device, and / or 9.
+Suspension or closure of the Account and / or the possibility of using one or more Services or part of the Services in accordance with p.
+8.
+2.
+We have the right to use our own and / or external anti-cheating measures to detect unlawful practices and / or impose appropriate penalties.
+If we suspect that you have acted illegally on or off the Services, we have the right to restrict your access to all or part of the Services to guarantee our users a friendly, safe and fair gaming environment.
+In addition, we reserve the right to take legal action under civil and criminal law to compel you to stop breaching your legal and contractual obligations and to obtain compensation for our losses.
+In particular, we reserve the right to hold liable any user who has intentionally damaged or attempted to damage the Services, or has disrupted the proper functioning of the Services, or has assisted someone in such activities.
+7 How can I report content that is illegal?
+This section provides information on the procedure for reporting Content that you believe does not comply with the Terms and / or infringes the intellectual property rights of a third party.
+7.
+1 Reporting Content inconsistent with the Regulations.
+If you believe that Content provided on the Services does not comply with these Terms, you may report it by using the "Report" option, if available on the Service, or by contacting the Content Team.
+customer support at https://support.ubi.com.
+In order for us to respond quickly to your report, please include as much information as possible:
+Provide the date of filing;
+Provide your name, surname, address and e-mail address;
+Identify and describe the Content that you believe is inconsistent with the Regulations, indicating their exact location;
+Explain why, in the user's opinion, the Content does not comply with the Regulations and should be removed, indicating the appropriate point of the Regulations and, if possible, evidence;
+Include a declaration of the truthfulness of the information contained in the notification.
+7.
+2 Reporting Content Infringing Intellectual Property Rights.
+We respect the intellectual property rights of others and expect users to do the same.
+If you believe that any Content provided on the Services infringes your intellectual property rights, you can report it by sending an email to Copyright-infringement@ubisoft.com, specifying the information listed below:
+The information listed in p.
+7.
+1;
+Proof that the user is authorized to act on behalf of the holder of the alleged infringement or, if the user is acting on behalf of his enterprise, the type of entity, its name, registered office and position held by the user in it;
+The clear identification of the user's intellectual property-protected work that is the subject of the alleged infringement, as well as any circumstances that prove the existence of the user's rights;
+Where applicable: information on the registration of the above rights or requests for their registration, including the country of registration or the country in which the application for their registration is made, the term of protection and the registration number or application number;
+A copy of the letter sent to the author of the disputed Content with a request to remove or modify the Content or a statement that it is not possible to contact the author.
+7.
+3 Responses to reports.
+Upon receipt of your report, we reserve the right to act at our discretion.
+In particular, we reserve the right to remove and / or deactivate reported Content and oblige users to cease using such Content.
+In the event of removal or deactivation of the Content posted by the user in violation of the Regulations and / or intellectual property rights of third parties, we reserve the right to impose penalties on the user, referred to in point
+6.
+The User acknowledges that unjustified and informed submission of Content in order to have it removed or prevent its distribution through our Services is against the law and punishable by law.
+8 Can the User Account be closed?
+This section explains under what circumstances your Account may be closed by us or by you and the consequences of closing your Account.
+SO.
+The account may be closed on our initiative or on the initiative of the user.
+8.
+1 Closing of the Account on the initiative of the user.
+The User may close his Account at any time by completing the form available at: https://support.ubi.com or close the account at: https://account.ubisoft.com, in the "Account Information" tab, especially if does not accept the Regulations or any changes made to it.
+8.
+2 Closing the Account or restricting access to the Services on our initiative.
+We have the right at any time, at our sole discretion, to automatically suspend or terminate your Account and prevent you from using one or more of the Services or parts of them: if you have received a formal request from us to provide proof of identity or to cease a certain action, behavior or violation of these Terms and Conditions. ; if we have reasonable grounds to believe that you have breached these Terms (including the Code of Conduct) or the terms and conditions applicable to any Service; for any other reason related to your activity on or off the Services; after notifying the user if the User Account has been inactive for at least six months.
+If you have more than one Account, we reserve the right to suspend or terminate all of your Accounts after we suspend or close one of them in accordance with the procedure described.
+8.
+3 Effects of Account Closure / Suspension.
+Inability to use the Services and Content.
+Loss and ability to delete your user profile and related information that you have provided to us, including Content that you have posted, added or shared on the Services, in particular your username, avatar, and User Generated Content.
+We reserve the right to store personal data related to your profile for a reasonable period of time in accordance with our Privacy Policy.
+You will not be able to re-create an Account without our express consent, which we may give in our sole discretion and requested at https://support.ubi.com.
+If your Account is closed, you will lose access to your Account and all saved files and game progress related to the Services.
+If your Account is closed or your access to Account Services is restricted, you will not be entitled to a refund (for unused Services, unused portion of a subscription period, unused points or Ubisoft Virtual Currency) or the possibility of exchanging them for cash.
+9 Can minors use our Services?
+This section explains how minors can create an Account and access our Services with the help of their parent / legal guardian.
+9.
+1 If, according to the law of the country of residence, the user is a minor, the user should read these Regulations with the help of a parent or guardian.
+9.
+2 We recommend that parents or guardians control their children's games, especially if they are playing online, and become familiar with parental controls provided by us and / or our partners.
+We encourage you to visit the "Parent's Corner" page, prepared in cooperation with experts, players and parents, available at https://ubisoft.com/en-us/company/parents.aspx, where we answer frequently asked questions and provide advice and tips .
+9.
+3 We have the right to restrict access to certain Services based on age, and for minors under a certain age, we may allow them to use certain Services only with the consent of a parent or guardian.
+9.
+4 To the fullest extent permitted by law, we do not accept any responsibility for the actions of minors without the consent of their parent or legal guardian.
+In any event, parents and legal guardians will be responsible for the use of the Services by minors.
+Giving by a parent or legal guardian consent to the registration of their child in order to use the Services is tantamount to the child's acceptance of the Terms of Use of the Services.
+10 What intellectual property rights are related to our Services and Content?
+This section provides information on your rights in relation to our Services and Content, and our Content Uploader Terms and Conditions.
+10.
+1 The Services and Content are protected by national and international laws and treaties.
+Except as expressly provided otherwise in these Terms, we, our licensees and licensors reserve intellectual property rights (as defined below) to the Services and Content.
+The duplication or reproduction of these elements in any way and for any purpose without our prior consent is prohibited.
+"Intellectual Property Rights" means patents, invention rights, copyrights and related rights, trademarks, trade names, related rights, publicity rights, trade secrets, domains, rights to other trade designations, goodwill rights or the right to withdraw. legal action in connection with unlawful use of the brand, rights resulting from the provisions on combating unfair competition, design rights, rights to computer software, rights to databases, rights to topography, moral rights, rights to confidential information (including know-how how and trade secrets) and all other intellectual property rights, whether registered or not, including applications for the grant of such rights, as well as their renewal or extension, and any similar or equivalent rights or forms of protection elsewhere in world.
+10.
+2 The User has the right to submit reviews, comments, suggestions, suggestions, materials and opinions within or outside the Services ("Submitted Content").
+We appreciate this form of engagement, however, you acknowledge that we have no obligation with respect to Uploaded Content that has not been requested by us, and in particular we are under no obligation to accept, analyze, review, or return to Users your Uploaded Content or to acknowledge receipt of your Uploaded Content.
+You acknowledge that products, services and functionalities developed or published by us may appear similar or the same as the Content you Upload, not requested by us.
+11 What are the conditions for creating / posting Content on our Services?
+This section describes the different types of content that you can create, post and share on our Services, and the related rights you grant to us and other users.
+Ubisoft offers you the ability to: (i) create content that may or may not be the subject of any rights ("User Generated Content" or "UGC") by using tools or in some cases also Content that Ubisoft makes available to you on certain Services , and (ii) publish these UGCs on the Services or on other websites or other media under the conditions set out below.
+If you create a UGC, you agree to be bound by the provisions of these Terms at all times during and after the creation of the UGC.
+These Terms will continue to apply even after your Account is deleted.
+11.
+1 UGC derived from pre-existing Ubisoft Content:
+You acknowledge that UGCs may be developed and created using tools or based on pre-existing Ubisoft Content, such as, without limitation, titles, fictional characters, names, themes, objects, decorations, costumes, effects, texts, dialogues, slogans, places, characters, diagrams, concepts, designs, graphics, animations, sounds, musical compositions, choreographies and other performances, videos, audiovisual effects, user-friendly features and other elements of the game or Services.
+In this respect, User agrees that Ubisoft will become the sole owner of all UGC-related rights that User will create from pre-existing Ubisoft Content as soon as they arise.
+By accepting these Terms, the User agrees to irrevocably transfer to Ubisoft, free of charge and without limitation, all rights that the User may have in relation to UGC, including, but not limited to,
+trademark rights, patents, trade secrets, copyrights, related rights and related privacy rights, in order to allow Ubisoft to freely exercise the following rights, including but not limited to:
+1.
+the right to reproduce, permanently or temporarily, in any way or form, by all known or as yet unknown means, in particular:
+The right to connect UGC in whole or in part with all Ubisoft products and Services;
+The right to upload and download, display, perform, transmit or store in any way, in any place and on any medium, the UGC and all products containing all or part of the UGC;
+The right to organize, correct, develop, translate, digitize, encode or in any other way modify the UGC and to disseminate the results of any of the above activities, by any means and on all existing or future media;
+The right to make copies of all or part of UGC and all products containing all or part of UGC, including modified or translated versions, in the number of copies that Ubisoft decides, in any way and on all media (especially digital media, CD, CD- ROM, DVD, game cartridges, mobile phones, PDAs, Internet, etc.);
+The right to market, for remuneration or free of charge, and to distribute (including rental, sale and lending) all or part of the UGC, including modified or rearranged versions, and all products incorporating UGC, by any process and on any known or as yet unknown media;
+The right to reproduce the UGC in any way, in any form and on any medium as may be necessary for the exercise of the rights of use set out below;
+2.
+the right to represent and broadcast UGC in all places accessible to the public and in all private places, by any means and by any means and by any known or unknown means (in particular by means of a terrestrial station, satellite and cable transmission, via optical fibers, payable or free television, computer, electronic means, Internet networks, ADSL, video platforms, Internet television and video streaming, streaking, MMDS TV, TV for mobile phones, catch-up TV);
+3.
+the right to use UGC in any way for commercial or non-commercial purposes, for presentation, promotion and advertising for all Ubisoft products and Services;
+4.
+the right to make the UGC or any other product containing UGC available to the public to the fullest extent possible, in particular by transfer, license or any agreement, temporarily or permanently, in return for a fee or free of charge, by any means known or unknown at the present time, in particular via the Internet or any digital network, pay-TV, pay-per-play or television broadcasting systems, in general across all media or networks (especially analog and digital networks and media, telecommunications networks and media, and computer networks and media);
+5.
+the right to produce or commission the production of any new products or services under the UGC or under any UGC product reproduced as is or modified by Ubisoft or by any selected third party;
+6.
+the right to use UGC with other products containing UGC, i.e.
+especially:
+The right to use or use all or part of UGC and any products containing UGC in any form, with or without being adapted for use as commercial goods, in particular for the purpose of: publishing or producing books and comics, game guides or books based on for the script or graphics of the game or the Service, reviews, calendars, stationery, stickers, posters, office supplies, accessories for computers or game consoles, computer wallpapers, screen savers, figurines, games, toys in any materials, fabrics, dishes, drawings , advertising materials (in particular e-mails displayed on the Internet), audio and visual reproductions and performances (in particular films, reports, documentaries, stage shows, amusement parks, etc.),
+and all other objects that incorporate all or part of the UGC in their content or in the form of decoration, packaging or presentation;
+· The right to produce "sequels", "prequels", "add-ons", spin-offs and convert any game or other content containing UGC on any platform, in any language and in any form at Ubisoft's option;
+and, in general, all author's rights in relation to his ownership of the work.
+This transfer of rights takes place worldwide and during the period of protection of each UGC under applicable law.
+Ubisoft, or any third party to whom rights relating to the UGC have been transferred pursuant to this article, may file or register any claims for intellectual property rights relating to the UGC on its own behalf in any country in the world.
+You agree to (i) sign and deliver any necessary documents required by Ubisoft or by the party to which the rights have been transferred for all registration purposes, and in particular to sign any request / request, deed of ownership transfer or other document that may be necessary to enable Ubisoft or a third party to whom the registration rights have been transferred and to obtain patents, proprietary rights, trademark protection and other forms of protection relating to the UGC and to be regarded as the holder of all proprietary rights and proprietary rights relating to UGC and (ii) to provide all necessary assistance to Ubisoft or a third party to whom the rights have been transferred, at the expense of Ubisoft or the said third party, in any action, procedure or any step aimed at applying the provisions of this article, whether in Poland or abroad .
+In the event of a judgment by a competent court that all or some of the rights relating to the UGC created by you cannot be effectively transferred to Ubisoft pursuant to section 11.
+1 above, the User grants Ubisoft, free of charge, permanently or for the entire duration of the legal protection of UGC under intellectual property law, an irrevocable and transferable right to use, reproduce, display, alter, display, distribute and generally use the UGC in accordance with Article 11.
+1, by any means, on all known or unknown as yet media, for all purposes (both commercial and non-commercial) around the world, without the need to mention the User as the creator of the UGC, subject to technical or operational limitations.
+Likewise, the User grants to other Users of the Services and games in question, free of charge, permanently or for the entire duration of the legal protection of the UGC under intellectual property law, the non-exclusive, irrevocable right to use the UGC created and published by the User, in order to use the games and Services offered by Ubisoft , worldwide, as permitted by Ubisoft, including but not limited to the use, display, copy, adaptation and modification of these UGCs and the creation of derivative works on the Services.
+This license will also survive any partial termination of the license granted to you by Ubisoft to use the Services or these Terms.
+Your use of UGC based on pre-existing Ubisoft Content:
+You agree not to use the UGC developed on the basis of the pre-existing UBISOF Content in a manner inconsistent with the strict terms and conditions set out below.
+Ubisoft hereby grants you a non-exclusive and non-transferable personal license, revocable at any time, to use UGC created by you based on your pre-existing Ubisoft Content, worldwide and for the duration of your use of the Services, to:
+recording them on the console, computer, mobile phone or other medium of the User used to use the Services,
+passing them on to the User's friends who use the Service, and
+upload and use on the Service or other Ubisoft services or partner network authorized by Ubisoft.
+Other Users of the Service grant the User a personal license, at any time revocable, non-exclusive and non-transferable, to use the UGCs they have created under the Service in accordance with these Terms.
+The terms of such a license are set out in Article 6.
+4 above.
+11.
+2 UGC depicting the image:
+If the UGC that the User has created and published displays his image, the User grants Ubisoft the right to use his image to the extent that Ubisoft continues to provide the Service with that image, worldwide and for the duration of the Services in question.
+For this purpose, the User agrees that the UGC containing the User's image may be used by Ubisoft under the conditions described in Article 11.
+1.
+If the UGC that you have posted on the Services portrays any other person, you warrant that you have obtained prior consent from that person to use that person's image by Ubisoft in accordance with this Section 11, and you agree to pay full compensation for any damages that may be incurred by Ubisoft in the event of a legitimate action, complaint, action or claim by any third party relating to Ubisoft's use of that person's image.
+11.
+3 UGCs not derived from pre-existing Ubisoft Content:
+For any UGC created by you through the Services, irrespective of any pre-existing Ubisoft Content, you agree to grant Ubisoft and its licensees, distributors, agents, agents and other authorized Users, free of charge, a non-exclusive, irrevocable, transferable (in whole or in) license. in part) and unlimited in time (or valid for the entire period of legal protection of UGC in accordance with intellectual property law) for the use of UGC, its copying, expression, transmission, highlighting, displaying, distribution, indexing, adaptation, correction, development, translation, digitization, coding and other modifications (including without limitation, adding comments, removing texts and music or replacing them with words and music chosen by Ubisoft), creating derivative products based on UGC, in particular commercial goods (as defined in article 11.
+1 above), their presentation and other use, in whole or in part, on all carriers and using any methods and processes known and unknown at the present and around the world, for any purpose, including, without limitation, entertainment, information, advertising, promotion and sale of all Ubisoft Services or products for commercial or advertising purposes ("UGC license").
+It is hereby accepted that the UGC license covers the granting of a license to all property rights of the User relating to UGC, its trademarks, patents, trade secrets and other intellectual and related intellectual property rights and rights contained in UGC.
+11.
+4 In all cases:
+the User's use of any UGC for commercial purposes is completely prohibited;
+the ability to create a UGC or publish any Content by the User is part of the Service offered by Ubisoft, which does not entitle the User to any remuneration, including where UGC is made available to other Users of games or Services;
+The User assures Ubisoft that the Content (UGC or other) that the User publishes while using the Service does not infringe the rights of any third party (image rights, privacy rights or other rights), in particular it does not constitute an infringement of property rights and does not constitute an act unfair competition, including where content is used by Ubisoft in the provision of the Services;
+The User undertakes not to create, use, share and publish as part of the Service any element (text, image, sound, film, etc.),
+which may be considered at any time to be manifestly illegal, aggressive, defamatory, pornographic, obscene, vulgar, racist, may incite hatred, pornographic, cruel or posing a threat to public order;
+You are personally responsible for the creation, use and publication of your Content on the Service and you agree to compensate Ubisoft and, where applicable, its licensors, licensees, assigns and successors, and their employees, officers and directors (collectively, "partners" ) in the event of an appeal, lawsuit, claim or petition against Ubisoft or its Affiliates as a result of the use or publication of User Content.
+Ubisoft reserves the right to defend itself at its own expense and retains sole control of any action that may lead to compensation for you.
+You agree to fully cooperate with Ubisoft in such cases, if requested to defend your interests.
+The User understands and agrees that, except in the event of Ubisoft's withdrawal of UGCs that have been posted by the User on the Service after Ubisoft has been informed of UGC's manifest unlawfulness or breach of publicity or privacy or other rights third parties, UGC will be associated with a given user name and this data will be available to all users of the services throughout the duration of the Service.
+To the extent permitted by applicable law, and if moral and other similar rights (hereinafter referred to as "moral rights") exist in relation to UGC and are not the exclusive property of Ubisoft, the User agrees not to invoke or exercise any moral rights in UGC in relation to Ubisoft or its Affiliates and other authorized Users and is responsible for obtaining the same obligation from another person who may exercise the moral rights of UGC.
+12 Can you take part in our tests?
+This section describes the general conditions for participating in our tests (including alpha, beta, and playability tests).
+SO.
+We have the right to offer you participation in testing the Services or Content that has not yet been released (e.g.
+in alpha, beta, playability tests, etc.)
+in order to detect errors and / or improve their operation ("Beta Tests").
+If you are eligible and agree to participate in Beta Testing:
+a) The user will first be required to sign a confidentiality agreement and other relevant documents.
+b) You acknowledge that the beta version of the Content and Services ("Test Content") is confidential information that belongs to us.
+c) The user may be asked to describe his impressions and suggestions.
+All impressions and suggestions made during the Beta Testing will be our sole property.
+d) Test content is provided to you as is and as available, without warranty of any kind, either express or implied.
+You acknowledge that your use of the Test Content is at your own risk, that it may contain errors, and that Beta Test progress and data may be deleted at any time.
+e) You acknowledge that any breach of your Beta Testing obligations may result in irreparable damage to us and that this entitles us to take steps to prevent breach or risk of breaching your obligations or to obtain compensation for any damage caused, without affect the right to close the User's Account.
+13 Do we monitor our Services?
+This section explains how we may monitor our Services, including but not limited to reviews and comments posted by users in the Forums or User Generated Content.
+We do not assume any responsibility for, and do not endorse, opinions, advice, and / or recommendations posted or submitted by users through the Services, including in Public Forums.
+Users who post them are solely responsible for such messages.
+Subject to applicable law, we are under no obligation to monitor Content, User Generated Content, messages or any other information that users provide through the Services.
+We have the right, but not the obligation, to supervise, monitor and moderate our Services, including on home pages and Forums.
+We make no guarantees as to the validity, originality, correctness or usefulness of any User Generated Content, messages and / or Content.
+14 Are our Services provided by third parties and does the Services display third party content?
+This section applies to the provision of our Services through third party platforms (consoles, streaming services, etc.)
+and displaying third party content in the form of advertisements as part of our Services.
+SO.
+Some Services are available on third party websites / platforms (i.e.
+console producers, streaming services, etc.).
+In the case of using the Services via such websites / platforms, the user is obliged to comply with their regulations.
+In the event of a conflict with these Regulations, the regulations applicable to third party websites / platforms shall prevail.
+We also have the right to display certain third party products, services and / or content by placing promotional links, banner ads, or other advertising or promotional items on our Services.
+We can also cross-promote in cooperation with a partner of our choice.
+In both cases, we assume no liability for third party products, services and / or content.
+15 What are the rules for determining liability and compensation in the event of a dispute?
+This section describes the limitations and exclusions of our liability and the circumstances in which you may be indemnified by us or you may be required to indemnify us.
+15.
+1 LIMITATION AND DISCLAIMER
+The user expressly acknowledges that the use of the services and games is at his own risk.
+Services are provided "as is".
+Ubisoft makes no commitments regarding the consequences of using the services in terms of compliance, accuracy, completeness or reliability.
+Ubisoft does not warrant that the services and games, including servers and software necessary for their operation, will be free from interruptions or bugs, viruses or other harmful elements, or that bugs, viruses or other harmful elements will be corrected.
+Finally, Ubisoft does not guarantee that the information, content or items available through the services and games are accurate, complete or up-to-date.
+In particular, Ubisoft does not exhaustively check content of any kind, especially ugc (as defined in article 11), or words that the user or other users publish on the services, or the actions of the user on the services.
+Therefore, Ubisoft does not guarantee and shall not be liable to you in relation to your own actions or the actions of other users of the services.
+On general terms, the User bears the risk related to the use of the services.
+The risk of loss of time and effort, loss of data (especially data related to the game), errors or loss of commercial information or other information resulting from the use of services and games.
+The user is solely responsible for any damage caused to Ubisoft, its partners, other users of the game and services or other natural or legal persons as a result of using all or part of the services or the game in violation of the law or obligations provided for in these terms and conditions on general terms.
+In the event of a breach of legal or contractual obligations by the user, Ubisoft reserves the right (i) to delete the account and terminate the license to use the games and services and (ii) to take legal action under civil or criminal liability to stop the breach and obtain compensation for losses.
+In particular, but not limited to, Ubisoft reserves the right to bring legal action against any user who has intentionally damaged or attempted to damage the service, or has interfered with or assisted in the legitimate operation of the service.
+In justified cases, Ubisoft reserves the right to terminate some or all of the available services at any time, upon notice
+You acknowledge and agree that, to the extent permitted by law, in the event of a dispute with Ubisoft or its licensors, you may (i) stop using the services and delete your account, and (ii) take legal action to obtain damages for losses.
+Additionally, subject to applicable law, Ubisoft's full liability will be limited to the replacement of paid items that have been acquired by the user, and which will be deemed useless by Ubisoft after analyzing the user's claim, for the same amount of items selected by Ubisoft. .
+Ubisoft, including its licensors, licensees, partners and successors, and their employees, managers or directors (collectively, collectively, "associates"), are liable to you on a general basis.
+Notwithstanding the foregoing, the provisions of this Section 15 shall in no way limit Ubisoft's liability to you in the event of false statements or death or personal injury caused by Ubisoft's negligence.
+15.
+2 WARRANTY AND INDEMNIFICATION
+The User is generally responsible for the breach of these Terms and for the consequences of such breach towards Ubisoft.
+This applies in particular to the UGC created by the User as part of the services.
+Without limiting the general nature of the above provision, the User undertakes to indemnify Ubisoft and indemnify him from liability in the event of improper or unlawful use of the Account, including illegal or misuse by an unauthorized person to use the User Account.
+You agree to be personally responsible for your use of the Service and all communications and activities on the Services.
+Ubisoft reserves the right to accept responsibility, at its own expense, for the defense and control of any other event in which the User would normally be obligated to provide it.
+In such event, the User is no longer under any obligation to ensure Ubisoft will act in this case.
+The provisions of this article will survive any termination of these Terms or the deletion of your Account.
+16 Is there any other information that the user should read?
+This section provides additional information regarding the relationship between us and you, including changes to the Terms and Conditions, conciliation in consumer disputes, applicable law and jurisdiction, and contact details.
+SO.
+See below for other general information regarding these Terms and Conditions.
+If the Regulations do not contain the information sought by the user, they can be found at https://legal.ubi.com.
+16.
+1 Amendments to the Regulations.
+We have the right to amend these Terms and Conditions at any time for security, legal, best practice and / or regulatory reasons.
+We do not use this right to make significant changes to the Terms and Conditions that affect your rights without giving you the opportunity to accept the changes.
+If the user does not accept the changes to the Regulations, the user should close his Account in accordance with the procedure set out in point
+8.
+1.
+The User should follow the changes to the Regulations on an ongoing basis, as they are binding on him.
+Using the Services after the amendments to the Regulations come into force is tantamount to accepting the amendments to the Regulations.
+16.
+2 Severability.
+If any court or competent authority finds any provision of these Regulations (or part of any provision) invalid, illegal or unenforceable, this provision or part of it should be deemed deleted to the extent necessary, which will not prejudice the validity or enforceability of the remaining provisions of the Regulations.
+If a provision found to be invalid, illegal or unenforceable would be valid, legal and enforceable after deletion of part of it, with the minimum change required for its legality, validity and enforceability, this provision will remain in effect reflecting our original intentions.
+16.
+3 No Waiver.
+A waiver of any rights or remedies may only be made by the signing of a written declaration to this effect by us and by the user.
+Failure to exercise or untimely exercise by us any right or legal remedy provided for in the Regulations or the law does not constitute a waiver or waiver of any other right or remedy and does not exclude or limit the possibility of future exercising this right or remedy or any other right or legal remedy.
+The single or partial exercise of a right or remedy does not exclude or limit the future recourse to that right or remedy or any other right or remedy.
+16.
+4 Entire Agreement.
+a) By acceding to the Regulations, neither party has relied on and does not rely on any representations, assurances or guarantees ("Statements") of any person other than those expressly described in these Regulations.
+b) Each party acknowledges that it is only entitled to such rights and remedies arising out of or in connection with the Statements that relate to breach of contract.
+c) These Terms and Conditions and all rules and instructions regarding the Service published online constitute the entire agreement between the parties with respect to the subject matter governed by the Terms and Conditions and supersede any prior or contemporaneous arrangements, negotiations and agreements of the parties, both written and oral.
+d) Nothing in this section shall limit or exclude a party's liability for fraud or making false statements.
+16.
+5 Dispute resolution.
+Alternative dispute resolution.
+In the event of a dispute or claim related to these Regulations, the European Commission provides a platform that facilitates out-of-court settlement of disputes between consumers and entrepreneurs, available at: https://ec.europa.eu/consumers/odr/.
+Law and jurisdiction.
+These Terms and Conditions and the Account / Accounts are governed by Polish law.
+16.
+6 Force majeure.
+Under these Regulations, we shall not be liable in any way for non-performance or untimely performance of our obligations or activities, if it is caused by an act, event, omission or accident beyond our control, in particular a strike, failure of the telecommunications network, natural disaster, warfare, riots, outbreaks of pandemics, deliberate damage to property, legal or government ordinance, accident, fire, flood, or subcontractor default.
+16.
+7 Contact / Customer Support.
+The content of the Regulations is available at https://legal.ubi.com.
+If you have any questions about these Terms, Services or Content, please contact us at: https://support.ubi.com.
+THESE TERMS AND CONDITIONS APPLY ONLY TO THE EXTENT PERMITTED BY LAW.

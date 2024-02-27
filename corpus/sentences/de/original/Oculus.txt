@@ -1,0 +1,362 @@
+Oculus-Nutzungsbedingungen
+Letzte Aktualisierung: 11. April 2022
+Diese Nutzungsbedingungen gelten für dich, wenn du für den Zugriff auf Oculus-Produkte ein Oculus-Konto verwendest.
+Wenn du dein Facebook-Konto nutzt, um auf Oculus-Produkte zuzugreifen, lies dir die Ergänzenden Oculus-Nutzungsbedingungen und die Facebook-Nutzungsbedingungen durch, die für deine Nutzung von Oculus-Produkten gelten.
+Du erklärst dich damit einverstanden, dass die Oculus Store-Nutzungsbedingungen ab dem Datum ihres Inkrafttretens für deine Käufe und Downloads aus dem Oculus Store gelten.
+DURCH ANNAHME DIESER NUTZUNGSBEDINGUNGEN ODER NUTZUNG UNSERER OCULUS-PRODUKTE MIT EINEM OCULUS-KONTO ERKENNST DU AN, DASS ES SICH HIERBEI UM EIN RECHTSVERBINDLICHES INSTRUMENT HANDELT, UND DU STIMMST ZU, AN DIE HIERIN DARGELEGTEN BEDINGUNGEN GEBUNDEN ZU SEIN.
+BITTE LIES DIR DIESE NUTZUNGSBEDINGUNGEN VOLLSTÄNDIG DURCH.
+WENN DU MIT DIESEN NUTZUNGSBEDINGUNGEN NICHT EINVERSTANDEN BIST, DANN GREIFE NICHT AUF UNSERE OCULUS-PRODUKTE ZU BZW.
+NUTZE SIE NICHT.
+DIESE NUTZUNGSBEDINGUNGEN ENTHALTEN WICHTIGE BEDINGUNGEN, DIE DICH UND DEINE NUTZUNG DER OCULUS-PRODUKTE BETREFFEN; UNTER ANDEREM, WENN DU DEM NICHT WIDERSPROCHEN HAST, EINE BESTIMMUNG ÜBER VERBINDLICHE SCHIEDSVERFAHREN FÜR STREITFÄLLE (AUSGENOMMEN SIND BESTIMMTE KONKRET ERWÄHNTE ANSPRÜCHE IN BEZUG AUF DAS GEISTIGE EIGENTUM SOWIE BAGATELLFORDERUNGEN) SOWIE EIN VERZICHT AUF BESTIMMTE RECHTE HINSICHTLICH GESCHWORENENVERFAHREN BZW.
+SAMMELKLAGEN.
+BITTE LIES DIR DEN ABSCHNITT „BEILEGUNG VON STREITFÄLLEN“ (ABSCHNITT 19) VOLLSTÄNDIG DURCH.
+DARÜBER HINAUS KÖNNEN BESTIMMTE BEDINGUNGEN FÜR NUTZER MIT WOHNSITZ AUSSERHALB DER USA GELTEN.
+LIES DIR BITTE ABSCHNITT 27 DURCH, UM ZU PRÜFEN, OB DIESE BEDINGUNGEN FÜR DICH GELTEN.
+DU BESTÄTIGST, DASS DU NACH DER RECHTSORDNUNG DEINES WOHNSITZES GESETZLICH VOLLJÄHRIG BIST ODER, FALLS DU EIN ALTER ZWISCHEN 13 JAHREN (BZW.
+14 JAHREN, WENN DU IN SÜDKOREA WOHNST) UND DER GESETZLICHEN ALTERSGRENZE FÜR VOLLJÄHRIGKEIT HAST, DASS DU DIE OCULUS-PRODUKTE UNTER BEAUFSICHTIGUNG DEINES ELTERNTEILS ODER ERZIEHUNGSBERECHTIGTEN NUTZT, DER ZUSTIMMT, AN DIESE NUTZUNGSBEDINGUNGEN GEBUNDEN ZU SEIN.
+STELLE SICHER, DASS DU DIR DIESE NUTZUNGSBEDINGUNGEN ZUSAMMEN MIT DEINEM ELTERNTEIL ODER ERZIEHUNGSBERECHTIGTEN DURCHLIEST, DAMIT IHR BEIDE SÄMTLICHE DEINER RECHTE UND PFLICHTEN VERSTEHT.
+Facebook(„Facebook,“ „wir,“ „uns“ oder „unser/e/em/en/er/es“) bietet Hardware- und Softwareprodukte für Virtual, Mixed und Augmented Reality („XR“) an und betreibt eine Plattform unter der Marke Oculus, über die Nutzer Inhalte herunterladen, damit interagieren und Inhalte senden sowie Serviceleistungen im Zusammenhang mit unseren XR-Produkten erhalten können (wie in Abschnitt 1 näher beschrieben, die „Oculus-Produkte“).
+Wenn du deinen Wohnsitz in der Europäischen Region hast (wie unter https://store.facebook.com/legal/quest/territories/ definiert), bedeutet „Facebook“ die juristische Person Meta Platforms Limited.
+Wenn du deinen Wohnsitz woanders hast, bedeutet „Facebook“ die juristische Person Meta Platforms Inc.
+Diese Nutzungsbedingungen („Nutzungsbedingungen“) gelten für deinen Kauf und deine Nutzung jeglicher Oculus-Produkte sowie für den Zugriff auf diese.
+Diese Nutzungsbedingungen verändern in keiner Weise die Bedingungen irgendeiner anderen Vereinbarung, die du eventuell mit Facebook für Produkte, Dienste oder andere Dinge geschlossen hast.
+Wenn du die Oculus-Produkte im Auftrag eines Unternehmens nutzt, versicherst und gewährleistest du, dass du autorisiert bist, diese Nutzungsbedingungen im Auftrag dieses Unternehmens anzunehmen und dass dieses Unternehmen zustimmt, uns gegenüber verantwortlich zu sein, wenn du bzw. dieses Unternehmen gegen diese Nutzungsbedingungen verstößt.
+Wir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit und nach unserem alleinigen Ermessen zu ändern oder zu modifizieren.
+Sollten wir Änderungen an diesen Nutzungsbedingungen vornehmen, werden wir dich über solche Änderungen wie angemessen in Kenntnis setzen, beispielsweise indem wir eine E-Mail-Benachrichtigung an die von dir angegebene Adresse senden und/oder einen Hinweis über die Oculus-Produkte bereitstellen.
+Wenn wir eine administrative Änderung vornehmen, können wir darauf hinweisen, indem wir das Datum „Letze Aktualisierung“ am Anfang dieser Nutzungsbedingungen aktualisieren.
+Durch deine weitere Nutzung der Oculus-Produkte bestätigst du deine Annahme der geänderten Nutzungsbedingungen.
+Solltest du den geänderten Nutzungsbedingungen nicht zustimmen, musst du deine Nutzung der Oculus-Produkte beenden und dein Konto löschen (https://secure.oculus.com/my/privacy).
+Wir raten dir, die Nutzungsbedingungen von Zeit zu Zeit durchzulesen, um sicherzustellen, dass du die Bedingungen verstehst, die für deinen Zugriff auf die bzw. für deine Nutzung der Oculus-Produkte gelten.
+1. Oculus-Produkte
+Es ist unsere Mission, den Menschen die Möglichkeit zu geben, ungeachtet der physischen Entfernung bedeutungsvolle Interaktionen zu haben.
+Um diese Mission voranzutreiben, stellen wir dir die nachfolgend beschriebenen Oculus-Produkte bereit.
+Um diese Oculus-Produkte bereitzustellen, müssen wir deine personenbezogenen Daten so erfassen und verwenden wie es in unserer Datenschutzrichtlinie dargelegt ist; diese ist verfügbar unter https://store.facebook.com/legal/quest/privacy-policy-for-oculus-account-users/.
+    Wir stellen innovative Geräte, Inhalte und Systeme bereit.
+Wir bieten eine Vielzahl von physischen Waren, Plattformdiensten, Software, Webseiten, Apps und Inhalten an, die dir den Zugang zu XR-Welten und das Eintauchen in diese sowie den Erhalt von Diensten, die im Zusammenhang mit unseren Produkten stehen, ermöglichen.
+Wir verwenden die uns zur Verfügung stehenden Daten, um dir diese Produkte bereitzustellen und das XR-Ökosystem zu verbessern.
+    Wir stellen dir ein personalisiertes Erlebnis bereit.
+Dein Erlebnis mit den Oculus-Produkten ist anders als das jeder anderen Person.
+Beispielsweise kann jeder Nutzer von Oculus-Produkten berechtigt sein, Tausende von individuellen Inhalten zu sehen.
+Um dein Erlebnis zu personalisieren, nutzen wir die uns zur Verfügung stehenden Daten – beispielsweise Informationen über die von dir hergestellten Verbindungen, die von dir ausgewählten Auswahl- und Kontrollmöglichkeiten und die Dinge, die du teilst und tust.
+    Wir unterstützen dich beim Verbinden mit Menschen und Erlebnissen, die dir wichtig sind.
+Wir helfen dir dabei, Personen, Gruppen, Veranstaltungen und andere Erlebnisse, die dir wichtig sind, auf den von dir genutzten Oculus-Produkten zu finden und dich mit ihnen zu verbinden.
+Wir verwenden die uns zur Verfügung stehenden Daten, um dir und anderen Vorschläge zu unterbreiten – zum Beispiel zu besuchende Veranstaltungen sowie Personen, die du möglicherweise als Freund/in hinzufügen möchtest.
+Durch stärkere Bindungen entstehen bessere Gemeinschaften.
+Deshalb sind wir der Ansicht, dass unsere Oculus-Produkte am nützlichsten sind, wenn Personen mit Personen, Gruppen und Erlebnissen verbunden sind, die sie interessieren.
+    Wir geben dir die Möglichkeit, dich auszudrücken und dich über dir wichtige Dinge auszutauschen.
+Es gibt viele Möglichkeiten, um dich in den Oculus-Produkten auszudrücken und mit Freunden/Freundinnen, Familie und anderen zu kommunizieren – beispielsweise das Teilen von Fotos, das Erstellen von oder die Teilnahme an Veranstaltungen oder Multiplayer-Erlebnissen oder das Hinzufügen von Inhalten zu einer virtuellen Umgebung.
+Wir haben außerdem neue Möglichkeiten entwickelt (und erkunden sie noch weiter), wie Menschen Technologien wie erweiterte Realität nutzen können, um ausdrucksstärkere und ansprechendere Inhalte über die Oculus-Produkte zu teilen.
+    Wir helfen dir, Inhalte, Produkte und Dienste zu entdecken, die dich möglicherweise interessieren.
+Wir stellen dir Angebote und sonstige Marketingmaßnahmen bereit, um dir dabei zu helfen, Inhalte, Produkte und Dienste zu entdecken, die von uns und den vielen Unternehmen und Organisationen angeboten werden, die unsere Oculus-Produkte nutzen.
+    Wir bekämpfen schädliches Verhalten und schützen und unterstützen unsere Gemeinschaft.
+Menschen können nur dann bedeutungsvolle Interaktionen haben, wenn sie sich sicher fühlen.
+Wir beschäftigen spezielle Teams und entwickeln fortschrittliche technische Systeme, um Missbrauch unseres Dienstes, schädliches Verhalten gegenüber anderen, Verstöße gegen unsere Bedingungen und Richtlinien sowie Situationen aufzudecken, in denen wir möglicherweise dazu beitragen können, unsere Oculus-Gemeinschaft zu unterstützen und zu schützen.
+Wenn wir von Inhalten oder Verhaltensweisen erfahren, die unsere Oculus-Produkte missbrauchen oder gegen unsere Nutzungsbedingungen und Richtlinien verstoßen, werden wir geeignete Maßnahmen ergreifen, z. B. indem wir Inhalte entfernen, den Zugriff auf bestimmte Features sperren, ein Konto deaktivieren oder Kontakt mit den Strafverfolgungs- bzw. Vollstreckungsbehörden aufnehmen.
+Wir teilen Informationen mit anderen Facebook-Unternehmen (https://www.facebook.com/help/111814505650678/), wenn wir Missbrauch oder schädliches Verhalten durch eine Person feststellen, die eines unserer Oculus-Produkte nutzt.
+    Wir nutzen und entwickeln fortschrittliche Technologien, um funktionsfähige Dienste für alle bereitzustellen.
+Wir nutzen und entwickeln fortschrittliche Technologien – wie künstliche Intelligenz und Systeme für maschinelles Lernen – damit wir jedem, der die Oculus-Produkte nutzt, einen besseren und nützlicheren Dienst anbieten können.
+Beispielsweise verwenden wir uns zur Verfügung stehende Informationen, um Modelle zu entwickeln, die für dich relevante Inhalte ermitteln.
+Außerdem entwickeln wir automatisierte Systeme zur Verbesserung unserer Möglichkeit, missbräuchliche und gefährliche Aktivitäten, die unserer Gemeinschaft und der Integrität unserer Oculus-Produkte schaden könnten, zu ermitteln und zu entfernen.
+    Wir erforschen neue Möglichkeiten zur Verbesserung unserer Dienste.
+Wir beteiligen uns an Forschungen und arbeiten mit anderen zusammen, um unsere Oculus-Produkte zu verbessern.
+Eine Art, auf die wir dies tun, besteht in der Analyse der uns zur Verfügung stehenden Daten, um zu verstehen, wie die Menschen unsere Oculus-Produkte nutzen.
+    Wir stellen durchgängige und nahtlose Erlebnisse bereit: Unsere Produkte helfen dir dabei, die dir wichtigen Menschen, Gruppen, Unternehmen, Organisationen usw. zu finden und dich mit ihnen zu verbinden.
+Wir gestalten unsere Systeme so, dass dein Erlebnis über die verschiedenen von dir genutzten Produkte der Facebook-Unternehmen (https://www.facebook.com/help/195227921252400/) hinweg durchgängig und nahtlos ist.
+Beispielsweise helfen dir einige unserer Oculus-Produkte, dich mit deinen Freunden auf Facebook zu verbinden.
+    Wir ermöglichen einen globalen Zugriff auf unsere Oculus-Produkte: Damit wir unsere globalen Oculus-Produkte betreiben können, müssen wir Inhalte und Daten in unseren Rechenzentren und Systemen auf der ganzen Welt speichern und verteilen, also auch in Ländern außerhalb des Landes, in dem du wohnst.
+Diese Infrastruktur kann Facebook Technologies, LLC, Facebook Technologies Ireland Limited, Meta Platforms Inc., Meta Platforms Limited oder deren verbundenen Unternehmen gehören bzw. von diesen betrieben werden.
+2. Nutzungsberechtigung; Registrierung und Konto
+Die Oculus-Produkte sind nur für Nutzer gedacht, die mindestens 13 Jahre alt sind (bzw. 14 Jahre, wenn du in Südkorea wohnst).
+Jede Registrierung für die Oculus-Produkte bzw. deren Nutzung durch Personen unter 13 Jahren (bzw. 14 Jahren, wenn du in Südkorea wohnst) ist nicht autorisiert, erfolgt ohne Lizenz und verstößt gegen diese Nutzungsbedingungen.
+Du versicherst und gewährleistest, dass du (a) nicht auf der Liste der „Specially Designated Nationals“ („SDN-Liste“) der Exportkontrollbehörde des US-Finanzministeriums (Office of Foreign Assets Control – OFAC) geführt wirst, (b) nicht auf der Liste abgelehnter Personen oder Unternehmen des US-Handelsministeriums oder einer anderen US-Exportkontrollliste erscheinst, (c) kein IP-Proxying oder andere Methoden nutzen wirst, um deinen Wohnort zu verschleiern, (d) die Oculus-Produkte nicht nutzen wirst, wenn in deinem Land geltende Rechte bzw. Gesetze dich daran hindern, dies im Einklang mit diesen Nutzungsbedingungen zu tun, und dass (e) dein Recht zur Nutzung der Oculus-Produkte nicht bereits zuvor ausgesetzt bzw. gekündigt wurde.
+Um auf bestimmte Funktionen der Oculus-Produkte zuzugreifen bzw. um diese zu nutzen, wirst du eventuell aufgefordert, dich für ein Konto zu registrieren.
+Durch Erstellung eines Kontos stimmst du zu (i) genaue, aktuelle und vollständige Kontoinformationen bereitzustellen; (ii) die Sicherheit deines Passwortes zu wahren, dein Passwort nicht an andere Personen weiterzugeben und sämtliche Risiken eines nicht autorisierten Zugriffs auf dein Konto zu übernehmen; und (iii) uns umgehend unter https://www.facebook.com/whitehat/ zu informieren, wenn du Sicherheitsverstöße im Zusammenhang mit den Oculus-Produkten feststellst oder vermutest.
+3. Geräte; Software; und Updates
+Eventuell sind für den Zugriff auf die Oculus-Produkte und deren Nutzung bestimmte Geräte und Software erforderlich.
+Außerdem ist es eventuell erforderlich, dass wir einen Teil der Software, die du über die Oculus-Produkte erhältst, automatisch aktualisieren oder dir neue Software bereitstellen müssen, damit die Oculus-Produkte weiterhin ordnungsgemäß funktionieren; dazu können u. a. Fehlerbehebungen, Patches, verbesserte Features, fehlende Plugins und neue Versionen gehören.
+Durch Nutzung der Oculus-Produkte stimmst du solchen automatischen Aktualisierungen zu.
+Wir behalten uns das Recht vor, nach unserem alleinigen Ermessen und, soweit dies technisch machbar ist, deinen Zugriff auf die Oculus-Produkte bzw. deine Fähigkeit zu deren Nutzung zu sperren, wenn diese Oculus-Produkte nach unserer Ansicht ein Gesundheits- oder Sicherheitsrisiko darstellen oder gegen unsere Gemeinschaftsstandards (auch die Facebook-Regeln genannt) und den VR-Verhaltenskodex bzw. gegen Vereinbarungen, Gesetze, Vorschriften oder Richtlinien verstoßen.
+Wir übernehmen keinerlei Haftung oder Verantwortung, wenn wir uns dafür entscheiden, einen solchen Zugriff auf Teile bzw. die Gesamtheit der Oculus-Produkte bzw. deine Fähigkeit zu deren Nutzung zu entfernen, zu deaktivieren oder zu löschen.
+4. Deine Nutzung der Oculus-Produkte und -Inhalte
+4.1 Content and Software License.
+Soweit nichts anderes vereinbart wurde, gilt Folgendes: Wenn wir die Nutzung von Software, Inhalten, virtuellen Gegenständen oder sonstigen Materialien ermöglichen, die uns gehören bzw. die wir lizenziert haben („Software und Inhalte“), gewähren wir dir hiermit eine beschränkte, nicht-exklusive, nicht unterlizenzierbare Lizenz, auf die Software und Inhalte ausschließlich für persönliche und nicht-gewerbliche Zwecke zuzugreifen, sie zu installieren und zu nutzen – deine Einhaltung dieser Nutzungsbedingungen vorausgesetzt.
+Du wirst die Software und Inhalte nicht nutzen, kopieren, anpassen, modifizieren, dekompilieren, rückentwickeln, zerlegen, entschlüsseln, versuchen, den Quellcode davon abzuleiten, abgeleitete Werke davon anfertigen, verbreiten, lizenzieren, verkaufen, vermieten, übertragen, öffentlich anzeigen, öffentlich vorführen, übermitteln, streamen, senden oder auf sonstige Art und Weise nutzen, es sei denn dies ist von uns ausdrücklich gestattet oder ist nach geltendem Recht zulässig.
+Jedwede unberechtigte Nutzung der Oculus-Produkte ist strengstens verboten und führt zur Beendigung der in diesen Nutzungsbedingungen gewährten Lizenz.
+Außer den dir ausdrücklich gewährten Lizenzen und Rechten werden dir weder stillschweigend noch auf andere Weise Lizenzen oder Rechte erteilt.
+4.2 Oculus Runtime Software.
+Vorbehaltlich dieser Nutzungsbedingungen, einschließlich der in Abschnitt 4.1 dargelegten Lizenz, kannst du auf die Oculus Runtime Software („Runtime“) zugreifen, diese installieren und nutzen.
+Um deinen Spaß, deine Sicherheit und dein Gesamterlebnis durch unsere Oculus-Produkte zu maximieren, darf Runtime nur mit von uns genehmigten Hardware-Geräten sowie mit Software genutzt werden, die unter Verwendung des Oculus Rift Software Development Kit gemäß den Angaben im Lizenzvertrag zum Oculus Rift Software Development Kit entwickelt wurden.
+Darüber hinaus darfst du nur die jeweils aktuelle Version von Runtime verwenden.
+Du erkennst an, dass Runtime urheberrechtlich geschützte Informationen enthält, und dass du diese nicht an irgendeine andere natürliche oder juristische Person weitergeben darfst.
+4.3 Third Party Content.
+Deine Nutzung der von Dritten bereitgestellten Dienste, Apps oder Inhalte („Inhalte Dritter“), die über die Oculus-Produkte zur Verfügung gestellt werden, kann möglicherweise zusätzlichen Endbenutzer-Vereinbarungen unterliegen.
+Falls diese Vereinbarungen im Widerspruch zu den Bestimmungen in diesen Nutzungsbedingungen stehen, gelten diese Nutzungsbedingungen vorrangig.
+Facebook ist nicht verantwortlich oder haftbar hinsichtlich deines Zugriffs auf die Inhalte Dritter bzw. deren Nutzung oder in solchen Inhalten Dritter vorkommender Inhalte bzw. Funktionen.
+Deine Rechte bezüglich dieser werden ausschließlich im Rahmen einer Lizenz zwischen dir und dem Anbieter solcher Inhalte Dritter zur Verfügung gestellt.
+Auf keinen Fall gilt Facebook als Lizenzgeber bezüglich der Inhalte Dritter als derjenige, der irgendwelche Rechte zur Nutzung der Inhalte Dritter gewährt hat, der irgendwelche Verpflichtungen hinsichtlich der Inhalte Dritter übernommen hat bzw. der irgendwelche Zusicherungen oder Gewährleistungen im Hinblick auf die Inhalte Dritter abgegeben hat.
+Sollte dir bei deinem Erwerb von Inhalten Dritter keine Endbenutzer-Lizenzvereinbarung vorgelegt werden, gelten die folgenden Lizenzbedingungen für deine Nutzung solcher Inhalte Dritter: (a) Derjenige Dritte, der die Inhalte Dritter bereitstellt, (und nicht Facebook) ist der Lizenzgeber für solche Inhalte Dritter; (b) dieser Dritte gewährt dir ausschließlich für deine persönlichen und nicht-gewerblichen Zwecke eine beschränkte, nicht übertragbare Lizenz für den Zugriff auf die Inhalte Dritter und deren Nutzung, und (c) du darfst die Inhalte Dritter weder ganz noch teilweise verändern, dekompilieren oder zerlegen oder abgeleitete Werke davon erstellen oder Rechte an den Inhalten Dritter bzw. in Bezug auf diese unterlizenzieren; es sei denn, du bist von dem Dritten ausdrücklich autorisiert oder dies ist nach geltendem Recht zulässig.
+Wenn ein Anbieter von Inhalten Dritter gegen unsere Richtlinien verstößt, können wir diese Inhalte Dritter entfernen oder deaktivieren.
+Soweit nach geltendem Recht zulässig, übernehmen wir keinerlei Haftung oder Verantwortung für dieses Entfernen bzw. Deaktivieren von Inhalten Dritter.
+4.4 Trial Access to Oculus Products.
+Wir können kostenlose Testversionen oder andere eingeschränkte Versionen von Oculus-Produkten anbieten, damit du dir die Oculus-Produkte ansehen kannst, bevor du die Vollversion kaufst.
+Diese Versionen können eingeschränkte Funktionen aufweisen, die zulässigen Nutzungszeiten beschränken und sonstige Einschränkungen beinhalten.
+4.5 Verfügbarkeit von Oculus-Produkten nach dem Kauf; Updates.
+Einige Oculus-Produkte können für einige oder sämtliche ihrer Funktionen auf von Dritten bereitgestellte Dienste angewiesen sein.
+Solche Oculus-Produkte funktionieren möglicherweise nicht ordnungsgemäß oder werden völlig funktionsunfähig, wenn diese Dritten ihre Dienste einstellen.
+4.6 Support.
+Facebook ist für sämtliche Fragen zur Abrechnung im Zusammenhang mit dem Kauf von Oculus-Produkten sowie für den Support hinsichtlich der Oculus-Plattform verantwortlich.
+Facebook ist nicht verpflichtet, Support für Inhalte Dritter bereitzustellen.
+Bitte kontaktiere uns über das Support-Portal unter https://support.oculus.com, wenn du Hilfe benötigst.
+4.7 Availability.
+Die Oculus-Produkte und Inhalte stehen möglicherweise nicht in allen Staatsgebieten und Hoheitsbereichen zur Verfügung, und wir können die Nutzung aller oder einiger Oculus-Produkte und Inhalte in bestimmten Staatsgebieten und Hoheitsbereichen einschränken oder verbieten.
+4.8 Network Costs.
+Dein Netzanbieter stellt dir möglicherweise Gebühren für Datendienste oder irgendwelche anderen Gebühren von Drittanbietern in Rechnung, die während deiner Nutzung der Oculus-Produkte entstehen können, und du übernimmst die Verantwortung für solche Gebühren.
+Wenn du nicht der Rechnungszahler bist, gehen wir davon aus, dass du die Erlaubnis des Rechnungszahlers eingeholt hast.
+5. Kauf von Oculus-Produkten
+5.1 Purchasing Oculus Products from Oculus.
+Du darfst Oculus-Produkte nur für deine persönliche Nutzung oder als Geschenk kaufen, es sei denn, in diesen Nutzungsbedingungen wird ausdrücklich etwas anderes gestattet.
+Du darfst Oculus-Produkte von Oculus nicht zur gewerblichen Nutzung oder zum Weiterverkauf erwerben, wenngleich du die Oculus-Produkte nutzen kannst, um Inhalte, Software oder Apps, die für die Verbreitung durch Facebook und unsere verbundenen Unternehmen vorgesehen sind, zu entwickeln und zu testen.
+Wenn du eine Bestellung aufgibst oder einen Kauf tätigst, ist es erforderlich, dass du uns Informationen zur Verfügung stellst, wie beispielsweise deine Adresse und Rechnungsinformationen.
+Du versicherst und gewährleistest, dass alle derartigen Informationen korrekt sind, und du sicherstellen wirst, dass diese Informationen stets aktuell sind.
+Wir sind nicht verantwortlich oder haftbar für unrichtige Informationen bzw. für Informationen, die später veralten.
+Wir sind auch nicht verpflichtet, Bemühungen zu unternehmen, um die korrekten Kontakt- oder Versandinformationen zu ermitteln.
+Für die meisten Oculus-Produkte kannst du deine Informationen in deinen Kontoeinstellungen verwalten.
+Für Produktkäufe, die noch nicht versendet wurden, kannst du deine Informationen jederzeit vor dem Versand unter https://shop.oculus.com/history/ aktualisieren.
+Wir nehmen bis zur Bestellannahme (siehe unten) keine Zahlungen für Produktkäufe an.
+Nachdem du eine Bestellung aufgegeben hast, erhältst du möglicherweise eine Mitteilung von uns, in der wir den Erhalt deiner Bestellung bestätigen („Bestellbestätigung“).
+Beachte bitte, dass der Erhalt der Bestellbestätigung nicht bedeutet, dass deine Bestellung angenommen worden ist.
+Wir werden unsere Annahme deiner Bestellung bestätigen, indem wir dir eine Mitteilung zusenden, die bestätigt, dass die Bestellung bearbeitet bzw. die Waren versendet worden sind – sofern zutreffend („Bestellannahme“).
+Der Vertrag zwischen uns hinsichtlich der jeweiligen Oculus-Produkte kommt dann zustande, wenn wir dir die Bestellannahme senden.
+Bei jeglichen von uns (bzw. einem Kurierdienst) bereitgestellten Versanddaten bzw. -zeiten handelt es sich lediglich um Schätzungen, und wir garantieren sie nicht.
+Das Verlustrisiko bezüglich von dir gekaufter physischer Waren sowie die Verantwortung zur Versicherung der Waren gehen bei Lieferung der Waren auf dich über.
+Kein Teil dieser Nutzungsbedingungen beeinflusst deine gesetzlichen Rechte, physische Waren abzulehnen, wenn diese beschädigt oder fehlerhaft sind, wenn du sie erhältst.
+5.2 Pre-Orders.
+Vor der Einführung eines neuen Oculus-Produkts ist es eventuell möglich, Vorbestellungen aufzugeben.
+Der Preis des von dir vorbestellten Oculus-Produkts ist derjenige Preis, der dir zu dem Zeitpunkt genannt wird, an dem du deine Vorbestellung übermittelst.
+Dieser kann ggf. auch Steuern und Versandkosten enthalten.
+Die Aufgabe einer Vorbestellung garantiert nicht die Auslieferung eines Oculus-Produkts.
+Wenn das vorbestellte Oculus-Produkt für den Versand bzw. die Auslieferung bereit ist, werden wir dich kontaktieren, um dir deine Kaufbestätigung zukommen zu lassen (sofern zutreffend, inklusive Versandkosten und Steuern).
+Dies stellt die Bestellannahme dar.
+5.3 Our Right to Reject Your Order.
+Wir behalten uns das Recht vor, deine Bestellung jederzeit vor der Bestellannahme abzulehnen oder zurückzuweisen.
+In diesem Fall werden wir versuchen, dich zu benachrichtigen.
+Einige Gründe für eine Ablehnung sind u. a.: (a) Wir sind nicht in der Lage, dir das Oculus-Produkt zur Verfügung zu stellen, beispielsweise weil dieser Artikel nicht mehr verfügbar ist oder wegen eines Fehlers beim Preis an der Verkaufsstelle; (b) du lebst nicht in einem Land oder einer Region, von dem/der aus das Oculus-Produkt gekauft werden kann; oder (c) du bestellst mehr als die zulässige Höchstzahl an Oculus-Produkten.
+Wenn du bereits gezahlt hast, werden wir dir den vollen Betrag einschließlich jedweder in Rechnung gestellter Lieferkosten zurückerstatten.
+5.4 Your Right to Cancel or Return Physical Goods.
+Du kannst deine Bestellung bzw. Vorbestellung für physische Waren jederzeit vor dem Versand und der Bestellannahme stornieren.
+Nach dem Versand der Waren an dich hast du das Recht, innerhalb von 30 Tagen ab dem Datum deines Erhalts der Waren unseren Vertrag mit dir zu widerrufen und die Waren zurückzusenden.
+Dieses Recht gilt nicht für Waren, die benutzt worden sind bzw. deren Rücksendung von uns ausgeschlossen wurde.
+Hierzu gehören u. a. jegliche Gegenstände bzw. Waren, die gemäß deinen Anweisungen personalisiert oder verändert worden sind.
+Die Waren sind vollständig in der Originalverpackung zusammen mit dem entsprechenden Kaufnachweis zurückzusenden, und du trägst die Kosten für die Rücksendung der Waren an uns.
+Wenn wir bei der Rücksendung feststellen, dass die Waren benutzt oder beschädigt worden sind, dass Teile fehlen oder sich die Waren nicht in einem wiederverkaufsfähigen Zustand befinden, können wir eine Rücknahmegebühr in Höhe von 15 % berechnen oder auf andere Weise den Betrag deiner Rückerstattung reduzieren, um dieser Beschädigung, Nutzung bzw. den fehlenden Teilen Rechnung zu tragen.
+Um deine Bestellung zu stornieren oder deine Waren zurückzusenden, musst du uns deine Entscheidung mitteilen, indem du die Anweisungen unter https://support.oculus.com befolgst
+5.5 Content Transactions.
+Du kannst über die Oculus-Produkte möglicherweise digitale Inhalte kaufen.
+Außerdem kannst du möglicherweise zusätzliche oder verbesserte Funktionen oder Medieninhalte in bestimmten Oculus-Produkten kaufen (zusammen „App-interne Käufe“).
+Außer wenn dies in diesen Nutzungsbedingungen dargelegt ist, tragen wir keine Verantwortung für irgendwelche Transaktionen, die du mit einem Dritten in Bezug auf Inhalte oder App-interne Käufe Dritter durchführst, und wir übernehmen keine Haftung in Bezug auf Inhalte Dritter oder App-interne Käufe Dritter, die innerhalb von Inhalten Dritter vollzogen werden.
+5.6 Errors.
+Wir versuchen, so genau wie möglich zu sein und Fehler im Zusammenhang mit unseren Oculus-Produkten auszuschließen; dennoch sichern wir nicht zu oder gewährleisten nicht, dass jedwede Beschreibungen von Oculus-Produkten bzw. alle Preisangaben genau, vollständig, zuverlässig, aktuell bzw. fehlerfrei sind.
+Im Falle eines Fehlers behalten wir uns das Recht vor, einen solchen Fehler zu beseitigen und deine Bestellung entsprechend zu ändern (dazu gehört auch die Berechnung des richtigen Preises) oder die Bestellung zu stornieren und dir den in Rechnung gestellten Betrag zu erstatten.
+Wenn wir einen Preisfehler oder einen sonstigen wesentlichen Fehler in Bezug auf ein Oculus-Produkt feststellen, das noch nicht versendet oder ausgeliefert wurde, werden wir dich kontaktieren, um dich über diesen Fehler zu informieren und dir die Möglichkeit zu geben, den Kauf mit dem richtigen Preis fortzusetzen oder deine Bestellung zu stornieren.
+Wenn wir nicht in der Lage sind, unter Verwendung der von dir während der Bestellung bereitgestellten Kontaktangaben Kontakt mit dir aufzunehmen, so werden wir die Bestellung als storniert behandeln.
+5.7 Account.
+Du musst möglicherweise ein registrierter Nutzer sein, um einige Oculus-Produkte zu kaufen.
+Du bist für sämtliche Gebühren bzw. Kosten verantwortlich, die im Zusammenhang mit deinem Konto entstehen.
+Wir können versuchen, unbezahlte Gebühren bzw. Kosten einzutreiben, u. a. indem wir versuchen, dein Zahlungsinstrument mit zusätzlichen Kosten/Gebühren zu belasten, durch Einsatz von Inkassobüros sowie durch sonstige rechtliche Mittel.
+Solltest du dich entschließen, dein Konto zu kündigen, behalten wir uns das Recht vor, vorbehaltlich etwaiger Einschränkungen nach geltendem Recht, die vor der Kündigung angefallenen Gebühren, Zuschläge oder Kosten einzutreiben.
+Alle überfälligen bzw. rückständigen Konten müssen ausgeglichen sein, bevor wir dir erlauben, dich erneut zu registrieren.
+5.8 Virtual Items.
+Dein Kauf eines virtuellen Gegenstands oder von Spielwährung in den Oculus-Produkten stellt die Zahlung für eine beschränkte, nicht abtretbare Lizenz dar, auf solche Inhalte oder Funktionen in den Oculus-Produkten zuzugreifen bzw. sie zu nutzen.
+Virtuelle Gegenstände (einschließlich Figuren und deren Namen) oder Spielwährungen, die du in den Oculus-Produkten gekauft hast bzw. die dir dort zur Verfügung stehen, können nur in Verbindung mit den Oculus-Produkten genutzt werden, auf denen du sie erhalten hast bzw. wo sie infolge des Spielens durch dich entwickelt wurden.
+Diese Gegenstände sind nicht rückzahlbar oder erstattungsfähig, und sie können nicht außerhalb der Oculus-Produkte gegen Geld oder andere Wertgegenstände getauscht werden.
+Wir können virtuelle Gegenstände oder Spielwährung jederzeit modifizieren oder einstellen.
+5.9 Pricing and Payment.
+Wir akzeptieren verschiedene Zahlungsmethoden, einschließlich Kredit- und Debitkarten sowie Zahlungen über PayPal und Facebook Payments.
+Möglicherweise gelten zusätzliche Bedingungen deines Zahlungsanbieters.
+Durch Absenden einer Bestellung bzw. Vorbestellung bestätigst du, dass du zur Nutzung der angegebenen Zahlungsmethode autorisiert bist, und du autorisierst uns, deine Bestellung über diese Zahlungsmethode abzurechnen.
+Wenn du deine Zahlungsinformationen bereitstellst, autorisierst du uns (bzw. einen Dritt-Zahlungsabwickler), deine Zahlung sowie die zugehörigen Informationen zu verarbeiten und zu speichern.
+Je nachdem, wo du dich befindest bzw. wohin du die Oculus-Produkte versendet oder geliefert haben möchtest, kann Oculus einen Vertreter, ein Tochterunternehmen oder ein verbundenes Unternehmen (einschließlich Facebook Technologies Ireland Limited für Bestellungen außerhalb der USA und Kanada) zur Durchführung der Zahlung und des Versands einsetzen.
+Sollte die von dir genannte Zahlungsmethode nicht verifiziert werden können, ungültig oder auf sonstige Weise nicht angenommen werden können, können wir deine Bestellung aussetzen oder stornieren.
+Du bist für die Beilegung etwaiger Probleme verantwortlich, auf die wir bei der Durchführung deiner Bestellung stoßen.
+Preise können ohne Ankündigung geändert werden.
+Wir behalten uns das Recht vor, Bestellungen jederzeit und nach unserem alleinigen Ermessen abzulehnen oder zu stornieren.
+5.10 Taxes.
+Wenn dein Kauf bzw. deine Nutzung der Oculus-Produkte irgendeiner Art Nutzungs- oder Umsatzsteuer bzw. Zöllen oder sonstigen von staatlicher Stelle erhobenen Steuern oder Gebühren unterliegt („Steuern“), so können wir dir diese Steuern in Rechnung stellen.
+Die anfallenden Steuern können dir beim Checkout angezeigt werden.
+Du bist hinsichtlich deiner Nutzung der Oculus-Produkte für sämtliche fälligen Steuern verantwortlich.
+5.11 Stornierung von Inhalten; Rücksendungen.
+Alle Käufe von digitalen Inhalten sind endgültig, es sei denn, etwas anderes ist von Rechts wegen vorgeschrieben oder in unseren Rückerstattungsrichtlinien für Mobile-Content (https://www.oculus.com/legal/mobile-content-refund-policy/) und für Rift-Content (https://www.oculus.com/legal/rift-content-refund-policy/) dargelegt.
+Wir raten dir, gekaufte Inhalte unverzüglich herunterzuladen, zu installieren bzw. darauf zuzugreifen.
+Du stimmst zu, dass die Bereitstellung der digitalen Inhalte unmittelbar nach dem Abschluss deines Kaufs erfolgen kann, und erkennst an, dass du infolgedessen jedwede gesetzlichen Rechte verlierst, die dir möglicherweise bezüglich eines Widerrufs und des Erhalts einer Rückerstattung zustehen.
+In einigen Rechtsordnungen ist der Ausschluss oder der Verzicht auf gesetzliche Rechte von Rechts wegen untersagt, sodass dieser Verzicht auf gesetzliche Rechte unter Umständen nicht für dich gilt.
+Solltest du nicht in der Lage sein, die gekauften Inhalte herunterzuladen, zu installieren oder auf sie zuzugreifen, kontaktiere uns bitte über das Support-Portal unter https://support.oculus.com.
+6. Zulässige Nutzung
+Durch Zugriff auf die Oculus-Produkte bzw. deren Nutzung stimmst du zu, Folgendes nicht zu tun: (a) auf eine Art auf die Oculus-Produkte zuzugreifen bzw. sie zu nutzen, die andere Personen dabei stören, unterbrechen, negativ beeinflussen oder hindern könnte, die Oculus-Produkte in vollem Umfang zu genießen; dies sind u. a. verleumderische, belästigende, bedrohliche, intolerante, hasserfüllte, vulgäre, obszöne, pornographische oder auf sonstige Weise anstößige Verhaltensweisen oder Inhalte; (b) die Funktionen der Oculus-Produkte auf irgendeine Art zu beschädigen, zu deaktivieren, zu überlasten oder zu beeinträchtigen; (c) für illegale oder unberechtigte Zwecke auf die Oculus-Produkte zuzugreifen bzw. diese dafür zu nutzen oder dich an illegalen Aktivitäten bzw. Aktivitäten, die gegen diese Nutzungsbedingungen, die Gemeinschaftsstandards (auch die Facebook-Regeln genannt) und den VR- Verhaltenskodex bzw. gegen sonstige im Zusammenhang mit den Oculus-Produkten bereitgestellten Bedingungen oder Richtlinien verstoßen, zu beteiligen, sie zu befürworten oder zu unterstützen; (d) das Konto eines anderen Nutzers ohne dessen Autorisierung zu nutzen bzw. dies zu versuchen; (e) die Oculus-Produkte zu modifizieren, anzupassen, zu hacken oder zu emulieren; (f) Robot-, Spider-, Crawler-, Scraper-Dienste oder sonstige automatisierte Methoden oder Benutzeroberflächen zu nutzen, die nicht von uns für den Zugriff auf die Oculus-Produkte oder die Gewinnung von Daten bereitgestellt bzw. autorisiert wurden; (g) Filter, Sicherheitsmaßnahmen oder sonstige Features, die zum Schutz der Oculus-Produkte bzw. Dritter entwickelt wurden, zu umgehen bzw. dies zu versuchen; oder (h) unsere Rechte oder die Rechte unserer Nutzer oder von Dritten zu verletzen oder gegen sie zu verstoßen.
+7. Nutzerinhalte
+Unsere Oculus-Produkte können interaktive Features und Bereiche enthalten, in denen du Inhalte einreichen, posten, hochladen, veröffentlichen, per E-Mail verschicken, senden, auf sonstige Weise übermitteln bzw. mit ihnen interagieren kannst, wie u. a. Texte, Bilder, Fotos, Videos, Töne, Umgebungen der virtuellen Realität oder Features, Software und andere Informationen und Materialien (zusammen „Nutzerinhalte“).
+Sofern nichts anderes vereinbart wurde, beanspruchen wir keinerlei Eigentumsrechte an deinen Nutzerinhalten bzw. in Bezug auf diese.
+Wenn du Inhalte verwendest, die durch uns zustehende geistige Eigentumsrechte geschützt sind, und wir diese über unsere Oculus-Produkte zur Verfügung gestellt haben (z. B. von uns bereitgestellte Bilder, Designs, Videos oder Töne, die du zu von dir auf Oculus-Produkten erstellten oder geteilten Inhalten hinzufügst), behalten wir sämtliche Rechte hinsichtlich dieser Inhalte (aber nicht hinsichtlich deiner Inhalte).
+Indem du Nutzerinhalte über die Oculus-Produkte zur Verfügung stellst, gewährst du uns ein weltweites, nicht exklusives, übertragbares, gebührenfreies und vollständig unterlizenzierbares (d. h. wir können dieses Recht anderen gewähren) Recht, solche Nutzerinhalte im Zusammenhang mit den Produkten der Facebook-Unternehmen (https://www.facebook.com/help/195227921252400/) (vorbehaltlich zutreffender Privatsphäre-Einstellungen (https://secure.oculus.com/my/privacy/)) zu nutzen, zu kopieren, anzuzeigen, zu speichern, anzupassen, öffentlich aufzuführen und zu verbreiten.
+Dieses Recht endet, wenn du deine Nutzerinhalte oder dein Konto löschst; es sei denn, deine Nutzerinhalte sind mit anderen geteilt worden und diese haben die Inhalte nicht gelöscht.
+Du stimmst unwiderruflich sämtlichen Handlungen oder Unterlassungen durch uns oder durch von uns autorisierte Personen zu, die möglicherweise Urheberpersönlichkeitsrechte (oder entsprechende Rechte) in deinen Nutzerinhalten verletzen.
+Wenn Nutzerinhalte Musik enthalten, stimmst du unseren Musik-Richtlinien (https://store.facebook.com/legal/quest/music-terms/) zu.
+Du allein bist für die Nutzerinhalte verantwortlich, die du über die Oculus-Produkte zur Verfügung stellst, und du sicherst zu und gewährleistest, dass (a) du entweder der alleinige und ausschließliche Rechteinhaber in Bezug auf sämtliche von dir bereitgestellten Nutzerinhalte bist oder dass du alle Rechte, Lizenzen, Genehmigungen, Zustimmungen und Freigaben eingeholt hast, die erforderlich sind, um uns die in diesem Abschnitt dargelegten Rechte zu gewähren; (b) die Bereitstellung deiner Nutzerinhalte und unsere nachfolgende Nutzung solcher Nutzerinhalte nicht die Patent-, Urheber-, Marken-, Geschäftsgeheimnis-, Urheberpersönlichkeitsrechte oder sonstigen Eigentumsrechte bzw. Rechte am geistigen Eigentum oder Veröffentlichungs- oder Datenschutzrechte irgendeines Dritten verletzt, widerrechtlich verwendet oder gegen sie verstößt oder zu einem Verstoß irgendwelche geltenden Gesetze bzw. Vorschriften führt; und dass (c) deine Nutzerinhalte nicht gegen unsere Community-Standards (auch die Facebook-Regeln genannt) und die Richtlinie zum Verhalten in VR verstoßen.
+Wir stehen für keine Meinungen, Ansichten, Ratschläge oder Empfehlungen, die von Nutzern gepostet oder gesendet wurden, ein oder machen sie uns zu eigen.
+Facebook ist nicht für Nutzerinhalte verantwortlich bzw. haftbar, die über die Oculus-Produkte zur Verfügung gestellt werden.
+Außerdem sind wir nicht dazu verpflichtet, solche Inhalte zu prüfen, zu bearbeiten oder zu überwachen.
+Wir behalten uns jedoch das Recht vor und es liegt in unserem alleinigen Ermessen, Nutzerinhalte jederzeit und aus beliebigem Grund zu entfernen, zu prüfen oder zu bearbeiten, unter anderem Inhalte, die geistige Eigentumsrechte verletzen oder anderweitig gegen diese Nutzungsbedingungen verstoßen.
+Falls du ein Entwickler bist, der Nutzerinhalte bei oder in Verbindung mit den Oculus-Produkten einreicht, erklärst du dich damit einverstanden, dass unsere Vereinbarungen mit dir als Entwickler vorrangige Geltung vor diesem Abschnitt der Nutzungsbedingungen haben können.
+8. Datenrichtlinie
+Unsere Datenschutzrichtlinie, die unter https://store.facebook.com/legal/quest/privacy-policy/ verfügbar ist, legt dar, wie wir Daten behandeln; dazu gehört auch, wie wir Informationen erheben, verwenden und offenlegen.
+Darüber hinaus können bestimmte Dritte (wie Entwickler von Inhalten Dritter und die Hersteller deines Computers, Mobiltelefons oder deiner sonstigen Geräte) Informationen über dich erheben, wenn du die Oculus-Produkte nutzt.
+Diese Dritten haben ihre eigenen Datenschutzrichtlinien und werden die über dich erfassten Informationen im Einklang mit diesen Richtlinien behandeln.
+Wir raten dir, diese Datenschutzrichtlinien durchzulesen, bevor du Dritten Informationen bereitstellst.
+Wir sind nicht verantwortlich für die Richtigkeit der Datenschutzrichtlinien Dritter und auch nicht dafür, sicherzustellen, dass Dritte ihre Datenschutzrichtlinien einhalten.
+9. Zusätzliche Bestimmungen
+Diese Nutzungsbedingungen gelten zusätzlich zu irgendwelchen anderen Vereinbarungen, die du mit uns oder unseren verbundenen Unternehmen eingehst, und ersetzen oder ändern diese nicht; dazu können u. a. insbesondere unsere Entwicklervereinbarungen, bestimmte Bedingungen für Geräte, Gemeinschaftsstandards (auch die Facebook-Regeln genannt) und der VR-Verhaltenskodex sowie auf Preisausschreiben, Wettbewerbe oder Werbung bezogene Bedingungen gehören.
+Wenn du physische Waren von uns kaufst, gelten möglicherweise außerdem sonstige Verkaufsbedingungen oder Teilnahmebedingungen für Marketingmaßnahmen.
+Dein Kauf und deine Nutzung von Inhalten Dritter können möglicherweise zusätzlichen Bedingungen unterliegen; dies sind u. a. Endnutzer-Vereinbarungen und Datenschutzrichtlinien Dritter.
+Wir empfehlen dir, die Vereinbarungen und Richtlinien Dritter sorgfältig durchzulesen, bevor du auf Inhalte Dritter zugreifst, sie herunterlädst oder nutzt.
+Du kannst auch auf Dienste zugreifen, die von anderen Produkten der Facebook-Unternehmen (https://www.facebook.com/help/195227921252400/) bereitgestellt werden und zusätzlichen Bedingungen unterliegen.
+10. Bewertungen
+Wir können für digitale Inhalte Bewertungen zum Alter, zum Komfort und zum Inhalt anzeigen, die auf Informationen basieren, die uns von den Entwicklern solcher Inhalte zur Verfügung gestellt wurden.
+Wir können nicht garantieren, dass die Bewertungen für digitale Inhalte immer richtig sein werden, und wir können auch nicht versprechen, dass du nicht manches Material als schädlich, anstößig, unanständig oder anrüchig empfinden wirst.
+11. Eigentum und geistiges Eigentum
+Sofern nicht anders angegeben, sind die Oculus-Produkte Eigentum von Facebook, unseren verbundenen Unternehmen bzw. von unseren Lizenzgebern und durch Urheber-, Marken- und andere Rechte der USA und anderer Länder geschützt.
+Du wirst keine auf den Oculus-Produkten angebrachten bzw. diesen beigefügte Hinweise auf Urheber-, Marken-, Dienstleistungsmarken- oder sonstige Eigentumsrechte entfernen, verändern oder verbergen.
+Oculus, Oculus VR, Rift, Oculus Touch, Oculus Go, und das Oculus-Logo („Oculus-Marken“) sind Marken bzw. eingetragene Marken von Facebook Technologies, LLC.
+Die Oculus-Marken und die seiner verbundenen Unternehmen dürfen ohne vorherige schriftliche Genehmigung (außer bei einer Autorisierung durch geltende Markenrichtlinien) weder ganz noch teilweise kopiert, nachgeahmt oder verwendet werden.
+Alle anderen Marken, Dienstleistungsmarken, Logos, Handelsnamen und jedwede sonstigen Eigentumsbezeichnungen sind die geschützten Kennzeichen bzw. eingetragenen Marken ihrer jeweiligen Inhaber und dürfen nicht ohne Erlaubnis des entsprechenden Markeninhabers verwendet werden.
+Weitere Informationen über unsere Markenrichtlinien erhältst du in unserem Bereich für Markenressourcen (https://oculusbrand.com).
+12. Feedback
+Getrennt und abgesehen von Nutzerinhalten kannst du Fragen, Kommentare, Vorschläge, Ideen, Pläne, Notizen, Zeichnungen, Original- oder gestalterisches Material oder sonstige Informationen über uns und unsere Oculus-Produkte (zusammen „Feedback“) einreichen.
+Du stimmst zu, dass Facebook und seine verbundenen Unternehmen das Feedback ohne irgendeine Verpflichtung dir gegenüber auf jegliche von ihnen gewählte Art und Weise nutzen können.
+13. Einhaltung von Exportgesetzen und Rechte der US-Regierung
+Du hältst sämtliche geltenden Exportkontrollgesetze der USA sowie jeglicher sonstigen zuständigen Regierungsbehörde ein; dies sind u. a. die U.S. Export Administration Regulations („Export-Gesetze“).
+Du wirst weder direkt noch indirekt die Oculus-Produkte exportieren, reexportieren oder herunterladen (a) an gemäß Export-Gesetzen (einschließlich der US- Sanktionsprogramme) verbotene natürliche oder juristische Personen oder Länder; (b) an jemanden, der auf der SDN-Liste, der Liste abgelehnter Personen oder Unternehmen oder sonstigen Exportkontrolllisten geführt wird oder (c) für nach den Export-Gesetzen verbotene Zwecke (u. a. Verbreitung von Nuklear-, chemischen oder biologischen Waffen oder Entwicklung von Raketentechnik).
+Darüber hinaus sicherst du zu und gewährleistest du, dass keine US-Bundesbehörde deine Exportrechte ausgesetzt, zurückgenommen oder abgelehnt hat und dass du nicht auf der SDN-Liste geführt wirst.
+Die Oculus-Produkte, einschließlich aller dazugehörigen Software, technischen Daten und Dokumentationen sind „Commercially-available off-the-shelf (COTS) items“ gemäß Definition in 48 C.F.R. §2.101. Wir stellen die Oculus-Produkte für die Endbenutzung durch die US-Regierung ausschließlich im Einklang mit folgenden Bestimmungen bereit: (a) Die Oculus-Produkte werden nur als „COTS Items“ lizenziert, und (b) die US-Regierung hat dieselben Rechte wie alle anderen Endbenutzer gemäß diesen Nutzungsbedingungen.
+Diese übliche kommerzielle Lizenz wird im Einklang mit FAR 12.211 (Technical Data) und FAR 12.212 (Software) sowie für Transaktionen des US-Verteidigungsministeriums nach DFARS 252.227-7015 (Technical Data – Commercial Items) und DFARS 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation) angeboten.
+Wenn eine US-Regierungsbehörde zusätzlicher Rechte bedarf, muss sie direkt mit Facebook verhandeln, um herauszufinden, ob die Parteien eine annehmbare Änderung dieser Nutzungsbedingungen aushandeln können, die dann in sämtliche geltenden Verträge bzw. Vereinbarungen aufzunehmen ist.
+14. Meldungen von Verletzungen geistiger Eigentumsrechte
+Gemäß dem Digital Millennium Copyright Act („DMCA“) und anderen geltenden Gesetzen haben wir eine Richtlinie eingeführt, nach der wir die Konten von Nutzern, die als Wiederholungstäter gelten, unter gegebenen Umständen und nach unserem alleinigen Ermessen kündigen können.
+Wir können nach unserem alleinigen Ermessen auch den Zugriff auf die Oculus-Produkte einschränken bzw. die Konten solcher Nutzer kündigen, die geistige Eigentumsrechte anderer verletzen, gleichgültig ob es sich um wiederholte Verletzungen handelt oder nicht.
+Solltest du der Ansicht sein, dass irgendetwas in den Oculus-Produkten bzw. etwas, das über sie zur Verfügung gestellt wird, irgendein Urheberrecht verletzt, das du besitzt oder kontrollierst, kannst du eine Benachrichtigung über eine solche Verletzung bei unserem nachfolgend genannten Beauftragten („Designated Agent“) einreichen:
+Designated Agent
+Meta Platforms, Inc.
+1601 Willow Road
+Menlo Park, CA 94025, US
++1 (650) 543 4800 (Telefon)
+E-Mail-Adresse: ip@oculus.com
+Die Anforderungen für eine ordnungsgemäße Benachrichtigung findest du in 17 U.S.C. §512(c)(3) (unter https://www.copyright.gov/title17/92chap5.html#512 abrufbar).
+Solltest du wissentlich in deiner Benachrichtigung falsch darstellen, dass das Material oder die Aktivität Rechte verletzt, so bist du haftbar für sämtliche Schäden, einschließlich Kosten und Anwaltsgebühren, die uns bzw. dem angeblichen Schädiger dadurch entstehen, dass wir uns auf eine solche Falschdarstellung verlassen und das angeblich verletzende Material bzw. die Aktivität entfernen bzw. den Zugriff darauf deaktivieren.
+15. Hyperlinks
+Dir wird ein beschränktes, nicht-exklusives Recht eingeräumt, für nicht-gewerbliche Zwecke Text-Hyperlinks zu unseren Websites zu erstellen.
+Du darfst jedoch nicht ohne unsere ausdrückliche schriftliche Genehmigung unsere Logos oder sonstigen urheberrechtlich geschützten Grafiken verwenden, um auf unsere Websites zu verlinken.
+Die Oculus-Produkte können Links zu Websites, Apps bzw. sonstigen Diensten Dritter enthalten, und dir ist bewusst, dass du durch Zugriff auf die Links Dritter möglicherweise mit Inhalten konfrontiert wirst, die anstößig, schädlich, unrichtig oder auf sonstige Art unangemessen sind.
+Du nimmst zur Kenntnis und stimmst zu, dass wir nicht für die Verfügbarkeit oder Richtigkeit solcher Objekte Dritter bzw. der durch diese zur Verfügung gestellten Inhalte, Produkte oder Dienste verantwortlich oder haftbar sind.
+Wir unterstützen oder kontrollieren solche Objekte Dritter nicht und geben auch keine Zusicherungen oder Gewährleistungen jeglicher Art bezüglich solcher Objekte ab.
+Wenn du auf Objekte Dritter zugreifst bzw. sie nutzt, sollte dir auch bewusst sein, dass die Bedingungen und Richtlinien dieser Dritten gelten.
+16. Haftungsausschlüsse
+16.1 ES GIBT WICHTIGE GESUNDHEITS- UND SICHERHEITSHINWEISE SOWIE -ANWEISUNGEN, DIE DU LESEN MUSST, BEVOR DU DIE OCULUS-PRODUKTE NUTZT; SIE SIND HIER VERFÜGBAR: https://store.facebook.com/legal/quest/health-and-safety-warnings/. DURCH NUTZUNG DER OCULUS-PRODUKTE VERSICHERST UND GEWÄHRLEISTEST DU, DASS DU DIESE WARNHINWEISE UND ANWEISUNGEN GELESEN UND VERSTANDEN HAST.
+WIR KÖNNEN DIESE WARNHINWEISE UND ANWEISUNGEN AKTUALISIEREN ODER ÄNDERN; ÜBERPRÜFE SIE DESHALB BITTE REGELMÄSSIG.
+ZUSÄTZLICHE GESUNDHEITS- UND SICHERHEITSHINWEISE UND -ANWEISUNGEN KÖNNEN VON ENTWICKLERN IM ZUSAMMENHANG MIT BESTIMMTEN INHALTEN DRITTER BEREITGESTELLT WERDEN.
+DU SICHERST ZU UND GEWÄHRLEISTEST, DASS DU DIR VOR DER NUTZUNG DER OCULUS-PRODUKTE ALLE GESUNDHEITS- UND SICHERHEITSHINWEISE UND ‑ANWEISUNGEN DURCHLIEST.
+16.2 DU BESTÄTIGST AUSDRÜCKLICH UND STIMMST ZU, DASS DEIN ZUGRIFF AUF DIE OCULUS-PRODUKTE SOWIE DEREN NUTZUNG ALLEIN AUF DEIN RISIKO ERFOLGT.
+ZWISCHEN DIR UND FACEBOOK WERDEN DIE OCULUS-PRODUKTE IM GRÖSSTMÖGLICHEN RECHTLICH ZULÄSSIGEN UMFANG, IM IST-ZUSTAND („AS IS“) UND „WIE VERFÜGBAR“ („AS AVAILABLE“) BEREITGESTELLT.
+FACEBOOK SCHLIESST AUSDRÜCKLICH SÄMTLICHE ZUSICHERUNGEN, GEWÄHRLEISTUNGEN UND BEDINGUNGEN (AUSDRÜCKLICH ODER STILLSCHWEIGEND, MÜNDLICH ODER SCHRIFTLICH) AUS, EINSCHLIESSLICH KONKLUDENTER GEWÄHRLEISTUNGEN DER MARKTFÄHIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG.
+DARÜBER HINAUS SICHERT FACEBOOK NICHT ZU BZW.
+GEWÄHRLEISTET NICHT, DASS (A) DIE IN DEN OCULUS-PRODUKTEN ENTHALTENEN FUNKTIONEN KORREKT SIND ODER DEINEN ANFORDERUNGEN ENTSPRECHEN, (B) DER BETRIEB DER OCULUS-PRODUKTE SICHER, UNUNTERBROCHEN, FEHLERFREI ODER VIRENFREI ERFOLGEN WIRD, ODER DASS (C) MÄNGEL AN DEN OCULUS-PRODUKTEN BEHOBEN WERDEN.
+KEINE VON FACEBOOK MÜNDLICH ODER SCHRIFTLICH ABGEGEBENEN INFORMATIONEN, RICHTLINIEN ODER RATSCHLÄGE STELLEN EINE GEWÄHRLEISTUNG DAR.
+DER VORSTEHENDE GEWÄHRLEISTUNGSAUSSCHLUSS GILT IM GRÖSSTMÖGLICHEN GESETZLICH ZULÄSSIGEN UMFANG.
+DIE GESETZE EINIGER STAATEN ODER HOHEITSBEREICHE ERLAUBEN NICHT DEN AUSSCHLUSS KONKLUDENTER GEWÄHRLEISTUNGEN.
+DESHALB KANN ES SEIN, DASS EINIGE ODER ALLE DER HAFTUNGSAUSSCHLÜSSE IN DIESEM ABSCHNITT NICHT FÜR DICH GELTEN.
+17. Freistellung
+Du stimmst zu, Facebook und seine verbundenen Unternehmen, unabhängigen Auftragnehmer und Dienstleister sowie jeden seiner entsprechenden Direktoren, leitenden Angestellten, Mitarbeiter und Vertreter (zusammen die „Facebook- Parteien“) von jeglichen Forderungen, Schadenersatzansprüchen, Kosten, Haftungen und Ausgaben Dritter (dazu gehören u. a. angemessene Anwaltsgebühren) freizustellen und schad- und klaglos zu halten, die sich durch oder im Zusammenhang mit Folgendem ergeben: (a) Dein Kauf oder deine Nutzung bzw. deine Unmöglichkeit zur Nutzung der Oculus-Produkte; (b) dein Verstoß gegen diese Nutzungsbedingungen oder andere geltende Bedingungen, Richtlinien, Warnhinweise oder Anweisungen, die von Facebook oder einem Dritten im Zusammenhang mit den Oculus-Produkten zur Verfügung gestellt werden, (c) dein Verstoß gegen geltendes Recht/Gesetz oder die Rechte Dritter; oder (d) von dir bereitgestellte Nutzerinhalte bzw. von dir bereitgestelltes Feedback.
+18. Haftungsbeschränkung
+DIE FACEBOOK-PARTEIEN ÜBERNEHMEN KEINE HAFTUNG FÜR ENTGANGENE GEWINNE ODER SONSTIGE FOLGE-, SONDER-, STRAF-, INDIREKTE ODER NEBENSCHÄDEN, DIE SICH DURCH DEINE NUTZUNG BZW.
+UNMÖGLICHKEIT ZUR NUTZUNG DER OCULUS-PRODUKTE BZW.
+IM ZUSAMMENHANG HIERMIT ERGEBEN, UND ZWAR SELBST DANN, WENN EINE FACEBOOK-PARTEI VON DER MÖGLICHKEIT SOLCHER SCHÄDEN IN KENNTNIS GESETZT WURDE.
+AUF KEINEN FALL WIRD DIE GESAMTHAFTUNG DER FACEBOOK-PARTEIEN, DIE SICH DURCH DIE NUTZUNG BZW.
+DIE UNMÖGLICHKEIT ZUR NUTZUNG DER OCULUS-PRODUKTE BZW.
+IM ZUSAMMENHANG HIERMIT ERGIBT, DEN HÖHEREN BETRAG VON EINHUNDERT DOLLAR (100 $) ODER DEM VON DIR FÜR DIE NUTZUNG UNSERER OCULUS-PRODUKTE GEZAHLTEN BETRAG ÜBERSTEIGEN.
+DER OBEN GENANNTE AUSSCHLUSS BESTIMMTER SCHÄDEN SOWIE DIE OBEN GENANNTE HAFTUNGSBESCHRÄNKUNG GELTEN IM GRÖSSTMÖGLICHEN NACH GELTENDEM RECHT ZULÄSSIGEN UMFANG.
+DIE GESETZE EINIGER STAATEN ODER HOHEITSBEREICHE ERLAUBEN DEN AUSSCHLUSS BZW.
+DIE BESCHRÄNKUNG BESTIMMTER SCHÄDEN NICHT.
+DESHALB KANN ES SEIN, DASS MÖGLICHERWEISE EINIGE ODER ALLE DER OBEN DARGELEGTEN AUSSCHLÜSSE UND BESCHRÄNKUNGEN NICHT FÜR DICH GELTEN.
+UNGEACHTET GEGENTEILIGER REGELUNGEN IN DIESEN NUTZUNGSBEDINGUNGEN WIRD UNSERE HAFTUNG FÜR BETRUG ODER TOD ODER PERSONENSCHÄDEN, DER/DIE DURCH UNSERE FAHRLÄSSIGKEIT ENTSTEHT, DURCH KEINE AUSSAGEN IN DIESEN NUTZUNGSBEDINGUNGEN AUSGESCHLOSSEN ODER BESCHRÄNKT, UND KEINE DIESER REGELUNGEN BEABSICHTIGT, DEINE NICHT AUSSCHLIESSBAREN GESETZLICHEN RECHTE ZU BEEINTRÄCHTIGEN.
+19. Beilegung von Streitfällen
+BITTE LIES DIR DEN NACHFOLGENDEN ABSCHNITT SORGFÄLTIG DURCH, DENN DIESER ERFORDERT, DASS DU DICH FÜR SÄMTLICHE STREITFÄLLE MIT FACEBOOK (AUSGENOMMEN SIND BESTIMMTE FORDERUNGEN IN BEZUG AUF DAS GEISTIGE EIGENTUM UND BAGATELLFORDERUNGEN) VERBINDLICHEN SCHIEDSVERFAHREN (VERZICHT AUF GESCHWORENENVERFAHREN) UNTERWIRFST.
+AUSSERDEM BESCHRÄNKT ER DIE ART, IN DER DU RECHTSMITTEL GEGEN FACEBOOK EINLEGEN KANNST (KEINE SAMMELSCHIEDSVERFAHREN, SAMMELKLAGEN BZW.
+KLAGEN ODER SCHIEDSVERFAHREN DURCH VERTRETER).
+19.1 Verbindliche Schiedsverfahren; Streitfälle; Bagatellforderungen.
+Du vereinbarst mit Facebook, auf dein Recht auf ein Geschworenenverfahren bzw. auf das Recht zur Beilegung von Streitfällen vor einem beliebigen Gericht zu verzichten und stattdessen die Verwendung von verbindlichen Schiedsverfahren (hierbei wird ein Streitfall zwecks endgültiger und verbindlicher Feststellung an eine bzw. mehrere unparteiische Person(en) verwiesen) zu akzeptieren; jedoch unter der Voraussetzung, dass du das Recht hast, Streitfälle vor einem Gericht für Bagatellforderungen („small claims court“) zu prozessieren, falls sämtliche Anforderungen des Gerichts für Bagatellforderungen, einschließlich Einschränkungen bezüglich der Gerichtsbarkeit und des streitgegenständlichen Betrags, erfüllt sind.
+Du stimmst zu, einen Streitfall nur vor ein Gericht für Bagatellforderungen zu bringen, das sich in San Mateo County, Kalifornien (wenn du in den USA ansässig bist) oder im Land deines Wohnsitzes befindet. „
+Streitfall“ im Sinne dieses Abschnitts 19 steht für jeden Streitfall, jeden Klagegrund, jede Forderung bzw. jede Auseinandersetzung, der/die sich auf irgendeine Weise durch Facebook in Verbindung mit diesen Nutzungsbedingungen, dem Vertragsgegenstand dieser Nutzungsbedingungen oder dem Zugriff auf die und die Nutzung der Oculus-Produkte ergibt bzw. mit diesen in Zusammenhang steht; dazu gehören u. a. auch Streitfälle wegen Verträgen, Personenschäden, unerlaubter Handlungen, Gewährleistungen, Vorschriften, Verordnungen bzw. sonstiger rechtlicher bzw. gleichwertiger Grundlagen und Streitfälle, bei denen Dritte beteiligt sind (z. B. Entwickler von Inhalten Dritter); ausgenommen sind Streitfälle, Klagegründe, Forderungen oder Auseinandersetzung in Bezug auf das geistige Eigentum von Facebook (wie beispielsweise Marken, Handelsaufmachungen, Domainnamen, Geschäftsgeheimnisse, Urheberrechte und/oder Patente).
+Du und Facebook ermächtigt den Schiedsrichter mit der ausschließlichen Befugnis zur Beilegung von Streitfällen im Zusammenhang mit der Auslegung, Gültigkeit oder Durchsetzbarkeit dieser Bedingungen bzw. des Zustandekommens dieses Vertrags, einschließlich der Schiedsfähigkeit jedwedes Streitfalls und jedweder Behauptung, dass alle bzw. ein Teil dieser Bedingungen nichtig/unwirksam oder anfechtbar sind/ist.
+19.2 No Class Arbitrations, Class Actions or Representative Actions.
+Du und Facebook vereinbart, dass jedweder Streitfall dich und Facebook persönlich betrifft und dass jedweder Streitfall nur durch ein Einzelschiedsverfahren beigelegt wird und nicht als Sammelschiedsverfahren, Sammelklage oder irgendein anderes Verbandsverfahren eingereicht wird.
+Keine der Parteien stimmt einem Sammelschiedsverfahren oder einem Schiedsverfahren zu, bei dem eine Person einen Streitfall als Vertreter einer anderen Person bzw. anderer Personen einreicht.
+Weder du stimmst zu noch Facebook stimmt zu, dass ein Streitfall als Sammel- oder Verbandsklage eingereicht werden kann, und zwar weder im Rahmen eines Schiedsverfahrens noch außerhalb eines solchen, oder im Namen einer anderen Person bzw. anderer Personen.
+19.3 Federal Arbitration Act.
+Du und Facebook stimmt zu, dass diese Nutzungsbedingungen den zwischenstaatlichen Handel betreffen und dass die Durchsetzbarkeit von Abschnitt 19 sowohl materiell- als auch verfahrensrechtlich im größtmöglichen rechtlich zulässigen Umfang nach dem US-Bundesgesetz für Schiedsverfahren (Federal Arbitration Act) 9 U.S.C. § 1 ff („FAA“) zu regeln, auszulegen und durchzusetzen ist.
+19.4 Confidentiality.
+Der Schiedsrichter, Facebook und du wahrt die Vertraulichkeit jedweder Verfahren; dies umfasst u. a., aber nicht beschränkt darauf, sämtliche Informationen, die für die Zwecke des Schiedsverfahrens gesammelt, angefertigt und vorgelegt werden oder die im Zusammenhang mit dem betreffenden Streitfall bzw. den Streitfällen stehen.
+Der Schiedsrichter hat die Befugnis, angemessene Entscheidungen zu treffen, um diese Vertraulichkeit zu gewährleisten, sofern gesetzlich nichts Gegenteiliges festgelegt wurde.
+19.5 Process.
+Unser Ziel ist es, Ansprüche gerecht und schnell zu regeln.
+Dementsprechend stimmst du zu, dass du bei jedem Streitfall, den du in Bezug auf Facebook hast, zunächst Kontakt mit Facebook aufnimmst und versuchst, den Anspruch informell zu regeln, indem du eine schriftliche Mitteilung deines Anspruchs („Mitteilung“) an Facebook sendest.
+Die Mitteilung an Facebook ist per Einschreiben an folgende Adresse zu senden: General Counsel, Oculus, 1601 Willow Road, Menlo Park, CA 94025. Die Mitteilung muss (a) deinen Namen, deine Wohnanschrift sowie die E-Mail-Adresse und/oder deine Mobilfunknummer enthalten, die mit deinem Oculus-Konto verknüpft ist/sind; (b) die Art und Grundlage des Anspruchs beschreiben und (c) die konkret gewünschte Abhilfe darlegen.
+Wenn du mit Facebook innerhalb von 30 Tagen nach Erhalt einer solchen Mitteilung keine Einigung zur Regelung des Anspruchs erzielst, kann jede der Parteien nach Maßgabe dieses Abschnitts 19 ein Schiedsverfahren einleiten oder einen Anspruch vor Gericht einreichen.
+Du und Facebook stimmt zu, dass jedweder Streitfall innerhalb eines Jahres nach dem Entstehen eines solchen Anspruchs begonnen bzw. eingereicht worden sein muss; anderenfalls ist der Streitfall dauerhaft verjährt.
+Falls du und Facebook einen Streitfall nicht beilegen könnt und du deine Ansprüche nicht bei einem Gericht für Bagatellforderungen verfolgst, hast du bzw. hat Facebook den Streitfall unverzüglich einem verbindlichen Schiedsverfahren beim Büro der American Arbitration Association („AAA“) zu unterwerfen.
+Falls die AAA das Schiedsverfahren ablehnt oder nicht in der Lage ist, es durchzuführen, stimmst du zu und stimmt Facebook zu, ein von dir und Facebook gemeinsam vereinbartes Schiedsgericht oder einen Schiedsrichter einzusetzen.
+Kannst du dich auch nach angemessenen Bemühungen nicht mit Facebook auf ein Schiedsgericht bzw. einen Schiedsrichter einigen, so benennt die AAA oder ein zuständiges Gericht ein Schiedsgericht bzw. einen Schiedsrichter.
+Das Schiedsverfahren wird gemäß den zum jeweiligen Zeitpunkt geltenden Regelungen für verbraucherbezogene Streitfälle der AAA (AAA Consumer Arbitration Rules) („AAA-Regelungen“) durchgeführt.
+Die AAA-Regelungen und sonstige Informationen über die AAA und Schiedsverfahren sind unter http://www.adr.org verfügbar oder können per Anruf unter 1-800-778-7879 oder per Post an 120 Broadway, Floor 21, New York, NY 10271 angefordert werden.
+Durch Eingehen dieser Nutzungsbedingungen bestätigst du entweder, (1) dass du die AAA-Regelungen gelesen und verstanden hast oder (2) du verzichtest auf das Lesen der AAA-Regelungen und sowie auf den Einwand, dass die AAA-Regelungen auf irgendeine Weise ungerechtfertigt sind.
+Du und Facebook stimmt zu, dass diese Nutzungsbedingungen das Schiedsverfahren regeln und dass die geltenden AAA-Regelungen verfahrenstechnischen Änderungen unterliegen, welche die AAA von Zeit zu Zeit vornehmen kann.
+Gemäß Beschränkung durch das FAA sowie durch diese Nutzungsbedingungen und die geltenden AAA-Regelungen hat der Schiedsrichter die alleinige Befugnis und Zuständigkeit, sämtliche verfahrens- und materiell-rechtlichen Entscheidungen in Bezug auf den Streitfall zu treffen; jedoch unter der Voraussetzung, dass diese Befugnis nicht die Befugnis zur Durchführung eines Sammelschiedsverfahrens bzw. einer Verbandsklage umfasst, die gemäß diesen Nutzungsbedingungen unzulässig ist (wie oben angegeben).
+Der Schiedsrichter darf nur ein Einzelschiedsverfahren durchführen und darf nicht die Ansprüche mehrerer Personen zusammenfassen und auch nicht den Vorsitz über irgendeine Form von Verbands- oder Sammelverfahren bzw. irgendein Verfahren im Namen mehrerer Personen bzw. mehrere Personen betreffend übernehmen.
+Facebook hat sämtliche Gebühren und Kosten für die Verfahrenseinleitung, die AAA sowie den Schiedsrichter zu zahlen, es sei denn der Schiedsrichter stellt fest, dass das Schiedsverfahren schikanös war bzw. für einen unsachgemäßen Zweck eingeleitet wurde.
+Wenn der Schiedsrichter dir eine Entschädigungssumme zuspricht, deren Wert höher ist als unser letztes schriftliches Vergleichsangebot, das wir vor der Wahl des Schiedsrichters abgegeben haben (oder wenn wir vor der Wahl des Schiedsrichters kein Vergleichsangebot abgegeben haben), dann werden wir dir den Betrag der Entschädigungssumme oder 5.000 USD zahlen, je nachdem, welcher Betrag höher ist.
+Außerdem bezahlen wir deinen Rechtsanwalt, falls vorhanden, sowie den Betrag der angefallenen Anwaltsgebühren und erstatten dir jegliche Auslagen (einschließlich Sachverständigengebühren und -kosten), die dir bzw. deinem Rechtsanwalt angemessenerweise für die Untersuchung, Vorbereitung und Verfolgung deiner Forderung im Schiedsverfahren entstanden sind.
+Wir verzichten auf jedwedes Recht, Schadensersatz für Anwaltsgebühren und Auslagen im Zusammenhang mit jedwedem nicht schikanösen Schiedsverfahren zwischen dir und uns zu fordern.
+19.6 Right to Opt Out.
+Du kannst dieser Schiedsvereinbarung widersprechen.
+Wenn du dies tust, können weder du noch Facebook vom jeweils anderen fordern, an einem Schiedsverfahren teilzunehmen.
+Um zu widersprechen musst du uns innerhalb von 30 Tagen nach dem Datum, an dem du erstmalig dieser Bestimmung zu Schiedsverfahren unterworfen wurdest, schriftlich davon in Kenntnis setzen und dabei deinen Namen und deine Wohnanschrift sowie die von dir für dein Oculus-Konto (falls du eines hast) verwendete E-Mail-Adresse angeben und eine eindeutige Erklärung beifügen, dass du dieser Schiedsvereinbarung widersprechen möchtest.
+Anträge auf Widerspruch sind an folgende Adresse zu senden: General Counsel, Oculus, 1601 Willow Rd.,
+Menlo Park, CA 94025.
+Wenn ein Gericht oder Schiedsrichter entscheidet, dass Einschränkungen in diesem Abschnitt im Hinblick auf einen bestimmten Anspruch bezüglich eines Rechtsmittels oder einen Antrag auf einen Rechtsbehelf (wie z. B. einen öffentlichen Unterlassungsanspruch) nicht durchgesetzt werden können, dann ist dieser Anspruch bzw. der Antrag (und zwar nur dieser Anspruch bzw. Antrag) von dem Schiedsverfahren abzutrennen und vor einem Gericht zu verhandeln.
+Wenn du ihr nicht widersprichst, gilt diese Bestimmung zur Beilegung von Streitfällen in Abschnitt 19 über die Beendigung dieser Nutzungsbedingungen hinaus fort.
+Die Gerichte in einigen Ländern gestatten dir möglicherweise nicht, einem Schiedsverfahren zuzustimmen.
+Wenn du in einem dieser Länder ansässig bist, gelten die Gesetze deines Landes.
+20. Geltendes Recht
+20.1 Die Gesetze des Staates Kalifornien, ohne Berücksichtigung seiner Kollisionsnormen, regeln deinen Zugriff auf die Oculus-Produkte und deine Nutzung dieser.
+Dein Zugriff auf die Oculus-Produkte bzw. deine Nutzung dieser kann möglicherweise auch anderen lokalen, staatlichen, nationalen oder internationalen Gesetzen unterliegen.
+20.2 Sofern die Bestimmungen in Abschnitt 19 nicht zutreffen, stimmst du weiterhin zu, dass sämtliche Streitfälle, Klagegründe, Forderungen oder Auseinandersetzungen, die sich im Rahmen dieser Nutzungsbedingungen ergeben und sich nicht durch informelle Verhandlungen regeln lassen, ausschließlich vor dem US-Bezirksgericht für den nördlichen Bezirk von Kalifornien bzw. einem Landgericht in San Mateo County verhandelt werden.
+Außerdem stimmst du zu, dich für die Zwecke der Verhandlungen sämtlicher derartiger Ansprüche der persönlichen Gerichtsbarkeit solcher Gerichte zu unterwerfen, soweit dies gesetzlich erlaubt ist.
+Die Gerichte in einigen Ländern wenden auf einige Arten von Streitfällen möglicherweise nicht kalifornisches Recht an oder gestatten dir nicht, der Gerichtsbarkeit in Kalifornien zuzustimmen.
+Wenn du in einem dieser Länder ansässig bist, gelten die Gesetze deines Landes für solche Streitfälle im Zusammenhang mit den Oculus-Produkten.
+Insbesondere, wenn du ein Verbraucher bist und deinen ständigen Wohnsitz in einem Mitgliedstaat der Europäischen Union hast, gelten die Gesetze dieses Mitgliedstaats für jeglichen Anspruch, Klagegegenstand oder Streitfall zwischen uns, der sich aus diesen Nutzungsbedingungen oder aus den Oculus-Produkten oder im Zusammenhang damit ergibt, und über den Anspruch, Klagegegenstand oder Streitfall kann von jedwedem Gericht in dem Land entschieden werden, das für den Anspruch zuständig ist.
+In allen anderen Fällen erkennst du an, dass der Anspruch wie in diesen Nutzungsbedingungen beschrieben beigelegt werden muss.
+21. Änderungen an den Oculus-Produkten
+Wir behalten uns das Recht vor, jederzeit und ohne Ankündigung die Oculus-Produkte oder bestimmte Teile dieser zu ändern, auszusetzen, zu entfernen, zu beenden oder den Zugriff auf diese zu deaktivieren.
+Auf keinen Fall ist Facebook für das Entfernen von Teilen bzw. Features der Oculus-Produkte bzw. für die Deaktivierung des Zugriffs auf diese haftbar.
+22. Beendigung/Kündigung
+Wir behalten uns das Recht vor, dein Recht auf Zugriff auf die Oculus-Produkte bzw. zur Nutzung dieser zu kündigen, wenn du gegen diese Nutzungsbedingungen oder andere in diesem Dokument genannte Bedingungen oder Richtlinien verstößt oder auf sonstige Weise ein Risiko oder eine rechtliche Belastung für uns verursachst.
+23. Salvatorische Klausel
+Wenn irgendeine Bestimmung in diesen Nutzungsbedingungen für unrechtmäßig, unwirksam oder aus irgendeinem Grund als nicht durchsetzbar erachtet wird, so gilt diese Bestimmung als von diesen Nutzungsbedingungen unabhängig und beeinflusst nicht die Wirksamkeit und Durchsetzbarkeit der übrigen Bestimmungen.
+24. Abtretung
+Du darfst diese Nutzungsbedingungen bzw. jedwede der im Rahmen dieses Dokuments gewährten Rechte ohne die vorherige schriftliche Zustimmung von Facebook nicht abtreten.
+Jeder Versuch einer Abtretung ohne entsprechende Zustimmung ist unwirksam.
+Vorbehaltlich der vorangegangenen Einschränkung sind diese Nutzungsbedingungen für uns und unsere jeweiligen Rechtsnachfolger und Abtretungsempfänger in vollem Umfang rechtsverbindlich, begünstigen sie und sind von ihnen durchsetzbar.
+25. Kein Rechtsverzicht
+Unterlässt Facebook es, auf der Erfüllung irgendeiner Bestimmung dieser Nutzungsbedingungen deinerseits zu bestehen oder diese durchzusetzen oder irgendwelche Rechte oder Rechtsbehelfe im Rahmen dieser Nutzungsbedingungen bzw. von Rechts wegen auszuüben, so gilt eine solche Unterlassung nicht als Verzicht oder Aufgabe des Rechts zur Durchsetzung der Bestimmung, des Rechts oder Rechtsbehelfs bzw. Berufung auf diese/s in diesem oder in jedem anderen Fall.
+Vielmehr ist und bleibt die Bestimmung, das Recht oder der Rechtsbehelf in vollem Umfang wirksam.
+26. Kontaktaufnahme mit uns
+Solltest du Fragen oder Bedenken bezüglich dieser Nutzungsbedingungen oder unserer Oculus-Produkte haben, kontaktiere uns bitte über das Support-Portal unter https://support.oculus.com oder per E-Mail an contact@oculus.com.
+27. Besondere Bestimmungen für Nutzer außerhalb der USA
+Bestimmte spezielle Bedingungen, die nur für deutsche Nutzer gelten, findest du unter https://store.facebook.com/legal/quest/terms-applicable-to-germany/. Bitte lies dir diese Bedingungen sorgfältig durch, wenn du deinen Wohnsitz in Deutschland hast.
+Wenn dein Unternehmen seinen Sitz in der Europäischen Union oder im Vereinigten Königreich hat und Inhalte auf der Oculus-Plattform veröffentlicht, die Endnutzern in der Europäischen Union oder im Vereinigten Königreich angeboten werden, erfährst du im Hinweis zur Plattform für Unternehmen, die diese Nutzungsbedingungen ergänzen, mehr über deine Geschäftsbeziehung zu uns.

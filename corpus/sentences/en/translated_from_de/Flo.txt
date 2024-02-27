@@ -1,0 +1,194 @@
+Terms of Use
+Effective February 5, 2020
+These Terms of Use (this "Agreement") is a legal agreement between you ("you") and Flo Health, Inc., a Delaware corporation ("Company", "we" or "us") regarding use of the Mobile Application Flo Fem Ⓡ, the website (flo.health and reg.flo.health), the courses website (courses.flo.health) (“Courses”), the servers used by this Application, the computer files hosted on stored on those servers and all related services, features and content offered by Company (collectively, the “App”).
+This Agreement is not made with Apple, Inc., any of its subsidiaries, Google, Inc., any of its subsidiaries, or any other entity, as applicable.
+1. Agreement to the Terms of Use
+Please read this agreement carefully.
+By creating an account or accessing or using the App, you acknowledge that you accept and agree to be bound by the terms of this Agreement.
+IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT ACCESS OR USE THE APP.
+We may change this Agreement at our sole discretion.
+We will notify you by email or through the App, or by providing you with a new version of this Agreement for acceptance, if we make changes that materially change your rights.
+Your continued use of the App after the effective date of any updated version of the Agreement constitutes your acceptance of the modified Agreement.
+2. Medical Services Disclaimer
+COMPANY IS NOT A LICENSED MEDICAL PROVIDER AND THE APP IS NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE AND IS NOT INTENDED TO DIAGNOSE, TREAT OR CURE ANY DISEASE OR MEDICAL CONDITION OR TO SERVE AS A METHOD OR CONTRACEPTIVE METHOD.
+PLEASE CONSULT A TRAINED PHYSICIAN OR OTHER QUALIFIED HEALTH PROFESSIONAL BEFORE MAKING ANY DECISIONS OR TAKING ANY ACTION THAT MAY AFFECT YOUR, YOUR FAMILY'S, OR FETU'S HEALTH AND SAFETY.
+NEVER FAIL TO HEED MEDICAL ADVICE OR DELAY ABOUT A MEDICAL CONSULTATION JUST BECAUSE YOU HAVE READ SOMETHING RELATED TO THE APP.
+ALWAYS TALK TO YOUR PHYSICIAN IF YOU HAVE ANY QUESTIONS OR CONCERNS ABOUT YOUR HEALTH OR CONDITION, OR ANY CHANGING CONDITION OR HEALTH SITUATION.
+IF YOU HAVE A MEDICAL EMERGENCY, CALL 911 OR GO TO THE NEAREST EMERGENCY ROOM.
+WE ASSUME NO LIABILITY FOR ANY ERRORS OR OMISSIONS OR ACCIDENTAL TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS IN THE MATERIALS PROVIDED, OR VIOLATION OF ANY ETHICAL OR MORAL STANDARDS APPLICABLE IN YOUR COMMUNITY TO SEXUAL EDUCATION AND RELATED MATERIALS.
+3. Registration and Eligibility
+In order to use the App, you may be required to create or update an account ("Account") and may be asked to provide certain personally identifiable information, including your name, gender, date of birth, and email address .
+This information will be held and used in accordance with our privacy policy, which can be found at flo.health/en/privacy-policy?locale=en (“Privacy Policy”).
+You agree that you will provide accurate and complete information to Company and that you will promptly update such information as it changes.
+To set up an account and access the App, you must be at least 13 years old (16 in the EU) and not barred from using the App by any applicable law.
+If you are under the age of 18, a parent or guardian must have read and agreed to the terms of this Agreement, and by using the App, you acknowledge that a parent or guardian has read and agreed to this Agreement.
+We reserve the right, in our sole discretion, to limit the availability of certain App content to users under the age of 18.
+4. Your Use of the App
+Any content that you enter via the app is governed by the company's privacy policy flo.health/de/datenschutzbedingungen?locale=de.
+If there is any inconsistency between this Agreement and the Company's Privacy Policy, these Terms will govern.
+If you submit a question or answer, you are solely responsible for your own communications, the consequences of posting those communications, and your reliance on any communications in the public areas.
+The Company and its licensors are not responsible for the consequences of any communications posted in the public areas.
+If you feel threatened or think someone else is in danger, contact your local law enforcement agency immediately.
+If you think you have a medical emergency, call your doctor or 911 right away.
+As a condition of using this app, you agree not to use this app for any purpose prohibited by this Agreement.
+You are responsible for all of your activities in connection with the App and must comply with all local, state, national and international laws and regulations and all applicable policies.
+You agree that you will be in material breach of this Agreement if you do any of the following, and you agree that you WILL NOT:
+a. resell, rent, lease, sublicense, distribute or otherwise transfer the rights in the App;
+b. alter, modify, decompile or disassemble the App;
+c. copy, adapt, alter, modify, translate or create derivative works of the App without the Company's written permission;
+i.e. allow other people to use the App, including sharing it over a network connection, except under the terms of this Agreement;
+e. Circumvent or disable any technological feature or intellectual property protection measure of the App;
+f. use the App in connection with any device, program or service designed to circumvent technological measures designed to control access to or rights in a data set or other work protected under the copyright laws of any jurisdiction are protected.
+This also applies to corresponding tests.
+G. use or access the App to gather data in a way that is or may be used by a competing product or service;
+H. use your account to display, market, or transmit commercial advertising, including chain letters, junk email, or repeat messages to any other person;
+i. use your account to engage in illegal practices;
+j. Upload for transmission communications that restrict or violate the rights of any party;
+k. Upload media of any kind that contains hate speech, abusive, offensive images or content, profanity, pornography, sexually explicit material or any other material that may give rise to civil or criminal liability under applicable laws and regulations or otherwise inconsistent with this Agreement or the Company Privacy Policy conflicts; or
+l. Upload any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or this Website.
+Any such prohibited use will result in the immediate termination of your authorization to use the App.
+5. Children's Privacy and Age Restrictions
+We are committed to protecting the privacy of children.
+You should be aware that this app is not intended or designed for children under the age of 13.
+We do not collect personally identifiable information from anyone we know to be children under the age of 13.
+If you are a citizen of the European Union, you must be at least 16 years old to use the app.
+To the extent prohibited by applicable law, we do not allow citizens of the European Union under the age of 16 to use the App.
+You must be at least 18 years old to use certain features of the App (e.g. some courses, content or discussion topics in Secret Chats).
+If you know someone who is not adhering to these restrictions, please contact us at support@flo.health and we will take steps to delete or suspend the account.
+6. Export control and economic sanctions
+The software that supports the App may be subject to United States export and re-export control laws and regulations, including but not limited to the Export Administration Regulations ("EAR") administered by the United States Department of Commerce, Administers Trade and Economic Sanctions by the Department of Treasury's Office of Foreign Assets Control ("OFAC"), and the International Traffic in Arms Regulations ("ITAR") administered by the Department of State.
+You represent and warrant that you (1) do not reside in a country or region embargoed by the United States government, and (2) do not belong to any of the prohibited groups identified in the regulations listed above .
+You agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any related technical data or any direct product thereof is used, directly or indirectly, in violation of such laws and regulations or by using exported or re-exported for any purpose prohibited by such laws and regulations.
+7. Limited License for the App
+We grant you a personal, worldwide, revocable, non-transferable and non-exclusive license to use and access the App for personal and non-commercial purposes in accordance with the terms of this Agreement.
+All right, title and interest in and to the App not expressly granted in this Agreement is reserved by Company.
+If you wish to use the Company's Software, title, trade name, trademark, service mark, logo, domain name and/or other identification with distinctive branding characteristics or other content owned by Company, you must obtain written permission obtain from the company.
+Permission requests can be sent to support@flo.health.
+For the avoidance of doubt, Company owns all text, images, photos, audio files, videos, location data and all other types of data and communications that Company creates and makes available in connection with the App, including visual interfaces, interactive features , graphics, designs, compilations of User Content and compilation of all User Submission ratings and all other elements and components of the App other than User Content (as defined below).
+Except as expressly and unambiguously permitted herein, we grant you no rights, express or implied, and all rights in and to the App and Company Content remain with us.
+8. User Content License
+The App allows you to enter personal notes, share your stories, post or upload content, create content (including in public areas such as Secret Chats), and record certain information in the App ("User Content").
+You retain all rights to any User Content that you post, share or record on the App.
+By providing User Content to the App, (a) you grant Company a non-exclusive, transferable, sublicensable, worldwide royalty-free license to use your User Content in connection with the provision and operation of the App and related services and for advertising purposes in accordance with the Privacy Policy , copy, modify, publicly display, publicly perform, create derivative works from, incorporate into other works, modify, reformat and distribute (e.g., by displaying it on our website, within the app, on social media, on any internet website or platform we deem appropriate); and (b) you agree to indemnify and hold harmless the Company and its affiliates, directors and officers and employees from and against any and all claims and expenses, including attorneys' fees, made by the media and/or your failure to comply with the terms of this Agreement.
+The Company reserves the right to review any User Content prior to submission to the App and to remove any Media in its sole discretion at any time without prior notice and for any reason.
+9. Use at your own risk
+Our goal is to make certain health-related information more accessible and useful to you.
+However, the app cannot and does not promise any health-related improvements or results.
+Your use of the App and any information, predictions or suggestions made available in the App is at your own risk.
+We make no representation or warranty of any kind about the accuracy of the data, information, estimates or predictions that we make available through the App, and you agree and understand that the App is not intended to comply with medical or scientific advice or serve the same purpose as a medical or scientific device.
+10. Disclaimer Regarding Use by Minors
+THE INFORMATION IN THE APP DOES NOT ENCOURAGE, INCREASE OR ENCOURAGE SEXUAL CONDUCT OR ACTIVITIES OF ANY KIND BETWEEN MINORS, OR TARGET THE CONTENT OF THE COMMUNICATION TO ANY PARTICULAR INDIVIDUAL.
+ALL INFORMATION PROVIDED WITHIN THE APP IS INTENDED FOR GENERAL EDUCATIONAL PURPOSES ONLY.
+We carefully review any material that we make available through the App to individuals between the ages of 13 and 17 to avoid inappropriate or harmful content.
+We understand that moral and ethical rules that define what information about sexuality is accessible to minors vary from country to country.
+We do not intend to, nor do we publish, sexually explicit content or content that may otherwise be considered harmful to minors under applicable law.
+We make reasonable efforts to ensure that all materials made available by us on the App are factual and scientifically accurate.
+Please note that individual ethical views of what is objectionable or harmful to minors may differ from the requirements set for content that may be made available to minors under applicable law.
+11. Subscriptions
+Flo Premium-Abonnement.
+The mobile application offers the premium subscription that grants you access to additional features such as period predictions enhanced by algorithms based on scientific data, personalized insights based on your symptoms and cycle phases, tools to identify physical and emotional patterns , as well as comprehensive health reports that you can send to your doctor.
+Some of our subscriptions include a free trial period during which you can use the mobile application at no cost.
+Subscriptions with a free trial automatically renew to a paid subscription once the trial expires.
+If you wish to unsubscribe from a paid subscription before we charge you according to your payment method, you must cancel the subscription before the trial period expires.
+We offer monthly and yearly subscription options.
+The fee will be charged to your credit/debit card through your iTunes account or Google Play after you have opted into a subscription plan and confirmed your purchase.
+Unless auto-renewal is turned off, paid subscriptions will automatically renew until you turn off this feature in the "Manage Subscriptions" section of your Account Settings.
+We will notify you when the price of a subscription increases and, if necessary, contact you for your consent to continue.
+You will be charged no earlier than 24 hours prior to the start of the most recent paid subscription period.
+Courses.
+We offer 1 month, 3 month or 1 year subscription options for courses.
+The fee will be charged to your credit/debit card through Stripe, a payment platform owned by Stripe Inc, after you have chosen one of the subscription options and confirmed your purchase.
+You understand and expressly agree that all payments and financial transactions are processed through Stripe.
+You may not transact with stolen or unauthorized credit cards through Stripe and/or your Account.
+Paid subscriptions will automatically renew, unless auto-renewal has been turned off, until the subscription is canceled by contacting our support team at support@flo.health.
+We will notify you when the price of a subscription increases and, if necessary, contact you for your consent to continue.
+To request a refund or for any other course payment issues, please contact our support team at support@flo.health.
+Flo Premium + Telehealth Abonnement.
+The mobile application offers the Premium + Telehealth subscription to its US users only.
+The Premium + Telehealth subscription is subject to separate terms of use.
+Please read them carefully before subscribing.
+12. Secret Chats
+Flo Secret Chats is a special feature of the app that allows users to chat with each other on a range of different topics related to women's health and well-being.
+All user comments in Secret Chats are posted anonymously.
+If you delete your account, your comments will remain visible to Secret Chat users.
+When using Secret Chats, you must not:
+post rude, harassing, abusive, provocative, discriminatory, intolerant, religious, racist, political, homophobic or offensive comments and posts;
+Post violent, offensive, obscene, pornographic, law-violating, sexually explicit images or other material (including links to such material) that is prohibited under applicable laws and regulations or otherwise conflicts with this Agreement;
+Provide medical advice or claim to be a healthcare professional;
+Promote any product or service.
+Performing other prohibited actions as defined in Secret Chat Rules.
+We reserve the right, in our sole discretion: to delete any inappropriate or irrelevant comments or materials; Delete or edit comments that contain personally identifiable information such as name, address or email; restrict or prohibit your access to the Secret Chats at any time and without notice if we determine that any content or use of the Secret Chats violates this Agreement; use, copy, modify, rearrange, move, modify, publicly display and distribute discussions, comments and materials; Block or moderate your comments for any reason as we see fit; Block the secret chats at any time and without prior notification.
+Information posted in Secret Chats is not to be construed as advice, medication prescription or treatment suggestion.
+If you have concerns about your health, contact a qualified healthcare professional.
+Please note that our users are not medical professionals and their advice could not only be wrong, it could also be harmful to your health and well-being.
+Learn more about the rules that apply to communication in Secret Chats in our Secret Chats Rules.
+Secret Chat Rules are an integral part of the Agreement.
+By accepting the Agreement, you also accept the Secret Chat Rules.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW (INCLUDING BUT NOT LIMITED TO THE COMMUNICATIONS DECENCY ACT OF 1996), THE COMPANY SHALL HAVE NO LIABILITY FOR ANY DIRECT OR INDIRECT CONSEQUENCES ARISING FROM THE INFORMATION, LINKS AND MATERIALS POSTED BY USERS ANY ACTIONS OR INACTIONS BY USERS, VIOLATION OF APPLICABLE RIGHTS AND REGULATIONS.
+13. Passwords
+You are responsible for taking all reasonable steps to ensure that no unauthorized person gains access to your app passwords and account.
+It is your sole responsibility to (1) control the dissemination and use of login names, usernames and passwords; (2) authorize, monitor and control access to and use of your App account and password; (3) to contact the Company immediately if you believe that your account or password has been compromised or there is any other reason you need to disable your password.
+Email us at support@flo.health.
+You grant the Company and any other person or entity involved in the operation of this App the right to transfer, monitor, access, store and use your information in connection with the operation of the App.
+The Company assumes no responsibility or liability for any information you provide, or for your use or misuse of any information, or any third party's use or misuse of any information transmitted or received while using the App.
+14. Disclaimer
+Company controls and operates the App from various locations and makes no representation that the App is appropriate or available for use in all locations.
+The app or certain features may not be available in your location or may vary by location.
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR ANYONE ITS PARTICULAR PURPOSE AND ANY WARRANTIES IMPLIED BY ANY COURSE OF BUSINESS OR CUSTOM TRADE ARE ALL EXPRESSLY DISCLAIMED EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW.
+THE COMPANY AND ITS DIRECTORS, EMPLOYEES, AGENTS, AGENTS, SUPPLIERS, PARTNERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (A) THE APP WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (B) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (C) ANY CONTENT OR SOFTWARE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; (D) THE RESULTS OF USING THE APP WILL MEET YOUR REQUIREMENTS.
+YOU USE THE APP SOLELY AT YOUR OWN RISK; OR (E) THE ACCURACY, RELIABILITY OR COMPLETENESS OF ANY CONTENT, TEXT, IMAGES, SOFTWARE, GRAPHICS, OR MESSAGES PROVIDED BY THIRD PARTIES IN OR THROUGH THE APP, INCLUDING THE SECRET CHATS.
+SOME STATES/COUNTRIES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+15. Limitation of Liability
+Under no circumstances is the company, its managing directors, directors, representatives, subsidiaries, employees, advertisers or data providers for indirect, special, random or consequential damage or compensation (including loss of use, loss of profit or data loss) due to contractual actions, unauthorized actions (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), EQUITY OR OTHERS ARISING OUT OF OR IN ANY WAY RELATED TO USE OF THE APP.
+UNDER NO CIRCUMSTANCES SHALL COMPANY'S AGGREGATE LIABILITY ARISING OUT OF OR IN ANY WAY CONNECTED WITH THESE TERMS OR THE USE OF, OR INABILITY TO USE, THE APP EXCEED THE AMOUNT YOU PAID TO COMPANY FOR USE OF THE APP OR ONE HUNDRED EXCEED DOLLARS ($100) IF YOU HAVE NO OBLIGATIONS TO PAY COMPANY, AS APPLICABLE.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+THE COMPANY OR ANY THIRD PARTIES MENTIONED IN THE APP SHALL HAVE NO LIABILITY FOR ANY PERSONAL INJURY, INCLUDING DEATH, RESULTING FROM THE USE OR MISUSE OF THE APP.
+16. Use of Mobile Devices
+Please note that if you are using the app on a mobile device, your operator's normal rates and fees, such as text messaging and data charges, will still apply.
+17. Third Party Services
+The App may provide you with access to links to third party websites, apps or other products and services (“Third Party Services”).
+The Company does not control the Third Party Services in any way and consequently accepts no liability in connection with the Third Party Services.
+You must take appropriate steps to determine whether access to Third Party Services is appropriate and to protect your personal information and privacy when using Third Party Services and consenting to necessary agreements.
+18. Your Feedback
+We look forward to your feedback on the app.
+Unless expressly stated otherwise, any communications you send to us or post to app stores will be deemed to be sent on a non-confidential basis.
+You agree that we may post such content at our sole discretion.
+You agree to authorize us to use such content free of charge and to make contextual revisions, modifications, adjustments, changes or other changes that we deem appropriate.
+19. Executive Powers
+We are under no obligation to monitor access or use of the App.
+However, we reserve the right to do so for the purpose of operating and maintaining the App, to ensure your compliance with this Agreement and to comply with applicable legal requirements.
+We may report illegal activity to law enforcement officials and cooperate with valid legal process with law enforcement officials to prosecute users who break the law.
+We reserve the right (but are not obligated) to, in our sole discretion, remove or disable access to the App at any time and without notice if we determine, in our sole discretion, that your Content or your use of the App is improper or in violation of this Agreement.
+The Company shall have no liability or responsibility to any user of the App or any other person or entity for the performance or non-performance of the activities described above.
+20. Changes to the App
+From time to time and without notice, we may change, enhance or improve the App.
+We may also stop operating part or all of the App at any time, or selectively disable certain features of the App.
+Your use of the App does not grant you any right to the continued provision and availability of the App.
+Any modification or deletion of the App or specific features will be done at our sole and absolute discretion and without any further obligation or liability to you.
+21. Indemnification
+You agree to defend, indemnify and hold harmless the Company, its officers, directors, employees, agents, licensees and suppliers from and against any and all claims, actions and claims, liabilities and indemnities, including without limitation any reasonable legal and consulting fees resulting or alleged to result from a breach of this Agreement.
+22. Miscellaneous
+Any dispute arising out of this Agreement shall be governed by the laws of the State of California without regard to its conflict of law provisions.
+ANY STATE OR FEDERAL COURT WITH GOOD LOCATION IN SAN FRANCISCO, CALIFORNIA, SHALL HAVE SOLE AND EXCLUSIVE JURISDICTION FOR ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT, AND THE PARTIES UNCONDITIONALLY WAIVE THEIR RESPECTIVE RIGHTS TO A JURY TRIAL.
+Any claim by you related to your use of the App must be filed within one (1) year after the claim or cause of action arose.
+If for any reason a court of competent jurisdiction finds any provision of this Agreement or any part thereof to be unenforceable, that provision shall be enforced to the maximum extent and consistent with the intent of this Agreement, and the remainder of the Agreement shall survive in full force.
+A printed version of this Agreement shall be admissible in judicial or administrative proceedings.
+No waiver by Company of any term or condition set forth in this Agreement shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition, and Company's failure, right or right Enforcing any policy of this Agreement shall not constitute a waiver of said right or policy.
+If any policy of this Agreement is determined for any reason by any court or other competent authority to be invalid, illegal or unenforceable, such policy will be removed or limited to the minimum necessary so that the other policies of this Agreement are in full effect remain effective.
+Upon termination, all provisions of this Agreement which by their nature survive termination shall survive termination, including but not limited to retention of title, disclaimers and limitations of liability.
+All claims between the parties relating to this Agreement will be resolved individually and the parties will not claim or seek special treatment for any claim unless previously agreed in writing by the parties.
+We may refuse service, close accounts, and change eligibility requirements at any time.
+23. Reporting and Removal Procedures
+If you believe that any materials accessible on or through the App infringe your copyright, you may request removal of those materials from the App (or removal of access to them through the App) by contacting the Company and provide the following information:
+a.
+Identification of the copyrighted work that you claim has been infringed.
+Please describe the work and, if possible, include a copy of an authorized version of the work or an indication of where it can be found in the app (e.g. app page).
+b. Identification of the material that you claim has been infringed and an indication of where it can be found.
+Please describe the material and provide us with its URL or other relevant information that will enable us to locate the material.
+c. Your name, address, telephone number and (if available) email address.
+i.e. A statement that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+e. A statement that the information you have provided to us is accurate and, under penalty of perjury, that you own the copyright or are authorized to act on behalf of the copyright owner.
+f. The signature or electronic equivalent of the copyright owner or an authorized representative.
+To protect the rights of copyright owners, the company has a policy to ban subscribers and account owners who repeatedly infringe the right under appropriate circumstances from the site.
+questions and comments
+If you have any comments or questions about any part of the App or these Terms of Use, need help or have a claim, please contact us at support@flo.health.

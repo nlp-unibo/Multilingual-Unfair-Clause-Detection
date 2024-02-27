@@ -1,0 +1,243 @@
+Warunki usługi Visa Solution
+
+WAŻNE: PROSZĘ UWAŻNIE PRZECZYTAĆ PONIŻSZE WARUNKI USŁUGI VISA SOLUTION ("WARUNKI"). REJESTRUJĄC SIĘ W USŁUDZE VISA SOLUTION LUB AKTYWUJĄC KARTĘ W USŁUDZE VISA SOLUTION, UŻYTKOWNIK POTWIERDZA, ŻE ROZUMIE I AKCEPTUJE WSZYSTKIE NINIEJSZE WARUNKI. NINIEJSZE WARUNKI ZASTĘPUJĄ WSZYSTKIE DOTYCHCZASOWE WARUNKI DOTYCZĄCE VISA SOLUTION.
+
+1. The Visa Solution
+
+Usługa Visa Solution jest obsługiwana przez Visa U.S.A. Inc. (“Visa”). Dane kontaktowe spółki Visa znajdują się w sekcji Kontakt poniżej.
+
+Użyty w niniejszych Warunkach termin" Visa Solution" będzie oznaczać: wszystkie funkcje, opcje i usługi Visa Click to Pay i/lub Visa Checkout dostępne obecnie lub dodane w przyszłości, pod marką Visa Click to Pay, Visa Checkout lub pod inną nazwą i niezależnie od tego, czy będą dostępne poprzez witrynę internetową Visa Solution lub poprzez stronę mobilną, działającą jako domena lub poddomena ("Witryna internetowa") lub poprzez aplikację bądź funkcję oferowaną przez bank wydawcy karty lub instytucję płatniczą, sprzedawcę bądź inną stronę trzecią (łącznie zwane "Usługami"); logo, projekty graficzne, tekst, obrazy, klipy wideo, grafiki, oprogramowanie oraz inne treści i materiały Visa lub licencjodawców Visa, dostępne poprzez Visa Solution, a także ich wybór i aranżacja (łącznie zwane "Treściami"); oraz sprzęt, oprogramowanie i sieci Visa, związane z udostępnianiem użytkownikowi Visa Solution (łącznie zwane "Systemem Visa Solution").
+
+Visa Solution oferuje użytkownikowi (i) możliwość przechowywania informacji o koncie płatniczym oraz innych powiązanych informacji, takich jak adres e-mail, numer telefonu komórkowego, adres na potrzeby fakturowania i wysyłki ("Dane karty") dla kart Visa kredytowych, debetowych i przedpłaconych z możliwością powtórnego doładowania Visa oraz innych kart bądź metod płatności, o których Visa zdecyduje, że kwalifikują się do wykorzystywania w ramach Visa Solution ("Kwalifikujące się karty"); oraz (ii) możliwość korzystania z Visa Solution jako metody udostępnienia Danych karty na potrzeby przetworzenia transakcji u sprzedawców lub innych stron trzecich, u których widnieje ikona Click to Pay i akceptowane są rozwiązania Visa lub u których widnieje znak Visa Checkout. Visa może automatycznie aktualizować niektóre Dane karty, takie jak numer karty i data wygaśnięcia zgodnie z informacjami podanymi przez instytucję finansową lub inny podmiot, który wydał Kwalifikującą się kartę („Wydawca”).
+Państwa Wydawca może przekazywać dodatkowe informacje dotyczące Państwa Kwalifikującej się karty, takie jak dostępność punktów, opcje dotyczące rat i inne korzyści związane z Kwalifikującą się kartą. W takim przypadku będziemy prezentować Państwu te informacje w usłudze Visa Solution w takiej postaci, w jakiej otrzymaliśmy je od Wydawcy Kwalifikującej się karty. W przypadku jakichkolwiek pytań dotyczących tych informacji prosimy skontaktować się ze swoim Wydawcą.  W stosownych okolicznościach Visa będzie przetwarzać Państwa informacje w celu ustalenia, czy kwalifikują się Państwo do otrzymania tych opcji lub korzyści oraz ewentualnego wyświetlenia ich.
+
+Gdy użytkownik korzysta z Visa Solution, przesyłamy Dane karty do sprzedawcy lub innej stosownej strony trzeciej, by umożliwić im przetworzenie transakcji. Visa może wygenerować numeryczny substytut numeru konta płatniczego, do którego przypisana jest Kwalifikująca się karta Visa (token) w celu ochrony Państwa Kwalifikującej się karty. Użytkownik zgadza się, by sprzedawca lub inna odpowiednia strona trzecia mogli przesyłać informacje na temat transakcji do odpowiedniej sieci w związku z Kwalifikującą się kartą użytkownika, oraz że transakcja zostanie opłacona z użyciem Kwalifikującej się karty, którą wybierze użytkownik.
+
+Użytkownik potwierdza, że Dane karty przechowywane lub udostępniane za pośrednictwem Visa Solution są udostępniane bezpośrednio przez użytkownika lub, w niektórych jurysdykcjach, w imieniu użytkownika przez Wydawcę, sprzedawcę lub stronę trzecią oraz że zawierają one prywatne informacje finansowe. Użytkownik może korzystać z Kwalifikujących się kart jedynie w związku z Visa Solution, jeśli Wydawca karty uważa go za posiadacza karty lub autoryzowanego użytkownika, a jego imię i nazwisko jest wytłoczone na Kwalifikującej się karcie. Użytkownik przyjmuje do wiadomości i akceptuje, że ponosi odpowiedzialność za kompletność i dokładność Danych karty, a także innych informacji przechowywanych w usłudze Visa Solution lub podanych w ramach korzystania z Visa Solution. Użytkownik może korzystać wyłącznie z prawidłowych adresów e-mail i numerów telefonów posiadanych i kontrolowanych przez użytkownika. Mimo iż Visa może przeprowadzać pewne kontrole weryfikacyjne Danych kart Visa, nie odpowiada ona za prawidłowość Danych karty ani inne podawane przez użytkownika informacje, w tym za to, czy dane karty są aktualne.
+
+Usługa Visa Solution nie jest bankiem ani kontem płatniczym i nie oferuje żadnych wpłat dla użytkownika ani sprzedawcy. Jakakolwiek transakcja zrealizowana za pomocą Visa Solution zostanie odzwierciedlona na koncie związanym z Kwalifikującą się kartą użytą do zrealizowania transakcji. Płatności dokonywane z tego konta są sprawą wyłącznie pomiędzy Państwem a Wydawcą Kwalifikującej się karty.
+
+2. Ważna informacja dotycząca transakcji użytkownika
+CHOCIAŻ VISA SOLUTION POMAGA W REALIZACJI TRANSAKCJI, VISA NIE JEST STRONĄ W TRANSAKCJI, A PŁATNOŚĆ NA RZECZ SPRZEDAWCY LUB DOKONYWANA PRZEZ SPRZEDAWCĘ W ZWIĄZKU Z KORZYSTANIEM Z VISA SOLUTION, W TYM ZAKUP BĄDŹ ZWROT TOWARÓW LUB USŁUG, NASTĘPUJE WYŁĄCZNIE MIĘDZY UŻYTKOWNIKIEM A SPRZEDAWCĄ.
+
+JEŻELI UŻYTKOWNIK BĘDZIE CHCIAŁ UZYSKAĆ ZWROT LUB UNIEWAŻNIENIE TRANSAKCJI DOKONANEJ PRZY UŻYCIU VISA SOLUTION, BĘDZIE MUSIAŁ SKONTAKTOWAĆ SIĘ Z WŁAŚCIWYM SPRZEDAWCĄ I/LUB WYDAWCĄ KWALIFIKUJĄCEJ SIĘ KARTY, KTÓREJ UŻYTKOWNIK UŻYŁ DO TRANSAKCJI. PROSIMY PAMIĘTAĆ O TYM, ŻE VISA NIE JEST STRONĄ TRANSAKCJI, A ZATEM NIE MOŻE ROZWIĄZAĆ ŻADNYCH PROBLEMÓW, KTÓRE MOGĄ PAŃSTWO NAPOTKAĆ W ZWIĄZKU Z TRANSAKCJĄ.
+
+W PRZYPADKU SPORU ZE SPRZEDAWCĄ NA TEMAT TRANSAKCJI DOKONANEJ Z UŻYCIEM VISA SOLUTION, UŻYTKOWNIK PONOSI WYŁĄCZNĄ ODPOWIEDZIALNOŚĆ ZA ROZWIĄZANIE SPORU BEZPOŚREDNIO U SPRZEDAWCY LUB ZA POŚREDNICTWEM SWOJEGO WYDAWCY. ZE WZGLĘDU NA SPOSÓB FUNKCJONOWANIA VISA SOLUTION SPÓŁKA VISA NIE JEST STRONĄ TRANSAKCJI.
+
+3. Warunki świadczenia usług
+Usługa Visa Solution może nie być dostępna dla wszystkich Kwalifikujących się kart. Ponadto Visa może na własną odpowiedzialność usunąć Kwalifikujące się karty z usługi Visa Solution lub uniemożliwić aktywację Kwalifikujących się kart w usłudze Visa Solution; Visa może także w dowolnym momencie dokonać przeglądu kwalifikowalności konkretnych bądź ogólnych kart kredytowych, debetowych lub kart przedpłaconych z możliwością powtórnego doładowania oraz innych kart bądź metod płatności stanowiących Kwalifikujące się karty.
+
+4. Kwalifikowalość
+Usługa Visa Solution jest dostępna jedynie dla osób, które:
+
+    (i) są mieszkańcami jednej z następujących jurysdykcji: Arabii Saudyjskiej, Australii, Austrii, Brazylii, Chile, Chin (kontynentalnych i Hongkongu), Czech, Danii, Finlandii, Francji, Hiszpanii, Indii, Irlandii, Kanady, Kataru, Kolumbii, Kuwejtu, Malezji, Meksyku, Niemiec, Norwegii, Nowej Zelandii, Peru, Polski, Republiki Dominikańskiej, RPA, Singapuru, Słowacji, Stanów Zjednoczonych (w tym ich terytoriów), Szwajcarii, Szwecji, Ukrainy, Węgier, Wielkiej Brytanii, Włoch lub Zjednoczonych Emiratów Arabskich w miarę ich dostępności w danej jurysdykcji ("Kwalifikujące się jurysdykcje");
+    (ii) są pełnoletnie zgodnie z prawem obowiązującym w ich jurysdykcji, prowincji lub terytorium ich zamieszkania;
+    (iii) mają dostęp do Internetu przez komputer lub inne urządzenie; oraz
+    (iv) są posiadaczem karty lub autoryzowanym użytkownikiem jednej bądź większej liczby Kwalifikujących się kart, i mają dobrą reputację w zakresie konta związanego z Kwalifikującymi się kartami.
+Dostęp do Visa Solution z jakiejkolwiek lokalizacji, gdzie jest to nielegalne lub w inny sposób ograniczone, jest zabroniony. Jeśli użytkownik zmieni jurysdykcję zamieszkania, jest on zobowiązany natychmiastowo wyrejestrować się z usługi Visa Solution i ponownie zarejestrować się, podając nową jurysdykcję, jeśli jest ona Kwalifikującą się jurysdykcją. Jeśli nowe miejsce zamieszkania użytkownika nie jest Kwalifikującą się jurysdykcją, ponownej rejestracji można dokonać wyłącznie, gdy usługa Visa Solution będzie dostępna w nowym miejscu zamieszkania użytkownika.
+
+5. Rejestracja i bezpieczeństwo
+
+Jeśli użytkownik zdecyduje się zarejestrować lub aktywować w usłudze Visa Solution Kwalifikującą się kartę, zobowiązuje się podać nam prawdziwe, dokładne, bieżące i pełne informacje o sobie, oraz aktualizować te informacje w przypadku zmian. W maksymalnym zakresie dopuszczalnym przez stosowne przepisy prawa, użytkownik przyjmuje do wiadomości i akceptuje, że Visa nie będzie ponosić żadnej odpowiedzialności w związku z nieutrzymywaniem przez niego prawidłowych informacji przekazywanych spółce Visa, w tym nieotrzymywaniem przez użytkownika ważnych informacji i aktualności na temat Visa Solution. Jeśli Visa będzie mieć uzasadniony powód podejrzeń, że jakiekolwiek informacje podane nam przez użytkownika są nieprawdziwe, niedokładne bądź niekompletne, Visa może zawiesić bądź anulować rejestrację lub zakończyć wykorzystywanie usługi Visa Solution oraz nie pozwolić użytkownikowi na korzystanie z usługi Visa Solution obecnie lub w przyszłości (lub z jakiejkolwiek jej części).
+
+W ramach rejestracji wymaga się od użytkownika, by utworzył nazwę użytkownika, a na niektórych rynkach może być również wymagane utworzenie hasła. Te elementy danych mają za zadanie uwierzytelnienie użytkownika podczas korzystania przez niego z Visa Solution. Jeżeli użytkownik zostanie poproszony o utworzenie hasła, dla własnego bezpieczeństwa użytkownik powinien wybrać hasło, które będzie unikatowe dla Visa Solution oraz zapamiętać nazwę użytkownika i hasło bez zapisywania hasła na osobistym komputerze, tablecie, urządzeniu mobilnym lub innym urządzeniu wykorzystywanym do uzyskiwania dostępu do Visa Solution. Użytkownik ma obowiązek ochrony poufności swojej nazwy użytkownika oraz hasła lub haseł, jeżeli takowe istnieją. Dodatkowo, jeżeli użytkownik włączy funkcję stałego logowania lub powiąże usługę Visa Solution ze swoim cyfrowym portfelem na jednym lub kilku urządzeniach, użytkownik ponosi odpowiedzialność za ochronę bezpieczeństwa tych urządzeń oraz kontrolę dostępu do nich. Jest to ważne, gdyż nie ponosimy odpowiedzialności za żadne straty poniesione przez użytkownika w wyniku nieuprawnionego użycia jego Kwalifikującej się karty oraz, w zależności od okoliczności, Wydawca karty może obarczyć użytkownika odpowiedzialnością za nieuprawnione użycie jego konta związanego z Kwalifikującą się kartą. Użytkownik zgadza się poinformować spółkę Visa o każdym przypadku nieuprawnionego użycia swojej nazwy użytkownika, hasła lub Kwalifikującej się karty w Visa Solution oraz o każdym przypadku, w którym urządzenie lub jedno z urządzeń, na których została włączona funkcja stałego logowania, lub na których usługa Visa Solution została połączona z cyfrowym portfelem, zostało zgubione, skradzione lub w inny sposób stało się obiektem nieuprawnionego dostępu lub innego faktycznego bądź potencjalnego zagrożenia bezpieczeństwa związanego z wykorzystywaniem Visa Solution. Spółka Visa zastrzega sobie prawo do usunięcia Kwalifikujących się kart z usługi Visa Solution lub zakończenia świadczenia tejże usługi i/lub, jeżeli użytkownik posiada hasło, prawo do wymagania od użytkownika zmiany hasła, jeżeli spółka Visa uzna, że hasło nie jest już bezpieczne.
+
+Użytkownik jest odpowiedzialny za wykorzystywanie swoich Kwalifikujących się kart w związku z usługą Visa Solution oraz za zapewnienie, że jego użytkowanie oraz dostęp do Visa Solution są zgodne z niniejszymi Warunkami.
+
+Użytkownik przyjmuje do wiadomości, że Visa może wysyłać jednorazowe kody dostępu na adres e-mail użytkownika i/lub jego telefon komórkowy, aby zweryfikować tożsamość użytkownika podczas korzystania przez niego z Visa Solution.
+
+Regularnie dokonujemy przeglądu środków bezpieczeństwa dla Visa Solution. Nie możemy jednak zagwarantować, że informacje przekazywane przez Państwa za pośrednictwem Internetu będą całkowicie bezpieczne.
+
+6. Umowy posiadacza karty
+
+Niniejsze Warunki nie korygują ani w żaden inny sposób nie modyfikują żadnej umowy z Wydawcą karty użytkownika, jeśli chodzi o Kwalifikującą się kartę ("Umowy posiadacza karty"). W przypadku jakiejkolwiek nieścisłości niniejszych Warunków z Umową użytkownika, niniejsze Warunki będą regulować wyłącznie relację między użytkownikiem a Visa, jeśli chodzi o Visa Solution, a Umowa posiadacza karty z Wydawcą karty będzie regulować relację użytkownika z Wydawcą karty. Użytkownik ma obowiązek zapewnienia, by korzystanie przez niego z Visa Solution było zgodne z jakąkolwiek Umową posiadacza karty.
+
+7. Opłaty, prowizje oraz podatki
+
+Użytkownik ma wyłączny obowiązek uzyskania wszelkiego sprzętu, urządzeń, oprogramowania, dostępu do sieci bezprzewodowej i Internetu, innych elementów wymaganych do dostępu do Visa Solution oraz pokrycia wszelkich związanych z tym opłat, kosztów i innych wydatków. Mogą zostać naliczone opłaty za wysłanie wiadomości SMS lub przesył danych. Użytkownik ponosi również wyłączną odpowiedzialność za pokrycie wszelkich odsetek, prowizji, opłat bądź kosztów Wydawcy wszelkich Kwalifikujących się kart, z których użytkownik korzysta w związku z Visa Solution, a także za opłacenie wszelkich podatków i spełnienie obowiązków składania zeznań podatkowych w związku z korzystaniem przez niego z Visa Solution.
+
+8. Prywatność
+
+Visa przetwarza dane osobowe użytkownika w zakresie niezbędnym do świadczenia na jego rzecz usługi Visa Solution (jak określono w niniejszych warunkach użytkowania) i w powiązanych celach opisanych w Informacji o globalnej polityce prywatności Visa ("Polityka prywatności").  Aby uzyskać więcej informacji dotyczących sposobu gromadzenia, ochrony i udostępniania danych osobowych użytkowników korzystających z Visa Solution przez spółkę Visa oraz jej podmioty stowarzyszone oraz informacji na temat wszelkich wybór dotyczących prywatności, które mogą przysługiwać użytkownikowi, prosimy o zapoznanie się z Informacją o globalnej polityce prywatności Visa.
+
+Jeśli użytkownik korzysta z innych usług obsługiwanych przez jego Wydawcę, sprzedawcę lub jakikolwiek inny podmiot zewnętrzny (włącznie z podmiotami, których usługi są dostępne za pośrednictwem Visa Solution), mogą obowiązywać odrębne polityki prywatności.
+
+W celu usprawnienia obsługi użytkownika w zakresie korzystania z Visa Solution, usługa ta korzysta z funkcji automatycznego wypełniania Google.  W zakresie, w jakim firma Google przetwarza dane osobowe użytkownika, czyni to zgodnie ze swoimi własnymi warunkami użytkowania i polityką prywatności.
+
+Użytkownik jest odpowiedzialny za upewnienie się, że dane osobowe powiązane z jego kontem pozostają prawidłowe i aktualne.
+
+9. Prawa rzeczowe
+
+Wszelkie prawa własności w związku z Visa Solution, w tym Treści, należą do Visa, Podmiotów stowarzyszonych spółki i ich licencjodawców, i są chronione odpowiednim prawem autorskim, prawami w zakresie znaków towarowych i innymi prawami własności (w tym własności intelektualnej) oraz traktatami międzynarodowymi. Wszelkie prawa nieudzielone wyraźnie użytkownikowi w ramach niniejszych Warunków pozostają w posiadaniu Visa, Podmiotów stowarzyszonych spółki oraz ich licencjodawców. Żadne z postanowień niniejszych Warunków nie przyznaje użytkownikowi żadnego prawa do wykorzystywania znaków towarowych Visa, Podmiotów stowarzyszonych spółki ani stron trzecich, ich znaków usługowych, logo ani innych znaków pochodzenia. „Podmiot stowarzyszony” oznacza podmiot, który znajduje się pod kontrolą spółki Visa, kontroluje ją lub znajduje się wraz z nią pod kontrolą innego podmiotu.
+
+
+
+
+
+
+
+10. Udzielenie licencji
+
+Visa udziela użytkownikowi ograniczonej, odwoływalnej, niewyłącznej, niepodlegającej sublicencjonowaniu oraz nieprzenoszalnej licencji na wykorzystywanie usługi Visa Solution w sposób zgodny z niniejszymi Warunkami tak długo, jak licencjobiorca pozostaje zarejestrowanym użytkownikiem Visa Solution. Visa może, wyłącznie wedle własnego uznania, zawiesić, zakończyć lub rozwiązać niniejszą licencję w dowolnym momencie z jakiegokolwiek powodu. Wszelkie prawa nie udzielone użytkownikowi wyraźnie są zastrzeżone przez Visa, Podmioty stowarzyszone spółki lub ich licencjodawców.
+
+11. Opinie
+
+Jeżeli użytkownik przesyła informacje zwrotne lub sugestie dotyczące Visa Solution, możemy wykorzystywać takie informacje zwrotne i sugestie bez jakichkolwiek zobowiązań wobec użytkownika.
+
+12. Postępowanie użytkownika
+
+Użytkownik zobowiązuje się przestrzegać wszystkich obowiązujących przepisów, reguł i regulacji, a także innych wymogów prawnych, związanych z korzystaniem przez niego z Visa Solution. Ponadto zobowiązują się Państwo:
+
+    wykorzystywać usługę Visa Solution wyłącznie w sposób dopuszczalny przez przepisy prawa;
+    nie korzystać z Visa Solution w sposób naruszający niniejsze Warunki;
+    nie przeszkadzać ani nie zakłócać bezpieczeństwa lub funkcjonowania, ani w inny sposób nie nadużywać Visa Solution ani żadnej części Visa Solution;
+    nie próbować uzyskać nieuprawnionego dostępu do Visa Solution lub części Visa Solution, które są wyłączone z ogólnego dostępu;
+    nie korzystać z Visa Solution w żaden sposób, który mógłby zostać uznany za fałszywy i/lub oszczerczy, nadużywający, wulgarny, kierowany nienawiścią, stanowiący przypadek nękania, obsceniczny, bluźnierczy, zagrażający, naruszający czyjąś prywatność lub naruszający jakiekolwiek prawa strony trzeciej;
+    nie reprodukować Visa Solution w żadnej formie, nie przechowywać ani nie włączać Visa Solution w żadne systemy pozyskiwania informacji, elektroniczne, mechaniczne, czy też inne;
+    nie kopiować, naśladować, klonować, wynajmować, udzielać leasingu, sprzedawać, wykorzystywać komercyjnie, modyfikować, dekompilować, rozkładać, dystrybuować, rozmontowywać ani przekazywać usługi Visa Solution ani żadnej jej części;
+    nie korzystać z żadnego urządzenia, oprogramowania ani sposobu, aby przeszkadzać bądź próbować przeszkodzić w prawidłowym działaniu Visa Solution oraz nie podejmować żadnych działań, które stanowią nieuzasadnione bądź nieproporcjonalnie duże obciążenie Systemu Visa Solution, według wyłącznego uznania Visa; oraz
+    przestrzegać wszelkich innych wymogów, ograniczeń lub limitów nakładanych okresowo przez Visa lub przez Wydawcę Państwa karty.
+
+13. Zrzeczenie się odpowiedzialności gwarancyjnych oraz Ograniczenie odpowiedzialności
+
+VISA SOLUTION, W CAŁOŚCI I W CZĘŚCI, W TYM WSZELKIE USŁUGI, SĄ DOSTARCZANE NA ZASADZIE "TAK JAK JEST" I "W RAMACH DOSTĘPNOŚCI", BEZ WYRAŹNYCH BĄDŹ DOROZUMIANYCH GWARANCJI JAKIEGOKOLWIEK RODZAJU, W TYM GWARANCJI TYTUŁU, GWARANCJI DOROZUMIANYCH CO DO PRZYDATNOŚCI HANDLOWEJ, BĄDŹ PRZYDATNOŚCI DO KONKRETNEGO CELU. NIE UDZIELAMY GWARANCJI, ŻE SYSTEM VISA SOLUTION JEST POZBAWIONY WIRUSÓW KOMPUTEROWYCH, ANI ŻE DOSTĘP DO VISA SOLUTION BĘDZIE ODBYWAĆ SIĘ BEZ ZAKŁÓCEŃ. W NAJPEŁNIEJSZYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO UŻYTKOWNIK WYRAŹNIE PRZYZNAJE I ZGADZA SIĘ, ŻE PRZYJMUJE WYŁĄCZNĄ ODPOWIEDZIALNOŚĆ ORAZ BIERZE NA SIEBIE RYZYKO PŁYNĄCE Z KORZYSTANIA PRZEZ NIEGO Z VISA SOLUTION, ORAZ ZWIĄZANE Z WYNIKAMI TAKICH DZIAŁAŃ.
+
+W ŻADNYM WYPADKU ORAZ W PRZYPADKU ŻADNYCH DZIAŁAŃ, W TYM ZANIEDBANIA, ANI VISA, ANI PODMIOTY STOWARZYSZONE SPÓŁKI, ORAZ ICH ODPOWIEDNI CZŁONKOWIE ORGANÓW, DYREKTORZY, KLIENCI, CZŁONKOWIE, PRACOWNICY LUB UPRAWNIENI AGENCI (ŁĄCZNIE ZWANI "STRONAMI VISA") NIE BĘDĄ PONOSILI ODPOWIEDZIALNOŚCI ZA ŻADNE SPOWODOWANE SZKODY, ROSZCZENIA BĄDŹ STRATY (W TYM SZKODY KOMPENSACYJNE, PRZYPADKOWE, POŚREDNIE, SPECJALNE, BĘDĄCE KONSEKWENCJĄ, SANKCYJNE CZY TEŻ PRZYKŁADOWE), NIEZALEŻNIE OD TEGO, W JAKI SPOSÓB ZOSTAŁY SPOWODOWANE ORAZ NIEZALEŻNIE OD PODSTAW DO ODPOWIEDZIALNOŚCI, ZWIĄZANE Z VISA SOLUTION I/LUB NINIEJSZYMI WARUNKAMI, NAWET JEŻELI STRONA VISA OTRZYMA INFORMACJE O MOŻLIWOŚCI TAKICH SZKÓD, ROSZCZEŃ CZY STRAT.
+
+NIE OGRANICZAJĄC OGÓLNEGO CHARAKTERU POWYŻSZYCH POSTANOWIEŃ, STRONY VISA NIE PONOSZĄ ODPOWIEDZIALNOŚCI WOBEC PAŃSTWA ANI JAKICHKOLWIEK OSÓB TRZECICH Z TYTUŁU: (I) KORZYSTANIA PRZEZ PAŃSTWA, BĄDŹ NIEMOŻNOŚCI KORZYSTANIA, Z VISA SOLUTION Z DOWOLNEGO POWODU, W TYM ODMOWY WYDAWCY KARTY DOKONANIA AUTORYZACJI, LUB ODMOWY AKCEPTACJI TRANSAKCJI PRZEZ SPRZEDAWCĘ; (II) JAKICHKOLWIEK TOWARÓW, USŁUG ANI INFORMACJI ZAKUPIONYCH BĄDŹ OTRZYMANYCH W ZWIĄZKU Z VISA SOLUTION, W TYM NIEOTRZYMANIA LUB NIEMOŻNOŚCI OTRZYMANIA PRZEZ PAŃSTWA LUB NIEMOŻNOŚCI ZWROTU TAKICH TOWARÓW, USŁUG BĄDŹ INFORMACJI; (III) SPORÓW MIĘDZY PAŃSTWEM A SPRZEDAWCĄ; (IV) JAKIEJKOLWIEK NIEDOKŁADNOŚCI, NIEKOMPLETNOŚCI CZY BŁĘDNYCH INFORMACJI PODANYCH ZA POMOCĄ VISA CHECKOUT, W TYM INFORMACJI PODANYCH PRZEZ PAŃSTWA WYDAWCĘ LUB INNĄ STRONĘ TRZECIĄ; (V) NIEUPRAWNIONEGO DOSTĘPU, ZMIANY BĄDŹ UTRATY TRANSMISJI UŻYTKOWNIKA, JEGO DANYCH BĄDŹ INNYCH INFORMACJI POBIERANYCH, PRZECHOWYWANYCH BĄDŹ WYSYŁANYCH W ZWIĄZKU Z VISA SOLUTION; (VI) BŁĘDÓW, AWARII SYSTEMU, PRZESTOJU SIECI BĄDŹ SYSTEMU, NARUSZENIA PLIKU LUB PRZESZKODY W DZIAŁANIU USŁUGI; ANI (VII) JAKIEGOKOLWIEK INNEGO WYKORZYSTYWANIA PRZEZ PAŃSTWA VISA SOLUTION. PONADTO STRONY VISA NIE BĘDĄ PONOSIŁY ODPOWIEDZIALNOŚCI W PRZYPADKU JAKIEJKOLWIEK NIEMOŻNOŚCI REALIZACJI WSZELKICH OBOWIĄZKÓW ZAWARTYCH W NINIEJSZYCH WARUNKACH Z POWODU (BEZPOŚREDNIO LUB POŚREDNIO) AWARII JAKIEGOKOLWIEK SPRZĘTU, PROBLEMÓW W TRANSMISJI BĄDŹ DOSTAWIE, BĄDŹ WSZELKICH SPORÓW PRACOWNICZYCH, WOJNY, KLĘSKI ŻYWIOŁOWEJ, DZIAŁAŃ TERRORYSTYCZNYCH, WYBUCHU, DZIAŁANIA SIŁY WYŻSZEJ LUB JAKIEGOKOLWIEK INNEGO ZDARZENIA POZA NASZĄ KONTROLĄ.
+
+NIEZALEŻNIE OD ZAWARTYCH TU POSTANOWIEŃ STANOWIĄCYCH INACZEJ, ŁĄCZNA ODPOWIEDZIALNOŚĆ STRON VISA WOBEC UŻYTKOWNIKA, SPOWODOWANA DOWOLNĄ PRZYCZYNĄ LUB DZIAŁANIEM, ZAWSZE BĘDZIE OGRANICZONA DO NIŻSZEJ WARTOŚCI (A) RZECZYWISTEJ STRATY; LUB (B) 100 USD (LUB RÓWNOWARTOŚCI W WALUCIE LOKALNEJ).
+
+W NIEKTÓRYCH JURYSDYKCJACH ODSTĄPIENIE, WYŁĄCZENIE LUB OGRANICZENIE DOTYCZĄCE OKREŚLONYCH GWARANCJI, ZOBOWIĄZAŃ I ODSZKODOWAŃ JEST NIEDOZWOLONE; W ZWIĄZKU Z TYM, NIEKTÓRE Z POWYŻSZYCH ODSTĄPIEŃ, WYŁĄCZEŃ I OGRANICZEŃ MOGĄ NIE MIEĆ DO PAŃSTWA ZASTOSOWANIA. W TAKICH JURYSDYKCJACH ODPOWIEDZIALNOŚĆ STRON VISA BĘDZIE OGRANICZONA DO NAJPEŁNIEJSZEGO ZAKRESU DOZWOLONEGO PRZEZ OBOWIĄZUJĄCE PRAWO. ŻADNE POSTANOWIENIE NINIEJSZYCH WARUNKÓW NIE WYŁĄCZA ODPOWIEDZIALNOŚCI STRON VISA Z TYTUŁU (A) ŚMIERCI LUB USZCZERBKU NA ZDROWIU SPOWODOWANYCH ICH ZANIEDBANIEM, (B) OSZUSTWA, PODANIA FAŁSZYWYCH INFORMACJI LUB (C) JAKIEJKOLWIEK KWESTII, W KTÓREJ WYŁĄCZENIE LUB OGRANICZENIE ODPOWIEDZIALNOŚCI STRON VISA BYŁOBY NIEZGODNE Z PRAWEM.
+
+14. Brak poparcia; Spory ze sprzedawcami
+
+Spółka Visa nie popiera, nie sponsoruje, ani nie jest odpowiedzialna za: (i) Wydawców, operatorów sieci płatności lub cyfrowych portfeli lub inne strony trzecie, które wspomagają proces przejścia do płatności lub które mogą być wykorzystywane w związku z Visa Solution; (ii) towary i usługi zakupione w związku z usługą Visa Solution oraz zrealizowane w związku z nią transakcje; (iii) honorowanie bądź realizację towarów lub usług zakupionych w związku z Visa Solution lub zrealizowanych w związku z tą usługą transakcji; oraz (iv) sprzedawców, z którymi może dojść do transakcji lub których towary bądź usługi mogą zostać zakupione w związku z Visa Solution.
+
+15. Witryny internetowe, treść i zasoby stron trzecich
+
+Usługa Visa Solution może być dostępna za pośrednictwem stron trzecich, które wspomagają realizację transakcji (w tym poprzez ich witryny internetowe, domeny lub aplikacje) oraz które mogą umożliwiać użytkownikom łączenie się lub bezpośredni dostęp do takich stron trzecich lub witryn internetowych, treści i zasobów stron trzecich, w tym ich mediów społecznościowych. Użytkownik potwierdza, iż rozumie, że spółka Visa nie ma kontroli nad poglądami, opiniami oraz treściami jakiejkolwiek strony trzeciej lub jej witryny internetowej, domeny, aplikacji, zawartości lub zasobów, które są zapewniane przez spółki lub osoby inne niż Visa, oraz że niekoniecznie podziela ich poglądy. Użytkownik przyjmuje do wiadomości i akceptuje, że Visa nie będzie ponosić odpowiedzialności za dostępność jakichkolwiek takich witryn internetowych, domen, aplikacji, treści czy zasobów. Ponadto użytkownik przyjmuje do wiadomości, że Visa nie ponosi odpowiedzialności wobec niego za jakiekolwiek straty bądź szkody, na które mógł być narażony w wyniku korzystania z tych witryn internetowych, domen lub aplikacji stron trzecich, ich treści czy zasobów, w tym straty bądź szkody związane z zakupami przetwarzanymi przez Visa Solution.
+
+16. Modyfikacja usługi Visa Solution oraz niniejszych Warunków; Wypowiedzenie
+
+Visa może według swojego wyłącznego uznania wypowiedzieć, zmienić, zmodyfikować, zawiesić, poprawić lub zaprzestać oferowania jakiegokolwiek aspektu Visa Solution, tymczasowo bądź trwale, w tym dostępności jakiejkolwiek części Visa Solution, w dowolnym momencie, z powiadomieniem użytkownika lub bez, a użytkownik akceptuje fakt, że Visa nie będzie ponosić odpowiedzialności wobec niego ani wobec żadnej innej strony trzeciej w wyniku podjęcia takich działań. Ciągłe korzystanie przez użytkownika z usługi Visa Solution po wprowadzeniu w niej lub w jakiejkolwiek jej części zmian, modyfikacji lub poprawek będzie zrozumiane jako akceptacja takich zmian, modyfikacji i poprawek oraz zastosowania niniejszych Warunków do usługi Visa Solution z takimi zmianami, modyfikacjami lub poprawkami.
+
+Jeżeli użytkownik nie zgadza się na którykolwiek z tych Warunków, nie może korzystać z Visa Solution. Spółka Visa zastrzega sobie prawo, by na własną odpowiedzialność modyfikować niniejsze Warunki w dowolnym momencie. Spółka Visa może wprowadzić zmiany w niniejszych Warunkach poprzez opublikowanie nowej wersji wraz z obwieszczeniem, które zostanie przez spółkę uznane za odpowiednie, biorąc pod uwagę okoliczności. Może to być na przykład obwieszczenie na naszej Witrynie internetowej lub na jakiejkolwiek innej witrynie internetowej prowadzonej w związku z zapewnianiem usługi Visa Solution. W Witrynie internetowej zawsze będziemy zamieszczać najnowszą wersję niniejszych Warunków. Data ostatniej modyfikacji będzie odnotowana jako "Data ostatniej aktualizacji" poniżej. W najpełniejszym zakresie wymaganym przez obowiązujące prawo, kontynuacja korzystania przez użytkownika lub jego udziału w Visa Solution po takiej modyfikacji stanowi akceptację zmodyfikowanych Warunków.
+
+Użytkownik może zaprzestać użytkowania Visa Solution w dowolnym momencie — również wtedy, gdy jest niezadowolony ze zmian wprowadzonych w treści Warunków. Użytkownik może wyrejestrować się z usługi Visa Solution, stosując się do instrukcji zawartych w sekcji Obsługa klienta w witrynie internetowej Visa Solution. Visa może zawiesić, zakończyć bądź wypowiedzieć dostęp użytkownika lub jego korzystanie z Visa Solution, w dowolnym momencie, natychmiastowo i bez uprzedniego powiadomienia lub zobowiązania wobec użytkownika, (i) jeśli użytkownik naruszy którykolwiek z niniejszych Warunków lub (ii) z dowolnego innego ekonomicznie uzasadnionego powodu, według wyłącznego uznania Visa. Spółka Visa nie będzie ponosić odpowiedzialności wobec użytkownika za jakiekolwiek zawieszenie, wycofanie, wypowiedzenie bądź modyfikację sposobu wykorzystywania usługi Visa Solution lub uzyskiwania do niej dostępu. Po zakończeniu korzystania zachowują Państwo odpowiedzialność za wszelkie płatności i inne zobowiązania zaciągnięte zgodnie z niniejszymi warunkami.
+
+17. Warunki ogólne
+
+    a. Powiadomienia.
+
+    Użytkownik zgadza się, że Visa może dostarczać mu powiadomienia oraz inne informacje w związku z Visa Solution, pocztą elektroniczną, za pośrednictwem publikacji na Witrynie internetowej lub w innych formach komunikatów elektronicznych. Komunikaty elektroniczne od nas, kierowane do użytkownika, będą uznawane za komunikaty "na piśmie" i za dostarczone użytkownikowi nie później niż w dniu otrzymania komunikatu lub po pięciu dniach od daty wysłania lub rozpowszechnienia, w zależności od tego, co nastąpi wcześniej. Nie mamy obowiązku dostarczać użytkownikowi fizycznych kopii wysyłanych mu komunikatów związanych z wykorzystywaniem Visa Solution.
+
+    Odpowiedzialność za regularne sprawdzanie, czy w skrzynce pocztowej użytkownika nie znajdują się wiadomości od nas, spoczywa na użytkowniku. Użytkownik ma obowiązek zapewnić, że wysyłane mu przez nas wiadomości e-mail nie są blokowane przez jego konto, oraz że podany nam adres e-mail jest aktualny. Dodatkowo, użytkownik upoważnia nas do podejmowania działań na podstawie instrukcji wysyłanych nam przez niego drogą elektroniczną.
+
+    Użytkownik musi posiadać nazwę użytkownika powiązaną z kontem Visa Solution, by uzyskiwać elektroniczny dostęp do informacji oraz podejmować jakiekolwiek działania związane ze swoim kontem Visa Solution.
+
+    b. Zrzeczenie się praw.
+
+    Nieskorzystanie lub opóźnienie w wykorzystaniu jakichkolwiek postanowień lub uprawnień zawartych w niniejszych Warunkach nie zostanie uznane za zrzeczenie się tych postanowień lub uprawnień.
+
+    c. Całość porozumienia
+
+    Niniejsze Warunki stanowią całość porozumienia pomiędzy spółką Visa a użytkownikiem w odniesieniu do wykorzystywania Visa Solution przez użytkownika.
+
+    d. Rozłączność postanowień.
+
+    Użytkownik oraz spółka Visa ustalają, że jeżeli jakiekolwiek postanowienie niniejszych Warunków zostanie uznane za bezprawne, nieważne (w tym na mocy prawa) lub z dowolnego powodu niemożliwe do wyegzekwowania przez sąd odpowiedniej jurysdykcji, wówczas takie postanowienie zostanie uznane za wyłączone z niniejszych Warunków, co nie wpłynie na ważność i możliwość egzekwowania wszelkich pozostałych postanowień.
+
+    e. Interpretacja.
+
+    Tytuły i nagłówki mają na celu wyłącznie ułatwienie posługiwania się niniejszymi warunkami i nie uwzględnia się ich do celów interpretacji. Słowa takie, jak "niniejszym", "poniżej" itd. będą oznaczały i odnosiły się do wszystkich tych Warunków, a nie do ich konkretnej części. Określenie "w tym" będzie oznaczało "w tym bez ograniczeń". Stosowane w niniejszych warunkach wyrażenia w liczbie pojedynczej obejmują liczbę mnogą, wyrażenia w liczbie mnogiej obejmują liczbę pojedynczą, zaś dowolny rodzaj gramatyczny ma zastosowanie do wszystkich rodzajów gramatycznych.
+
+    f. Relacja Stron
+
+    Żadne stwierdzenie zawarte w niniejszych Warunkach nie będzie interpretowane jako tworzące relację typu joint venture, partnerstwa, stosunek pracy lub relacje wynikające z umowy agencyjnej pomiędzy Państwem a Visa i nie przysługują Państwu żadne uprawnienia do zaciągania jakichkolwiek zobowiązań lub składania jakichkolwiek oświadczeń w imieniu Visa.
+
+    g. Zwolnienie z odpowiedzialności.
+
+    W największym dozwolonym przez obowiązujące prawo zakresie użytkownik zgadza się na zwolnienie z odpowiedzialności, ochronę i zwolnienie od roszczeń Stron Visa z powodu jakichkolwiek strat, zobowiązań, roszczeń, wymagań, szkód, kar i kosztów, z uwagi na lub w związku z naruszeniem niniejszych Warunków przez użytkownika.
+
+    h. Rozstrzyganie sporów i obowiązujące prawo.
+
+    W najszerszym zakresie dozwolonym zgodnie z prawem Państwo oraz Visa uzgadniają, że:
+
+        (1.) jeżeli użytkownik jest rezydentem Kwalifikującej się jurysdykcji nieujętej w punkcie (2.) poniżej, zastosowanie mają następujące prawo właściwe i postanowienia dotyczące arbitrażu:
+
+        NINIEJSZY USTĘP ZAWIERA ZAPIS NA SĄD ARBITRAŻOWY. PROSIMY UWAŻNIE SIĘ Z NIĄ ZAPOZNAĆ. STANOWI ONA, ŻE WSZELKIE ROSZCZENIA ZWIĄZANE Z VISA SOLUTION LUB Z NINIEJSZYMI WARUNKAMI NALEŻY ROZWIĄZYWAĆ ZA POMOCĄ WIĄŻĄCEGO ARBITRAŻU. W RAMACH ARBITRAŻU ANI PAŃSTWU, ANI VISA NIE PRZYSŁUGUJE PRAWO DO DOCHODZENIA ROSZCZEŃ DROGĄ SĄDOWĄ ANI DO ROZPRAW Z UDZIAŁEM ŁAWY PRZYSIĘGŁYCH W SPRAWIE TYCH ROSZCZEŃ. ROSZCZENIA MOGĄ PODLEGAĆ POSTĘPOWANIU ARBITRAŻOWEMU WYŁĄCZNIE INDYWIDUALNIE. UPRAWNIENIA DO UJAWNIENIA DOWODÓW PRZED ROZPRAWĄ ORAZ DO ODWOŁANIA PO ROZPRAWIE BĘDĄ OGRANICZONE, ALE ARBITER MOŻE PRZYZNAĆ ODSZKODOWANIE I ZADOŚĆUCZYNIENIE ZGODNIE Z NINIEJSZYMI WARUNKAMI.
+
+        Wszelkie spory, podstawy powództw, roszczenia lub różnice zdań powstałe w związku z Visa Solution lub niniejszymi Warunkami, w tym dotyczące tworzenia, interpretacji, naruszenia, wykonania, wypowiedzenia, egzekwowania, interpretacji lub ważności niniejszych Warunków, ważności i egzekwowania niniejszego postanowienia oraz ustalenia zakresu lub stosowalności umowy w arbitrażu (wspomniane w sekcji h(1) jako "Spór"), które mogą zostać poddane arbitrażowi, będą rozstrzygane wyłącznie w oparciu o klauzulę dotyczącą procesu i arbitrażu zawartą w niniejszej sekcji. Wszelkie Spory pomiędzy Państwem a Visa będą ostatecznie rozstrzygane w drodze postępowania arbitrażowego; jeżeli jednak są Państwo mieszkańcami Stanów Zjednoczonych, mogą Państwo wysuwać roszczenia w sądach ds. drobnych roszczeń (jeżeli Państwa roszczenie się do tego kwalifikuje). Niniejsza klauzula arbitrażowa ma zastosowanie wyłącznie do sporów ze spółką Visa dotyczących usługi Visa Solution. Użytkownik będący w sporze ze swoim Wydawcą Kwalifikującej się karty musi rozstrzygnąć ten spór ze swoim Wydawcą.
+
+        Arbitraż pomiędzy użytkownikiem a spółką Visa jest przeprowadzany przez spółkę JAMS zgodnie z jej Ogólnymi zasadami i procedurami dotyczącymi arbitrażu w przypadku rezydentów Stanów Zjednoczonych i Międzynarodowymi zasadami arbitrażu JAMS w przypadku osób spoza Stanów Zjednoczonych, w zakresie w jakim zasady te nie są sprzeczne z niniejszym postanowieniem. Egzemplarz tych zasad można uzyskać, kontaktując się z JAMS pod numerem 1-800-352-5267, pisemnie pod adresem JAMS 620 Eighth Avenue, 34th Floor, Nowy Jork, NY 10018 lub internetowo przez stronę www.jamsadr.com lub www.jamsinternational.com/.
+
+        ROSZCZENIA PODLEGAJĄ ARBITRAŻOWI INDYWIDUALNIE. OZNACZA TO, ŻE ZARÓWNO UŻYTKOWNIKOWI, JAK I SPÓŁCE VISA, NIE WOLNO BRAĆ UDZIAŁU W ROSZCZENIACH WSPÓLNYCH BĄDŹ KONSOLIDACYJNYCH W ARBITRAŻU NA WNIOSEK LUB PRZECIWKO INNYM PODMIOTOM, O ILE UŻYTKOWNIK I SPÓŁKA VISA NIE POSTANOWIĄ INACZEJ NA PIŚMIE. UŻYTKOWNIK ORAZ SPÓŁKA VISA NIE MOGĄ RÓWNIEŻ PRZEPROWADZAĆ ARBITRAŻU W PRZYPADKU JAKICHKOLWIEK ROSZCZEŃ JAKO PRZEDSTAWICIEL BĄDŹ CZŁONEK PODMIOTÓW WNOSZĄCYCH POZEW ZBIOROWY. AKCEPTUJĄC NINIEJSZE WARUNKI, UŻYTKOWNIK I SPÓŁKA VISA ZRZEKAJĄ SIĘ PRAWA DO UCZESTNICZENIA W POSTĘPOWANIACH SĄDOWYCH Z POZWÓW ZBIOROWYCH. Postępowanie arbitrażowe odbędzie się przed jednym arbitrem. Postępowanie arbitrażowe (i) zostanie przeprowadzone telefonicznie, przez Internet i/lub wyłącznie na podstawie pisemnych oświadczeń; konkretny sposób zostanie wybrany przez stronę wszczynającą postępowanie arbitrażowe oraz (ii) nie będzie się wiązać z jakimkolwiek osobistym stawieniem się stron ani świadków, chyba że strony wspólnie uzgodniły inaczej. Rezydenci Kwalifikujących się jurysdykcji na Bliskim Wschodzie będą stroną arbitrażu prowadzonego w Międzynarodowym centrum finansowym w Dubaju (Dubai International Financial Center), o ile strony wspólnie nie uzgodnią inaczej. Arbiter zostanie wspólnie uzgodniony przez Państwa i Visa. Jeśli użytkownik i spółka Visa nie dojdą do porozumienia w sprawie arbitra, arbiter jest wyznaczany zgodnie z procedurami JAMS. Jeśli z jakiegokolwiek powodu Spór jest rozstrzygany w sądzie, a nie w ramach postępowania arbitrażowego, użytkownik i spółka Visa zrzekają się prawa do rozprawy z udziałem ławy przysięgłych.
+
+        Użytkownik może zatrudnić adwokata, ale nie jest to wymagane. Każda ze stron odpowiada za własne koszty obsługi prawnej, chyba że arbiter zasądzi inaczej zgodnie z obowiązującym prawem. Strona wszczynająca postępowanie arbitrażowe uiści opłatę z tego tytułu (chyba że JAMS narzuci inne warunki z powodu stwierdzenia trudności). Visa pokryje wszelkie inne zaliczki na poczet opłat administracyjnych, opłat za obsługę sprawy oraz honorariów arbitrów związane z postępowaniem arbitrażowym, dokonując bezpośredniej wpłaty na rzecz JAMS. Na zakończenie postępowania arbitrażowego opłaty uiszczone przez Visa mogą zostać podzielone pomiędzy Państwo a Visa wedle uznania arbitra, zgodnie z procedurami JAMS.
+
+        Wszystkie kwestie rozstrzyga arbiter, w tym kwestie związane z zakresem i egzekwowaniem niniejszego postanowienia dotyczącego arbitrażu. Wszelkie decyzje arbitra są ostateczne. O wydanie orzeczenia na podstawie decyzji można zwrócić się do dowolnego sądu właściwej jurysdykcji. Niniejsza klauzula nie wyklucza ubiegania się przez strony o tymczasowe środki naprawcze wspierające postępowanie arbitrażowe w sądzie właściwej jurysdykcji. Odpowiedzialność Visa jest ograniczona zgodnie z opisem podanym w ust. 13 powyżej w najszerszym zakresie dozwolonym zgodnie z obowiązującym prawem.
+
+        Niniejsze Warunki oraz wynikające z nich uprawnienia stron podlegają prawu stanu Delaware i będą zgodnie z nim interpretowane z wyłączeniem norm kolizyjnych lub zasad wyboru prawa właściwego.
+
+        Jeżeli postanowienie dotyczące arbitrażu lub zrzeczenie się prawa do uczestniczenia w pozwie zbiorowym uznane za niemożliwe do wyegzekwowania z jakiegokolwiek powodu w przypadku, gdy wysunięte zostały oskarżenia związane z pozwem zbiorowym, zastosowanie będą miały prawo właściwe oraz klauzula jurysdykcyjna opisane w sekcji (2.) poniżej.
+
+        Pozostała część niniejszej sekcji dotyczy rezydentów USA:
+
+        Arbiter nie może przyznawać odszkodowań o charakterze sankcji ani odszkodowań retorsyjnych, z wyjątkiem sytuacji, gdy jest to wymagane ustawowo, ani odsetek narosłych przed wyrokiem; arbiter nie może też przyznawać żadnego odszkodowania za szkody przypadkowe, pośrednie lub wynikowe, w tym odszkodowania za utracone zyski lub szkody poniesione przez osoby trzecie. Jakiekolwiek przyznane świadczenie nie będzie miało wpływu na innych użytkowników Visa Solution. Strony przyjmują do wiadomości, że niniejsze warunki potwierdzają transakcję w ramach handlu międzynarodowego. Niezależnie od postanowienia zawartego w poprzednim akapicie, dotyczącego obowiązującego prawa materialnego, wszelkie postępowania arbitrażowe prowadzone zgodnie z Warunkami oraz niniejszym ustępem podlegają Federalnej Ustawie o Postępowaniu Arbitrażowym (9 U.S.C., Secs. 1–16).
+
+
+
+        (2.) jeżeli użytkownik jest rezydentem (i) Argentyny, Brazylii, Kanady lub Kwalifikującej się jurysdykcji w Europie, (ii) jakiejkolwiek Kwalifikującej się jurysdykcji, w której klauzula arbitrażowa wspomniana w ustępie (1.) powyżej została uznana za niemożliwą do wyegzekwowania lub (iii) jakiejkolwiek innej Kwalifikującej się jurysdykcji, w której zrzeczenie się prawa do uczestniczenia w pozwie zbiorowym zostanie uznane za niemożliwe do wyegzekwowania w przypadku, gdy wysunięte zostały oskarżenia związane z pozwem zbiorowym, zastosowanie będą miały następujące postanowienia: (x) wszelkie spory, roszczenia lub podstawy powództwa wynikające lub związane z niniejszymi Warunkami lub z usługą Visa Solution będą podlegały przepisom prawa Kwalifikującej się jurysdykcji, której mieszkańcem jest użytkownik oraz będą interpretowane zgodnie z tymi przepisami; oraz (y) wszelkie spory, roszczenia lub podstawy powództwa wynikające lub związane z niniejszymi Warunkami lub z usługą Visa Solution będą rozstrzygane w sądach właściwych znajdujących się w danej Kwalifikującej się jurysdykcji. Wszelkie obowiązkowe prawa ochrony konsumentów pozostają w mocy.
+
+
+
+    i. Cesja.
+
+    Użytkownikowi nie wolno dokonać cesji praw i obowiązków wynikających z niniejszych Warunków, prawnie lub w inny sposób, bez uprzedniej pisemnej zgody Visa. Visa zastrzega sobie prawo do cesji niniejszych Warunków oraz wynikających z nich praw i obowiązków na rzecz dowolnych osób trzecich bez powiadamiania Państwa o tym fakcie oraz bez Państwa zgody. Z zastrzeżeniem powyższego niniejsze Warunki będą dla Państwa wiążące, będą służyć Państwa korzyści oraz będą egzekwowalne wobec Państwa oraz Państwa następców prawnych i cesjonariuszy. Użytkownik może zaprzestać użytkowania Visa Solution w dowolnym momencie — również wtedy, gdy jest niezadowolony z dokonania przez spółkę Visa cesji praw i obowiązków wynikających z niniejszych Warunków.
+
+    j. Szczegółowe przepisy obowiązujące w poszczególnych krajach.
+        i. Postanowienia dotyczące wyłącznie rezydentów Argentyny
+
+        Przepisy dotyczące ochrony konsumentów stanowią, że podmioty prawne, które reklamują, sprzedają lub świadczą usługi konsumentom lub użytkownikom w mieście Buenos Aires oraz posiadają strony internetowe, mają obowiązek zamieścić na nich łącze do „Dirección General de Defensa y Protección al Consumidor.” Użytkownicy mający pytania lub skargi mogą skontaktować się z „Dirección General de Defensa y Protección al Consumidor” pod adresem: www.argentina.gob.ar/defensadelconsumidor.
+
+        ii. Wyłącznie dla mieszkańców Austrii
+
+        Niezależnie od ustępów dotyczących ograniczenia odpowiedzialności w ust. 15 powyżej lub jakichkolwiek innych stwierdzeń dotyczących ograniczenia odpowiedzialności Visa, do mieszkańców Austrii zastosowanie mają poniższe zasady:
+
+        ODPOWIEDZIALNOŚĆ VISA ZA SZKODY (SCHADENERSATZHAFTUNG) SPOWODOWANE NIEZNACZNYM ZANIEDBANIEM (LEICHTE FAHRLÄSSIGKEIT) ZOSTAJE WYŁĄCZONA.
+
+        POWYŻSZE OGRANICZENIE ODPOWIEDZIALNOŚCI NIE MA ZASTOSOWANIA DO ŻADNEJ OBOWIĄZKOWEJ ODPOWIEDZIALNOŚCI USTAWOWEJ WYNIKAJĄCEJ Z ROSZCZEŃ GWARANCYJNYCH (GEWÄHRLEISTUNGSANSPRÜCHE), W SZCZEGÓLNOŚCI DO ODPOWIEDZIALNOŚCI WYNIKAJĄCEJ Z AUSTRIACKIEJ USTAWY O ODPOWIEDZIALNOŚCI CYWILNEJ Z TYTUŁU WADLIWOŚCI PRODUKTU (PRODUKTHAFTUNGSGESETZ) ORAZ ODPOWIEDZIALNOŚCI Z TYTUŁU SPOWODOWANIA OBRAŻEŃ CIAŁA (PERSONENSCHÄDEN). PONADTO TAKIE OGRANICZENIE ODPOWIEDZIALNOŚCI NIE MA ZASTOSOWANIA, JEŚLI I W ZAKRESIE W JAKIM SPÓŁKA VISA PRZYJĘŁA OKREŚLONĄ GWARANCJĘ LUB W PRZYPADKU SZCZEGÓLNEGO ZOBOWIĄZANIA W ODNIESIENIU DO KWESTII POWODUJĄCEJ POWSTANIE TAKIEJ ODPOWIEDZIALNOŚCI.
+
+        ii. Dotyczy wyłącznie rezydentów Chińskiej Republiki Ludowej (wyłączając Specjalny Region Administracyjny Hongkong, Specjalny Region Administracyjny Makau i Tajwan)
+
+        Użytkownik potwierdza fakt, że usługa Visa Solution dostępna jest dla niego do wykorzystywania wyłącznie za granicą oraz w zakresie walut zagranicznych i wyłącznie w przypadku transakcji ze sprzedawcami znajdującymi się poza częścią kontynentalną Chińskiej Republiki Ludowej. Wszyscy sprzedawcy zlokalizowani w części kontynentalnej Chińskiej Republiki Ludowej oferujący usługę Visa Solution są uprawnieni do oferowania jej wyłącznie osobom niebędącym rezydentami części kontynentalnej Chińskiej Republiki Ludowej.
+
+        iii. Wyłącznie dla mieszkańców Niemiec
+
+        Niezależnie od ustępów dotyczących ograniczenia odpowiedzialności w ust. 13 powyżej lub jakichkolwiek innych stwierdzeń dotyczących ograniczenia odpowiedzialności Visa, do mieszkańców Niemiec zastosowanie mają poniższe zasady:
+
+        ODPOWIEDZIALNOŚĆ VISA WYNIKAJĄCA Z ODPOWIEDZIALNOŚCI KONTRAKTOWEJ I DELIKTOWEJ ZA SZKODY SPOWODOWANE NIEZNACZNYM ZANIEDBANIEM, NIEZALEŻNIE OD PODSTAWY PRAWNEJ, ZOSTAJE OGRANICZONA W NASTĘPUJĄCY SPOSÓB:
+        (A) VISA PONOSI ODPOWIEDZIALNOŚĆ DO WYSOKOŚCI PRZEWIDYWALNYCH ODSZKODOWAŃ TYPOWYCH DLA TEGO RODZAJU UMÓW W WYNIKU NARUSZENIA ISTOTNYCH ZOBOWIĄZAŃ UMOWNYCH;
+         
+        (B) VISA NIE PONOSI ODPOWIEDZIALNOŚCI WYNIKAJĄCEJ Z NARUSZENIA JAKICHKOLWIEK NIEISTOTNYCH ZOBOWIĄZAŃ UMOWNYCH ORAZ W PRZYPADKU NIEZNACZNEGO ZANIEDBANIA W ZAKRESIE JAKICHKOLWIEK INNYCH OBOWIĄZKÓW DOCHOWANIA STARANNOŚCI, KTÓRA MIAŁYBY ZASTOSOWANIE. 
+
+        POWYŻSZE OGRANICZENIA ODPOWIEDZIALNOŚCI NIE MAJĄ ZASTOSOWANIA DO ŻADNEJ OBOWIĄZKOWEJ ODPOWIEDZIALNOŚCI USTAWOWEJ, W SZCZEGÓLNOŚCI DO ODPOWIEDZIALNOŚCI WYNIKAJĄCEJ Z NIEMIECKIEJ USTAWY O ODPOWIEDZIALNOŚCI CYWILNEJ Z TYTUŁU WADLIWOŚCI PRODUKTU (PRODUKT-HAFTUNGSGESETZ) ORAZ ODPOWIEDZIALNOŚCI ZA SPOWODOWANE W SPOSÓB ZAWINIONY OBRAŻENIA CIAŁA. PONADTO TAKIE OGRANICZENIA ODPOWIEDZIALNOŚCI NIE MAJĄ ZASTOSOWANIA, JEŚLI I W ZAKRESIE W JAKIM VISA PRZYJĘŁA OKREŚLONĄ GWARANCJĘ.
+
+        PODPUNKTY (A) I (B) STOSUJE SIĘ ODPOWIEDNIO DO ODPOWIEDZIALNOŚCI VISA WZA BEZPODSTAWNE WYDATKI.
+
+        SĄ PAŃSTWO ZOBOWIĄZANI DO PODJĘCIA ODPOWIEDNICH ŚRODKÓW W CELU UNIKNIĘCIA I OGRANICZENIA SZKÓD.
+
+        iv. Postanowienia dotyczące wyłącznie rezydentów Indii
+
+        Usługa Visa Solution jest oferowana w Indiach przez Visa Worldwide Pte. Limited.
+
+        k. Postanowienia obowiązujące po wygaśnięciu lub rozwiązaniu umowy.
+
+        Pomimo wypowiedzenia niniejszych Warunków będą one nadal obowiązywały w odniesieniu do jakiegokolwiek korzystania z Visa Solution przez użytkownika przed wypowiedzeniem. Wszelkie sekcje niniejszych Warunków, które ze względu na swą naturę powinny nadal obowiązywać po wypowiedzeniu, będą obowiązywały po wypowiedzeniu Warunków oraz po zaprzestaniu korzystania przez użytkownika z Visa Solution. Dotyczy to między innymi sekcji: Rozstrzyganie sporów oraz obowiązujące prawo.
+
+        l. Kontakt z nami.
+
+        W razie pytań lub wątpliwości na temat Visa Solution proszę odwiedzić sekcję Często zadawanych pytań w witrynie internetowej. Jeżeli sekcja Często zadawanych pytań nie zawiera odpowiedzi na pytanie lub nie wyjaśnia wątpliwości, prosimy o kontakt pocztowy pod adresem Visa U.S.A. Inc., Visa Solution, 900 Metro Center Blvd., Foster City, CA 94404-2172, USA lub kontakt za pośrednictwem poczty e-mail.
+
+Ostatnia aktualizacja: 27 maj 2021 r.

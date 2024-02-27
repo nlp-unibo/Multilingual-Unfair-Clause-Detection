@@ -1,0 +1,310 @@
+mySugr GmbH
+Condizioni Generali di Contratto (CGC)
+Versione del 25 settembre 2018
+1.
+AMBITO DI APPLICAZIONE
+1.1 I nostri Prodotti
+1.2 Validità delle nostre Condizioni Generali di Contratto
+1.3 Fornitori terzi
+2.
+PRIVACY
+3.
+STIPULA DEL CONTRATTO E REGISTRAZIONE
+3.1 Acquisto e pagamento dei nostri Prodotti
+3.2 Registrazione e attivazione
+4.DIRITTO DI RECESSO E REVOCA
+4.1 Informazioni sull’esercizio del diritto di recesso
+4.2.
+Eccezioni del diritto di recesso
+5.
+UTILIZZO DEI NOSTRI PRODOTTI
+5.1 Durata di utilizzo e disdetta
+5.2 Blocco ed esclusione
+5.3 Licenza e concessione di diritti
+5.4 Disponibilità dei nostri Prodotti
+6.
+CONDOTTA DELL’UTENTE
+6.1 Indicazioni generali
+6.2 Utilizzo improprio
+7.
+RESPONSABILITÀ DA PARTE NOSTRA
+7.1 Garanzia e responsabilità
+7.2.
+Esclusione di responsabilità ed esonero
+8.
+DISPOSIZIONI SPECIALI
+8.1 Calcolatore del bolo mySugr
+9.
+DISPOSIZIONI FINALI
+9.1 Scelta di legge
+9.2 Foro competente
+9.3 Altro
+La versione aggiornata delle presenti Condizioni Generali di Contratto è disponibile e scaricabile in formato PDF dal nostro sito internet www.mysugr.com.
+1.
+AMBITO DI APPLICAZIONE
+1.1 I nostri Prodotti
+1.1.1 Noi, la società
+mySugr GmbH
+1010 Wien, Trattnerhof 1
++43 720 884555, support@mysugr.com
+FN 376086 v (registro delle imprese di Vienna)
+DVR 4015732, UID ATU67061939
+(di seguito “mySugr”) sviluppiamo e gestiamo una piattaforma interattiva e applicazioni mobili (app) per diabetici.
+mySugr è un’azienda di digital health che desidera offrirti, in quanto persona con diabete, un servizio completo per minimizzare gli ostacoli e i problemi della terapia quotidiana.
+I nostri Prodotti e servizi ci consentono di fornire soluzioni che semplificano la gestione quotidiana del tuo diabete.
+1.1.2 Unitamente ai nostri Prodotti forniamo informazioni e contenuti redatti al meglio delle nostre conoscenze e attingendo con estrema accuratezza a fonti interne ed esterne.
+Tuttavia desideriamo segnalare espressamente che i nostri Prodotti e servizi sono esclusivamente a carattere informativo/formativo e non sostituiscono in alcun modo il consulto e la diagnosi del medico curante.
+mySugr non fornisce raccomandazioni terapeutiche o consulti medici di alcun tipo.
+Consigliamo di rivolgersi al medico curante per qualsiasi domanda relativa alla malattia e al suo trattamento.
+La valutazione dei dati messi a disposizione spetta esclusivamente a te e al tuo medico curante o diabetologo.
+Tutti i contenuti, indipendentemente dal fatto che siano messi a disposizione da mySugr stessa, dai suoi partner o dai suoi Utenti, non sono da intendersi né come integrazione né come sostituti alle indicazioni di un medico o di un farmacista.
+mySugr offre numerosi Prodotti (app) e servizi (services) e combinazioni di entrambi (bundles o pacchetti) per la gestione del tuo diabete.
+Le app, i servizi e i pacchetti, attuali e futuri, compresi gli aggiornamenti ed altre migliorie, messi a disposizione da mySugr in qualsiasi modo sono denominati di seguito “Prodotti” o “Prodotto”.
+La persona o le persone che procedono all’acquisto e all’utilizzo di uno o più dei nostri Prodotti sono denominate di seguito “Utente” o “Utenti”.
+Nelle presenti Condizioni Generali di Contratto sono riportate denominazioni relative a persone fisiche in forma maschile.
+Le stesse denominazioni sono comunque da intendersi valide per entrambi i sessi.
+1.1.4 Nel quadro delle presenti Condizioni Generali di Contratto vigono le seguenti definizioni per i singoli Prodotti:
+App
+Diario mySugr (Logbook) è un’applicazione mobile (app) indipendente per il tuo smartphone o tablet per la documentazione quotidiana del tuo diabete.
+La nostra versione di base di mySugr Logbook ha funzioni limitate.
+mySugr Pro è la versione completa illimitata di mySugr Logbook.
+mySugr Pro è a pagamento e offre numerose funzioni aggiuntive con cui gestire ancora meglio il tuo diabete.
+Calcolatore del bolo mySugr (Bolus Calculator) calcola in pochi secondi la quantità di insulina o di carboidrati sulla base delle tue impostazioni.
+Il nostro calcolatore del bolo è un servizio aggiuntivo disponibile in combinazione con mySugr Pro.
+Services
+mySugr Coach offre informazioni esaurienti, non subordinate al tempo o al luogo, da parte di diabetologi e dietologi certificati.
+mySugr Coach può essere utilizzato in alcuni paesi come estensione di mySugr Pro.
+Bundles
+Pacchetto mySugr (Bundle) è il nostro servizio completo a tua disposizione che comprende mySugr Pro, con funzioni aggiuntive quali il calcolatore del bolo e mySugr Coach, un misuratore di glicemia dei nostri partner e la fornitura di strisce reattive di cui hai bisogno (la fornitura automatica delle strisce reattive è subordinata alla misurazione effettiva, ovvero solo la misurazione e la registrazione attivano un ordine e la relativa fornitura delle strisce reattive).
+La disponibilità e le funzionalità di mySugr Bundle vengono costantemente estese.
+1.1.5 Eventuali particolarità dei singoli Prodotti sono riportate nei nostri manuali per l’uso (consultabili tramite le nostre app o sul nostro sito internet) e nelle disposizioni speciali corrispondenti (paragrafo 8).
+1.2 Validità delle nostre Condizioni Generali di Contratto
+1.2.1 Offriamo tutti i Prodotti esclusivamente sulla base della versione attuale delle presenti Condizioni Generali di Contratto in tutto il mondo ad eccezione degli Stati Uniti d’America e del Canada.
+mySugr si oppone espressamente a condizioni di contratto conflittuali o ad altre condizioni di utilizzo.
+1.2.2 Tieni presente che, prima di procedere al primo utilizzo dei nostri Prodotti, devi acconsentire alle presenti Condizioni Generali di Contratto e a tutte le dichiarazioni e agli accordi a cui si fa riferimento e procedi all’accettazione con qualsiasi altro utilizzo.
+Non sono concessi la registrazione e l’utilizzo dei nostri Prodotti senza la previa accettazione delle nostre Condizioni Generali di Contratto.
+1.2.3 Ci riserviamo espressamente il diritto di adeguare in futuro le nostre Condizioni Generali di Contratto e apportarne modifiche giustificate.
+Le modifiche possono risultare necessarie per adempiere ai requisiti di legge, per soddisfare lo stato della tecnica e della scienza o per assolvere gli interessi dei nostri Utenti.
+Tali modifiche possono essere apportate in qualsiasi momento e vengono comunicate in modo opportuno prima dell’entrata in vigore, in modo tale che l’Utente possa esercitare il suo diritto di revoca per iscritto entro il mese dall’avvenuta notifica.
+In caso di mancata revoca, il continuo utilizzo dei nostri Prodotti è soggetto alle nuove Condizioni Generali di Contratto.
+1.3.1 I nostri Prodotti sono disponibili negli app store.
+Qui vigono generalmente le condizioni di contratto del fornitore terzo corrispondente (su cui non abbiamo alcun potere) che non sono parte integrante delle nostre Condizioni Generali di Contratto né del nostro rapporto contrattuale con te quale Utente dei nostri Prodotti.
+Lo stesso vige per le condizioni di contratto del tuo operatore telefonico o del tuo dispositivo.
+1.3.2 Per garantire l’utilizzo ottimale dei nostri Prodotti collaboriamo con diversi partner.
+Tra questi si annoverano partner che forniscono a noi o forniscono direttamente ai nostri Utenti singoli Prodotti (per es.
+misuratori di glicemia, strisce reattive) e assicurazioni sanitarie che eventualmente coprono i costi dei nostri Prodotti.
+In questi casi, rimandiamo espressamente alle condizioni di contratto applicabili di un fornitore terzo, oppure devi procedere in ogni caso all’accettazione di tali condizioni prima di poter acquistare uno dei nostri Prodotti tramite terzi.
+2.
+PRIVACY
+Siamo consapevoli della grande responsabilità che l’utilizzo dei nostri Prodotti da parte tua comporta.
+Infatti non ci fornisci solamente i tuoi dati personali ma anche i dati sul tuo stato di salute.
+La nostra Informativa sulla privacy fornisce informazioni sull’utilizzo e sulla tutela dei tuoi dati in relazione all’utilizzo dei nostri Prodotti e così come informazioni sul tuo consenso necessario.
+SENZA IL TUO CONSENSO ALLA TUTELA DELLA PRIVACY PER IL TRATTAMENTO NECESSARIO DEI DATI NON È POSSIBILE UTILIZZARE I NOSTRI PRODOTTI NÉ DAL PUNTO DI VISTA LEGALE NÉ PRATICO.
+La nostra informativa sulla privacy non è parte integrante delle presenti Condizioni Generali di Contratto, ma serve esclusivamente per tua informazione personale ai sensi del regolamento generale sulla protezione dei dati con il quale esprimi il tuo consenso al trattamento necessario dei dati.
+3.
+STIPULA DEL CONTRATTO E REGISTRAZIONE
+3.1 Acquisto e pagamento dei nostri Prodotti
+3.1.1 I nostri Prodotti possono essere acquistati in diversi modi:
+Apps, services
+I nostri Prodotti sono disponibili sugli app store (quali Apple App Store/iTunes o GooglePlay).
+Tieni presente che per l’acquisto (non per l’utilizzo) dei nostri Prodotti vigono le condizioni di contratto interne degli app store e può essere necessario disporre di un account utente.
+Il nostro sito internet offre un’area di accesso personale e un accesso diretto ai nostri Prodotti, in particolare per il pacchetto mySugr.
+I buoni (voucher codes) per i nostri Prodotti sono sempre disponibili e sono attivabili sul nostro sito internet.
+Bundles
+I dispositivi medici vengono distribuiti solo in parte con i nostri Prodotti.
+In questo modo puoi collegare alla nostra app il tuo misuratore di glicemia e altri dispositivi medici.
+Le assicurazioni sanitarie (pubbliche o private) collaborano con mySugr per coprire i costi dei nostri Prodotti.
+Gli eventuali costi dei nostri Prodotti vengono direttamente corrisposti dall’assicurazione sanitaria o rimborsati in base al tuo tariffario.
+Possiamo comunicarti in qualsiasi momento se la tua assicurazione sanitaria collabora già con noi.
+3.1.2 I nostri Prodotti a pagamento possono essere acquistati sul nostro sito internet, sugli app store o all’interno delle nostre app.
+La fatturazione avviene tramite l’account utente dell’app store con le opzioni di pagamento prestabilite.
+L’app store corrispondente agisce da intermediario e provider di pagamento per conto di mySugr o come venditore diretto.
+In ogni caso, se si verificano problemi con il download o il pagamento, puoi contattarci all’indirizzo support@mysugr.com any time.
+3.1.3 I contributi di utilizzo o i prezzi di acquisto (incluse le imposte di legge) devono essere corrisposti, in base all’offerta e alla scelta, una tantum o a cadenza ciclica (per es.
+mensile, semestrale o annuale).
+I contributi attuali sono riportati nella nostra app o negli app store e sono esigibili immediatamente al momento del pagamento.
+Se l’app store non lo prevede, possiamo provvedere a inviarti le fatture e i promemoria di pagamento tramite e-mail.
+In caso di pagamento inadempiuto, non puntuale o non completo, siamo autorizzati a bloccare il tuo accesso ai nostri Prodotti.
+Il tuo obbligo di pagamento del contributo di utilizzo rimane invariato.
+3.1.4 Ci riserviamo espressamente il diritto di limitare in qualsiasi momento i Prodotti gratuiti, eliminarli completamente o renderli a pagamento.
+L’utilizzo gratuito dei singoli Prodotti e di loro parti per un determinato intervallo di tempo non implica una rivendicazione dei diritti per il futuro.
+3.1.5 mySugr può inoltre fare offerte speciali o gratuite che possono essere soggette ad ulteriori condizioni o limitazioni.
+In questo contesto segnaliamo espressamente eventuali variazioni rispetto alle presenti Condizioni Generali di Contratto che, comunque, rimangono completamente applicabili.
+Le offerte speciali o gratuite non sono trasferibili ad altri Utenti.
+3.2 Registrazione e attivazione
+3.2.1 L’utilizzo dei nostri Prodotti presuppone la registrazione a mySugr nelle nostre app.
+Non appena attivi il nostro Prodotto per la prima volta, devi effettuare la registrazione con indirizzo e-mail e password (ID mySugr).
+Un Utente può creare un solo ID mySugr che a sua volta può essere utilizzato da un solo Utente.
+3.2.2 Effettuando la registrazione l’Utente dichiara, sulla base della versione attuale delle presenti Condizioni Generali di Contratto, la sua offerta vincolante di stipula del contratto con mySugr tramite l’utilizzo dei nostri Prodotti che accetteremo espressamente entro e non oltre l’attivazione del tuo ID mySugr o l’invio della merce ordinata.
+3.2.3 L’attivazione ti verrà confermata immediatamente dopo l’avvenuta registrazione con una e-mail separata.
+Ci riserviamo il diritto di respingere singoli Utenti o la loro offerta di stipula del contratto senza fornire motivazioni.
+In tal caso, i pagamenti già corrisposti verranno rimborsati e i dati trasmessi dell’Utente immediatamente cancellati.
+3.2.4 Effettuando la registrazione l’Utente conferma di aver almeno sedici anni di età e di essere autorizzato legalmente a stipulare contratti.
+La registrazione è consentita esclusivamente alle persone capaci di intendere e volere.
+La registrazione è consentita ai minori esclusivamente con il consenso espresso dei genitori.
+È possibile inviare una copia del consenso scritto all’indirizzo support@mysugr.com.
+Effettuando la registrazione il genitore dichiara di essere autorizzato al rilascio di dichiarazioni vincolanti anche in nome del minorenne.
+3.2.5 Al momento della registrazione l’Utente conferma la sua presa visione e l’accettazione indiscussa del contenuto delle presenti Condizioni Generali di Contratto e che tutti i suoi dati sono autentici, corretti, aggiornati e completi e si impegna ad aggiornare le informazioni regolarmente.
+Ci riserviamo il diritto di contattare l’Utente in qualsiasi momento per verificare i dati di registrazione e le informazioni di utilizzo.
+3.2.6 Nel caso in cui l’Utente fornisca informazioni errate, non corrette, obsolete o incomplete o nel caso in cui abbiamo motivi fondati per credere che queste informazioni errate, non corrette, obsolete o incomplete, mySugr è autorizzata a bloccare l’ID mySugr corrispondente con effetto immediato e senza preavviso e a impedire l’utilizzo dei nostri Prodotti senza essere obbligo di rimborso dell’Utente.
+3.2.7 L’Utente deve proteggere i suoi dati di registrazione dall’accesso non autorizzato di terzi e garantirne l’utilizzo conforme senza intenzioni fraudolente.
+Qualora sorga il dubbio che l’ID mySugr possa essere sottoposto a un tale pericolo è necessario comunicarlo immediatamente all’indirizzo support@mysugr.com.
+Abbiamo il diritto di bloccare l’ID mySugr di qualsiasi Utente, nel caso in cui si verifichi un utilizzo improprio o con intenzioni fraudolente.
+4.
+DIRITTO DI RECESSO E REVOCA
+4.1 Informazioni sull’esercizio del diritto di recesso
+4.1.1 Nel caso in cui tu non utilizzi i nostri Prodotti per scopi commerciali o professionali, sei autorizzato in qualità di consumatore a revocare la stipula contrattuale con mySugr in conformità alle seguenti disposizioni:
+DIRITTO DIREVOCA
+Diritto di revoca
+Hai il diritto di revocare il presente contratto entro quattordici giorni senza fornire motivazioni.
+Il termine di revoca corrisponde a quattordici giorni a decorrere dal giorno della stipula contrattuale (attivazione dei contenuti digitali) o a decorrere dal giorno in cui il consumatore o un terzo da lui incaricato, che non è il vettore, ha preso possesso della merce (fornitura fisica).
+Per esercitare il tuo diritto di revoca, devi provvedere a informarci, mySugr GmbH, Trattnerhof 1/5 OG, 1010 Vienna, telefono +43 720 884555, e-mail support@mysugr.com, tramite una dichiarazione univoca (per es.
+e-mail o lettera inviata tramite posta ordinaria) sulla tua decisione di revocare il presente contratto.
+A tal proposito puoi facoltativamente utilizzare il modulo di revoca allegato.
+Per garantire il termine di revoca è sufficiente che la comunicazione sull’esercizio del diritto di revoca ci pervenga prima della scadenza del termine stesso.
+Conseguenze della revoca
+Revocando il presente contratto, dobbiamo provvedere a rimborsarti tutti i pagamenti da te corrisposti inclusi eventuali costi di spedizione (ad eccezione di costi aggiuntivi risultanti da un tipo di spedizione diversa da quella standard più economica da noi offerta) immediatamente e entro e non oltre quattordici giorni a decorrere dal giorno in cui ci è pervenuta la comunicazione di revoca.
+Per procedere al rimborso utilizziamo la stessa modalità di pagamento da te utilizzata nella transazione iniziale, se non diversamente ed espressamente concordato con te.
+In alcun caso ti addebiteremo i costi di rimborso.
+Tieni presente che, se la tua assicurazione sanitaria ha già provveduto a rimborsarti i costi della merce o dei servizi revocati secondo il tariffario stabilito, l’assicurazione stessa può procedere a rivalersi con il diritto di regresso.
+Possiamo negare il rimborso fino al ricevimento della merce o alla ricezione della prova di spedizione della merce, a seconda di quale avvenimento si sia verificato prima.
+Devi rispedire o riconsegnare la merce immediatamente e, in ogni caso, entro e non oltre i quattordici giorni a decorrere dal giorno in cui ci hai comunicato la revoca del presente contratto, a mySugr GmbH, Trattnerhof 1, 1010 Vienna, telefono +43 720 884555, e-mail support@mysugr.com.
+Il termine è garantito se provvedi a inviarci alla merce entro la scadenza del termine dei quattordici giorni.
+Sosterremo i costi della spedizione della merce.
+Dovrai sostenere i costi per un’eventuale svalutazione della merce solo se quest’ultima è riconducibile a una gestione non necessaria per la verifica della struttura, delle proprietà e della funzionalità della merce stessa.
+Se hai chiesto che i servizi abbiano inizio durante il periodo di revoca, devi corrisponderci un importo commisurato che corrisponde alla percentuale dei servizi già erogati fino al momento dell’esercizio del tuo diritto di revoca del presente contratto rispetto al volume totale dei servizi previsti da contratto.
+MODULO DI REVOCA
+Se desideri revocare il contratto, compila il presente modulo e invialo a
+mySugr GmbH
+1010 Wien, Trattnerhof 1/5 OG
+support@mysugr.com
+Con la presente revoco il contratto da me stipulato per l’acquisto della seguente merce o per l’erogazione del seguente servizio:
+Ordinato il / ricevuto il:
+ID mySugr, nome e indirizzo del consumatore:
+Data e firma (solo con comunicazione cartacea)
+4.2 Eccezioni del diritto di recesso
+4.2.1 Non hai alcun diritto di recesso in caso di contratto con fornitura di contenuti digitali non salvati su un supporto dati fisico, se noi – con il tuo consenso espresso, correlato alla tua presa visione della perdita del diritto di recesso (diritto di revoca) al momento dell’inizio anticipato dell’adempimento contrattuale e in seguito alla messa a disposizione di una copia o conferma ai sensi dell’art. 7 par.
+3 FAGG – abbiamo avviato la spedizione ancora prima della scadenza del termine di recesso altrimenti disponibile.
+Ai sensi dell’art. 7 par.
+3 FAGG, l’Utente avrà a disposizione entro un termine adeguato in seguito alla stipula del contratto, tuttavia prima dell’inizio dell’erogazione del servizio, una conferma del contratto stipulato su un supporto dati permanente (es.
+e-mail) in associazione alle informazioni indicate all’art. 4 par.
+1 FAGG, se tali informazioni non sono già state rese disponibili in precedenza su un tale supporto.
+La conferma di contratto contiene, in ogni caso, una conferma del consenso all’erogazione immediata del servizio e la presa visione dell’Utente del mancato diritto di recesso (diritto di revoca).
+4.2.2 Inoltre, non hai alcun diritto di recesso in caso di contratto di merci fornite sigillate e non idonee alla restituzione per motivi di tutela della salute o di igiene, qualora la loro sigillatura sia stata rimossa dopo la consegna.
+Non è possibile controllare dal punto di vista tecnico né economico, se la merce ordinata è stata utilizzata al momento della ricezione, se è entrata in contatto con liquidi corporei, se è stata mischiata con componenti contaminati della merce o se è stata conservata in modo conforme: è vietato riutilizzare o mettere di nuovo in commercio tale merce sia per noi sia per qualsiasi altro fabbricante.
+Quindi si esclude il diritto di recesso (diritto di revoca) sulla base dei requisiti di igiene e sostenibilità.
+5.
+UTILIZZO DEI NOSTRI PRODOTTI
+5.1 Durata di utilizzo e disdetta
+5.1.1 La tua autorizzazione all’utilizzo dei nostri Prodotti inizia con la registrazione e l’attivazione tramite mySugr.
+5.1.2 I nostri Prodotti gratuiti sono utilizzabili illimitatamente.
+La durata di utilizzo dei Prodotti, che acquisti con il sostegno della tua assicurazione sanitaria (in particolare per il pacchetto mySugr), è conforme alle condizioni contrattuali e assicurative corrispondenti.
+5.1.3 I nostri Prodotti a pagamento possono essere acquistati sotto forma di abbonamenti mensili o annuali, in base all’offerta attuale anche per una durata di utilizzo maggiore o minore (denominato di seguito “Periodo di abbonamento”).
+Il Periodo di abbonamento corrispondente ti viene indicato nelle nostre app o negli app store.
+5.1.4 Sia l’Utente sia mySugr sono autorizzati in qualsiasi momento, con un preavviso di almeno un mese, alla disdetta ordinaria con effetto ogni ultimo giorno del mese.
+Puoi procedere selezionando “Annulla abbonamento” dal tuo account utente dell’app store o nell’area di accesso del nostro sito internet, oppure inviandoci una comunicazione scritta all’indirizzo support@mysugr.com.
+Tieni presente che i contributi già corrisposti per un Periodo di abbonamento non usufruito vengono rimborsati solo in caso di disdetta ordinaria da parte di mySugr o in caso di un termine automatico (paragrafo 5.1.6 di seguito).
+5.1.5 In mancanza di disdetta o in caso di disdetta non pervenuta nei tempi previsti, il Periodo di abbonamento si estende automaticamente di un ulteriore periodo corrispondente all’ultimo selezionato.
+A tal proposito il prezzo standard corrispondente viene calcolato al momento dell’estensione (non: prezzi di eventuali offerte speciali o gratuite o di offerte della tua assicurazione sanitaria).
+L’estensione automatica può essere disattivata nelle impostazioni del tuo account utente dell’app store corrispondente.
+5.1.6 In caso di decesso dell’Utente o di revoca della dichiarazione di consenso sulla tutela della privacy, il rapporto di utilizzo si conclude automaticamente con effetto immediato.
+Infatti senza il tuo consenso mySugr non è autorizzata a trattare i dati sulla tua salute.
+5.1.7 In caso di domande sulla durata del tuo utilizzo e sul suo termine, puoi rivolgerti in qualsiasi momento all’indirizzo support@mysugr.com.
+5.2 Blocco ed esclusione
+5.2.1 Ci riserviamo il diritto di bloccare temporaneamente l’Utente per motivi di causa maggiore (a nostra discrezione) o di escluderlo definitivamente dall’utilizzo dei nostri Prodotti.
+Nel caso di recesso contrattuale senza preavviso, viene escluso un rimborso dei contributi di utilizzo.
+5.2.2 Una motivazione importante è riconducibile in particolare a pesanti violazioni da parte dell’Utente delle disposizioni delle presenti Condizioni, per es.
+violazioni del paragrafo 3.1 (pagamento) con una dilazione di due settimane, del paragrafo 3.2 (dati di registrazione), del paragrafo 5.3 (licenza) o del paragrafo 6 (condotta dell’Utente).
+5.3 Licenza e concessione di diritti
+5.3.1 La registrazione e l’attivazione ti consentono di ottenere il diritto non esclusivo, non trasmissibile, tuttavia non limitato geograficamente, di salvare e di utilizzare una copia della nostra app per tuoi scopi nel rispetto delle presenti Condizioni Generali di Contratto.
+Nel caso di nostri Prodotti a pagamento, tale licenza è limitata alla durata del periodo contrattuale del tuo abbonamento.
+5.3.2 Il software, il codice, i metodi, i sistemi e i contenuti dei nostri Prodotti sono protetti sia dal diritto di autore sia dal patto di non concorrenza e possono essere utilizzati esclusivamente da mySugr.
+I nostri Prodotti o i loro componenti non possono, senza il nostro previo consenso scritto, essere copiati, modificati, riprodotti, ripubblicati o postati, né trasmessi, venduti, offerti alla vendita, riacquistati o utilizzati in qualsiasi modo.
+Gli Utenti non sono autorizzati a utilizzare i marchi, i loghi o altri diritti sul marchio e di proprietà industriale di mySugr.
+Se non diversamente indicato dalle presenti Condizioni, tutti i diritti di utilizzo e riutilizzo spettano esclusivamente a mySugr o a un’azienda facente parte del gruppo e non avviene alcun tipo di concessione di licenza dei nostri Prodotti.
+5.3.3 Se tale condizione risulti necessaria per la messa a disposizione tecnica dei nostri Prodotti, ogni Utente concede a mySugr un diritto di utilizzo o riutilizzo non esclusivo, revocabile, tuttavia gratuito, trasmissibile, illimitato temporalmente e geograficamente dei contenuti generati, trasmessi, salvati e pubblicati all’interno dei nostri Prodotti.
+Un utilizzo o riutilizzo è tuttavia escluso se gli interessi acquisiti dell’Utente (per es.
+diritti di tutela della privacy) vengono eccessivamente compromessi.
+In caso di utilizzo esterno ai nostri Prodotti, se fattibile, segnaleremo che il contenuto proviene dall’Utente.
+mySugr non rivendicherà la titolarità dei contenuti creati né garantirà una funzione di vigilanza dei contenuti creati dagli Utenti.
+5.4 Disponibilità dei nostri Prodotti
+5.4.1 Mettiamo a disposizione i nostri Prodotti sempre nella misura offerta dalle possibilità tecniche, economiche, aziendali ed organizzative disponibili.
+mySugr non può escludere eventuali interruzioni, anomalie, ritardi, cancellazioni, trasmissioni errate o guasti di memoria associati all’utilizzo dei nostri Prodotti o alla comunicazione con gli Utenti.
+Inoltre, offriamo in parte i nostri Prodotti con il coinvolgimento di fornitori terzi e dipendiamo quindi dalla messa a disposizione tecnica di servizi esterni.
+Quindi mySugr declina ogni responsabilità, garanzia oppure obbligo a mantenere i nostri Prodotti consultabili online in qualsiasi momento e ininterrottamente.
+5.4.2 Lo stesso vale in caso di limitazioni nell’utilizzo dei nostri Prodotti per motivi di causa maggiore, in caso di scioperi, esclusioni e disposizioni amministrative e a causa di modifiche tecniche o interventi di manutenzione agli impianti di mySugr.
+In caso di anomalie dei nostri Prodotti rivolgiti in qualsiasi momento all’indirizzo support@mysugr.com.
+6.
+CONDOTTA DELL’UTENTE
+6.1 Indicazioni generali
+6.1.1 Ogni Utente è autorizzato ed obbligato alla rivendicazione e all’utilizzo dei nostri Prodotti a proprio rischio e carico e tramite l’impiego di dispositivi tecnici idonei.
+I terminali e i sistemi operativi compatibili con i nostri Prodotti sono riportati negli app store o disponibili in qualsiasi momento all’indirizzo support@mysugr.com.
+6.1.2 Sei tenuto a utilizzare i nostri Prodotti esclusivamente nel rispetto delle presenti Condizioni Generali di Contratto e delle disposizioni di legge e ad astenerti da qualsiasi utilizzo improprio.
+Le violazioni scoperte degli obblighi riportati nel presente paragrafo devono essere comunicate immediatamente all’indirizzo support@mysugr.com.
+6.2 Utilizzo improprio
+6.2.1 Ogni Utente si impegna a indicare i propri dati di registrazione veritieri, a mantenerli aggiornati e completi e non a divulgarli a terzi.
+I dati personali devono essere trattati in modo confidenziale, gestiti con accuratezza e protetti sotto la propria responsabilità.
+mySugr declina ogni garanzia o responsabilità per dati o contenuti andati persi o danneggiati, se tale condizione non è riconducibile a nostre mancanze.
+6.2.2 Contenuti quali foto, immagini, testi, video o altre rappresentazioni associati ai nostri Prodotti, possono essere salvati, pubblicati, trasmessi o divulgati solo se l’Utente è autorizzato alla loro trasmissione e al loro utilizzo.
+In ogni caso, è assolutamente vietato l’utilizzo di qualsiasi tipo di contenuto razzista, offensivo, discriminatorio, diffamatorio, sessuale o pornografico, violento o altrimenti illegale.
+6.2.3 È inoltre vietato decrittografare, retroingegnerizzare, decompilare o disassemblare i nostri Prodotti.
+Ogni Utente si impegna a non eseguire interventi invasivi con strumenti tecnici o elettronici ai nostri Prodotti o alle reti di mySugr (in particolare attacchi di pirateria informatica quali hackeraggio, attacchi brute force, introduzione di virus, worm, trojan ed altri malware) e ad astenersi da qualsiasi tipo di tentativo di danno che potrebbe interessare il software e l’hardware dei Prodotti e dei sistemi di mySugr.
+7.
+RESPONSABILITÀ DA PARTE NOSTRA
+7.1 Garanzia e responsabilità
+7.1.1 Se non diversamente indicato dalle presenti Condizioni Generali di Contratto, mySugr è responsabile e presta servizi di garanzia ai sensi delle disposizioni di legge.
+7.1.2 Nei confronti degli Utenti, che non sono utilizzatori o consumatori, è esclusa la responsabilità per meri danni patrimoniali, danni conseguenti, lucro cessante e danni derivanti da rivendicazioni di terzi.
+Qualora la nostra responsabilità sia limitata oppure esclusa nelle presenti Condizioni Generali di Contratto, tale condizione si applica ugualmente agli agenti e alle aziende associate a mySugr.
+7.1.3 Fuori dall’ambito di applicazione della legge sulla responsabilità per danno da prodotti difettosi, la responsabilità di mySugr si limita al dolo e alla negligenza, fatta eccezione per le lesioni personali.
+La responsabilità per lieve negligenza viene esclusa ai sensi delle oggettive giustificazioni seguenti.
+7.1.4 mySugr non garantisce che i nostri Prodotti siano disponibili in modo completo, continuo e corretto o che gli strumenti software e hardware lavorino correttamente.
+Inoltre non possiamo escludere che il trasferimento dei dati venga tracciato, registrato o manomesso da terzi tramite sistemi esterni, in particolare Internet ed altre reti di telecomunicazione.
+7.1.5 mySugr non garantisce per contenuti scaricati o materiale che l’Utente ha ricevuto in seguito alla rivendicazione dei nostri Prodotti.
+L’Utente è il solo responsabile per i danni che possono verificarsi al suo sistema informatico o ai suoi terminali o per la perdita di dati a causa del download di materiali associati ai nostri Prodotti.
+7.1.6 Inoltre, mySugr non garantisce per contenuti esterni, quali collegamenti esterni, banner o altre offerte informative o pubblicitarie di terzi applicabili nell’ambito dei nostri Prodotti.
+Nel caso in cui consentiamo l’accesso a offerte di terzi con notifiche o link, mySugr non è responsabile per le informazioni ivi contenute.
+I negozi giuridici stipulati comportano esclusivamente relazioni contrattuali tra Utente e terzi coinvolti.
+Non garantiamo e decliniamo qualsiasi altro tipo di responsabilità per prestazioni di terzi.
+7.2 Esclusione di responsabilità ed esonero
+7.2.1 L’utilizzo dei nostri Prodotti non sostituisce il consulto di un medico o il parere di un altro specialista ed avviene esclusivamente a rischio e pericolo dell’Utente.
+Tale condizione è valida in particolare per l’utilizzo di merce ordinata quali misuratori di glicemia e per il riutilizzo di dati messi a disposizione nell’ambito dei nostri Prodotti da parte dell’Utente inclusi risultati glicemici, calcoli ed eventuali indicazioni terapeutiche.
+L’Utente prende espressamente atto del fatto che tali dati possono essere errati e mySugr declina ogni responsabilità sulla loro correttezza.
+7.2.2 Qualora le disposizioni applicabili sulla tutela della privacy, a cui è soggetto l’utilizzo dei Prodotti, lo richiedano, è possibile utilizzare o gestire i Prodotti esclusivamente ai sensi degli scopi, delle specifiche e degli ambiti di applicazione come stabilito nell’offerta e nelle condizioni di utilizzo.
+7.2.3 L’Utente esonera mySugr da qualsiasi rivendicazione che terzi possono esercitare nei confronti di mySugr per una violazione colposa dei loro diritti da parte dell’Utente nell’ambito dell’utilizzo dei nostri Prodotti.
+Inoltre, tutte le altre rivendicazioni di risarcimento danni di mySugr nei confronti dell’Utente rimangono invariate.
+7.2.4 L’Utente declina la completa responsabilità per danni e controversie giudiziali o stragiudiziali che sono alla base di conflitti con altri Utenti.
+L’Utente prende espressamente atto del fatto mySugr non è assolutamente responsabile per azioni oppure omissioni di altri Utenti e per eventuali danni risultanti.
+7.2.5 In caso di una rivendicazione di mySugr da parte di terzi, l’Utente si impegna a comunicare tempestivamente tutte le informazioni messe a sua disposizione in modo autentico ed esaustivo e necessarie alla verifica e alla difesa delle rivendicazioni di terzi.
+L’Utente sostiene i costi di una difesa legale necessaria di mySugr, inclusi tutti i costi legali e processuali previsti di legge.
+8.
+DISPOSIZIONI SPECIALI
+Le seguenti disposizioni per i nostri singoli Prodotti integrano le restanti disposizioni delle presenti Condizioni Generali di Contratto, se non diversamente ed espressamente indicato:
+8.1 Calcolatore del bolo mySugr
+8.1.1 Il calcolatore del bolo mySugr è destinato esclusivamente a soggetti diabetici insulinodipendenti o istruiti sulla terapia FIT (o programmi simili) che hanno compiuto 18 anni e si sottopongono a regolari controlli medici.
+In alcun caso, il calcolatore del bolo può essere utilizzato da minori o da persone che utilizzano l’insulina miscelata o solo insulina a lunga durata per la loro terapia oppure da persone che non in grado fisicamente (perché per es.
+ipovedenti) o psichicamente di gestire autonomamente la terapia.
+8.1.2 Il calcolatore del bolo a pagamento ti supporta nel calcolo della dose di insulina necessaria.
+Presupposto fondamentale del calcolatore del bolo mySugr è il calcolo basato su diversi parametri che devono essere immessi dall’Utente.
+Per un calcolo approssimativo è necessaria la corretta immissione dei dati.
+In alcun caso, mySugr si assumerà responsabilità per i risultati e i consigli ottenuti dal calcolatore del bolo.
+8.1.3 Il risultato rilevato dal calcolatore del bolo mySugr corrisponde a un consiglio proposto all’Utente sull’utilizzo della dose di insulina calcolata.
+Tuttavia, spetta esclusivamente a te stabilire la plausibilità del valore calcolato sulla base dei tuoi dati precedenti, delle prescrizioni del medico curante e dei foglietti illustrativi dei farmaci utilizzati e spetta quindi a te determinare la dose di insulina corretta.
+mySugr ti diffida esplicitamente dal seguire il consiglio proposto dal calcolatore del bolo mySugr senza prima averne stabilito da solo la plausibilità.
+8.1.4 In alcun caso, il calcolatore del bolo mySugr può sostituire l’esperienza di un medico né i controlli medici periodici, somministrare insulina o altri farmaci, misurare la glicemia o calcolare parametri terapeutici personali.
+9.
+DISPOSIZIONI FINALI
+9.1 Scelta di legge
+Le presenti Condizioni Generali di Contratto e l’intero rapporto giuridico tra mySugr e l’Utente sono soggetti esclusivamente alla legge austriaca, fatta eccezione delle sue normative di riferimento e della CISG.
+Tuttavia, l’Utente in qualità di utilizzatore o consumatore gode della tutela delle disposizioni vincolanti dello stato in cui risiede o ha domicilio abituale.
+9.2 Foro competente
+Il foro competente per tutte le controversie associate alle presenti Condizioni Generali di Contratto è la sede di mySugr di Vienna.
+Le norme di conflitto vincolanti a favore dei consumatori rimangono invariate.
+9.3 Altro
+9.3.1 Se nelle presenti Condizioni Generali di Contratto viene richiesta la notifica o la forma scritta (incluse le dichiarazioni rilevanti dal punto di vista giuridico), è sufficiente la trasmissione via e-mail all’indirizzo indicato al momento della registrazione (ID mySugr).
+9.3.2 Gli Utenti non sono autorizzati a trasmettere a terzi il loro ID mySugr o i loro diritti e doveri risultanti dalle presenti Condizioni Generali di Contratto in relazione all’utilizzo dei nostri Prodotti.
+mySugr può trasmettere ad altri aziende o ad altri terzi i suoi diritti e doveri risultanti dalle presenti Condizioni Generali di Contratto, se tale trasmissione non ha effetti evidenti sui diritti dell’Utente risultanti dalle presenti Condizioni Generali di Contratto.
+9.3.3 Qualora singole disposizioni delle presenti Condizioni Generali di Contratto risultino o diventino inefficaci, le restanti disposizioni, non interessate da tale inefficacia, rimangono valide ed applicabili.
+9.3.4 Le presenti Condizioni Generali di Contratto sono disponibili in diverse lingue.
+Fondamentalmente la lingua della versione corrisponde al paese in cui il consumatore risiede o ha domicilio (per es.
+la versione tedesca è destinata agli Utenti di Austria, Germania e Svizzera).
+Qualora non sia disponibile una lingua specifica, resta applicabile la versione in lingua inglese.

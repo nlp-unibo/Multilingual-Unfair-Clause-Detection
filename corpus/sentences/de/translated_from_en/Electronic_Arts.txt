@@ -1,0 +1,293 @@
+ELECTRONIC ARTS
+NUTZUNGSBEDINGUNGEN
+Letzte Aktualisierung: 17. Mai 2018
+Willkommen bei EA.
+Diese Vereinbarung regelt Ihren Zugriff auf und Ihre Nutzung von Softwareprodukten, wie z. B. Spielesoftware, die auf Datenträgern enthalten oder heruntergeladen sind, die von EA und seinen Tochtergesellschaften („EA“) angeboten werden, und zugehörige Updates, Upgrades und Funktionen sowie Online- und mobile Dienste, Funktionen und Inhalte und Websites, die von EA angeboten werden, und/oder Live-Events, die von oder in Verbindung mit EA veranstaltet werden (zusammen „EA-Dienste“).
+Diese Vereinbarung besteht zwischen Ihnen und dem EA-Unternehmen, das unten in Abschnitt 13B aufgeführt ist.
+INDEM SIE DIE EA-DIENSTE VERWENDEN, STIMMEN SIE DIESEN BEDINGUNGEN ZU.
+WENN SIE NICHT ZUSTIMMEN, INSTALLIEREN ODER VERWENDEN SIE DIE EA-DIENSTE NICHT.
+FÜR EINWOHNER BESTIMMTER LÄNDER ERKLÄREN SIE SICH MIT DER IN ABSCHNITT 15 BESCHRIEBENEN SCHIEDSVEREINBARUNG UND DEM VERZICHT AUF SAMMELKLAGEN ZUR BEILEGUNG VON STREITIGKEITEN MIT EA EINVERSTANDEN.
+INHALTSVERZEICHNIS
+EA-Konto
+Lizenz
+Inhalt und Berechtigungen
+Verfügbarkeit von EA-Diensten und -Updates
+Ihr UGC
+Verhaltensregeln
+PC-Produkte
+Kündigung und andere Sanktionen
+Verwendung von Daten
+Sonstige Software, Dienstprogramme und Tools
+Dritte
+Gewährleistungsausschluss; Haftungsbeschränkung
+Allgemeine Bedingungen
+Änderungen an dieser Vereinbarung
+Streitbeilegung durch verbindliches Schiedsverfahren
+Ergänzende Bedingungen für PlayStation®
+1.
+EA-Konto
+Du benötigst ein EA-Konto, um auf viele EA-Dienste zugreifen und diese nutzen zu können, auch um online zu spielen.
+Um ein EA-Konto zu erstellen, müssen Sie über eine gültige E-Mail-Adresse verfügen und wahrheitsgemäße und genaue Informationen angeben.
+Sie müssen berechtigt sein, den EA-Service zu nutzen, für den Sie sich registrieren, und Ihren Wohnsitz in einem Land haben, in dem die Nutzung von EA-Services erlaubt ist.
+Sie müssen mindestens 13 Jahre alt sein (oder ein anderes Mindestalter, das in Ihrem Wohnsitzland gilt), um ein EA-Konto zu erstellen.
+Wenn Sie zwischen dem relevanten Mindestalter und 18 Jahren (oder dem Volljährigkeitsalter, in dem Sie leben) alt sind, müssen Sie und Ihre Eltern oder Erziehungsberechtigten diese Vereinbarung gemeinsam lesen.
+Eltern und Erziehungsberechtigte sind für die Handlungen von Kindern unter 18 Jahren bei der Nutzung von EA-Diensten verantwortlich.
+EA empfiehlt Eltern und Erziehungsberechtigten, sich mit der Kindersicherung auf Geräten vertraut zu machen, die sie ihrem Kind zur Verfügung stellen.
+Sie sind für die Aktivitäten auf Ihrem EA-Konto verantwortlich.
+Ihr EA-Konto kann gesperrt oder gekündigt werden, wenn jemand anderes es für Aktivitäten verwendet, die gegen diese Vereinbarung verstoßen.
+Sie können Ihr EA-Konto jederzeit kündigen.
+Sie können auch jederzeit ein Abonnement für einen bestimmten EA-Dienst kündigen.
+Wenden Sie sich an die Kundendienstabteilung von EA unter help.ea.com, um Ihr EA-Konto zu kündigen.
+Um Ihre Anfrage zu bearbeiten, kann EA, sofern gesetzlich zulässig, angefallene Gebühren oder Kosten sowie alle Beträge einziehen, die Drittanbietern oder Inhaltsanbietern geschuldet werden.
+2.
+Lizenz
+Die EA-Dienste werden Ihnen lizenziert, nicht verkauft.
+EA gewährt Ihnen eine persönliche, begrenzte, nicht übertragbare, widerrufliche und nicht ausschließliche Lizenz zur Nutzung der EA-Dienste, auf die Sie Zugriff haben, für Ihre nicht kommerzielle Nutzung, vorbehaltlich Ihrer Einhaltung dieser Vereinbarung.
+Sie sind nicht berechtigt, auf EA-Dienste, -Inhalte oder -Berechtigungen (wie diese Begriffe unten definiert sind) zuzugreifen, sie zu kopieren, zu modifizieren oder zu verteilen, es sei denn, dies wurde ausdrücklich von EA genehmigt oder ist gesetzlich zulässig.
+Es ist Ihnen nicht gestattet, Quellcode oder andere Daten aus EA-Diensten zurückzuentwickeln oder zu versuchen, sie zu extrahieren oder anderweitig zu verwenden, es sei denn, dies wurde ausdrücklich von EA genehmigt oder ist gesetzlich zulässig.
+EA oder seine Lizenzgeber besitzen und behalten sich alle anderen Rechte vor, einschließlich aller Rechte, Titel und Anteile an den EA-Diensten und damit verbundenen geistigen Eigentumsrechten.
+3.
+Inhalt und Berechtigungen
+Die EA-Dienste umfassen Inhalte und Berechtigungen.
+Inhalte sind Software, Technologie, Text, Forenbeiträge, Chatbeiträge, Profile, Widgets, Nachrichten, Links, E-Mails, Musik, Ton, Grafiken, Bilder, Videos, Code und alle audiovisuellen oder sonstigen Materialien, die auf oder von diesen erscheinen oder von diesen stammen von EA Services sowie das Design und Erscheinungsbild unserer Websites.
+Zu den Inhalten gehören auch nutzergenerierte Inhalte („UGC“).
+UGC umfasst EA-Konto-Personas, Forenbeiträge, Profilinhalte und andere Inhalte, die von Benutzern zu EA-Diensten beigetragen werden.
+Alle Inhalte sind entweder Eigentum von EA oder seinen Lizenzgebern oder sind gemäß Abschnitt 5 unten an EA und seine Lizenzgeber lizenziert.
+Berechtigungen sind Rechte, die EA Ihnen lizenziert, um auf die Online- oder Offline-Elemente der EA-Dienste zuzugreifen oder diese zu nutzen.
+Beispiele für Berechtigungen umfassen den Zugriff auf digitale oder freischaltbare Inhalte, zusätzliche oder erweiterte Funktionen (einschließlich Mehrspieler-Dienste); Abonnements; virtuelle Vermögenswerte; Entsperren von Schlüsseln oder Codes, Seriencodes oder Online-Authentifizierung; Erfolge im Spiel; virtuelle Punkte, Münzen oder Währungen.
+Wir bezeichnen diese virtuellen Punkte, Coins oder Währungen als „virtuelle EA-Währung“.
+Wenn Sie virtuelle EA-Währung von uns oder unseren autorisierten Partnern erwerben, erhalten Sie eine persönliche, beschränkte, nicht übertragbare, nicht exklusive, widerrufliche Lizenz für den Zugriff auf und die Auswahl der Berechtigungen, die EA Ihnen ausdrücklich zur Verfügung stellt.
+Virtuelle EA-Währung hat keinen Geldwert und keinen Wert außerhalb unserer Produkte und Dienstleistungen.
+Virtuelle EA-Währung kann nicht verkauft, gehandelt, übertragen oder gegen Bargeld eingetauscht werden; es kann nur für Berechtigungen eingelöst werden, die für den EA-Dienst verfügbar sind.
+Virtuelle EA-Währung ist nicht erstattungsfähig, und Sie haben keinen Anspruch auf eine Erstattung für ungenutzte virtuelle EA-Währung.
+Sobald Sie virtuelle EA-Währung gegen eine Berechtigung eingelöst haben, kann diese Berechtigung nicht zurückgegeben, umgetauscht oder erstattet werden.
+Wenn du in Japan lebst, stimmst du zu, jede virtuelle EA-Währung innerhalb von 180 Tagen ab Kaufdatum zu verwenden.
+Sie stellen auf eigene Kosten die Ausrüstung, die Internetverbindung und die Gebühren bereit, die für den Zugriff auf und die Nutzung von EA-Diensten erforderlich sind.
+4.
+Verfügbarkeit von EA-Diensten und -Updates
+Wir garantieren nicht, dass EA-Dienste, -Inhalte oder -Berechtigungen jederzeit, an allen Orten oder zu einem bestimmten Zeitpunkt verfügbar sind oder dass wir bestimmte EA-Dienste, -Inhalte oder -Berechtigungen für einen bestimmten Zeitraum anbieten.
+EA garantiert nicht, dass auf EA-Dienste auf allen Geräten, über einen bestimmten Internet- oder Verbindungsanbieter oder an allen geografischen Standorten zugegriffen werden kann.
+Von Zeit zu Zeit kann EA EA-Dienste, -Inhalte oder -Berechtigungen ohne Benachrichtigung an Sie aktualisieren, ändern oder modifizieren.
+Diese Aktualisierungen und Änderungen können erforderlich sein, um die EA-Dienste weiterhin nutzen zu können.
+EA muss möglicherweise bestimmte Parameter aktualisieren oder zurücksetzen, um das Spiel und die Nutzung der EA-Dienste in Einklang zu bringen.
+Diese Aktualisierungen oder „Zurücksetzungen“ können zu Rückschlägen in der jeweiligen Spielwelt führen und sich auf Charaktere, Spiele, Gruppen oder andere Berechtigungen unter Ihrer Kontrolle auswirken.
+5.
+Ihr UGC
+Sie sind für Ihre UGC verantwortlich.
+Sie dürfen keine UGC hochladen, die die geistigen Eigentumsrechte Dritter oder das Gesetz, diese Vereinbarung oder das Recht auf Privatsphäre oder Veröffentlichung eines Dritten verletzen.
+EA kann UGC nach eigenem Ermessen aus beliebigem Grund entfernen, bearbeiten oder deaktivieren, auch wenn EA vernünftigerweise feststellt, dass UGC gegen diese Vereinbarung verstößt.
+EA übernimmt keine Verantwortung oder Haftung für UGC, deren Entfernung oder Nichtentfernung oder andere Inhalte.
+EA überprüft nicht alle UGC vorab und unterstützt oder genehmigt keine UGC, die auf EA-Diensten verfügbar sind.
+Wenn Sie UGC beitragen, gewähren Sie EA, seinen Lizenzgebern und Lizenznehmern eine nicht-exklusive, unbefristete, übertragbare, weltweite, unterlizenzierbare Lizenz zur Nutzung, zum Hosten, Speichern, Reproduzieren, Modifizieren, Erstellen abgeleiteter Werke, zur öffentlichen Aufführung, öffentlichen Darstellung oder anderweitigen Übertragung und den UGC oder einen Teil davon in irgendeiner Weise oder Form und in jedem Medium oder Forum, ob jetzt bekannt oder später entwickelt, ohne Vorankündigung, Zahlung oder Zuschreibung jeglicher Art an Sie oder Dritte zu kommunizieren.
+Sie gewähren auch allen anderen Benutzern, die auf Ihre UGC auf einem EA-Dienst zugreifen und diese verwenden können, das Recht, Ihre UGC ohne diese auf oder über den entsprechenden EA-Dienst zu verwenden, zu kopieren, zu ändern, anzuzeigen, auszuführen, davon abgeleitete Werke zu erstellen und anderweitig zu kommunizieren und zu verbreiten weitere Benachrichtigung, Zuschreibung oder Entschädigung an Sie.
+6.
+Verhaltensregeln
+Wenn Sie auf einen EA-Dienst zugreifen oder ihn nutzen, stimmen Sie zu, dass Sie Folgendes nicht tun werden:
+Gegen Gesetze, Regeln oder Vorschriften verstoßen.
+Stören oder Unterbrechen von EA-Diensten oder Servern oder Netzwerken, die zur Unterstützung oder Bereitstellung eines EA-Dienstes verwendet werden, einschließlich Hacking oder Cracking in einen EA-Dienst.
+Verwendung von Software oder Programmen, die einen EA-Dienst oder den Computer oder das Eigentum eines anderen beschädigen, stören oder unterbrechen, wie z Bomben.
+Die Nutzung eines EA-Dienstes durch einen anderen Spieler zu stören oder zu unterbrechen.
+Dazu gehört das Unterbrechen des normalen Ablaufs von Spielen, Chats oder Dialogen innerhalb eines EA-Dienstes, beispielsweise durch vulgäre oder belästigende Sprache, Beleidigungen, übermäßiges Schreien (in Großbuchstaben), Spamming, Fluten oder wiederholtes Drücken der Eingabetaste.
+Einen anderen Spieler zu belästigen, zu bedrohen, zu schikanieren, in Verlegenheit zu bringen, zu spammen oder ihm etwas anderes anzutun, was unerwünscht ist, wie z. B. wiederholtes Senden unerwünschter Nachrichten oder persönliche Angriffe oder Aussagen über Rasse, sexuelle Orientierung, Religion, Herkunft usw.
+Hassreden werden nicht toleriert.
+UGC beitragen oder Aktivitäten, Gruppen oder Gilden organisieren oder daran teilnehmen, die unangemessen, missbräuchlich, belästigend, profan, bedrohlich, hasserfüllt, beleidigend, vulgär, obszön, sexuell explizit, diffamierend, verletzend, in die Privatsphäre anderer eindringend oder anderweitig vernünftigerweise zu beanstanden sind.
+Veröffentlichen, posten, hochladen oder verbreiten Sie UGC oder Inhalte, die illegal sind oder für deren freie Verbreitung Sie keine Erlaubnis haben.
+Veröffentlichen, Posten, Hochladen oder Verteilen von Inhalten wie Themen, Namen, Bildschirmnamen, Avataren, Personen oder anderen Materialien oder Informationen, die EA (in angemessener und objektiver Weise) als unangemessen, beleidigend, hasserfüllt, belästigend, profan, verleumderisch, bedrohlich, hasserfüllt, obszön, sexuell eindeutig, verletzend, in die Privatsphäre eingreifend, vulgär, beleidigend, unanständig oder rechtswidrig.
+Veröffentlichen Sie eine Nachricht für andere Zwecke als die persönliche Kommunikation.
+Verbotene Nachrichten umfassen Werbung, Spam, Kettenbriefe, Schneeballsysteme und andere Arten von Werbung oder kommerzielle Aktivitäten.
+Sich als eine andere Person ausgeben oder fälschlicherweise andeuten, dass Sie ein Mitarbeiter oder Vertreter von EA sind.
+Unsachgemäße Nutzung der Support- oder Beschwerdeschaltflächen im Spiel oder falsche Meldungen an EA-Mitarbeiter.
+Versuchen Sie, ein Passwort, Kontoinformationen oder andere private Informationen von jemand anderem auf EA-Diensten zu erhalten oder zu phishing.
+Verwenden Sie Roboter, Spinnen oder andere automatisierte Geräte oder Prozesse, um auf diese Website für beliebige Zwecke zuzugreifen oder Material auf dieser Website zu kopieren.
+Verwenden oder verteilen Sie nicht autorisierte Softwareprogramme oder Tools, wie z. B. „Auto“-Softwareprogramme, „Makro“-Softwareprogramme, „Cheat Utility“-Softwareprogramme oder -anwendungen, Exploits, Cheats oder andere Software oder Tools zum Hacken, Verändern oder Betrügen von Spielen.
+Dateien oder andere Teile des EA-Dienstes zu ändern, zu deren Änderung EA Sie nicht ausdrücklich ermächtigt.
+Verwenden Sie Exploits, Cheats, nicht dokumentierte Funktionen, Designfehler oder Probleme in einem EA-Dienst.
+Verwenden oder verteilen Sie gefälschte Software oder EA-Inhalte, einschließlich der virtuellen EA-Währung.
+Versuchen Sie, einen EA-Dienst auf oder über einen Dienst zu nutzen, der nicht von EA kontrolliert oder autorisiert wird.
+Ihr EA-Konto, jeglichen persönlichen Zugang zu EA-Diensten oder EA-Inhalte, die mit Ihrem EA-Konto verbunden sind, einschließlich virtueller EA-Währung und anderer Berechtigungen, entweder innerhalb eines EA-Dienstes oder auf einem Dritten zu verkaufen, zu kaufen, zu handeln oder anderweitig zu übertragen oder die Übertragung anzubieten Partei-Website oder in Verbindung mit Transaktionen außerhalb des Spiels, es sei denn, dies wurde ausdrücklich von EA genehmigt.
+Verwenden Sie einen EA-Dienst in einem Land, in dem es EA gemäß den geltenden Exportkontrollgesetzen untersagt ist, solche Dienste anzubieten.
+Wenn Sie für einen EA-Dienst einen „Benutzernamen“ oder eine „Persona“ erstellen müssen, um Sie im Spiel und online zu vertreten, sollten Sie nicht Ihren richtigen Namen verwenden und dürfen keinen Benutzernamen oder eine Person verwenden, die von jemand anderem verwendet wird oder so EA feststellt, dass es vulgär oder beleidigend ist oder die Rechte anderer verletzt.
+Beteiligen Sie sich an anderen Aktivitäten, die die friedliche, faire und respektvolle Spielumgebung eines EA-Dienstes erheblich stören.
+Verwenden Sie Informationen über Benutzer, die in einem EA-Dienst öffentlich verfügbar sind (z. B. in einer Bestenliste), für Zwecke, die nichts mit dem Dienst zu tun haben, einschließlich des Versuchs, solche Benutzer in der realen Welt zu identifizieren.
+Förderung, Ermutigung oder Teilnahme an oben beschriebenen verbotenen Aktivitäten.
+Wenn Sie oder jemand, der Ihr EA-Konto verwendet, gegen diese Regeln verstößt und diesen Verstoß nach einer Verwarnung nicht behebt, kann EA Maßnahmen gegen Sie ergreifen, einschließlich des Widerrufs des Zugriffs auf bestimmte oder alle EA-Dienste, -Inhalte oder -Berechtigungen oder die Kündigung Ihres EA-Kontos, wie in beschrieben Sektion 8.
+Bei schwerwiegenden Verstößen kann EA diese Maßnahmen ohne vorherige Verwarnung ergreifen.
+Einige Beispiele für schwerwiegende Verstöße sind unter anderem: Förderung, Ermutigung oder Beteiligung an Hacking, Verkauf von EA-Konten oder -Berechtigungen (einschließlich virtueller Währungen und Gegenstände) ohne die Erlaubnis von EA, extreme Belästigung oder Androhung illegaler Aktivitäten.
+Wenn möglich, wird EA Sie über die Maßnahmen informieren, die es als Reaktion auf Verstöße gegen diese Regeln oder gegen diese Vereinbarung ergreifen wird.
+Bestimmte EA-Dienste können zusätzliche Regeln veröffentlichen, die für Ihr Verhalten bei diesen Diensten gelten.
+Wenn du auf einen anderen Benutzer triffst, der gegen eine dieser Regeln verstößt, melde diese Aktivität bitte EA über die Funktionen „Hilfe“ oder „Missbrauch melden“ im entsprechenden EA-Dienst, sofern verfügbar, oder kontaktiere den Kundendienst unter help.ea.com.
+EA kann nach eigenem Ermessen Online-Aktivitäten oder Inhalte auf EA-Diensten überwachen oder aufzeichnen und Inhalte nach eigenem Ermessen aus allen EA-Diensten entfernen.
+Denken Sie daran, dass Ihre Kommunikation und Ihr UGC in einem EA-Dienst öffentlich sind und von anderen gesehen werden.
+Ihre Nutzung der EA-Dienste unterliegt der Datenschutz- und Cookie-Richtlinie von EA unter privacy.ea.com, die durch Verweis in diese Vereinbarung aufgenommen wird.
+7.
+PC-Produkte
+Dieser Abschnitt gilt für EA-Dienste zum Spielen auf einem PC („EA-PC-Produkte“).
+Um auf EA-Dienste zugreifen und diese nutzen zu können, die mit einem EA-PC-Produkt verbunden sind, müssen Sie sich möglicherweise zunächst mit dem Seriennummerncode registrieren, der dem EA-PC-Produkt beiliegt.
+A. Technische und inhaltliche Schutzmaßnahmen
+EA setzt bestimmte technische oder inhaltliche Schutzmaßnahmen ein, um Piraterie und das unbefugte Kopieren oder Verwenden eines EA-PC-Produkts zu verhindern.
+EA-PC-Produkte verwenden die Origin-Online-Aktivierung und können auch die Denuvo-Inhaltsschutztechnologie von Sony DADC Austria AG verwenden.
+Um zu sehen, welche Spiele Denuvo verwenden, besuchen Sie https://www.ea.com/legal.
+Ein EA-Konto, einschließlich der Annahme dieser Vereinbarung und der Datenschutz- und Cookie-Richtlinie von EA unter privacy.ea.com, Installation der Client-Anwendung von Origin (https://www.origin.com/en-us/about), Annahme der Die Ursprungs-EULA und eine Internetverbindung sind erforderlich, um das EA-PC-Produkt zu authentifizieren und Ihre Lizenz beim ersten Start der EA-PC-Produkte auf einem bestimmten Computer zu verifizieren („Authentifizieren“ oder „Authentifizierung“).
+Der mit diesem EA-PC-Produkt bereitgestellte Seriencode wird während der Authentifizierung überprüft.
+Die Authentifizierung ist auf ein EA-Konto pro Seriennummer beschränkt, was bedeutet, dass das EA-PC-Produkt nicht übertragbar ist.
+EA kann Ihre Lizenz durch anschließende Online-Authentifizierung validieren.
+Die Gesamtzahl der Computer, auf denen die EA-PC-Produkte authentifiziert werden können, ist unbegrenzt, aber Sie dürfen das EA-PC-Produkt auf nicht mehr als fünf einzelnen Computern in einem gleitenden 24-Stunden-Zeitraum starten und darauf zugreifen.
+Wenn Sie versuchen, diese technischen Schutzmaßnahmen zu umgehen, zu deaktivieren oder zu manipulieren, funktioniert das EA-PC-Produkt möglicherweise nicht ordnungsgemäß und diese Lizenz erlischt aufgrund Ihrer wesentlichen Verletzung.
+Bewahren Sie Ihren Seriencode auf, da Sie ihn möglicherweise benötigen, um den EA-PC-Dienst auf anderen Computern zu installieren.
+Diese Technologie kann bestimmte Anwendungen stören, z. B. Debugger, die zur Umgehung der Zugriffssteuerungstechnologie verwendet werden können.
+B. Überwachung
+EA verwendet bestimmte Technologien, um Betrug im Zusammenhang mit der Nutzung von EA-PC-Produkten zu erkennen und zu verhindern.
+Diese werden im Folgenden beschrieben.
+Sie können https://www.ea.com/legal besuchen, um zu erfahren, welche Technologie mit jedem EA-PC-Produkt verwendet wird.
+Punkbuster.
+EA kann die Punkbuster Anti-Cheat-Technologie von Even Balance, Inc. verwenden. Sie können sich dafür entscheiden, Punkbuster während der Installation eines EA-PC-Produkts zu installieren.
+Wenn es installiert ist, überwacht Punkbuster den Arbeitsspeicher (RAM) Ihres Computers auf nicht autorisierte Programme von Drittanbietern, die gleichzeitig mit dem EA-PC-Produkt ausgeführt werden, und auf Änderungen an den Dateien des EA-PC-Produkts, wenn Sie mit Punkbuster eine Online-Verbindung zu einem Spielserver herstellen Betrug erleichtern.
+Ein nicht autorisiertes Drittanbieterprogramm ist ein Drittanbieterprogramm oder eine Datei (z. B. ein „Addon“, „Mod“, „Hack“, „Trainer“ oder „Cheat“), von dem EA glaubt, dass (i) es Cheaten jeglicher Art ermöglicht oder erleichtert : (ii) Benutzern erlaubt, die Spielschnittstelle, -umgebung und/oder -erfahrung auf eine Weise zu modifizieren oder zu hacken, die nicht ausdrücklich von EA genehmigt wurde; oder (iii) Informationen aus dem oder durch das Spiel abfängt, „minet“ oder anderweitig sammelt.
+Wenn Sie das EA-PC-Produkt deinstallieren, bleibt Punkbuster auf Ihrem Computer inaktiv.
+Um Punkbuster zu deinstallieren, führen Sie die ausführbare Datei unter https://www.evenbalance.com/downloads/pbsvc/pbsvc.exe aus.
+EA Anti-Cheat-Technologien.
+EA kann seine eigenen Anti-Cheat-Technologien verwenden.
+Wenn Sie sich online mit einem Spielserver verbinden, aktivieren und überwachen diese Technologien Ihr Spiel, die mit dem EA-PC-Produkt verknüpften Spieldateien und den Arbeitsspeicher Ihres Computers.
+Diese Technologien erkennen Betrug und nicht autorisierte Programme von Drittanbietern, die gleichzeitig mit dem EA-PC-Produkt ausgeführt werden, sowie alle Änderungen an den Dateien des EA-PC-Produkts, die Betrug ermöglichen oder erleichtern.
+Wenn eine dieser Anti-Cheat-Technologien Betrug erkennt, erfassen wir möglicherweise relevante Informationen, einschließlich Ihres Kontonamens, Details über ein nicht autorisiertes Drittanbieterprogramm und die erkannte Änderung der EA-PC-Produktdateien sowie Uhrzeit und Datum der Erkennung.
+Wir können auch Ihre Lizenz und Ihr EA-Konto kündigen, wenn wir feststellen, dass Sie betrogen haben.
+Wenn Sie die Verbindung zum Spielserver trennen, werden diese Anti-Cheat-Technologien deaktiviert.
+C. Deinstallieren
+Du kannst EA-PC-Produkte jederzeit in deinen Spieleinstellungen im Origin-Client deinstallieren.
+Bestimmte lokal gespeicherte Dateien können nach der Deinstallation auf Ihrem Computer verbleiben.
+Sie können diese Dateien manuell löschen, indem Sie auf dem PC in Ihrem Ordner „Eigene Dateien“ oder auf einem Mac über den Dateifinder nach dem Spieltitel suchen.
+8.
+Kündigung und andere Sanktionen
+Diese Vereinbarung gilt, bis sie von Ihnen oder EA gekündigt wird.
+EA kann Ihren Zugang und Ihre Nutzung von EA-Diensten oder Ihrem EA-Konto kündigen, wenn EA feststellt, dass Sie gegen diese Vereinbarung verstoßen haben oder dass EA-Dienste in Verbindung mit Ihrem EA-Konto auf andere Weise rechtswidrig, missbräuchlich oder betrügerisch genutzt wurden.
+Wenn möglich, wird EA Sie über die Kündigung informieren.
+Als Folge der Kündigung eines EA-Kontos können Sie Ihren Benutzernamen und Ihre Persönlichkeit verlieren.
+Wenn Sie mehr als ein EA-Konto haben, kann EA je nach Art des Verstoßes oder Missbrauchs alle Ihre EA-Konten und alle damit verbundenen Berechtigungen kündigen.
+Wenn Ihr EA-Konto gekündigt wird, haben Sie keinen Zugriff auf Ihr EA-Konto oder Ihre Berechtigungen und können möglicherweise nicht mehr auf EA-Dienste zugreifen oder diese erneut nutzen.
+Mit der Kündigung endet auch Ihre Lizenz im Rahmen dieser Vereinbarung.
+Anstelle einer Kündigung und vor einer Kündigung kann EA Sie verwarnen, Ihren Zugriff auf einen bestimmten EA-Dienst oder Ihr EA-Konto sperren oder ändern, Berechtigungen auf EA-Konto- oder Geräteebene entfernen oder widerrufen, alle Inhalte entfernen oder löschen, die vorhanden sind gegen diese Vereinbarung verstoßen oder Ihrem Gerät oder Ihrer Maschine den Zugriff auf bestimmte EA-Dienste verbieten.
+Wenn EA eine der in diesem Abschnitt beschriebenen Maßnahmen ergreift, haben Sie keinen Anspruch auf eine Rückerstattung (vorbehaltlich gesetzlicher Rückerstattungsrechte) und es werden Ihnen keine Ansprüche gutgeschrieben oder in Bargeld oder andere Formen der Rückerstattung umgewandelt.
+EA kann jeden EA-Service jederzeit mit einer Frist von mindestens dreißig Tagen kündigen, entweder per E-Mail (falls verfügbar), innerhalb des betroffenen EA-Service oder auf der Service-Update-Seite der EA-Website (https://www.ea.com /service-updates).
+Nach Beendigung des Onlinedienstes werden keine Software-Updates auf unsere Spiele angewendet und wir können nicht garantieren, dass unsere Handyspiele weiterhin über iCloud (oder andere anwendbare Cloud-Dienste) heruntergeladen werden können.
+Alle Spiele, die nach Beendigung des Onlinedienstes über iCloud verfügbar sind, können ohne weitere Benachrichtigung an Sie aus iCloud entfernt werden.
+Wenn Sie der Meinung sind, dass gegen Ihr Konto oder Gerät irrtümlich etwas unternommen wurde, kontaktieren Sie bitte den Kundendienst unter help.ea.com.
+Die Abschnitte 5, 8-9, 11-15 dieser Vereinbarung gelten auch nach Beendigung dieser Vereinbarung.
+9.
+Verwendung von Daten
+Wenn Sie einen EA-Dienst nutzen, kann EA Daten von Ihrem Computer oder Gerät erfassen und speichern, einschließlich Informationen über Ihren Computer oder Ihr Gerät und Ihr Betriebssystem (wie IP-Adresse und Geräte-ID), Informationen über Ihre Nutzung des EA-Dienstes, Gameplay und Nutzungsstatistiken , Systeminteraktionen und Peripheriehardware (um beispielsweise Ihre Spielstatistiken zu schützen, kann EA eine zufällig generierte Identifikationsnummer im Schlüsselbundspeicher Ihres Geräts ablegen.
+Diese Kennung wird entfernt, wenn Sie Ihr Gerät zurücksetzen).
+Wenn Sie einen EA-Dienst offline spielen, werden diese Daten auf Ihrem Gerät gespeichert und an EA übertragen, wenn sich Ihr Gerät mit dem Internet verbindet.
+EA verwendet diese Informationen, um sein Geschäft zu betreiben, seine Produkte und Dienstleistungen zu verbessern, Dienstleistungen für Sie bereitzustellen und mit Ihnen zu kommunizieren (einschließlich für Marketingzwecke), Software-Updates, dynamisch bereitgestellte Inhalte und Software-Support bereitzustellen und Fehler zu beheben oder Ihr Erlebnis anderweitig zu verbessern .
+Wenn Sie an Onlinediensten teilnehmen, kann EA auch statistische Daten zum Spielablauf (einschließlich Punktzahlen, Ranglisten und Erfolge) sammeln, verwenden, speichern, übertragen und öffentlich anzeigen oder Inhalte identifizieren, die von Ihnen erstellt und mit anderen Spielern geteilt werden.
+Ihre Daten werden von EA Inc. in den Vereinigten Staaten gemäß der Datenschutz- und Cookie-Richtlinie von EA unter privacy.ea.com erhoben, verwendet, gespeichert und übertragen.
+10.
+Sonstige Software, Dienstprogramme und Tools
+EA-Dienste erfordern oder erlauben Ihnen möglicherweise, Software, Software-Updates oder -Patches oder andere Dienstprogramme und Tools von EA oder seinen Lizenzgebern auf Ihren Computer, Ihr Unterhaltungssystem oder Ihr Gerät herunterzuladen.
+Diese Technologien können je nach Plattform unterschiedlich sein, und die Leistung der EA-Dienste kann je nach Computer und anderen Geräten variieren.
+Sie verstehen, dass bestimmte Updates dieser Technologien erforderlich sein können, um EA-Dienste weiterhin nutzen zu können.
+Einige dieser Updates können gesperrte Funktionen oder Inhalte enthalten, für deren Zugriff Sie eine zusätzliche Gebühr zahlen müssen.
+Sie stimmen zu, dass EA alle verfügbaren Updates für EA-Dienste automatisch installiert.
+Wenn verfügbare Updates nicht installiert werden, können EA-Dienste, einschließlich EA-PC-Produkte, unspielbar werden.
+11.
+Dritte
+Einige EA-Dienste bieten Ihnen möglicherweise die Möglichkeit, auf Servern zu spielen, die nicht Eigentum von EA sind oder von EA kontrolliert werden.
+EA kontrolliert diese Dienste nicht und ist nicht verantwortlich für Ihre Nutzung des EA-Dienstes auf oder durch sie.
+Diese Dienste von Drittanbietern können Sie zusätzlichen oder anderen Bedingungen und Einschränkungen unterwerfen.
+EA-Dienste können Hyperlinks zu Websites Dritter enthalten.
+Diese Websites können Daten sammeln oder persönliche Informationen von Ihnen anfordern.
+EA kontrolliert diese Websites nicht und ist nicht verantwortlich für deren Inhalt oder für die Erfassung, Nutzung oder Offenlegung personenbezogener Daten.
+12.
+Garantien; Haftungsbeschränkung
+WENN SIE IM EUROPÄISCHEN WIRTSCHAFTSRAUM (EWR) ODER DER SCHWEIZ LEBEN, WERDEN DIE EA-DIENSTE MIT ANGEMESSENER SORGFALT UND FÄHIGKEIT BEREITGESTELLT, UND ES WERDEN KEINE ANDEREN VERSPRECHEN ODER GEWÄHRLEISTUNGEN IN BEZUG AUF DIE EA-DIENSTE GEGEBEN.
+WENN SIE AUSSERHALB DES EWR UND DER SCHWEIZ LEBEN, WERDEN DIE EA-DIENSTE LIZENZIERT UND OHNE MÄNGELGEWÄHR BEREITGESTELLT.
+SIE VERWENDEN SIE AUF EIGENES RISIKO.
+SOWEIT NACH GELTENDEM RECHT ZULÄSSIG, ÜBERNIMMT EA KEINE AUSDRÜCKLICHEN, STILLSCHWEIGENDEN ODER GESETZLICHEN GEWÄHRLEISTUNGEN, EINSCHLIESSLICH STILLSCHWEIGENDER GEWÄHRLEISTUNGEN DER MARKTFÄHIGKEIT, ZUFRIEDENSTELLENDEN QUALITÄT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, NICHTVERLETZUNG VON RECHTEN DRITTER UND GEWÄHRLEISTUNGEN, DIE SICH AUS EINEM HANDELSVERFAHREN ODER EINER VERWENDUNG ERGEBEN ODER PRAXIS.
+EA ÜBERNIMMT KEINE GEWÄHRLEISTUNG GEGEN STÖRUNGEN IHRER GENUSS DES PRODUKTS ODER DES EA-SERVICES; DASS DER EA-SERVICE IHRE ANFORDERUNGEN ERFÜLLT; DASS DER BETRIEB DES EA-DIENSTES UNUNTERBROCHEN ODER FREI VON FEHLERN, BUGS, BESCHÄDIGUNG, VERLUST, STÖRUNGEN, HACKING ODER VIREN IST ODER DASS EA-DIENSTE MIT ANDERER SOFTWARE ZUSAMMENARBEITEN ODER KOMPATIBEL SIND.
+EA ÜBERNIMMT KEINE GEWÄHRLEISTUNG ODER GARANTIE FÜR PRODUKTE ODER SERVICES VON DRITTANBIETERN, DIE ÜBER DEN ORIGIN STORE ANGEBOTEN WERDEN.
+SIEHE https://help.ea.com/en-us/help/account/electronic-arts-warranty-policy/ FÜR WEITERE INFORMATIONEN ZUR GESETZLICHEN GEWÄHRLEISTUNG UND ANDEREN GESETZLICHEN VERBRAUCHERRECHTEN IN IHREM GEBIET UND https://help.ea .com/en-au/help/account/electronic-arts-warranty-policy/ FÜR AUSTRALISCHE VERBRAUCHER VERFÜGBARE RECHTE.
+WENN SIE IM EWR ODER IN DER SCHWEIZ LEBEN, HABEN EA UND SEINE MITARBEITER, LIZENZGEBER UND GESCHÄFTSPARTNER IHNEN GEGENÜBER NICHT FÜR VERLUSTE ODER SCHÄDEN, DIE SICH AUS IHREN HANDLUNGEN ODER VERLETZUNGEN DIESER VEREINBARUNG ERGEBEN ODER DIE DURCH DIE ( ODER ANDERE) HANDLUNGEN ODER UNTERLASSUNGEN AUSSERHALB UNSERER KONTROLLE.
+WENN SIE AUSSERHALB DES EWR UND DER SCHWEIZ LEBEN, HAFTEN EA UND SEINE MITARBEITER, LIZENZGEBER UND GESCHÄFTSPARTNER IHNEN GEGENÜBER IM VOLLEN RAHMEN, DER NACH GELTENDEM RECHT ZULÄSSIG IST, NICHT FÜR VERLUSTE, DIE NICHT DURCH EAS VERLETZUNG DIESER VEREINBARUNG ODER INDIREKT, NEBEN-, FOLGE-, STRAF- ODER SONDERSCHÄDEN.
+ZU DEN ARTEN AUSGESCHLOSSENER SCHÄDEN GEHÖREN ZUM BEISPIEL FINANZIELLE SCHÄDEN (WIE EINKOMMENS- ODER GEWINNVERLUST), KOSTEN FÜR ERSATZWAREN ODER DIENSTLEISTUNGEN, GESCHÄFTSUNTERBRECHUNG ODER UNTERBRECHUNG, DATENVERLUST, VERLUST DES GUTEN WERTS SOWIE COMPUTERFEHLER ODER FEHLFUNKTIONEN.
+DIESE EINSCHRÄNKUNG GILT FÜR ALLE ANSPRÜCHE, DIE SICH AUS ODER IM ZUSAMMENHANG MIT DIESER LIZENZ ODER DEM EA-DIENST ERGEBEN, OB AUF VERTRAG, UNERLAUBTER HANDLUNG, GESETZLICHER HAFTUNG ODER ANDERWEITIGER GRUNDLAGE.
+SIE GILT AUCH, WENN EA VON DER MÖGLICHKEIT SOLCHER SCHÄDEN WUSSTE ODER WISSEN HÄTTE.
+SIE KÖNNEN NUR DIREKTE SCHÄDEN IN JEGLICHER HÖHE DES TATSÄCHLICH FÜR DEN JEWEILIGEN EA-DIENST GEZAHLTEN BETRAGES ERHOBEN WERDEN.
+EA BESCHRÄNKT SEINE HAFTUNG FÜR BETRUG, GROBE FAHRLÄSSIGKEIT, VORSÄTZLICHES FEHLVERHALTEN ODER FÜR TOD ODER KÖRPERVERLETZUNG NICHT.
+EINIGE GERICHTSBARKEITEN ERLAUBEN DIE OBEN GENANNTEN AUSSCHLÜSSE UND EINSCHRÄNKUNGEN NICHT, DESHALB GELTEN EINIGE ODER ALLE VON IHNEN MÖGLICHERWEISE NICHT FÜR SIE.
+Wenn Sie eine physische Kopie eines EA-Dienstes in einem physischen Einzelhandelsgeschäft in den Vereinigten Staaten erworben haben und den Bedingungen dieser Vereinbarung nicht zustimmen und den EA-Dienst nicht installiert oder genutzt haben, können Sie ihn gegen eine Rückerstattung oder einen Umtausch innerhalb zurückgeben dreißig (30) Tage ab Kaufdatum bis zum ursprünglichen Kaufort, indem Sie die Anweisungen zur Rückgabe befolgen, die unter https://warrantyinfo.ea.com verfügbar sind.
+13.
+Allgemeine Bedingungen
+A. Gesamte Vereinbarung
+Diese Vereinbarung stellt zusammen mit allen anderen EA-Bedingungen, die Ihre Nutzung der EA-Dienste regeln, die gesamte Vereinbarung zwischen Ihnen und EA dar.
+Die Vereinbarung darf nur in schriftlicher Form und mit Unterschrift von EA ergänzt oder modifiziert werden.
+Das Versäumnis von EA, ein Recht aus dieser Vereinbarung auszuüben, stellt keinen Verzicht auf das Recht oder ein anderes Recht dar.
+Wenn ein Teil dieser Vereinbarung für nicht durchsetzbar befunden wird, bleiben alle anderen Teile dieser Vereinbarung in vollem Umfang in Kraft und wirksam.
+B. Anwendbares Recht
+Wenn Sie im EWR, in der Schweiz, in Brasilien, Hongkong, Mexiko oder Russland leben, (i) besteht diese Vereinbarung zwischen Ihnen und EA Swiss Sárl, einem Unternehmen, das im Genfer Handelsregister mit der Firmenregistrierungsnummer: CH-660-2328005 eingetragen ist -8 und mit Büros in 8 Place du Molard, 1204 Genf, Schweiz; (ii) die Gesetze Ihres Wohnsitzlandes regeln diese Vereinbarung und Ihre Nutzung der EA-Dienste; und (iii) Sie erklären sich ausdrücklich damit einverstanden, dass die ausschließliche Zuständigkeit für alle Ansprüche oder Klagen, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder EA-Diensten ergeben, die Gerichte Ihres Wohnsitzlandes sind.
+Wenn Sie in der Republik Korea leben, (i) besteht diese Vereinbarung zwischen Ihnen und EA Swiss Sàrl, einem Unternehmen, das im Genfer Handelsregister mit der Firmenregistrierungsnummer: CH-660-2328005-8 und mit Sitz in 8 Place du Molard, 1204 Genf, Schweiz; (ii) diese Vereinbarung und Ihre Nutzung der EA-Dienste unterliegen den Gesetzen Koreas, mit Ausnahme der Kollisionsnormen; und (iii) Sie stimmen ausdrücklich zu, dass die ausschließliche Zuständigkeit für alle Ansprüche oder Klagen, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder EA-Diensten ergeben, die Gerichte von Korea sind.
+Wenn Sie in den Vereinigten Staaten, Kanada oder Japan leben, (i) besteht diese Vereinbarung zwischen Ihnen und Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065, USA; (ii) die Gesetze des US-Bundesstaates Kalifornien, mit Ausnahme der Kollisionsnormen, unterliegen dieser Vereinbarung und Ihrer Nutzung von EA-Diensten; und (iii) Sie erklären sich ausdrücklich damit einverstanden, dass für Ansprüche und Streitigkeiten, die nicht der nachstehenden Schiedsvereinbarung unterliegen, die ausschließliche Zuständigkeit für alle Ansprüche oder Klagen, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder EA-Diensten ergeben, die Bundes- oder Landesgerichte sind, die San Mateo County regieren , Kalifornien, und Sie stimmen ausdrücklich der Ausübung der persönlichen Zuständigkeit dieser Gerichte zu.
+Wenn Sie in einem anderen Land leben, (i) besteht diese Vereinbarung zwischen Ihnen und EA Swiss Sàrl, einem Unternehmen, das im Genfer Handelsregister mit der Firmenregistrierungsnummer: CH-660-2328005-8 und mit Sitz am Place du 8 eingetragen ist Molard, 1204 Genf, Schweiz; (ii) die Gesetze des US-Bundesstaates Kalifornien, mit Ausnahme der Kollisionsnormen, unterliegen dieser Vereinbarung und Ihrer Nutzung von EA-Diensten; und (iii) Sie erklären sich ausdrücklich damit einverstanden, dass für Ansprüche und Streitigkeiten, die nicht der nachstehenden Schiedsvereinbarung unterliegen, die ausschließliche Zuständigkeit für alle Ansprüche oder Klagen, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder EA-Diensten ergeben, die Bundes- oder Landesgerichte sind, die San Mateo County regieren , Kalifornien, und Sie stimmen ausdrücklich der Ausübung der persönlichen Zuständigkeit dieser Gerichte zu.
+Das UN-Übereinkommen über Verträge über den internationalen Warenkauf (Wien, 1980) gilt nicht für diese Vereinbarung oder für Streitigkeiten, die sich aus oder im Zusammenhang mit dieser Vereinbarung ergeben.
+C. Exportieren
+Sie erklären sich damit einverstanden, die US-amerikanischen und andere Exportkontrollgesetze zu befolgen, und stimmen zu, einen EA-Dienst nicht an einen ausländischen Staatsangehörigen oder einen nationalen Bestimmungsort zu übertragen, der durch diese Gesetze verboten ist.
+Sie erkennen auch an, dass Sie keine Person sind, mit der es EA gemäß diesen Exportkontrollgesetzen untersagt ist, Geschäfte zu tätigen.
+14.
+Änderungen an dieser Vereinbarung
+EA kann diese Vereinbarung von Zeit zu Zeit ändern, also überprüfen Sie sie bitte regelmäßig.
+Für EA-Spieler, die eine Version dieser Vereinbarung vor der Änderung akzeptiert haben, treten die Überarbeitungen 30 Tage nach der Veröffentlichung auf terms.ea.com in Kraft.
+Ihre fortgesetzte Nutzung von EA-Diensten bedeutet, dass Sie die Änderungen akzeptieren.
+Sobald Sie eine Version der Vereinbarung akzeptieren, werden wir zukünftige wesentliche Änderungen nicht ohne Ihre ausdrückliche Zustimmung dazu durchsetzen.
+Wenn Sie aufgefordert werden, wesentliche Änderungen an dieser Vereinbarung zu akzeptieren, und Sie dies ablehnen, können Sie den bereitgestellten EA-Dienst möglicherweise nicht weiter nutzen.
+15.
+Streitbeilegung durch verbindliches Schiedsverfahren
+DIESER ABSCHNITT GILT FÜR ALLE VERBRAUCHER UND PERSONEN, DIE DIE BEDINGUNGEN DIESER VEREINBARUNG AKZEPTIERT HABEN.
+AUSGESCHLOSSEN SIND EINWOHNER VON QUEBEC, RUSSLAND, DER SCHWEIZ, BRASILIEN, MEXIKO, DEN MITGLIEDSTAATEN DES EWR UND DER REPUBLIK KOREA.
+DURCH AKZEPTIEREN DER BEDINGUNGEN DIESER VEREINBARUNG VERZICHTEN SIE UND EA AUSDRÜCKLICH AUF DAS RECHT AUF EIN SCHWURGERICHTSVERFAHREN UND DAS RECHT AUF TEILNAHME AN EINER SAMMELKLAGE.
+Dieser Abschnitt bietet eine optimierte Möglichkeit, Streitigkeiten zwischen uns zu lösen, falls sie auftreten.
+Die meisten Ihrer Bedenken können schnell und zufriedenstellend gelöst werden, indem Sie sich mit Ihrem Konto unter help.ea.com in die EA-Kundensupport-Oberfläche einloggen.
+Wenn EA Ihr Anliegen nicht lösen kann, stimmen Sie und EA zu, an das in diesem Abschnitt beschriebene Verfahren gebunden zu sein, um alle Streitigkeiten zwischen uns beizulegen.
+Dieser Abschnitt ist eine Vereinbarung zwischen Ihnen und EA und gilt für unsere jeweiligen Vertreter, Mitarbeiter, Tochtergesellschaften, Vorgänger, Nachfolger, Begünstigten und Abtretungsempfänger.
+Diese Schiedsvereinbarung beweist eine Transaktion im zwischenstaatlichen Handel, und daher regelt der Federal Arbitration Act die Auslegung und Durchsetzung dieses Abschnitts.
+Dieser Abschnitt ist weit auszulegen und gilt auch nach Beendigung dieser Vereinbarung.
+A. Vom Schiedsverfahren erfasste Ansprüche
+Alle Streitigkeiten, Ansprüche oder Kontroversen, die sich aus oder im Zusammenhang mit dieser Vereinbarung, einem EA-Dienst und seinem Marketing oder der Beziehung zwischen Ihnen und EA („Streitigkeiten“) ergeben, werden ausschließlich durch ein verbindliches Schiedsverfahren entschieden.
+Dies schließt Ansprüche ein, die entstanden sind, bevor Sie diese Vereinbarung eingegangen sind.
+Die einzigen Streitfälle, die nicht von diesem Abschnitt abgedeckt werden, sind Ansprüche (i) in Bezug auf die Verletzung, den Schutz oder die Gültigkeit von Geschäftsgeheimnissen oder Urheber-, Marken- oder Patentrechten von Ihnen, EA oder den Lizenzgebern von EA; (ii) wenn Sie in Australien wohnen, um ein gesetzliches Verbraucherrecht gemäß dem australischen Verbraucherrecht durchzusetzen; und (iii) vor Gericht für geringfügige Forderungen gebracht.
+B. Informelle Verhandlungen
+Sie und EA werden zunächst versuchen, Streitigkeiten mindestens 30 Tage lang informell beizulegen, bevor ein Schiedsverfahren eingeleitet wird.
+Die informellen Verhandlungen beginnen nach Erhalt einer schriftlichen Mitteilung von einer Person an die andere ("Notice of Dispute").
+Die Streitmitteilung muss: (a) den vollständigen Namen und die Kontaktdaten der beschwerdeführenden Partei enthalten; (b) Art und Grundlage der Forderung oder Streitigkeit beschreiben; und (c) den konkreten beantragten Rechtsschutz darlegen.
+EA sendet seine Streitmitteilung an Ihre Rechnungs- oder E-Mail-Adresse.
+Sie senden Ihre Streitmitteilung an: Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City CA 94065, ACHTUNG: Rechtsabteilung.
+C. Verbindliches Schiedsverfahren
+Wenn Sie und EA eine Streitigkeit nicht informell beilegen können, können Sie oder EA sich dafür entscheiden, die Streitigkeit endgültig und ausschließlich durch ein bindendes Schiedsverfahren beizulegen.
+Jede Entscheidung einer Partei zum Schiedsverfahren ist für die andere endgültig und bindend.
+Das Schiedsverfahren wird von der American Arbitration Association („AAA“) gemäß ihren Commercial Arbitration Rules und gegebenenfalls den Supplementary Procedures for Consumer Related Disputes („AAA Consumer Rules“) der AAA verwaltet, die beide auf der AAA-Website verfügbar sind www.adr.org.
+Ihre Schiedsgebühren und Ihr Anteil an der Schiedsrichtervergütung unterliegen den AAA-Regeln und werden gegebenenfalls durch die AAA-Verbraucherregeln eingeschränkt.
+Wenn diese Kosten vom Schlichter als überhöht eingestuft werden oder wenn Sie EA eine Mitteilung an die oben genannte Adresse für Streitbeilegungsmeldungen senden, in der Sie angeben, dass Sie nicht in der Lage sind, die für die Einleitung eines Schlichtungsverfahrens erforderlichen Gebühren zu zahlen, übernimmt EA alle Schlichtungsgebühren und -kosten.
+Das Schiedsverfahren kann persönlich, durch Vorlage von Dokumenten, telefonisch oder online durchgeführt werden.
+Der Schiedsrichter trifft eine schriftliche Entscheidung und legt auf Verlangen einer Partei eine Begründung vor.
+Der Schiedsrichter muss geltendes Recht befolgen, und jeder Schiedsspruch kann angefochten werden, wenn der Schiedsrichter dies nicht tut.
+Sie und EA können vor Gericht klagen, um ein Schiedsverfahren zu erzwingen, das Verfahren bis zum Schiedsverfahren auszusetzen oder den vom Schiedsrichter ergangenen Schiedsspruch zu bestätigen, zu ändern, aufzuheben oder ein Urteil zu erlassen.
+D. Einschränkungen
+SIE UND EA STIMMEN ZU, DASS JEDER ANSPRÜCHE GEGEN DEN ANDEREN NUR IN IHRER EIGENSCHAFT ODER SEINER INDIVIDUELLEN EIGENSCHAFT ERHEBEN KANN, UND NICHT ALS KLAEGER ODER SAMMELMITGLIED IN EINEM ANGEBLICHEN SAMMEL- ODER VERTRETUNGSVERFAHREN.
+Der Schiedsrichter darf die Ansprüche einer anderen Person nicht mit Ihren Ansprüchen konsolidieren und keinem Vertreter- oder Sammelverfahren vorstehen.
+Der Schiedsrichter kann einen Feststellungs- oder Unterlassungsanspruch nur zugunsten der einzelnen Partei, die Abhilfe sucht, und nur in dem Umfang zusprechen, der erforderlich ist, um Abhilfe zu schaffen, die durch den individuellen Anspruch dieser Partei gerechtfertigt ist.
+Wenn festgestellt wird, dass dieser spezielle Unterabschnitt nicht durchsetzbar ist, ist die Gesamtheit dieser Schiedsvereinbarung null und nichtig.
+E. Ort
+Wenn Sie in den Vereinigten Staaten leben, findet das Schiedsverfahren an jedem angemessenen Ort statt, der für Sie günstig ist.
+Für Einwohner außerhalb der Vereinigten Staaten wird das Schiedsverfahren im County San Mateo, Bundesstaat Kalifornien, Vereinigte Staaten von Amerika, eingeleitet, und Sie und EA stimmen zu, sich der persönlichen Zuständigkeit dieses Gerichts zu unterwerfen, um ein Schiedsverfahren zu erzwingen, um es auszusetzen laufenden Schiedsverfahrens, oder um den vom Schiedsrichter ergangenen Schiedsspruch zu bestätigen, zu ändern, aufzuheben oder ein Urteil darüber abzugeben.
+F. Wiederherstellung
+Wenn der Schlichter über die Begründetheit einer Forderung, die Sie gegen EA erheben, zu Ihren Gunsten entscheidet und Ihnen einen Schiedsspruch ausstellt, der geldwerter ist als das letzte schriftliche Vergleichsangebot von EA, das gemacht wurde, bevor EA seine endgültigen schriftlichen Eingaben an den Schlichter vorlegt, dann wird EA:
+Ihnen 150 % Ihres Schiedsspruchs zahlen, bis zu 5.000 USD zusätzlich zu Ihrem Schiedsspruch; und
+Erstatten Sie die Schlichtungsgebühren, die Sie an die AAA gezahlt haben.
+G. Änderungen an dieser Schiedsvereinbarung
+EA wird keine wesentlichen Änderungen an dieser Schlichtungsvereinbarung durchsetzen, es sei denn, Sie stimmen den Änderungen ausdrücklich zu.
+16.
+Ergänzende Bedingungen für PlayStation®
+A. Für Käufe im PlayStation™Store in Nordamerika
+Der Kauf und die Nutzung von Artikeln unterliegen den Nutzungsbedingungen und der Benutzervereinbarung des Netzwerks.
+Dieser Onlinedienst wurde Ihnen von Sony Interactive Entertainment America unterlizenziert.
+B. Für Käufe im PlayStation™Store in Europa
+Alle in einem In-Game-Store gekauften Inhalte werden von Sony Interactive Entertainment Network Europe Limited ("SIENE") gekauft und unterliegen den Nutzungsbedingungen und der Benutzervereinbarung von PlayStation™Network, die im PlayStation™Store verfügbar sind.
+Bitte überprüfen Sie die Nutzungsrechte für jeden Kauf, da diese von Artikel zu Artikel unterschiedlich sein können.
+Sofern nicht anders angegeben, haben Inhalte, die in einem In-Game-Store erhältlich sind, dieselbe Altersfreigabe wie das Spiel.
