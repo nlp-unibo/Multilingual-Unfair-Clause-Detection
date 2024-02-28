@@ -1,0 +1,270 @@
+Conditions for the Klarna Shopping Service
+These terms and conditions constitute an agreement between Klarna Bank AB (publ.),
+including its foreign branches, (“Klarna”, “we”, “us” or “our”) and you (“you” and “your”) when you use Klarna services and features as set out in these Terms as may be changed from time to time (the “Services”).
+You sign up for the Services and enter into a contract with Klarna by accepting these Terms.
+You understand that each time you use our Services you are deemed to have agreed to the then current version of these Terms.
+You can access the current version of these terms and conditions at any time via the Klarna app or our website.
+You can also download the terms and conditions here.
+Description of Services
+For us, shopping isn't just about finding great things and paying for them - it's also about enjoying a great shopping experience in the store of your choice, a state-of-the-art app and many other benefits.
+In short: a smooth user experience, both before and after you have made your purchases.
+These terms will explain what this means in more detail.
+Please note that if you choose to pay with one of the payment methods offered by Klarna, additional terms and conditions may apply to your chosen payment method.
+1. Autofill and preferred settings
+To ensure you have a smooth and seamless shopping experience, we will remember some information about you and use this information to automatically populate various input fields with your information during your purchase.
+This allows you to save time and focus on more important things than filling out the same information over and over again.
+Let's explain in more detail how this works.
+Autofill by entering limited information
+When interacting with Klarna, we may ask for information about you, such as your name, address, telephone number, email, date of birth or personal identification number.
+We will store this information in our systems so that when you return to us or use our service, you will only need to provide some of this information, such as email and zip code or personal identification number (depending on the country), so that we can fill the remaining fields automatically can fill in with your other information.
+Automatic filling using a Klarna cookie
+Another way to automatically fill in your data is to place a Klarna cookie on your device (computer, tablet, cell phone, etc.).
+You can store your data such as name, address, telephone number, email, date of birth and card details with Klarna.
+If you do this, we will use the cookie to automatically fill in this data when you shop with Klarna.
+Further information about the use of cookies can be found in our statement about Klarna's use of tracking technologies in the eStore Checkout.
+Disable autofill
+If you do not want to use the autofill features, you can contact us and we will disable them.
+You can also deactivate these in the Klarna app or by adjusting your Autofill settings during the checkout process.
+You can delete all cookies on your device at any time, which will also delete our cookie.
+Automatically fill out when shopping directly from the Klarna app
+If you shop directly from the Klarna app, we can also automatically fill in your details on the page you shop on.
+This is made possible because you are logged into the app and we know it is you who is shopping.
+Pre-selection of preferred payment methods
+To make your shopping experience even smoother, Klarna can pre-select the payment method we believe is your preferred payment method based on your previous purchases.
+You can also access other payment methods if you prefer to switch to a payment method other than the one we have chosen.
+2. Klarna App
+The Klarna App, made available to you as an app or web portal, is your online shopping assistant that is your hub for all your Klarna purchases and all of Klarna's other great features.
+In the Klarna app you can pay for your purchases, track your packages and much more.
+Some of these features are activated by downloading the app or logging in via the web portal, others can be activated by you after logging in.
+Klarna wants to offer you the best shopping experience and the ability to search across a range of different stores on the Klarna app.
+We do not have a business relationship with all of the stores that can be shown or searched for in the Klarna app.
+Klarna then acts like a web browser or search engine that simply links to the respective store’s website.
+The scope of the functions offered may vary depending on the country version of the Klarna app.
+Klarna continually updates the Klarna app with new and improved features.
+To name just a few of the features we are particularly proud of:
+Features:
+View your Klarna purchases and transactions
+Manage your payments
+Easy interaction with Klarna
+Examples of other functions we can offer depending on the country version:
+Shopping services such as search functionality, a review of stores we think you will like, and personalized recommendations, offers and other content
+Shop using Klarna payment methods - even in stores that don't yet use Klarna
+Order, delivery or package tracking
+Easy registration of returns and refunds
+Overview and management of personal finances
+View and store your transactions, purchases, receipts, images and other material
+Carbon footprint of your purchases
+View your orders placed through stores or companies unrelated to Klarna
+You can put together goods or services of your choice and share these “collections” with others
+You can share your transactions with other Klarna users
+An assistant that suggests helping you fill out various information (such as payment method, card details, shipping address) using autofill
+View your transactions through one of our subsidiaries Sofort GmbH, Billpay GmbH and Klarna Inc.
+This only happens after you have registered for this as part of the services of our subsidiaries.
+The transaction data (such as name, address, bank account number/IBAN, sorting code/BIC, reason for payment, date and amount, order details) are then transmitted to Klarna.
+As a Klarna app user, you can upload, publish and share your collections, images and nicknames if you wish.
+You understand that by sharing Content, you are making it publicly available, which means that information about you becomes available to, and can be used and shared by, others.
+You may only upload, post or distribute content that you have the right to use for such purposes and that does not violate any law, this Agreement or the rights of any third party.
+You agree not to upload, post or share any content that is unlawful, fraudulent, abusive or threatening, that violates the rights of others, or that is offensive or criminal (such as racial hate speech, child pornography or unlawful depictions of violence), or content to transmit any viruses, Trojan horses, spyware, adware, malware or any other harmful or harmful programs; Distributing unsolicited advertising (spam) or any other form of harassment.
+Klarna reserves the right, without any obligation and at its sole discretion, to monitor, review, adjust, disable or remove any content without notice to you or any third party.
+You are solely responsible for uploading, publishing and sharing content and agree to indemnify Klarna from any damages, losses or costs incurred as a result of uploading, publishing or sharing content, including in connection with any third party claims against Klarna.
+3. Klarna Extension - Special terms and conditions
+Klarna Extension offers various discount coupons for the online shops of retailers that work with Klarna and have been selected by Klarna (“Partner Shops”).
+In addition, additional functions can be used if you also log in to the Klarna Extension.
+This allows you to enhance your shopping experience by earning cashback (as described below) and using a tailored card payment solution (also described below).
+Klarna receives fees for referring our Klarna Extension users to partner stores, and Klarna uses a portion of these fees to pay for gift cards that our users receive through cashback on qualifying purchases.
+A “qualified purchase” is a purchase where the partner store offers cashback for the purchase.
+The partner shops available via the Klarna Extension are entirely at Klarna's discretion and may vary from time to time.
+All purchases you make are direct purchases from the partner shops and not from Klarna.
+Purchases made through a partner shop's website are subject to the partner shop's terms and conditions and Klarna accepts no liability in relation to any products or services you purchase.
+3.1 General Information, Acceptance of these Terms, Eligibility
+The “Klarna Extension” is a software application provided by Klarna.
+The terms (“Extension Terms”) in this Section 3 apply only to you (hereinafter “Extension Users”) of the Klarna Extension.
+By installing, activating, using or otherwise accessing the Klarna Extension, you accept these Extension Terms.
+You may not install, activate or otherwise access the Klarna Extension if you do not wish to be bound by these Extension Terms.
+Klarna Extension can only be used on certain supported web browsers.
+The technical usability of Klarna Extension is subject to the respective terms of use of these browsers and the technical limitations and specifications of the device on which Klarna Extension is to be installed.
+You must be at least 18 (eighteen) years old to use the Klarna Extension, in addition to the eligibility requirements and extension terms listed below.
+3.2 Functions and limitations of the Klarna Extension
+The Klarna Extension offers various features, some of which are only accessible to an Extension user after registering a Klarna Extension Account (as defined below).
+These functions are differentiated into basic functions, each such function being a “basic function”, and extended functions, each of which is an “extended function”.
+Requirements for Advanced Features
+In order to use the extended functions, the extension user must first create a user account (“Account”).
+To create an account, you must provide your contact information, including a valid email address and postal address.
+Only one account can be registered per person.
+Klarna reserves the right to verify whether you are authorized to open an account.
+You must ensure that your details in your account are up to date.
+You are responsible for the security of your account and the activities that occur under your account.
+Please keep your account details safe.
+3.2.1 Basic functions of the Klarna Extension
+If the shop you visit is one of our partner shops where we currently offer vouchers (“Partner Shop”), you will be notified in the browser when you reach the checkout of the partner shop and you will be offered to use the voucher Activate if one is available.
+The basic function then shows you the available coupons for the partner shop.
+Please note that the conditions for coupons are subject to the general terms and conditions of the respective partner shop.
+Klarna always strives to provide you with correct coupons.
+However, we do not guarantee the availability of any coupons or that any coupons or discounts will be accurate, complete, current or error-free, or that such coupons or discounts will provide the lowest price for an item.
+Klarna may receive a commission from the partner shop (but not from you).
+Klarna continually updates the Klarna Extension with new and improved features.
+Examples of other basic features that may be available to you in your country depending on the version of the extension:
+Create and share collections of goods or services of your choice (wishlists).
+Our price comparison tool.
+The price comparison tool searches for better prices on the relevant Amazon website by comparing sellers for you.
+Please note that Amazon and Klarna are not affiliated with each other.
+Prices on Amazon are subject to change and the results of our price comparison are only valid at the time of comparison.
+Klarna will not be a party to any contract you enter into with Amazon and will not be liable for any problems arising from the contractual relationships between you and third parties.
+Klarna always strives to provide you with the most complete and accurate information possible.
+However, we collect information from publicly available sources.
+We strive to ensure that all information related to the price comparison tool is accurate and up-to-date.
+However, we cannot guarantee the reliability or accuracy of the information.
+3.2.2 Advanced functions of the Klarna Extension
+Requirements for Advanced Features
+A prerequisite for the extended functions is that the extension user has created a user account (“Account”).
+To create an account, you must provide your contact information, including a valid email address and an EU telephone number.
+Klarna reserves the right to verify whether you are authorized to open an account.
+Cashback
+This feature allows an Extension User to collect a variable percentage of their purchase amount, which is then registered in the Extension User's account (“Cashback”).
+Cashback can be collected without logging into the Klarna Extension, but in order to view your current cashback or redeem the amount (subject to these Extension Terms), you must be logged in and provide us with your name, email address and Provide your postal address - unless you have already provided this information to Klarna.
+Please also note the following information:
+Cashback is only available for purchases in partner shops.
+The availability of partner shops is entirely at Klarna's discretion and may vary from time to time.
+Cashback availability is displayed in the Klarna Extension.
+Once an Extension user has reached the checkout of a partner shop and after an Extension user has placed products or services in the corresponding shopping cart, the Extension user must activate cashback by clicking on the corresponding button.
+The terms and conditions of a partner shop apply to purchases made on their website.
+Cashback will be credited to the net purchase amount.
+Taxes, fees, shipping, gift wrapping, discounts or credits, returns or cancellations, and extended warranties are not included in the net purchase amount for determining cashback.
+Cash back on a purchase may also be declined if all or part of your purchase is returned, changed or canceled.
+The variable percentage that determines the cashback value can be set individually by each partner shop and can be changed from time to time by each partner shop.
+The cashback amount is expressed in the currency of the market in which the Extension user is located.
+A currency selection cannot be changed.
+Klarna only offers cashback in the user's local currency (e.g. Euro for Germany, GBP for Great Britain and Euro for France).
+The Klarna Extension displays the cashback percentage available during each Extension user’s shopping process (“Shopping Process”).
+A shopping process describes the uninterrupted process of product selection up to the completion of payment on the website of a partner shop.
+Partner shops can exclude certain products and purchases from the cashback program.
+After enabling cashback, an Extension user must complete the purchase during the same shopping process to receive cashback.
+Cashback cannot be redeemed retroactively against items you have already purchased.
+An Extension user must ensure that all technical criteria are met to activate and claim cashback, including enabling cookies and Java Script in your web browser.
+A cashback amount correctly obtained during a purchase transaction will be refunded within thirty (30) days after the expiry of the (contractual and/or legal) return period of a partner store (i.e. as long as you can return the purchased item or service). corresponding account registered.
+During the return period, a cashback amount will be categorized as “pending”.
+If an extension user is not logged in (to the Klarna extension) when the cashback is activated in the checkout of the partner shop, the extension user must log in with the device used for the purchase within 14 (fourteen) days of the purchase Register with the Klarna extension to claim the cashback.
+Meanwhile, the cashback is technically assigned to the device used when the cashback was activated.
+After 14 (fourteen) days, the Extension User can no longer claim such transition cashback to be registered in their account.
+The Extension User must collect a total amount of EUR 30 to redeem the Cashback (the “Withdrawal Threshold”).
+Subject to any other requirements in these Extension Terms, once the Extension User has reached the payout threshold, an email will be sent to the Extension User's registered email address offering the Extension User the opportunity to: Redeem the cashback in the form of a gift card with a gift card provider designated by Klarna, which is only available via the Klarna extension.
+Redeeming the Cashback for Gift Cards is the only permitted use of the Cashback, and Extension Users in particular have no right against Klarna or any other party to request that the Cashback be exchanged for money.
+Gift cards are subject to the terms and conditions of the gift card provider and the applicable merchant, if specified.
+All gift cards are closed loop gift cards and mutual acceptance of gift cards is not possible.
+Gift cards can only be redeemed with the gift card provider specified by Klarna in the Klarna Extension.
+Klarna reserves the right to change the provider of the gift card at its sole discretion.
+If you have any questions about the gift cards, you can contact our customer service and we will help you.
+The Extension user can use their gift card to select a specific merchant from the gift card provider with which the gift card will be linked, and the gift card is then only redeemable at the merchant selected by the Extension user (closed-loop gift card).
+The Extension user can split their cashback and redeem it for different gift cards, each associated with a specific merchant.
+Cashback is a purely internal administrative item at Klarna.
+There is no transfer, trading, exchange or similar of cashback with third parties (including participating merchants).
+In particular, cashback cannot be transferred to retailers in return for gift cards issued.
+Klarna sends quarterly emails with an offer to redeem the Extension user's cashback.
+If you have at least 30 euros in your account, you will be offered to redeem your cashback in the next available period.
+Klarna is not responsible for lost emails or other events or delays beyond Klarna's control.
+One-Time-Karte
+An additional advanced feature is the use of the One-Time Card Service - one of Klarna's available payment services.
+Use of the One-Time Card is subject to the One-Time Card Terms and Conditions available here.
+License Agreement and Restrictions
+Klarna grants the extension user a non-exclusive, non-transferable and non-sublicensable right to use the Klarna Extension.
+As long as Klarna Extension is free of charge, Klarna may limit, terminate or otherwise change the scope and/or content of Klarna Extension at any time without prior notice for commercial reasons if and to the extent that this is reasonable for the extension user, taking into account the interests of the extension user.
+Klarna has no maintenance, support or availability obligations for Klarna Extension.
+All changes to the extension terms and conditions will be published on https://www.klarna.com/de/agb/ and on the Klarna Extension login page.
+Please regularly check the website and the Klarna extension link available on the login screen.
+Inactive accounts
+If your account is inactive for more than twelve (12) consecutive months, Klarna will delete the cashback balance from your account.
+Klarna may also permanently close the account and stop maintaining your account details and your access to the Klarna extension.
+Registration and security
+You must keep your account credentials secure.
+The Klarna Extension may only be used by the extension user as the account holder and not by third parties.
+An Extension User may not grant any third party access to the Klarna Extension or their account for any purpose.
+Any access by such third party will be deemed unauthorized access to that account.
+Once logged in, you will remain logged in until you actively log out or until you have been inactive for 60 days; in this case you will be automatically logged out.
+To avoid unauthorized use of your Klarna Extension or accidental disclosure of your personal information, ensure that only you have access to your login details and that you always log out of your account when leaving the computer unattended.
+You are solely responsible for any unauthorized use of your account or inadvertent disclosure of your personal information due to loss of your login information or leaving your computer unattended.
+If at any time you would like to terminate your account and withdraw from the advanced features, you can make a request to do so by contacting our customer service team.
+Alternatively, you can simply stop using your account.
+If you terminate your account by contacting customer service or if we terminate your account, you will forfeit all of your unused cashback at the time of termination.
+Generally
+Every decision by Klarna is final and no correspondence will be entered into.
+In the event of a conflict between these Extension Terms and any other terms and conditions attached to other promotional materials relating to the Klarna Extension, these Terms will control.
+All personal data submitted in connection with the Klarna Extension will be used, shared and stored as described in the privacy policy available here.
+4. View previous transactions
+We store information about your purchases and transactions in the Klarna app.
+As part of the services offered under these Terms, Klarna allows you to view information about your purchases and transactions in the Klarna app.
+If you would like to find out more about how we use this and other information Klarna has about you, please read our privacy policy.
+5. Offers and Benefits
+Klarna may offer you offers and benefits such as discounts, special events, early access to new products, sales promotions, shop offers, samples and giveaways.
+The offers and benefits you receive are based on your previous interactions, such as the number of purchases you make, the amounts of your orders, or the use of our services.
+6. Do the services cost anything?
+The services are free.
+Please note that interest and fees may apply when using a particular service offered by Klarna.
+Therefore, make sure that you carefully read the specific information about the payment method you have chosen.
+If Klarna has a claim against you and you are in arrears with payment, Klarna can demand compensation for the resulting damage in the amount of a flat rate of €1.20 for each reminder.
+You are free to prove that Klarna suffered no or only minor damage.
+7. Improving the Services
+We are constantly working to improve our services to give you an even smoother user experience.
+This may require a change to these Terms.
+In this case, we will ask you to accept the new terms before you can continue to use the Services.
+8. Privacy and your personal information
+To the extent that you cause us to process information, e.g. by uploading, publishing or sharing data in the Klarna app, information about your political or philosophical beliefs, your trade union membership, data about health or sexual life, etc. (so-called special categories of personal data in accordance with EU Regulation 2016/679 (the “GDPR”), you expressly consent to us processing this data to provide our services.
+You can find further information about the processing of your personal data and further information about your rights over your data in our data protection information.
+You will also find our contact details there if you have any questions.
+9. Card payments
+When you make a purchase with Klarna, you can configure and use a number of different payment sources, including debit, credit or prepaid cards.
+Your payment sources are stored in your Klarna user account until you edit/remove them or the user account is deleted.
+By choosing to store your card details with Klarna, you authorize Klarna to charge this payment source for all subsequent Klarna services when you purchase from us.
+You will not be charged until you make a purchase.
+If your usual card payment source cannot be charged for a purchase, including installment plans or subscriptions, if applicable, you authorize Klarna to attempt to charge your other card payment sources registered in your Klarna user account.
+10. Your Obligations
+You are obliged to always provide correct information and may only act under your own and correct identity.
+Any use of information that does not belong to you or that you are not authorized to use for other reasons, or use of the Services in a manner not prescribed, will be considered misuse.
+Any data relating to misuse or suspected misuse may be stored and used for future risk assessment and user protection.
+Klarna reserves the right to block the services from further use.
+If you upload, import or share images, text, receipts, information about goods, services or deliveries or other content in the Klarna app, you grant Klarna a royalty-free right to use and display the content for the provision of the services.
+We have the right to remove any content you upload or share if we are required to do so by law or if we believe it is offensive, inappropriate, unlawful, infringing on the rights of others or otherwise objectionable.
+You are responsible for any content you upload or share.
+You understand and agree that we may terminate or disable your use of the Klarna App if you upload, import or share any content that is offensive, threatening or objectionable or violates the law or your agreement with Klarna or from Klarna may reasonably be believed to be in breach of the law or your agreement with Klarna.
+11. Third Party Services
+Some features you use, such as package tracking, may involve the use of third-party services, such as tracking IDs from logistics companies.
+If you use features that rely on third party services, you authorize Klarna to use those services on your behalf.
+Your use of Google Maps in the checkout (e.g. by searching your address in the address field) and in the Klarna app is subject to the current Google Maps/Earth Terms of Use and Google's data protection regulations.
+In addition, to prevent misuse of the Klarna app via the internet portal, Klarna may use reCAPTCHA, which is subject to Google's terms of use and privacy policy.
+The Klarna app is available via third-party sales platforms (“application stores”).
+These may require prior registration with the respective application store.
+Klarna has no influence on the collection, processing and use of personal data by the respective application store operators.
+12. Duration and termination of this contract
+This agreement is concluded for an indefinite period.
+It will continue until terminated by you or us and may be terminated at any time.
+You cannot terminate this Agreement if you have an outstanding payment or if you are using a service provided by Klarna that is either subject to a fixed term (which has not expired) or a service that is subject to a notice period and that notice period has not expired.
+Please note that in the event of termination, use of the Service, including any features provided in or managed through the Klarna app, will no longer be available.
+13. Electronic Communications
+By accepting these terms and conditions, you agree that Klarna may use electronic means of communication when communicating with you.
+Payment information, terms and conditions, statutory notices and other information may be provided to you electronically, including via the Klarna website, app or the email address(es) you have provided to us.
+Updating your contact information
+It is your responsibility to ensure that Klarna has your current email address and mobile phone number so that we can communicate with you electronically.
+If you need to update your primary email address, please contact customer service to make the change.
+Questions
+If you have any questions about electronic communications in general, please contact customer service.
+14. Assignment or Transfer
+You may not transfer or assign any rights or obligations you have under these Terms.
+Except as otherwise permitted by applicable law, we may transfer or assign these Terms or any rights or obligations under these Terms at any time, provided that such transfer will not alter your rights or obligations under these Terms to your detriment.
+15. Clarify
+Klarna Bank AB (publ.),
+Sveavägen 46, 111 34 Stockholm, Telephone: +46 8 120 120 120 00, Fax: +46 8 120 120 120 99, Email: kunde@klarna.de, is a Swedish bank registered in the Swedish Business Register under registration number 556737 -0431 is entered.
+Managing Director is Sebastian Siemiatkowski.
+Klarna Bank AB (publ) is authorized by Finansinspektionen (the Swedish financial regulator) to provide financial services.
+Klarna's entry in the Finansinspektionen directory and a list of the countries in which Klarna is authorized to provide cross-border financial services can be found on the Finansinspektionen website.
+16. Complaints
+The information provided on www.klarna.de applies to complaints.
+The information provided applies to complaints.
+By using our services, you agree that Klarna will handle all communication regarding complaints electronically.
+If you would like to make a complaint to Klarna, you can submit your complaint to us via the Klarna customer service website, via the chat function or by email.
+If we are unable to resolve the dispute, you can contact the Public Complaints Office in Sweden "Allmänna reklamationsnämnden" (Arbitration Board), abbreviated ARN.
+Klarna will take part in such an arbitration procedure and is obliged to do so by law.
+Further information on entry requirements can be found on the ARN website.
+You can submit your request via the EU Commission's internet platform for online dispute resolution (so-called "OS platform") in German or another official language of the European Union.
+The process is then forwarded to ARN.
+You can access the OS platform here.
+In Swedish you can also contact ARN directly: Allmänna reklamationsnämnden, PO Box 174, 10123 Stockholm, Sweden, visitor address: Kungsholmstorg 5, Stockholm.
+These user terms and conditions were last updated on November 10, 2021.

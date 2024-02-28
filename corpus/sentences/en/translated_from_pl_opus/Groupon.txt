@@ -1,0 +1,1557 @@
+[{'translation_text': 'Terms of Use Groupon International Limited Site'}]
+[{'translation_text': 'This website presents the Terms of Use of the Groupon International Limited website and the Services offered by us.'}]
+1.
+[{'translation_text': 'Basic information on conditions of use'}]
+1.
+1.
+[{'translation_text': 'What is this document and who we are: you are reading a legal document that is an agreement between you and your customers (which in this document we will refer to as the return of the State or the Client) and us.'}]
+[{'translation_text': 'You accept the terms and conditions of use set out below, also referred to as'}]
+[{'translation_text': 'Groupon International Limited is our company, the operator of this Site and a provider of a number of related Services, registered in Ireland, based in Ireland at Lower Ground Floor, Connaught House, 1 Burlington Road, Dublin 4, 216410 Ireland.'}]
+[{'translation_text': "Our company's registration number is 501358."}]
+[{'translation_text': 'In this document, we define ourselves by the following terms and phrases: "Groupon International\', "my\', \'nas\' or \'our\', and together with other Groupon companies, including affiliates, parent and subsidiary companies, we call \'Group Groupon\'.'}]
+1.
+2.
+[{'translation_text': 'What we do: we provide a platform (including the Website, mobile applications, etc.),'}]
+[{'translation_text': 'where we, our affiliates and other vendors (together known as "sellers") present Vouchers\' offers, opportunities, goods, excursions and other products (together referred to as "Articles \').'}]
+[{'translation_text': 'As a provider of the platform, we assist in the execution of the transaction concerning Articles through it.'}]
+[{'translation_text': 'We never act as a buyer and rarely as a Seller; we provide a place where Sellers and Clients can negotiate and execute transactions.'}]
+[{'translation_text': 'This means that when using our Site in addition to this Agreement you will also conclude other agreements with different legal entities.'}]
+1.
+3.
+[{'translation_text': 'What are the legal relations: each article purchased via the Site is subject to conditions specified by the Seller.'}]
+[{'translation_text': 'Since Groupon International rarely acts as a Seller, this means that your sales agreement is likely to be concluded with another legal entity (which is often a member of the Groupon Group).'}]
+[{'translation_text': 'For more information, please visit the section About us.'}]
+[{'translation_text': 'Please note, however, that any contracts constructed after the sale of the Articles are concluded only between you and the Seller of a given Product (and NO Groupon International, unless Groupon International is the Seller).'}]
+[{'translation_text': 'The seller shall be responsible for the sale and settlement of any claims or other contractual problems between you and the Seller.'}]
+[{'translation_text': 'It should also be borne in mind that in the case of the purchase of Voucher in addition to the contract of sale with the Voucher Seller, you also conclude an agreement with the entity that supplies the Products after the use of the Voucher (Kontrahent) given by you.'}]
+[{'translation_text': 'In the case of Vouchers, neither we nor the Seller shall be liable for any agreements concerning the implementation of Voucher concluded between you and the Contractor.'}]
+[{'translation_text': 'Please also note that we never act as an agent of the Seller or an agent of the Contractor.'}]
+1.
+4.
+[{'translation_text': 'What else do we do: we can provide a forum to upload or publish User Content, as well as send newsletters and other messages to you.'}]
+[{'translation_text': 'In order to be able to send you emails, we need to get to know you a little better.'}]
+[{'translation_text': 'For details of our data collection and processing practices, please refer to our Privacy Policy.'}]
+1.
+5.
+[{'translation_text': 'Scope of use: Website and our Services are intended for your non-commercial, personal and not for business purposes unless otherwise specified in writing.'}]
+[{'translation_text': 'You can only access our Website via our application, standard web and mobile browsers and similar consumer applications.'}]
+[{'translation_text': 'The use of robot-type software, spider, offline reader or other search/recovering applications or any devices, tools or processes is not permitted, both automatic and manual, for the recovery, indexing or exploration of data from our Site, scraping techniques and other similar techniques.'}]
+[{'translation_text': 'The exception, which we can cancel at any time, is the operators of public search engines who can use the software of the type .spiders to copy materials from the Site only for the purpose of creating publicly available lists of materials and to the extent necessary for such operation does not apply to cache memory or archives of such materials.'}]
+1.
+6.
+[{'translation_text': 'Limited License: Notwithstanding any other provisions of this Agreement, you are entitled to search, index, display or store/buffer the content of this Site only for the following purposes: (i) display this Website as part of the search engine results and (ii) optimize (via Accelerated Mobile Sites or otherwise) providing the Site to other users of the Site.'}]
+[{'translation_text': 'This authorisation may be revoked at any time with immediate effect by amending this Agreement accordingly.'}]
+[{'translation_text': "Groupon reserves all rights, including copyright to its HTML code and content (including optimized code for Accelerated Mobile Parties), and no provision of this Agreement constitutes a clear or implied waiver of Groupon's rights or the possibility for Groupon to enforce the provisions of this Agreement."}]
+1.
+7.
+[{'translation_text': 'Permission to use: We reserve the right to prevent you from using our Website and our Services (or a specific part of them).'}]
+1.
+8.
+[{'translation_text': 'Definitions: this Agreement covers different defined terms.'}]
+[{'translation_text': "You'll get to know them after they start with a big letter."}]
+[{'translation_text': 'Their definitions can be found in or at the end of this Agreement (13.'}]
+[{'translation_text': 'Definitions).'}]
+2.
+[{'translation_text': 'Registration and your account'}]
+2.
+1.
+[{'translation_text': 'Why is it worth registering for?'}]
+[{'translation_text': 'Depending on the specific functions within our Site you may, but you may not, need to register to use multiple functions or access most of our Services.'}]
+[{'translation_text': 'However, registration is required to make a purchase unless you use the option available on the Site as a guest.'}]
+[{'translation_text': 'If you purchase as a guest and do not have an Account on our Site, it will be created for you on the basis of information provided by you in connection with the transaction (e.g.'}]
+[{'translation_text': 'name, address, e-mail address and other transaction information).'}]
+[{'translation_text': 'You can access this Account later by creating a password.'}]
+[{'translation_text': 'This Account will enable you to quickly print your Voucher, display your previous purchases, store your funds within the Groupon service, and change your preferences.'}]
+[{'translation_text': 'We reserve the right to refuse Registration and to cancel Your Account at any time.'}]
+[{'translation_text': 'Registration makes it unnecessary to re-enter your data every time you buy the Products.'}]
+2.
+2.
+[{'translation_text': 'How to register: In order to perform the Registration, you must send us your name, postal code, e-mail address, as well as several other personal data.'}]
+2.
+3.
+[{'translation_text': 'Passwords: You will be asked to enter your password during Registration.'}]
+[{'translation_text': 'The password must be confidential, and in the event of third party access or unauthorised use of your e-mailbox by a third party or other security breach, we should be informed immediately.'}]
+[{'translation_text': 'You agree that we are not responsible for cases where the person whose password has been disclosed will use our Services and our Website (and/or conduct transactions through them).'}]
+[{'translation_text': 'Please bear in mind that it is you who bear full responsibility if you do not keep your password secret.'}]
+2.
+4.
+[{'translation_text': 'Important e-mail addresses: All Accounts must be registered using the valid e-mail address you regularly use.'}]
+[{'translation_text': "Accounts created using someone else's e-mail address or temporary e-mail addresses can be deleted without notice."}]
+[{'translation_text': 'If we suspect that the user uses an invalid email address, we can ask him to authenticate his Account again.'}]
+2.
+5.
+[{'translation_text': 'E-mails: Groupon International can send you administrative or promotional emails.'}]
+[{'translation_text': 'We can also send you information about activities and purchases on your Account, as well as updates on our Site and Services and other promotional offers.'}]
+[{'translation_text': 'We can also send you information about your purchases. ('}]
+[{'translation_text': 'You can unsubscribe from receiving promotional messages at any time by clicking on the link to cancel your subscription at the bottom of each such email.)'}]
+2.
+6.
+[{'translation_text': 'Forced notifications: Where you have given your consent, Groupon International may send you extortion notices for a mobile device (s) for general and nearby offers.'}]
+[{'translation_text': 'You can disable extortion notifications at any time by changing your preferences on your mobile device.'}]
+3.
+[{'translation_text': 'User Content'}]
+3.
+1.
+[{'translation_text': 'User Content: The Website may provide account holders and guests with the opportunity to send feedback, advice, ratings, comments, messages, participation in discussions and surveys and other messages, as well as files, images, photos, videos, audio recordings, musical works and other content (together called User Content).'}]
+[{'translation_text': "The User's Content may be transmitted or published by means of forums, newsletters, newsgroups, chatrooms, surveys, blogs and other communication methods that may be periodically made available on or in connection with the Website or Services."}]
+[{'translation_text': "You may need to have an Account to transfer the User's Content."}]
+3.
+2.
+[{'translation_text': 'User Content Creator: By sending any User Content, you certify that you are the creators of the Content data or act on behalf of their creator that you have the rights expressly granted by the Creator, to transmit or publish the Content data and that you have all the rights necessary to grant the licences and rights specified in this Agreement in relation to the User Content data.'}]
+[{'translation_text': "In addition, you certify (or in the case of acting on behalf of the creator of the User Content, you are assured that the creator is certifying) that the provision of the User Content data for specified purposes does not infringe any intellectual property rights, trademarks or third parties' rights, including image rights and privacy rights."}]
+3.
+3.
+[{'translation_text': 'Restrictions: it is prohibited to transfer, publish and otherwise make available on the Website any copyrighted material, trademark or other intellectual property right without the express consent of the proprietor of such rights, marks or other property rights.'}]
+[{'translation_text': 'Groupon has no clear obligation to provide you with any indications or information to help you determine whether the material is protected by copyright or trademark.'}]
+[{'translation_text': 'You have sole responsibility for any damage resulting from any violation of copyright, trademark or other property rights and any other damage resulting from your use of the Site.'}]
+[{'translation_text': 'The remaining restrictions and prohibited activities you should know are listed in section 5 below.'}]
+3.
+4.
+[{'translation_text': 'Using User Content: Groupon International has the exclusive and total right, but is not obliged to view, edit, publish, refuse to publish, delete and monitor User Content.'}]
+[{'translation_text': "Groupon International has additionally an exclusive and complete right, but is not obliged to disclose the User's Content and the circumstances of sending it to any third party at any time and for any reason, including to determine whether the provisions of this Agreement and other operational rules formulated by Groupon International are complied with and to comply with the applicable law, regulation or demand by a government authority."}]
+[{'translation_text': 'Without prejudice to the provisions set out above, Groupon International has the right to remove any material from the Site at its sole discretion.'}]
+[{'translation_text': "Groupon International bears no responsibility for any User's Content or any other information appearing on the Site or elsewhere or removed from it."}]
+[{'translation_text': 'Groupon International has no obligation to use User Content and may decide that they will not be used at all.'}]
+3.
+5.
+[{'translation_text': 'Changing and deleting User Content: in some cases and from time to time it will be possible to change or delete the User Content that you have sent or published using your Account.'}]
+[{'translation_text': 'Groupon International does not provide any guarantee that the modified or deleted Content of the user will actually be changed or removed from the Site or from other sites or that it will cease to appear on the Internet, in search results, on social networks or in another form, elsewhere or using other technological solutions.'}]
+3.
+6.
+[{'translation_text': 'The public nature of the User Content: you understand and accept the fact that the User Content is public.'}]
+[{'translation_text': 'Any person (whether or not using Groupon International Services) can display your User Content without your knowledge.'}]
+[{'translation_text': "In the User's Content, please only provide information that you wish to make public."}]
+[{'translation_text': "Groupon International is not responsible for the use or disclosure of any personal data or other information disclosed by you in connection with the User's Content."}]
+3.
+7.
+[{'translation_text': 'Disclaimer: All types of User Content created by you or any third party are created by the respective authors or distributors, not by Groupon International.'}]
+[{'translation_text': 'Other users may publish User Content which is inaccurate, misleading or misleading.'}]
+[{'translation_text': 'Groupon International shall not guarantee or be liable for Your Content and shall not be liable to you or other persons for any loss or damage caused by your trust in such User Content.'}]
+[{'translation_text': "The User's content reflects the view of the sender and should not be regarded as a Groupon International opinion."}]
+[{'translation_text': 'Groupon International does not control or guarantee any User Content, and in particular excludes any liability related to the posting, use and trust of Your Content, and excludes any liability arising from your use of the Site or Services, including any objectionable User Content.'}]
+3.
+8.
+[{'translation_text': "Right: Some of the User's Content sent by you to Groupon International may be displayed or may be displayed in connection with your personal data or part of it, including, but not limited to, your name, initials, username, username of the account used to log on social networks, photo, image, preferences, voice and location."}]
+[{'translation_text': 'You grant Groupon International and Groupon a royalty-free, unlimited, irrevocable, assignable, fully paid, non-exclusive, transferable, worldwide right to use, display, distribute, offer for sale and sell personal data in connection with your User Content, regardless of whether Your Content appears on its own or in any form, through any media or technology known or developed in the future, and the right to grant further licences for such rights at different levels without any remuneration due to you.'}]
+[{'translation_text': "However, Groupon International is not obliged to use your personal data in connection with the User's Content."}]
+3.
+9.
+[{'translation_text': 'License: in accordance with the agreement between you and Groupon International, you retain all ownership rights to the published and uploaded User Content.'}]
+[{'translation_text': 'However, by placing Your Content or other information on or through the Site, you provide Groupon International and Groupon with royalty-free, unlimited, irrevocable, assignable, fully paid, non-exclusive, transferable, worldwide rights and licenses for the use, reproduction, modification, translation, dissemination, reproduction, display, transmission, offer for sale and sale of User Content appearing alone or in any form, through any media or technology currently known or developed in the future, as well as the creation on their basis of derived works, as well as the right to grant further licences for such rights at different levels without any remuneration due to you.'}]
+[{'translation_text': "You waive all moral rights or other rights concerning the authorship or integrity of materials related to the User's Content which you may enjoy under applicable law or any other legal basis."}]
+[{'translation_text': 'The Groupon International and Groupon Group license for your User Content and Personal Data includes their use for promotional, advertising, marketing, market research, counterparty opinion, quality control and any other legitimate purposes.'}]
+3.
+10.
+[{'translation_text': 'Copyright procedures.'}]
+[{'translation_text': "Groupon reserves the right to cancel your right to use the Site or a third party if this violates other people's copyright."}]
+[{'translation_text': 'The Groupon may, in appropriate circumstances and at its sole discretion, cancel the right of access to the Site of the State or third party if the Groupon determines that the State or third party has committed multiple infringements.'}]
+[{'translation_text': 'If you consider that any material has been published via the Website by a third party in a manner that infringes copyright and you would like to draw attention to Groupon, you must lodge a complaint here or hand it over to the following agent for information.'}]
+[{'translation_text': 'Copyrights Groupon information: (a) the electronic or physical signature of the person authorised to appear on behalf of the owner of the copyrighted material; (b) the information identifying copyrighted materials and the location of material likely to infringe copyright on the Site; (c) the written statement that, in good faith, you believe that the contested use of the material is carried out without the consent of the owner, his representative or is unlawful; (d) the name and contact details, including the telephone number and e-mail address; and (e) the statement, drawn up under the responsibility of giving false testimony, that the information described above in your notification is accurate that you are copyright holders or are authorised to appear on behalf of the copyright holder.'}]
+[{'translation_text': 'Contact details of the agent for'}]
+[{'translation_text': 'Groupon copyrights for notifications and claims related to copyright infringement:'}]
+[{'translation_text': 'Groupon, Inc.'}]
+[{'translation_text': 'Attn: Copyright Agent'}]
+[{'translation_text': 'c/o The Risk Management Department'}]
+[{'translation_text': 'Floors 11-12, Aldgate Tower'}]
+[{'translation_text': '2 Leman Street, London E1 8FA, United Kingdom'}]
+[{'translation_text': 'Email: emearisklegal@groupon.com'}]
+[{'translation_text': 'Procedures for reporting infringements.'}]
+[{'translation_text': 'If you are the owner of copyright, trademark, patent or other intellectual property rights (the owner of intellectual property rights) or if you are a representative authorised to act on behalf of the Owner of intellectual property rights (the authorised representative), and in good faith believe that the materials or products presented on the Site infringe copyright, trademark or other intellectual property rights of the Owner of intellectual property rights and would like to draw the attention of Groupon, you may raise your doubts by submitting a complaint here.'}]
+3.
+11.
+[{'translation_text': 'Unbuilt ideas: we do not accept or consider, directly or through any employee or representative of Groupon International or Groupon Groupon, any kind of unbuilt ideas, including ideas or suggestions related to new products or their improvement, improvements, names, technologies, advertising and marketing campaigns, plans or other promotions.'}]
+[{'translation_text': 'Please do not send us (or any of our employees) any ideas, suggestions, materials, photographs or other content in any form (Unwanted Materials).'}]
+[{'translation_text': 'If you send us Unwanted Materials, you acknowledge and accept the following conditions, regardless of the accompanying flagship or other conditions:'}]
+[{'translation_text': '· Groupon International is not obliged to familiarise itself with unwanted materials or to preserve the confidentiality of such materials;'}]
+[{'translation_text': '· Groupon International will be the holder of unwanted materials and may use and distribute them for any purpose, without limitation, without the obligation to inform you of this fact and without payment of the money for your benefit.'}]
+4.
+[{'translation_text': 'Standards and restrictions of liability Groupon International'}]
+4.
+1.
+[{'translation_text': 'Standards according to which we operate: Groupon International always makes every effort and undertakes to:'}]
+4.
+1.
+1.
+[{'translation_text': 'the use of their skills to the greatest extent possible and diligence in the performance of their duties under this Agreement; and'}]
+4.
+1.
+2.
+[{'translation_text': 'and non-infringement of professional diligence requirements in their activities.'}]
+4.
+2.
+[{'translation_text': 'The provisions of point 4 are valid!'}]
+[{'translation_text': 'The provisions of this paragraph 4 shall prevail over the provisions contained in all other points of this Agreement and shall constitute all liability with regard to the execution, non-performance, alleged execution and delay in the implementation of this Agreement, the provision of Services, the display of the Site or any purchases (or any parts thereof), and in connection with this Agreement, its conclusion or execution.'}]
+4.
+3.
+[{'translation_text': 'Our responsibility: none of the provisions of this Agreement precludes or limits our liability for (i) fraud; (ii) death or injury caused by our negligence; (iii) we make a serious mistake, except for serious errors which were not caused solely by Groupon International; and (iv) liability which is not permitted under applicable law to limit or exclude.'}]
+[{'translation_text': 'You are obliged to take reasonable measures to prevent or minimise damage.'}]
+4.
+4.
+[{'translation_text': 'Categories of losses for which we are not liable: regardless of the provisions set out in point 4.'}]
+[{'translation_text': '3, as we make the Site available and provide Services for non-commercial use, we are not responsible for: 4.'}]
+4.
+1.
+[{'translation_text': 'loss of income or income; 4.'}]
+4.
+2.
+[{'translation_text': 'loss of actual or anticipated profits; 4.'}]
+4.
+3.
+[{'translation_text': 'loss of business opportunities; 4.'}]
+4.
+4.
+[{'translation_text': 'indirect or secondary losses (in order to avoid misunderstandings, the return on secondary losses is understood as secondary losses, if they are predictable, known, are foreseen, etc.).'}]
+5.
+[{'translation_text': 'Commitments by your side'}]
+5.
+1.
+[{'translation_text': 'Accuracy of information: ensure that all information provided by you during the Registration and the information collected in your Account during the duration of this Agreement is true, complete and accurate and that you notify us immediately of any changes to this information by updating the details in your Account.'}]
+5.
+2.
+[{'translation_text': 'Content on the Website: You are responsible for ensuring that all Articles and information (or Products) available via the Website meet your specific requirements.'}]
+5.
+3.
+[{'translation_text': 'Unauthorised conduct: You undertake not to use or allow other persons to use the Services or Site, among others.'}]
+[{'translation_text': 'for the following purposes:'}]
+5.
+3.
+1.
+[{'translation_text': 'to send, send or receive materials, including User Content, which are inappropriate;'}]
+5.
+3.
+2.
+[{'translation_text': 'for the purpose of transmitting, sending or receiving materials, including User Content, which are unlawful, harmful, unlawful, contain threats, are offensive, abusive, spread hatred, are racist, homophobic, pornographic, infringe the law, contain elements of violence, mislead, disgusting, obscene, obscene, dangerous, blasphemous or defamatory, or slander any person or entity, are contrary to the decision of a court, infringe the trust or rights of another person or entity, including copyright, trademarks, trade secrets, patents, personal goods, image rights, privacy or any other rights of third parties;'}]
+5.
+3.
+3.
+[{'translation_text': "for the purpose of transmitting, sending or receiving materials, including User Content, for which you have not obtained all necessary licences and/or approvals (from us or third parties) or which are an expression or encouragement of conduct which may be regarded as a criminal offence which leads to civil liability or is unlawful or infringes third parties' rights in any country in the world;"}]
+5.
+3.
+4.
+[{'translation_text': 'to transmit, send or receive material that carries technical risks (including computer viruses, logic bombs, trojan horses, worms, harmful elements, damaged data, malware, harmful data or any other material that may interrupt or interfere with the functioning of software or hardware functions, damage them or otherwise contribute to their loss, damage, destruction or limitation of their operation);'}]
+5.
+3.
+5.
+[{'translation_text': 'in order to cause distress, inconvenience or unnecessary concern;'}]
+5.
+3.
+6.
+[{'translation_text': 'for the purpose of intercepting or attempting to intercept messages transmitted through communication systems;'}]
+5.
+3.
+7.
+[{'translation_text': 'for purposes incompatible with their intended purpose or for purposes other than those for which they are intended;'}]
+5.
+3.
+8.
+[{'translation_text': 'for any illegal purpose;'}]
+5.
+3.
+9.
+[{'translation_text': 'for any purpose which may instigate hatred on grounds of ethnic origin, religion or other characteristics of minorities or which in any other way may adversely affect any person, group or entity.'}]
+5.
+4.
+[{'translation_text': 'Forbidden use: The following uses of the Site and Services are prohibited and you are not allowed to proceed in any of the following ways (or allow others to do so):'}]
+5.
+4.
+1.
+[{'translation_text': 'reselling Services or Sites;'}]
+5.
+4.
+2.
+[{'translation_text': 'false data, including false name, address and contact details, illegal use of credit/debit card numbers;'}]
+5.
+4.
+3.
+[{'translation_text': 'an attempt to circumvent security measures or network security measures, including an attempt to access data not intended for you, to log in on a server or account to which you are not authorised, or to test security features of other networks (e.g.'}]
+[{'translation_text': 'checking open ports);'}]
+5.
+4.
+4.
+[{'translation_text': 'obtaining access to the Services (or Sites) in such a way as to impose an unjustified or disproportionate burden on our infrastructure, or to take actions that cause or may cause such effects, or otherwise disrupt its functionality, performance or operation;'}]
+5.
+4.
+5.
+[{'translation_text': 'carrying out network monitoring in any way that captures data not intended for you;'}]
+5.
+4.
+6.
+[{'translation_text': 'sending unwanted emails, including sending trash messages or other advertising materials to people who do not wish to do so.'}]
+[{'translation_text': 'It is expressly forbidden to send unwanted mass e-mails.'}]
+[{'translation_text': 'This includes the mass sending of advertising, promotional and information material, as well as political and religious hearings.'}]
+[{'translation_text': 'Such materials may only be sent to persons who have expressly given their consent.'}]
+[{'translation_text': 'If the recipient no longer wishes to receive such e-mails, you may not send any more such emails to the recipient;'}]
+5.
+4.
+7.
+[{'translation_text': 'the creation or transmission of strings or other messages of the pyramid type, whether or not the recipient wishes to receive such messages;'}]
+5.
+4.
+8.
+[{'translation_text': 'sending harmful emails, including sending to the user or to the website a large number of emails;'}]
+5.
+4.
+9.
+[{'translation_text': 'conducting illegal activities or engaging in illegal transactions with us, the Seller or the Contractor (including the conduct of activities or the transaction allegedly on behalf of a third party where you are not authorised to act on its behalf or where you claim to be a third party that is not in fact a third party);'}]
+5.
+4.
+10.
+[{'translation_text': 'use of the Services or Website (or their functions) in a manner that violates the provisions of this Agreement;'}]
+5.
+4.
+11.
+[{'translation_text': 'unauthorised use of information in the message header or forgery thereof;'}]
+5.
+4.
+12.
+[{'translation_text': 'engaging in illegal or criminal activities in connection with the use of the Services and/or Sites or Voucher;'}]
+5.
+4.
+13.
+[{'translation_text': 'Copying or using User Content for commercial purposes.'}]
+5.
+5.
+[{'translation_text': 'Equipment: Services and the possibility of using the Site are not provided with a computer or any other necessary equipment to enable the use of these services.'}]
+[{'translation_text': 'In order to use the Website or Services, you need to have internet connection and access to relevant telecommunications links.'}]
+[{'translation_text': 'We are not responsible for the costs of telephone calls, telecommunications or other costs you may incur.'}]
+6.
+[{'translation_text': 'Rules on the use of services and the website'}]
+6.
+1.
+[{'translation_text': 'Errors and mistakes: we are not responsible for mistakes or mistakes (e.g.'}]
+[{'translation_text': 'the publication of Voucher for the amount of PLN 1,99 instead of PLN 199!),'}]
+[{'translation_text': 'if we have acted in accordance with the standards listed in point 4 of this Agreement.'}]
+[{'translation_text': 'We will make every effort to remove errors and errors as soon as possible from the moment we learn about them.'}]
+[{'translation_text': 'We reserve the right to change, modify, replace, suspend or remove any Voucher, Article, Services or Information on the Website or the Service item without prior notice.'}]
+6.
+2.
+[{'translation_text': 'Viruses and similar issues: we do not give any guarantee that the Services or Website are free from viruses and other problems that may adversely affect technology.'}]
+6.
+3.
+[{'translation_text': 'Stopping access: we try to enable you to access the Services and Sites without interruption, but from time to time it may be suspended, restricted or interrupted.'}]
+[{'translation_text': 'From time to time we can also limit your access to the Site and/or Services due to repairs, maintenance or introduction of new facilities or services.'}]
+[{'translation_text': "We'll try to restore access as soon as possible."}]
+[{'translation_text': 'We also reserve the right to block access to materials which, in our opinion, may contribute to the violation of any part of this Agreement, as well as to edit or delete such materials.'}]
+6.
+4.
+[{'translation_text': 'Closing Account: We reserve the right to close Accounts whose users are allowed to breach the terms of use (e.g.'}]
+[{'translation_text': 'this Agreement), use proxy servers to hide IP addresses in order to cover up the use of several Accounts, create appearances of being in a different location than in fact or in any way disrupt the functioning of the Site or Services.'}]
+6.
+5.
+[{'translation_text': 'Several Accounts: if you use several accounts, we will take action against each of them.'}]
+7.
+[{'translation_text': 'Suspension or termination of a service contract'}]
+7.
+1.
+[{'translation_text': 'If you (or other persons with your permission) use the Services or Site not in accordance with the provisions of this Agreement, we may suspend your right to use the Services and/or Sites (in whole or in part).'}]
+7.
+2.
+[{'translation_text': 'If we suspend the Services or Site, we may refuse to restore them until we receive from you, in the form permitted by us, the assurance that there will be no further breach of the provisions of this Agreement.'}]
+7.
+3.
+[{'translation_text': 'Groupon International will cooperate fully with the enforcement supervisory authorities and will comply with the judicial order regarding the disclosure of the identity or the whereabouts of any person who violates this Agreement.'}]
+7.
+4.
+[{'translation_text': 'Without prejudice to any provision of this point 7, we have the right to immediately (in whole or in part): (i) suspend the operation of the Services and/or Websites; (ii) suspend your right to use the Services and/or Sites; (iii) suspend the right to use the Services and/or Sites in the case of persons who, in our opinion, are associated with you (in any way); and/or (iv) terminate this Agreement without delay if: 7.'}]
+4.
+1.
+[{'translation_text': 'you have committed an infringement of the provisions of this Agreement; 7.'}]
+4.
+2.
+[{'translation_text': 'we believe with reasonable grounds that you have committed a breach of this Agreement, that you may commit or commit a breach of this Agreement; 7.'}]
+4.
+3.
+[{'translation_text': 'We believe, with reasonable grounds, that you have committed fraud against us or another person.'}]
+7.
+5.
+[{'translation_text': 'Subject to any provision of this paragraph 7, we have the right to terminate this Agreement at any time.'}]
+7.
+6.
+[{'translation_text': 'Our right to terminate this Agreement shall not prejudice any other rights or remedies that we have in connection with the violation of any rights, obligations or liability that occurred before the termination of the Agreement.'}]
+8.
+[{'translation_text': 'Data protection'}]
+8.
+1.
+[{'translation_text': 'Please refer to our Privacy Policy, which is part of this Agreement.'}]
+9.
+[{'translation_text': 'Advertising'}]
+9.
+1.
+[{'translation_text': 'Advertising can be provided on our behalf by an external advertising agency that can place or read a cookie in your browser.'}]
+[{'translation_text': 'If you want more information about such activities or your ability to prevent any company from using this information, please refer to the Cookie Policy and the Privacy Policy.'}]
+10.
+[{'translation_text': 'Links to other sites and links from these sites'}]
+10.
+1.
+[{'translation_text': 'If the Website contains links to sites and resources provided by third parties (called together .Other Websites), these links are provided only for information purposes and for your convenience.'}]
+[{'translation_text': 'We have no control over the content of Other Websites or products offered within them and we are not responsible for them (this also applies to social networks such as Facebook).'}]
+[{'translation_text': 'We are not liable for any damage or loss resulting from the use of such sites.'}]
+[{'translation_text': 'If you visit the external site to which the link is located on the Site, you do so on your own responsibility.'}]
+11.
+[{'translation_text': 'Intellectual property rights'}]
+11.
+1.
+[{'translation_text': 'Groupon International grants you a limited, personal, non-transferable, non-exclusive and cancellational license to access and use the Site under this Agreement and the additional terms and conditions laid down by Groupon International.'}]
+[{'translation_text': 'All intellectual property material (including copyright, patents, trademarks, service marks, trade names, domain names, social media identifiers, registered and unregistered projects) on the Website and/or Services (as follows: 11.'}]
+[{'translation_text': '4), information and content of the Site or information forming part of the Services, our database, the Website design, text, graphics, software, photos, movies, music, sounds, data, software compilations, source code and software (including applets and scripts) as well as their choice, coordination, arrangement and corrections are our property (or property of our licensors).'}]
+[{'translation_text': 'You may not claim such ownership.'}]
+[{'translation_text': 'All rights are reserved.'}]
+11.
+2.
+[{'translation_text': 'None of the materials listed in point 11.'}]
+[{'translation_text': '1 above may not be reproduced, distributed, reproduced, modified, published, downloaded, displayed anywhere, reproduced or transmitted in any form or through any means; nor may it be sold, leased, sold, licensed or licensed, used for the creation of derivative works or used in any other way without the written consent of the Groupon Group or the copyright holder, unless such action is expressly permitted under copyright law.'}]
+[{'translation_text': 'You can search and display content on the Website on your computer screen and store such content in electronic form (but not on the server or on data media connected to the network).'}]
+[{'translation_text': 'You do not have the right to reproduce, modify, copy, distribute, display, reproduce or use them for commercial purposes without our permission.'}]
+[{'translation_text': 'If the collection, copying, dissemination, reproduction or publication of copyright-protected materials is permitted under the law, you must provide information about their source.'}]
+[{'translation_text': 'You must not make any changes to the information about the author of the material or remove such information, trademark or copyright information.'}]
+[{'translation_text': 'You acknowledge that by downloading copyrighted material, you do not acquire property rights.'}]
+[{'translation_text': 'Failure to apply these rules may result in a violation of copyright, trade marks or intellectual property rights, for which civil and/or criminal sanctions are threatened.'}]
+[{'translation_text': 'You must not use copyrighted materials in such a way as to exceed or infringe the provisions of this Agreement.'}]
+11.
+3.
+[{'translation_text': 'Groupon owns trademarks registered and not registered in many countries and the Groupon logo and its variants available in the Website are trademarks owned by Groupon Inc.'}]
+[{'translation_text': 'or related companies and each use of these marks serves the benefits of Groupon.'}]
+[{'translation_text': 'GROUPON is a trademark registered in the following countries: Algeria, Antigua, Argentina, Armenia, Australia, Bahamas, Belarus, Brazil, Canada, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Egypt, European Union, France, Germany, Hong Kong, Iceland, India, Indonesia, Israel, Jamaica, Japan, Jordan, Kenya, Lebanon, Lichtenstajn, Macedonia, Mexico, Moldova, Morocco, New Zealand, Nigeria, Norway, African Intellectual Property Organization, Panama, Paraguay, Peru, Philippines, Qatar, Russian Federation, Saudi Arabia, Singapore, South Africa, South Korea, Switzerland, Taiwan, Thailand, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United States of America, Uruguay, Venezuela and Vietnam.'}]
+[{'translation_text': 'The not exhausted list of Groupon trademarks is here.'}]
+11.
+4.
+[{'translation_text': 'All rights, property rights and intellectual property rights in connection with the content available on the Website or within the Services belong to the owners of such content or the Contractor and may be protected by copyright, trademarks or other rights.'}]
+[{'translation_text': 'This Agreement does not grant you ownership of such content, except for licences granted under it.'}]
+11.
+5.
+[{'translation_text': "Authors of literary and artistic works contained on the pages of this Site have acquired the moral right to be called authors of these works, except the User's Content."}]
+11.
+6.
+[{'translation_text': 'Groupon owns both registered and unregistered trademarks in many countries and Gruupon, the Groupon logos and their different versions presented in the Website are trademarks owned by Groupon, Inc.'}]
+[{'translation_text': 'or its related parties and any use of these marks serves the benefits of Groupon.'}]
+[{'translation_text': 'GROUPON is a trademark registered in the following countries: Algeria, Antigua, Saudi Arabia, Argentina, Armenia, Australia, Bahamas, Bahrain, Belarus, Brazil, Chile, Egypt, Ecuador, Russian Federation, Philippines, France, Hong Kong, India, Indonesia, Iceland, Israel, Jamaica, Japan, Jordan, Canada, Qatar, Kenya, Colombia, South Korea, Costa Rica, Lebanon, Liechtenstein, Macedonia, Morocco, Mexico, Moldova, Germany, Nigeria, Norway, New Zealand, OAPI, Panama, Paraguay, Peru, Dominican Republic, South Africa, Singapore, United States of America, Switzerland, Thailand, Taiwan, Tunisia, Turkey, Turkmenistan, Ukraine, European Union, Uruguay, Venezuela, Vietnam and the United Arab Emirates.'}]
+[{'translation_text': 'An open list of Groupon trademarks is available here.'}]
+12.
+[{'translation_text': 'General provisions'}]
+12.
+1.
+[{'translation_text': 'Interpretation: under this Agreement:'}]
+12.
+1.
+1.
+[{'translation_text': 'the words meaning persons relate to natural persons, companies, limited liability companies, corporate entities and associations without legal personality;'}]
+12.
+1.
+2.
+[{'translation_text': 'point headers (e.g.'}]
+12.
+[{'translation_text': 'General provisions at the beginning of this point and the titles of paragraphs (e.g.'}]
+[{'translation_text': 'Interpretation: at the beginning of this paragraph 12.'}]
+[{'translation_text': '1. are given only for reference purposes, do not form part of this Agreement and have no effect on the interpretation of its provisions;'}]
+12.
+1.
+3.
+[{'translation_text': 'This term is understood to include inter alia, including without limitation.'}]
+12.
+2.
+[{'translation_text': 'No relationship in the form of a partnership or partnership: no provision of this Agreement should be interpreted as establishing a joint venture, a partnership or partnership between you and us.'}]
+[{'translation_text': 'No party shall be entitled or entitled to accept obligations, debts or charges or to conclude any contract on behalf of the other party.'}]
+12.
+3.
+[{'translation_text': 'No other conditions: except as expressly provided for in this Agreement, any guarantees, conditions and other provisions imposed by law, customary law or otherwise in force are hereby excluded to the maximum extent permitted by law.'}]
+12.
+4.
+[{'translation_text': 'Transmission: the parties may not transfer in whole or in part the rights or obligations arising from this Agreement, nor may they otherwise dispose of them.'}]
+[{'translation_text': 'We have the right to transfer to another person, in whole or in part, the rights and obligations resulting from this Agreement.'}]
+12.
+5.
+[{'translation_text': 'Events independent of us: we are not liable for violations of our obligations under this Agreement if these violations were caused by factors independent of us.'}]
+12.
+6.
+[{'translation_text': 'No waiver of rights: no waiver of our rights as a result of your breach of the provisions of this Agreement will result in us giving up any right as a result of a future infringement or being interpreted as such, regardless of the nature of the infringement.'}]
+[{'translation_text': 'Giving you time, showing our understanding or indulgence towards you does not relieve you of your liability under this Agreement and does not affect it in any way.'}]
+12.
+7.
+[{'translation_text': 'Notifications: unless otherwise specified in this Agreement, notifications to the parties must be in writing and must be delivered by electronic means (except when the user sends us a notification for legal purposes) or by mail to the address indicated by the user or to our address.'}]
+12.
+8.
+[{'translation_text': 'No third party rights: any provision of this Agreement shall apply equally to Groupon Group, external content providers and licensors and shall act in their favour.'}]
+[{'translation_text': 'Each of these entities shall have the right to seek and enforce those provisions either directly or on its own behalf (unless this Agreement may be amended or cancelled without the consent of the entities listed).'}]
+[{'translation_text': 'Subject to the previous sentence, no provision of this Agreement shall be subject to enforcement by other non-Parties.'}]
+[{'translation_text': 'This means that only we and the State have the right to enforce the provisions of this Agreement.'}]
+12.
+9.
+[{'translation_text': 'Provisions remaining in force after termination of the Agreement: regardless of the situation of paragraphs 1, 3, 4, 7, 11, 12 and 13 of this Agreement, together with provisions which are clearly indicated as in force after termination or termination of the Agreement and which, as such, assume to be in force after termination of the Agreement, shall also apply after termination of the Agreement.'}]
+[{'translation_text': 'If you re-use the Services or Site, the terms and conditions of use applicable at a specific time will apply.'}]
+[{'translation_text': 'Where Vouchers are used purchased under this Agreement, the conditions for these Vouchers shall remain in force after the termination of this Agreement.'}]
+12.
+10.
+[{'translation_text': 'Separation of provisions: if any provision of this Agreement proves to be unlawful, invalid or enforceable, it shall be considered separate and the validity and enforcement of the other provisions of the Agreement shall not be altered.'}]
+12.
+11.
+[{'translation_text': 'Applicable law: This Agreement (including all relations that are not part of the Agreement) is governed by Irish law and will be interpreted in accordance with it.'}]
+13.
+[{'translation_text': 'Definitions'}]
+[{'translation_text': 'This Agreement covers different defined terms.'}]
+[{'translation_text': "You'll get to know them after they start with a big letter."}]
+[{'translation_text': "Here's their meaning:"}]
+[{'translation_text': 'The Account shall mean the Groupon Account.'}]
+[{'translation_text': 'For the purposes of this definition, liability for any claim (including breach of contract, civil damage, false claims or misrepresentation, restitution or other) concerning or arising from this Agreement or related thereto (including liability expressly specified in this Agreement or resulting from nullity or failure to enforce any of the terms of this Agreement) shall also mean an additional agreement for the purposes of this definition.'}]
+[{'translation_text': 'It means the Seller of the Product, for which Voucher can be replaced.'}]
+[{'translation_text': 'The counterparty is NOT a Groupon International salesman.'}]
+[{'translation_text': 'The website means websites, mobile applications, electronic services or electronic communications, social networks or any website for individuals, business partners, contractors, cities or areas that relate to these terms of use.'}]
+[{'translation_text': 'Registering means creating an Account on a website, and registering is an action to create an Account.'}]
+[{'translation_text': 'Services shall mean all or part of the services provided by Groupon International via the Website (or via electronic or other communications from Groupon International), including mobile applications, our newsletters, emails sent to you and information services, content-related or transaction-related functions (e.g.'}]
+[{'translation_text': 'This appropriation is intended to cover expenditure relating to:'}]
+[{'translation_text': '"Voucher" means a voucher which is sold by the Sellers and may be exchanged for Products offered by the relevant Contractor in accordance with the terms listed on the Voucher and in the tender description in the Site where Voucher was purchased.'}]
+[{'translation_text': '"Products\' means goods and/or services which are part of Voucher (for which Voucher can be replaced).'}]
+[{'translation_text': 'Terms of Sale of Groupon Coupons Sp.'}]
+[{'translation_text': 'Z O.'}]
+[{'translation_text': 'Oh.'}]
+[{'translation_text': 'Date of entry into force: 22.'}]
+03.
+2019
+1.
+[{'translation_text': 'General information'}]
+1.
+[{'translation_text': '1 These Terms of Sale apply to each Coupon purchased from Groupon acting on behalf of and on behalf of the Partner.'}]
+1.
+[{'translation_text': '2 Groupon stands for Groupon Sp.'}]
+[{'translation_text': 'z o.o.,'}]
+[{'translation_text': 'registered company in Poland with registered office at: Al.'}]
+[{'translation_text': 'Jerozolimskie 123A, 02-017 Warszawa.'}]
+[{'translation_text': 'Groupon is registered at the District Court for M.'}]
+[{'translation_text': 'Capital Warsaw in Warsaw, XII Commercial Division of the National Court Register; KRS: 0000310218; NIP: 5252429432.'}]
+1.
+[{'translation_text': '3 Coupon means an instrument, in physical or electronic form, which entitles the holder of the Coupon (hereinafter referred to as "the Coupon holder") to: receive the Partner\'s Offering from the Partner, or within the time limit indicated in the Coupon (hereinafter referred to as "the implementation term").'}]
+1.
+[{'translation_text': "4 The Partner's offer means goods or services provided to the Coupon Holder by the Partner, in accordance with the rules made available on the Groupon Portal and on the Coupon."}]
+1.
+[{'translation_text': "5 Partner is an unrelated third party to Groupon selling or supplying the Partner's offer, which entitles Groupon to issue, sell and deliver the Coupon on behalf of and to the Partner."}]
+[{'translation_text': "Groupon does not sell or deliver the Partner's offer."}]
+[{'translation_text': "The contract for delivery and purchase of the Partner's offer will be concluded between you and the Partner with whom you will execute the Coupon and Groupon will conclude the agreement on behalf of the Partner and as its agent in all cases."}]
+[{'translation_text': 'Groupon deals only with the issue, sale and delivery of Coupons to you on behalf of and to the Partner.'}]
+1.
+[{'translation_text': '6 These Terms of Sale were last updated on 22.'}]
+03.
+2019.
+[{'translation_text': 'Groupon, as a Partner Agent, reserves the right to unilaterally amend these Terms of Sale at any time.'}]
+[{'translation_text': 'Any changes to these Terms of Sale will be published online.'}]
+[{'translation_text': 'The version applicable to you is only the version of the Terms of Sale to which the User consented when purchasing the Coupon.'}]
+2.
+[{'translation_text': 'Purchase of a Coupon'}]
+2.
+[{'translation_text': '1 The coupon can only be purchased by persons who are over 18 years of age.'}]
+[{'translation_text': 'Before making a purchase, register and create an account at the Groupon International Limited Portal.'}]
+2.
+[{'translation_text': '2 Clicking on the "Finish Buy" button will send a coupon offer to Groupon acting on behalf of and to the Partner.'}]
+[{'translation_text': "However, the transaction will only be completed successfully when the Groupon company, acting on behalf of and for the Partner, receives an e-mail confirming the acceptance of the User's offer."}]
+[{'translation_text': "Groupon expressly reserves the right to reject the User's offer."}]
+[{'translation_text': 'In addition, even if Groupon accepted the offer, it may withdraw from the contract at any time in case of reasonable suspicion that the User has committed or may commit fraud against Groupon, a third party associated with Groupon or a Partner.'}]
+3.
+[{'translation_text': 'Implementation of the Coupon'}]
+3.
+[{'translation_text': '1 Unless expressly stated otherwise:'}]
+[{'translation_text': '(a) The coupon can only be made once;'}]
+[{'translation_text': '(b) The coupon can only be made with the Partner and not at the head office of Groupon;'}]
+[{'translation_text': '(c) The coupon shall be valid only for one person; and'}]
+[{'translation_text': "(d) during the implementation of the Partner's Coupon, follow the instructions related to the Coupon."}]
+3.
+[{'translation_text': '2 All Coupons sold by Groupon can be realized only with the Partner.'}]
+3.
+[{'translation_text': '3 In order to implement the Coupon, it should be presented to the Partner on the Date of implementation.'}]
+[{'translation_text': 'The coupon not realized in the Implementation Date automatically expires.'}]
+[{'translation_text': 'A coupon whose validity has expired cannot be realised and the Coupon holder is not entitled to reimbursement or compensation.'}]
+3.
+[{'translation_text': "4 If the Partner's offer at the Groupon Portal is an offer at the same time placing an order, Groupon will download the data for shipping at the time of purchase."}]
+[{'translation_text': 'Then Groupon will provide the data to the Partner.'}]
+[{'translation_text': "The partner will consider the application for the implementation of the Coupon and send the Partner's offer to you."}]
+3.
+[{'translation_text': "5 Unless expressly stated otherwise, the Coupon does not entitle the Coupon holder to receive the Partner's Offering within a specified period of time."}]
+[{'translation_text': "We suggest you contact your Partner as soon as possible to agree on a convenient date for the delivery of goods or services covered by the Partner's offer."}]
+[{'translation_text': "Groupon does not affect the date of delivery of the goods or services covered by the Partner's Offering."}]
+3.
+[{'translation_text': "6 In the case of exchange of a Coupon for goods or services outside the Partner's Offering, you shall not be entitled to credit, cash refund or new Coupon for the difference between the value of the Partner's Offering and the actual value of the goods or services supplied or provided to you by the Partner."}]
+3.
+[{'translation_text': '7 Coupons can only be made in full.'}]
+[{'translation_text': 'They shall not be subject to partial or gradual implementation.'}]
+[{'translation_text': "If, for any reason, the Coupon is exchanged with the Partner for goods/services of less than the original value (without discount) of the Partner's Offering, you will not be entitled to credit, cash refund or new Coupon for the difference between the original (without discount) value and the value of the goods/services for which the Coupon is replaced."}]
+3.
+[{'translation_text': '8 Groupon may charge a reservation fee or other costs associated with the purchase or execution of the Coupon on behalf of the Partner.'}]
+[{'translation_text': 'Any such costs (if any) will be presented to you before buying the Coupon.'}]
+3.
+[{'translation_text': "9 If, due to unforeseen circumstances, the Partner is unable to deliver the Partner's Offering as described, Groupon will immediately notify you, on behalf of the Partner, by e-mail."}]
+4.
+[{'translation_text': 'Use of the Coupon'}]
+4.
+[{'translation_text': '1 The coupon can only be purchased for personal, non-commercial use (where the coupon can be transferred to another person for personal, non-commercial use).'}]
+4.
+[{'translation_text': '2 You have sole responsibility for the Coupon.'}]
+[{'translation_text': 'Neither Groupon nor Partner are responsible for lost or stolen Coupons or for recovering bid numbers or security codes.'}]
+4.
+[{'translation_text': '3 You undertake not to give false data, including false names, address data or contact details, or details of payments; you also undertake not to take any illegal action concerning the acquisition or use of the Coupon, as well as to prevent other persons from taking such action.'}]
+4.
+[{'translation_text': '4 Any attempt to implement the Coupon contrary to the Terms of sale may lead to the cancellation of the Coupon at the discretion of Groupon.'}]
+4.
+[{'translation_text': '5 The reproduction of Coupons shall be prohibited.'}]
+4.
+[{'translation_text': '6 Professional trade in Coupons is prohibited.'}]
+5.
+[{'translation_text': 'Cancellation (and exceptions), reimbursement of money and problems'}]
+5.
+[{'translation_text': '1 You have the statutory right to withdraw from the purchase contract of the Coupon within 14 calendar days of receipt of the confirmation by e-mail (hereinafter referred to as "the time limit for withdrawal from the purchase contract of the Coupon").'}]
+[{'translation_text': 'However, when implementing the Coupon within the time limit within which you are entitled to withdraw from the Coupon purchase contract, you expressly order from Groupon, acting on behalf of and for the Partner, the start of the provision of services within that time limit and acknowledge that you waive the right to withdraw from the Coupon purchase contract.'}]
+[{'translation_text': 'Following the implementation of the Coupon, it is considered that Groupon, acting on behalf of and in favour of the Partner, has fully fulfilled its obligations regarding the issue, sale and delivery of the Coupon to you.'}]
+[{'translation_text': 'In order to avoid doubt, this paragraph shall also apply to any tenders at the same time as placing an order.'}]
+5.
+[{'translation_text': '2 The right to withdraw from the purchase contract of the Coupon may be exercised as follows:'}]
+5.
+2.
+[{'translation_text': '1 by filling in and sending the form;'}]
+5.
+2.
+[{'translation_text': '2 via e-mail or chat with Customer Service.'}]
+5.
+[{'translation_text': '3 If you withdraw from the purchase contract of the Coupon in accordance with Section 5, Groupon, acting on behalf of and to the Partner, will refund the value of all payments made in the course of the purchase within 14 calendar days from the date of notification of the withdrawal of the contract to Groupon.'}]
+5.
+[{'translation_text': "4 If without your own fault you have not been able to implement the Partner's Coupon before the completion deadline expires, you may be entitled to a refund."}]
+[{'translation_text': 'In order to obtain such a refund, it must be demonstrated to the extent sufficient for Groupon that the failure to implement the Coupon was not your fault.'}]
+[{'translation_text': 'The decision to grant a refund is solely the responsibility of Groupon.'}]
+5.
+[{'translation_text': "5 If you have completed the Coupon, but the Partner has not delivered the Partner's Offering as ordered, or if you have reservations about the submission of the Partner's Offering, the claim must be made directly to the Partner."}]
+[{'translation_text': "This is because it is the Partner, not Groupon, who is responsible for delivering the Partner's offer."}]
+[{'translation_text': 'Groupon only deals with the sale and delivery of Coupons, acting on behalf of and in favour of the Partner.'}]
+[{'translation_text': 'However, if you are unable to reach an agreement with your Partner on your reservations, Groupon, acting on behalf of and on behalf of your Partner, may, at your request, help resolve the dispute.'}]
+5.
+[{'translation_text': '6 In the absence of a different statement made to Groupon explicitly, any refund of cash will be made through the original method of payment.'}]
+[{'translation_text': 'If the original payment method has been cancelled, expired or changed, please inform Customer Service Department immediately ( https://www.groupon.pl/customer_support).'}]
+[{'translation_text': 'If you do not make an appropriate statement and the refund is made using the original payment method, you may need to contact the bank or payment service provider to obtain the refund.'}]
+[{'translation_text': "Groupon won't make more than one refund."}]
+5.
+[{'translation_text': '7 The refund may be rejected within 30 days of receipt of the refund.'}]
+[{'translation_text': 'If the refund is not rejected within 30 days, it will constitute the full and final satisfaction of any claim against Groupon (as a Partner agent) concerning the Coupon, resulting from it or related to it.'}]
+6.
+[{'translation_text': "Responsibility for the Partner's offer"}]
+6.
+[{'translation_text': '1 Note that this Partner, not Groupon, is:'}]
+6.
+1.
+[{'translation_text': '1 the seller or supplier of the Partner Offering;'}]
+6.
+1.
+[{'translation_text': '2 a party concluding an agreement with the holder of the coupon in the event of its execution; and'}]
+6.
+1.
+[{'translation_text': "3 the exclusive entity responsible for providing the Partner's Offering to the Holder and the Partner's Offering itself."}]
+7.
+[{'translation_text': 'Standards of provision of services and liability Groupon'}]
+7.
+[{'translation_text': '1 Groupon, as partner agent, declares that:'}]
+7.
+1.
+[{'translation_text': '1 shall make every effort to fulfil its obligations under these Terms of Sale;'}]
+7.
+1.
+[{'translation_text': '2 Coupons are of satisfactory quality and useful for the purpose for which they were created; and'}]
+7.
+1.
+[{'translation_text': '3 will not violate the requirements of fairness and professional care in terms of the services they provide.'}]
+7.
+[{'translation_text': '2 Groupon is always responsible for: (a) death or injury caused by negligence/reckoning negligence; (b) fraud or deliberate misleading by Groupon; or (c) any failure to comply with the obligation set out in point 7.'}]
+[{'translation_text': '1 above or implied contractual provisions which are not exempted or restricted under applicable law.'}]
+7.
+[{'translation_text': '3 Except as provided for in point 7.'}]
+[{'translation_text': '2 Groupon shall not be liable for any damage not caused by default or other loss or damage suffered, including indirect losses.'}]
+7.
+[{'translation_text': '4 Groupon does not guarantee the completeness, utility or legality of the Partner Offering.'}]
+[{'translation_text': "Groupon is not responsible for the quality, safety, usability or other features of the items covered by the Partner's Offering."}]
+7.
+[{'translation_text': '5 Groupon shall not be liable for any breach of the obligation under these Terms of Sale if the fulfilment of the obligation has been prevented or impeded for reasons beyond its control.'}]
+7.
+[{'translation_text': '6 Excepting the liability arising from point 7.'}]
+[{'translation_text': "2, which is unlimited, the Groupon's total liability to you will not exceed, regardless of circumstances, the value of 100% of the price of the Coupon."}]
+7.
+[{'translation_text': '7 The law of certain countries does not allow certain or all exemptions or restrictions set out in point 7.'}]
+[{'translation_text': 'If you are subject to such provisions, some or all of the above exemptions or restrictions may not apply to you and you may be entitled to additional rights.'}]
+8.
+[{'translation_text': 'Groupon Portal'}]
+[{'translation_text': 'The Groupon portal (hereinafter "Portal") means a website, mobile applications, electronic forms of communication or service, or any location in which you can purchase a Partner Coupon from Groupon.'}]
+[{'translation_text': 'The portal on which Groupon offers Coupons is owned by Groupon International Limited.'}]
+[{'translation_text': 'For more information on the Terms of Use of Groupon International Limited, which are explicitly included in these Terms of Sale, see here.'}]
+9.
+[{'translation_text': 'Miscellaneous provisions'}]
+9.
+[{'translation_text': '1 If you violate these Terms of Sale and Groupon does not take any action against you, this does not mean that Groupon waives the rights and remedies involved in the infringement.'}]
+[{'translation_text': 'Groupon retains the right to act or exercise rights or remedies for the infringement in question or for any breach of obligations under these Terms of Sale.'}]
+9.
+[{'translation_text': '2 Unless expressly specified in these Terms of sale, any statements between the parties must be made in writing and delivered by e-mail (except for a declaration sent to Groupon in connection with legal action) or paid by the sender by post.'}]
+[{'translation_text': 'Groupon will send any statements to the address given during the registration of the Groupon account.'}]
+[{'translation_text': 'All statements addressed to Groupon may be sent to the address of the premises referred to in point 1.'}]
+2.
+9.
+[{'translation_text': '3 If any of the provisions of these Terms of Sale are declared invalid or not feasible, that fact shall not affect the validity and enforceability of the other provisions.'}]
+[{'translation_text': 'The provisions of these Terms of Sale which have been declared void or unenforceable shall be replaced by such valid and enforceable provisions which shall ensure that the economic result is the most similar to that which provided for the provisions deemed void or unenforceable.'}]
+9.
+[{'translation_text': '4 These Terms of sale are subject to and should be interpreted in accordance with the laws of Poland, excluding those of private international law.'}]
+[{'translation_text': 'Any dispute will be governed by the exclusive jurisdiction of the competent courts in Poland.'}]
+[{'translation_text': 'Terms and Conditions Offer Groupon Goods Global GmbH'}]
+[{'translation_text': 'This document sets out the conditions for the sale of goods by Groupon Goods Global GmbH.'}]
+1.
+[{'translation_text': 'Agreement and information on the ordering procedure'}]
+1.
+1.
+[{'translation_text': 'The parties to this Agreement: These Terms of Sale (hereinafter referred to as "Sales Terms") constitute an agreement between the User (hereinafter referred to as "User" or "Customers") and Groupon Goods Global GmbH (hereinafter referred to as "Groupon Goods"), "my," "my," "nas" or "ours").'}]
+[{'translation_text': 'We are a company governed by Swiss law (the registration number of the company CHE-497.'}]
+202.
+[{'translation_text': '638) based at: c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Switzerland.'}]
+[{'translation_text': 'NIP number: CHE-349.'}]
+386.
+564.
+1.
+2.
+[{'translation_text': 'Apply these Terms of Sale: When you place an order with us, you agree to comply with these Terms of Sale and our Return Policy.'}]
+1.
+3.
+[{'translation_text': 'User\'s offer: Clicking on the "Finish Buy" button is equivalent to making an offer for the purchase of products sold by Groupon Goods (hereinafter referred to as "Toware").'}]
+[{'translation_text': 'By clicking on the "Finish Buy" button, you clearly acknowledge that if we accept the offer, you will be obliged to pay for the Goods.'}]
+[{'translation_text': 'You must be at least 18 years old to make a purchase of Goods.'}]
+1.
+4.
+[{'translation_text': 'A copy of these Terms of Sale: We keep a copy of the agreement between us (the latter Terms of Sale) and we recommend that you print these Terms of Sale for evidence purposes.'}]
+1.
+5.
+[{'translation_text': "User's rights: No provision of these Terms of Sale violates the rights of the Consumer User concerning defective or badly described goods or the right to withdraw from the contract."}]
+1.
+6.
+[{'translation_text': 'Updated on these Terms of Sale: These Terms of Sale were last updated on 07.'}]
+01.
+[{'translation_text': '2016 (version 004g).'}]
+[{'translation_text': 'We reserve the right to change these Terms of Sale at any time (as we will inform you on the website).'}]
+[{'translation_text': 'Any changes to these Terms of Sale made after you place your order will not apply to such an order.'}]
+2.
+[{'translation_text': 'Prices and purchase'}]
+2.
+1.
+[{'translation_text': 'Prices and entity for which the payment is made: Our company will accept and process the payment for the order made by the User.'}]
+[{'translation_text': 'All prices (including delivery costs) of the goods shall include VAT in the applicable amount.'}]
+[{'translation_text': 'Prices are given to the User before making the purchase and confirmation of the order.'}]
+[{'translation_text': 'Prices may change at any time, but these changes will not affect your order, except in the circumstances described in paragraph 2.'}]
+[{'translation_text': '4 and 2.'}]
+[{'translation_text': '5 below.'}]
+2.
+2.
+[{'translation_text': 'Delivery costs: The given prices may but do not have to include delivery costs.'}]
+[{'translation_text': 'Any such fees shall be determined in terms of terms and conditions of the offer.'}]
+[{'translation_text': 'If delivery costs are not included in the purchase price, they will be displayed separately and added to the total amount of the claim before the order is finalized.'}]
+[{'translation_text': 'If we are obliged to schedule delivery time with you and you are not available within the pre-set time, we may charge you the costs of changing delivery time.'}]
+2.
+3.
+[{'translation_text': 'Ordering: After placing an order by clicking on the "Finish" button and agreeing to these Terms of Sale You will receive an e-mail confirming your acceptance of the order from then on the contract between us is deemed to have been concluded.'}]
+[{'translation_text': 'However, we reserve the right to reject the offer and not to enter into an agreement with the User.'}]
+[{'translation_text': 'In case we have accepted the order, you will receive another e-mail confirming the shipment of the Goods.'}]
+[{'translation_text': 'We reserve the right to cancel the order also after it has been accepted by us if we have reason to suspect that your order is unlawful or that you otherwise infringed the applicable law when placing an order.'}]
+2.
+4.
+[{'translation_text': 'Errors and errors: Sometimes there may be a mistake or mistake in terms of price or description of the Goods for sale.'}]
+[{'translation_text': 'We will make every reasonable effort to correct such errors or errors as soon as possible after the notification has been received or detected.'}]
+[{'translation_text': 'We reserve the right to change, modify, replace, suspend or remove, without notice, any information related to the Goods for sale (including the Goods).'}]
+2.
+5.
+[{'translation_text': 'Errors and errors revealed after purchase: If there is a mistake or mistake on our part and the User has already purchased the Goods:'}]
+[{'translation_text': '(a) if the actual price of the Goods is lower than that specified at the time of purchase of the Goods, the User shall pay a lower price; or'}]
+[{'translation_text': '(b) If the price of the Goods is higher than specified, we will contact you and enable you to pay the correct (higher) price or cancel your order with full reimbursement.'}]
+3.
+[{'translation_text': 'Delivery of goods'}]
+3.
+1.
+[{'translation_text': 'Change of order: After placing the order we cannot change its details, including the quantity of goods ordered or the delivery address.'}]
+[{'translation_text': 'This point does not affect the right of the User to withdraw from the contract or any refund rights applicable to the transaction.'}]
+3.
+2.
+[{'translation_text': 'Shipping: Groupon Goods shipping options depend on the given offer.'}]
+[{'translation_text': 'It is not possible to send your purchases outside Poland.'}]
+3.
+3.
+[{'translation_text': 'Estimated delivery date: The estimated delivery date is specified in the terms and conditions of the offer.'}]
+[{'translation_text': 'We will make every effort to fit within the given deadline.'}]
+[{'translation_text': 'Unless otherwise specified, the estimated delivery date is merely a forecast, does not constitute a guarantee of the delivery date and is therefore not to be regarded as a certain deadline.'}]
+3.
+4.
+[{'translation_text': 'Property right: The property right of the Goods will be transferred to the User (i.e.'}]
+[{'translation_text': 'The goods will become personal property of the User) at the time of delivery to the address specified by the User.'}]
+4.
+[{'translation_text': 'Withdrawal from the contract'}]
+4.
+1.
+[{'translation_text': 'Your right to withdraw from the contract: Nothing in these Terms of Sale violates your right to withdraw from the contract within 14 days of the date of receipt of the Goods by you or a third party indicated by you.'}]
+[{'translation_text': 'In the case of an order covering multiple Goods or deliveries spread over multiple lots, the withdrawal period will not start until the last item or lot has been received by the User.'}]
+4.
+2.
+[{'translation_text': 'The right of withdrawal may be exercised:'}]
+[{'translation_text': '(a) by filling in and sending us a standard withdrawal form, which will be attached to the confirmation e-mail;'}]
+[{'translation_text': '(b) by contacting us: https://www.groupon.pl/customer_support or info@groupon.pl'}]
+[{'translation_text': '(c) by mail sent to the address indicated in point 1.'}]
+[{'translation_text': '1; or'}]
+[{'translation_text': '(d) by means of a notification delivered to their own hands.'}]
+4.
+3.
+[{'translation_text': 'The Goods must be properly packed to protect them from damage during transport.'}]
+[{'translation_text': 'The cost of returning the Goods shall be borne by the User.'}]
+[{'translation_text': 'We recommend shipping the returned Goods by registered delivery.'}]
+4.
+4.
+[{'translation_text': 'The right to withdraw from the contract shall not apply to the following Goods:'}]
+[{'translation_text': '(a) perishable goods such as food or flowers;'}]
+[{'translation_text': '(b) audio/video recordings, DVDs or computer programs extracted from the sealed packaging in which they were delivered;'}]
+[{'translation_text': '(c) goods made on request;'}]
+[{'translation_text': '(d) magazines or warehouses;'}]
+[{'translation_text': '(e) lotteries and gambling; and'}]
+[{'translation_text': '(f) any goods which cannot be returned by reason of their nature, including those which would have been damaged during transport.'}]
+4.
+5.
+[{'translation_text': 'Return of Goods: In the event of the exercise of the right of withdrawal, the Goods must be returned to us within 14 days of the date of withdrawal.'}]
+4.
+6.
+[{'translation_text': 'Our right to withdraw from the contract: We have the right to withdraw from the contract before the delivery of the Goods for reasons beyond our reasonable control, including due to equipment failure or difficulties in transport.'}]
+[{'translation_text': 'In this case, the User will be informed immediately.'}]
+5.
+[{'translation_text': 'Return of goods and money'}]
+5.
+1.
+[{'translation_text': 'Our Return Policy: Every article we sell is subject to the Return Policy.'}]
+[{'translation_text': 'In addition to the right of return of the Goods within 14 days from the date of receipt by the User or indicated third party, the User shall enjoy all applicable rights regarding the return of new or renewed Goods, including in the case of the delivery of incorrect or defective goods.'}]
+5.
+2.
+[{'translation_text': 'Property right of returned Goods: We take ownership of returned Goods at the time of delivery to the address indicated by us.'}]
+[{'translation_text': 'We reserve the right to make a refund without demanding a return of the goods.'}]
+[{'translation_text': 'In this case, we do not take ownership of the Goods.'}]
+5.
+3.
+[{'translation_text': 'Problems with returned Goods: We reserve the right to refuse to refund the money and to charge you the cost of return shipping if the Goods have been damaged after it has been delivered to you; incorrectly used; or used otherwise than according to instructions or to check; or if the commodity feature indicated as the reason for return is the result of normal consumption.'}]
+[{'translation_text': 'This point 5.'}]
+[{'translation_text': '3 does not restrict or affect the right of the User to withdraw from the contract and return the goods under point 4 or the rights in force in the event of the delivery of the defective or defective goods.'}]
+6.
+[{'translation_text': 'Information about the goods'}]
+6.
+1.
+[{'translation_text': 'We are not a producer: We are not a producer of the goods sold by us.'}]
+[{'translation_text': 'Although we are trying to ensure that the Goods comply with the description, satisfactory quality and fit for use, there may be slight discrepancies between the Goods and their description.'}]
+[{'translation_text': 'Before using the Product, we encourage you to read any accompanying labels, warnings and recommendations.'}]
+[{'translation_text': 'Any guarantees issued by us, by the manufacturer or importer shall not affect the rights and claims arising from the contract.'}]
+6.
+2.
+[{'translation_text': 'Accuracy of descriptions: We make every reasonable effort to give the best possible colors and other details of the Product.'}]
+[{'translation_text': 'Colours and details visible in advertising materials depend, however, on the device used to view the Goods.'}]
+[{'translation_text': 'We cannot guarantee that the colours or other details displayed on the TV screen, mobile device, computer monitor or other device will be a precise reflection of the colour and details of the supplied Goods.'}]
+6.
+3.
+[{'translation_text': 'Medicinal products and safety: In case of any doubt or in order to obtain additional information about the product, we recommend that you carefully read the information accompanying the product or contact the manufacturer.'}]
+[{'translation_text': 'Content posted on the website should not be considered as an alternative to advice from a doctor, pharmacist or other authorised medical professional.'}]
+[{'translation_text': 'Customers should contact their doctor immediately if they suspect a medical condition.'}]
+[{'translation_text': 'The information and statements relating to the Goods shall not be intended to diagnose or prevent the disease or health condition or treatment of disease or health condition.'}]
+[{'translation_text': 'We are not responsible for any inaccuracies or misconceptions concerning the Goods on the side of the manufacturer or other third parties.'}]
+7.
+[{'translation_text': 'Liability'}]
+7.
+1.
+[{'translation_text': 'Our standards of doing business: We always try to act in the best way possible and declare that:'}]
+[{'translation_text': '(a) we shall make the utmost use of our skills and exercise care in carrying out our duties under these Terms of Sale;'}]
+[{'translation_text': '(b) we have the right to sell the Goods;'}]
+[{'translation_text': '(c) goods are sold exclusively for private and domestic use;'}]
+[{'translation_text': '(d) The goods are of satisfactory quality and are in accordance with their intended purpose, and'}]
+[{'translation_text': '(e) in our actions we will not violate the requirements of professional diligence.'}]
+7.
+2.
+[{'translation_text': 'This point 7 is superior to all other points (except point 1.'}]
+[{'translation_text': '5) and defines the total scope of our responsibility.'}]
+7.
+3.
+[{'translation_text': 'We are responsible for this: No provision in these Terms of Sale excludes or limits our liability for (i) fraud; (ii) serious irregularities on our part, excluding serious irregularities from other entities; or (iii) liability which cannot be excluded or reduced under applicable law.'}]
+[{'translation_text': 'You are obliged to take appropriate measures to prevent or reduce damage.'}]
+7.
+4.
+[{'translation_text': 'The categories of losses for which we are not liable: Subject to point 0, because we are only dealing with the sale of the Goods for domestic and private use, in principle we are not liable for the following categories of losses: (a) loss of income; (b) loss of actual or expected profit; (c) loss of business opportunities; and (d) indirect or secondary losses (in order to avoid misunderstandings, the return of secondary losses shall be understood as secondary losses if they are predictable, known, foreseen, etc.).'}]
+7.
+5. „
+[{'translation_text': 'Liability shall mean liability for any legal basis (including breach of contract, unlawful acts, misleading, restitution or other) relating to or arising from these Terms of Sale or related thereto (including liability expressly laid down in these Terms of Sale or resulting from nullity or failure to enforce any provision of these Terms of Sale).'}]
+8.
+[{'translation_text': 'General provisions'}]
+8.
+1.
+[{'translation_text': 'Interpretation: For the purposes of these Terms of Sale:'}]
+[{'translation_text': '(a) the words meaning persons relate to natural persons, partnerships, partnerships where the liability of one or more of the partners is limited, legal persons and collective entities without legal personality;'}]
+[{'translation_text': '(b) point headers e.g.'}]
+8.
+[{'translation_text': 'General provisions at the beginning of this point) and the titles of points (e.g.'}]
+[{'translation_text': 'Interpretation: at the beginning of this paragraph 8.'}]
+[{'translation_text': '1. are given only for reference purposes and have no effect on the interpretation of these Terms of Sale; and'}]
+[{'translation_text': '(c) the term "inclusive" is understood to include, inter alia, "including without limitation."'}]
+8.
+2.
+[{'translation_text': 'Non-conclusion of the Company Agreement / No Power of attorney: None of the provisions of these Terms of Sale should be interpreted as establishing a joint venture relationship, a partnership agreement or the granting of a power of attorney between the User and us.'}]
+[{'translation_text': 'None of the parties has the right or authority to accept obligations, debts or charges or to conclude any contract on behalf of the other party.'}]
+8.
+3.
+[{'translation_text': 'Passion: You may not assign, transfer or otherwise transfer rights or obligations under these Terms of Sale without our prior written consent.'}]
+[{'translation_text': 'We will not refuse such consent without due justification.'}]
+[{'translation_text': 'We reserve the right to assign or transfer to any person all or part of our rights or obligations under these Terms of Sale.'}]
+8.
+4.
+[{'translation_text': 'Events beyond our reasonable control: We are not responsible for failing to comply with any of the provisions of this Agreement if the fulfilment of our obligations has been hindered or prevented for reasons beyond our reasonable control.'}]
+[{'translation_text': 'In the event of such an event which prevented us from fulfilling our obligations under these Terms of Sale, we will be obliged to do so for the duration of such an event, as we will inform you as soon as possible.'}]
+[{'translation_text': 'Once the event has stopped, you and I will set a new date for delivery of the Goods, if possible.'}]
+8.
+5.
+[{'translation_text': 'What we base on: With regard to the sale of the Goods to the User, our assumption is that we are based solely on written provisions of these Terms of Sale, not on statements made by other means.'}]
+8.
+6.
+[{'translation_text': 'No waiver: Any waiver by us of our rights as a result of your breach of these Terms of Sale will not result or be interpreted as a waiver by us of any right which we may enjoy as a result of such violation in the future, regardless of the nature of the breach.'}]
+[{'translation_text': 'Any delay on our part in taking actions that we may take as a result of violation of these Terms of Sale by you will not release, release or otherwise affect your liability under these Terms of Sale.'}]
+8.
+7.
+[{'translation_text': 'Declarations: Unless otherwise specified in these Terms of Sale, statements made to the parties must be in writing and must be delivered to their own hands in electronic form (except when the User sends us a statement in connection with legal steps) or sent by delivery paid by the sender to the address indicated by the User or to our address.'}]
+8.
+8.
+[{'translation_text': 'No third party rights: All provisions of these Terms of Sale apply to the same extent and act in favour of Groupon Goods, its subsidiaries, Groupon Goods holding companies, its (or its) affiliate companies and its (or their) external content suppliers and licensors.'}]
+[{'translation_text': 'Each of these entities shall have the right to seek and enforce these provisions directly or on its own behalf (unless these Terms of Sale are subject to change or cancellation without the consent of the entities listed).'}]
+[{'translation_text': 'Subject to the preceding sentence, none of the provisions of these Terms of Sale may be enforced by any other party to these Terms.'}]
+8.
+9.
+[{'translation_text': 'Maintaining legal force: Notwithstanding the circumstances, paragraphs 1, 2, 4, 7 and 8 of these Terms of Sale, together with provisions which are clearly indicated as in force after expiry or after expiry of these Terms of Sale, and the nature or context of which indicates that they also apply after expiry of these Terms of Sale, shall also apply after termination of the Agreement.'}]
+8.
+10.
+[{'translation_text': 'Salvation clause: If any provision of these Terms of Sale is found to be unlawful, invalid or unenforceable, it shall be removed from the Terms of Sale and this fact shall not affect the validity of the other provisions.'}]
+[{'translation_text': 'The validity and enforceability of the other provisions of the Terms of Sale shall not change.'}]
+8.
+11.
+[{'translation_text': 'Applicable law and dispute settlement: We will make every effort to resolve any disputes related to these Terms of Sale.'}]
+[{'translation_text': 'If you intend to bring an action against us, these Terms of Sale (including all non-contractual relations between us and you) are governed by Polish law and will be interpreted in accordance with this law.'}]
+[{'translation_text': 'Both parties hereby submit to the exclusive jurisdiction of the competent courts in Poland.'}]
+[{'translation_text': 'The Parties agree that the provisions of the United Nations Convention on the International Sale of Goods do not apply to this transaction.'}]
+9.
+[{'translation_text': 'Customer service'}]
+[{'translation_text': 'Contact details:'}]
+[{'translation_text': 'Contact e-mail or chat with Customer Service'}]
+[{'translation_text': 'Terms of Sale Groupon International Travel Gmbh'}]
+1.
+[{'translation_text': 'General information'}]
+1.
+[{'translation_text': '1 These Terms of Sale apply to each Coupon purchased from Groupon.'}]
+1.
+[{'translation_text': '2 Groupon means Groupon International Travel GmbH, a company established under Swiss law, registered in Switzerland, based at c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Switzerland.'}]
+[{'translation_text': "Groupon's registration number is CH-180."}]
+110.
+[{'translation_text': '104 and NIP number: CHE-349.'}]
+386.
+564.
+1.
+[{'translation_text': '3 Coupon means an instrument, in physical or electronic form, which entitles the holder of the Coupon (hereinafter referred to as "the Coupon holder") to: receive the Partner\'s Offering from the Partner, or within the time limit indicated in the Coupon (hereinafter referred to as "the implementation term").'}]
+1.
+[{'translation_text': "4 The Partner's offer means goods or services provided to the Coupon Holder by the Partner, in accordance with the rules made available on the Groupon Portal and on the Coupon."}]
+1.
+[{'translation_text': "5 The partner is a non-binding third party to Groupon selling or supplying the Partner's offer."}]
+[{'translation_text': "Groupon does not sell or deliver the Partner's offer."}]
+[{'translation_text': 'Groupon only deals with the sale and delivery of Coupons.'}]
+1.
+[{'translation_text': '6 These Terms of Sale were last updated on 27.'}]
+06.
+2017.
+[{'translation_text': 'Groupon reserves the right to unilaterally amend these Terms of Sale at any time.'}]
+[{'translation_text': 'Any changes to these Terms of Sale will be published online.'}]
+[{'translation_text': 'The version applicable to you is only the version of the Terms of Sale to which the User consented when purchasing the Coupon.'}]
+2.
+[{'translation_text': 'Purchase of a Coupon'}]
+2.
+[{'translation_text': '1 The coupon can only be purchased by persons who are over 18 years of age.'}]
+[{'translation_text': 'Before making a purchase, register and create an account at the Groupon International Limited Portal.'}]
+2.
+[{'translation_text': '2 Clicking on the "Finish Buy" button will send a coupon offer to Groupon.'}]
+[{'translation_text': "However, the transaction will only be completed successfully when Groupon receives an e-mail confirming the acceptance of the User's offer."}]
+[{'translation_text': "Groupon expressly reserves the right to reject the User's offer."}]
+[{'translation_text': 'In addition, even if Groupon accepted the offer, it may withdraw from the contract at any time in case of reasonable suspicion that the User has committed or may commit fraud against Groupon, a third party associated with Groupon or a Partner.'}]
+2.
+[{'translation_text': "3 The Partner may use its own terms and conditions for the sale, delivery or delivery of the Partner's Offering."}]
+3.
+[{'translation_text': 'Implementation of the Coupon'}]
+3.
+[{'translation_text': '1 Unless expressly stated otherwise:'}]
+[{'translation_text': '(a) The coupon can only be made once;'}]
+[{'translation_text': '(b) The coupon can only be made with the Partner and not at the head office of Groupon;'}]
+[{'translation_text': '(c) The coupon shall be valid only for one person; and'}]
+[{'translation_text': "(d) during the implementation of the Partner's Coupon, follow the instructions related to the Coupon."}]
+3.
+[{'translation_text': '2 In order to implement the Coupon, it should be presented to the Partner on the Date of implementation.'}]
+[{'translation_text': 'The coupon not realized in the Implementation Date automatically expires.'}]
+[{'translation_text': 'A coupon whose validity has expired cannot be fulfilled.'}]
+3.
+[{'translation_text': "3 If the Partner's offer at the Groupon Portal is an offer at the same time placing an order, Groupon will download the data for shipping at the time of purchase."}]
+[{'translation_text': 'The Groupon will then provide the data to the Partner on your behalf.'}]
+[{'translation_text': "The partner will consider the application for the implementation of the Coupon and send the Partner's offer to you."}]
+3.
+[{'translation_text': "4 Unless expressly stated otherwise, the Coupon does not entitle the Coupon holder to receive the Partner's Offering within a specified period of time."}]
+[{'translation_text': "We suggest you contact your Partner as soon as possible to agree on a convenient date for the delivery of goods or services covered by the Partner's offer."}]
+[{'translation_text': "Groupon does not affect the supply of goods or services covered by the Partner's offer."}]
+3.
+[{'translation_text': "5 In the case of exchange of a Coupon for goods or services outside the Partner's Offering, you shall not be entitled to credit, cash refund or new Coupon for the difference between the value of the Partner's Offering and the actual value of the goods or services supplied or provided to you by the Partner."}]
+3.
+[{'translation_text': '6 Coupons can only be made in full.'}]
+[{'translation_text': "If, for any reason, the Coupon is exchanged with the Partner for goods/services of less than the original value (without discount) of the Partner's Offering, you will not be entitled to credit, cash refund or new Coupon for the difference between the original (without discount) value and the value of the goods/services for which the Coupon is replaced."}]
+3.
+[{'translation_text': '7 Groupon may charge a reservation fee or other costs associated with the purchase or execution of the Coupon on behalf of the Partner.'}]
+[{'translation_text': 'Any such costs (if any) will be presented to you before buying the Coupon.'}]
+3.
+[{'translation_text': "8 If, due to unforeseen circumstances, the Partner is unable to deliver the Partner's Offering as described, Groupon will notify you immediately by e-mail."}]
+[{'translation_text': "Groupon will offer you a new coupon offering comparable benefits (if available) or a refund of the Coupon's price."}]
+4.
+[{'translation_text': 'Use of the Coupon'}]
+4.
+[{'translation_text': '1 The coupon can only be purchased for personal, non-commercial use (where the coupon can be transferred to another person for personal, non-commercial use).'}]
+[{'translation_text': 'The reproduction of Coupons shall be prohibited.'}]
+[{'translation_text': 'Professional trade in Coupons is prohibited.'}]
+4.
+[{'translation_text': '2 You have sole responsibility for the Coupon.'}]
+[{'translation_text': 'Neither Groupon nor Partner are responsible for lost or stolen Coupons or for recovering bid numbers or security codes.'}]
+4.
+[{'translation_text': '3 You undertake not to give false data, including false names, address data or contact details, or details of payments; you also undertake not to take any illegal action concerning the acquisition or use of the Coupon, as well as to prevent other persons from taking such action.'}]
+4.
+[{'translation_text': '4 Any attempt to implement the Coupon contrary to the Terms of sale may lead to the cancellation of the Coupon at the discretion of Groupon.'}]
+5.
+[{'translation_text': 'Cancellation (and exceptions), reimbursement of money and problems'}]
+5.
+[{'translation_text': '1 You have the statutory right to withdraw from the purchase contract of the Coupon within 14 calendar days of receipt of the confirmation by e-mail (hereinafter referred to as "the time limit for withdrawal from the purchase contract of the Coupon").'}]
+[{'translation_text': 'However, when implementing the Coupon within the time limit within which you have the right to withdraw from the Coupon purchase contract, you expressly order the start of the provision of services within that time limit and acknowledge that you waive the right to withdraw from the Coupon purchase contract.'}]
+[{'translation_text': "Since Groupon is not responsible for delivering the Partner's Offering, you are not entitled to a refund (in whole or in part) after the execution of the Coupon."}]
+[{'translation_text': 'In order to avoid doubt, this paragraph shall also apply to any tenders at the same time as placing an order.'}]
+5.
+[{'translation_text': '2 The right to withdraw from the purchase contract of the Coupon may be exercised as follows:'}]
+5.
+2.
+[{'translation_text': '1 by filling in and sending the form'}]
+5.
+2.
+[{'translation_text': '2 via e-mail or chat with Customer Service ;'}]
+5.
+2.
+[{'translation_text': '3 by sending a letter to the address referred to in paragraph 1.'}]
+2.
+5.
+[{'translation_text': "3 If you withdraw from the purchase contract of the Coupon in accordance with Section 5, Groupon will refund the value of all payments made in the purchase within 14 calendar days from the date of notification of Groupon's withdrawal from the contract."}]
+5.
+[{'translation_text': "4 If you have completed the Coupon, but the Partner has not delivered the Partner's Offering as ordered, or if you have reservations about the submission of the Partner's Offering, the claim must be made directly to the Partner."}]
+[{'translation_text': "This is because it is the Partner, not Groupon, who is responsible for delivering the Partner's offer."}]
+[{'translation_text': 'Groupon only deals with the sale and delivery of Coupons.'}]
+[{'translation_text': 'However, if you are unable to reach an agreement with your Partner on your reservations, Groupon may, at your request, help resolve the dispute between you and your Partner.'}]
+5.
+[{'translation_text': '5 In the absence of a different statement made to Groupon explicitly, any refund of cash will be made through the original method of payment.'}]
+[{'translation_text': 'If the original payment method has been cancelled, expired or changed, please inform the Customer Service Department https://www.groupon.pl/customer_support immediately.'}]
+[{'translation_text': 'If you do not make an appropriate statement and the refund is made using the original payment method, you may need to contact the bank or payment service provider to obtain the refund.'}]
+[{'translation_text': "Groupon won't make more than one refund."}]
+5.
+[{'translation_text': '6 The refund may be rejected within 30 days of receipt of the refund.'}]
+[{'translation_text': 'If the refund is not rejected within 30 days, it will constitute the full and final satisfaction of any claims against the Groupon concerning the Coupon resulting from or related to the Coupon.'}]
+6.
+[{'translation_text': "Responsibility for the Partner's offer"}]
+6.
+[{'translation_text': '1 It should be noted that the Partner, not the Groupon, is:'}]
+6.
+1.
+[{'translation_text': '1 the seller or supplier of the Partner Offering;'}]
+6.
+1.
+[{'translation_text': '2 a party concluding an agreement with the holder of the coupon in the event of its execution; and'}]
+6.
+1.
+[{'translation_text': "3 the exclusive entity responsible for providing the Partner's Offering to the Holder and the Partner's Offering itself."}]
+7.
+[{'translation_text': 'Standards of provision of services and liability Groupon'}]
+7.
+[{'translation_text': '1 Groupon declares that:'}]
+7.
+1.
+[{'translation_text': '1 shall make every effort to fulfil its obligations under these Terms of Sale;'}]
+7.
+1.
+[{'translation_text': '2 Coupons are of satisfactory quality and useful for the purpose for which they were created; and'}]
+7.
+1.
+[{'translation_text': '3 will not violate the requirements of fairness and professional care in terms of the services they provide.'}]
+7.
+[{'translation_text': '2 Groupon is always responsible for: (a) death or injury caused by negligence/reckoning negligence; (b) fraud or deliberate misleading by Groupon; or (c) any implied contractual provisions which are not exempted or restricted under applicable law.'}]
+7.
+[{'translation_text': '3 Except as provided for in point 7.'}]
+[{'translation_text': '2 Groupon assumes no liability for other losses or losses incurred, including indirect or secondary losses.'}]
+7.
+[{'translation_text': '4 Groupon does not guarantee the completeness, utility or legality of the Partner Offering.'}]
+[{'translation_text': "Groupon is not responsible for the quality, safety, usability or other features of the items covered by the Partner's Offering."}]
+7.
+[{'translation_text': '5 Groupon shall not be liable for any breach of the obligation under these Terms of Sale if the fulfilment of the obligation has been prevented or impeded for reasons beyond its control.'}]
+7.
+[{'translation_text': '6 Excepting the liability arising from point 7.'}]
+[{'translation_text': "2, which is unlimited, the Groupon's total liability to you will not exceed, regardless of circumstances, the value of 100% of the price of the Coupon."}]
+7.
+[{'translation_text': '7 The law of certain countries does not allow certain or all exemptions or restrictions set out in point 7.'}]
+[{'translation_text': 'If you are subject to such provisions, some or all of the above exemptions or restrictions may not apply to you and you may be entitled to additional rights.'}]
+8.
+[{'translation_text': 'Groupon Portal'}]
+[{'translation_text': 'The Groupon Portal (hereinafter "Portal") means a website, mobile applications, electronic forms of communication or service, or any location in which a Coupon can be purchased from the Groupon.'}]
+[{'translation_text': 'The portal on which Groupon offers Coupons is owned by Groupon International Limited.'}]
+[{'translation_text': 'For more information on the Terms of Use of Groupon International Limited, which are explicitly included in these Terms of Sale, please refer to here .'}]
+9.
+[{'translation_text': 'Miscellaneous provisions'}]
+9.
+[{'translation_text': '1 If you violate these Terms of Sale and Groupon does not take any action against you, this does not mean that Groupon waives the rights and remedies involved in the infringement.'}]
+[{'translation_text': 'Groupon retains the right to act or exercise rights or remedies for the infringement in question or for any breach of obligations under these Terms of Sale.'}]
+9.
+[{'translation_text': '2 Unless expressly specified in these Terms of sale, any statements between the parties must be made in writing and delivered by e-mail (except for a declaration sent to Groupon in connection with legal action) or paid by the sender by post.'}]
+[{'translation_text': 'Groupon will send any statements to the address given during the registration of the Groupon account.'}]
+[{'translation_text': 'All statements addressed to Groupon may be sent to the address of the premises referred to in point 1.'}]
+2.
+9.
+[{'translation_text': '3 If any of the provisions of these Terms of Sale are declared invalid or not feasible, that fact shall not affect the validity and enforceability of the other provisions.'}]
+[{'translation_text': 'The provisions of these Terms of Sale which have been declared void or unenforceable shall be replaced by such valid and enforceable provisions which shall ensure that the economic result is the most similar to that which provided for the provisions deemed void or unenforceable.'}]
+9.
+[{'translation_text': '4 These Terms of sale are subject to and should be interpreted in accordance with the laws of Poland, excluding those of private international law.'}]
+[{'translation_text': 'Any dispute will be governed by the exclusive jurisdiction of the competent courts in Poland.'}]
+[{'translation_text': 'Terms and Conditions Booking Groupon International Travel GmbH'}]
+1.
+[{'translation_text': 'Basic information on these conditions'}]
+1.
+1.
+[{'translation_text': 'Groupon International Travel GmbH: Groupon International Travel GmbH is a company registered in Switzerland under CHE-180-110.'}]
+[{'translation_text': '104 headquartered at c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Switzerland (hereinafter referred to as "Groupon Travels\', "nam\', "my\', "ours\', etc.), and NIP number: CHE-349.'}]
+386.
+564.
+[{'translation_text': 'Groupon Travel has travel insurance covering all damages and losses incurred by customers.'}]
+[{'translation_text': 'Groupon Travel has a bank guarantee issued by Deutsche Bank.'}]
+1.
+2.
+[{'translation_text': 'Groupon Travel and Service Providers: We act as agents on behalf of the Service Provider.'}]
+[{'translation_text': 'It is the Service Provider (or, in some cases, the intermediary of the Service Provider) who is legally responsible for providing you with accommodation.'}]
+[{'translation_text': 'If we act as agents, we are not legally responsible for your accommodation unless it comes from our fault or from mandatory laws.'}]
+1.
+3.
+[{'translation_text': 'What are these terms?'}]
+[{'translation_text': 'Please read these terms carefully as they refer to the use of the Services, Booking Calendar, Booking and Purchase of Accommodation (or others).'}]
+[{'translation_text': 'These conditions are a legal document constituting an agreement between you and Groupon Travel.'}]
+[{'translation_text': 'Service providers have their own applicable conditions.'}]
+[{'translation_text': 'This Agreement shall be subject to any applicable terms and conditions of the Service Provider and the Booking shall be equivalent to their acceptance.'}]
+[{'translation_text': 'If there are non-compliances between this Agreement and the terms of the Service Provider, the terms of the Service Provider shall be overriding.'}]
+1.
+4.
+[{'translation_text': 'This Agreement: By using the Booking Calendar, you accept this Agreement and conclude it with us on the terms and conditions described therein.'}]
+1.
+5.
+[{'translation_text': 'State law: None of the parts of this Agreement may affect you that do not exempt your statutory rights as a customer.'}]
+1.
+6.
+[{'translation_text': 'Updates of this Agreement: This Agreement was last updated on 27.'}]
+06.
+2017.
+[{'translation_text': 'We reserve the right to amend this Agreement (which we will post on the website) at any time.'}]
+[{'translation_text': 'Any amendments made to this Agreement after you have made your Booking, do not include you in relation to this Accommodation.'}]
+1.
+7.
+[{'translation_text': 'Definitions: This Agreement covers different defined terms.'}]
+[{'translation_text': 'You recognize them because they start with a big letter.'}]
+[{'translation_text': 'The time limits are defined in the content of this Agreement and in paragraph 13 of this Agreement.'}]
+2.
+[{'translation_text': 'Your obligations under this Agreement'}]
+2.
+1.
+[{'translation_text': 'Lower age limit: Only 18-year-olds can make reservations and purchase Accommodation.'}]
+[{'translation_text': 'By Booking or Purchase of Accommodation you confirm your age.'}]
+2.
+2.
+[{'translation_text': 'Accuracy of information and disclosure: You understand and accept the fact that Groupon Travel and the Service Provider reserve the right to cancel Accommodation at any time due to the failure of you to provide relevant information (i.e. your name, address, telephone number, information needed to issue an account) regarding you or the persons for whom you book such Accommodation.'}]
+[{'translation_text': 'In this case, you may be charged the costs of such cancellation.'}]
+[{'translation_text': 'You guarantee that:'}]
+2.
+2.
+1.
+[{'translation_text': 'all information provided by you pursuant to or related to this Agreement is true, complete and accurate;'}]
+2.
+2.
+2.
+[{'translation_text': 'You will immediately inform us of any changes related to the accuracy of your information;'}]
+2.
+2.
+3.
+[{'translation_text': 'take responsibility for the disclosure of any information about yourself or any other person for whom you make a Booking which may affect your (or those persons) ability to travel, such as committing crimes or prior deportations from the countries to which you are to travel; and'}]
+2.
+2.
+4.
+[{'translation_text': 'if the State or persons for whom you make a Booking plan to travel to an area of jurisdiction (including the United States) where a certificate of non-criminality is required, and the State or persons for which you make a Booking have been punished, including road traffic offences, you shall inform the existence of such circumstances at the time of the Booking.'}]
+2.
+2.
+5.
+[{'translation_text': "you are aware of any rules concerning crossing the border of the country to which you travel, as regards: passport requirements, two empty pages in your passport, 3 months' validity, no criminal record, visa, vaccination, administrative and sanitary restrictions."}]
+[{'translation_text': 'Groupon Travel shall not be liable for restrictions on entry into the territory unless such liability arises from our fault.'}]
+2.
+3.
+[{'translation_text': 'Making Bookings for other persons: If you make Bookings for other persons, you declare that you are authorised to make such Bookings on behalf of those persons and that all persons in the Booking (or their personal representatives) consider this Agreement binding.'}]
+2.
+4.
+[{'translation_text': 'Behavior: You are committed to the behaviour of non-threatening others to anger, anxiety or danger and/or not causing damage to property when you use the Accommodation.'}]
+[{'translation_text': 'If you (or persons for whom you make a Booking are) arrested or stopped from travelling further, or are removed from the Accommodation by decision of the Service Provider, we will not reimburse you on his behalf any part of the costs incurred in connection with the Accommodation which you cannot benefit from due to your behaviour (or the behaviour of the persons for whom you make the Booking).'}]
+[{'translation_text': 'You agree, in accordance with this Agreement, to compensate us for the losses, liabilities or costs incurred as a result of claims or legal proceedings which have been brought or which may be brought against us by any person in connection with your conduct if such claims arise from your fault.'}]
+2.
+5.
+[{'translation_text': 'Fraud: If we or the Service Provider are notified or found out about potential or actual fraud or unlawful action in respect of any payment related to Accommodation, we reserve the right to cancel your Accommodation at our discretion and immediately.'}]
+[{'translation_text': 'In this case, you may be charged the costs of such cancellation.'}]
+[{'translation_text': 'Such cancellation will take place without prejudice to any of our rights with regard to you.'}]
+3.
+[{'translation_text': 'Agreement concerning travel products'}]
+3.
+1.
+[{'translation_text': 'The service provider is legally responsible for providing Accommodation (although we remain responsible for complying with the terms of this Agreement and with mandatory legal provisions).'}]
+[{'translation_text': 'We will inform you of the terms and conditions of the Service Provider regarding your Accommodation, as appropriate.'}]
+[{'translation_text': 'When purchasing, you declare that you understand and accept the fact that you are responsible for the compliance with the instructions and conditions of each Service Provider.'}]
+3.
+2.
+[{'translation_text': 'Accommodation: If you make a Booking through us, the contract for delivery of the Accommodation will be concluded between you and the Service Provider.'}]
+4.
+[{'translation_text': "Reservation of travellers' products"}]
+4.
+1.
+[{'translation_text': 'Booking: If available Booking:'}]
+4.
+1.
+1.
+[{'translation_text': 'via the Internet, through the Groupon International Limited Site or another, through which we make the Accommodation available.'}]
+4.
+2.
+[{'translation_text': "Make a Booking: To make an Online Booking, select Accommodation by Booking Calendar, room type and travel dates, click on the 'Book' button, enter payment information, e-mail address and other details and click the 'Find Order' button."}]
+[{'translation_text': 'After these steps the reservation will be made and you will receive an e-mail with notification of the Booking.'}]
+[{'translation_text': 'The confirmation email contains all relevant details of the Accommodation.'}]
+4.
+3.
+[{'translation_text': 'Checking the booking confirmation: Please carefully check the details contained in the booking confirmation after receiving it.'}]
+[{'translation_text': 'If you notice any discrepancies between the Booking and the e-mail with the confirmation of the Booking or if you have not received this message, please contact the Customer Service Department immediately.'}]
+5.
+[{'translation_text': 'Prices'}]
+5.
+1.
+[{'translation_text': 'To whom you pay: All payments made by you for Accommodation will be sent to Groupon Travel.'}]
+[{'translation_text': 'Upon approval of your payment, your reservation will be accepted and you will receive an email with confirmation of your reservation.'}]
+5.
+2.
+[{'translation_text': 'Final price: We reserve the right to change prices Accommodation prior to reservation in accordance with the terms of the Service Provider.'}]
+[{'translation_text': 'You will be notified exactly of the current accommodation price prior to booking.'}]
+[{'translation_text': 'These prices may differ from those originally given to you.'}]
+5.
+3.
+[{'translation_text': 'Booking fees: If a credit card or American Express payment method is selected, the confirmed Booking can be charged with a handling fee.'}]
+[{'translation_text': 'No additional fees will be charged for payments for purchases made by debit cards, including in the system "solo\' and "switch\'.'}]
+[{'translation_text': 'All applicable fees will be notified to you before booking.'}]
+5.
+4.
+[{'translation_text': 'Taxes: In some countries, local authorities may impose taxes, charges, import duties, duties, additional charges and other charges (collective taxes).'}]
+[{'translation_text': 'Existing booking taxes will be clearly specified in small print under the terms of the Service Provider.'}]
+[{'translation_text': 'The final price includes all taxes due.'}]
+[{'translation_text': 'Note: The responsibility for paying all such taxes rests solely with you.'}]
+5.
+5.
+[{'translation_text': 'Extras: Please be advised that you can purchase additional services when you use the Accommodation.'}]
+[{'translation_text': 'Such additional services include meals and Internet access in the hotel, etc.'}]
+[{'translation_text': 'Additional services.'}]
+[{'translation_text': 'If such Additional Services have not been purchased as part of the Accommodation via the Booking Calendar, then payment is your financial obligation to the Service Provider and Groupon Travel is not responsible for providing such Additional Services, their standard or your use of them, nor is it liable to any other extent.'}]
+5.
+6.
+[{'translation_text': 'Price changes Accommodation after booking: According to item 6 Groupon Travel will not change the price of Accommodation.'}]
+5.
+7.
+[{'translation_text': 'Returns: If you receive reimbursement of part or all of the costs, such reimbursement will be made by the same method of payment that you used when making payments.'}]
+5.
+8.
+[{'translation_text': 'Currency: We will specify exactly the final price in the currency in which the fee will be charged.'}]
+[{'translation_text': 'Accommodation prices given in other currencies are purely for information.'}]
+[{'translation_text': 'Groupon Travel is not responsible for changing prices in other currencies as they may result from the exchange rate of the currency used by your bank.'}]
+[{'translation_text': 'You are responsible for verifying the exchange rate on your own.'}]
+6.
+[{'translation_text': 'Amendments and cancellations'}]
+6.
+1.
+[{'translation_text': 'If you change your Accommodation'}]
+6.
+1.
+1.
+[{'translation_text': 'Groupon Travel is unable to change the following data: check-in and check-out dates, travel duration and room type.'}]
+[{'translation_text': 'Only the name of the traveller can be changed.'}]
+[{'translation_text': 'You can do this by contacting the Customer Service Department.'}]
+[{'translation_text': 'The final decision to make such changes is ours.'}]
+[{'translation_text': 'If you wish to change your name in your Accommodation and Groupon Travel agrees, you will be charged the appropriate costs.'}]
+[{'translation_text': 'Before the change is made, you will be thoroughly informed of the amount of such costs.'}]
+[{'translation_text': 'If you wish to make changes to the Accommodation other than the name of the traveler, you can cancel such accommodation (according to section 6.)'}]
+[{'translation_text': '2 below) and make a rebooking if it is still available.'}]
+6.
+1.
+2.
+[{'translation_text': 'The provisions of section 6.'}]
+[{'translation_text': '1 does not restrict your statutory rights to any extent.'}]
+6.
+2.
+[{'translation_text': 'In case of cancellation by your Accommodation'}]
+6.
+2.
+1.
+[{'translation_text': 'You can cancel Accommodation at any time before check-in by contacting the Customer Service Department.'}]
+[{'translation_text': 'As we bear the costs due to your cancellation, you will need to pay an appropriate cancellation fee.'}]
+[{'translation_text': 'Such fees may also be imposed by service providers.'}]
+[{'translation_text': 'We will inform you of all cancellation fees at the time of your booking or upon receipt of our cancellation request.'}]
+[{'translation_text': 'In most cases you can cancel Accommodation without payment of cancellation fee no later than fifteen (15) days before the date of check-in.'}]
+[{'translation_text': 'If the conditions of the insurance policy take into account the reason for your cancellation, you can apply for a refund of the cancellation fee under this policy.'}]
+6.
+2.
+2.
+[{'translation_text': 'Please note that in some cases the cancellation fee is equal to the value of the entire Accommodation.'}]
+[{'translation_text': 'In such a case, cancellation may mean no reimbursement.'}]
+[{'translation_text': 'If the cancellation occurs because of your fault or will be your conscious decision, then we have the right to retain the portion of your payment that will be needed to cover, to a reasonable extent, the cancellation costs of our accommodation with the Service Provider.'}]
+6.
+3.
+[{'translation_text': 'If you change Accommodation by us or Service Provider'}]
+6.
+3.
+1.
+[{'translation_text': 'Sometimes the Service Provider will be forced to make a significant or insignificant change in your Accommodation.'}]
+[{'translation_text': 'We will notify you of such changes as soon as possible by sending you an updated booking confirmation containing details of the current Accommodation.'}]
+[{'translation_text': 'If the Service Provider makes a major or insignificant change, you can cancel the Accommodation free of charge and receive a full refund.'}]
+[{'translation_text': 'You may also choose to use a replacement accommodation if offered by the Service Provider.'}]
+[{'translation_text': 'We are not responsible for such changes because we are not a Service Provider unless such an important or insignificant change is due to our fault.'}]
+6.
+4.
+[{'translation_text': 'If you change Accommodation by us or Service Provider Groupon Travel reserves the right to cancel Accommodation for any reason if this cancellation is the result of Force majeure.'}]
+[{'translation_text': 'In this case, we will refund the payment minus the costs incurred by us or the Service Provider in connection with the Reservation.'}]
+6.
+5.
+[{'translation_text': 'If you do not appear at the Accommodation site without prior notification, you will be deemed to have been cancelled.'}]
+7.
+[{'translation_text': 'Service delivery standards'}]
+7.
+1.
+[{'translation_text': 'Groupon Travel ensures that:'}]
+7.
+1.
+1.
+[{'translation_text': 'make the best possible use of its skills and care in the performance of its duties under this Agreement;'}]
+7.
+1.
+2.
+[{'translation_text': 'is authorised to share the Services offered on authorised websites and'}]
+7.
+1.
+3.
+[{'translation_text': 'in its activities it will not violate the requirements of professional diligence.'}]
+8.
+[{'translation_text': 'Limitation of liability'}]
+8.
+1.
+[{'translation_text': 'Limitation of liability: Paragraph 8 is paramount to all other points of this Agreement and determines the overall responsibility of Groupon Travel in relation to:'}]
+8.
+1.
+1.
+[{'translation_text': 'compliance with, non-compliance, alleged or delayed compliance with the terms of this Agreement or the supply, undersupply, alleged or delayed provision of Services or Accommodation (or any part thereof) or'}]
+8.
+1.
+2.
+[{'translation_text': 'other aspects relating to this Agreement, its conclusion and compliance with its provisions.'}]
+8.
+2.
+[{'translation_text': 'No liability for Accommodation from the Service Provider if we act as its agents: If we act as service Providers Agents, it is our duty to choose them with due diligence and skills.'}]
+[{'translation_text': 'If (i) we have shown due diligence and skill in selecting Service Providers, and (ii) if permitted by law, we are not responsible for providing you with accommodation or for acts or omissions on the part of the Service Provider unless such actions or omissions result from our fault.'}]
+[{'translation_text': 'This is because the legal contract is concluded between you and the Service Provider and the legal responsibility for providing Accommodation lies with the Provider (not Groupon Travel).'}]
+8.
+3.
+[{'translation_text': 'When we are not responsible: We are not responsible for failing to comply with the terms of the Agreement if it is not due to our fault, but: 8.'}]
+3.
+1.
+[{'translation_text': 'results from reasons attributable to you; 8.'}]
+3.
+2.
+[{'translation_text': 'results from reasons attributable to the Service Provider; 8.'}]
+3.
+3.
+[{'translation_text': 'results from reasons related to negligence on the part of third parties not related to the provision of accommodation or the result of Force majeure; or 8.'}]
+3.
+4.
+[{'translation_text': 'is the result of Force Higher which prevents us from carrying out activities in accordance with this Agreement.'}]
+8.
+4.
+[{'translation_text': 'Limitation of liability in relation to Accommodation: We disable and limit our responsibility for all accommodation obligations that may be declared inadmissible under the law, in particular if this obligation is not due to our fault.'}]
+[{'translation_text': 'We are not responsible for: 8.'}]
+4.
+1.
+[{'translation_text': 'income loss; 8.'}]
+4.
+2.
+[{'translation_text': 'loss of actual or anticipated profits; 8.'}]
+4.
+3.
+[{'translation_text': 'loss of contracts; 8.'}]
+4.
+4.
+[{'translation_text': 'losing the opportunity to use money; 8.'}]
+4.
+5.
+[{'translation_text': 'losing potential savings; 8.'}]
+4.
+6.
+[{'translation_text': 'loss of business opportunities; 8.'}]
+4.
+7.
+[{'translation_text': 'loss of opportunity; 8.'}]
+4.
+8.
+[{'translation_text': 'loss of company value; 8.'}]
+4.
+9.
+[{'translation_text': 'loss of reputation; 8.'}]
+4.
+10.
+[{'translation_text': 'loss, destruction or damage to data; and 8.'}]
+4.
+11.
+[{'translation_text': 'indirect and secondary loss.'}]
+[{'translation_text': 'The second loss shall be understood as secondary losses if they are predictable, known, foreseen, etc.'}]
+8.
+5.
+[{'translation_text': 'Total limit: If we are considered responsible, this responsibility should be limited to a maximum of three times the cost of your accommodation, unless this responsibility is due to our fault.'}]
+8.
+6.
+[{'translation_text': "International Conventions: Groupon Travel's liability is also limited in accordance with the relevant international conventions, e.g."}]
+[{'translation_text': 'The Paris Convention (in connection with the provision of accommodation) which limits the amount of compensation that can be claimed in connection with death, injury and damage.'}]
+8.
+6.
+1.
+[{'translation_text': 'This Agreement shall provide comprehensive information on all benefits of reducing compensation contained in the abovementioned and other existing conventions.'}]
+9.
+[{'translation_text': 'Complaints'}]
+9.
+1.
+[{'translation_text': 'Complaints: If you have problems with Accommodation please inform the Service Provider immediately (e.g.'}]
+[{'translation_text': 'a representative of the resort, hotel manager, etc.).'}]
+[{'translation_text': 'If your complaint is not dealt with on-site, please contact Customer Service.'}]
+[{'translation_text': 'We will use all possible means to provide immediate assistance to the extent that our capabilities allow.'}]
+9.
+1.
+1.
+[{'translation_text': 'If your complaint is not dealt with after informing the Service Provider and making a telephone call to Groupon Travel (under the above mentioned number), you must lodge a written complaint with: Groupon Travel International GmbH, c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Suisse, giving the booking number and all the relevant information we can ask for in connection with the Accommodation for your identification.'}]
+[{'translation_text': 'This is a special address we use to handle travel complaints.'}]
+10.
+[{'translation_text': 'Data protection'}]
+10.
+1.
+[{'translation_text': 'Privacy Practices: When booking or purchasing Accommodation through Groupon Travel, you agree that we should collect, process and use information about you in accordance with the Privacy Policy.'}]
+[{'translation_text': 'Our Services are made available by Groupon International Limited in accordance with the Terms of Use, Privacy Policy and Cookie Policy.'}]
+11.
+[{'translation_text': 'Useful information'}]
+11.
+1.
+[{'translation_text': 'Requirements for'}]
+[{'translation_text': 'Passports: A valid passport is required for each Accommodation (valid for at least six (6) months after the end of the stay).'}]
+[{'translation_text': 'You are solely responsible for your applicable passport and visa requirements and other immigration requirements.'}]
+[{'translation_text': 'The appropriate embassy and/or consulate should be consulted on this matter prior to the start of the journey.'}]
+[{'translation_text': 'We are not liable if your journey is prevented due to non-compliance with visa and passport requirements and other immigration requirements or lack of adequate vaccination certificates.'}]
+[{'translation_text': "A valid identity card is sufficient for citizens of the European Union's countries to travel within the Union."}]
+11.
+2.
+[{'translation_text': 'Information to be provided'}]
+[{'translation_text': 'Health: Depending on the accommodation for a particular trip, specific health services may apply.'}]
+[{'translation_text': 'We recommend that at least eight (8) weeks before travel you consult with your specialist.'}]
+[{'translation_text': 'health (whether with a family doctor, nurse, pharmacist or clinic specializing in travel research).'}]
+11.
+3.
+[{'translation_text': 'Travel insurance: It is extremely important and recommended for you to have travel insurance covering the entire accommodation period and all possible aspects.'}]
+[{'translation_text': 'This guarantees that you are financially secured if you have to cancel your trip for some reasons.'}]
+[{'translation_text': 'The required amount of insurance depends on the specific accommodation.'}]
+12.
+[{'translation_text': 'Legal information'}]
+12.
+1.
+[{'translation_text': 'Interpretation: In this Agreement:'}]
+12.
+1.
+1.
+[{'translation_text': 'the words meaning persons relate to natural persons, companies, limited liability companies, corporate entities and associations without legal personality;'}]
+12.
+1.
+2.
+[{'translation_text': 'headlines (e.g.'}]
+12.
+[{'translation_text': 'Legal information at the beginning of this point) shall be provided only for reference purposes and shall have no effect on the interpretation of the provisions of this Agreement;'}]
+12.
+1.
+3.
+[{'translation_text': 'the title of the paragraphs (e.g.'}]
+[{'translation_text': 'Interpretation: at the beginning of this paragraph 12.'}]
+[{'translation_text': '1) have the task of facilitating the interpretation of the passages in which they appear; and'}]
+12.
+1.
+4.
+[{'translation_text': 'This term is understood to include inter alia, including without limitation.'}]
+12.
+2.
+[{'translation_text': 'Relinquishing: If we fail to persuade you to fulfil their duties under this Agreement, we will not enforce our rights or delay such execution, it does not mean that we waive your rights to you, nor does it mean that you do not have to comply with these obligations.'}]
+[{'translation_text': 'If we waive our rights in connection with your failure to fulfil their obligations, this waiver will only be in writing and will not mean that we waive our rights also in connection with your failure to fulfil their obligations in the future.'}]
+12.
+3.
+[{'translation_text': 'Notifications: Unless otherwise specified in this Agreement, notifications to the Parties must be in writing and be delivered to their own hands in electronic form (except when you send a notification for legal action to Groupon Travel or complain in accordance with point 9.'}]
+1.
+[{'translation_text': '1) or sent by mail to you at the address given in the Reservation and to Groupon Travel to the address of the headquarters.'}]
+12.
+4.
+[{'translation_text': 'Maintenance of legal force: The provisions of paragraphs 1, 2, 3, 8, 9, 10, 12 and 13 of this Agreement, together with the provisions which are clearly indicated as in force after the termination or termination of the Agreement and which in their capacity assume that they are in force after the termination of the Agreement, shall apply also after the termination of the Agreement.'}]
+12.
+5.
+[{'translation_text': 'Possible termination: If any provision of this Agreement proves to be unlawful, invalid or enforceable, it shall be deemed to be separate and the validity and enforcement of the other provisions of the Agreement shall not be altered.'}]
+12.
+6.
+[{'translation_text': 'Non-Partnership/Company: Nothing in this Agreement should be interpreted as creating a joint venture, partnership or partnership between Groupon Travel and you.'}]
+[{'translation_text': 'None of the parties has the right or authority to accept obligations, debts or charges or to conclude any contract on behalf of the other party.'}]
+12.
+7.
+[{'translation_text': 'No additional conditions: Except as expressly provided for in this Agreement, all guarantees, conditions and other provisions, whether imposed by law, customary law or otherwise, are hereby annulled to the maximum extent permitted by law.'}]
+12.
+8.
+[{'translation_text': 'Allocation: Allocation means the transfer of your rights under this Agreement (e.g.'}]
+[{'translation_text': 'the right to receive compensation, if applicable).'}]
+[{'translation_text': 'The Parties may not transfer, transfer, pawn, charge, include subsidiaries, create trusts or otherwise trade in all or part of the rights or obligations under this Agreement.'}]
+12.
+9.
+[{'translation_text': 'All Agreement: This Agreement (and Terms of Use, Privacy Policy, Cookies Policy Groupon International Limited and Groupon Travel Privacy Policy) contains all the terms agreed by the Parties on the subject matter of the Agreement and replaces and invalidates previous agreements and agreements concluded between the parties, both orally and in writing.'}]
+[{'translation_text': 'No statements, commitments or promises may be made, made or made in connection with information expressed or written during the negotiations of the Parties prior to the conclusion of this Agreement, except as expressly provided for in this Agreement.'}]
+12.
+10.
+[{'translation_text': 'Applicable law and jurisdiction: This Agreement (and any rights and obligations not governed by the Agreement but resulting from it or in force in connection with its conclusion) is governed by and compatible with the laws in force in Poland (except for rules causing a conflict of laws or principles (whether in Poland or in another jurisdiction) which could result in the application of law in any other jurisdiction).'}]
+13.
+[{'translation_text': 'DEFINITIONS'}]
+13.
+1.
+[{'translation_text': 'Accommodation means accommodation for people in buildings, including hotels, apartments, holiday houses, villas and houses.'}]
+13.
+2.
+[{'translation_text': 'The Agreement shall mean the points of this Agreement (and shall cover any other agreements and conditions expressly stated therein).'}]
+13.
+3.
+[{'translation_text': 'Booking means submitting an offer of Accommodation Purchase (the definition includes dates'}]
+13.
+4.
+[{'translation_text': 'Booking calendar means an application that allows customers to specify the type of accommodation and departure dates.'}]
+[{'translation_text': 'The booking calendar also contains information on the prices of the Accommodation.'}]
+13.
+5.
+[{'translation_text': "Force majeure means an event beyond the control of Groupon Travel and Service Providers, which could not be avoided by making appropriate efforts, including, but not limited to: random event, war, riots, invasion, acts of foreign enemies, war, civil war, rebellion, revolution, fire, explosion, failure of municipal media, riots, lightning, flooding, hurricane, earthquake, storm, tornado, acts of terrorism and sabotage, restrictive laws and government authorities, strike and occupation strike, labour disputes and other workers' difficulties, riots, ionising radiation or radioactive contamination from nuclear fuel or other sources of radioactivity, toxic, explosive or other hazardous properties of nuclear or nuclear objects, epidemic, natural disaster and very bad weather conditions."}]
+13.
+6.
+[{'translation_text': 'Groupon International Limited means sites offered and managed by Groupon International Limited or an authorised Groupon Groupon entity providing Groupon Travel Services services that may change from time to time.'}]
+13.
+7.
+[{'translation_text': 'An important change means a change in accommodation, both before and after your departure, which includes a change: the centre where you are staying, a place with a lower category and/or a lower price, etc.'}]
+13.
+8.
+[{'translation_text': 'Unimportant change means a change in accommodation, both before and after your departure, which includes changing Accommodation to other accommodations of the same standard.'}]
+13.
+9.
+[{'translation_text': 'Purchase means acceptance by Groupon Travel of your Reservation and processing of your Accommodation purchase from the Service Provider.'}]
+[{'translation_text': 'The definition also includes the term "Buyed," etc.'}]
+13.
+10.
+[{'translation_text': 'Services are services provided by Groupon Travel to customers in accordance with this Agreement, including, inter alia, acting as agent on behalf of Service Providers for the provision of Accommodation for Reservations, processing of Accommodation sales and the provision of customer service services.'}]
+13.
+11.
+[{'translation_text': 'A service provider means a provider of accommodation services made available for Booking and Purchase as part of Groupon Travel services.'}]
+[{'translation_text': 'The service provider is an independent party that bears the financial risk and is responsible for providing you with accommodation, unless such an obligation arises from our fault.'}]

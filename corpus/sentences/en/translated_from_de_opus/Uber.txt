@@ -1,0 +1,145 @@
+https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=germany&lang=deLast changed: December 24, 2019
+UBER B.V.
+Terms and conditions
+Last updated on: December 4, 2017
+1. Contractual relationship
+These Terms of Use (“Terms”) constitute the contractual basis between you and Uber B.V., a limited liability company registered with the Amsterdam Commercial Register under number 56317441 and having its registered office at Mr. Treublaan 7, 1097 DP, Amsterdam, Netherlands, (“Uber”) ) about the use of brokerage services and related services from Uber.
+PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING OUR Brokerage Services.
+By accepting these terms and conditions, you agree to be legally bound by these terms and conditions.
+The use of the brokerage services requires acceptance of these conditions.
+These Terms expressly supersede any contracts or agreements previously entered into with you.
+Uber may immediately terminate these Terms and any Brokerage Services to you, discontinue the Brokerage Services generally, or deny access to all or any portion of the Brokerage Services to you at any time for any reason.
+Additional terms and conditions may apply to certain brokerage services, such as guidelines for a specific event, promotions or promotions.
+Supplementary terms and conditions apply in addition to the terms and conditions for the respective brokerage services and constitute part of them.
+If there is a contradiction to these conditions, the additional conditions apply to the respective brokerage services.
+Uber may change the Terms at any time.
+Uber will notify you of the changes.
+By confirming the amended Terms, you agree to the amended Terms.
+From this point on, the changed conditions come into force.
+Our collection and use of personal data in connection with the brokerage services is in accordance with Uber's privacy policy, which is available at https://www.uber.com/privacy/notice.
+Without prejudice to the Privacy Policy, to the extent permitted by applicable law, Uber may provide any necessary information (including your contact details) to a claims handler or insurer in the event of a complaint, dispute or claim relating to the transportation or logistics service provided by Uber A dispute arises involving you and a third party (particularly an independent service provider) and such information or data is necessary to pursue and resolve the complaint, dispute or conflict.
+2. The brokerage services
+Uber offers various technology platforms and provides you with brokerage services through them.
+The use of these brokerage services is free of charge for you, unless otherwise agreed.
+The Brokerage Services include providing a technology platform to transmit requests for transportation or logistics services from users of Uber's mobile applications or websites (each an "Application") to independent and independent third parties, including independent transportation service providers and independent logistics service providers (" independent service providers”), as well as the billing of the transport or logistics services in the name and for the account of the independent service provider.
+Unless otherwise agreed between Uber and you in a separate written agreement, the Brokerage Services are offered for your private, non-commercial use only.
+You are free to use the brokerage services.
+There is no obligation to use the brokerage services for specific periods of time.
+At the same time, Uber is not obliged to successfully provide you with transportation or logistics services.
+It is entirely at the sole discretion of each independent service provider to accept or reject your request for transportation or logistics services.
+The application allows you to send a request for a transportation or logistics service.
+The GPS receiver, which should be installed on the mobile phone (smartphone) to which you have downloaded the application, detects your location.
+If you activate the GPS function, Uber will send your request and your location data via email to the independent service provider on your behalf.
+YOU AUTHORATE AND AUTHORIZE UBER TO FORWARD YOUR REQUEST ALONG WITH YOUR LOCATION DATA TO AN INDEPENDENT SERVICE PROVIDER BY EMAIL AND, IN THE CASE OF A REQUEST FOR TRANSPORTATION SERVICES, TO PROVIDE A DRIVER TO THE INDEPENDENT SERVICE PROVIDER TO EXECUTE THE TRANSPORTATION REQUEST BEAT WHICH (i) IS AVAILABLE AND (ii ) WHICH IS CLOSEST TO YOU.
+If the independent service provider accepts your request, you will receive a notification through the application with information about the independent service provider and driver - including the driver's name, license plate number and customer service rating - as well as the opportunity to contact the driver by telephone.
+The application also allows you to see in real time how quickly the driver is approaching your location.
+If there is no independent service provider available to accept your request at the time you send your request, you will receive a corresponding notification via the application.
+YOU UNDERSTAND THAT UBER DOES NOT OFFER, PROVIDE, OR ACT AS A CARRIER, ANY TRANSPORTATION OR LOGISTICS SERVICES AND THAT ALL TRANSPORTATION AND LOGISTICS SERVICES ARE PROVIDED BY INDEPENDENT SERVICE PROVIDERS IN THEIR OWN BEHALF AND FOR THEIR OWN BILL.
+THE INDEPENDENT SERVICE PROVIDERS DO NOT ACT FOR UBER OR ANY UBER AFFILIATED COMPANY, NOR ARE THEY EMPLOYED BY UBER OR ANY UBER AFFILIATED COMPANY.
+License.
+Provided that you comply fully with these Terms, Uber grants you a limited, non-exclusive, non-sublicensable, revocable and non-transferable license to: (i) access and use the Applications on your own device in connection with the use of the brokerage services and (ii) access to and use of all content, information and related materials made available via the applications, in each case only for your private and non-commercial use.
+All rights not expressly granted herein are reserved by Uber and Uber's licensors.
+Restrictions.
+You may not: (i) remove any copyright, trademark or other proprietary rights notices from any portion of the Applications; (ii) reproduce, modify, prepare derivative works of, distribute, license, rent, sell, resell, transmit, publicly display or perform, transmit, stream the Applications without Uber's express permission; to send or otherwise exploit it profitably; (iii) decompile, reverse engineer or disassemble the Applications, except as permitted by law; (iv) link to, frame or mirror any portion of the Applications; (v) develop or install any programs or scripts for the purpose of scraping, indexing, surveying or other data mining or to unduly limit or impede the operation or functionality of any aspect of the Applications; or (vi) attempt to gain unauthorized access to or interfere with any portion of the Applications and their associated systems or networks.
+Uber brands.
+You confirm that the brokerage services are made available under various brands of Uber, depending on the design of the respective brokerage service, including the brands for the brokerage of transport services such as in particular (but not limited to) “Uber”, “uberX”, “uberXL”, “UberBLACK” , “UberSUV”, “UberBERLINE”, “UberVAN”, “UberEXEC” and “UberLUX”, “UberPOOL” as well as the brands for the provision of logistics services, namely “UberRUSH”, “UberFRESH” and “UberEATS”.
+You agree that the Brokerage Services may be made available through or with certain Uber subsidiaries or affiliates, at Uber's sole discretion.
+Property.
+Ownership of the property and other rights associated with the brokerage services remains with Uber or Uber's licensors.
+Neither these Terms nor your use of the Brokerage Services grants you any rights: (i) in or to the Brokerage Services, except for the limited license granted above; or (ii) for use of or reference to Uber's corporate names, logos, product and service names, trademarks or those of Uber's licensors.
+3. Your use of the brokerage services
+User accounts.
+To use the brokerage services, you must create and maintain your own user account (“Account”).
+To create an account you must be at least 18 years old.
+To register for your account, Uber requires you to provide certain personal information, such as your name, address, mobile phone number, and age, as well as at least one valid payment method (either a credit card or an approved payment partner).
+You agree to ensure that your account information is accurate, complete and current at all times.
+If your account information is no longer accurate, complete and current, or if the payment method provided with the account information is invalid or expired, you may no longer have access to or use Uber's brokerage services or Uber may no longer be able to terminate this Agreement terminates with you.
+You are responsible for all activity on your account and agree to keep your username and password secure and confidential at all times.
+You may not have more than one account without Uber's written permission.
+User and behavior requirements.
+The brokerage services are not available to persons under 18 years of age.
+You are not permitted to allow third parties to use your account or to allow persons under the age of 18 to use the transportation or logistics services offered by the independent service providers without your supervision.
+You may not assign or otherwise transfer or make your account available to any other person or entity.
+You agree to comply with all relevant laws when using the brokerage services and you may only use the brokerage services for lawful purposes (e.g. you may not use the brokered services of the independent service providers to transport prohibited or dangerous materials). .
+Text messages.
+By creating an account, you agree that text messages (SMS) containing information may be sent to you as part of the normal course of your use of the Brokerage Services.
+You can opt out of receiving text messages (SMS) from Uber at any time by sending an email to customers-de@uber.com indicating, along with the number of the mobile phone on which you are receiving these messages You no longer wish to receive these messages.
+You understand that opting out of text messages (SMS) may affect your use of the Mediation Services.
+Coupon codes.
+Uber may, at its sole discretion, issue voucher codes that will be credited to the account or other incentives or benefits for the brokerage services or for the services of the independent service providers (“Voucher Codes”).
+Additional conditions usually apply to the use of the individual voucher codes.
+You agree that Coupon Codes: (i) may only be used lawfully and for the specified audience and purpose; (ii) may not be duplicated, sold or transferred in any form or made available to the public (by public posting or otherwise) unless expressly permitted by Uber; (iii) may only be used in accordance with the additional terms and conditions specified by Uber for the applicable voucher code; (iv) cannot be redeemed in cash; and (v) may expire before redemption.
+Uber reserves the right to withhold or deduct any credits or other benefits or incentives received by you or any other user through the use of coupon codes if Uber determines or believes that the use or redemption of the coupon codes Voucher Codes have been made through fraud, illegal activity or in breach of the applicable terms and conditions of the Voucher Code or these Terms and Conditions.
+User Provided Content.
+Uber may, in its sole discretion, from time to time allow you to submit, upload, publish or otherwise make available to Uber via the Applications text, audio and/or image content and information, including unfiltered comments and unfiltered feedback on the Brokerage services, support requests and the submission of entries for competitions and promotions (“User Content”).
+Any User Content you provide remains your property.
+Using all due care, you will ensure that: (i) you are either the sole and exclusive owner of all User Content; and (ii) neither the User Content nor the submission, uploading, publication or other making available of such User Content, nor Uber's use of the User Content as authorized herein, will infringe or violate the intellectual property rights or proprietary rights, publicity rights or privacy rights of any third party Constitute a violation of any relevant laws or regulations.
+You agree not to post any User Content that is abusive, defamatory, vile, violent, obscene, pornographic, otherwise objectionable or unlawful, as determined by Uber in its sole discretion, regardless of whether such material is protected by law or not.
+Uber reserves the right, at its sole discretion, to review and monitor User Content and to remove it for violations of the above Code of Conduct.
+There is no obligation to remove user content.
+Network access and devices.
+You are responsible for setting up the data network access required to use the brokerage services.
+While accessing and/or using the brokerage services, data and connection charges and fees from your mobile network provider may apply, which you are responsible for paying.
+You are responsible for obtaining and updating the compatible hardware and devices necessary to access and update the brokerage services and applications and/or use them accordingly.
+Uber does not guarantee that the brokerage services or any part thereof will function on the relevant hardware or devices.
+In addition, disruptions and delays may occur in the brokerage services due to the use of the Internet and electronic means of communication.
+4. Services of independent service providers.
+Uber acts only as an intermediary between you and the independent service providers.
+The independent service providers to whom your request was forwarded via the application are solely responsible for the transport or logistics service.
+If the independent service provider accepts your request, the transport or logistics contract is concluded directly between you and the respective independent service provider.
+Uber is at no time a party to this transportation or logistics agreement.
+You understand that the provision of the transport or logistics service is subject to other terms and conditions agreed between you and the independent service provider.
+In these conditions, the provision of the transport or logistics service may be made dependent on certain rules of conduct.
+The respective independent service provider is solely responsible for determining and enforcing these rules of conduct and other conditions.
+5. Payments
+The use of the brokerage services is free of charge.
+However, Uber reserves the right to introduce a fee for the use of the brokerage services.
+If Uber decides to introduce such a fee, Uber will inform you in advance and allow you to continue or terminate the contract.
+You are aware that you generally incur costs (“price”) for using the transport or logistics services offered by the independent service providers.
+The respective prices of the transport or logistics service are determined by the respective independent service provider.
+Uber will invoice you for the arranged services on behalf of the independent service provider.
+Uber will settle your payment with the independent service provider by acting as the independent service provider's limited collection agent.
+Payments made by you in this manner will be treated as if you had made them directly to independent service providers.
+All prices are payable immediately.
+Uber may charge the credit card you provide when you register to use the Applications (including any taxes and late fees that may apply in connection with your account) on behalf of and for the account of the Independent Service Provider.
+Uber will then send you a payment confirmation via email.
+You agree that if the preferred payment method stored in your account has expired, is invalid, or cannot otherwise be charged, Uber, as the Independent Service Provider's limited collection agent, may use the second payment method stored in your account.
+If permitted by the Independent Service Provider, you may cancel the services or goods requested from an Independent Service Provider at any time prior to the arrival of the services or goods, whereupon you may be charged a cancellation fee by the Independent Service Provider.
+After receiving services or goods from the Independent Service Provider, you will have the opportunity to evaluate the Independent Service Provider's service and provide additional feedback about it.
+6. Disclaimers; Limitation of Liability; Exemption.
+Reassurances
+The provision of the brokerage services is free of charge.
+In return, you have no right to constant, uninterrupted availability or constant, error-free functionality.
+Temporary interruptions or errors may arise, in particular, due to force majeure (e.g. power failure) or due to planned maintenance and modernization work.
+In addition, the brokerage services may be subject to limitations, delays and other problems inherent in the use of the Internet and electronic communications.
+Uber must make every effort to ensure the best possible availability of the brokerage services and to resolve any disruptions as quickly as possible.
+For the avoidance of doubt, Uber does not represent OR warrant that access to or use of the Brokerage Services will (a) be uninterrupted or error-free, or (b) result in acceptance of your transportation request by the applicable independent service provider.
+DISCLAIMER.
+As an intermediary, Uber is not responsible for the transportation or logistics services provided by the independent service provider.
+THEREFORE, UBER SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING FINES OR THIRD PARTY CLAIMS, OR LOSSES THAT YOU INCUR AS A RESULT OF: ANY CONTRACT OR RELATIONSHIP BETWEEN YOU AND AN INDEPENDENT SERVICE PROVIDER.
+UBER ALSO MAKES NO REPRESENTATION OR WARRANTY AND/OR GUARANTEES REGARDING THE QUALITY, SUITABILITY, SAFETY, PROFICIENCY, TIMELINESS OR RELIABILITY OF ANY INDEPENDENT SERVICE PROVIDER.
+LIMITATION OF LIABILITY.
+Uber and the companies affiliated with Uber are liable for damages resulting from the use or nature of the brokerage services to the extent that Uber, the companies affiliated with Uber, their representatives or vicarious agents have caused these damages intentionally or through gross negligence.
+In the event of simple negligence on the part of Uber, the companies affiliated with Uber, their representatives or vicarious agents, Uber and the companies affiliated with Uber are only liable in the event of a breach of an essential contractual obligation and only for damages typical of the contract that were foreseeable at the time the contract was concluded.
+Essential contractual obligations are those whose fulfillment is essential for the proper execution of the contract and on whose compliance the user can regularly rely.
+The limitations of liability do not apply within the scope of guarantees assumed, for injuries to life, body and health or for claims under the Product Liability Act.
+FOR CLARIFICATION, UBER SHALL NOT BE LIABLE FOR DELAY OR LOSS OF PERFORMANCE FOR REASONS BEYOND UBER'S RESPONSIBLE.
+POSSIBLE RIGHTS OF WITHDRAWAL REMAIN UNAFFECTED BY THIS.
+Any limitations of liability provided for in this contract do not apply to culpable injury to life, body or health, to liability under the Product Liability Act or within the scope of any guarantees provided.
+Exemption.
+You agree to indemnify and hold Uber and its officers, directors, employees and contractors harmless from any claim, demand, loss, liability and expense (including legal fees) arising out of or in connection with: (i) any culpable breach of the Terms or a culpable violation thereof; or (ii) your culpable violation of the rights of third parties, including third party service providers and independent service providers.
+7. Governing Law.
+Unless otherwise provided herein, this Agreement shall be governed exclusively by and construed in accordance with the laws of the Federal Republic of Germany, excluding its conflict of law provisions.
+The Vienna Convention on the International Sale of Goods of 1980 (English abbreviation: CISG) does not apply.
+8. Other provisions
+Announcements.
+Uber may send notices in any of the following ways: generally through the Applications, in person to your email address associated with your account, or by regular mail to the address specified in your account.
+You may send notices to Uber in writing to Uber's address at Mr. Treublaan 7, 1097 DP, Amsterdam, Netherlands.
+General.
+You may not assign or transfer any interest under this Agreement, in whole or in part, without the prior written consent of Uber.
+You agree that Uber may assign or transfer any rights under this Agreement, in whole or in part, to: (i) Uber's subsidiaries or affiliates; (ii) an acquirer of Uber's shares, businesses or assets; or (iii) Uber's successor in a merger.
+No joint venture, partnership, employment or agency relationship exists between you, Uber and the Independent Service Providers as a result of this Agreement or use of the Brokerage Services.
+If any provision of these Terms is declared, in whole or in part, to be unlawful, invalid or unenforceable in any jurisdiction, such provision or the affected part thereof shall be deemed to be void with respect to these Terms and the legality, validity and enforceability of the remaining provisions of these Terms shall not be affected untouched.
+In this case, the parties shall replace the illegal, invalid or unenforceable provision or the affected part thereof with a lawful, valid and enforceable provision that comes as close as possible to the content and purpose of the illegal, invalid or unenforceable provision or the part thereof.
+These Terms constitute the entire agreement concluded between the parties regarding the subject matter hereof and supersede all contracts or agreements previously or contemporaneously concluded regarding the subject matter hereof.
+In these Terms, the terms “including” and “including” and “include” mean “in particular” and “including” respectively.

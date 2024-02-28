@@ -1,0 +1,111 @@
+https://policies.google.com/terms/archive/20140430?hl=it
+Google Terms of Service
+Last modified: April 30, 2014 (view archive versions)
+Welcome to Google!
+Thank you for using our products and services (“Services”).
+The Services are provided by Google Inc. («
+Google"), located at 1600 Amphitheater Parkway, Mountain View, CA 94043, United States.
+By using our Services, you agree to these terms.
+Please read them carefully.
+Our Services are very diverse, so other additional terms or product-specific requirements (including age requirements) may sometimes apply.
+The additional terms will be available with the relevant Services and will form part of your contract with us when you use those Services.
+Use of our Services
+You must follow all rules made available to you within the Services.
+Our Services must not be misused.
+For example, you may not interfere with our Services or attempt to access them using any method other than the interface and instructions we provide.
+You may use our Services only as permitted by law, including applicable export and re-export control laws and regulations.
+We may suspend or stop providing our Services to you if you fail to comply with our terms or policies, or if we are investigating a case of alleged misconduct.
+By using our Services, you do not become the owner of any intellectual property rights in our Services or the content you access.
+It is prohibited to use content from our Services without obtaining authorization from the owner or where it is not permitted by law.
+These terms do not grant you the right to use any trademarks or logos used in our Services.
+You may not remove, obscure or alter any legal notices displayed on or with our Services.
+Content that is not owned by Google appears on our Services.
+Such contents are the sole responsibility of the person who makes them available.
+We may reserve the right to review content to determine whether it is illegal or contrary to our policies, and we may also remove or refuse to display content if we have reasonable cause to believe that it violates our policies or the law.
+This does not necessarily mean that we review the content, nor should you assume so.
+In connection with your use of the Services, we may send you service announcements, administrative messages and other information.
+It is possible to deactivate the sending of some communications.
+Some of our Services are available on mobile devices.
+These Services must not be used if they are distracting and cause violations of traffic or safety laws.
+The user's Google account
+To use some of our Services you may need a Google account.
+Your Google Account can be created by you or assigned by an administrator, such as an employer or educational institution.
+If you use a Google Account assigned by an administrator, different or additional terms may apply, and the administrator may be able to access or deactivate your account.
+To protect your Google Account, you must keep your password confidential.
+You are responsible for activity that occurs on or through your Google Account.
+We recommend that you do not reuse your Google Account password for third-party applications.
+If you become aware of any unauthorized use of your password or Google Account, follow these instructions.
+Privacy and copyright protection
+Google's privacy policy explains how we treat your personal data and protect your privacy when you use our Services.
+By using our Services, you agree that Google may use such data in accordance with our privacy policy.
+We respond to notices of alleged copyright infringement and terminate the accounts of repeat infringers in accordance with the process set forth in the Digital Millennium Copyright Act.
+We provide information to help copyright owners manage their intellectual property online.
+If you believe someone is infringing your copyright and would like to report it to us, you can find information about submitting notifications and Google's policies for responding to notifications in our Help Center.
+Your Content on our Services
+Some of our Services allow you to upload, transmit, store, send or receive content.
+You retain any intellectual property rights you may have in such content.
+In short, what belongs to you remains your property.
+When you upload, transmit, store, send or receive content from or through our Services, you grant Google (and the partners we work with) a global license to use, host, store, reproduce, modify, create derivative works ( such as those resulting from translations, adaptations or other modifications made so that the contents work best with our Services), communicate, publish, publicly perform, publicly display and distribute the aforementioned contents.
+The rights you grant in this license are for the limited purpose of using, promoting, and improving our Services and developing new ones.
+This license survives even if you stop using our Services (for example, if you add a business listing to Google Maps).
+Some Services may offer ways to access and remove content you provide to that Service.
+Additionally, some of our Services have terms or settings that restrict the scope of our use of content you submit to those Services.
+You must ensure that you have the necessary rights to grant us this license in respect of any content you submit to our Services.
+Our automated systems analyze user content (including emails) to deliver personally relevant product features, such as personalized search results, tailored advertising, and spam and malware detection.
+This analysis occurs as content is transmitted, received and stored.
+If you have a Google account, your name and profile photo as well as the operations you perform on Google or through third-party applications connected to your Google account (such as +1, writing reviews and posting comments) may be viewed by Google on its Services, including display in ads and other commercial contexts.
+We will respect your choices to limit sharing or visibility settings within your Google account.
+For example, you can choose your settings so that your name and image are not displayed in an advertisement.
+For further information on how Google uses and stores content, you can consult the privacy policies or additional terms of the specific Services.
+If you send feedback or suggestions about our Services, we may use such feedback or suggestions without any obligation to you.
+Information about the software in our Services
+When a Service requires or includes downloadable software, such software may automatically update on your device when a new version or feature is available.
+In some Services, you may be able to change automatic update settings.
+Google grants you a personal, worldwide, royalty-free, non-assignable, and non-exclusive license to use the software provided by Google within the Services.
+The sole purpose of this license is to allow you to use the Services provided by Google and take advantage of the benefits thereof, as permitted by these terms.
+You may not copy, modify, distribute, sell or lease any portion of our Services or included software, or reverse engineer or attempt to extract the source code from such software, unless such restrictions are prohibited by law or where has our written authorization.
+Open source software is important to us.
+Some software programs used in our Services may be offered under an open source license that we will make available to you.
+The open source license may include provisions that expressly override some of these terms.
+Modification and interruption of the provision of the Services
+We are constantly working to modify and improve our Services.
+We may add or remove functionality or features, and we may suspend or stop providing a Service altogether.
+You can stop using our Services at any time, although we will be sad to see you go.
+Google may also stop providing the Services to you or establish new access limits to the Services at any time.
+It is our opinion that your data is your property and that maintaining your access to that data is important.
+If we stop providing a Service, where reasonably possible, we will give you reasonable notice and an opportunity to remove your information from that Service.
+Warranties and limitations of liability
+We aim for a commercially responsible level of competence and attention for our Services and hope that users will enjoy their use.
+However, we cannot make any promises about some aspects of our Services.
+Except as expressly set forth in these terms or additional terms, neither Google nor its suppliers or distributors makes any specific warranties in connection with the Services.
+For example, we make no warranties about the content in the Services, the specific function of the Services, or their reliability, availability, or ability to meet your needs.
+The Services are provided "as is".
+Some jurisdictions provide certain warranties, such as the implied warranties of merchantability, fitness for a particular purpose and eviction.
+To the extent permitted by law, we disclaim all warranties.
+Responsibility for our Services
+Where permitted by law, Google and its suppliers and distributors will not be liable for lost profits, revenue, or data, financial loss, or indirect, special, consequential, exemplary, or punitive damages.
+To the extent permitted by law, the total liability of Google and its suppliers and distributors to any claims made under these terms, including claims under any implied warranties, is limited to the amount paid to us by you for the use of the Services (or, at our discretion, to a new provision of the Services).
+In any case, Google and its suppliers and distributors will not be responsible for any loss or damage that is not reasonably foreseeable.
+We understand that in some countries you may have legal rights as a consumer.
+If you are using the Services for a personal purpose, nothing in these terms or any additional terms will limit any legal consumer rights that cannot be waived by contract.
+Business uses of our Services
+If our Services are used on behalf of a company, the company must accept these terms.
+You shall indemnify and hold harmless Google and its affiliates, officers, agents and employees from any claim, suit or action arising out of or relating to your use of the Services or your breach of these terms, including any liability or expense arising from any claim, losses, damages, lawsuits, judgments, court costs and attorneys' fees.
+About these Terms
+We may change these terms or any additional terms that apply to a Service, for example to reflect changes to laws or to our Services.
+The terms should be consulted regularly.
+We will post notices of changes to the terms on this page.
+Notifications of any changes to additional terms will be posted on the relevant Service.
+The changes will not have retroactive effect and will come into force no earlier than fourteen days after the date of publication.
+However, any changes relating to new features of a Service or any changes made for legal reasons will be effective immediately.
+If you do not accept the modified terms of a Service, you are asked to stop using it.
+If there is a conflict between these terms and the additional terms, the additional terms will control.
+These terms govern the relationship between Google and you, and do not give rise to any third party beneficiary rights.
+If you fail to comply with these terms, our failure to promptly take action cannot be construed as a waiver of any rights we may have (for example, the right to take action in the future).
+If a specific provision proves to be inapplicable, such inapplicability will not extend to the other provisions.
+Courts in some states will not apply California law to certain types of disputes.
+If you reside in one of these countries, to the extent that the laws of California are excluded, the laws of your country will apply to any disputes relating to these terms.
+Otherwise, in the event of any dispute arising out of or relating to these terms or the Services, you agree that the laws of California, USA, excluding the international private law rules of California, will apply.
+Similarly, if the courts in your country do not permit you to grant jurisdiction and venue to the courts of Santa Clara County, California, USA, such disputes relating to these terms will be deemed to have jurisdiction and venue. of the user.
+Otherwise, all claims arising out of or relating to these terms or Services will be brought exclusively in the federal or state courts located in Santa Clara County, California, USA, and Google and you consent to personal jurisdiction in such courts.
+For information on how to contact Google, visit our contact page.

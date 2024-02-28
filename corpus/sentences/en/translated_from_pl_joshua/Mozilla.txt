@@ -1,0 +1,110 @@
+Conditions and use channels
+23 june 2016.
+Conditions for use
+1.
+Introduction
+Please read with all the provisions of this document (hereinafter the " conditions '), because it clarifies the rights and obligations the user when using websites company (hereinafter " websites ") mozilla and related channels, social media, newsletters, repositories and email (together with source code websites called the term ' communication channels '). together
+With access to communication channels or in order to obtain the user when registering agrees to be bound by such conditions.
+Our website include a number of such as domain,,,, mozillafestival.org mozilla.org mozillians.org firefox.com, openbadges.org openstandard.com and webmaker.org.
+Our site may also be recognised from the names such as Bugzilla @ mozilla,,,,, bmo Mozwiki Mopad,, marketplace, Webmaker Mozreps mdn one and done, sumo is amo.
+, Some of our websites, applications and user made available to the link from other firms and subject to a separate allowances conditions.
+2.
+The account registration
+Some web sites require registration of accounts in order to access to additional their duties or other services company mozilla.
+User will in some cases presented additional, on their regulations.
+Responsibility for any activity linked to its user account bears.
+Some web sites allow during registration create a username.
+Using username must be in line with our policy of fair use.
+3.
+Licensing of
+Our communication channels include.
+Articles pictures, photographs, comments, code software, audio and video clips and other materials (" content). " is to be made together
+Authors content is the mozilla, project participants companies and other sources mozilla.
+Content mozilla is, in principle, be made publicly available by companies for the purpose of service under the terms of open, such as the creative commons (in the case of expression) or company (in the case of code mozilla public license software).
+Mostly please participants in projects companies to make available content under a mozilla open.
+Part of the content in our communications channels come from sources which prohibit further its use without the prior consent.
+Wherever possible, information about applicable in the present case the licence may be found in site or in the same content. stopce
+User agrees to compliance with such legal reservations.
+It should be noted that:
+Sometimes content clearly demonstrates that the author does not intend to use open licence.
+In order to use such content must have been previously contact the author or his representative and give its consent.
+Questions related to the content by companies may be sent to the address: licensing mozilla @ mozilla.org.
+Sometimes content contains trademarks, sales descriptions, and companies and other resources brand logos companies (hereinafter " mozilla marks ').
+Apart from a few cases, trade marks, limited must not be used without prior written approval of the owner.
+More information about the marks companies mozilla as well.
+Software used by the site is subject to licence or similar, little licensed type mpl restryktywnymi open source.
+More information on the specific licence can be found in the source code or in the repository Github.
+4.
+Sent content
+During interaction with our communication channels user can own content, such as sent
+Articles commenting on, or by code, graphics and / or materials blogging written (in any case hereinafter referred to as " sent material ").
+Unless materials are not subject to a separate agreement with the company sent mozilla, which in this case, it will be in force,:
+For materials sent to carried out by the mozilla projects open source:
+User agrees to license a sent under the terms of the licence material, which covers open source project.
+More information on the specific licence can be found in the source code or in the repository Github.
+For all other sent materials agrees to user the following provisions:
+User certifies that sent material complies with these conditions, the conditions of use of services companies and any other additional conditions which mozilla may be in force for the communication of this material.
+User this grants us, free of charge, global licence with the law of non-exclusive to material (entities with which sublicencjonowania consigned) granting authorisation to its use in working due to channel for communication and promoting mission, products and services company, right on the internet, as well as the mozilla outside.
+User acknowledges that sent materials may be available to other registered users of the service or publicly available.
+If sent material contains media or code of the software user agrees to their licensing economy complying with the site, to which it shall forward.
+User certifies that is in possession of any of the rights necessary to grant provided this rights and that the under these conditions are without prejudice to the application of proprietary rights or intellectual property any third parties.
+User acknowledges and agrees that the company mozilla reserves following their own assessment of the right to review, modification or deletion of any sent material, which it deems inappropriate or distort these conditions.
+5.
+Rules for privacy and cookies
+Rules privacy on websites, communication and cookies describe how we treat the information received from the user in relation to our communication channels.
+Rules privacy explain, for example, that we put in our websites set out and that the user may refrain from their cookies receive.
+6.
+Communication channels and events
+Zasubskrybuje newsletters or if the user our associated with either of our websites account records, may receive from us linked to its account e-mail messages (for example, updates safety or information or legal principles of privacy).
+Some of our websites contain online tools that allow the user sending messages to other persons. e-mail
+You can, for example,
+Invite their contacts to events taking advantage of the account. Webmaker
+User undertakes not to e-mail addresses other (for example by sending spam) people.
+Other site, such as
+Mozreps Webmaker and tools that allow users to make available to the offline organising events in which everyone can participate.
+Taking part in such events should be guided by caution and common sense.
+7.
+Declaration fraud
+More information on the reporting of claims to copyright infringements or marks can be found here: https: / / www.mozilla.org / about / legal / report-abuse /.
+8.
+Duration, termination
+These conditions shall be valid until their withdrawal by the user or company mozilla.
+User may cancel the contract at any time by the use of communication and, depending on the case, by removing himself.
+Company mozilla may at any time for any reason to suspend or block the user access to a channel of communication, inter alia, in a situation where becomes a reasonable suspicion that: (i) user breached these conditions or policy of fair use, (ii) user caused risk or (iii) liability companies mozilla offering user is no longer relevant commercial a channel of communication.
+In all such cases, the conditions are allowed to lapse.
+In force will, however, their provisions of the following sections: take responsibility, legal reservations; other provisions, the limitation of liability.
+9.
+Assume responsibility
+User undertakes to take defence company, its counterparties, colleagues, mozilla and partners, and the respective directors, representatives of licencjodawców, employees and agents (" the parties "), and also to secured their responsibility and protected against damage in the event of any claims by third parties and expenditure associated, including
+Remuneration legal representatives, resulting in or linked to the use of communication channels by the user (including, inter alia, sent by him or breach of the provisions of these conditions it content).
+10.
+Legal reservations; limitation
+Communication channels are made available to the " in such a form in which they are, " with all possible errors.
+In maximum to the extent permitted by the law firm mozilla and every guarantee as regards the secured this off communication channels, both pronounced as implicit, including the lack of guarantees and errors, trade, suitability for any purpose and suitability of not harming rights.
+User bears the overall risk related to the use of communication for its own purposes and with their quality and efficiency of, inter alia, risk removal or damage, access to its content user data by a third party or misuse or misused sent by him material by other users.
+This restriction shall be valid regardless of any essential any corrective measures. ineffective
+Some jurisdictions do not allow an exemption or reduction guarantee, in which case this reservation implicit may not be in the case of the user legal.
+Except required by law, the company mozilla and are not responsible for any parties secured indirect damage, specific, accident or performance or compensation resulting from the conditions or punitive linked to these conditions, the use of channels or their use, including the impossibility of conducting the direct and indirect damage, including impairment, breaks, loss of profit, loss of data, failures hardware and other failures, even if the reported the possibility of such damage and regardless of the nature of liability (contract, or other), which was based on DELIKTOWY claim.
+Aggregate responsibility mozilla and parties under this agreement secured shall not exceed 500 (usd 500 us dollars).
+Some jurisdictions does not permit a waiver or damage limitation casualty, performance or specific; in this case the exceptions and limitations may not be in the case of the user legal.
+11.
+Amendments to the provisions of these conditions
+This conditions may be by us every now and then updated, for example, in order to include new functions channels of communication or explain certain provisions.
+Updated conditions will be published on the internet.
+If changes will be relevant, through the typical channels for companies to announce an update to such notices, such as alerts on blogs, e-mail or forums banners.
+Continued use channels after the date of entry into force of such amendments is equivalent to their acceptance by the user.
+In order to facilitate consultation with amendments, we'll run their date of entry into force at the top of this party.
+12.
+Other provisions
+This conditions are all agreements between user and the company with regard to the communication channels and replace mozilla all previous versions of these conditions.
+Communication channels and these conditions shall be governed by the law of california (united states), excluding those of the conflict rules.
+Sole competent courts for any claims and disputes arising from the channels of communication or these conditions shall be the courts in the santa clara, california.
+User agrees to jurisdiction of those courts. personal
+If any part of these conditions shall be considered invalid or impossible to enforce their other provisions will remain fully valid.
+In case of discrepancies between the translated version of the conditions and in english, for overriding considers version of their version in english.
+In case of a conflict between these conditions and applicable in this case additional conditions, overriding are additional conditions.
+13.
+Contact with us
+Mozilla Attn: mozilla-legal notices 331 e.
+Evelyn ave.,
+Mountain view, ca usa tel.: fax: 94041 650-903-0800 650-903-0875 Legal-notices at mozilla.com

@@ -1,0 +1,1102 @@
+Groupon International Limited Terms and Conditions of Use
+This page sets out the terms that govern the use of the Groupon International Limited Site and the Services we offer.
+1.
+SOME USEFUL INFORMATION ON THE TERMS AND CONDITIONS OF USE
+1.1.
+What is this document and who are we: What you are reading is a document with legal value which constitutes the agreement between you, the Customer (who in this document we will refer to as "You", or the "Customer" ) and U.S.
+You are required to adhere to the terms and conditions of use set out below, collectively referred to as the "Agreement".
+We are Groupon International Limited, operators of this Site, as well as providers of a number of related services.
+Groupon International Limited is a company incorporated in Ireland, with registered office at Lower Ground Floor, Connaught House, 1 Burlington Road, Dublin 4, 216410 Ireland, VAT number 182.898.064.
+In this document, we will refer to ourselves as “Groupon International”, “We”, “the Company” and will refer to us and other companies in the Groupon group, including our affiliates, parents and subsidiaries, as “ Groupon Group”.
+Groupon international Limited may assume the contracts, rights, obligations, liabilities under these terms and conditions of use from MyCityDeal Limited by novation communicated in writing (posted on this site or communicated by other means) with the result that only the Groupon International Limited remains the owner of the rights and obligations under these Terms and Conditions of Use and, therefore, you hereby consent to the assignment and transfer of all contractual rights, obligations and liabilities.
+1.2.
+What do we do.
+Our Company provides a platform (which includes this Site, mobile applications, etc.) where we, our local affiliates and other sellers (collectively, the “Sellers”) can place offers related to Coupons, deals, goods, travel and other products (collectively, the “Items”).
+As a platform provider, we help and facilitate the arrangements for Items that occur on our platform.
+We never act as buyers nor, normally, as sellers.
+In fact, we provide a place where Sellers and you can negotiate and conclude agreements.
+This means that during your interaction within the site, in addition to this Agreement, you will be bound by other contractual relationships with different legal entities.
+1.3.
+What are these legal relationships?
+Any Items you purchase through our Site, you will be subject to the terms and conditions set by the relevant Seller.
+Since Groupon International does not normally act as a Seller, this means that your sales contract will probably be concluded with a different entity (often a Groupon Group company).
+We remind you that all contracts stipulated for the sale of the Items are concluded exclusively between the Customer and the Seller of the Item in question (and not with Groupon International, unless Groupon International assumes the role of seller).
+The Seller is responsible for the sale and handling of complaints or any other matters arising out of or in connection with the contract concluded between you and the Seller.
+Furthermore, when you purchase a Coupon, in addition to the sales contract you will have with the Coupon Seller, a contract will also be concluded between you and the company that supplies the Products from time to time when you redeem your Coupon with that company ("Partner ").
+With respect to Coupons, neither we nor the Seller assume responsibility for contracts regarding the redemption of your Coupons with the Partner.
+Furthermore, we never act as an agent of the Seller or the Partner.
+1.4.
+What else we do: We may offer you to participate in a forum or post User Content, send you newsletters and other communications.
+However, in order to send you emails, we need some information about you.
+Please consult our Privacy Policy to find out how we collect and process personal data.
+1.5.
+Scope of Use: Our Site and Services are provided for your personal, non-commercial use only, except as separately permitted in writing.
+The Site can only be accessed through our app, standard and mobile web browsers and similar applications.
+Access via robots, spiders, offline readers, search/retrieval information applications from sites or other manual or automatic devices, tools or processes useful for recovering, indexing or extrapolating data from our Site, including through scraping, is therefore not permitted. , spidering or otherwise.
+By way of exception, which can be revoked at any time by the Company, the operators of public search engines may use spiders to copy materials from the Site for the sole purpose of, and exclusively to the extent necessary for, the creation of publicly available search indices of the materials, but not for cached or archival copies of such materials.
+1.6.
+Limited license.
+Notwithstanding any other provision of these Terms of Use, you may use web crawlers, index, display or cache the contents of this Site for the sole purpose of (i) displaying the Site as a search engine result, and (ii) optimizing ( through Accelerated Mobile Pages, or otherwise) the access of other users to the Site.
+Groupon reserves all rights, including copyright, in the HTML code and content (including code that is optimized for Accelerated Mobile Pages), and nothing in these Terms of Use shall be construed as an express or implied waiver by Groupon of any of the your rights, or your ability to enforce any provision of these Terms of Use.
+1.7.
+Prohibition of Use: We reserve the right to prevent you from using the Site and Services (or any part thereof).
+1.8.
+Definitions: In this Agreement, we use several definitions that you will recognize because they are indicated by capital letters.
+All definitions will be set forth within or at the end of this Agreement in section 13).
+2.
+REGISTER WITH US AND CREATE YOUR OWN ACCOUNT
+2.1.
+Why register?
+Depending on the particular feature you are accessing within our Site at any given time, you may need to register to use most features and to access many of the available Services.
+For example, you will need to register in order to make a purchase unless you choose to use the "guest checkout" feature on the Site.
+If you make a purchase using the "guest checkout" feature and do not already have an Account with us, we will create an Account for you based on the information you provide to us for the transaction (for example, your name, address, e-mail and other information relating to the transaction).
+You can later claim this Account by creating a password for it.
+Your Account will give you easy access to printing your Coupon, viewing previously made purchases, accumulating your Groupon credit and changing your preferences.
+We reserve the right to reject a new Registration or cancel an Account at any time.
+Furthermore, registering on the site allows you not to have to re-enter the information every time you make a new purchase.
+2.2.
+How to register: To register you must provide your first and last name, postal address, e-mail address, and any other personal information requested.
+2.3.
+Password: During the registration phase, you will also need to provide us with a password.
+You must keep this password confidential and notify us immediately if unauthorized third parties become aware of it or if any unauthorized use is made of your e-mail address or if there is any violation of the security rules of which you may be aware. aware.
+Furthermore, you agree that we will not be liable in any way if any person to whom your password has been disclosed uses (and/or transacts through) our Services and our Site.
+Please keep in mind that you are entirely responsible for maintaining the confidentiality of your password.
+2.4.
+Valid Email Address: All Accounts must be registered with a valid, personal email address that you regularly access.
+Accounts that have been registered under someone else's email address or temporary email addresses may be terminated by Us without notice.
+We may also reserve the right to ask you to revalidate your Account if we believe you have used an invalid email address.
+2.5.
+Email: Groupon International may send you administrative and promotional emails.
+We may also send you any information relating to your Account activity and your purchases, updates on our Site, our Services and other promotional offers.
+We may also send you information regarding purchases you have made. (
+You can choose at any time not to receive our promotional emails by clicking on the unsubscribe link at the end of each email you receive).
+2.6 “Push Notifications”: If you have consented, Groupon International may send you “push notifications” of a promotional nature to your mobile device(s) for general or location-based offers.
+You can opt out of receiving our promotional “push notifications” at any time by changing your preferences on your mobile device.
+3.
+User Content
+3.1.
+User Content: Our Site may offer Account holders and visitors the opportunity to submit or post reviews, opinions, recommendations, ratings, discussions, comments, messages, survey responses and other communications, as well as files , images, photographs, videos, sound recordings, musical works and other content (collectively, “User Content”).
+User Content may be submitted or posted through forums, bulletin boards, discussion groups, chat rooms, surveys, blogs or other means of communication that may be offered from time to time on, or through, or in connection with our Site or the our Services.
+However, you may be required to have an Account in order to successfully submit User Content.
+3.2.
+Owner of User Content: By providing User Content, you represent and warrant that you are the owner of such content or, if you were to act on behalf of third parties, that you have their prior express authorization to send and publish such content. the aforementioned Contents, as well as all rights relating to the granting of licenses and permits of any kind in relation to the aforementioned User Contents.
+Furthermore, you represent and warrant (or, if you are acting on behalf of the owner of the User Content, you have ensured that the owner represents and warrants) that the sharing of the User Content, for the purposes indicated, does not violate or harm the rights copyright, trademarks or any other intellectual or industrial property rights of third parties, including publicity rights or privacy rights.
+3.3.
+Restrictions: You undertake not to transmit, publish or otherwise make available on our Site any material protected by copyright, trademark or other intellectual or industrial property rights of third parties without the express authorization of the owner of the copyright, trademark or any other intellectual or industrial property right.
+Groupon assumes no express obligation, nor related responsibility, to provide indications, notices or any other element aimed at determining whether the material in question is protected by copyright or is a registered trademark.
+You will be solely responsible for any damage resulting from any infringement of copyrights, trademarks, intellectual or industrial property rights or for any other damage resulting from the transmission of material on the Site.
+Additional restrictions as well as prohibited activities that you should be aware of are listed in section ‎5 below.
+3.4.
+Use of User Content: Groupon International has the sole and absolute right, but not the obligation, to review, edit, post, refuse to post, remove and monitor any User Content.
+Groupon International also has the right, but not the obligation, to disclose your User Content and the circumstances of its transmission to third parties, at any time and for any reason, including for the purpose of establishing compliance with this Agreement and with any other provisions established by Groupon International, as well as in order to comply with any law, regulation or authorized government request.
+Without limiting the foregoing, Groupon International has the right to remove any materials from the Site, in its sole and absolute discretion.
+Groupon International assumes no responsibility for any User Content or other information appearing on or removed from the Site or elsewhere.
+Furthermore, Groupon International has no obligation to make use of the aforementioned Content and may refrain from using it altogether.
+3.5.
+Editing or Removing User Content: In some circumstances, User Content that you have submitted or posted through your Account may be edited or removed.
+Groupon International makes no warranty that User Content that You modify or remove will be modified or removed from the Site or elsewhere, or that such User Content will cease to appear on the Internet, in search engines, on social websites media, or in any other form, media or technology.
+3.6.
+Public Nature of User Content: Customer acknowledges and agrees that User Content is public.
+Any person (whether or not a user of the Groupon International Services) can read your User Content without your knowledge.
+It is therefore recommended that you do not include additional personal information or any other information in your User Content that you do not wish to become public knowledge.
+Groupon International is not responsible for the use or disclosure of personal information or any other information that You provide in User Content.
+3.7.
+Disclaimer: Any User Content of any kind created by you or by third parties is the work of the relevant author(s) or distributor(s) and not of Groupon International.
+Other users may post User Content that is inaccurate, misleading or deceptive.
+Groupon International neither endorses nor is responsible for User Content, and will not be liable to Customer or any other person for any loss or damage caused by any reliance placed on such User Content.
+User Content reflects the opinions of the person posting it and may not reflect the opinions of Groupon International.
+Groupon International does not control or endorse User Content, and specifically disclaims any responsibility for or in connection with your contributions to, use of, or reliance on any User Content and any actions resulting from your participation in any portion of the Site or of the Services, including any objectionable User Content.
+3.8.
+Grant: Certain User Content that you transmit to Groupon International may be displayed or you may choose to be transmitted with your personal data, or a portion thereof, including, but not limited to, your name, Your initials, Your username, the username of the social media site You use, Your image, portraits, preferences, voice and location.
+You grant Groupon International and the Groupon Group a royalty-free, perpetual, irrevocable, sublicensable, absolute, non-exclusive, transferable, worldwide right to use, display, distribute, offer for sale and assign your personal information. to Your Content, whether such Content appears alone or as part of other works, and in any form, medium, or technology now known or later developed, and to sublicense such rights to multiple sublicensees, all without consideration in your favor of any compensation.
+However, Groupon International will have no obligation to use Your personal data in connection with Your Content.
+3.9.
+License: To Groupon International, you retain all ownership rights in any User Content that you submit or post.
+However, by providing User Content or other information on or through the Site, you grant to Groupon International and the Groupon Group a royalty-free, perpetual, worldwide, irrevocable, sublicensable, absolute, non-exclusive, transferable right and license , to use, reproduce, create derivative works from, publish, rectify, translate, distribute, perform, display, transmit, offer for sale and assign the User Content, alone or as part of other works, and in any form, media or technology, now known or subsequently developed, as well as to sublicense such rights to multiple sublicensees, all without payment to you of any compensation.
+Under this Agreement, you also waive any rights to the authorship or integrity of the materials in the User Content that you may have under any applicable law.
+Groupon International and the Groupon Group's license to User Content or personal data you provide includes its use for promotions, advertising, marketing, market research, Partner feedback, quality control, or any other lawful purpose.
+3.10.
+Copyright Practices: Groupon reserves the right to terminate your or any third party's right to use the Site if such use infringes the intellectual property rights of others.
+Under certain circumstances and in its sole discretion, Groupon may terminate your or any third party's right to access the Site if Groupon has actual knowledge of such user or third party's repeated infringements.
+If you believe that third-party material that constitutes copyright infringement has been posted on our Site and you wish to bring it to Groupon's attention, you should report it here or provide Agent Groupon's copyright, indicated below, the following information: (a) an electronic or handwritten signature of the person authorized to act on behalf of the owner of the copyrighted work; (b) identification of the work protected by copyright and the location, within the Site, of the allegedly infringed work; (c) a written statement that you have a good faith belief that the disputed use is not authorized by the owner, its agent, or the law; (d) your name and contact information, including, without limitation, your telephone number and email address; and e) a statement that the above information is accurate and truthful and that you are the copyright owner or a person authorized to act on the owner's behalf.
+The contact information for Groupon's Copyright Agent for notification of claims of copyright infringement is:
+Groupon, Inc.
+To: Copyright Agent
+c/o The Risk Management Department
+Floors 11-12, Aldgate Tower
+2 Leman Street, London E1 8FA, United Kingdom
+E-mail: emearisklegal@groupon.com
+Procedures for reporting infringements: If you own the copyright, trademark, patent or other intellectual property rights (hereinafter “IP Rights Owner”) or if you are an agent authorized to act on behalf of the IP Rights Owner (hereinafter “Authorized Agent”) and believes in good faith that the materials or products on the Site may constitute an infringement of the copyright, trademark or other intellectual property rights of the IP Rights Owner and would like to bring this to the attention of Groupon, you can submit your report here.
+3.11.
+Unsolicited Suggestions: Please be aware that we cannot accept unsolicited suggestions of any kind whether received directly or through employees or agents of Groupon International or the Groupon Group, including suggestions for new products or improvements, names or technologies, or campaigns. advertising and marketing plans or other promotions.
+Please do not transmit to us (even through our employees) any unsolicited materials, suggestions, images or other works in any form (the “Unsolicited Materials”).
+Otherwise, you acknowledge and agree to the following, regardless of any accompanying letter or other terms You may:
+Groupon International has no obligation to review Unsolicited Materials or to keep them confidential; Furthermore
+Groupon International reserves the right to possess, use and redistribute the Unsolicited Materials for any purpose, without restriction or obligation of acknowledgment or compensation.
+4.
+STANDARDS USED AND LIMITATION OF LIABILITY OF GROUPON INTERNATIONAL
+4.1.
+Our standards: Groupon International adopts the maximum commitment required in carrying out its business and guarantees that:
+4.1.1.
+will use such care and skill as is reasonable to be expected in the performance of any obligations arising under this Agreement;
+4.1.2.
+will not violate any canon of professional diligence established to safeguard its activity.
+4.2.
+Section 4 is important!:
+Section ‎4 applies in priority to all other sections of this Agreement and sets forth the limits of our liability for non-performance, failure or delay in performance of this Agreement, the Services, the Site or any purchase (or any part thereof ), or in any case in relation to this Agreement or the conclusion or execution thereof.
+4.3.
+What we are responsible for: Nothing in this Agreement shall exclude or limit our Liability for (i) fraud; (ii) death or personal injury caused by our negligence; (iii) gross negligence on our part; or (iv) any Liability that cannot be excluded or limited under applicable law.
+In any case, the Customer is required to take all reasonable measures to avoid or limit any damage.
+4.4.
+What we are not responsible for: Except as provided in Clause 4.3, because our business is to provide our Site and the related Services for your non-commercial use, we will never be responsible for: 4.4.1.
+loss of income or revenue; 4.4.2.
+loss of current or anticipated profits; 4.4.3.
+loss of opportunity; 4.4.4.
+indirect or consequential loss (“consequential loss” means losses which are not known, foreseen or otherwise foreseeable”).
+5.
+YOUR OBLIGATIONS
+5.1.
+Accuracy of information: You guarantee that all the information provided at the time of Registration and contained within your Account is true, complete and accurate and if such information undergoes changes, you will communicate this by promptly modifying your Account data.
+5.2.
+Site Content: It is your responsibility to verify that all Items or Information (or Products) made available on the Site meet your specific needs.
+5.3.
+What you cannot do: Without limitation, you agree not to use or allow others to use the Services or the Site:
+5.3.1.
+to upload, send or receive any material, including User Content, that may be offensive to good taste;
+5.3.2.
+to upload, send or receive any material, including User Content, that is unlawful, harmful, injurious, threatening, abusive, harassing, racist, homophobic, pornographic, violent, misleading, grossly offensive, indecent, obscene, profane or defamatory or prejudicial or infringing the rights of another person or entity, in contempt of court or in breach of confidence, including copyright, trademark, patent, rights of personality, publicity or privacy or other third party rights;
+5.3.3.
+to upload, send or receive any material, including User Content, for which you have not obtained all necessary licenses and/or approvals (whether from us or a third party) or which constitutes or encourages conduct that would be considered a criminal offense , which would give rise to criminal and/or civil liability, or would otherwise be contrary to the law or would violate the rights of third parties, in every country in the world;
+5.3.4.
+to upload, send or receive any material that is technically harmful (including computer viruses, logic bombs, Trojan horses, worms, components, corrupted or harmful data, malicious software, or anything else that may interrupt, interfere with, corrupt or otherwise cause loss, damage, destruction or limitation of functionality of any computer software or equipment);
+5.3.5.
+to cause nuisance, accident or unjustified disturbance;
+5.3.6.
+to intercept or attempt to intercept communications transmitted via telecommunications systems;
+5.3.7.
+for a purpose other than that for which we designed or intended them;
+5.3.8.
+for any fraudulent purpose; or
+5.3.9.
+in any way aimed at inciting hatred against any ethnic, religious or other minority or in any way prejudicial to any person, individual or group or legal entity.
+5.4.
+Prohibited Uses: The following uses of the Site and Services are expressly prohibited and you undertake not to carry out (or allow others to carry out) any of the following activities:
+5.4.1.
+resell the Services or the Site;
+5.4.2.
+provide false information including false names, addresses and contact details, fraudulently use credit/debit card numbers;
+5.4.3.
+attempt to circumvent our security measures or breach our network, for example by accessing data not intended for you, logging into a server or account that you are not expressly authorized to access, or probing the security of other networks (for example example via port scanning);
+5.4.4.
+access the Service (or the Site) or engage in any other activity in a manner that subjects our infrastructure to an unreasonable or disproportionately large workload or otherwise interrupts or interferes with its functionality, efficiency and operation;
+5.4.5.
+carry out any form of network monitoring that intercepts data not intended for you;
+5.4.6.
+send unsolicited email messages, including sending “junk mail” or other advertising material to individuals who have not expressly requested them.
+You are expressly prohibited from sending large quantities of unsolicited mass mail ("bulk mail"), including the sending of bulk mail relating to commercial advertisements, promotional or informational announcements, and political or religious censuses.
+These materials can only be sent to those who have expressly requested them.
+If a recipient requests to no longer receive emails of this nature, you will no longer be able to send any emails to that individual;
+5.4.7.
+create or continue "chain letters" or other "pyramid schemes" of any kind, whether or not the recipient wishes to receive such messages;
+5.4.8.
+send annoying emails, including by sending large quantities of emails to a user;
+5.4.9.
+fraudulently interacting or entering into agreements with Us, a Seller or a Partner (including interacting or entering into agreements by claiming to do so in the name and on behalf of a third party when you do not have the authority to bind such third party or by falsely representing yourself as a third party part);
+5.4.10.
+use the Services or the Site (or any relevant functionality of either), in violation of this Agreement;
+5.4.11.
+use email header information in an unauthorized manner, or falsify such information;
+5.4.12.
+engage in any illegal activity in connection with the use of the Services and/or the Site or a Coupon; or
+5.4.13.
+copy or use your User Content for commercial purposes.
+5.5.
+Devices: The Services and use of the Site do not include the provision of a computer or other device necessary to access the Site or the Services.
+To use the Site or Services, you will need an adequate Internet connection.
+We will not be responsible for telephone charges, telecommunications charges or other costs that you may incur.
+6.
+RULES FOR USE OF THE SERVICES AND THE SITE
+6.1.
+Errors and Omissions: We are not responsible for any errors or omissions (e.g.,
+publish a Coupon at the price of €1.99 instead of €199!)
+whether we have complied with the standards set out in section ‎4 of this Agreement.
+We will use reasonable efforts to correct any errors or omissions as soon as practicable after we receive notice of them.
+We reserve the right to change, modify, replace, suspend or remove, without notice, any Coupons, Items, Services or information on the Site or portions of the Services from time to time.
+6.2.
+Viruses and similar: We do not guarantee that the Services or the Site are free of viruses or any other harmful elements that may have a harmful effect on any technological device.
+6.3.
+Termination of Access: Although we will attempt to allow uninterrupted access to the Services and the Site, your access to the Services and the Site may be suspended, limited or terminated at any time.
+Access to the Site and/or Services may also be restricted from time to time to allow for repairs, maintenance or the introduction of new facilities or services.
+We will try to restore access as quickly as possible.
+We also reserve the right to block access to any materials and/or to edit or remove any materials that, in our reasonable opinion, constitute a violation of this Agreement.
+6.4.
+Account Termination: We reserve the right to terminate the Account of any user who violates our Terms and Conditions of Use, including in cases where a user is found to be using proxy Internet Protocol (IP) addresses to attempt to hide the use of multiple accounts, or if a user pretends to be located in a country other than the one in which he actually resides, or in any way causes disruption to the operation of the Site or the Service.
+6.5.
+Multiple Accounts: If you use more than one Account, if we decide to take action against you, such actions will affect all of your Accounts.
+7.
+SUSPENSION AND TERMINATION 7.1.
+If you (or anyone else in your place and with your permission uses) the Services or the Site in violation of this Agreement, we may suspend your use of the Services and/or the Site in whole or in part.
+7.2.
+If we suspend the Services or the Site, we may refuse to reinstate them until we have received assurance from you, in a form acceptable to us, that there will be no further breaches of the provisions of this Agreement.
+7.3.
+Groupon International will fully cooperate with any law enforcement authorities requesting or directing Groupon International to disclose the identity or identify anyone who may be in violation of this Agreement.
+7.4.
+Without prejudice to any other provisions contained in this section ‎7, we are authorized at any time, (in whole or in part) to: i) suspend the Services and/or the Site; ii) suspend your use of the Services and/or the Site; iii) suspend the use of the Services and/or the Site by anyone we believe to be connected (in any way) to You; and/or (iv) terminate this Agreement immediately if: 7.4.1.
+commit any violation of this Agreement; 7.4.2.
+there are reasonable grounds to believe that you have committed, may commit or will commit a violation of this Agreement; or 7.4.3.
+there are reasonable grounds to believe that you have committed, may commit or will commit fraud against us or any third party.
+7.5.
+Without prejudice to any other provisions contained in this section ‎7, we may terminate this Agreement at any time.
+7.6.
+Termination of this Agreement shall be without prejudice to any other rights or remedies available to us in respect of any breach, or in respect of any rights, obligations or liabilities accrued prior to termination.
+8.
+PROTECTION OF PERSONAL DATA
+8.1.
+We invite you to consult our Privacy Policy (Privacy Policy) and Cookies Policy (Cookies Policy) which form an integral part of this Agreement.
+9.
+ADVERTISING MESSAGES
+9.1.
+Advertisements may be served on our behalf by a third-party advertising agency, which may, on our behalf, place or recognize a unique “cookie” on your browser.
+If you would like more information about this practice and want to know what you can do to prevent the use of this information by any company, please see our Cookie Policy and Privacy Policy.
+10.
+LINKS TO AND FROM OTHER SITES
+10.1.
+If the Site contains links to sites and resources provided by third parties (collectively, the “Other Sites”), the links to such Other Sites are included solely to provide information and solely as a convenience to you.
+We have no control over the Other Sites, and we take no responsibility for the Other Sites or the content or products of the Other Sites (including in relation to social media sites such as Facebook), and we accept no liability for any loss or damage that may arise from their use.
+If you decide to access one of the third-party sites connected via links to the Site, you assume the related risk.
+11.
+INTELLECTUAL OR INDUSTRIAL PROPERTY RIGHTS
+11.1.
+Groupon International grants you a limited, personal, non-transferable, non-exclusive, revocable license to access and use the Site subject to this Agreement and all other terms and policies established by Groupon International.
+All intellectual or industrial property rights (including copyrights, patents, trademarks, trade names, domain names, social media identifiers, designs, whether registered or not) in the Site and the Services , (save section ‎11.4 below) materials, information and content on the Site or used as part of the Services, any databases maintained by us, all design, text, graphics, software, photos, videos , music, sounds, data, and all software compilations, underlying source code and software (including applets and scripts), as well as the selection, coordination, arrangement and enhancement thereof, remain our property (or that of our licensees).
+You may not obtain, and shall not attempt to obtain, any rights to such property.
+All rights reserved.
+11.2.
+None of the material listed in section 11.1 above, in whole or in part, may be reproduced, distributed, copied, modified, published, downloaded, displayed, posted, performed or transmitted in any form or by any means, sold, rented, resold, licensed or sublicensed, used to create derivative works, or in any way exploited without the prior express written permission of Groupon Group or its owner, except as expressly provided by applicable law.
+You may, however, retrieve and display the Site Content on your computer screen and store such content in electronic format (but not on a server or other storage device connected to a network).
+You may not reproduce, modify, copy, distribute, display, perform or use for commercial purposes any of the materials, information or Content on the Site without our permission.
+If the downloading, copying, redistribution, retransmission or publication of copyrighted material is permitted by law, you may not attribute authorship to yourself and/or you may not make changes to or delete any attribution of authorship.
+You acknowledge that you do not acquire any ownership rights by downloading copyrighted material.
+Any violation of these restrictions may result in an infringement of copyright, trademark or other intellectual or industrial property right which may subject you to civil and/or criminal penalties.
+Furthermore, you may not make any use that exceeds or violates the provisions of this Agreement.
+11.3.
+Groupon is the owner of registered and unregistered trademarks in many countries and “Groupon”, the Groupon logos and variations thereof on the Site are trademarks owned by Groupon, Inc.
+or its related entities, and any use of these trademarks will inure to the benefit of Groupon. ”
+GROUPON” is a registered trademark in the following countries: Algeria, Antigua, Saudi Arabia, Argentina, Armenia, Australia, Bahamas, Bahrain, Belarus, Brazil, Canada, Chile, Colombia, South Korea, Costa Rica, Dominican Republic, Ecuador, Egypt , United Arab Emirates, Russian Federation, Philippines, France, Germany, Hong Kong, India, Indonesia, Iceland, Israel, Jamaica, Japan, Jordan, Kenya, Lebanon, Liechtenstein, Macedonia, Morocco, Mexico, Moldova, Nigeria, Norway, New Zealand, O.A.P.I., Panama, Paraguay, Peru, Qatar, Singapore, United States of America, South Africa, Switzerland, Taiwan, Thailand, Tunisia, Turkey, Turkmenistan, Ukraine, European Union, Uruguay, Venezuela and Vietnam.
+A non-exhaustive list of Groupon brands is available here.
+11.4.
+The ownership, ownership rights and intellectual or industrial property rights relating to the Content accessible through the Site and the Services are the property of the owner of the Content and may be protected by copyright, trademark protection or other applicable laws.
+This Agreement does not grant you any rights to such Content except for the licenses granted herein.
+11.5.
+Except for User Content, the authors of the literary and artistic works found on the pages of the Site have asserted their right to be identified as the authors of such works.
+11.6.
+Any material You transmit or submit or post to the Site (or otherwise to us) will be treated (and we may treat) as non-confidential and not your property, subject to the application of section 3, our obligations under the legislation on personal data protection and save the data you provide for the purpose of making a payment.
+If for some reason, any part of that statement does not work as a matter of law, then for what you provide to us, from any source, (e.g.
+By email,, the site or any other) you guarantee us a free, perpetual, irrevocable, sublicensable, total, transferable, non-exclusive right of use, as well as the right to copy, modify, adapt, translate, publish, distribute, display , and represent such materials anywhere in the world, and in any form, media or technology, now known or hereafter developed, and to sublicense such rights through multiple tiers of sublicensees, all without compensation to you, for the purpose of operate the Site and procure the Services.
+12.
+GENERAL PROVISIONS
+12.1.
+Interpretation: In this Agreement:
+12.1.1.
+terms describing persons include natural persons, partnerships, corporations and legal entities in general;
+12.1.2.
+the section titles such as (“12.
+GENERAL PROVISIONS” at the beginning of this section) and subheadings (such as “Interpretation” at the beginning of this section 12.1.)
+are present for ease of reference within this document and do not constitute an integral part of or affect the interpretation of this Agreement; And
+12.1.3.
+references to the terms “include” and “included” will respectively mean “include/on by way of example only” and “included by way of example only”.
+12.2.
+Exclusion of Partnership/Agency Relationships: Nothing in this Agreement shall be construed to create a joint venture, partnership or agency relationship between Customer and Us and neither party shall assume any obligation or liability in the name or on behalf of Customer. 'other side.
+12.3.
+Exclusion of other conditions: Except as explicitly defined in this Agreement, all warranties, conditions and other terms provided by law are to be considered excluded to the maximum extent permitted by law.
+12.4.
+Assignment: You may not assign or otherwise dispose of all or any of your rights under this Agreement.
+Groupon shall have the right to assign or dispose of its rights or obligations under this Agreement to any third party.
+12.5.
+Events beyond its reasonable control: Groupon will not be liable for any failure to comply with its obligations under this Agreement if this occurs due to causes beyond its reasonable control.
+12.6.
+No Waiver: No forbearance by Groupon of any default by Customer shall be deemed or construed as a waiver by Groupon of its rights and remedies with respect to any future breach, whether of a similar or different nature.
+No delay, or other form of tolerant behavior that is held by Groupon towards the Customer, may constitute a waiver by Groupon to assert its rights and related remedies, nor in any case may it be assessed in the context of ascertaining your liability for non-compliance.
+12.7.
+Notices: Except as otherwise set forth in this Agreement, notices to each party will be made in writing and delivered by hand, sent via electronic mail (unless Customer is serving notice in connection with a judicial proceeding), via fax or prepaid post, to the Customer at the address provided by the same or to Groupon at its registered office.
+12.8.
+No Third Party Rights: Customer acknowledges and agrees that Groupon International is a party to this Agreement both on its own behalf and as an agent on behalf of and for the benefit of Groupon Group, Content providers and licensors (the “Third Party Rights Holders”) and that all rights and benefits of Groupon International (but not all charges and obligations) under or in connection with this Agreement including those arising whether in indemnity, contract, tort or otherwise, shall be the rights and benefits of each of the Third Parties Rights Holding Parties (as if each were a party to this Agreement).
+Such rights and benefits will be exercisable under this Agreement by Groupon International itself and/or as agent for each of the Third Party Rights Holders.
+12.9.
+Survival: In each case, the provisions of sections ‎1, ‎3, ‎4, ‎7, ‎11, ‎12 and ‎13 of this Agreement, as well as the provisions that are made to survive its expiration or its termination or which by their nature or context are expected to survive the dissolution of the same, will also be valid after the dissolution of the Agreement.
+In the event that the Customer uses the Services or the Site again, the provisions of the terms and conditions currently applicable will govern the reuse of the Services or the Site.
+In the event that Customer uses Coupons purchased under this Agreement, the provisions applicable to the Coupons will survive the termination of this Agreement.
+12.10.
+Severability: In the event that any provision of this Agreement is held to be invalid, void or unenforceable, such provision shall be deemed severed and, where possible, the validity and enforceability of the remaining provisions of this Agreement shall be preserved.
+12.11.
+Governing Law: This Agreement (and all non-contractual relationships between you and us) shall be governed by and construed in accordance with Irish law.
+13.
+DEFINITIONS In this Agreement, we use various definitions that you will recognize as they begin with a capital letter.
+This is their meaning:
+“Account” means your Groupon Account.
+“Liability” means liability for any cause whatsoever (including breach of contract, tort, misrepresentation, repayment of sums not due or any other cause whatsoever) relating to or arising out of or in connection with this Agreement (including liability expressly provided for in this Agreement or arising out of the invalidity or unenforceability of any term of this Agreement) – and for purposes of this definition, any reference to the “Agreement” shall be deemed to include any collateral agreement.
+“Partner” means a Seller of Products for which a Coupon may be redeemed.
+A Partner is NOT one of the “Sellers” or “Groupon International”.
+“Site” means the websites, mobile applications, electronic communications or services, social media sites, or any individual website, of a specific business partner or a specific Partner, or other city-specific sites or other sites area-specific that link to or refer to these Terms of Use.
+“Register” means creating an Account on the Site, and “Registration” means the action of creating an account.
+“Services” means all or any of the services provided by Groupon International through the Site (or through other electronic communications - or otherwise - communications from Groupon International) including mobile applications, our newsletter, emails we send to you and information, content and functionality on the Site (including the ability to make a purchase).
+“Coupon” indicates a Coupon that is sold by Sellers and can be redeemed to obtain a Partner's Products, subject to the terms and conditions indicated on the Coupon itself and/or on the page of the Site dedicated to the purchase.
+“Products” means the goods and/or services that are described as part of a Coupon (and for which a Coupon can be redeemed).
+***********************************
+CONDITIONS OF SALE COUPON – GROUPON ITALIA S.R.L
+1.
+General informations
+1.1 These Conditions of Sale apply to each Coupon you purchase from Groupon, acting in the name and on behalf of the Merchant.
+1.2 Groupon significa Groupon S.r.l.,
+a company incorporated under Italian law, registered in Italy and with its registered office in Corso Buenos Aires 54, Milan, Italy.
+The VAT number of Groupon is 06964760968.
+1.3 Coupon means an instrument, in physical or electronic form, which allows the owner of such Coupon (the “Coupon Owner”) to receive the Merchant Offer from the Merchant during the period of time set out on the Coupon (the “Redemption Period ”).
+1.4 Merchant Offering means the goods and/or services to be supplied and/or provided by the Merchant to the Coupon Owner, as specified on the Groupon Site and on the Coupon.
+1.5 The Merchant is a third party unrelated to Groupon that sells, supplies and/or delivers the Merchant Offering and authorizes Groupon to issue, sell and transmit the Coupon in the name and on behalf of the Merchant.
+The contract for the supply and purchase of the Merchant Offering will be between you and the Merchant from whom the Coupon is redeemed and in any case Groupon will conclude the contract on behalf of, and as agent of, the Merchant.
+Groupon does not sell, provide and/or deliver the Merchant Offering.
+It limits itself to issuing, selling and transmitting the Coupon to you in the name and on behalf of the Merchant.
+1.6 These Conditions of Sale were last updated on 15.03.2019.
+Groupon, in its capacity as agent of the Merchant, reserves the right to unilaterally modify these Terms of Sale at any time.
+All changes to these Conditions of Sale will be published online and made known through banners included in the newsletter.
+You will only be bound to the version of the Conditions of Sale that you accepted when purchasing a Coupon.
+2.
+Purchase of a Coupon
+2.1 To purchase a Coupon you must be at least 18 years old.
+Before you can make a purchase you must register and create an account with Groupon International Limited.
+2.2 By clicking on the «Buy Now» button, you send a proposal to purchase the Coupon to Groupon, acting in the name and on behalf of the Merchant.
+However, the purchase of the Coupon is not completed until you receive an email from Groupon, acting in the name and on behalf of the Merchant, confirming acceptance of your proposal.
+Groupon expressly reserves the right to reject your proposal.
+Furthermore, even if Groupon has accepted your proposal, Groupon may terminate the contract at any time if there are reasonable suspicions that you have committed or are about to commit any fraud against Groupon, a third party affiliate of Groupon or the Merchant.
+3.
+Redeeming a Coupon
+3.1 Unless expressly stated otherwise:
+(a) the Coupon can only be redeemed once;
+(b) the Coupon can only be redeemed with the Merchant and not with Groupon;
+(c) the Coupon is valid for one person only; And
+(d) you must follow the redemption instructions associated with the Coupon when you redeem the Coupon with the Merchant.
+3.2 All Coupons sold by Groupon are Coupons that can only be redeemed with the Merchant.
+3.3 In order to redeem a Coupon you must present it to the Merchant within the Redemption Period.
+If you do not redeem the Coupon within the Redemption Period, it will automatically expire.
+At that point, therefore, it can no longer be redeemed and you will not be entitled to any refund or compensation.
+3.4 In the event that the Merchant Offer is a “Direct Checkout” offer, Groupon will collect your shipping details at the time of purchase.
+Groupon will then forward these details to the Merchant.
+The Merchant will initiate the redemption of your Coupon and send you the Merchant Offer.
+3.5 Unless expressly stated otherwise, the Coupon does not entitle the Coupon Owner to receive the Merchant Offer at a specific time.
+It is strongly recommended that you contact the Merchant promptly.
+By doing so, you will have a better chance of securing the Merchant Offer in your preferred period.
+Please note that Groupon cannot influence the sales timing and/or delivery of the Merchant Offer.
+In the event that the Merchant's Offer expressly establishes the delivery of a certain good or the provision of a certain service within a given event (e.g.
+Christmas), and such delivery or service does not occur within the promised time, you can obtain a refund.
+3.6 If you redeem the Coupon for goods and/or services other than the Merchant Offer, you will not be entitled to a credit, cash refund or new Coupon for the difference between the value of the Merchant Offer and the current value of the goods and/or services supplied and/or provided to you by the Merchant.
+If, however, the Merchant offers you a good or service that is different from the Merchant's Offer, you can obtain, upon adequate proof from you, a refund.
+3.7 Coupons can only be redeemed in their entirety.
+They cannot be redeemed in part or in subsequent stages.
+If, for any reason, you redeem the Coupon with a Merchant for less than the original (non-discounted) value of the Merchant Offer, you will not be entitled to a credit, a cash refund, or a new Coupon for the difference between the original value (not discounted) and the redeemed value.
+3.8 On behalf of the Merchant, Groupon may collect registration fees or other costs associated with the purchase and/or redemption of a Coupon.
+All taxes or charges (if applicable) will be communicated to you prior to purchasing the Coupon.
+3.9 If the Merchant is unable to provide and/or deliver the Merchant Offering as described for unforeseen reasons, Groupon, on behalf of the Merchant, will notify you as soon as possible by email.
+4.
+Using a Coupon
+4.1 Any purchase of a Coupon is for your personal, non-commercial use only (although you may give the Coupon to another person for their personal, non-commercial use).
+4.2 You are fully responsible for your Coupon.
+Neither Groupon nor the Merchant is responsible for lost or stolen Coupons or for the recovery of Coupon reference numbers or security codes.
+4.3 You undertake not to provide false data, including false names, addresses and/or contact details or payment details, nor to commit any illegal activity in connection with the purchase or use of a Coupon, nor to allow any third party to do so. way.
+4.4 Any attempt to redeem a Coupon contrary to these Conditions of Sale may, at Groupon's discretion, render such Coupon void.
+4.5 Reproduction of a Coupon is prohibited.
+4.6 The commercial exchange of a Coupon is prohibited.
+5.
+Withdrawal (and exceptions), Refunds and Problems
+5.1 By law you have the right to cancel your purchase of the Coupon no later than 14 calendar days starting from the day after receiving the confirmation email (the «Coupon Cancellation Period»).
+However, if you redeem your Coupon during the Coupon Cancellation Period, you expressly ask Groupon, acting for and on behalf of the Merchant, to begin receiving services and you agree to lose the right to cancel the purchase of the Coupon.
+Once your Coupon is redeemed, Groupon, for and on behalf of the Merchant, has completed the entire issuance, sale and transmission of the Coupon.
+Please note, for the avoidance of doubt, that this chapter also applies to all «Direct Checkout» offers.
+5.2 If you wish to withdraw from your purchase of a Coupon, you can do so in the following ways:
+5.2.1 by completing and sending the online cancellation form on the following page https://static.groupon.it/mail_img/global/forms/IT_Voucher_Cancellation_Form.pdf
+5.2.2 by contacting us at http://www.groupon.it/contact
+5.2.3 by calling the customer service team on Telephone: 02 94754424 (costs vary depending on your price plan).
+5.3 If you withdraw from your purchase of the Coupon pursuant to this chapter 5, Groupon will refund you all payments made for your purchase no later than 14 calendar days starting from the day on which you inform Groupon of your withdrawal.
+5.4 If you have not had the opportunity to redeem your Coupon with the Merchant before the expiration of the Redemption Period for reasons beyond your control, you can obtain a refund.
+For these purposes, you must demonstrate, to the satisfaction of Groupon, that your inability to redeem the Coupon is not attributable to you.
+5.5 If you redeem your Coupon but the Merchant has not provided you with the Merchant Offer as required, or if you have a complaint regarding the provision of the Merchant Offer, you must contact the Merchant directly.
+This is because the Merchant, and not Groupon, is responsible for the provision and/or delivery of the Merchant Offering.
+Groupon merely sells and provides the Coupon, acting in the name and on behalf of the Merchant.
+However, if you and the Merchant are unable to agree on how to resolve the issue, Groupon, acting for and on behalf of the Merchant, may, at your request, attempt to resolve the dispute.
+5.6 If the Merchant requires payment of additional costs for the provision of the Merchant Offering and you are able to demonstrate this, you may obtain a refund.
+5.7 Cash refunds will be made to your original payment method.
+If your original payment method has been cancelled, expired or otherwise changed, you must immediately notify the customer support team at the following page http://contactus.groupon.it/. If you fail to do so and have been refunded to your original payment method, you may need to contact your bank or payment processor to obtain your refund.
+Groupon only does refunds.
+5.8 You have 30 days from the moment you receive the refund to refuse it.
+If you do not refuse the refund during these 30 days, the refund will be in full and final settlement of any claim you may have against Groupon relating to, arising out of or connected with such Coupon.
+6.
+Responsibility for the Merchant Offering
+6.1 Please note that the Merchant, and not Groupon,:
+6.1.1 the seller, supplier and/or provider of the Merchant Offering;
+6.1.2 the party who enters into a contract with the Coupon Owner when the Coupon is redeemed; And
+6.1.3 the person responsible for providing the Merchant Offer Coupon to the Owner.
+7.
+Groupon's Standards for Service and Responsibility
+7.1 Groupon, in its capacity as agent of the Merchant, guarantees that:
+7.1.1 will exercise reasonable care and diligence in fulfilling its obligations arising from these Conditions of Sale;
+7.1.2 the Coupons are of satisfactory quality and fit for their purpose; And
+7.1.3 does not contravene the requirements of correctness or professional diligence in carrying out its activity.
+7.2 Groupon is always liable for: (a) death and personal injury directly attributable to Groupon's negligence; (b) fraud or fraudulent misrepresentation committed by Groupon itself; or (c) any implied contractual term which cannot be excluded or limited under applicable law.
+7.3 Except as set out in chapter 7.2 above, Groupon is not liable for any other loss or damage which you may suffer, including any indirect or consequential loss.
+7.4 Groupon declines all responsibility for the violation of obligations arising from these Conditions of Sale where Groupon itself has not been able to comply with these obligations for reasons beyond its reasonable control.
+8.
+Groupon site
+The Groupon Site (the «Site») means the website on the Internet, mobile applications, electronic communications or services or any location from which you can purchase a Coupon from Groupon.
+The Site on which Groupon markets Coupons belongs to Groupon International Limited.
+You will find further information about the conditions of use of the Site, which are expressly an integral part of these Conditions of Sale, here https://www.groupon.it/legal/termsofservice.
+9.
+Miscellaneous
+9.1 If you breach these Terms of Sale and Groupon does not take legal action against you, this does not mean that Groupon has waived its rights and actions.
+9.2 Unless otherwise established in these Conditions of Sale, communications to the parties must be in writing and must be sent by electronic mail (except in the case in which they are sent for the purposes of service of procedural documents) or by prepaid post.
+Any communications Groupon sends to you will be to the address you provided when registering your Groupon account.
+You may send any communication to Groupon at the address set out in chapter 1.2.
+9.3 If any provision of these Conditions of Sale should be declared invalid or ineffective, the validity and effectiveness of the remaining provisions of this Contract will not be affected.
+Such invalid or ineffective provision will be replaced by a valid and effective provision that achieves as much as possible the economic effect envisaged by the provision deemed invalid or ineffective.
+9.4 These Conditions of Sale are governed and interpreted in accordance with Italian law, regardless of the application of any conflict law or any choice made by the parties.
+Any disputes will be subject to the exclusive jurisdiction of the Court of your place of residence or domicile.
+***********************************
+Terms of Sale - Groupon Goods Global GmbH
+This page sets out the terms of sale of Goods by Groupon Goods to you.
+1.
+Contract and information about the ordering procedure
+1.1.
+The parties to this contract: these Terms of Sale (“Terms of Sale”) constitute an agreement between you, the customer (hereinafter referred to as “you” or “your”) and Groupon Goods Global GmbH (hereinafter referred to as «Groupon Goods», «we» or «our»).
+We are a company registered in Switzerland (REA number CHE-497.202.638) with registered office in c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffausen, Switzerland, VAT number IT08317410960.
+1.2.
+These Terms of Sale apply: if you place an order with us, you agree to be bound by these Terms of Sale and our Returns Policy.
+1.3.
+Your Offer: If you click on the «Buy Now» button, you are placing an offer to purchase products sold by Groupon Goods (the «Goods»).
+If you click on «Buy Now», you explicitly acknowledge that, if we accept your order, you are obliged to pay for the Goods.
+You must be aged 18 or over to purchase the Goods.
+1.4.
+A copy of these Conditions of Sale: we advise you to keep a copy of this contract between us (these Conditions of Sale) and we advise you to print these Conditions of Sale for your reference.
+1.5.
+Your statutory rights: as a consumer, nothing in these Terms of Sale affects your statutory rights relating to faulty or non-compliant goods or your right to cancel the contract.
+1.6.
+Updates to these Conditions of Sale: these Conditions of Sale were last updated on 06.27.2017 (version 004b).
+We reserve the right to modify these Conditions of Sale at any time (such modifications will be published online).
+Any changes made to these Conditions of Sale after you have placed your order will not apply to you in relation to that order.
+2.
+Prices and purchase
+2.1.
+Pricing and who you pay: We accept and process your payment for your order.
+All prices (including delivery charges) for Goods include VAT. applicable.
+The prices are communicated to you before your purchase and upon order confirmation.
+Our prices may change at any time, but the changes do not apply to your already placed order, except as described below in Clauses 2.4 and 2.5.
+2.2.
+Shipping costs: prices may or may not include shipping costs.
+Any costs will be indicated in the specific section of the offer.
+If shipping costs are not included in the sales price (and this will be adequately and clearly indicated), these costs will be reported separately and added to the total amount before you complete your order.
+If you ask us to schedule delivery at a certain time and you are not available at the agreed time, we may charge you to reschedule delivery.
+2.3.
+Placing your order: after placing your order by clicking on the «Buy now» button and accepting these Conditions of Sale, the contract will be considered completed when you have received an email confirming our acceptance of your order.
+However, we reserve the right to refuse your offer and not to conclude a contract with you.
+If we have accepted your order, you will receive another email confirming dispatch of the Goods.
+Please note that if we reasonably believe that your order is fraudulent or that you have otherwise breached applicable legislation at the time you placed your order, we reserve the right to cancel your order even if we have accepted it.
+2.4.
+Errors and Omissions: Occasionally an error or omission may occur in relation to the prices or description of the Goods we sell.
+We will use reasonable efforts to correct any errors or omissions as soon as practicable after being notified or becoming aware of them.
+We reserve the right to change, modify, replace, suspend or remove without notice any errors or omissions in respect of the Goods for sale (including the Goods themselves).
+2.5.
+Post-purchase errors and omissions: if we make an error or omission and you have already purchased the Goods:
+(a) if the current price for the Goods is lower than that stated at the time you purchased the Goods, we will charge you the lower price; or
+(b) if the price of the Goods is higher than stated, we will contact you and allow you to choose whether to pay the correct (higher) price or cancel your order and receive a full refund.
+3.
+Delivery of goods
+3.1.
+Changing your order: Once you have placed your order, we are unable to change your order in any way, including the quantity of the Goods or the delivery address.
+This Clause does not affect the exercise of the right of withdrawal or any other right you may have in relation to the purchase in question.
+3.2.
+Shipping: Groupon Goods shipping options vary depending on the offer.
+Your purchase cannot be shipped outside Italy.
+3.3.
+Delivery estimates: the expected delivery times are indicated in the specific section of the offer.
+We will do our best to respect the delivery date indicated.
+Please keep in mind that unless otherwise established, expected delivery times are only estimates; they are therefore not guaranteed delivery times and should not be considered as such.
+In the event that the delivery date is expressly guaranteed or the use and therefore delivery of the Goods is expressly guaranteed by the occurrence of a certain event (for example Christmas) and such delivery is not respected by us for reasons attributable to us, you will have right to reimbursement of the price paid.
+3.4.
+Title: Ownership of the Goods will pass to you when the Goods have been delivered to the delivery address you have given to us.
+4.
+Withdrawal
+4.1.
+Your right to cancel: Nothing in these Conditions of Sale affects your right to cancel orders within 14 calendar days of the day on which you, or a third party nominated by you, receives the Goods.
+If you have ordered multiple Goods in a single order, or if the delivery of your Goods consists of several pieces, the withdrawal period begins on receipt of the last item or piece.
+4.2.
+If you wish to cancel your order, you can do so in the following ways:
+(a) by completing and sending our standard withdrawal form, made available to you via your confirmation email;
+(b) by contacting us via https://www.groupon.it/customer_support;
+(c) by post to the address in Clause 1.1;
+(d) by hand-delivered communication.
+4.3.
+You must take care to ensure suitable packaging of the Goods to avoid their damage during transport.
+The costs for returning the Goods are your responsibility.
+We advise you to use a tracked delivery service when returning Goods.
+4.4 The refund will be made, through a chargeback relating to the price paid, within 14 days from the date of receipt of the product (or, if applicable, from the date on which you provide us with proof of sending the product).
+4.5.
+The following Goods are excluded from the right of withdrawal:
+(a) perishable goods such as foodstuffs or flowers;
+(b) audio/video recordings; DVDs or computer software that you have removed from the sealed packaging in which they were delivered to you;
+(c) goods made to your specifications;
+(d) periodicals or magazines;
+(e) lotteries or games of chance;
+(f) all other Goods which by their nature cannot be returned, including those which would be damaged in transit.
+4.6.
+Return of Goods: Please note that if you exercise your right to withdraw from your purchase, you must return the Goods to us no later than 14 calendar days after exercising such withdrawal.
+4.7.
+We may cancel: We may be forced to cancel an order before delivery of the Goods as a result of an event outside our reasonable control, including equipment failure or transportation difficulties.
+If this should happen, you will be promptly contacted promptly.
+5.
+Returns and refunds
+5.1.
+Our Returns Policy: Every item we sell is covered by our Returns Policy.
+In addition to your right to return the Goods within 14 calendar days of the day on which you, or a third party nominated by you, receives the Goods, you have all applicable warranty rights, including warranties for non-conforming or faulty goods.
+5.2.
+Title to the returned Goods: we assume title to the returned Goods only when they have reached our return destination.
+We reserve the right to provide a refund without requesting a return.
+In the latter case, we do not assume title to such Goods.
+5.3.
+Problems with your returned Goods: we reserve the right to refuse a refund and to claim the cost of shipping your return if it appears (i) that the Goods have suffered damage after delivery to your address; (ii) that the Goods have been used incorrectly or not in accordance with instructions or for inspection purposes; or (iii) if the problem with the Goods is due to normal wear and tear.
+This Clause 5.3 does not limit or affect your right to cancel your contract and return goods under Clause 4, or your warranty rights if goods supplied to you are incorrect or faulty.
+6.
+Information on goods
+6.1.
+We are not the manufacturer: We are not the manufacturer of the Goods we sell.
+Whilst we endeavor to ensure that the Goods correspond to the description we have given, that they are of satisfactory quality and that they are fit for use, the Goods may vary slightly from this product information.
+Before use, we advise you to read all information available on the labels, as well as all warnings and directions accompanying the Goods.
+Any warranty given by us, the manufacturer or the importer does not affect the rights and legal remedies you may have under this agreement and applicable law.
+6.2.
+Accuracy of descriptions: We have made every effort to display the colors and other details of the Goods as accurately as possible.
+However, the colors and details you see in advertising will depend on the equipment you use to view the Goods.
+We cannot guarantee that the display of individual colors or details on your television, mobile device, computer monitor or other device will exactly match the colors or details of the Goods on delivery.
+6.3.
+Health and Safety Goods: For Health and Safety Goods, if you are in any doubt about the safety or any other information relating to the product, we recommend that you carefully read the information provided with the product or contact the manufacturer.
+The contents on the websites are not intended to replace advice given by a doctor, pharmacist or other licensed healthcare professional.
+Customers should contact their doctor immediately if they suspect they have a health problem.
+Information and statements about the Goods are not intended to diagnose, treat, cure or prevent any disease or health condition.
+We accept no liability for inaccuracies or misrepresentations of the Goods attributable to the manufacturers or third parties.
+7.
+Responsibility'
+7.1.
+The standards by which we operate: we always try to do the best in what we do and guarantee that:
+(a) we will exercise reasonable care and skill in fulfilling any obligations arising under these Conditions of Sale;
+(b) we are entitled to sell the Goods;
+(c) we sell the Goods for domestic and private use only;
+(d) the Goods are of satisfactory quality and fit for their purpose;
+(e) we do not contravene the requirements of correctness or professional diligence in carrying out our business.
+7.2.
+This Clause 7 prevails over all other Clauses (except Clause 1.5) and sets out our entire Liability.
+7.3.
+We are responsible for: nothing in these Terms of Sale shall exclude or limit our Liability for (i) fraud; (ii) gross negligence, excluding gross negligence not attributable to us; or (iii) any Liability that cannot be excluded or limited under applicable law.
+You are obliged to take appropriate measures to avoid and reduce damage.
+7.4.
+Categories of loss for which we are not responsible: Notwithstanding Clause 7.3, because we only sell Goods intended for domestic and private use, we are not in principle liable for: (a) loss of income or income; (b) loss of actual or anticipated earnings; (c) loss of business; and (d) indirect or consequential loss (and for the avoidance of doubt, we give the words “consequential loss” the meaning of “consequential loss whether foreseeable, known, foreseen or otherwise”).
+7.5. «
+Liability" means liability in or for any cause whatsoever (including any breach of contract, tort, misrepresentation, compensation or any other legal cause) relating to or arising out of or in connection with these Conditions of Sale (including liability expressly provided pursuant to these Conditions of Sale or resulting from the invalidity or ineffectiveness of these Conditions of Sale).
+8.
+General provisions
+8.1.
+Interpretation: in these Conditions of Sale:
+(a) words denoting persons, including natural persons, partnerships, limited liability companies, body corporates and unincorporated associations;
+(b) Clause titles such as («8. «
+General Provisions" at the beginning of this Clause) and Clause titles (such as "Interpretation:" at the beginning of this Clause 8.1) are intended for ease of reference and do not form part of or affect the interpretation of these Conditions of Sale;
+(c) references to “including” and “including” shall also be taken to mean “including without limitation” and “including without limitation” respectively.
+8.2.
+No Partnership/Agency: Nothing in these Terms of Sale shall be construed as constituting a joint venture, partnership or agency relationship between us and you and neither party shall assume any liability, debt or cost, or enter into any contract in the name or on behalf of the other.
+8.3.
+Assignment: You may not assign or otherwise transfer all or any of your rights or obligations under these Terms of Sale without our prior written approval.
+We will not refuse this approval without good reason.
+We shall have the right to assign or otherwise transfer all or any of our rights or obligations under these Terms of Sale to any person.
+8.4.
+Events beyond our reasonable control: we will not be liable for breaches of our obligations under these Conditions of Sale where we are prevented or hindered from complying with the same obligations by any cause beyond our reasonable control.
+Where an event outside our reasonable control occurs which affects our ability to comply with our obligations under these Terms of Sale, our obligations will be extended for the duration of the event and we will inform you of this as soon as possible.
+When the impeding event is overcome, we will agree with you a new delivery date for your Goods, where possible.
+8.5.
+Our scope: We intend to apply to the Sale of the Goods to you only the conditions set out in these Conditions of Sale and no other representations made elsewhere.
+8.6.
+No Waiver: No forbearance by us of any breach by you of these Terms of Sale shall or may be construed as a waiver by us of any future breach, whether similar or different.
+No delay on our part in taking legal action relating to your breach shall exempt you from or otherwise affect your liability under these Terms of Sale.
+8.7.
+Communications: unless otherwise established in these Conditions of Sale, communications to the parties must be in writing and must be sent by electronic mail (unless it is a valid communication for the purposes of service of procedural documents) or by prepaid post, to you at the address you provided to us and to us at our registered office.
+8.8.
+No Third Party Rights: All provisions of these Terms of Sale apply equally to and inure to the benefit of Groupon Goods, its affiliate(s) and its third party content provider(s) and its licensors, and each shall have the right to exercise and enforce such provisions directly.
+Without prejudice to the foregoing, no term of these Terms of Sale may otherwise be enforced by any person who is not a party hereto.
+8.9.
+Survival: in any case, the provisions of Clauses 1, 2, 4, 7 and 8 of these Conditions of Sale, together with those provisions which are expressly indicated as intended to survive the expiry or termination of the Agreement or which by their nature or as their context is intended to survive such termination, will survive termination of the Agreement.
+8.10.
+Severability: If any provision of these Terms of Sale is held to be illegal, invalid or unenforceable, such provision will be removed from these Terms of Sale without affecting the remaining provisions of these Terms of Sale.
+Where possible, the validity and effectiveness of the remaining provisions of these Conditions of Sale will not be affected.
+8.11.
+Governing Law and Dispute Resolution: We will endeavor to resolve any dispute arising under these Terms of Sale.
+If you wish to take legal action against us, these Conditions of Sale (and all non-contractual relationships between you and us) will be governed by and interpreted in accordance with Italian law and both parties hereby declare themselves subject to the jurisdiction exclusive rights of the competent courts in Italy where you have your residence or domicile.
+The parties further agree that the United Nations Convention on the International Sale of Goods does not apply to this Agreement.
+9.
+Customer service
+Contact information
+Telephone: 02 947 54 424
+Contact us: https://www.groupon.it/customer_support
+***********************************
+Coupon sales conditions – Groupon International Travel GmbH
+1.
+General informations
+1.1 These Conditions of Sale apply to each Coupon you purchase from Groupon International Travel Gmbh.
+1.2 Groupon means Groupon International Travel GmbH, a company incorporated under Swiss law, with its registered office at c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Switzerland (REA number CHE-180.110.104).
+The company's VAT number is CHE-349.386.564 MWST.
+1.3 Coupon means an instrument, in physical or electronic form, which allows the owner of such Coupon (the “Coupon Owner”) to receive the Merchant Offer from the Merchant during the period of time set out on the Coupon (the “Redemption Period ”).
+1.4 Merchant Offering means the goods and/or services to be supplied and/or provided by the Merchant to the Coupon Owner, as specified on the Groupon Site and on the Coupon.
+1.5 The Merchant is a third party unrelated to Groupon that sells, supplies and/or delivers the Merchant Offering.
+Groupon does not sell, provide and/or deliver the Merchant Offering.
+It merely sells and provides the Coupon.
+1.6 These Conditions of Sale were last updated on 06.27.2017.
+Groupon reserves the right to unilaterally modify these Conditions of Sale at any time.
+All changes to these Conditions of Sale will be published online and made known through banners included in the newsletter.
+You will only be bound to the version of the Conditions of Sale that you accepted when purchasing a Coupon.
+2.
+Purchase of a Coupon
+2.1 To purchase a Coupon you must be at least 18 years old.
+Before you can make a purchase you must register and create an account with Groupon International Limited.
+2.2 By clicking on the «Buy Now» button, you send Groupon a proposal to purchase the Coupon.
+However, the purchase of the Coupon is not completed until you receive an email from Groupon confirming acceptance of your proposal.
+Groupon expressly reserves the right to reject your proposal.
+Furthermore, even if Groupon has accepted your proposal, Groupon may terminate the contract at any time if there are reasonable suspicions that you have committed or are about to commit any fraud against Groupon, a third party affiliate of Groupon or the Merchant.
+2.3 The Merchant may apply its terms and conditions to the sale, supply and/or provision of the Merchant Offering.
+3.
+Redeeming a Coupon
+3.1 Unless expressly stated otherwise:
+(a) the Coupon can only be redeemed once;
+(b) the Coupon can only be redeemed with the Merchant and not with Groupon;
+(c) the Coupon is valid for one person only; And
+(d) you must follow the redemption instructions associated with the Coupon when you redeem the Coupon with the Merchant.
+3.2 All Coupons sold by Groupon are Coupons that can only be redeemed with the Merchant.
+3.3 In order to redeem a Coupon you must present it to the Merchant within the Redemption Period.
+If you do not redeem the Coupon within the Redemption Period, it will automatically expire.
+At that point, therefore, it can no longer be redeemed and you will not be entitled to any refund or compensation.
+3.4 In the event that the Merchant Offer is a “Direct Checkout” offer, Groupon will collect your shipping details at the time of purchase.
+Groupon will then forward these details to the Merchant on your behalf.
+The Merchant will initiate the redemption of your Coupon and send you the Merchant Offer.
+3.5 Unless expressly stated otherwise, the Coupon does not entitle the Coupon Owner to receive the Merchant Offer at a specific time.
+It is strongly recommended that you contact the Merchant promptly.
+By doing so, you will have a better chance of securing the Merchant Offer in your preferred period.
+Please note that Groupon cannot influence the sale and/or delivery of the Merchant Offering.
+In the event that the Merchant's Offer expressly establishes the delivery of a certain good or the provision of a certain service within a given event (e.g.
+Christmas), and such delivery or service does not occur within the promised time, you can obtain a refund.
+3.6 If you redeem the Coupon for goods and/or services other than the Merchant Offer, you will not be entitled to a credit, cash refund or new Coupon for the difference between the value of the Merchant Offer and the current value of the goods and/or services supplied and/or provided to you by the Merchant.
+If, however, the Merchant offers you a good or service that is different from the Merchant's Offer, you can obtain, upon adequate proof from you, a refund.
+3.7 Coupons can only be redeemed in their entirety.
+They cannot be redeemed in part or in subsequent stages.
+If, for any reason, you redeem the Coupon with a Merchant for less than the original (non-discounted) value of the Merchant Offer, you will not be entitled to a credit, a cash refund, or a new Coupon for the difference between the original value (not discounted) and the redeemed value.
+3.8 On behalf of the Merchant, Groupon may collect registration fees or other costs associated with the purchase and/or redemption of a Coupon.
+All taxes or charges (if applicable) will be communicated to you prior to purchasing the Coupon.
+3.9 If the Merchant is unable to provide and/or deliver the Merchant Offering as described for unforeseen reasons, Groupon will notify you as soon as possible by email.
+Groupon will offer you either a new Coupon for similar or the same services (if available) or a refund of the purchase price of the Coupon.
+4.
+Using a Coupon
+4.1 Any purchase of a Coupon is for your personal, non-commercial use only (although you may give the Coupon to another person for their personal, non-commercial use).
+4.2 You are fully responsible for your Coupon.
+Neither Groupon nor the Merchant is responsible for lost or stolen Coupons or for the recovery of Coupon reference numbers or security codes.
+4.3 You undertake not to provide false data, including false names, addresses and/or contact details or payment details, nor to commit any illegal activity in connection with the purchase or use of a Coupon, nor to allow any third party to do so. way.
+4.4 Any attempt to redeem a Coupon contrary to these Conditions of Sale may, at Groupon's discretion, render such Coupon void.
+4.5 Reproduction of a Coupon is prohibited.
+4.6 The commercial exchange of a Coupon is prohibited.
+5.
+Withdrawal (and exceptions), Refunds and Problems
+5.1 By law you have the right to cancel your purchase of the Coupon no later than 14 calendar days starting from the day after receiving the confirmation email (the «Coupon Cancellation Period»).
+However, if you redeem your Coupon during the Coupon Cancellation Period, you expressly request to receive the services and agree to lose the right of withdrawal from the purchase of the Coupon.
+Please note, for the avoidance of doubt, that this chapter also applies to all «Direct Checkout» offers.
+5.2 If you wish to withdraw from your purchase of a Coupon, you can do so in the following ways:
+5.2.1 by completing and sending the online cancellation form on the page http://contattaci.groupon.it/;
+5.2.2 by calling the customer service team on Telephone number: 02 94754424 (costs vary depending on your price plan);
+5.2.3 by writing to us at the address mentioned in chapter 1.2.
+5.3 If you withdraw from your purchase of the Coupon pursuant to this chapter 5, Groupon will refund you all payments made for your purchase no later than 14 calendar days starting from the day on which you inform Groupon of your withdrawal.
+5.4 If you have not had the opportunity to redeem your Coupon with the Merchant before the expiration of the Redemption Period for reasons beyond your control, you can obtain a refund.
+For these purposes, you must demonstrate, to the satisfaction of Groupon, that your inability to redeem the Coupon is not attributable to you.
+5.5 If you redeem your Coupon but the Merchant has not provided you with the Merchant Offer as required, or if you have a complaint regarding the provision of the Merchant Offer, you must contact the Merchant directly.
+This is because the Merchant, and not Groupon, is responsible for the provision and/or delivery of the Merchant Offering.
+Groupon merely sells and provides the Coupon.
+However, if you and the Merchant cannot agree on how to resolve the issue, Groupon may, upon your request, attempt to resolve the dispute between you and the Merchant.
+5.6 If the Merchant requires payment of additional costs for the provision of the Merchant Offering and you are able to demonstrate this, you may obtain a refund.
+5.7 Cash refunds will be made to your original payment method.
+If your original payment method has been cancelled, expired or has otherwise been changed, you must immediately notify the customer support team at http://contattaci.groupon.it/ If you fail to do so and have been refunded according to the your original payment method, you may need to contact your bank or payment provider to obtain your refund.
+Groupon only does refunds.
+5.8 You have 30 days from the moment you receive the refund to refuse it.
+If you do not refuse the refund during these 30 days, the refund will be in full and final settlement of any claim you may have against Groupon relating to, arising out of or connected with such Coupon.
+6.
+Responsibility for the Merchant Offering
+6.1 Please note that the Merchant, and not Groupon,:
+6.1.1 the seller, supplier and/or provider of the Merchant Offering;
+6.1.2 the party who enters into a contract with the Coupon Owner when the Coupon is redeemed; And
+6.1.3 the person responsible for providing the Merchant Offer Coupon to the Owner.
+7.
+Groupon's Standards for Service and Responsibility
+7.1 Groupon guarantees that:
+7.1.1 will exercise reasonable care and diligence in fulfilling its obligations arising from these Conditions of Sale;
+7.1.2 the Coupons are of satisfactory quality and fit for their purpose; And
+7.1.3 does not contravene the requirements of correctness or professional diligence in carrying out its activity.
+7.2 Groupon is always liable for: (a) death and personal injury directly attributable to Groupon's negligence; (b) fraud or fraudulent misrepresentation committed by Groupon itself; or (c) any implied contractual term which cannot be excluded or limited under applicable law.
+7.3 Except as set out in chapter 7.2 above, Groupon is not liable for any other loss or damage which you may suffer, including any indirect or consequential loss.
+7.4 Groupon declines all responsibility for the violation of obligations arising from these Conditions of Sale where Groupon itself has not been able to comply with these obligations for reasons beyond its reasonable control.
+8.
+Groupon site
+The Groupon Site (the «Site») means the website on the Internet, mobile applications, electronic communications or services or any location from which you can purchase a Coupon from Groupon.
+The Site on which Groupon markets Coupons belongs to Groupon International Limited.
+You will find further information about the conditions of use of the Site, which are expressly an integral part of these Conditions of Sale, here www.groupon.it/terms_and_conditions/tou112015.
+9.
+Miscellaneous and possible
+9.1 If you breach these Terms of Sale and Groupon does not take legal action against you, this does not mean that Groupon has waived its rights and actions.
+9.2 Unless otherwise established in these Conditions of Sale, communications to the parties must be in writing and must be sent by electronic mail (except in the case in which they are sent for the purposes of service of procedural documents) or by prepaid post.
+Any communications Groupon sends to you will be to the address you provided when registering your Groupon account.
+You may send any communication to Groupon at the address set out in chapter 1.2.
+9.3 If any provision of these Conditions of Sale should be declared invalid or ineffective, the validity and effectiveness of the remaining provisions of this Contract will not be affected.
+Such invalid or ineffective provision will be replaced by a valid and effective provision that achieves as much as possible the economic effect envisaged by the provision deemed invalid or ineffective.
+9.4 These Conditions of Sale are governed and interpreted in accordance with Italian law, regardless of the application of any conflict law or any choice made by the parties.
+Any disputes will be subject to the exclusive jurisdiction of the Court of your place of residence or domicile.
+***********************************
+Booking conditions
+This document sets out the booking terms and conditions for the use of the Groupon International Travel GmbH Services (the “Terms of Sale”).
+It is not possible to use the Services (including making a Reservation or a Purchase) without accepting these Conditions of Sale.
+Please note that these Terms of Sale will NOT apply to the purchase, on the market, of any item other than the Accommodation, as such purchases are governed by your own applicable terms of sale.
+1 BASIC INFORMATION RELATING TO THESE CONDITIONS OF SALE
+1.1 Groupon International Travel GmbH: Groupon International Travel GmbH is a company incorporated under Swiss law with number CHE-180.110.104 with registered office at c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, Switzerland (hereinafter referred to as “Groupon Travel ”, “us”, “we” or “our”).
+The company's VAT number is CHE-349.386.564 MWST.
+1.2.
+Groupon Travel and Suppliers: For each Reservation and each subsequent Purchase, we act as an agent for the Supplier.
+The Accommodation described on the Groupon International Site does not constitute an offer on our part to sell similar accommodations, but is an invitation to you to make an offer to our Suppliers.
+We are free to accept or reject such offer on behalf of such Suppliers.
+This means that the contract for the Accommodation is between you and the Provider.
+The Supplier (or, possibly, the Supplier's client) is legally responsible for making the Accommodation available to you.
+As your agent, we are under no circumstances legally responsible for providing the Accommodation to you.
+We will delve deeper into this aspect below.
+1.3 What are the Conditions of Sale?
+Please read these Terms of Sale carefully as they will apply to the use of the Services, Reservations, Purchases and Accommodations (or otherwise) by you (hereinafter the "user").
+We will not allow you to make any Reservation or Purchase if you do not confirm that you have read and accepted these Conditions of Sale.
+The Suppliers will apply their own terms and conditions which will govern the user's Booking and any subsequent Purchase.
+These Conditions of Sale are subject to any terms and conditions of the Suppliers involved and the user, when making a Booking and proceeding with the subsequent Purchase, undertakes to abide by these terms and conditions.
+If there is a conflict between these Terms of Sale and any terms and conditions of the Supplier, the latter will prevail over these Terms of Sale to the extent of any conflict.
+1.4.The Groupon International Site: Our affiliate Groupon International Limited in Ireland (“Groupon International”) operates the website and mobile sites and newsletter services where we advertise Accommodations and Reservations.
+See Groupon International's Terms of Use here.
+Groupon Travel is one of the sellers operating on the Groupon International Site.
+If you interact, in any way, with the Groupon International Site, you will likely see references to various companies within the Groupon group (“Groupon Group”).
+Depending on what you purchase from the Groupon International Site, you will likely be subject to different contracts with different Groupon Group companies.
+These Terms of Sale apply only in relation to the use of our Services.
+To learn more about the various legal relationships you may be subject to when you access the Groupon International Site, please see the Groupon International FAQ here.
+1.5 Privacy Practices: When you make a Booking or Purchase through Groupon Travel, you authorize us to collect, process and use your information as described in our Privacy Policy.
+1.6.
+These Conditions of Sale: When you use our Services (including making a Booking or a Purchase), you automatically accept these Conditions of Sale.
+Our sending of a Booking confirmation email gives rise to a contract between you and us governed by these Terms of Sale.
+1.7.
+Your legal rights: As a consumer, nothing in these Terms of Sale affects your legal rights.
+In particular, the user can always make use of all the applicable rights provided for by Legislative Decree 206/2005 (“Consumer Code”) and by Legislative Decree 79/2011 (“Tourism Code”).
+1.8.
+Updates to these Conditions of Sale: The most recent update to these Conditions of Sale occurred on 06.27.2017.
+Groupon reserves the right to change these Terms of Sale at any time (and post such change online).
+Any changes to these Conditions of Sale made after the user has received confirmation of the Booking via e-mail will not apply to the user with respect to such Booking and any subsequent Purchase relating to such Booking.
+1.9.
+Definitions: Various specific terms will be used in these Terms of Sale.
+The user will easily recognize them because they are indicated with a capital letter.
+These specific terms are defined throughout these Terms of Sale, as well as in Clause 12.
+2.
+YOUR OBLIGATIONS UNDER THESE CONDITIONS OF SALE
+2.1.
+Minimum age: Only people aged 18 or over can make Reservations or Purchases.
+By making a Booking or a Purchase you confirm that you are 18 years of age or older.
+2.2 Accuracy of information and communications: You acknowledge and agree that Groupon Travel and any Supplier reserve the right to cancel your Purchase at any time for your failure to provide us with any relevant information about yourself or your persons for whom the Reservation is made, as provided for in these Conditions of Sale.
+The user guarantees that:
+2.2.1 all information you provide to us arising out of or in connection with these Terms of Sale is true, complete and accurate;
+2.2.2 you will promptly inform us of any changes to the accuracy of the information you provide to us;
+2.2.3 you acknowledge and accept your responsibility to disclose facts relating to you and the people for whom you make the Booking which may affect your (or their) ability to travel, such as criminal offenses and previous deportations from destinations to which you are traveling;
+2.2.4 if you or the persons for whom you are making the Booking intend to travel to a jurisdiction (including the United States) that requires reporting of criminal records and you or the persons for whom you are making the Booking have a criminal record , including violations of the highway code, the user must declare such precedents at the time of booking; And
+2.2.5 you (and the persons on whose behalf you made the Booking) are aware of all regulations relating to entry into a territory or country to which you are traveling, including any restrictions and passport requirements ( for example, blank pages in the passport, or its validity); the user does not have any criminal record that prevents him from traveling to that territory or country; and you meet visa, vaccination, administrative and health requirements.
+Groupon Travel will not be liable if you are denied entry to the territory or country where the Accommodation is located for failing to disclose any of the above circumstances.
+Furthermore, if the user is denied entry, he will not be entitled to any type of refund.
+2.3 Booking on behalf of others: If you make a Booking for other people, you represent that you are authorized to make such Booking on behalf of such individuals and that all individuals in the Booking (or their personal representatives) have agreed to be bound by these Conditions of Sale.
+2.4 Behavior: During the use of the Accommodation, the user undertakes not to adopt behavior that may cause suffering, discomfort or generate the risk of danger towards other individuals and/or cause damage to property.
+If, between departure and return, you (or the persons for whom you have made the Booking) are arrested or prevented from traveling at the discretion of a Supplier, or if you are removed from the Accommodation , again at the discretion of a Supplier, we will not refund, on behalf of the Supplier, any part of the purchase amount of the Accommodation which you have not been able to use as a result of your behavior (or the behavior of persons for whom you have made the reservation).
+You agree to indemnify us against any loss, liability, damage or costs incurred by us arising out of any claim or legal proceeding brought or threatened against us by any person arising out of or in connection with your conduct (or the conduct of persons for which you made the Reservation) pursuant to these Conditions of Sale.
+2.5.
+Fraud: If we or a Supplier are informed of or become aware of any suspected or actual fraud or illegal activity in connection with the payment made for a Booking or Purchase, we reserve the right in our sole discretion to cancel the Booking or Purchase with effect immediately and without refunding the user.
+This right to cancel will apply without prejudice to any other rights we have against you.
+3.
+ACCOMMODATION RESERVATION
+3.1.
+Making a reservation: Subject to availability, it is possible to make a reservation online, through the Groupon International website.
+To book you must select the accommodation you wish to purchase, the type of room and the travel dates, click on "Book", enter your e-mail address and the other information necessary to allow user access to your account or to create an account, accept these Booking Conditions and click on “Complete order”.
+Once these steps have been completed, the user will see a page on the Groupon International website confirming receipt of the Booking.
+3.2.
+Acceptance of your Booking: We reserve the right to determine, in our sole discretion, whether or not to accept your booking.
+The Booking will not be considered accepted by us until (and if) the user has received confirmation that the Booking has been accepted.
+If we reject your Booking, we will notify you without charging you any cost.
+If we accept your Booking, we will send a Booking confirmation email to confirm your Accommodation.
+It is at this point – with the sending of our Booking confirmation email – that we accept the Booking and the contract between you and us is concluded.
+We will then charge the relevant amount.
+3.3 Checking your Booking confirmation: It is important that you check the information contained in the Booking confirmation email when you receive it.
+In the event of a discrepancy between the Booking and the Booking confirmation email, or if you do not receive the Booking confirmation email within 24 hours following the Booking, you can contact us immediately on 02 947 54 424 or via e-mail at https://www.groupon.it/customer_support or amministrazione.clienti@groupon.com.
+3.4.
+Your contract for the provision of Accommodation: Please note that the party legally responsible for the provision of Accommodation to you is the Supplier (although we are responsible for what is set out in these Terms of Sale).
+In our capacity as agent, we are not legally responsible for the provision of the Accommodation to you, but the Accommodation will be provided to you by the Supplier pursuant to a contract between the Supplier and you.
+You agree and acknowledge that by making a Booking, the actual provision of your Accommodation (which does not fall within these Terms of Sale) will be on the terms and conditions of a Supplier.
+4.
+PREZZO
+4.1.
+Who you pay to: All payments made by you for the Accommodation will be taken by us, on behalf of the Supplier, immediately after you confirm acceptance of your Booking by sending us a confirmation email (as set out above ).
+4.2.
+Final Price: We reserve the right to change the prices of any Accommodation prior to Booking.
+You will be informed of the current price of any Accommodation prior to Booking.
+This price may be different than the price originally displayed to you on the Groupon International Site.
+4.3.
+Pricing errors: In certain circumstances Groupon may make an error which may be reflected in the price list at the time of your Booking.
+If we make the mistake (whether human, technical or otherwise), we reserve the right to offer you the option of making a new Booking at the correct price or receiving a full refund.
+4.4 Taxes: In some countries there may be taxes, duties, fees, assessments or other charges (collectively “Taxes”) collected by local authorities.
+Before the user makes the Reservation, the Taxes applicable to the Reservation will be indicated in the clauses or in some section of the Groupon International Site.
+Please note that you will be solely responsible for paying any such Taxes.
+4.5.
+Additional Services: The user is informed that during and in the course of using the Accommodation, he may have the possibility to purchase additional services.
+These additional services may include meals and connection at the hotel, etc. ("Additional services").
+If you have not purchased such Additional Services from us, any Additional Services will be your sole responsibility and the responsibility for providing such Additional Services will be with the provider of such Additional Services (including any Third Party Provider).
+Groupon Travel assumes no responsibility for the provision, performance, satisfaction or otherwise of any Additional Services.
+4.6.
+Review of Accommodation prices after Booking: Subject to clause 5, Groupon Travel will not change the price of your Accommodation after we have sent you a Booking confirmation email.
+4.7.
+Refunds: If you receive a refund (full or partial), you will be refunded to your original payment method.
+If you receive a refund, you will have 30 days from the date of receipt to reject it.
+If you do not refuse such refund during this period, it will always constitute a full and final settlement of any claim you may have against Groupon Travel relating to, arising out of or in connection with the Services, Booking or Purchase for which the user was reimbursed.
+5.
+MODIFICATIONS AND CANCELLATIONS
+5.1.
+If the user changes his data:
+5.1.1.
+Please note that Groupon Travel may not be able to change the names of individuals for whom the Booking is made.
+If Groupon agrees to such a name change request, it does so at its sole discretion.
+If we are unable to change a name on the Booking it may be necessary to cancel it and make a new one, subject to availability (and incur any costs resulting from the cancellation).
+If you wish to inquire about how to change a name, you can contact us on 02 947 54 424 or by email at https://www.groupon.it/customer_support or amministrazione.clienti@groupon.com.
+5.1.2.
+Any changes to data other than your name may not be permitted.
+However, you always have the right to cancel your Purchase and make a new Booking, subject to availability (see Clause 5.2 below on cancellations).
+5.2.
+In the event of cancellation of the Accommodation: Please note that each Purchase can be cancelled, free of charge, until the relevant cancellation date (if applicable).
+You will see the cancellation date as part of the general restrictions of the Accommodation.
+The cancellation date will be communicated in the Booking confirmation email sent to the user.
+Once the cancellation date has passed, your Purchase is non-refundable and non-cancellable.
+Please consult the conditions of the Accommodation you wish to book in relation to its cancellation date, as this varies from Accommodation to Accommodation.
+If the reason for cancellation is included in the terms of an insurance policy you have taken out in relation to your Purchase, you may be able to recover, under that insurance policy, any costs we may charge you for the cancellation .
+If you wish to discuss cancellation, you can contact us on 02 947 54 424 or by email at https://www.groupon.it/customer_support or amministrazione.clienti@groupon.com.
+5.3.
+If a Supplier changes your Accommodation: Occasionally, a Supplier may be forced to change your Purchase.
+We or the Supplier will give you notice of all such changes as soon as practicable by indicating the updated Purchase and Accommodation details.
+Groupon assumes no responsibility for such changes as it does not operate as a Supplier.
+5.4.
+If a supplier cancels the Accommodation purchased by you: If the cancellation is due to Force Majeure or your failure to pay the full amount of the Accommodation or otherwise complies with these Terms of Sale, we we reserve the right to cancel your Purchase for any reason and without compensation.
+6.
+STANDARDS OF DILIGENCE
+6.1.
+We guarantee that:
+6.1.1.
+in carrying out our obligations we will apply reasonable skill and diligence in accordance with these Conditions of Sale;
+6.1.2 we are authorized to make the Services offered available through authorized websites; And
+6.1.3 we will not, in the course of our activities, violate the requirements of professional diligence.
+7.
+LIMITATION OF LIABILITY
+7.1.
+Limitation of Liability: This clause 7 takes precedence over all other clauses of these Terms of Sale (except Clause 1.7, to which it is subordinate) and sets out Groupon Travel's entire liability in respect of any cause of action arising in accordance with or in connection with these Terms of Sale, including performance, non-performance, purported performance or delay in performance of our obligations under these Terms of Sale or the Service or the provision of a Accommodation (or part of them or both).
+7.2.
+What we are responsible for: Nothing in these Terms of Sale shall exclude or limit our liability in respect of (i) death or personal injury; (ii) the violation of our obligations established by the Consumer Code, the Tourism Code or any other applicable legislation or regulations; (iii) fraud; (iv) the fraudulent declaration; (v) gross negligence; or (vi) any liability that cannot be excluded or limited under applicable law.
+7.3.
+Disclaimer for Suppliers where we act as an agent: If we act as an agent for Suppliers, our responsibility to you will be to select Suppliers with the utmost skill and care.
+In the event that (i) we have acted with the utmost skill and care in choosing the supplier(s) and (ii) in compliance with applicable law, we exclude any liability for the provision of the Accommodation to you or for any actions or omissions by the Supplier.
+This arises because the legal contract and legal obligations for the provision of the Accommodation are between you and the Supplier (and not with Groupon Travel).
+7.4.
+What we are not responsible for: Except as stated in this Clause 7 and Clause 1.7, we will not be responsible where your failure to comply with these Terms of Sale is: 7.4.1.
+attributable to the user; 7.4.2.
+attributable to the Supplier; 7.4.3.
+attributable to the failure of a third party unrelated to the provision of the Accommodation or when it is due to an event of Force Majeure; or 7.4.4.
+attributable to a Force Majeure event which prevents us from acting in compliance with these Conditions of Sale.
+7.5.
+Limitation of liability in relation to our Services: We exclude and limit our liability in relation to the Services we provide, which may be excluded by law and, to the extent permitted by the Consumer Code and the Tourism Code, we will not be liable for: 7.5. 1.
+loss of revenue; 7.5.2.
+loss of actual or anticipated profits; 7.5.3.
+loss of contracts; 7.5.4.
+loss resulting from lack of monetary availability; 7.5.5.
+loss of anticipated savings; 7.5.6.
+loss of business; 7.5.7.
+loss of opportunity; 7.5.8.
+loss of goodwill; 7.5.9.
+loss of reputation; 7.5.10.
+loss, damage or corruption of data; and 7.5.11.
+indirect or consequential loss.
+By “consequential loss” we mean “consequential loss, whether foreseeable, known, anticipated or otherwise”).
+8.
+Complaints
+8.1.
+If any problems arise relating to your Accommodation, you should immediately bring them to the attention of the Accommodation Provider (e.g. resort representative, hotel manager, etc.).
+If the complaint is not resolved locally, the user should contact Groupon informing them of the problem on 02 947 54 424.
+8.2.
+In such circumstances, we will make every reasonable effort to provide, within our capabilities, immediate assistance, if deemed appropriate.
+If you are unable to make a call, you can send an email to amministrazione.clienti@groupon.com and provide a telephone number, and a time, at which we can contact you to provide assistance.
+8.3.
+If, after informing the Supplier and calling Groupon (at the number indicated above), the user's complaint remains unresolved, a written complaint must be sent within 28 days of the user's return home to: ATTENTION:
+Customer Service c/o Wadsack Schaffhausen AG, Oberstadt 3, 8200 Schaffhausen, by entering your booking reference number and any other relevant information about the Accommodation that we may need to identify you.
+The address above is dedicated to managing travel complaints.
+9.
+DATA PROTECTION
+9.1.
+Privacy Practices: When you make a Reservation or Purchase an Accommodation through Groupon Travel, you authorize us to collect, process and use your information as described in our Privacy Policy.
+Our Services are made available through the Groupon International Site and by making a Reservation you accept the Terms of Use, Privacy Policy and Cookie Policy of the Groupon International Site.
+10.
+USEFUL INFORMATION
+10.1.
+Passport Requirements: To make a Booking or Purchase you must have a valid passport (for at least 6 months beyond the end of your holiday).
+Special passport and visa requirements as well as any other immigration requirements are your sole responsibility.
+You should confirm these requirements with the relevant embassies and/or consulates before travelling.
+We assume no responsibility if you are unable to travel because you do not comply with passport, visa or immigration requirements or if you do not have vaccination certificates.
+For European Union citizens traveling within the European Union, a valid identity document is sufficient.
+10.2.
+Health Information: Depending on the Purchase you make, mandatory health services may apply to your trip.
+Groupon strongly encourages you to seek advice and recommendations from a healthcare professional at least eight weeks before departure (whether this is your doctor, registered nurse, pharmacist or travel clinic).
+For Italian customers, further information on travel-related health advice is available at http://www.viaggiaresicuri.it/.
+Information on how to obtain medical treatment abroad, as well as how to obtain low-cost and potentially free medical treatment in Europe, is available at http://www.salute.gov.it/portale/temi/p2_4. jsp?area=Assistance%20sanitary.
+10.3. Advice from the Ministry of Foreign Affairs: The Ministry of Foreign Affairs provides travel advice relating to most destinations around the world.
+We invite the user to visit the website http://www.viaggiaresicuri.it/ in order to obtain more specific information relating to their purchase.
+10.4.
+Travel insurance: It is important and strongly recommended that the user has travel insurance to cover the entire duration of occupancy of the Accommodation (and every aspect connected to it).
+This provides you with financial protection if, due to certain circumstances, you need to cancel your holiday.
+The type of coverage needed will depend on the type of Accommodation purchased by you.
+10.5.
+Accommodation check-in and check-out: Accommodation check-in will depend on the relevant Supplier.
+While you should verify check-in and check-out time information with your specific Supplier prior to arrival, as a general rule, check-in will be at 3:00 PM (local time) and check-in -out at 11:00 (local time).
+Furthermore, in the event of a late check-in by the user, they must contact the Supplier to ensure that a late check-in does not affect their rights.
+It is your sole responsibility to comply with the Supplier's terms and conditions regarding check-in and check-out.
+11.
+LEGAL NOTES
+11.1.
+Interpretation: In these Conditions of Sale:
+11.1.1.
+Terms describing persons include natural persons, partnerships, limited liability companies, corporate entities and unincorporated associations;
+11.1.2.
+clause headings (such as “11.
+LEGAL NOTES” at the beginning of this Clause) are included for mere convenience of reference and do not form part of or influence the interpretation of these Conditions of Sale;
+11.1.3.
+clause headings (such as “Interpretation:” at the beginning of this Clause 11.1) are intended to facilitate the interpretation of the clauses in which they appear; And
+11.1.4.
+references to the terms “include” and “included” will respectively mean “include/on by way of example only” and “included by way of example only”.
+11.2.
+Waiver: If we do not require you to perform any of your obligations under these Terms of Sale, or we fail to exercise our rights to you, or we delay in doing so, this does not mean that we have waived our rights in towards it nor excludes the user's obligation to fulfill these obligations.
+If we waive action in response to your default, we will do so exclusively in writing.
+Such waiver means only that we have waived action for that particular breach at that particular time and will in no other way release, indemnify or otherwise alleviate your liability under these Terms of Sale.
+11.3.
+Notices: Unless these Terms of Sale state otherwise, notices to either party will be in writing and delivered in person, via email (unless you are notifying Groupon Travel pursuant to a legal proceedings or to lodge a complaint under Clause 8.2) or sent by registered mail with return receipt, to the user's address provided in their Booking or to Groupon Travel at its registered office.
+11.4.
+Survival: The provisions of Clauses 1, 2, 3, 4, 7, 9, 11 and 12 of these Conditions of Sale, together with the provisions whose survival upon expiry or termination has been expressly established, and those which by their nature or as the context dictates is intended to survive such termination, will survive the expiration or termination of these Terms of Sale.
+11.5 Severability: In the event that any provision of these Terms of Sale is held to be invalid, void or unenforceable, such provision shall be deemed separate and, where possible, the validity and enforceability of the remaining provisions of these Terms of Sale will not be affected .
+11.6 Partnership/Agency Disclaimer: Nothing in these Terms of Sale shall be construed as creating a joint venture, partnership, or agency relationship between you and Groupon Travel, and neither party shall have the right or authority to claim any liability, debt or cost or enter into any contract or other agreement in the name or on behalf of the other party.
+11.7.
+Exclusion of Other Conditions: Except as expressly set out in these Terms of Sale, all warranties, conditions and other terms, whether expressly or impliedly provided by statute or otherwise, are hereby excluded to the fullest extent permitted by applicable law.
+11.8.
+Assignment: An assignment is a transfer under these Terms of Sale of your rights (for example, the right to receive compensation where such a right exists).
+You may not assign, delegate or otherwise transfer any of your rights or obligations under these Terms of Sale without our prior consent, and such consent may not be unreasonably withheld.
+Groupon shall have the right to assign or otherwise delegate, in whole or in part, any of its rights or obligations under these Terms of Sale to any person, entity or company (if such company is part of the Groupon group) or other company where the consumer's rights under these Conditions of Sale are not affected.
+11.9 Entire agreement: These Terms of Sale contain all terms agreed between the parties which govern the matters governed by it and supersede and exclude any previous contract, understanding or agreement, whether oral or written, between you and us.
+11.10.
+Applicable law and jurisdiction: We will make every effort to resolve any dispute relating to these Terms of Sale.
+If you wish to bring a legal claim against us, you must do so in Italy where Italian law will apply.
+This clause applies to all non-contractual relationships between you and us.
+12.
+DEFINITIONS
+12.1.
+Accommodation means accommodation for persons in a building or other similar structure, including hotels, apartments, timeshares, villas, condominiums and houses.
+12.2 Force Majeure means an event which is beyond the reasonable control of Groupon Travel or a Supplier and which could not have been avoided even if due diligence had been applied, including an act of God, war, riot, invasion , actions of foreign enemies, hostilities, civil war, rebellion, revolution, fire, explosion, utility failures or civil insurrection, lightning, floods, hurricanes, earthquakes, gale force winds, tornadoes, acts of terrorism or sabotage, laws or regulations restrictive government measures, strikes, lockouts, labor disputes or other labor matters of any kind (excluding strikes by Groupon Travel personnel), civil unrest, ionizing radiation or contamination by radioactivity from nuclear fuels or radioactivity, toxic, explosive or hazardous properties of any other nature of any nuclear assembly or nuclear component, epidemic or any other severe meteorological disaster or nature.
+12.3.
+Groupon International Site means any platform, including the website offered or operated by Groupon International, any affiliate website, business partner network, email, mobile applications, other types of electronic offerings, or other platforms or channels distribution owned, controlled or operated by Groupon International or Groupon Travel, their respective affiliates or business partners.
+12.4 Purchase means the purchase of an Accommodation from Groupon Travel.
+This definition includes “Purchased” and “Purchase”.
+12.5 Booking means the submission of an offer to purchase an Accommodation (and this definition includes “Book” and “Booked”).
+12.6 Services means the services provided by Groupon Travel to customers under these Terms of Sale, which include acting as an agent on behalf of the Suppliers for the purpose of offering Bookings of available Accommodation.
+12.7.
+Supplier means any supplier of Accommodations advertised by Groupon Travel as an agent for the Supplier.
+Conditions of sale for the booking of goods and services on third-party platforms (partners) – Groupon Italia S.r.
+1.
+General informations
+1.1 These Conditions of Sale apply whenever you purchase a Reservation of goods and services on the third-party platform on Groupon (as a "Buyer").
+1.2 Groupon significa Groupon S.r.l.,
+a company incorporated under Italian law, registered in Italy and with its registered office in Corso Buenos Aires 54, Milan, Italy.
+The VAT number of Groupon is 06964760968.
+1.3 Reservation means the right to receive the Partner's Offer from the Partner, which offer may also be subject to the provision of a ticket or other documentation.
+1.4 The Partner's Offer indicates the goods and/or services to be supplied and/or provided by the Partner to the Buyer, as specified on the Groupon Site.
+1.5 Partner is a third party unrelated to Groupon that sells, supplies and/or delivers the Partner Offering.
+The contract for the supply and purchase of the Partner Offer will be concluded between you and the Partner from whom the Reservation is purchased and in any case Groupon will conclude the contract on behalf of, and as agent of, the Partner.
+Groupon does not sell, provide and/or deliver the Partner Offering. .
+It merely sells the Reservation.
+1.6 These Conditions of Sale were last updated on 08.23.2018.
+1.7.
+Groupon reserves the right to unilaterally modify these Conditions of Sale at any time.
+All changes to these Conditions of Sale will be published online and made known through banners included in the newsletter.
+You will only be bound to the version of the Conditions of Sale that you accepted when purchasing a Reservation.
+2.
+Purchasing a Reservation2.1 To purchase a Reservation you must be at least 18 years old.
+Before you can make a purchase you must register and create an account with Groupon International Limited.
+2.2 By clicking on the «Buy Now» button, you send Groupon a purchase proposal for the Reservation.
+However, the purchase of the Reservation is not completed until you receive an email from Groupon confirming acceptance of your proposal.
+Groupon expressly reserves the right to reject your proposal.
+Furthermore, even if Groupon has accepted your proposal, Groupon may terminate the contract at any time if there are reasonable suspicions that you have committed or are about to commit any fraud against Groupon, a third party affiliate of Groupon or the Partner.
+3.
+Receive the Partner's Offer
+3.1 After purchasing the Reservation, the Partner will provide you with any additional documentation (for example, a ticket) to enable you to receive the Partner Offer.
+This additional documentation may also be submitted by a third party on behalf of the Partner.
+3.2 Unless expressly stated otherwise, the Booking does not entitle the Buyer to receive the Partner's Offer at a specific time.
+It is strongly recommended to contact the Partner promptly.
+By doing so, you will have a better chance of securing the Partner's Offer in your preferred period.
+Please note that Groupon cannot influence the timing of sales and/or delivery of the Partner Offer.
+In the event that the Partner's Offer expressly establishes the delivery of a certain good or the provision of a certain service within a given event (e.g.
+Christmas), and such delivery or service does not occur within the promised time, you can obtain a refund.
+3.3 On behalf of the Partner, Groupon may collect registration fees or other costs associated with the purchase of a Reservation.
+All taxes or charges (if applicable) will be communicated to you prior to purchasing the Reservation.
+3.4 If the Partner is unable to provide and/or deliver the Partner Offer as described for unforeseen reasons, Groupon, on behalf of the Merchant, will notify you as soon as possible by email.
+4.
+Fraud or illegal activity
+4.1 You undertake not to provide false details, including false names, addresses and/or contact details or payment details, nor to commit any illegal activity in connection with the purchase of a Booking, nor to allow any third party to do so.
+5.
+Withdrawal (and exceptions), Refunds and Problems
+5.1 By purchasing the Reservation, you are expressly requesting that the Groupon service begin to be performed.
+Since Groupon is not responsible for the provision of the Partner Offering, once the Booking has been provided, Groupon will be deemed to have fully performed its obligations towards you.
+Therefore, you do not have the legal right of withdrawal within 14 days in the case of purchasing a Reservation.
+5.2.
+Your right to withdraw from the Partner's Offer will be subject to the Partner's terms and conditions of sale and any applicable law.
+5.3 If you purchase a Booking, but the Partner does not adequately provide you with the Partner Offer, or if you have a complaint regarding the provision of the Partner Offer, you will need to take action directly with the Partner.
+This is because the Partner, and not Groupon, is responsible for providing the Partner Offering.
+Groupon merely sells the Reservation.
+In any case, if you and the Partner are unable to reach an agreement on how to resolve the complaint, Groupon may, upon your request, attempt to facilitate resolution of the matter between you and the Partner.
+5.7 Unless you expressly inform Groupon to the contrary in advance, any refunds will be made to your original payment method. If your original payment method has been cancelled, expired or otherwise changed, you must inform the team immediately customer support on the following page http://contactus.groupon.it/. If you fail to do so and have been refunded to your original payment method, you may need to contact your bank or payment processor to obtain your refund.
+Groupon will not issue more than one refund.
+5.8 You have 30 days from the moment you receive the refund to refuse it.
+If you do not refuse the refund during these 30 days, the refund will be in full and final settlement of any claim you may have against Groupon relating to, arising out of or connected with such Booking.
+6.
+Responsibility for the Partner Offering
+6.1 Please note that it is the Partner, and not Groupon,:
+6.1.1 the seller, supplier and/or provider of the Partner Offering;
+6.1.2 the party who enters into a contract with the Buyer following the Purchase of the Reservation; And
+6.1.3 the person responsible for the provision of the Partner Offer to the Buyer and for the quality of the Partner Offer itself.
+7.
+Groupon's Standards for Service and Responsibility
+7.1 Groupon guarantees that:
+7.1.1 will exercise reasonable care and diligence in fulfilling its obligations arising from these Conditions of Sale;
+e
+7.1.2 does not contravene the requirements of correctness or professional diligence in carrying out its activity.
+7.2 Groupon is always liable for: (a) death and personal injury directly attributable to Groupon's negligence; (b) fraud or fraudulent misrepresentation committed by Groupon itself; or (c) any implied contractual term which cannot be excluded or limited under applicable law.
+7.3 Except as set out in chapter 7.2 above, Groupon is not liable for any other loss or damage which you may suffer, including any indirect or consequential loss.
+7.4 Groupon declines all responsibility for the violation of obligations arising from these Conditions of Sale where Groupon itself has not been able to comply with these obligations for reasons beyond its reasonable control.
+8.
+Groupon site
+The Groupon Site (the “Site”) means the Internet website, mobile applications, electronic communications or services, or any location from which you can purchase a Reservation from Groupon.
+The Site on which Groupon markets Reservations belongs to Groupon International Limited.
+You will find further information about the conditions of use of the Site, which are expressly an integral part of these Conditions of Sale, here www.groupon.it/terms_and_conditions.
+9.
+Miscellaneous and possible
+9.1 If you breach these Terms of Sale and Groupon does not take legal action against you, this does not mean that Groupon has waived its rights and actions.
+9.2 Unless otherwise established in these Conditions of Sale, communications to the parties must be in writing and must be sent by electronic mail (except in the case in which they are sent for the purposes of service of procedural documents) or by prepaid post.
+Any communications Groupon sends to you will be to the address you provided when registering your Groupon account.
+You may send any communication to Groupon at the address set out in chapter 1.2.
+9.3 If any provision of these Conditions of Sale should be declared invalid or ineffective, the validity and effectiveness of the remaining provisions of this Contract will not be affected.
+Such invalid or ineffective provision will be replaced by a valid and effective provision that achieves as much as possible the economic effect envisaged by the provision deemed invalid or ineffective.
+9.4 These Conditions of Sale are governed and interpreted in accordance with Italian law, regardless of the application of any conflict law or any choice made by the parties.
+Any disputes will be subject to the exclusive jurisdiction of the Court of your place of residence or domicile.

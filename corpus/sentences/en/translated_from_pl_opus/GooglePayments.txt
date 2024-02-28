@@ -1,0 +1,477 @@
+[{'translation_text': "To avoid any doubt, GPL will provide the Buyer with the Service (as described below in the Terms of Service) in connection with the Buyer's purchases on the Google trading platform and in connection with charitable donations to the Sellers who are charitable organizations."}]
+[{'translation_text': 'The list of trading platforms supported by the Service is available here.'}]
+[{'translation_text': 'Google may periodically update trading platforms, but any transactions will be processed in accordance with the following Terms of Service.'}]
+[{'translation_text': 'For further information on whether a service is a trading platform, please refer to the terms of use of the service.'}]
+[{'translation_text': 'Terms of use of the service'}]
+[{'translation_text': '28 March 2018'}]
+[{'translation_text': 'These Terms of Service of the Buyer (the Agreement) constitute an agreement between Google Payment Limited, a company registered in England (under number 05903713), based at 5 New Street Square, London EC4A 3TW, United Kingdom (the GPL) and a user (the Buyer).'}]
+[{'translation_text': 'The GPL can be contacted by e-mail via the Help Centre at https://support.google.com/payments.'}]
+[{'translation_text': 'The GPL is an authorised Financial Conduct Authority (FCA) and regulated electronic money issuer (E-money), entered in the FCA register under number 900008.'}]
+[{'translation_text': 'GPL is a subsidiary of Google International, LLC.'}]
+[{'translation_text': 'Before deciding to accept this Agreement and continue the registration process, please consult the whole of the Agreement.'}]
+[{'translation_text': 'This Agreement regulates how the Buyer can access and use Google Payments.'}]
+[{'translation_text': 'The services described below are provided by the GPL.'}]
+[{'translation_text': 'Before deciding to accept this Agreement and continue the registration process, please consult the whole of the Agreement.'}]
+[{'translation_text': "The financing instruments stored in the Buyer's Google Payments account may appear under the Google Pay brand, but they are still subject to this Agreement when used in connection with the services described below."}]
+[{'translation_text': 'By agreeing to this Agreement, the Buyer declares that he is 18 years of age and has the capacity to conclude a legally binding agreement.'}]
+[{'translation_text': 'A copy of this Agreement shall be printed or recorded for archival purposes before moving on.'}]
+[{'translation_text': 'The buyer may accept the Agreement in accordance with the provisions of point 3.'}]
+[{'translation_text': 'The contract shall start to apply from the date on which the Buyer accepts it (the date of entry into force).'}]
+1.
+[{'translation_text': 'Definitions'}]
+[{'translation_text': 'The following defined terms are used in this Agreement:'}]
+[{'translation_text': 'The Account shall mean an E-money account maintained by the GPL for the Buyer.'}]
+[{'translation_text': 'The contract means these Terms of Service of the Buyer.'}]
+[{'translation_text': '"AISP" means an account information service provider, i.e. a payment service provider (not a GPL) providing an online account information service that provides consolidated information about at least one payment account that may include a Buyer Account.'}]
+[{'translation_text': 'A working day shall mean a day other than Saturday, Sunday or a public holiday in the United Kingdom.'}]
+[{'translation_text': "The payment by the Operator (if the Buyer has the option of using the Payment Service by the Operator) means the payment process in which the GPL sends the Financing Transaction to the Operator to settle it in the Operator's Account that belongs to the Buyer."}]
+[{'translation_text': "The operator shall mean the GPL-approved mobile network operator that offers the Operator's Account."}]
+[{'translation_text': "The Operator's clearing account shall mean an account with a monthly or other settlement date maintained by the Operator, which the Buyer has registered in the Service for the execution of specified Financing Transactions."}]
+[{'translation_text': 'The content shall mean any advice, opinion, offer, proposal, statement, data or other information displayed or disseminated, purchased or paid through the Service.'}]
+[{'translation_text': 'The customer shall mean the person or entity registering in the Service as the Buyer or Seller.'}]
+[{'translation_text': 'Disputes shall mean any misunderstanding, legal proceedings, settlements or other disputes between Customers or other third parties arising from the use of the Service, other than Disputes concerning the Service.'}]
+[{'translation_text': 'E-money means the electronic monetary value issued by the GPL after receiving funds from the Buyer.'}]
+[{'translation_text': 'E-money is stored in the GPL computer system and constitutes a claim to the Buyer against the GPL to settle the corresponding amount.'}]
+[{'translation_text': "E-money isn't a deposit."}]
+[{'translation_text': "The financing instrument shall mean a credit card, debit card, Operator's clearing account or any other payment instrument registered by the Buyer in the Service and used by GPL to finance the issuance of E-money through the Services to process Financing Transactions and other purposes."}]
+[{'translation_text': "The financing transaction in which the GPL (i) initiates the transfer of the amount to be paid from the Buyer's Financing Facility to the GPL (ii) issues to the Buyer an amount of E-money equal to the amount to be paid and (iii) transfers the amount of E-money from the Buyer's Account to the Buyer from whom the Buyer purchased the Product."}]
+[{'translation_text': '"Google" means Google International, LLC and its affiliates and affiliates.'}]
+[{'translation_text': 'The GPL website means a site belonging to the GPL or its affiliates and affiliates.'}]
+[{'translation_text': 'The terms "GPL\', "my\', "our\' and "nas\' refer to Google Payment Limited.'}]
+[{'translation_text': 'Login data indicate the user name and password issued to the Buyer by the GPL to enable access to the Account.'}]
+[{'translation_text': "The order for payment means (i) the instruction provided by the Seller to the Seller for the purpose of making a financing transaction authorised by the Buyer, which is also a notification to the GPL of the Buyer's authorisation to initiate the purchase from the GPL of an amount of E-money equal to the amount payable in the Financing Transactions or (ii) the instruction transmitted by the Seller to the Seller for reimbursement in accordance with the current situation."}]
+[{'translation_text': 'The product shall mean any digital or physical goods or services which the Buyer may purchase from the Seller using the Service.'}]
+[{'translation_text': 'The amount to be paid shall mean an amount equal to the price of the product together with any related charges, taxes and delivery costs in force.'}]
+[{'translation_text': "Return means a transaction in which the GPL sends E-money from the Seller to the Buyer Account and then buys out the corresponding amount and initiates the transfer to the Buyer's Financing Facility by means of a refund function in the Service."}]
+[{'translation_text': 'The Seller shall mean any person or entity using the Service to sell the Products and receive the amount to be paid from the Financing Transactions.'}]
+[{'translation_text': 'The service means a service provided by the GPL called Google Payments, which is used to handle payments with E-money.'}]
+[{'translation_text': 'Services shall mean all services offered by the GPL under the Agreement, including the Service.'}]
+[{'translation_text': 'Services disputes shall mean any misunderstanding, complaint, legal proceedings, settlements or other disputes between the GPL and the Clients arising solely from the alleged failure of the GPL to comply with its obligations set out in the Agreement or the provisions of applicable law and any associated error in the provision of the Services.'}]
+[{'translation_text': "Affiliates and affiliates mean Google's affiliates and affiliates around the world."}]
+[{'translation_text': 'Unregulated service means a service provided by the GPL, such as the services listed in point 10.'}]
+[{'translation_text': '1 ((c) which is not an E-money payment service.'}]
+[{'translation_text': '"Buyer" means the person who has sent or registered to use the Service or uses it to carry out the financing transaction for the purchase of the Product.'}]
+[{'translation_text': "The Buyer's e-mail address means the e-mail address given by the Buyer during the registration."}]
+2.
+[{'translation_text': "The Buyer's Relations with GPL"}]
+2.
+[{'translation_text': "1 The Buyer's use of the Service is subject to the terms of this Agreement."}]
+2.
+[{'translation_text': '2 By using the Services, the Buyer buys from the GPL E-money, which will immediately be used to make payments to the Sellers.'}]
+2.
+[{'translation_text': '3 GPL may also provide non-regulated services in accordance with the provisions of this Agreement.'}]
+3.
+[{'translation_text': 'Acceptance of the Agreement'}]
+3.
+[{'translation_text': '1 In order to use the services covered by this Agreement, the Buyer must first accept it.'}]
+[{'translation_text': 'Without prior acceptance of the Agreement, it is impossible to use the services.'}]
+3.
+[{'translation_text': '2 This Agreement constitutes a legally binding agreement between the Buyer and the GPL on the use of services by the Buyer, so it is important for the Buyer to get a close knowledge of its content.'}]
+[{'translation_text': 'By accepting the Agreement, the Buyer undertakes to use the services in accordance with its requirements.'}]
+3.
+[{'translation_text': '3 The Buyer can accept the Agreement: (a) by clicking on the Agreement acceptance option if this option has been made available to the Buyer by the GPL in the User Interface, or; (b) by using the Services in this case the Buyer understands and accepts the fact that the GPL will treat the start of using the Services as acceptance of the Agreement.'}]
+3.
+[{'translation_text': '4 The Buyer may not use the services or accept the Agreement if:'}]
+[{'translation_text': '(a) age does not authorise him to conclude a binding GPL agreement or use a financing instrument registered for services or'}]
+[{'translation_text': '(b) has been deprived of the right to use services under the laws in force in the United States or in other countries, including those in which he lives or uses services.'}]
+4.
+[{'translation_text': 'Accessibility and language of the Agreement'}]
+4.
+[{'translation_text': '1 During the registration process, a copy of the Agreement shall be forwarded to the Buyer in the form to be printed.'}]
+[{'translation_text': 'A copy of the Agreement, together with the changes made at some time, is available to the Buyer on the GPL Site.'}]
+4.
+[{'translation_text': "2 During the contract, the Buyer may request it and the link to it will be sent free of charge to the Buyer's e-mail address."}]
+4.
+[{'translation_text': '3 The Agreement is made available to the Buyer in Polish and can also be made available in English.'}]
+4.
+[{'translation_text': '4 In case of any contradiction between the Polish and English versions of the Agreement, the Polish version is valid.'}]
+5.
+[{'translation_text': 'Registration in the Service'}]
+5.
+[{'translation_text': '1 To use services, the Buyer must provide all the required information on the Google Payments registration website.'}]
+5.
+[{'translation_text': '2 The Buyer must register a valid financing instrument to finance the purchase of E-money through the Service.'}]
+5.
+[{'translation_text': '3 The financing instrument must be linked to the settlement address in the country where the Service was made available.'}]
+5.
+[{'translation_text': '4 The Buyer must provide up-to-date, complete and accurate information and ensure that they are up-to-date and accurate when using the service.'}]
+[{'translation_text': 'The GPL may require the Buyer to provide additional information as a condition for continued use of the service or for the Buyer to use a new service or to determine whether to allow the Buyer to continue using the service.'}]
+[{'translation_text': 'The buyer undertakes to provide the information required by the GPL in this respect, including the data needed to verify its identity or to confirm the authenticity of each financing instrument registered by the Buyer in the GPL.'}]
+6.
+[{'translation_text': 'The provision of the Services by GPL'}]
+6.
+[{'translation_text': '1 Sometimes, all or part of the Services to the Buyer are provided on behalf of the GPL by subsidiaries and associates.'}]
+[{'translation_text': 'The Buyer recognises and accepts the provision of the Service to him by Affiliates and Affiliates.'}]
+6.
+[{'translation_text': '2 The GPL continues to innovate to provide its users with the highest possible level of service.'}]
+[{'translation_text': 'The buyer acknowledges and accepts the fact that the GPL can make a new service available every now and then without prior notice.'}]
+[{'translation_text': 'The Buyer will receive an Agreement which has been amended in connection with the introduction of a new service, by e-mail or by providing him with a link to the updated Agreement during registration.'}]
+[{'translation_text': 'A new version of the Agreement may be accepted by the Buyer in the manner set out in point 3.'}]
+6.
+[{'translation_text': '3 The Buyer recognises and accepts the fact that the GPL may cease to provide it with services in accordance with the provisions of the Agreement.'}]
+[{'translation_text': 'The buyer may stop using the services at any time.'}]
+[{'translation_text': 'The buyer does not need to notify the GPL.'}]
+6.
+[{'translation_text': '4 The Buyer recognises and accepts the fact that the GPL may, without prior notification, introduce general rules and restrictions on the use of services, including, inter alia, limits on the number and value of individual or aggregate financing transactions within a specified period.'}]
+6.
+[{'translation_text': '5 The GPL may refuse to carry out any financing transaction, order payment or other service operation if it has reasonable grounds to suspect that there has been fraud, breach of the existing Agreement by the Buyer or Seller or breach of the law.'}]
+[{'translation_text': 'The execution of the transaction may also be delayed due to the need for the GPL to fulfil its obligations under the current anti-money laundering rules, and also where the GPL suspects that the transaction involves fraud.'}]
+[{'translation_text': 'If the GPL refuses to execute the Financing Transactions, Orders to pay or use other services, it will inform the Buyer, unless such GPL proceedings would be unlawful or would violate reasonable security measures.'}]
+6.
+[{'translation_text': '6 The Buyer acknowledges and accepts the fact that if the GPL blocks him from accessing the Account, preventing him from using his Login Data, it may mean that the Buyer does not have access to the Service, details of the Account and any files or other contents on his Account.'}]
+7.
+[{'translation_text': 'Use of the Service by the Buyer'}]
+7.
+[{'translation_text': '1 The Buyer undertakes to use the services only in the manner permitted by:'}]
+[{'translation_text': '(a) the Agreement;'}]
+[{'translation_text': '(b) rules and restrictions on services periodically published and updated by GPL and its affiliates;'}]
+[{'translation_text': '(c) any applicable laws, regulations and generally accepted procedures and guidelines in the relevant jurisdictions (including any law on the export and import of data or software in the United States and other relevant countries).'}]
+7.
+[{'translation_text': '2 Without prejudice to the above provisions, the Buyer recognises and accepts the fact that he is responsible for reporting and regulating any applicable taxes arising from his use of services.'}]
+[{'translation_text': 'The buyer therefore undertakes to comply with all applicable tax rules, including those relating to the reporting and regulation of any tax obligations arising from Financing Transactions.'}]
+7.
+[{'translation_text': '3 The Buyer undertakes not to access (or attempt to access) any of the services in a way other than through an interface made available by the GPL, unless agreed in a separate agreement with the GPL.'}]
+[{'translation_text': 'The buyer takes note that this restriction will also apply in the case of automated use of the services.'}]
+[{'translation_text': "However, this does not apply to the Buyer's right to use AISP services."}]
+7.
+[{'translation_text': '4 The Buyer undertakes not to take any action that would interfere with the operation of services (or servers and networks associated with services).'}]
+7.
+[{'translation_text': '5 The Buyer undertakes that he will not reproduce, reproduce, copy, sell or resell services for any purpose unless he is approved by a separate GPL agreement.'}]
+7.
+[{'translation_text': '6 The Buyer accepts the fact that he is solely liable (and that the GPL is not liable to the Buyer or any third party) for breaching any obligations of the Buyer arising from the Agreement and for the consequences (including any possible losses and damages suffered by the GPL) of any such infringement.'}]
+8.
+[{'translation_text': 'Security Login Data and Buyer Account'}]
+8.
+[{'translation_text': '1 The Buyer undertakes to use any Login Data associated with his Account only in a manner consistent with the terms of use of the Service set out in that Agreement which relate to the use of such data.'}]
+8.
+[{'translation_text': '2 The Buyer understands and accepts the fact that he is responsible for keeping the Login Data related to his Account confidential and taking all reasonable steps to ensure the confidentiality of this information.'}]
+8.
+[{'translation_text': '3 If the Buyer uses the Service within the company, he confirms that all members of the management, employees, agents, representatives and other persons having access to its Login Data are entitled to this and that they are entitled to conclude a legally binding agreement on behalf of the company, company or other relevant legal entity.'}]
+8.
+[{'translation_text': '4 The liability of the Buyer for the use of the Service is described in item 17 below.'}]
+8.
+[{'translation_text': "5 The Buyer is obliged to notify the GPL immediately of the loss, theft or misappropriation of the Login Data or the Account on the website of the Buyer.You can't log in to the Google Account as well as the unauthorized use of the Login Data or the Account on the website of the Buyer."}]
+[{'translation_text': 'The Buyer also undertakes to notify the GPL immediately in the same way of any other security breach known to him related to the Service.'}]
+8.
+[{'translation_text': '6 If the Buyer thinks that his Account has been opened or used in an unauthorized manner, he should read the section on reporting fraud.'}]
+[{'translation_text': 'He should also read the answers to the most common questions to learn more about how the GPL protects buyers from fraud.'}]
+8.
+[{'translation_text': '7 In order to obtain reimbursement for unauthorised or incorrect financing transactions, the GPL should be notified via the Buyer Assistance Centre immediately and in any event no later than 13 (13) months after the date of the charge (at the same time the date of the collection of funds from the Financing Instrument), after information on unauthorised or incorrectly processed Financing Transactions has been obtained (see section 17).'}]
+8.
+[{'translation_text': "8 The GPL may suspend the use of the Login Data or the Buyer's Account in case of suspicion that their safety has been compromised or that they have been used in an unauthorised or dishonest manner."}]
+8.
+[{'translation_text': '9 The GPL will inform the Buyer in advance and, if this is not possible, immediately after such a situation has occurred, of the suspension of the possibility of using the Login Data or Account, stating the reasons for the suspension, unless such information would breach reasonable security measures or would be unlawful.'}]
+[{'translation_text': 'Once the reasons for the suspension have been resolved, the GPL will reactivate the Login Data or the Buyer Account or provide it with new active Login Data or Account as soon as possible.'}]
+9.
+[{'translation_text': 'Privacy and personal data of the Buyer'}]
+9.
+[{'translation_text': '1 Google Privacy Policy describes how we deal with personal data of users who use Google products and services.'}]
+[{'translation_text': 'In addition, on https://payments.google.com/files/privacy.html you can find information on how we protect your personal data and privacy.'}]
+[{'translation_text': 'The Buyer can request an electronic version of the GPL Privacy Policy in PDF format by contacting Google via the Help Centre at https://support.google.com/payments.'}]
+9.
+[{'translation_text': '2 The Buyer agrees to use his data in accordance with the privacy rules set out in section 9.'}]
+1.
+9.
+[{'translation_text': "3 Verification of the Buyer's identity and requirements to prevent money laundering."}]
+[{'translation_text': '(a) The Buyer takes note that the GPL offers him services and continues to offer them, provided that the Buyer successfully passes all the state checks and identity checks that the GPL can carry out and will comply with the requirements of the GPL and the card provider, as well as the legal requirements related to the prevention of money laundering.'}]
+[{'translation_text': 'Identity checks may include credit checks, checks for money laundering required under the relevant legislation, checks required by card handling institutions and checks to ensure compliance with the relevant legislation.'}]
+[{'translation_text': 'The Buyer will provide any assistance required by GPL to carry out such checks and to establish compliance with the requirements for preventing money laundering, including the provision of additional information related to the registration or verification of the identity that the GPL may request.'}]
+[{'translation_text': '(b) The Buyer agrees to make available and obtain from third parties by GPL, both within and outside the European Economic Area, to the extent permitted by law, information on the Buyer, including personal data, as defined in the relevant data protection legislation, in order to carry out the current status and identity checks by GPL.'}]
+[{'translation_text': 'The buyer also accepts the fact that these third parties may retain the information thus made available.'}]
+[{'translation_text': '(c) Failure to comply with the conditions set out in point 9.'}]
+[{'translation_text': "3, including failure by the Buyer to provide the information requested by the GPL in order to verify the identity or establish compliance with the requirements for preventing money laundering, may result in immediate suspension of the Buyer's ability to use services and termination of this Agreement."}]
+10.
+[{'translation_text': 'Financing instrument'}]
+10.
+[{'translation_text': '1 The Buyer accepts the fact that the details of his Financing Facility will be used by GPL to:'}]
+[{'translation_text': '(a) to charge the Buyer with an amount to be paid, including all related charges, taxes and delivery costs;'}]
+[{'translation_text': '(b) the processing of all payments required to debit the Buyer with any other charges resulting from his use of the Service;'}]
+[{'translation_text': "(c) transfer them to a third party at the Buyer's request to charge the Buyer's service or goods."}]
+[{'translation_text': 'In this case it is an unregulated service provided to the Buyer by the GPL.'}]
+[{'translation_text': 'After the transfer of the financing instrument data to a third party, the GPL shall not participate further in the transaction between the Buyer and the third party.'}]
+[{'translation_text': 'Such a transaction is not a financing transaction.'}]
+[{'translation_text': 'On issues related to such transactions with a third party, e.g.'}]
+[{'translation_text': 'in disputes and reimbursements, contact the third party or supplier of the financing instrument directly (e.g.'}]
+[{'translation_text': 'the publisher of the credit or debit card).'}]
+10.
+[{'translation_text': '2 The Buyer shall authorise the GPL to verify that its Financing Facility has a correct balance, with the entity that issued it (the Financial Institution or Operator), under the supervision of the Buyer, including, inter alia, by sending a request for authorisation of payments, payment of a small amount or payment of a charge on the Financing Instrument in accordance with the relevant rules of the card provider.'}]
+10.
+[{'translation_text': '3 The Buyer authorizes the GPL to periodically obtain a credit report or to ask other questions concerning the credit history or other information that the GPL may consider necessary to assess whether the Buyer qualifies for registration in or further use of the services.'}]
+11.
+[{'translation_text': 'Processing of payments using E-money; Payment by Operator; subscriptions/cyclical transactions'}]
+11.
+[{'translation_text': '1 GPL undertakes to provide the Buyer Service in order to enable financing transactions to be carried out.'}]
+11.
+[{'translation_text': '2 The Buyer must consent to the execution of the Financing Transactions to be authorised.'}]
+[{'translation_text': 'The Buyer confirms the fact that using the Service to purchase the Product from the Seller, consents to the processing of the Financing Transactions and accepts the fact that after he has given his consent, it is impossible to withdraw the authorised Financing Transactions.'}]
+[{'translation_text': 'The Buyer also accepts the fact that Sellers may for any reason refuse to perform any order for the Product and that until the Seller sends the order payment to the GPL in accordance with point 11.'}]
+[{'translation_text': '4, GPL is not obliged to implement Financing Transactions.'}]
+11.
+[{'translation_text': '3 With the GPL service, it stores the information provided by the Buyer, such as:'}]
+[{'translation_text': 'the financing instrument data and delivery information, and carry out financing and reimbursement transactions using the relevant credit or debit card network, the relevant Operator or the relevant banking network.'}]
+11.
+[{'translation_text': '4 After the Buyer has authorized the execution of the Financing Transactions, the Seller may send the Payment Order to the GPL in accordance with the rules adopted by GPL.'}]
+[{'translation_text': "Upon receiving payment from the Seller, the GPL will initiate a transfer of the amount to be paid from the Buyer's Financing Facility to the GPL."}]
+[{'translation_text': "The GPL will then issue to the Buyer an amount of E-money equal to the amount to be paid no later than when the GPL receives the appropriate actual funds from the Buyer's Financing Facility, after which the GPL will immediately transfer the amount spent to the Seller."}]
+[{'translation_text': "The GPL shall not be liable for the timely receipt or influence of funds from the Buyer's Financing Facility."}]
+[{'translation_text': 'The buyer shall be notified by means of information in the history of the transaction in his Account about the sending by the Seller of the order payment to the GPL.'}]
+11.
+[{'translation_text': '5 Financing transactions may be rejected or delayed for the reasons set out in section 6.'}]
+5.
+11.
+[{'translation_text': '6 The Buyer thus expressly authorises the GPL to perform the following activities (or to order them to a third party):'}]
+[{'translation_text': "(a) the burden on the Buyer's Financing Facility which is required to purchase E-money and implement the Financing Transactions;"}]
+[{'translation_text': "(b) to make, using the Service, a payment to the Buyer's Financing Facility of the required amount in connection with the cancellation of any Financing Transactions, repayment or correction of the Amount to be paid."}]
+11.
+[{'translation_text': '7 The Buyer acknowledges and accepts the fact that:'}]
+[{'translation_text': "(a) transactions in the sale of Seller's Products are transactions between the Seller and the Buyer in which GPL is not involved, Google or any of its affiliates, unless GPL, Google or any of its affiliates has been specifically designated as Seller or Buyer involved in the transaction, and"}]
+[{'translation_text': '(b) GPL, Google or any of its affiliates is neither the Buyer, the Seller nor the party involved in any financing transaction, unless this is clearly indicated in the Product Information on the Google website or the relevant terms of use of the service.'}]
+[{'translation_text': '(c) Where an earlier payment transaction is rejected or returned by the payment organisation, the Seller and the GPL, acting on behalf of the Seller, may re-submit the payment transaction for the purchase of the Product to the payment organisation for processing at least once.'}]
+11.
+[{'translation_text': '8 E-money, and thus the Service, are not subject to the Financial Services Compensation Scheme Guarantee Fund or any public or private insurance fund.'}]
+11.
+[{'translation_text': '9 Payment by Operator.'}]
+[{'translation_text': "Some Sellers accepting payments through Google Payments may allow the Buyer to make payments by debiting the Operator's Account."}]
+[{'translation_text': 'When payment by the Operator is made via Google Payments, the following additional conditions apply:'}]
+[{'translation_text': "(a) In order to register the Operator's Account as payment option in Google Payments, the Buyer's mobile phone number and the name and settlement address (including postal code) registered in the Operator's Account, which is linked to this phone number are required."}]
+[{'translation_text': "The Buyer agrees to provide this information by the Operator to Google Payments and undertakes to verify their correctness during the Operator's registration of the Payment and correct any errors."}]
+[{'translation_text': 'Google Payments will use the information provided to set the Operator Account as a financing instrument in your Google Payments account and to allow you to use the Service.'}]
+[{'translation_text': "The Buyer also agrees that GPL and Operator share information on the payment operations of the Operator in order to debit or make payments to the Operator's Account, withdraw funds from them, make payments for purchases, reimbursements or corrections of Financing Transactions, as well as to resolve disputes, provide customer service and for other purposes related to Payments by the Operator."}]
+[{'translation_text': "(b) When the Buyer chooses to pay the transaction using the Payment by the Operator, he/she entitles the Seller and the GPL to transfer the charge or deposit to the Operator and the Operator to make an appropriate debit or deposit payment to the Operator's Account in order to carry out the Financing Transactions or withdraw, return or correct it."}]
+[{'translation_text': '(c) The Buyer may use Payment by the Operator to purchase the application (e.g.'}]
+[{'translation_text': 'intended for downloading or networking, wallpaper, bells, games or productivity-enhancing tools) (the apps) on a compatible device and using it from specific vendors in Google Play.'}]
+[{'translation_text': 'These applications are not sold by Operator, Google, GPL or Google Play.'}]
+[{'translation_text': 'The buyer can identify the Seller of the App at the place of purchase.'}]
+[{'translation_text': "(d) Purchases made using the Operator's Payment are also subject to the terms of use of the Operator's Account."}]
+[{'translation_text': "The Buyer shall bear any charges and related charges that may be imposed in accordance with the terms and conditions of use of the Operator's Account for the use of Payment by the Operator."}]
+[{'translation_text': "(e) If you have questions about the charges and charges in the Operator's Account, please contact the Operator's customer service."}]
+[{'translation_text': 'In Google Payments cases, please contact your Google Payments customer support team.'}]
+[{'translation_text': 'Questions related to products (such as Android Applications) purchased using Payment by the Operator should be addressed to the Sellers of specific Applications.'}]
+[{'translation_text': "(f) An operator, Google, GPL or Google Play shall not be responsible for any product (including the Application) purchased with Payment by the Operator, including failure, interruption or delay of downloading, installation, use and transmission, return of funds, advertising of third parties that the Buyer may encounter when using the product or the Application, changes that may result from the Application in operation of the device, including any changes that may affect the Operator's tariff plan or service and settlement with it, or any content and pages to which you may access via the Application."}]
+11.
+[{'translation_text': '10 Subscriptions / cyclical transactions:'}]
+[{'translation_text': '(a) If the Service offers the Buyer the option to pay for a subscription, it will start after clicking • Accept and buy (or similar) when purchasing a subscription.'}]
+[{'translation_text': 'This is a cyclical fee that will be charged automatically from time to time.'}]
+[{'translation_text': 'Unless otherwise stated, the subscription and the relevant clearing authorisation will apply until the Buyer cancels them.'}]
+[{'translation_text': '(b) By clicking "Accept and buy" (or similar option), the Buyer authorizes the relevant Seller to issue a payment order for a financing transaction paid through a selected financing instrument for a given subscription period equal to the Amount to be paid.'}]
+[{'translation_text': 'The Buyer shall authorise the relevant Seller to collect the amount to be paid from another Financing Facility if it has been selected in a Google Payments account where the Seller cannot charge the funding instrument indicated for any reason.'}]
+[{'translation_text': 'The amount to be paid shall continue to be charged from the indicated or alternative (if any) financing instrument during each settlement period until the cancellation of the subscription, unless otherwise specified under the terms of use of the service.'}]
+[{'translation_text': 'The amount to be paid may be changed by the Seller during the subscription period.'}]
+[{'translation_text': "(c) The Buyer's financing instrument will be charged with an amount to be paid in each settlement period on the basis of the date on which the subscription was purchased."}]
+[{'translation_text': '(d) The Buyer may cancel the subscription at any time by performing the activities described here, but the cancellation will only take effect after the current settlement period.'}]
+[{'translation_text': 'The buyer does not receive a refund for the current settlement period.'}]
+[{'translation_text': 'By the end of the current trading period, the Buyer shall have access to an appropriate subscription.'}]
+[{'translation_text': '(e) The GPL reserves the right to make reimbursements and contributions only at its sole discretion.'}]
+[{'translation_text': 'If the GPL makes a repayment or payment of funds, this does not imply an obligation to make the same or similar repayment in the future.'}]
+[{'translation_text': '(f) The Buyer shall have the right to return the authorised Financing Transaction which is part of the subscription if: (i) he has requested reimbursement within eight (8) weeks of the date of execution of the Financing Transaction, (ii) the Order does not include the amount to be paid during the authorisation of the Financing Transaction and (iii) the amount to be paid by the Buyer exceeds the reasonable value, taking into account the previous expenses, the Agreement and the circumstances of the case.'}]
+[{'translation_text': 'The GPL may ask the Buyer to provide additional information which is reasonably necessary to verify the claim for reimbursement.'}]
+[{'translation_text': 'A refund or justification for refusal of reimbursement shall be submitted within ten (10) working days following the request for reimbursement or, where the GPL asks for additional information, within ten (10) working days upon receipt of that information.'}]
+12.
+[{'translation_text': 'Booked point'}]
+13.
+[{'translation_text': 'Allowed Financing Transactions'}]
+13.
+[{'translation_text': '1 The Buyer may use the Service only to process the Financing Transactions concerning the Product purchased from the Seller as part of a legal and well-founded transaction for the sale of the Product or as a charity donation to the Seller if the Seller defines his business as .non-profit and has been verified by the GPL as a registered and certified non-profit organisation.'}]
+[{'translation_text': 'Services may not be used to process Finance Transactions or otherwise to transfer E-money or cash value not related to the purchase of the Product or as donations for charity to the Seller if the Seller does not identify his business as non-profit and has not been verified by the GPL as a registered and certified non-profit organisation.'}]
+13.
+[{'translation_text': '2 Services may not be used to collect advances from Sellers or to purchase cash equivalents (travel cheques, prepaid cards, transfers of funds, etc.).'}]
+[{'translation_text': 'The Buyer may not use the Service:'}]
+[{'translation_text': "(a) to carry out financing transactions in connection with the sale or exchange of any goods or services the sale or purchase of which in the Buyer's country of residence or use of the Services is unlawful;"}]
+[{'translation_text': "(b) to carry out financing transactions in connection with the sale or exchange of any goods or services the sale or purchase of which in the Seller's country of residence or use of the Services is unlawful, or"}]
+[{'translation_text': '(c) in connection with any other illegal transaction.'}]
+13.
+[{'translation_text': '3 The Buyer undertakes not to use the Service to conduct financing transactions in the case of any products in breach of the Agreement, other rules or rules concerning the Service (including periodic updates) or applicable law.'}]
+[{'translation_text': 'The current rules on Products and other transactions, for which you must not pay using the Services, can be found here.'}]
+[{'translation_text': "Failure to comply with these restrictions may result in the Buyer's suspension or termination of use of the Service."}]
+14.
+[{'translation_text': 'Service fees, exchange of currencies, interest'}]
+14.
+[{'translation_text': '1 GPL does not charge the Buyer a fee for using the Service.'}]
+[{'translation_text': 'However, third parties may charge other taxes or costs for the use of the Service by the Buyer.'}]
+[{'translation_text': 'For example, the Buyer accepts and recognises the fact that the Operator or the financial institution that issued its Financing Facility may charge a fee in connection with the charging of the Financing Facility as a result of the Financing Transactions.'}]
+[{'translation_text': 'For more information on any such fees, the Buyer should consult the terms and conditions of his Financing Facility.'}]
+14.
+[{'translation_text': '2 GPL does not exchange any currencies in the Service.'}]
+14.
+[{'translation_text': '3 GPL does not charge any interest for the use of the Service.'}]
+15.
+[{'translation_text': 'Disputes concerning the Services and others'}]
+15.
+[{'translation_text': '1 GPL provides various tools to help the Buyer communicate with the Sellers in order to resolve the dispute that may have arisen in connection with the transaction carried out by the Service.'}]
+[{'translation_text': 'If the Buyer is unable to resolve the Dispute, the GPL may mediate in the Spore between the Buyer and the Seller if any party asks for help.'}]
+[{'translation_text': 'In such a situation, the GPL will consider the dispute and propose a non-binding solution as appropriate.'}]
+[{'translation_text': 'Detailed information can be found in the answers to the most common questions.'}]
+15.
+[{'translation_text': '2 The GPL may offer an opinion function or other ranking system in the Service to assist the Buyer in evaluating the experience of using the Service.'}]
+[{'translation_text': 'The Buyer confirms the fact that any such rating function or ranking system presents only the opinions of other users of the Service and does not constitute an opinion, statements or warranty of the GPL for other users of the Service.'}]
+15.
+[{'translation_text': '3 Any claims or disputes arising from this Agreement, including Disputes concerning the Service, or from the provision of the Services by the GPL should first be reported to the GPL customer support team by the Help Centre for Buyers.'}]
+[{'translation_text': 'More information about internal complaint handling procedures can be found here.'}]
+[{'translation_text': "All complaints that have not been dealt with positively by the Buyer may be brought to the Ombudsman's attention by the Buyer."}]
+[{'translation_text': 'Financial services (Financial Ombudsman Service) at: Exchange Tower, London E14 9SR; by telephone: 0800 023 4567 or 0300 123 9 123; at http://www.financial-ombudsman.org.uk or by e-mail: complaint.info@financial-ombudsman.org.uk.'}]
+[{'translation_text': "These complaints can also be made using the online dispute resolution platform on the European Commission's website https://ec.europa.eu/consumers/odr/main/?event=main.adr.show."}]
+16.
+[{'translation_text': 'Repayments and settlements'}]
+16.
+[{'translation_text': '1 The Buyer makes using the E-money Purchase Service, which is immediately issued for the purchase of Products, therefore it is not possible to buy these E-money.'}]
+[{'translation_text': "In the event of repayment by the Seller or the GPL, E-money will be redeemed and the funds will be paid back to the Buyer's Financing Facility."}]
+16.
+[{'translation_text': "2 If, after the end of the Contract, the amount of E-money remains in the Buyer's account and the checks in force concerning the prevention of money laundering, fraud and other illegal activities are completed successfully, the GPL shall immediately after the end of the Buyer's contract buy out the total remaining amount of E-money and begin to transfer that amount to the Buyer's designated bank account."}]
+16.
+[{'translation_text': '3 If the outstanding amount of E-money cannot be bought out in accordance with point 16.'}]
+[{'translation_text': '2, The Buyer may, within six (6) years after the end of the Agreement, apply for the full amount outstanding.'}]
+[{'translation_text': "After that time, the E-money remaining in the Buyer's account becomes the property of the GPL."}]
+[{'translation_text': 'For the purposes of this point 16.'}]
+[{'translation_text': '3 The Agreement is terminated when the Buyer loses the possibility of using E-money to implement Financing Transactions, in particular where the Account is suspended in accordance with the Agreement.'}]
+[{'translation_text': 'If the right to use E-money is restored within six (6) years, such termination of the Agreement will not be effective.'}]
+[{'translation_text': 'The GPL can, at its discretion, restore the Account and any related E-money after six years.'}]
+[{'translation_text': 'Buy-out carried out under this point 16.'}]
+[{'translation_text': '3 depends on the successful outcome of checks to prevent money laundering, fraud and other illegal activities.'}]
+[{'translation_text': 'The buyer agrees to provide at the request of the GPL the information required by the GPL to carry out these checks.'}]
+16.
+[{'translation_text': '4 Point 16.'}]
+[{'translation_text': '3 does not, to any extent, restrict the right of the GPL to terminate the Agreement in accordance with point 19.'}]
+[{'translation_text': '4 or to buy funds in accordance with point 16.'}]
+2.
+17.
+[{'translation_text': "The Buyer's Responsibility"}]
+17.
+[{'translation_text': '1 In the case of an unauthorised or improper financing transaction, the Buyer shall be entitled to compensation under point 17 only if he informs the GPL of the transaction without undue delay and in no case later than thirteen (13) months after the date of the charge (i.e. the date of collection from the Financing Instrument).'}]
+[{'translation_text': 'However, this time limit does not apply if the GPL does not provide or make available to the Buyer relevant information about the transaction in accordance with law (for example in the online history of the transaction in the Buyer Account).'}]
+17.
+[{'translation_text': '2 Where the Buyer is entitled to compensation for an unauthorised financing transaction, the GPL shall reimburse the amount of such transaction as soon as possible, but no later than at the end of the business day on which the GPL receives information about such a transaction and, if possible, restore the Account to the extent that it would have been if the unauthorised Financing Transaction had not taken place.'}]
+[{'translation_text': "In practice, this means that the amount of E-money corresponding to the value of the Financing Transactions will be paid into the Buyer's Account, redeemed and immediately paid back into its Financing Facility."}]
+[{'translation_text': 'If the GPL has reasonable grounds to suspect that the Buyer has committed fraud in relation to an unauthorised transaction claim, he will conduct an investigation and inform the Buyer of its outcome as soon as possible before taking a recovery decision.'}]
+17.
+[{'translation_text': '3 Where the GPL fails to carry out a financing transaction, it shall immediately reimburse the amount of such transaction and, if applicable, restore the Account to the extent that it would have been if the wrongly carried out Financing transaction had not taken place.'}]
+[{'translation_text': "At the Buyer's request, the GPL will make immediate efforts to track down any improper financing transaction and notify the Buyer of the results."}]
+17.
+[{'translation_text': "4 If the Buyer has acted unfairly or if, intentionally or as a result of gross negligence, he has failed to comply with the provisions of the Agreement concerning his Account, he is liable for the losses incurred in connection with unauthorised transactions, and if in such cases a refund has been made, the GPL has the right to charge the Buyer's Account with the amount of refund."}]
+[{'translation_text': 'The GPL may carry out an investigation before or after an unauthorised transaction is returned.'}]
+18.
+[{'translation_text': 'No product recommendation'}]
+18.
+[{'translation_text': '1 GPL does not confirm or recommend, nor is it liable for: (a) the safety, quality, accuracy, reliability, integrity or legality of any Product, the accuracy or accuracy of the product descriptions, nor any Content displayed or distributed, purchased or paid through the Service; (b) the ability of the Buyer to purchase the Product or the ability of the Buyer to provide the Product to the Buyer by the Sellers.'}]
+18.
+[{'translation_text': '2 GPL is not responsible for editing, modifying, refusing to publish or deleting any Content (in whole or in part) which, at its discretion, are disputed, wrong, illegal, false or breaching the Agreement, although it reserves the right to do so.'}]
+19.
+[{'translation_text': "End of Buyer's relationship with the GPL"}]
+19.
+[{'translation_text': '1 The contract is valid until terminated by the Buyer or GPL as specified below.'}]
+19.
+[{'translation_text': '2 If the Buyer wishes to terminate his legal agreement with the GPL, he can do so at any time with immediate effect and without cost:'}]
+[{'translation_text': '(a) notifying the GPL in accordance with point 23.'}]
+[{'translation_text': '5 below and'}]
+[{'translation_text': '(b) by closing your Account in the Service.'}]
+[{'translation_text': 'The right of the Buyer to terminate the Agreement under point 19.'}]
+[{'translation_text': '2 covers the statutory right to terminate the Agreement in accordance with the applicable provisions implementing Directive 2002/65/EC.'}]
+19.
+[{'translation_text': "3 The GPL may terminate its legal agreement with the Buyer at any time without notice if: (a) The Buyer has infringed any essential provision of the Agreement (or acted in such a way as to prove that he is not willing or unable to comply with the essential provisions of the Agreement) or (b) the GPL is legally obliged to do so (if, for example, the provision of the Buyer's Service is or becomes unlawful)."}]
+19.
+[{'translation_text': '4 If no shorter period is specified in this Agreement, under the applicable law, GPL may terminate the Agreement at any time by notifying the Buyer at least two months in advance.'}]
+19.
+[{'translation_text': '5 At the end of this Agreement, all rights, obligations and legal obligations relating to the Buyer and the GPL (or arising during the duration of that Agreement) and defined as valid indefinitely, shall remain unchanged and the provisions set out in point 24.'}]
+[{'translation_text': '6 will be applied indefinitely to these rights, obligations and legal obligations.'}]
+20.
+[{'translation_text': 'Exclusions of guarantees'}]
+20.
+[{'translation_text': '1 GPL and its affiliates and affiliates (and their licensors) do not provide any explicit warranties or warranties or make claims on the provision of services.'}]
+20.
+[{'translation_text': '2 In particular, GPL and its subsidiaries and associates (and their licensors) shall neither declare to the Buyer nor ensure that:'}]
+[{'translation_text': '(a) the services used by the Buyer meet its requirements;'}]
+[{'translation_text': "(b) the Buyer's use of services will take place without interruption, on time, safely and without errors;"}]
+[{'translation_text': '(c) the information obtained by the Buyer during the use of the services will be accurate and reliable.'}]
+20.
+[{'translation_text': '3 Services shall not concern any other conditions, guarantees or provisions (including implied provisions concerning satisfactory quality, suitability for a particular purpose or compliance with the description) other than those expressly laid down in that Agreement.'}]
+20.
+[{'translation_text': '4 No provision of the Agreement shall affect those statutory rights which are always available to the Buyer as a consumer and which he cannot give his consent in the contract or which he cannot waive.'}]
+21.
+[{'translation_text': 'Limitation of liability'}]
+21.
+[{'translation_text': '1 No provision of the Agreement shall exclude or limit the liability of the GPL for losses which cannot be excluded or reduced in accordance with applicable law.'}]
+21.
+[{'translation_text': '2 Subject to the above point 21.'}]
+[{'translation_text': '1 GPL and its subsidiaries and affiliates (and their licensors) shall not be liable to the Buyer for: (a) any indirect or secondary damage which may be suffered by the Buyer.'}]
+[{'translation_text': "This includes any loss of profits (indirect or direct), loss of value or reputation of the company or loss of the Buyer's data; (b) any loss or damage that may be incurred by the Buyer as a result of: (i) the Buyer's trust in the completeness, accuracy or existence of advertising or in the relationship or transaction between the Buyer and the advertiser or sponsor whose advertising is displayed on the GPL website; (ii) any changes that the GPL may make in the services or temporary or permanent cessation of the provision of services (or any functions within the service); (iii) any problems with the operation of services; (iv) the removal, damage or inability to record communication data operated or transmitted within or through services; (v) the Buyer's failure to provide GPL with accurate account information or; (vi) the Buyer's use of services in any unfair manner."}]
+21.
+[{'translation_text': '3 However, the GPL shall reimburse to the Buyer any fees and interest incurred by the Buyer as a result of the default or incorrect execution by the GPL of the Financing Transactions.'}]
+22.
+[{'translation_text': 'Amendments to the Agreement'}]
+22.
+[{'translation_text': '1 The Buyer accepts the fact that the GPL can periodically amend the Agreement.'}]
+[{'translation_text': "If changes are made, except where a shorter period is specified in this Agreement, the GPL shall notify the Buyer of those changes two months in advance of the proposed date of entry into force by sending a message to the Buyer's e-mail address."}]
+22.
+[{'translation_text': '2 The Buyer acknowledges and accepts the fact that if he does not notify the GPL of the opposite will, in accordance with point 23.'}]
+[{'translation_text': 'Five, before the date of entry into force of the amendments, shall be deemed to have accepted the amendments.'}]
+[{'translation_text': 'If the Buyer informs the GPL in the manner described, the Agreement will be terminated free of charge immediately before the date of entry into force of the amendments.'}]
+[{'translation_text': 'The buyer shall also have the right to terminate the Agreement at any time before the date of entry into force, with immediate effect and without cost.'}]
+22.
+[{'translation_text': '3 No provision in point 22 shall limit: (a) the right of the GPL to update and correct its rules periodically or to add new functions at some time without prior notice.'}]
+[{'translation_text': 'A new Buyer feature can accept using it.'}]
+[{'translation_text': 'Such changes may be made using a GPL-selected method that may include sending an email or publishing information on the Google site;'}]
+[{'translation_text': '(b) the right of the parties to change the conditions of that provision 22 where such a change is not prohibited by law and both parties agree to it;'}]
+22.
+[{'translation_text': '4 changes to the Non-regulated Service may be presented in an e-mail with a 14-day notification deadline.'}]
+23.
+[{'translation_text': 'Communication and notifications'}]
+23.
+[{'translation_text': '1 All information will be made available or communicated to the Buyer in such a way that it is easy to use, in a transparent and understandable form and in an accessible text in Polish or English.'}]
+23.
+[{'translation_text': '2 Declarations, notifications and other messages may be addressed to the Buyer by traditional or electronic mail, by publishing on the GPL Site or by other legitimate means.'}]
+23.
+[{'translation_text': "3 GPL can communicate with the Buyer on issues related to services via electronic means of communication, including (a) sending a message to the Buyer's e-mail address or (b) publishing notifications and messages on the GPL Site."}]
+[{'translation_text': 'The Buyer accepts the fact that the GPL may send him electronic messages concerning all matters relating to his use of services, including regarding the Agreement (and any changes and new versions thereof), as well as notifications and declarations concerning services and authorisation of payments.'}]
+[{'translation_text': 'Each message is supported as follows:'}]
+[{'translation_text': 'The contract shall be communicated to the Buyer during the registration in a printable form.'}]
+[{'translation_text': "Changes to the Agreement after registration are transmitted in the message sent to the Buyer's e-mail address."}]
+[{'translation_text': "Except as otherwise provided in the Agreement, the notice of termination of the Agreement shall be communicated in the message sent to the Buyer's e-mail address."}]
+[{'translation_text': 'Information on Financing Transactions and Returns will be available online in the history of transactions in the Buyer Account at the Google Payment Centre.'}]
+[{'translation_text': 'Information on suspension of availability The services are made available online in the history of transactions in the Buyer Account.'}]
+[{'translation_text': 'Information on the rejection of Financing Transactions and Returns is made available online in the history of transactions in the Buyer Account.'}]
+23.
+[{'translation_text': '4 The Buyer should keep copies of electronic communication in the form of a printout or a saved electronic copy.'}]
+[{'translation_text': 'The information in electronic format shall be provided to the Buyer on the assumption that he has the possibility to print it or save it.'}]
+23.
+[{'translation_text': '5 Any notifications made to the GPL under the Agreement should be sent by registered mail to Google Payment Limited, 5 New Street Square, London EC4A 3TW, United Kingdom and marked as assigned to the task force.'}]
+[{'translation_text': 'payments by Google Payments Team, except in the following cases:'}]
+[{'translation_text': 'Notification of loss, theft, unauthorised use or security breach shall be sent immediately by the Centre to the buyers.'}]
+[{'translation_text': 'Notification of termination of this Agreement should be sent by the Centre of aid to buyers.'}]
+[{'translation_text': 'Notification under the provision in point 22.'}]
+[{'translation_text': '2 must be sent through the Centre to help buyers.'}]
+23.
+[{'translation_text': '6 The Buyer can view his online transactions in the history of the Buyer Account, which is updated at least once a month.'}]
+[{'translation_text': 'The buyer agrees not to receive the extract in paper form.'}]
+[{'translation_text': 'As of 13 July 2018'}]
+[{'translation_text': 'The GPL will start sending a monthly link to the online transaction history by e-mail, unless the Buyer requests a separate GPL not to receive a monthly extract by e-mail.'}]
+[{'translation_text': 'The Buyer can request information about his transactions only in the history of online Account transactions.'}]
+[{'translation_text': "At the Buyer's request, we can, at our discretion, provide him with additional statements, paper or other, relating to the transaction, but in this case we may charge him with an appropriate administrative fee."}]
+23.
+[{'translation_text': '7 If the GPL has to contact the Buyer in case of alleged or actual fraud or security threats, the GPL will send him a message to the basic e-mail address requesting contact.'}]
+[{'translation_text': 'The GPL may also send a message to an additional e-mail or SMS address to a telephone number if specified.'}]
+24.
+[{'translation_text': 'General legal conditions'}]
+24.
+[{'translation_text': '1 The headings of points in this Agreement shall serve solely for reference purposes and shall not affect the interpretation or shape of the Agreement.'}]
+24.
+[{'translation_text': '2 The reference to any law or statutory provision shall include a reference to that law or provision with all periodic amendments, extensions and amendments.'}]
+24.
+[{'translation_text': '3 Unless expressly specified otherwise in the Agreement, all amounts given therein shall be expressed in euro.'}]
+24.
+[{'translation_text': '4 This Agreement constitutes the whole agreement between the Buyer and the GPL and governs the way the Buyer uses its services (but does not apply to any services that the GPL may make available to the Buyer under separate written agreements) and completely replaces any previous service agreements concluded between the Buyer and the GPL.'}]
+24.
+[{'translation_text': '5 The Buyer accepts the fact that if GPL does not exercise any right or benefit contained in the Agreement or does not require its application (or which GPL may exercise under any applicable law), it is not regarded as a formal waiver by GPL and that these rights and benefits are still available to the GPL.'}]
+24.
+[{'translation_text': '6 If a court having jurisdiction in matters relating to the Agreement gives a judgment stating that any of the provisions of the Agreement are invalid, this provision shall be removed from the Agreement without affecting the rest of the Agreement.'}]
+[{'translation_text': 'The remaining provisions of the Agreement will continue to be valid and binding.'}]
+24.
+[{'translation_text': '7 The Buyer may not assign the benefits of the Agreement or in any other way transfer his rights and obligations under the Agreement without the prior written consent of the GPL.'}]
+[{'translation_text': "The GPL may transfer the benefits or otherwise transfer its rights and obligations under the Agreement to any third party without informing the Buyer and without his consent, unless it affects the change of the Buyer's payment services and the rights related to the handling of e-money under the Agreement."}]
+[{'translation_text': 'In this case, the GPL shall notify the Buyer in accordance with point 22.'}]
+24.
+[{'translation_text': '8 The Buyer recognises and accepts the fact that any entity belonging to a group of companies whose parent company is the GPL is a beneficiary of that Agreement as a third party and that such undertakings are entitled to directly enforce and implement all provisions of that Agreement which provide them with benefits (or rights).'}]
+[{'translation_text': 'In addition, no other person or company is a beneficiary of the Agreement as a third party.'}]
+24.
+[{'translation_text': '9 The Agreement and the relations with the GPL resulting from the Agreement are governed by English law, subject to additional consumer rights in accordance with Polish law.'}]
+[{'translation_text': 'The Buyers and the GPL agree to submit to the jurisdiction of the Polish courts in order to resolve legal issues arising from the Agreement.'}]
+[{'translation_text': 'Notwithstanding the provisions of point 23.'}]
+[{'translation_text': '9 The Buyer accepts the fact that the GPL may still apply for a court order (or equivalent type of urgent court ruling) in any jurisdiction.'}]

@@ -1,0 +1,253 @@
+https://policies.tinder.com/terms/intl/it/
+CONDITIONS OF USE
+Last revision: 01/08/2020
+Major change in this version: We have updated our company name to MG Japan Services GK for subscribers residing in Japan.
+For a summary of the Terms of Use, please refer to the Summary of Terms page.
+Welcome to Tinder.
+If you are a resident of the European Union, these Terms of Use apply between you and:
+MTCH Technology Services Limited ("MTCH Technology")
+WeWork Charlemont Exchange
+Charlemont Street
+Dublin 2 D02 VN88
+Ireland
+If you reside in Japan, these Terms of Use apply between you and:
+MG Japan Services GK ("MG Japan") 4F Sumitomo Fudosan Azabu Bldg 1-4-1 Mita Minato-ku, Tokyo 108-0073 Giappone
+If you reside outside the European Union and Japan, these Terms of Use apply between you and:
+Match Group, LLC ("Match Group")
+8750 North Central Expressway, Suite 1400
+Dallas, TX 75231, USA
+The terms "we", "us", "Company" and "Tinder" refer to MTCH Technology, MG Japan or Match Group, depending on your country of residence.
+1.
+Acceptance of the Terms of Use Agreement.
+By creating a Tinder account, via a mobile device, mobile application or computer (collectively, the "Service"), you agree to be bound by (i) these Terms of Use, (ii) the Privacy Policy , the Cookie Policy, the Arbitration Procedures (if applicable) and the Security Advisories, each of which is incorporated by reference into the Agreement, and (iii) any terms communicated and accepted by you if you have purchased the additional features, products or services we offer on the Service (collectively, the "Agreement").
+If the user does not agree to be bound by all the conditions of this Agreement, he is invited not to use the Service.
+From time to time, we may make changes to the Agreement and the Service for various reasons, for example to reflect changes in legislation or legal obligations, new functions or new business practices.
+The most recent version of this Agreement will be posted on the Service in the Settings section, as well as on the gotinder.com website, and the user should regularly consult the most recent version.
+The latest version is the applicable version.
+If the changes include material changes affecting your rights or obligations, we will notify you in advance by reasonable means such as notification via the Service or by email.
+Your continued use of the Service after the changes have become effective signifies your acceptance of the revised Agreement.
+2.
+Eligibility.
+You must be 18 or older to create an account on Tinder and use the Service.
+By creating an account and using the Service, you represent and warrant that you:
+have the authority to enter into a binding contract with Tinder,
+not be a person prohibited from using the Service under United States law or any other applicable jurisdiction, or you are not on the US Treasury Department's "Specially Designated Nationals" list, nor are you subject to others similar prohibitions,
+comply with this Agreement and all applicable local, state, national and international laws, rules and regulations, e
+have never been convicted of any serious or criminal offenses (or crimes of similar gravity), sex offenders or any violent crime and not be required to register as a sex offender in any state, federal or local registry of offenders sexual.
+3.
+User account.
+To use Tinder, the user can log in using their Facebook credentials.
+If you do so, you authorize us to access and use certain information on your Facebook account, including, by way of example, that relating to your public Facebook profile.
+To find out more about the information we collect and how we use it, please consult our Privacy Policy.
+You are responsible for maintaining the confidentiality of the login credentials used to register with Tinder and are solely responsible for all activities that occur with such credentials.
+If you believe someone has accessed your account, you should contact us immediately.
+4.
+Changes to the Service and Termination.
+Tinder is committed to continually improving the Service and offering users other useful and interesting features.
+This means that from time to time we may add new features or improvements or remove some existing features, and if these actions do not materially affect your rights or obligations, we may do so without prior notice.
+We may even suspend the Service entirely, in which case we will notify you in advance, unless there are extenuating circumstances, such as security concerns, that prevent us from doing so.
+You may delete your account at any time and for any reason by following the instructions in the "Settings" section of the Service; however, if you are using a third party payment account, you will need to manage in-app purchases through that account (eg.
+iTunes, Google Play) to avoid additional charges.
+Tinder may delete your account at any time and without notice if it believes that you have violated this Agreement.
+Once the account is deleted, the user will not be entitled to any refund for purchases made.
+After deletion, this Agreement will be terminated, except for the following terms, which will remain applicable to you and Tinder: Section 4, Section 5 and Sections 12-19.
+5.
+Security: interactions with other members.
+While Tinder is committed to promoting a respectful experience among subscribers through features such as double consent, which allows subscribers to communicate only after both have shown mutual interest, it is not responsible for the conduct of its subscribers on or outside the Service.
+You agree to use caution in all interactions with other subscribers, particularly if you decide to communicate with them outside the Service or meet them in person.
+Furthermore, before using the Service, you agree to consult and follow our Security Tips.
+You also agree not to provide financial information (for example, bank account or credit card details) or to transfer or send money to other members.
+YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER MEMBERS.
+THE USER UNDERSTANDS THAT TINDER DOES NOT PERFORM CRIMINAL BACKGROUND CHECKS OF ITS MEMBERS NOR INVESTIGATES THEIR PAST.
+TINDER MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING MEMBERSHIP CONDUCT.
+6.
+Rights that Tinder grants to you.
+Tinder grants you a personal, worldwide valid, royalty-free, non-transferable, non-exclusive, revocable and non-sublicensable license to access and use the Service.
+This license is for the sole purpose of enabling you to use and enjoy the benefits of the Service as provided by Tinder and permitted by this Agreement.
+Therefore, the user agrees not to:
+use the Service or any content in the Service for commercial purposes without our written permission;
+copy, modify, transmit, create derivative works, use or reproduce in any way copyrighted materials, images, trademarks, trade names, service marks or other intellectual property, content or proprietary information accessible through the Service without prior written permission from by Tinder;
+state or imply that your claims are endorsed by Tinder;
+use any robot, bot, spider, crawler, scraper, site retrieval / search application, proxy or other device, procedure or method, manual or automatic, to access, retrieve, index, "data mine" or in any way reproduce or circumvent the navigation structure or presentation of the Service or its contents;
+use the Service in any way that may interfere, interrupt or adversely affect the Service or servers or networks connected to the Service;
+upload viruses or other malicious code or otherwise compromise the security of the Service;
+forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted to or through the Service;
+"framing" or "mirroring" any part of the Service without prior written permission from Tinder;
+use meta tags or code or other devices containing references to Tinder or the Service (or any Tinder trademark, trade name, service mark, logo or slogan) to direct people to other websites for any reason;
+modify, adapt, sublicense, translate, sell, reverse engineer, decrypt, decompile or disassemble any part of the Service or cause others to do so;
+use or develop third party applications that interact with the Service or the Content or information of other subscribers without our written permission;
+use, access or publish the Tinder app programming interface without our written permission;
+probe, analyze or test the vulnerability of our Service or any system or network;
+encourage or promote any activity that violates this Agreement.
+The Company may investigate and take any legal action available in response to illegal and / or unauthorized use of the Service, including deletion of the user's account.
+Any software we provide to you can automatically download and install updates or new features.
+You may be able to change these automatic downloads through your device settings.
+7.
+Rights you grant to Tinder.
+By creating an account, you grant Tinder a worldwide, transferable, sublicensable, royalty-free right and license to host, store, use, copy, display, reproduce, adapt, review, publish, modify and distribute the Facebook information that you authorize us to access, as well as the information it publishes, uploads, displays or otherwise makes available (collectively, "publish") on the Service or transmits to other subscribers (collectively, "Content").
+Tinder's license for User Content will not be exclusive, but it will be in relation to derivative works created through use of the Service.
+For example, Tinder's license for screenshots of the Service that include User Content will be exclusive.
+Furthermore, to allow Tinder to avoid the use of the Content outside the Service, the user authorizes Tinder to act on its behalf in relation to the illegal use of its Content extracted from the Service by other subscribers or third parties.
+This expressly includes the authority, but not the obligation, to send notifications under Title 17, Section 512 (c) (3) of the United States Code (aka "DMCA takedown notices") on your behalf, if its Contents are extracted and used by third parties outside the Service.
+Our license on User Content is subject to your rights under applicable law (e.g. laws relating to the protection of personal data to the extent that the Content includes personal information defined by such laws) and applies for the purpose limited to manage, develop, provide and improve the Service, as well as seek and develop new services.
+You agree that any Content you post or authorize us to post on the Service may be viewed by other subscribers and by any person who visits or participates in the Service (for example, people who may receive Content shared by other Tinder subscribers).
+You confirm that all information provided when creating your account, including information from your Facebook account, is correct and true, and you declare that you have the right to post the Content on the Service and to license Tinder. above.
+You understand and agree that we may monitor or review the Content you post within the Service.
+We may delete, in whole or in part, any Content that in our sole judgment violates this Agreement or could damage the reputation of the Service.
+When communicating with our customer service representatives, you agree to be respectful and kind.
+If we believe that your behavior towards our employees or other employees is, at any time, threatening or offensive, we reserve the right to immediately delete your account.
+Upon authorization to use the Service that Tinder grants to you, you agree that we, our affiliates and our external partners may publish advertising on the Service.
+By submitting suggestions or feedback in connection with the Service to Tinder, you agree that Tinder may use and share such feedback for any purpose without providing you with any compensation.
+Tinder may access, store and disclose your account information and User Content if required by law, to comply with this Agreement or if in good faith we believe that such access, storage or disclosure meets a legitimate interest, such as: ( i) comply with legal proceedings; (ii) enforce the Agreement; (iii) respond to claims that the Content violates the rights of third parties; (iv) respond to user assistance requests; or (v) protect the rights, property or personal safety of the Company or any other person.
+8.
+Community guidelines.
+By using the Service, you agree not to:
+use the Service for any purpose that is unlawful or prohibited by this Agreement;
+use the Service for malicious or nefarious purposes;
+use the Service to damage Tinder;
+violate the Community Guidelines, as updated periodically;
+spamming, soliciting money or defrauding any subscriber;
+pretend to be another natural or legal person or post images of other people without their permission;
+bully, stalk, intimidate, assault, harass, mistreat or defame other people;
+post Content that violates the rights of third parties, including rights to protect against image abuse, privacy, copyright, trademark or other intellectual or contractual property rights
+post hateful, threatening, sexually explicit or pornographic Content;
+publish Contents marked by violence or that display graphic or gratuitous nudity or violence;
+post any Content that promotes racism, intolerance, hatred or bodily harm of any kind against groups or individuals;
+request passwords from other members for any purpose or personally identifiable information for commercial or illegal purposes or disclose the personal information of other people without their authorization;
+use the account of other subscribers, share accounts with other subscribers or manage multiple accounts;
+create another account if we have already deleted yours, unless you have our permission.
+Tinder reserves the right to investigate and / or delete your account without refunding your purchases if you have violated this Agreement, misused the Service, or behaved in a way that Tinder considers inappropriate. or unlawful, including with actions or communications within or outside the Service.
+9.
+Contents of other subscribers.
+Although Tinder reserves the right to review and remove Content that violates this Agreement, such content is solely the responsibility of the subscriber posting it, and Tinder cannot guarantee that all Content will comply with the Agreement.
+If you notice any Content on the Service that violates this Agreement, please report it to us within the Service itself or via the contact form.
+10.
+Shopping.
+General notes.
+Occasionally, Tinder may offer products and services for purchase ("in-app purchases") through iTunes, Google Play, operator charges, Tinder direct debits, or other Tinder-authorized payment platforms.
+If you choose to make an in-app purchase, you will be asked to confirm the purchase with the applicable payment service provider, on your payment method (a card or a third party account such as Google Play or iTunes) ("Payment Method") the amount indicated for the selected services and the sales tax or other similar taxes applicable to the payments will be charged, and the user authorizes Tinder or the third party account, as the case may be, to make the charge.
+If you purchase an auto-renewing recurring subscription through an in-app purchase, you will continue to receive subscription charges on your Payment Method until you cancel it.
+After the initial subscription period, and after any subsequent subscription period, the subscription will automatically renew for an additional equivalent period, at the price agreed upon at the time of subscription.
+Automatic renewal and automatic card payment
+The subscription is automatically renewed until the user terminates or cancels it.
+When you purchase a subscription, your Payment Method will continue to receive monthly upfront charges within 24 hours of the initial purchase date at the price agreed upon at the time of subscription.
+Your card payment information will be stored and subsequently used for automatic card payments in accordance with this Agreement.
+Any objections to payments already made should be directed to Customer Support in the event of a direct debit from Tinder or the relevant third party account, such as iTunes.
+You may also object by contacting your bank or payment service provider, who may provide you with further information on your rights and applicable terms.
+You may unconditionally revoke your authorization for automatic card payments at any time by accessing the Settings section of Tinder or the third-party account in question, but you will still be required to pay any outstanding amounts due.
+If you want to change or terminate your subscription, you will need to log into your third party account (or Tinder Settings section) and follow the corresponding instructions, even if you have already deleted your Tinder account or removed our app from your device .
+Deleting your Tinder account or removing our app from your device does not terminate or cancel your subscription; Tinder will keep all funds charged to the Payment Method until you terminate or cancel your subscription on Tinder or the third party account, as applicable.
+If the subscription ends or cancels, the user will be able to use the subscription until the end of the current subscription period and, upon the expiration of that period, the subscription will not be renewed.
+Other terms that apply if you pay Tinder directly with your Payment Method.
+If you pay Tinder directly, Tinder will be able to correct any billing errors it makes even if it has already requested or received payment.
+If you initiate a chargeback or otherwise cancel a payment made with your Payment Method, Tinder may at its discretion immediately delete your account.
+You can change your Payment Method information by going to the Tinder Settings section.
+If a payment is not settled due to deadline expiration, insufficient funds or other reason and you do not change your Payment Method information, terminate or cancel your subscription, you will remain responsible for any unclaimed monies and authorize us to continue. to charge the Payment Method, which can be updated.
+This may involve changing the invoice dates for payments.
+Additionally, you will authorize us to obtain updated or replacement expiration dates and card numbers provided by your credit or debit card issuer.
+Payment terms will be based on the Payment Method and may be determined by agreements entered into between you and the financial institution, credit card issuer or other provider of the chosen Payment Method.
+If you reside outside of the Americas, you agree that payment to Tinder will be through MTCH Technology Services Limited.
+Super likes and other virtual elements.
+From time to time, you may be able to purchase a limited, personal, non-transferable, non-sublicensable and revocable license to use "virtual items", including without limitation Super Likes (collectively, " Virtual elements ").
+Any Virtual Items balance shown in your account does not represent an actual balance or reflect any stored value, but rather a measure of the extent of the license.
+Virtual Items are not subject to charges for non-use, however the license granted to you for the Virtual Items will be terminated in accordance with the terms of this Agreement when Tinder stops providing the Service or your account is terminated or deleted.
+Tinder, in its sole discretion, reserves the right to change the fees for accessing and using the Virtual Items and / or may distribute the Virtual Items with or without charge.
+Tinder may manage, adjust, control, modify or delete Virtual Items at any time.
+Tinder will in no way be liable to you or any third party for exercising these rights.
+Virtual Items can only be redeemed through the Service.
+ALL PURCHASES AND REDEMPTIONS OF VIRTUAL ITEMS MADE THROUGH THE SERVICE ARE FINAL AND NON REFUNDABLE.
+The provision of Virtual Items for use in the Service is a service that begins immediately upon acceptance of your purchase of such Items.
+YOU ACKNOWLEDGE THAT TINDER IS NOT OBLIGED FOR ANY REASON TO PROVIDE A REFUND IN RESPECT OF VIRTUAL ITEMS AND THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR VIRTUAL ITEMS UNUSED AFTER CLOSING THE ACCOUNT. WAS VOLUNTARY OR LESS.
+Refunds.
+As a rule, all purchase charges are non-refundable and there are no refunds or credits for partially used periods.
+We may make an exception if a subscription refund is requested within 14 days of the transaction date or if applicable law in your jurisdiction provides for refunds.
+For subscribers residing in the EU or the European Economic Area, in accordance with local legislation, the user is entitled to a full refund without having to specify the reason during the 14 days following the start of the subscription.
+Please note that this 14 day period begins when the subscription begins.
+Purchases of Virtual Items are FINAL AND NON-REFUNDABLE.
+To request a refund:
+If you subscribed using your Apple ID, refunds will be handled by Apple, not Tinder.
+To request a refund, the user will need to log into iTunes, click on their Apple ID, select "Purchase History", locate the transaction and select "Report a Problem".
+You can also send a request from the page https://getsupport.apple.com.
+If the user has subscribed using their Google Play Store account or directly through Tinder, they must contact customer support indicating the order number of the Google Play Store (available in the order confirmation email or by accessing Google Pay Send) or Tinder (available in the confirmation email).
+You may also send or mail a dated and signed notice stating, as the buyer, that you wish to cancel this Agreement or phrases with similar effect.
+It will also need to include the email address or mobile number associated with your account and your order number.
+This notification should be addressed to: Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA.
+If you assert your right of cancellation (except for purchases made via Apple ID, controlled by Apple), we will refund (or ask Google to refund) all payments received without undue delay and in any case within 14 days from the date of receipt of the notification with the decision to cancel the Agreement.
+We will make this refund using the same payment method that you used for the initial transaction.
+In any case, the user will not be charged any expenses following the refund.
+You will not be able to cancel orders for digital content that are not delivered on physical media if order processing has begun after you have authorized and confirmed that you would lose your right to cancel.
+This is applicable, for example, to purchases of Virtual Items.
+These purchases are FINAL AND NON-REFUNDABLE.
+Prices.
+Tinder operates a global business and provides services to a diverse community of subscribers.
+Our pricing structure may vary by country, subscription length, package size, recent in-app promotions and other factors.
+We frequently test new pricing and features to offer our members advanced payment features and options should they decide to use them.
+11.
+Notice and procedure for reporting copyright infringement.
+If you believe that your work has been copied and posted on the Service in a way that constitutes copyright infringement, please provide our Copyright Officer with the following information:
+a physical or electronic signature of the person authorized to act on behalf of the copyright holder;
+a description of the copyrighted work that you believe has been infringed;
+a description of the location within the Service of the material that it believes infringes copyright (and such description should be reasonably sufficient to enable us to locate the material that is found to be infringing);
+your contact information, including postal address, telephone number and email address;
+a written statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its representative, or the law; is
+a statement, issued under penalty of perjury, confirming the accuracy of the information provided in the notification and confirming that you are the copyright owner or a person authorized to act on its behalf.
+Notifications of copyright infringement must be communicated to the Company's Copyright Officer by email at copyright@match.com, by telephone at (+1) 214-576-3272 or by ordinary mail at the following address:
+Copyright Compliance Department c/o Match Group Legal 8750 N. Central Expressway, Suite 1400 Dallas, Texas 75231, USA
+Tinder will delete the accounts of repeat offenders.
+12.
+Disclaimer.
+TINDER PROVIDES THE SERVICE "AS IS" AND "AS AVAILABLE" AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, MAKES NO WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, LEGAL OR OTHERWISE IN CONNECTION WITH THE SERVICE (INCLUDING ALL RELATED CONTENT) , INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF OTHER RIGHTS.
+TINDER DOES NOT REPRESENT OR WARRANT THAT (A) THE SERVICE WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE, THAT (B) ANY DEFECTS OR ERRORS IN THE SERVICE WILL BE CORRECTED OR THAT (C) ANY INFORMATION OR CONTENT OBTAINED ABOUT OR THROUGH THE SERVICE ACCURATE.
+TINDER ASSUMES NO LIABILITY FOR THE CONTENT THAT YOU, OTHER MEMBERS OR THIRD PARTIES PUBLISH, SEND OR RECEIVE THROUGH THE SERVICE.
+ACCESS TO ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED BY USING THE SERVICE IS AT YOUR SOLE DISCRETION AND RISK.
+13.
+Third Party Services.
+The Service may contain advertisements or promotions offered by third parties and links to other websites or resources.
+Tinder is not responsible for the availability (or unavailability) of such websites or external resources.
+If you choose to interact with third parties made available through the Service, your relationship with them will be governed by the terms of those parties.
+Tinder cannot be held responsible for the terms or actions of such third parties.
+14.
+Limitation of Liability.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL TINDER, ITS AFFILIATES, EMPLOYEES, LICENSORS OR SERVICE PROVIDERS BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, INCIDENTAL, PROFIT OR PUNITIVE DAMAGE , DIRECTLY OR INDIRECTLY INCURRED OR LOSS OF DATA, USE, GOODWILL OR OTHER INTANGIBLE LOSS ARISING FROM: (I) THE ACCESS, USE OR INABILITY OF THE USER TO ACCESS OR USE THE SERVICE (II) THE CONDUCT OR CONTENT OF OTHER MEMBERS OR THIRD PARTIES ON, THROUGH OR AS A RESULT OF THE USE OF THE SERVICE; OR (III) THE UNAUTHORIZED ACCESS, USE OR MODIFICATION OF USER CONTENT, EVEN IF TINDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT SHALL TINDER'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS RELATED TO THE SERVICE EXCEED THE GREATER AMOUNT OF THE FEE PAID BY YOU TO TINDER FOR THE SERVICE, IF APPLICABLE, AND USD 100 DURING THE PERIOD OF 'USER HAS AN ACCOUNT.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS SPECIFIED IN THIS SECTION MAY NOT APPLY.
+15.
+Arbitration and waiver of the right to class action and a jury trial.
+With the exception of members residing within the EU or the European Economic Area and where prohibited by current legislation:
+The sole means of resolving any dispute or claim arising out of or in connection with this Agreement (including alleged violations thereof) or the Service will be BINDING ARBITRATION managed by JAMS under JAMS's simplified arbitration rules and procedures, subject to changes made by our Arbitration Procedures.
+The only exception to the exclusivity of arbitration is that both parties have the right to bring individual action against the other in a minor case court of competent jurisdiction or, if it is filed in arbitration, the respondent party may request that the dispute be referred to a court of minor causes if it falls within the jurisdiction of the court.
+If the request to submit the dispute to a court of minor causes is made prior to the appointment of an Arbitrator, the arbitration will be closed administratively.
+If, on the other hand, the request is made after the appointment of an Arbitrator, the Arbitrator will determine whether the dispute should remain in arbitration or be resolved in a court of minor causes.
+Such arbitration may only be conducted through written communications, unless you or Tinder choose to invoke your right to an oral hearing before the Arbitrator.
+However, regardless of your choice of arbitration or minor causes court, you agree that under no circumstances will you initiate, manage or participate in class action, collective arbitration or other representative proceedings or action against Tinder.
+By using the Service in any way, you agree to the above arbitration agreement.
+By doing so, YOU WAIVE YOUR RIGHT TO APPLY TO THE COURT to lodge or defend against any claim between you and the Company (except for matters that may be submitted to courts for minor causes).
+YOU ALSO RENOUNCE THE RIGHT TO TAKE PART IN COLLECTIVE ACTIONS OR OTHER COLLECTIVE PROCEDURES.
+If you make a claim against Tinder outside of a minor lawsuits court (and Tinder does not require this to be transferred to a minor lawsuits court), your rights will be determined by a NEUTRAL ARBITRATOR. , NOT BY A JUDGE OR JURY, and the Arbitrator will determine all claims and matters relating to the arbitrability of the dispute.
+You are entitled to a fair hearing before the Arbitrator.
+The Arbitrator may, as a rule, grant the same remedies as a court, including the possibility of hearing a dispositive motion (which may be based only on the parties 'pleadings or both the parties' pleadings and the evidence submitted), but note that arbitration proceedings are usually simpler and more immediate than trials and other judicial proceedings.
+The decisions of the Arbitrator are enforceable in court and can be overturned by a court only for very limited reasons.
+For more details on arbitration, please refer to our Arbitration Procedures.
+Any proceedings to enforce this arbitration agreement, including those to confirm, amend or cancel an arbitration award, may be initiated in a court of competent jurisdiction.
+In the event that this arbitration convention is found to be unenforceable for any reason, any litigation against the Company (with the exception of actions in minor lawsuits) may only be brought before the federal or state courts located in Dallas County, Texas.
+You hereby irrevocably accept the jurisdiction of such courts for the aforementioned purposes.
+The online dispute resolution platform of the European Commission is available at http://ec.europa.eu/odr.
+Tinder does not participate in dispute resolution procedures before consumer arbitration bodies for members residing in the EU and the European Economic Area.
+16.
+Applicable legislation.
+For members residing in the EU, the European Economic Area or where our arbitration agreement is prohibited by law, any dispute arising out of or in connection with this Agreement or the Service will be governed by the laws of Texas, USA, excluding the provisions on conflict of laws.
+Notwithstanding the foregoing, the arbitration convention specified in Section 15 will be governed by the Federal Arbitration Act.
+For the avoidance of doubt, applicable Texas laws will not override, and replace, mandatory consumer protection laws in such jurisdictions.
+17.
+Forum.
+With the exception of members residing in the EU or the European Economic Area, who may file claims in their country of residence in accordance with current legislation, and with the exception of claims that may be submitted to courts for minor causes of competent jurisdiction, all Claims arising out of or in connection with this Agreement or the Service or your relationship with Tinder that for any reason are not submitted to arbitration will be brought to trial only in federal or state courts in Dallas County, Texas, USA You and Tinder consent to the exercise of personal jurisdiction of the courts of the State of Texas and waive any and all claims that such courts constitute an inappropriate forum.
+18.
+Indemnification by the user.
+You agree, to the extent permitted by applicable law, to indemnify, defend and hold harmless Tinder, our affiliates and their respective officers, directors, agents and employees from any and all claims, requests, claims, damages, losses, costs, liabilities and expenses. , including attorney's fees in any way arising out of or in connection with your access or use of the Service, your Content, or your breach of this Agreement.
+19.
+Full agreement; Various and possible.
+This Agreement, together with the Privacy Policy, Cookie Policy, Security Tips, Arbitration Procedures (if applicable) and any terms communicated and accepted by you if you have purchased the features, products or services that we offer on the Service represents the complete agreement between you and Tinder in relation to your use of the Service.
+If a provision of this Agreement is held to be invalid, the remainder of the Agreement will continue to have full validity and effect.
+The failure of the Company to exercise or enforce any right or provision of this Agreement will not constitute a waiver of such right or provision.
+You agree that your Tinder account is non-transferable and that all rights you have in the account and related Content will terminate upon your death.
+This Agreement does not involve the creation of any employment, agency, partnership, joint venture, fiduciary or other special relationship and you may not make any representations on behalf of Tinder or bind the Company in any way.

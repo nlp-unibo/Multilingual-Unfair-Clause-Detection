@@ -1,0 +1,281 @@
+Ostatnia modyfikacja 01.01.2021
+Warunki usługi
+1.
+Wstęp; Twoja zgoda na niniejsze Warunki świadczenia usług
+2.
+Korzystanie z Twitcha przez osoby niepełnoletnie i osoby zablokowane
+3.
+Informacja o ochronie prywatności
+4.
+Konto
+5.
+Korzystanie z Urządzeń i Usług
+6.
+Modyfikacja niniejszych Warunków świadczenia usług
+7.
+Licencja
+8.
+Treść użytkownika
+9.
+Zabronione postępowanie
+10.
+Poszanowanie praw autorskich
+11.
+Znaki towarowe
+12.
+Treści osób trzecich
+13.
+Zgłoszenie pomysłu
+14.
+Zakończenie
+15.
+Sprzeczanie się
+16.
+Różnorodny
+17.
+Prośby o informacje i sposób doręczenia wezwania do sądu
+18.
+Szczegółowe warunki dotyczące ścieżki dźwiękowej Twitcha
+1.
+Wstęp; Twoja zgoda na niniejsze Warunki świadczenia usług
+PROSZĘ UWAŻNIE PRZECZYTAĆ NINIEJSZE WARUNKI USŁUGI.
+JEST TO WIĄŻĄCA UMOWA.
+Witamy w usługach obsługiwanych przez Twitch Interactive, Inc. (łącznie z podmiotami stowarzyszonymi, „Twitch” lub „My”) składających się z witryny internetowej dostępnej pod adresem https://www.twitch.tv oraz jej sieci stron internetowych, aplikacji, ani żadnych innych produktów lub usług oferowanych przez Twitcha („Usługi Twitcha”).
+Inne usługi oferowane przez Twitcha mogą podlegać odrębnym warunkom.
+Podczas korzystania z usług Twitcha będziesz podlegać Wytycznym społeczności Twitcha oraz dodatkowym wytycznym lub zasadom, które są publikowane w usługach Twitcha, udostępniane lub ujawniane w związku z określonymi usługami i funkcjami.
+Twitch może również oferować pewne płatne usługi, które podlegają warunkom sprzedaży Twitcha, a także wszelkim dodatkowym warunkom ujawnionym w związku z takimi usługami.
+Wszystkie takie warunki i wytyczne („Wytyczne”) są włączone do niniejszych Warunków świadczenia usług przez odniesienie.
+Warunki korzystania z usługi mają zastosowanie niezależnie od tego, czy jesteś użytkownikiem, który rejestruje konto w usługach Twitcha, czy niezarejestrowanym użytkownikiem.
+Zgadzasz się, że klikając „Zarejestruj się” lub rejestrując się, pobierając, uzyskując dostęp lub używając usług Twitcha w inny sposób, zawierasz prawnie wiążącą umowę między tobą a Twitchem dotyczącą korzystania z usług Twitcha.
+Potwierdzasz, że przeczytałeś, zrozumiałeś i zgadzasz się przestrzegać niniejszych Warunków świadczenia usług.
+Jeśli nie zgadzasz się z niniejszymi Warunkami świadczenia usług, nie uzyskuj dostępu ani nie korzystaj w żaden inny sposób z usług Twitcha.
+Korzystając z Twitcha lub otwierając konto na Twitchu w imieniu firmy, podmiotu lub organizacji (łącznie „Organizacja subskrybująca”), oświadczasz i gwarantujesz, że: (i) jesteś upoważnionym przedstawicielem tej organizacji subskrybującej z upoważnieniem do zobowiązać tę organizację do przestrzegania niniejszych Warunków korzystania z usługi i udzielić licencji określonych w niniejszym dokumencie; oraz (ii) wyrazić zgodę na niniejsze Warunki świadczenia usług w imieniu takiej organizacji subskrybującej.
+2.
+Korzystanie z Twitcha przez osoby niepełnoletnie i osoby zablokowane
+Usługi Twitcha nie są dostępne dla osób poniżej 13 roku życia.
+Jeśli jesteś w wieku od 13 lat do wieku pełnoletności w Twojej jurysdykcji zamieszkania, możesz korzystać z usług Twitcha wyłącznie pod nadzorem rodzica lub opiekuna prawnego, który zgadza się przestrzegać niniejszych Warunków świadczenia usług.
+Usługi Twitcha nie są również dostępne dla żadnych użytkowników usuniętych wcześniej z usług Twitcha przez Twitcha ani dla osób, którym zabroniono ich otrzymywania na mocy prawa Stanów Zjednoczonych (takiego jak ograniczenia i przepisy dotyczące eksportu i reeksportu) lub obowiązujących praw w jakiejkolwiek innej jurysdykcji.
+POBIERAJĄC, INSTALUJĄC LUB W INNY SPOSÓB KORZYSTAJĄC Z USŁUG TWITCHA, OŚWIADCZASZ, ŻE MASZ CO NAJMNIEJ 13 LAT, ŻE TWÓJ RODZIC LUB OPIEKUN PRAWNY WYRAŻA ZGODĘ NA PRZESTRZEGANIE NINIEJSZYCH WARUNKÓW KORZYSTANIA Z USŁUG, JEŚLI MASZ OD 13 LAT DO PEŁNOSPRAWNOŚCI PRAWNEJ W TWOJEJ JURYSDYKCJI ZAMIESZKANIA, ORAZ ŻE NIE BYŁEŚ WCZEŚNIEJ USUNIĘTY Z USUNIĘTYCH USŁUG TWITCH I NIE MASZ ZABRONIENIA.
+3.
+Informacja o ochronie prywatności
+Twoja prywatność jest ważna dla Twitcha.
+Zapoznaj się z naszą Informacją o ochronie prywatności, aby uzyskać informacje dotyczące sposobu, w jaki gromadzimy, wykorzystujemy i ujawniamy Twoje dane osobowe, a także z naszymi wyborami dotyczącymi prywatności dotyczącymi tego, jak możesz zarządzać swoją prywatnością online podczas korzystania z usług Twitcha.
+4.
+Konto
+A. Konto i hasło
+Aby otworzyć konto, zostaniesz poproszony o podanie nam pewnych informacji, takich jak nazwa konta i hasło.
+Ponosisz wyłączną odpowiedzialność za zachowanie poufności swojego konta, hasła i ograniczenie dostępu do swojego komputera.
+Jeśli zezwalasz innym na korzystanie z danych logowania do Twojego konta, wyrażasz zgodę na niniejsze Warunki świadczenia usług w imieniu wszystkich innych osób, które korzystają z Usług na Twoim koncie lub haśle, i ponosisz odpowiedzialność za wszystkie działania, które mają miejsce w ramach Twojego konta lub hasła.
+Upewnij się, że informacje, które przekazujesz Twitchowi podczas rejestracji i we wszystkich innych przypadkach, są prawdziwe, dokładne, aktualne i kompletne zgodnie z twoją najlepszą wiedzą.
+O ile Twitch nie wyrazi na to wyraźnej zgody na piśmie, nie możesz sprzedawać, wynajmować, wydzierżawiać, udostępniać ani zapewniać dostępu do swojego konta nikomu innemu, w tym między innymi pobierać opłaty za dostęp do praw administracyjnych do Twojego konta.
+Twitch zastrzega sobie wszystkie dostępne prawa i środki zaradcze, aby zapobiec nieautoryzowanemu korzystaniu z usług Twitcha, w tym między innymi bariery technologiczne, mapowanie adresów IP oraz, w poważnych przypadkach, bezpośredni kontakt z dostawcą usług internetowych (ISP) w sprawie takiego nieautoryzowanego użycia.
+B. Konta osób trzecich
+Twitch może zezwolić ci na rejestrację i logowanie się do usług Twitcha za pośrednictwem niektórych usług stron trzecich.
+Gromadzenie, wykorzystywanie i ujawnianie Twoich danych przez stronę trzecią będzie podlegać polityce prywatności tej usługi strony trzeciej.
+Więcej informacji o tym, jak Twitch gromadzi, wykorzystuje i ujawnia Twoje dane osobowe, gdy łączysz swoje konto Twitch z kontem w dowolnej usłudze strony trzeciej, można znaleźć w naszej Informacji o ochronie prywatności.
+5.
+Korzystanie z Urządzeń i Usług
+Dostęp do usług Twitcha może wymagać użycia komputera osobistego lub urządzenia mobilnego, a także komunikacji z takimi urządzeniami lub wykorzystania miejsca na nich.
+Ponosisz odpowiedzialność za wszelkie opłaty za połączenia internetowe lub komórkowe, które ponosisz podczas uzyskiwania dostępu do usług Twitcha.
+6.
+Modyfikacja niniejszych Warunków świadczenia usług
+Twitch może zmienić dowolne warunki niniejszych Warunków świadczenia usług, publikując zmienione warunki.
+Dalsze korzystanie z usług Twitcha po dacie wejścia w życie zmienionych warunków świadczenia usług oznacza akceptację tych warunków.
+W przypadku mieszkańców Republiki Korei Twitch powiadomi z odpowiednim wyprzedzeniem o wszelkich istotnych zmianach w Warunkach korzystania z usługi.
+Wszystkie zmiany wchodzą w życie nie wcześniej niż 30 dni kalendarzowych po opublikowaniu; z zastrzeżeniem, że wszelkie zmiany dotyczące nowo udostępnionych funkcji Serwisu, korzystnych dla użytkownika funkcji Serwisu lub zmian dokonanych ze względów prawnych mogą wejść w życie ze skutkiem natychmiastowym.
+7.
+Licencja
+Usługi Twitcha są własnością Twitcha i są przez niego obsługiwane.
+O ile nie wskazano inaczej, wszystkie treści, informacje i inne materiały w usługach Twitcha (z wyłączeniem treści użytkownika, o których mowa w sekcji 8 poniżej), w tym między innymi znaki towarowe i logo Twitcha, interfejsy wizualne, grafika, projekt, kompilacja, informacje , oprogramowanie, kod komputerowy (w tym kod źródłowy lub obiektowy), usługi, tekst, obrazy, informacje, dane, pliki dźwiękowe, inne pliki oraz ich wybór i układ (łącznie „Materiały”) są chronione odpowiednimi prawami własności intelektualnej oraz prawa i prawa własności.
+Wszystkie materiały są własnością Twitcha lub jego spółek zależnych lub stowarzyszonych i/lub zewnętrznych licencjodawców.
+O ile Twitch wyraźnie nie określił inaczej na piśmie, wyrażając zgodę na niniejsze Warunki świadczenia usług, otrzymujesz ograniczoną licencję bez możliwości sublicencjonowania (tj. osobiste i ograniczone prawo) na dostęp do usług Twitcha i korzystanie z nich do użytku osobistego lub wewnętrznego użytku biznesowego tylko.
+Twitch zastrzega sobie wszelkie prawa, które nie zostały wyraźnie przyznane w niniejszych Warunkach świadczenia usług.
+Ta licencja podlega niniejszym Warunkom korzystania z usługi i nie zezwala ci na angażowanie się w żadną z następujących czynności: (a) odsprzedaż lub komercyjne wykorzystanie usług Twitcha lub materiałów; (b) dystrybucja, publiczne odtwarzanie lub publiczne wyświetlanie jakichkolwiek Materiałów; (c) modyfikowanie lub wykorzystywanie w inny sposób usług Twitcha lub Materiałów lub dowolnej ich części; (d) korzystanie z eksploracji danych, robotów lub podobnych metod gromadzenia lub ekstrakcji danych; (e) pobieranie (z wyjątkiem buforowania strony) dowolnej części usług Twitcha, materiałów lub jakichkolwiek informacji w nich zawartych, z wyjątkiem przypadków wyraźnie dozwolonych w usługach Twitcha; lub (f) jakiegokolwiek korzystania z usług Twitcha lub Materiałów niezgodnie z ich przeznaczeniem.
+Jakiekolwiek korzystanie z usług Twitcha lub Materiałów, z wyjątkiem przypadków wyraźnie dozwolonych w niniejszych Warunkach świadczenia usług, bez uprzedniej pisemnej zgody Twitcha, jest surowo zabronione i może naruszać prawa własności intelektualnej lub inne prawa.
+O ile nie zostało to wyraźnie określone w niniejszych Warunkach świadczenia usług, żadne z ich postanowień nie będzie interpretowane jako przyznające jakąkolwiek licencję na prawa własności intelektualnej, czy to przez wykluczenie, implikację, czy inne zasady prawne.
+Twitch może wypowiedzieć tę licencję zgodnie z postanowieniami sekcji 14.
+8.
+Treść użytkownika
+Twitch umożliwia dystrybucję strumieniowych transmisji na żywo i nagranych utworów audiowizualnych; do korzystania z usług, takich jak czat, tablice ogłoszeń, posty na forach, wkłady na wiki i interaktywne usługi głosowe; oraz do udziału w innych działaniach, w ramach których możesz tworzyć, publikować, przesyłać, wykonywać lub przechowywać treści, wiadomości, tekst, dźwięk, obrazy, aplikacje, kod lub inne dane lub materiały w usługach Twitcha („Treści użytkownika”).
+A. Licencja na Twitcha
+(i) O ile nie uzgodniono inaczej w pisemnej umowie między tobą a Twitchem, podpisanej przez upoważnionego przedstawiciela Twitcha, jeśli przesyłasz, transmitujesz, wyświetlasz, wykonujesz, publikujesz lub przechowujesz Treści użytkownika za pomocą usług Twitcha, udzielasz Twitchowi i jej sublicencjobiorcom, w najszerszym zakresie i przez maksymalny czas dozwolony przez obowiązujące prawo (w tym bezterminowo, jeśli jest to dozwolone przez obowiązujące prawo), nieograniczone, ogólnoświatowe, nieodwołalne, w pełni podlegające podlicencjonowaniu, niewyłączne i nieodpłatne prawo do: (a) używać, reprodukować, modyfikować, dostosowywać, publikować, tłumaczyć, tworzyć dzieł pochodnych, rozpowszechniać, wykonywać i wyświetlać takich Treści użytkownika (w tym między innymi promowanie i redystrybucja części lub całości usług Twitcha (i ich dzieł pochodnych) w dowolnej formie, formacie, mediach lub kanałach medialnych znanych obecnie lub później opracowanych lub odkrytych oraz (b) używać imienia i nazwiska, tożsamości, podobieństwa i głosu (lub innych informacji biograficznych), które przesyłasz w związku z takimi Treściami użytkownika.
+Jeśli takie Treści użytkownika zawierają imię i nazwisko, tożsamość, podobieństwo i głos (lub inne informacje biograficzne) osób trzecich, oświadczasz i gwarantujesz, że uzyskałeś odpowiednie zgody i/lub licencje na korzystanie z takich funkcji oraz że Twitch i jego sublicencjobiorcy mogą z nich korzystać w zakresie wskazanym w niniejszym Regulaminie.
+(ii) W odniesieniu do Treści użytkownika znanych jako „dodatki”, „mapy”, „modyfikacje” lub innego rodzaju projekty przesłane za pośrednictwem CurseForge.com lub powiązanych witryn („Przesłane projekty”), prawa przyznane przez użytkownika niniejsza Umowa wygasa, gdy usuniesz lub usuniesz takie Przesłane projekty z usług Twitcha.
+Przyjmujesz również do wiadomości, że Twitch może przechowywać, ale nie wyświetlać, rozpowszechniać ani wykonywać kopie serwerowe przesłanych projektów, które zostały usunięte lub usunięte.
+(iii) W odniesieniu do przesyłania strumieniowego utworów audiowizualnych na żywo i nagranych wcześniej, prawa przyznane przez ciebie na mocy niniejszej umowy wygasają, gdy usuniesz taką zawartość użytkownika z usług Twitcha lub ogólnie po zamknięciu konta, z wyjątkiem:(a) w zakresie udostępniłeś je innym osobom w ramach usług Twitcha, a inni skopiowali lub przechowali fragmenty treści użytkownika (np. utworzyli klip); (b) Twitch wykorzystał je do celów promocyjnych; oraz (c) przez rozsądny czas potrzebny do usunięcia z kopii zapasowej i innych systemów.
+B. Oświadczenia i gwarancje dotyczące treści użytkownika
+Ponosisz wyłączną odpowiedzialność za swoje Treści użytkownika i konsekwencje ich opublikowania lub opublikowania.
+Oświadczasz i gwarantujesz, że: (1) jesteś twórcą lub posiadasz lub kontrolujesz wszelkie prawa do Treści użytkownika lub w inny sposób masz wystarczające prawa i uprawnienia do udzielania praw przyznanych w niniejszym dokumencie; (2) Twoje Treści Użytkownika: (a) nie naruszają, nie naruszają ani nie przywłaszczają żadnych praw osób trzecich, w tym praw autorskich, znaków towarowych, patentów, tajemnic handlowych, praw moralnych, praw do prywatności, prawa do wizerunku ani żadnych innej własności intelektualnej lub praw własności ani (b) zniesławiać jakiejkolwiek innej osoby; (3) Twoje Treści Użytkownika nie zawierają żadnych wirusów, oprogramowania reklamowego, oprogramowania szpiegującego, robaków ani innego szkodliwego lub złośliwego kodu; oraz (4) o ile nie otrzymałeś uprzedniej pisemnej zgody, Twoje Treści użytkownika w szczególności nie zawierają żadnego przedpremierowego lub niepublicznego oprogramowania w wersji beta lub zawartości gry ani żadnych poufnych informacji Twitcha lub osób trzecich.
+Twitch zastrzega sobie wszelkie prawa i środki zaradcze wobec użytkowników, którzy naruszą te oświadczenia i gwarancje.
+C. Treść jest przesyłana na własne ryzyko
+Twitch stosuje uzasadnione środki bezpieczeństwa w celu ochrony Treści Użytkownika przed nieautoryzowanym kopiowaniem i dystrybucją.
+Twitch nie gwarantuje jednak, że żadne nieautoryzowane kopiowanie, używanie lub dystrybucja Treści użytkownika przez osoby trzecie nie będzie miało miejsca.
+W najszerszym zakresie dozwolonym przez obowiązujące prawo, niniejszym zgadzasz się, że Twitch nie ponosi odpowiedzialności za jakiekolwiek nieautoryzowane kopiowanie, używanie lub dystrybucję Treści użytkownika przez osoby trzecie oraz zwalniasz i na zawsze zrzekasz się wszelkich roszczeń, które możesz mieć wobec Twitcha z tytułu takiego nieautoryzowanego kopiowania lub wykorzystanie Treści użytkownika, w ramach jakiejkolwiek teorii.
+ŚRODKI BEZPIECZEŃSTWA MAJĄCE NA CELU OCHRONĘ TREŚCI UŻYTKOWNIKA WYKORZYSTYWANE PRZEZ TWITCH W NINIEJSZEJ NINIEJSZEJ STRONIE SĄ DOSTARCZANE I UŻYWANE „TAK JAK JEST”, BEZ ŻADNYCH GWARANCJI, WARUNKÓW, ZAPEWNIEŃ ANI INNYCH WARUNKÓW, ŻE TAKIE ŚRODKI BEZPIECZEŃSTWA SĄ ODPORNE NA PRÓBY OMIJANIA MECHANIZMÓW BEZPIECZEŃSTWA LUB ŻE BĘDĄ ŻADNYCH PĘKNIĘĆ, WYŁĄCZEŃ ANI INNYCH OBEJMOWAŃ TAKICH ŚRODKÓW BEZPIECZEŃSTWA.
+D. Promocje
+Użytkownicy mogą promować, administrować lub przeprowadzać promocje (np. konkursy lub loterie) w usługach Twitcha, za ich pośrednictwem lub korzystając z nich („Promocja”).
+Jeśli zdecydujesz się promować, administrować lub przeprowadzać Promocje, musisz przestrzegać następujących zasad: (1) Możesz przeprowadzać Promocje w zakresie dozwolonym przez obowiązujące prawo i ponosisz wyłączną odpowiedzialność za zapewnienie, że wszelkie Promocje są zgodne z wszelkimi i wszystkie obowiązujące prawa, obowiązki i ograniczenia; (2) Zostaniesz sklasyfikowany jako organizator Promocji w odpowiedniej jurysdykcji i będziesz ponosić wyłączną odpowiedzialność za wszystkie aspekty i wydatki związane z Promocją, w tym między innymi za realizację, administrację i obsługę Promocji ; opracowywanie i publikowanie wszelkich oficjalnych zasad; wyłonienie zwycięzców; wydawanie nagród; oraz uzyskanie wszelkich niezbędnych zezwoleń i zatwierdzeń stron trzecich, w tym między innymi złożenie wszelkich niezbędnych rejestracji i gwarancji.
+Twitch ma prawo usunąć Twoją Promocję z usług Twitcha, jeśli Twitch zasadnie uważa, że ​​Twoja Promocja nie jest zgodna z Warunkami korzystania z usługi lub obowiązującym prawem; (3) Twitch nie ponosi odpowiedzialności za takie Promocje i nie popiera ich ani nie wspiera.
+Nie możesz wskazywać, że Twitch jest sponsorem lub współsponsorem Promocji; oraz (4) Podczas promowania, administrowania lub przeprowadzania Promocji wyświetlisz lub odczytasz następujące zastrzeżenie: „To jest promocja firmy [Twoje imię i nazwisko].
+Twitch nie sponsoruje ani nie popiera tej promocji i nie ponosi za nią odpowiedzialności.”.
+mi. Potwierdzenia/rekomendacje
+Zgadzasz się, że Twoje Treści Użytkownika będą zgodne z Wytycznymi FTC dotyczącymi wykorzystania referencji i potwierdzeń w reklamach, Przewodnikiem FTC dotyczącym ujawniania informacji, Wytycznymi FTC dotyczącymi reklam natywnych oraz wszelkimi innymi wytycznymi wydawanymi okresowo przez FTC („Wytyczne FTC ”), a także wszelkie inne wytyczne dotyczące reklam wymagane przez obowiązujące prawo.
+Na przykład, jeśli otrzymałeś zapłatę lub otrzymałeś darmowe produkty w zamian za omawianie lub promowanie produktu lub usługi za pośrednictwem usług Twitcha, lub jeśli jesteś pracownikiem firmy i zdecydujesz się omawiać lub promować produkty lub usługi tej firmy za pośrednictwem usług Twitcha, zgadzasz się przestrzegać wymagań Wytycznych FTC dotyczących ujawniania takich relacji.
+Ty, a nie Twitch, ponosisz wyłączną odpowiedzialność za wszelkie rekomendacje lub rekomendacje dotyczące dowolnego produktu lub usługi za pośrednictwem usług Twitcha.
+F. Działalność polityczna
+Z zastrzeżeniem niniejszych Warunków korzystania z usługi i Wytycznych dla społeczności, możesz udostępniać opinie polityczne; uczestniczyć w działalności politycznej; udostępniać łącza do oficjalnej witryny internetowej komitetu politycznego, w tym strony zawierającej wkład komitetu politycznego; i zachęcać widzów do przekazywania datków bezpośrednio do komitetu politycznego.
+Zgadzasz się jednak, że te działania są całkowicie Twoje.
+Ponadto, angażując się w te działania, oświadczasz i gwarantujesz, że jesteś uprawniony do ich wykonywania na mocy obowiązującego prawa oraz że będziesz przestrzegać wszystkich odpowiednich przepisów ustawowych i wykonawczych.
+Zgadzasz się nie nakłaniać ani nie używać żadnego narzędzia monetyzacji Twitcha (np. Bitsów lub subskrypcji) w celu przekazywania lub przekazywania datków kandydatowi, komitetowi kandydatów, komitetowi działań politycznych, komitetowi wyborczemu lub jakiemukolwiek innemu komitetowi kampanii, lub w inny sposób w celu wpłynięcia na jakiekolwiek wybory.
+Kandydaci na stanowiska polityczne nie mogą używać żadnych narzędzi do zarabiania na Twitchu na swoich kanałach.
+9.
+Zabronione postępowanie
+ZGADZASZ SIĘ NIE łamać żadnych praw, umów, własności intelektualnej ani innych praw stron trzecich; nie popełnić czynu niedozwolonego oraz że ponosisz wyłączną odpowiedzialność za swoje zachowanie podczas korzystania z usług Twitcha.
+Zgadzasz się, że będziesz przestrzegać niniejszych Warunków korzystania z usługi i Wytycznych społeczności Twitcha i nie będziesz:
+I. tworzyć, przesyłać, przesyłać, rozpowszechniać ani przechowywać żadnych treści, które są niedokładne, niezgodne z prawem, naruszające prawo, zniesławiające, obsceniczne, pornograficzne, naruszające prywatność lub prawa do wizerunku, nękające, zawierające groźby, obraźliwe, podżegające lub w inny sposób budzące zastrzeżenia;
+II.
+podszywać się pod jakąkolwiek osobę lub podmiot; fałszywie twierdzić, że jest powiązany z jakąkolwiek osobą lub podmiotem; uzyskiwać dostępu do kont usług Twitcha innych osób bez pozwolenia; sfałszować podpisu cyfrowego innej osoby; wprowadzać w błąd co do źródła, tożsamości lub treści informacji przesyłanych za pośrednictwem usług Twitcha; ani wykonywać innych podobnych oszukańczych działań;
+iii.
+wysyłać niechcianej poczty lub spamu do użytkowników usług Twitcha, w tym między innymi niechcianych reklam, materiałów promocyjnych lub innych materiałów służących do nagabywania; masowa wysyłka reklam handlowych, łańcuszków pocztowych, ogłoszeń informacyjnych, próśb o cele charytatywne, petycji o podpisy lub jakichkolwiek poprzednich rzeczy związanych z upominkami promocyjnymi (takimi jak loterie i konkursy); i inne podobne czynności;
+iv.
+zbierać lub zbierać adresy e-mail lub inne dane kontaktowe innych użytkowników z usług Twitcha;
+v. zniesławiać, nękać, nadużywać, grozić ani oszukiwać użytkowników usług Twitcha ani zbierać lub próbować zbierać danych osobowych użytkowników lub osób trzecich bez ich zgody;
+My.
+usuwać, usuwać, omijać, wyłączać, uszkadzać ani w inny sposób zakłócać (a) funkcji związanych z bezpieczeństwem usług Twitcha lub zawartości użytkownika, (b) funkcji, które uniemożliwiają lub ograniczają korzystanie lub kopiowanie dowolnej zawartości dostępnej za pośrednictwem usług Twitcha, ( c) funkcji wymuszających ograniczenia w korzystaniu z usług Twitcha lub treści użytkownika lub (d) informacji o prawach autorskich lub innych prawach własności dotyczących usług Twitcha lub treści użytkownika;
+VII.
+dokonywać inżynierii wstecznej, dekompilować, dezasemblować ani w inny sposób podejmować prób odkrycia kodu źródłowego usług Twitcha lub jakiejkolwiek ich części, z wyjątkiem i tylko w zakresie, w jakim ta czynność jest wyraźnie dozwolona przez prawo obowiązujące w jurysdykcji twojego miejsca zamieszkania;
+VIII.
+modyfikować, dostosowywać, tłumaczyć ani tworzyć dzieł pochodnych w oparciu o usługi Twitcha lub jakąkolwiek ich część, z wyjątkiem i tylko w zakresie, w jakim taka działalność jest wyraźnie dozwolona przez obowiązujące prawo niezależnie od tego ograniczenia;
+ix.
+zakłócać lub szkodzić działaniu usług Twitcha lub czerpaniu z nich przyjemności przez użytkownika w jakikolwiek sposób, w tym przesyłanie lub rozpowszechnianie w inny sposób wirusów, oprogramowania reklamowego, oprogramowania szpiegującego, robaków lub innego złośliwego kodu;
+X. przekazywać wiadomości e-mail z serwerów pocztowych stron trzecich bez zgody tej strony trzeciej;
+xi.
+uzyskiwać dostępu do jakiejkolwiek strony internetowej, serwera, aplikacji lub innego zasobu komputerowego posiadanego, używanego i/lub licencjonowanego przez Twitcha, w tym między innymi do usług Twitcha, za pomocą dowolnego robota, pająka, skrobaka, robota indeksującego lub innych zautomatyzowanych środków do w jakimkolwiek celu lub omijać wszelkie środki, które Twitch może zastosować w celu uniemożliwienia lub ograniczenia dostępu do dowolnej strony internetowej, serwera, aplikacji lub innych zasobów komputerowych posiadanych, używanych i/lub licencjonowanych przez Twitcha, w tym między innymi usług Twitcha;
+XII.
+manipulować identyfikatorami w celu ukrycia pochodzenia jakichkolwiek treści użytkownika przesyłanych za pośrednictwem usług Twitcha;
+XIII.
+ingerować lub zakłócać usługi Twitcha lub serwery lub sieci połączone z usługami Twitcha ani nie przestrzegać jakichkolwiek wymagań, procedur, zasad lub przepisów sieci połączonych z usługami Twitcha; korzystać z usług Twitcha w jakikolwiek sposób, który mógłby zakłócać, zakłócać, negatywnie wpływać lub uniemożliwiać innym użytkownikom pełne korzystanie z usług Twitcha lub który mógłby w jakikolwiek sposób uszkodzić, wyłączyć, przeciążyć lub osłabić działanie usług Twitcha;
+XIV.
+używać lub próbować używać konta innego użytkownika bez zgody tego użytkownika i Twitcha;
+xv.
+próbować obejść stosowane przez nas techniki filtrowania zawartości ani próbować uzyskać dostępu do jakiejkolwiek usługi lub obszaru usług Twitcha, do którego nie masz uprawnień;
+XVI.
+próbować wskazać w jakikolwiek sposób, bez naszej uprzedniej pisemnej zgody, że jesteś z nami w relacji lub że popieramy Ciebie lub jakiekolwiek produkty lub usługi w jakimkolwiek celu; I
+XVII.
+korzystać z usług Twitcha w jakimkolwiek celu niezgodnym z prawem lub z naruszeniem jakichkolwiek lokalnych, stanowych, krajowych lub międzynarodowych praw lub przepisów, w tym między innymi przepisów regulujących własność intelektualną i inne prawa własności, ochronę danych i prywatność.
+W zakresie dozwolonym przez obowiązujące prawo Twitch nie ponosi żadnej odpowiedzialności za jakiekolwiek Treści Użytkownika ani za jakiekolwiek straty lub szkody z nich wynikające, jak również nie ponosi odpowiedzialności za jakiekolwiek błędy, zniesławienie, oszczerstwo, zniesławienie, pominięcia, kłamstwa, obsceniczność, pornografię lub wulgaryzmy, które możesz napotkać podczas korzystania z usług Twitcha.
+Korzystasz z usług Twitcha na własne ryzyko.
+Ponadto te zasady nie stwarzają żadnych prywatnych praw do działania ze strony osób trzecich ani żadnych uzasadnionych oczekiwań, że usługi Twitcha nie będą zawierały żadnych treści zabronionych przez te zasady.
+Twitch nie ponosi odpowiedzialności za jakiekolwiek oświadczenia lub oświadczenia zawarte w Treściach Użytkownika.
+Twitch nie popiera żadnych Treści Użytkownika, opinii, rekomendacji ani porad w nich wyrażonych, a Twitch wyraźnie zrzeka się wszelkiej odpowiedzialności w związku z Treściami Użytkownika.
+W najszerszym zakresie dozwolonym przez obowiązujące prawo Twitch zastrzega sobie prawo do usuwania, sprawdzania lub edytowania wszelkich treści użytkownika opublikowanych lub przechowywanych w usługach Twitcha w dowolnym momencie i bez powiadomienia, w tym w przypadkach, gdy takie treści użytkownika naruszają niniejsze Warunki świadczenia usług lub obowiązujące prawo , a ty ponosisz wyłączną odpowiedzialność za tworzenie kopii zapasowych i zastępowanie wszelkich treści użytkownika, które publikujesz lub przechowujesz w usługach Twitcha, na własny koszt.
+Jakiekolwiek korzystanie z usług Twitcha z naruszeniem powyższego stanowi naruszenie niniejszych Warunków świadczenia usług i może skutkować między innymi wygaśnięciem lub zawieszeniem twoich praw do korzystania z usług Twitcha.
+W przypadku mieszkańców Republiki Korei, z wyjątkiem przypadku, gdy Twitch zasadnie uzna, że ​​powiadomienie jest prawnie zabronione (na przykład, gdy powiadomienie (i) naruszyłoby obowiązujące prawo, przepisy lub nakazy organów regulacyjnych lub (ii) naraziłoby na szwank trwającego dochodzenia prowadzonego przez organ regulacyjny) lub że jakiekolwiek powiadomienie może wyrządzić szkodę tobie, osobom trzecim, Twitchowi i/lub jego podmiotom stowarzyszonym (na przykład, gdy powiadomienie narusza bezpieczeństwo usług Twitcha), Twitch niezwłocznie powiadomi o powodach podjęcia odpowiednich kroków.
+10.
+Poszanowanie praw autorskich
+Twitch szanuje własność intelektualną innych osób i przestrzega wymagań określonych w ustawie Digital Millennium Copyright Act („DMCA”) i innych obowiązujących przepisach.
+Jeśli jesteś właścicielem praw autorskich lub jego przedstawicielem i uważasz, że treści publikowane w usługach Twitcha naruszają Twoje prawa autorskie, prześlij powiadomienie zgodnie z naszymi Wytycznymi DMCA, które zawierają dalsze informacje o naszych zasadach, co należy zawrzeć w powiadomieniu i gdzie złóż swoje zawiadomienie.
+11.
+Znaki towarowe
+TWITCH, logo Twitcha i wszelkie inne nazwy, logo lub slogany produktów lub usług używane przez Twitcha, a także wygląd i działanie usług Twitcha, w tym wszystkie nagłówki stron, niestandardowe grafiki, ikony przycisków i skrypty, są znakami towarowymi lub strój Twitcha i nie mogą być używane w całości ani w części w połączeniu z jakimkolwiek produktem lub usługą, która nie należy do Twitcha, w jakikolwiek sposób, który może powodować zamieszanie wśród klientów lub w jakikolwiek sposób, który dyskredytuje lub dyskredytuje Twitcha, bez naszego uprzedniej pisemnej zgody.
+Każde użycie tych znaków towarowych musi być zgodne z Wytycznymi dotyczącymi znaków towarowych Twitcha.
+Wszystkie inne znaki towarowe wymienione w usługach Twitcha są własnością ich odpowiednich właścicieli.
+Odwoływanie się w usługach Twitcha do jakichkolwiek produktów, usług, procesów lub innych informacji za pomocą nazwy handlowej, znaku towarowego, producenta, dostawcy lub w inny sposób nie stanowi ani nie sugeruje poparcia, sponsorowania lub rekomendacji przez nas lub jakiekolwiek inne stowarzyszenie.
+12.
+Treści osób trzecich
+Oprócz treści użytkownika Twitch może udostępniać inne treści osób trzecich w usługach Twitcha (łącznie „treści osób trzecich”).
+Twitch nie kontroluje ani nie popiera żadnych Treści osób trzecich i nie składa żadnych oświadczeń ani nie udziela żadnych gwarancji dotyczących Treści osób trzecich, w tym bez ograniczeń dotyczących ich dokładności lub kompletności.
+Należy pamiętać, że nie tworzymy Treści stron trzecich, nie aktualizujemy ich ani nie monitorujemy.
+Dlatego nie ponosimy odpowiedzialności za treści stron trzecich w usługach Twitcha.
+Ponosisz odpowiedzialność za podjęcie decyzji, czy chcesz uzyskać dostęp do stron internetowych lub aplikacji stron trzecich, które zawierają łącza z usług Twitcha („Witryny referencyjne”) lub z nich korzystać.
+Twitch nie kontroluje ani nie popiera żadnych takich witryn referencyjnych ani informacji, materiałów, produktów lub usług zawartych w witrynach referencyjnych lub dostępnych za ich pośrednictwem i nie składa żadnych oświadczeń ani nie udziela żadnych gwarancji dotyczących witryn referencyjnych.
+Ponadto twoja korespondencja lub kontakty biznesowe z reklamodawcami znalezionymi w usługach Twitcha lub za ich pośrednictwem albo udział w promocjach reklamodawców są wyłącznie między tobą a takim reklamodawcą.
+Dostęp i korzystanie z Witryn referencyjnych, w tym informacji, materiałów, produktów i usług w Witrynach referencyjnych lub dostępnych za ich pośrednictwem odbywa się wyłącznie na własne ryzyko.
+13.
+Zgłoszenie pomysłu
+Przesyłając pomysły, sugestie, dokumenty i/lub propozycje („Zgłoszenia”) do Twitcha lub jego pracowników, przyjmujesz do wiadomości i zgadzasz się, że Twitch będzie uprawniony do wykorzystania lub ujawnienia takich Zgłoszeń w dowolnym celu w dowolny sposób bez zapewniania wynagrodzenia lub kredytu Tobie.
+14.
+Zakończenie
+W najszerszym zakresie dozwolonym przez obowiązujące prawo, Twitch zastrzega sobie prawo, bez powiadomienia i według własnego uznania, do wypowiedzenia twojej licencji na korzystanie z usług Twitcha (w tym na publikowanie treści użytkownika) oraz do zablokowania lub uniemożliwienia ci przyszłego dostępu do i korzystania z nich usług Twitcha, w tym sytuacji, w których zasadnie uważamy, że: (a) korzystanie z usług Twitcha narusza niniejsze Warunki świadczenia usług lub obowiązujące prawo; (b) oszukańczo używasz lub niewłaściwie używasz usług Twitcha; lub (c) nie możemy dalej świadczyć Ci usług Twitcha z powodów technicznych lub uzasadnionych biznesowych.
+Nasze prawo do wypowiedzenia licencji obejmuje możliwość wypowiedzenia lub zawieszenia dostępu do wszelkich zakupionych produktów lub usług, w tym wszelkich subskrypcji, kont Prime Gaming lub Turbo.
+W najszerszym zakresie dozwolonym przez obowiązujące prawo, jedynym środkiem zaradczym przysługującym Ci w przypadku niezadowolenia z: (i) usług Twitcha, (ii) dowolnego warunku niniejszych Warunków świadczenia usługi, (iii) jakiejkolwiek polityki lub praktyki Twitcha w zakresie obsługi Twitcha usług lub (iv) wszelkiej treści lub informacji przesyłanych za pośrednictwem usług Twitcha, ma na celu zamknięcie twojego konta i zaprzestanie korzystania z dowolnej części usług Twitcha.
+W przypadku mieszkańców Republiki Korei, z wyjątkiem przypadku, gdy Twitch zasadnie uzna, że ​​powiadomienie jest prawnie zabronione (na przykład, gdy powiadomienie (i) naruszyłoby obowiązujące prawo, regulacje lub nakazy organów regulacyjnych lub (ii) naraziłoby na szwank trwającego dochodzenia prowadzonego przez organ regulacyjny) lub że jakiekolwiek powiadomienie może wyrządzić szkodę tobie, osobom trzecim, Twitchowi i/lub jego podmiotom stowarzyszonym (na przykład, gdy powiadomienie narusza bezpieczeństwo usług Twitcha), Twitch niezwłocznie powiadomi o powodach podjęcia odpowiednich kroków.
+15.
+Sprzeczanie się
+A. Odszkodowanie
+W najszerszym zakresie dozwolonym przez obowiązujące prawo, zgadzasz się zabezpieczyć, bronić i chronić Twitch, jego spółki stowarzyszone oraz każdego z naszych kontrahentów, pracowników, członków zarządu, dyrektorów, agentów, zewnętrznych dostawców, licencjodawców i partnerów ( indywidualnie i zbiorowo, „Strony Twitcha”) z tytułu wszelkich roszczeń, strat, szkód, żądań, wydatków, kosztów i zobowiązań, w tym opłat i wydatków prawnych, wynikających z lub związanych z dostępem do usług Twitcha, korzystaniem z nich lub niewłaściwym korzystaniem z nich , wszelkie treści użytkownika, które publikujesz, przechowujesz lub w inny sposób przesyłasz w usługach Twitcha lub za ich pośrednictwem, naruszenie przez ciebie praw osób trzecich, jakiekolwiek naruszenie przez ciebie niniejszych Warunków świadczenia usługi lub jakiekolwiek naruszenie oświadczeń, gwarancji i umów wykonane przez Ciebie w tym miejscu.
+Zgadzasz się niezwłocznie powiadomić Strony Twitcha o wszelkich roszczeniach osób trzecich, a Twitch zastrzega sobie prawo do przejęcia na Twój koszt wyłącznej obrony i kontroli nad każdą sprawą, za którą musisz zabezpieczyć Twitcha, i zgadzasz się współpracować z Obrona Twitcha przed tymi roszczeniami.
+Twitch dołoży uzasadnionych starań, aby powiadomić Cię o wszelkich takich roszczeniach, działaniach lub postępowaniach, gdy tylko się o nich dowie.
+B. Zastrzeżenia; Brak gwarancji
+W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO: (A) USŁUGI TWITCH ORAZ TREŚĆ I MATERIAŁY W NICH ZAWARTE SĄ DOSTARCZANE W STANIE, W JAKIM SĄ, BEZ JAKICHKOLWIEK GWARANCJI, WYRAŹNYCH LUB DOROZUMIANYCH, Z WYJĄTKIEM WARUNKÓW WYRAŹNIE POSTANOWIONYCH PRZECIWNIE PISANIE PRZEZ TWITCHA; (B) STRONY TWITCH WYŁĄCZAJĄ WSZELKIE INNE GWARANCJE, USTAWOWE, WYRAŹNE LUB DOROZUMIANE, W TYM MIĘDZY INNYMI DOROZUMIANE GWARANCJE PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU, TYTUŁU I NIENARUSZALNOŚCI USŁUG TWITCH, W TYM WSZELKIE INFORMACJE , TREŚCI LUB MATERIAŁY W NICH ZAWARTE; (C) TWITCH NIE OŚWIADCZA ANI NIE GWARANTUJE, ŻE TREŚĆ LUB MATERIAŁY W USŁUGACH TWITCHA SĄ DOKŁADNE, KOMPLETNE, NIEZAWODNE, AKTUALNE LUB WOLNE OD BŁĘDÓW; (D) TWITCH NIE ODPOWIADA ZA BŁĘDY TYPOGRAFICZNE LUB POMINIĘCIA W ZWIĄZKU Z TEKSTEM LUB ZDJĘCIAMI; I (E) JEŚLI TWITCH PRÓBUJE ZAPEWNIĆ DOSTĘP I KORZYSTANIE Z USŁUG TWITCH BEZPIECZNIE, TWITCH NIE MOŻE I NIE OŚWIADCZA ANI NIE GWARANTUJE, ŻE USŁUGI TWITCH LUB NASZE SERWERY SĄ WOLNE OD WIRUSÓW LUB INNYCH SZKODLIWYCH KOMPONENTÓW, I DLATEGO NALEŻY KORZYSTAĆ Z UZNANEGO W BRANŻY OPROGRAMOWANIA DO WYKRYWANIA I LECZENIA WIRUSÓW Z KAŻDEGO POBIERANEGO POBRANIA.
+ŻADNE PORADY ANI INFORMACJE, USTNE ANI PISEMNE, UZYSKANE PRZEZ CIEBIE OD TWITCH LUB ZA POŚREDNICTWEM USŁUG TWITCH NIE STANOWIĄ JAKIEJKOLWIEK GWARANCJI, KTÓRA NIE JEST WYRAŹNIE OKREŚLONA W NINIEJSZYM NINIEJSZYM WYDANIU.
+C. Ograniczenie odpowiedzialności i odszkodowania
+I. Ograniczenie odpowiedzialności
+W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO: (A) W ŻADNYM WYPADKU TWITCH ANI STRONY TWITCH NIE BĘDĄ ODPOWIEDZIALNE ZA JAKIEKOLWIEK BEZPOŚREDNIE, SPECJALNE, POŚREDNIE LUB WTÓRNE SZKODY ANI ŻADNE INNE SZKODY JAKIEGOKOLWIEK RODZAJU, W TYM MIĘDZY INNYMI UTRATĘ WYKORZYSTANIA, UTRATY ZYSKÓW LUB UTRATY DANYCH, CZY TO W DZIAŁANIU KONTRAKTU, DELIKTU (W TYM MIĘDZY INNYMI ZANIEDBANIA), LUB W INNY SPOSÓB, WYNIKAJĄCYCH Z KORZYSTANIA LUB NIEMOŻNOŚCI KORZYSTANIA Z USŁUG TWITCH LUB W JAKIKOLWIEK ZWIĄZEK Z , TREŚĆ LUB MATERIAŁY, W TYM MIĘDZY INNYMI JAKIEKOLWIEK SZKODY SPOWODOWANE LUB WYNIKAJĄCE Z POLEGANIA NA JAKICHKOLWIEK INFORMACJACH UZYSKANYCH OD TWITCH LUB WYNIKAJĄCE Z POMYŁEK, POMINIĘĆ, PRZERW, USUNIĘCIA PLIKÓW LUB E-MAILA, BŁĘDÓW, USTEREK, WIRUSÓW, OPÓŹNIEŃ DZIAŁANIA LUB TRANSMISJI LUB JAKIEGOKOLWIEK NIEWŁAŚCIWOŚCI WYNIKAJĄCE Z DZIAŁÓW BOŻYCH, AWARII KOMUNIKACJI, KRADZIEŻY, ZNISZCZENIA LUB NIEUPOWAŻNIONEGO DOSTĘPU DO REJESTRÓW, PROGRAMÓW LUB USŁUG TWITCHA, WYNIKAJĄCE LUB NIE; ORAZ (B) W ŻADNYM WYPADKU ŁĄCZNA ODPOWIEDZIALNOŚĆ FIRMY TWITCH, CZY TO KONTRAKTOWA, GWARANCYJNA, DELIKTOWA (W TYM ZANIEDBANIE AKTYWNE, PASYWNE LUB PRZYPISANE), ODPOWIEDZIALNOŚĆ ZA PRODUKT, ODPOWIEDZIALNOŚĆ ŚCISŁA LUB INNA TEORIA WYNIKAJĄCA LUB ZWIĄZANA Z KORZYSTANIE LUB NIEMOŻLIWOŚĆ KORZYSTANIA Z USŁUG TWITCHA PRZEKRACZA KWOTĘ ZAPŁACONĄ PRZEZ CIEBIE ZA DOSTĘP DO USŁUG TWITCHA W CIĄGU DWANAŚCIA (12) MIESIĘCY BEZPOŚREDNIO POPRZEDZAJĄCYCH DATĘ ROSZCZENIA LUB STO DOLARÓW, W zależności od tego, która z tych kwot jest większa.
+W ZAKRESIE, W JAKIM OBOWIĄZUJĄCE PRAWO ZABRONIONE JEST OGRANICZENIE TAKIEJ ODPOWIEDZIALNOŚCI, TWITCH OGRANICZA SWOJĄ ODPOWIEDZIALNOŚĆ W PEŁNYM ZAKRESIE DOZWOLONYM PRZEZ OBOWIĄZUJĄCE PRAWO.
+II.
+Witryny referencyjne
+NINIEJSZE OGRANICZENIA ODPOWIEDZIALNOŚCI MAJĄ RÓWNIEŻ ZASTOSOWANIE DO SZKÓD PONIESIONYCH PRZEZ CIEBIE Z POWODU JAKICHKOLWIEK PRODUKTÓW LUB USŁUG SPRZEDAWANYCH LUB DOSTARCZANYCH NA JAKICHKOLWIEK WITRYNACH ODNIESIENIA LUB W INNY SPOSÓB PRZEZ OSOBY TRZECIE INNE NIŻ TWITCH I OTRZYMANYCH ZA POŚREDNICTWEM LUB REKLAMOWANYCH W SERWISACH TWITCH LUB OTRZYMANYCH ZA POŚREDNICTWEM .
+iii.
+Podstawa transakcji
+PRZYJMUJESZ DO WIADOMOŚCI I ZGADZASZ SIĘ, ŻE TWITCH OFEROWAŁ USŁUGI TWITCH, TREŚCI UŻYTKOWNIKA, MATERIAŁY ORAZ INNE TREŚCI I INFORMACJE, USTALAŁ SWOJĄ CENĘ I ZAWARŁ NINIEJSZE WARUNKI USŁUG W OPARCIU O WYŁĄCZENIA GWARANCJI I OGRANICZENIA ODPOWIEDZIALNOŚCI OKREŚLONE W NINIEJSZYM NINIEJSZYM NINIEJSZYM STANIE, ŻE Zastrzeżenia gwarancji i ograniczenia odpowiedzialności określone w niniejszym dokumencie odzwierciedlają rozsądną i sprawiedliwą alokacja ryzyka między tobą a Twitchem oraz że zrzeczenia się gwarancji i ograniczenia zobowiązań określone w niniejszym dokumencie stanowią istotną podstawę okazji między tobą a Twitchem.
+BEZ TYCH OGRANICZEŃ TWITCH NIE BĘDZIE MÓGŁ ŚWIADCZYĆ CI USŁUG TWITCH NA ROZSĄDNYCH EKONOMICZNIE ZASADACH.
+D. Obowiązujące prawo i miejsce
+(i) W najszerszym zakresie dozwolonym przez obowiązujące prawo, ty i Twitch zgadzacie się, że jeśli jesteś organizacją subskrybującą lub konsumentem zamieszkałym w jurysdykcji innej niż te, o których mowa w (ii) poniżej, zastosowanie ma następujące prawo właściwe i postanowienie dotyczące arbitrażu:
+PROSZĘ UWAŻNIE PRZECZYTAĆ PONIŻSZE PONIŻSZE INFORMACJE, PONIEWAŻ OBOWIĄZUJE ARBITRAŻOWANIE SPORÓW Z TWITCH I OGRANICZA SPOSÓB, W KTÓRY MOŻNA UZYSKAĆ ​​POMOC OD TWITCH.
+Ty i Twitch zgadzacie się rozstrzygać wszelkie spory wynikające z niniejszych Warunków świadczenia usług lub korzystania z usług Twitcha, z wyjątkiem tego, że ty i Twitch nie jesteście zobowiązani do rozstrzygania sporów, w których którakolwiek ze stron szuka godziwego i innego zadośćuczynienia za domniemane niezgodne z prawem korzystanie z praw autorskich , znaki towarowe, nazwy handlowe, logo, tajemnice handlowe lub patenty.
+ARBITRAŻ UNIEMOŻLIWIA POZWANIE W SĄDZIE LUB SPRAWĘ PRZYSIĘGŁYCH.
+Ty i Twitch zgadzacie się, że będziecie się wzajemnie powiadamiać na piśmie o wszelkich sporach w ciągu trzydziestu (30) dni od ich powstania.
+Powiadomienia dla Twitcha należy wysyłać na adres: Twitch Interactive, Inc., Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104.
+Ty i Twitch zgadzacie się ponadto: podjąć próbę nieformalnego rozwiązania przed jakimkolwiek żądaniem arbitrażu; że jakikolwiek arbitraż będzie miał miejsce w hrabstwie Santa Clara w Kalifornii; że arbitraż będzie prowadzony z zachowaniem poufności przez jednego arbitra zgodnie z zasadami JAMS; oraz że sądy stanowe lub federalne w hrabstwie Santa Clara w Kalifornii mają wyłączną jurysdykcję nad wszelkimi odwołaniami od orzeczenia arbitrażowego oraz nad wszelkimi pozwami między stronami, które nie podlegają arbitrażowi.
+Poza procedurami grupowymi i środkami zaradczymi omówionymi poniżej, arbiter ma prawo przyznać wszelkie środki zaradcze, które w innym przypadku byłyby dostępne w sądzie.
+Wszelkie spory między stronami będą podlegać niniejszej Umowie oraz prawu stanu Kalifornia i obowiązującemu prawu Stanów Zjednoczonych, bez wpływu na jakiekolwiek zasady kolizyjne, które mogą przewidywać zastosowanie prawa innej jurysdykcji.
+Niezależnie od tego, czy spór zostanie rozpatrzony w drodze arbitrażu, czy w sądzie, Ty i Twitch nie będziecie wszczynać przeciwko sobie pozwu zbiorowego, arbitrażu grupowego ani innego powództwa lub postępowania przedstawicielskiego.
+(ii) Jeśli jesteś mieszkańcem jakiejkolwiek jurysdykcji, w której postanowienie powyższej sekcji zostanie uznane za niewykonalne, wówczas wszelkie spory, roszczenia lub podstawy powództwa wynikające z niniejszych Warunków świadczenia usług lub z nimi związane będą podlegać i interpretowane zgodnie z prawem Twojej jurysdykcji miejsca zamieszkania i będą rozstrzygane przez właściwe sądy cywilne w Twojej jurysdykcji miejsca zamieszkania.
+mi. Roszczenia
+TY I TWITCH ZGADZASZ SIĘ, ŻE WSZELKIE PODSTAWY WYNIKAJĄCE Z USŁUG TWITCH LUB ZWIĄZANE Z USŁUGAMI MUSZĄ ROZPOCZĄĆ SIĘ W CIĄGU JEDNEGO (1) ROKU OD NAGRODZENIA PODSTAWY.
+W INNYM PRZYPADKU TAKA PODSTAWA DZIAŁAŃ JEST TRWALE ZAKAZANA.
+16.
+Różnorodny
+A. Zrzeczenie się
+Jeśli nie skorzystamy lub nie wyegzekwujemy jakiegokolwiek prawa lub postanowienia niniejszych Warunków świadczenia usług, nie będzie to stanowić zrzeczenia się takiego prawa lub postanowienia.
+Każde zrzeczenie się któregokolwiek z postanowień niniejszych Warunków świadczenia usług będzie skuteczne tylko wtedy, gdy zostanie sporządzone na piśmie i podpisane przez odpowiednią stronę.
+B. Rozdzielność
+Jeśli którekolwiek z postanowień niniejszych Warunków świadczenia usług zostanie uznane za niezgodne z prawem, nieważne lub z jakiegokolwiek powodu niewykonalne, wówczas postanowienie to zostanie ograniczone lub usunięte z niniejszych Warunków świadczenia usług w minimalnym niezbędnym zakresie i nie wpłynie na ważność i wykonalność jakichkolwiek pozostałe postanowienia.
+C. Zadanie
+Niniejsze Warunki świadczenia usług oraz wszelkie prawa i licencje udzielone na ich podstawie nie mogą być przenoszone ani przypisywane przez Ciebie, ale mogą być przydzielane przez Twitcha bez ograniczeń.
+Wszelkie cesje, których próbowano dokonać z naruszeniem niniejszych Warunków korzystania z usługi, będą nieważne.
+D. Przetrwanie
+Po rozwiązaniu niniejszych Warunków świadczenia usług wszelkie postanowienia, które ze względu na swój charakter lub wyraźne warunki powinny pozostać w mocy, pozostaną w mocy po takim rozwiązaniu lub wygaśnięciu, w tym między innymi sekcje 7, 8, 11, 12 i 15-17.
+mi. Całość porozumienia
+Warunki korzystania z usługi, które obejmują Warunki sprzedaży i Wytyczne dla społeczności, stanowią całość umowy między Tobą a Twitchem dotyczącej przedmiotu niniejszej umowy i nie zostaną zmienione, chyba że w formie pisemnej podpisanej przez upoważnionych przedstawicieli obu stron lub przez zmiana niniejszych Warunków korzystania z usługi dokonana przez Twitcha zgodnie z punktem 6 powyżej.
+17.
+Prośby o informacje i sposób doręczenia wezwania do sądu
+Wszystkie prośby o informacje lub dokumenty związane z potencjalnymi, przewidywanymi lub bieżącymi postępowaniami sądowymi, dochodzeniami lub sporami muszą być składane przy użyciu odpowiedniego poziomu procesu prawnego i muszą być odpowiednio doręczane na Twitchu za pośrednictwem firmy świadczącej usługi korporacyjne (CSC), krajowego przedstawiciela Twitcha zarejestrowany agent.
+Poniżej znajduje się kalifornijski adres CSC (biuro CSC w Twojej jurysdykcji można znaleźć na stronie internetowej Sekretarza Stanu):
+Twitch Interactive, Inc.
+c/o Corporation Service Company
+2710 Gateway Oaks Drive, apartament 150N
+Sacramento, CA 95833
+Należy pamiętać, że Twitch nie przyjmuje próśb o informacje, dokumenty lub doręczenia pozwu za pośrednictwem poczty e-mail lub faksu i nie odpowiada na takie prośby.
+Wszystkie prośby muszą zawierać informacje, które możesz mieć, które pomogą nam zidentyfikować odpowiednie rekordy (w szczególności przedmiotową usługę Twitcha, np. www.twitch.tv, oraz nazwę użytkownika, której dotyczy problem, np. nazwę użytkownika Twitcha: http:// www.twitch.tv/nazwa_użytkownika), konkretne wymagane informacje i ich związek z dochodzeniem.
+Należy również pamiętać, że ograniczenie żądania do odpowiednich zapisów (np. ograniczony okres czasu) ułatwi sprawne rozpatrzenie żądania.
+Usługi Twitcha są oferowane przez firmę Twitch Interactive, Inc. z siedzibą pod adresem: 350 Bush Street, 2nd Floor, San Francisco, CA 94104 i adresem e-mail: help@twitch.tv.
+Jeśli jesteś mieszkańcem Kalifornii, możesz otrzymać te same informacje e-mailem, wysyłając list na powyższy adres ze swoim adresem e-mail i prośbą o te informacje.
+18.
+Szczegółowe warunki dotyczące ścieżki dźwiękowej Twitcha
+Ścieżka dźwiękowa Twitcha („Ścieżka dźwiękowa”), która jest częścią usług Twitcha, to narzędzie do przesyłania strumieniowego zaprojektowane, aby dać twórcom możliwość odtwarzania licencjonowanej muzyki w tle ich transmisji na żywo i przesyłania filmów na żądanie z tych transmisji na żywo, które nie zawiera takiej muzyki.
+Pobierając, instalując i/lub korzystając z Soundtrack w inny sposób, zgadzasz się, że pobieranie, instalacja i/lub korzystanie z Soundtrack będzie podlegać niniejszym Warunkom korzystania z usługi.
+Obowiązują również wytyczne dotyczące społeczności i wytyczne dotyczące muzyki Twitcha. Zalecamy zapoznanie się z obydwoma zasobami przed użyciem ścieżki dźwiękowej.
+Ścieżka dźwiękowa zrodziła się z chęci Twitcha do oferowania twórcom szerokiej gamy licencjonowanej muzyki do transmisji na żywo.
+Aby było to możliwe, Twitch zabezpieczył licencje u wielu różnych posiadaczy praw i nadal to robi, aby dodawać nowe utwory do stacji i list odtwarzania Soundtrack.
+Twitch zaprojektował również ścieżkę dźwiękową, aby dać twórcom możliwość generowania na żądanie filmów z ich transmisji na żywo, które nie zawierają tej muzyki.
+Licencje zabezpieczone przez Twitcha pozwalają Twitchowi udostępniać Ci te materiały do ​​użytku w transmisjach na żywo na Twoim kanale Twitch.
+Muzyka i inne materiały udostępnione za pośrednictwem ścieżki dźwiękowej nie zostały objęte licencją do użytku w nagranych wcześniej treściach, treściach, które można przesyłać strumieniowo na żądanie (takich jak VOD i klipy) lub poza usługami Twitcha.
+Oznacza to, że nie możesz:
+Twórz treści na żądanie zawierające materiały ze ścieżki dźwiękowej – zaprojektowaliśmy ścieżkę dźwiękową z myślą o tym ograniczeniu, a odpowiednia konfiguracja pozwoli ci tworzyć i wykorzystywać wolne od muzyki filmy na żądanie z transmisji na żywo, które zawierają muzykę ze ścieżki dźwiękowej; Lub
+Transmisje na żywo zawierające muzykę lub inne materiały ze ścieżki dźwiękowej poza usługami Twitcha.
+Wykonanie którejkolwiek z powyższych czynności może narazić użytkownika na zawiadomienie o domniemanym naruszeniu ze strony posiadaczy praw i ich przedstawicieli.
+Na koniec chcemy zwrócić uwagę na fakt, że prawa do muzyki mają tendencję do ewoluowania w czasie.
+W związku z tym zastrzegamy sobie prawo do modyfikowania lub usuwania niektórych utworów lub innych treści ze ścieżki dźwiękowej w dowolnym momencie (na przykład w celu zachowania zgodności z naszymi licencjami muzycznymi lub obowiązującymi przepisami prawa).
+Twitch nie ponosi odpowiedzialności i nie przyjmuje żadnej odpowiedzialności w związku z korzystaniem przez Ciebie ze ścieżki dźwiękowej.

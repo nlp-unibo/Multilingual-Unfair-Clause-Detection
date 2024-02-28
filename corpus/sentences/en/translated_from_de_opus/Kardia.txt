@@ -1,0 +1,306 @@
+Kardia App Terms of Use
+The website located at alivecor.com (the “Site”) is owned by AliveCor, Inc. (“AliveCor” or “we”).
+Subject to the terms of use set out below (the “Terms of Use”), AliveCor grants you the right to use the Website, our application software, including without limitation Kardia (collectively, “Software” or “App”) and the services provided through the Website or the Software, as set out below (collectively, the “Services”).
+The term “you” refers to the visitor to the website.
+PLEASE READ THESE TERMS OF USE CAREFULLY.
+BY CLICKING “ACCEPT” OR ACCESSING THE SERVICE, YOU AGREE TO BE BOUND BY THESE TERMS OF USE.
+IF YOU DO NOT AGREE TO THESE TERMS OF USE, YOU MAY NOT USE OR ACCESS THE SERVICE.
+BY ACCEPTING THESE TERMS OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE FOLLOWING TERMS AND CONDITIONS, INCLUDING THE PRIVACY POLICY (COLLECTIVELY, THE “TERMS”).
+If you are not eligible or do not agree to the Terms, you are not permitted to use the Service.
+THE SERVICE IS AVAILABLE TO KARDIA USERS IN THE UNITED STATES, AUSTRALIA, ARUBA, CANADA, FRANCE, GERMANY, HONG KONG, INDIA, IRELAND, ITALY, JAMAICA, THE NETHERLANDS, SPAIN, TRINIDAD, TOBAGO AND THE UNITED KINGDOM .
+THE SERVICE IS INTENDED EXCLUSIVELY FOR RECORDING, DISPLAYING, STORING AND TRANSMITTING ELECTROCARDIOGRAM (“ECG DATA”).
+AS A USER OF THE SERVICE, YOU ARE RESPONSIBLE FOR THE ECG DATA RECORDED AND STORED BY THIS SERVICE.
+THE SERVICE IS NOT INTENDED TO DIAGNOSE HEART DISEASE OR AUTOMATICALLY NOTIFY PATIENTS OR HEALTH CARE PROFESSIONALS OF POTENTIALLY SERIOUS CARDIAC OR CIRCULATIVE DISEASE OR CARDIAL RHYTHM DISORDER.
+THE SERVICE IS NOT INTENDED FOR CONTINUOUS MONITORING AND WE DO NOT GUARANTEE THAT MESSAGES SENT THROUGH THE SERVICE WILL BE RESPONDED TO BY ONE OR MORE DOCTORS OR THAT MEDICAL EVENTS REPORTED THROUGH THE SERVICE WILL RESULT IN A RESPONSE FROM ONE OR MORE DOCTORS.
+ALTHOUGH ALIVECOR MAY PROVIDE AN OPTIONAL ECG EVALUATION SERVICE FOR YOU TO USE OR ESTABLISH A LINK BETWEEN YOUR ACCOUNT AND YOUR HEALTH CARE PROVIDER THROUGH OUR KARDIA PRO SERVICE, ALIVECOR DOES NOT AUTOMATICALLY CHECK, MONITOR, EVALUATE OR ANALYZE ANY OF THEM SERVICE GENERATED INFORMATION SECURE.
+YOU ARE RESPONSIBLE FOR SUBMITTING YOUR MEDICAL INFORMATION TO YOUR DOCTOR SO THAT IT CAN BE ADEQUATELY ANALYZED AND A DIAGNOSIS CAN BE MADE.
+Unless you are a consumer in a jurisdiction that prohibits the exclusive use of arbitration to resolve disputes, these Terms provide that any dispute between you and AliveCor will be resolved by BINDING ARBITRATION.
+YOU AGREE TO WAIVE YOUR RIGHT TO GO TO COURT to assert or defend your rights under this Agreement; however, this does not apply to matters that may be referred to courts for small-value proceedings.
+Your rights will NOT be decided by a judge or jury, but rather by a NEUTRAL ARBITRATOR, and your claims cannot be brought as a class action.
+For more information about agreeing to arbitrate any dispute with AliveCor, see Section 24 (“Dispute Resolution and Arbitration”).
+Use of the Service.
+The Service is intended solely for uploading and viewing data and sharing such data with your healthcare provider; You may also use certain information about yourself in the form permitted by the service.
+You may not access or use the Service for any other purpose.
+You may use the Service, including any data provided to you on or from the Service or otherwise hosted or stored by AliveCor, solely for lawful and proper purposes on your own behalf; this is subject to your full compliance with these Terms and other policies and guidelines applicable to the Service as published by AliveCor from time to time.
+Authorization of use.
+You must be at least 18 years old to use the Service.
+By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years old; (b) your use of the Service has not previously been terminated and you have not been removed from the Service; and that (c) your registration and use of the Service will be in accordance with all applicable laws and regulations in your local jurisdiction.
+If you use the Service on behalf of an entity, organization, or company, you represent and warrant that you have the authority to bind such entity to these Terms and you agree to be bound by these Terms on such organization's behalf .
+Accounts and registration.
+In order to access most features of the Service, you must register to create an account.
+When you register for an account, you may be required to provide us with several pieces of information about yourself, including personal information such as name, email address, password, gender, height, and date of birth.
+You are free to decide whether to provide us with additional information.
+You represent that the information you provide to us is accurate and that you will ensure that it is kept accurate and up to date.
+When registering, you will be asked to provide a password.
+You are solely responsible for maintaining the confidentiality of your account information and password, and you accept responsibility for all activities that occur under your account.
+If you have reason to believe that your account is no longer secure, you must immediately notify us at support@alivecor.com.
+If your account has been inactive for more than twelve (12) consecutive months, it may be automatically terminated.
+Payment.
+In order to access the Service or certain features of the Service, you may be required to pay fees.
+Prior to paying any Fees, you will have the opportunity to review and agree to such fees that will be charged to you.
+Fees are non-refundable to the extent permitted by applicable law.
+If AliveCor changes the fees for the Service, including by charging additional fees or costs, AliveCor will notify you in advance of such changes.
+If you do not accept such changes, AliveCor may stop providing the Service to you.
+AliveCor will charge the payment method provided at the time of purchase.
+You authorize AliveCor to charge this payment method to bill all amounts as set forth in these Terms for the Service you select.
+If you are paying any fees using a credit card, AliveCor may pre-authorize your credit card account prior to your purchase to ensure that the credit card is valid and that the funds or balance available on it are sufficient to cover the amount of your purchase.
+The Service may include features to activate, update or cancel recurring payments for periodic charges.
+If you activate or update recurring payments through the Service, you authorize AliveCor to bill all accrued amounts on or before the applicable due date on a regular and ongoing basis until you cancel the recurring payments or terminate your account.
+If you update or cancel any previously authorized one-time or recurring payments through the Service, it may take several business days for the update or cancellation to become effective.
+As stated in the Privacy Policy, AliveCor does not collect or store account information.
+License.
+AliveCor owns the Service and the Service is operated by AliveCor.
+The documents and other information and content (“Site Content”) provided through the Service are protected by copyright and other intellectual property laws worldwide.
+All copyright notices and other proprietary notices incorporated in the Site Content must be retained on all copies of such Content.
+Any unauthorized reproduction, modification, distribution, public display or performance of site content is strictly prohibited.
+AliveCor and its suppliers reserve all rights not set forth in these Terms.
+Subject to the restrictions contained in these Terms, AliveCor grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to install and use the App in object code format on devices owned or controlled by you solely for use of the Service condition.
+By downloading or using our app(s),
+confirm that the App is licensed and has not been sold to you; and
+You acknowledge that the use and operation of your device in connection with your use of the App is subject to third-party terms and conditions (e.g., your wireless service provider's terms of service) and any third-party charges (e.g., fees for telephone service, data access, or messaging features). ) and that you are solely responsible for paying all such fees.
+Clinical evaluation service.
+General.
+AliveCor's clinical evaluation service (the "Clinical Evaluation Service") is a third-party resource that imports, reviews and evaluates your data in collaboration with AliveCor.
+The clinical evaluation service informs AliveCor of all findings resulting from your data.
+AliveCor will then make these findings available to you through the Service.
+By accepting these terms and conditions, you agree to register for the clinical evaluation service, but you may decide whether to use the clinical evaluation service at your own discretion.
+You will only be charged fees for clinical evaluation services if you use a clinical evaluation service.
+AliveCor reserves the right to change clinical evaluation service providers or to discontinue one or more clinical evaluation service offerings.
+Reports.
+You can use the Service to create reports on findings that AliveCor has generated from your data.
+No report provided by AliveCor and any clinical evaluation service constitutes a diagnosis.
+The evaluated report will provide you with information and may be used by your doctor to make an appropriate diagnosis and determine treatment taking into account your entire medical history.
+Only your doctor can make a diagnosis based on your data.
+It is your responsibility to provide your medical information to your doctor for a correct analysis and diagnosis.
+ECG recordings.
+You have the option to create an ECG recording on your device at any time.
+Your ECG recordings are subject to several factors linked to your health and activities.
+AliveCor and the clinical evaluation service providers do not guarantee the accuracy or clinical significance of the evaluated data.
+Please note that your data may be interpreted in a different way by your doctor.
+If you choose to use a clinical evaluation service, we will share your information once you have given us your consent through the service.
+Restrictions.
+Because telehealth restrictions may apply in local jurisdictions, your use of the Clinical Evaluation Service may be limited.
+Because you collect your information via a mobile device, you are responsible for ensuring that your use of the Clinical Evaluation Service does not violate local telemedicine laws that apply to you.
+Personalized monitoring service.
+Under certain circumstances, AliveCor may send you notifications or recommendations based on AliveCor's analysis of your historical data and other information you provide to AliveCor in the drug, symptom, or activity categories.
+For example, AliveCor may recommend that you regularly submit your data to the clinical evaluation service for ongoing monitoring of your heart health.
+Such notifications or recommendations for action, or the absence of such notifications or recommendations, should not be construed as an indication of your health status; Furthermore, such notifications or recommendations for action are not a substitute for the opinion of your doctor.
+It is your responsibility to present your information to your doctor and discuss what course of action would be appropriate given your medical history.
+AliveCor may allow you to set reminder notifications on the Service, for example, setting reminder notifications to take medication.
+AliveCor does not guarantee the accuracy, reliability, completeness or timeliness of push notifications as parts of the process occur outside AliveCor's control.
+You acknowledge that you are solely responsible for any reliance you place on such notifications and AliveCor shall have no liability for your handling of such notifications.
+You agree that AliveCor may send push notifications to your mobile device for service or marketing purposes if this option is enabled and in accordance with the Privacy Policy.
+You can disable such push notifications through your device settings.
+User Representations and Warranties.
+Kardia and the users of Kardia Pro represent, warrant and represent to AliveCor that you are located in the United States, Anguilla, Australia, Aruba, Austria, Bahrain, Belgium, Canada, Chile, France, Germany, Hong Kong, Hungary, India, Ireland, Israel, Italy, Jamaica, Kuwait, Luxembourg, Malta, the Netherlands, New Zealand, Norway, Oman, Pakistan, Poland, Qatar, Spain, Switzerland, Trinidad, Tobago, United Kingdom, or the United Arab Emirates.
+Each User represents, warrants and covenants to AliveCor that (1) these Terms have been executed by you, are to be fulfilled and constitute a valid and binding agreement entered into with you and enforceable against you in accordance with the terms set forth herein; (2) if you are using the Service on behalf of another entity, you as an authorized representative of such entity agree to bind such entity to these Terms and have the authority to do so; (3) you will only access and use the Service in such manner as is expressly permitted by these Terms and any additional instructions and policies or guidelines issued by AliveCor, including any policies or guidelines posted on the Service; (4) you will act in full compliance with applicable laws in your access and use of the Service; and (5) all information, data, and other materials provided by you when you register for an account are accurate and truthful in all respects.
+User Content
+User Content in General.
+Certain features of the Service may allow you, your healthcare provider or other users to upload content, including, but not limited to, uploading messages, images, data, text, location information and other information (“User Content”), and to post User Content as part of the Service service.
+You retain copyright, including any moral rights and other proprietary rights you may have, in and to the User Content you post to the Service; provided that, to the extent you link your account to our Kardia Pro Service or the information systems provided by your healthcare provider, any information you provide to your healthcare provider may be included in your medical record and that copies of such information will be provided in accordance with applicable law Law may be owned and/or controlled by your healthcare provider.
+Limited License Grant to AliveCor.
+By posting or publishing User Content, you grant AliveCor a perpetual, irrevocable, worldwide, non-exclusive, royalty-free, fully-paid and transferable right and license (with the right to sublicense) to use, host, store, Transmit, display, perform, reproduce, modify and distribute your User Content and prepare derivative works thereof, in whole or in part, for any purpose consistent with the Privacy Policy; This applies to all media formats and the use of all currently known or later developed media channels.
+We may also create anonymized data and images based on your user content, in which case such data and images will no longer be considered your user content.
+You irrevocably and forever waive any rights you may have to modify or edit your User Content that you do not agree to.
+AliveCor reserves the right to refuse to accept, post, display or transmit any of your User Content in its sole discretion.
+Limited license grant to other users.
+By posting or sharing User Content with other users of the Service or linking your account with your healthcare provider through our Kardia Pro Service, you grant such users and/or healthcare providers a non-exclusive license to access and use such User Content in accordance with these Terms as well as within the functionality of the service.
+User Content Representations and Warranties.
+You are solely responsible for your User Content and the consequences of posting or publishing such User Content.
+By posting or publishing any User Content, you represent, warrant and warrant that:
+You are the creator and owner of the User Content or have the necessary licenses, rights, consents and permissions to authorize AliveCor and the users of the Service to use and distribute your User Content to the extent necessary to exercise the licenses granted to you in this Section is, however, to the extent permitted by AliveCor, the Service and these Terms; and
+Your User Content, and your use of your User Content in accordance with these Terms: (i) will not infringe, violate or misappropriate any rights of any third party, including any copyright, trademark, patent, trade secret, moral right, privacy right, publicity right or other proprietary or intellectual property right become; (ii) will not libel, disparage or violate the privacy, publicity or other proprietary rights of any other person; and (iii) will not cause or become a violation of any law or regulation by AliveCor.
+You agree to pay any fees, royalties or other amounts owed to any person by reason of your posting of User Content on or through the Service.
+Disclaimer for User Content.
+We have no obligation to edit or control any User Content that you or other users post or publish, and we are in no way responsible or liable for any User Content.
+However, AliveCor may, at any time and without notice, review, remove, edit or block any User Content that, in our sole discretion, violates these Terms or is otherwise objectionable.
+You acknowledge that during your use of the Service you may be presented with User Content from a variety of sources and that User Content may be inaccurate, offensive, indecent or undesirable.
+To the fullest extent permitted by applicable law, you agree to waive and waive any and all rights you have or may have against AliveCor at law or in equity with respect to User Content.
+We expressly disclaim any liability in connection with User Content to the fullest extent permitted by applicable law.
+If a user or content owner notifies us that the User Content may not conform to these Terms, we may investigate such allegation and determine in our sole discretion whether to remove the User Content, although we reserve the right to do so. to do this at any time and without prior notice.
+How to Deal with Illegal User Content
+If you believe that any User Content does not comply with these Terms, we encourage you to notify us.
+We comply with the provisions of the Digital Millennium Copyright Act (“DMCA”) applicable to our business operations (17 United States Code § 512, as amended ).
+If you have any intellectual property rights related complaints regarding materials posted on the Service, you may contact our designated agent at the following address:
+AliveCor, Inc.
+ATTN: Legal Department (Copyright Notification)
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+USA
++1 650-396-8650
+E-Mail: copyright@alivecor.com
+Please note that knowingly providing false, misleading or inaccurate information about the infringing nature of any User Content may result in civil or criminal penalties under applicable law.
+Any notice within the meaning of the Digital Millennium Copyright Act (DMCA) alleging a claim that materials hosted on or distributed through the Service infringe intellectual property rights must contain all of the information required by the DMCA for such notice.
+Repeated violations.
+Accounts of users determined by AliveCor to be “repeat infringers” will be terminated immediately and without notice.
+A repeat infringer is a user who has been notified of their infringing activities at least three times or whose User Content has been removed from the Service at least three times.
+Prohibited behavior.
+BY USING THE SERVICE, YOU REPRESENT THAT YOU:
+(a) you will not use or access the Service in any jurisdiction where such use or access is prohibited, (b) you will not use or access the Service for any illegal purpose, and (c) you will not violate any local, state, national or violate international law;
+not engage in any activity that could harm others or harm AliveCor's reputation;
+not violate any rights of any third party, including by infringing or misusing any intellectual property rights of any third party or disclosing any personal information of another person, and shall not encourage any other person to violate such third party rights;
+post, upload or distribute any marketing or promotional links or content or any User Content or any other unlawful, defamatory, libelous or inaccurate content, or any content that may reasonably be considered undesirable, sacrilegious, immoral, pornographic, harassing, threatening or embarrassing , hostile or otherwise inappropriate;
+use scrapers, robots or other means of data collection on or through the Service or distribute the Service by framing or otherwise make the Service available to third parties without AliveCor's authorization to do so;
+not interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or restrict the use or copying of any Content; or (b) reverse engineer, decompile or otherwise attempt to decipher the source code of any part of the Service, including the App(s), except to the extent applicable law expressly permits such activity notwithstanding this limitation;
+Interfere with the operation of the Service or any other user's use of the Service, including, without limitation, any of the following activities: (a) upload or otherwise distribute viruses, adware, spyware, worms or other harmful code; (b) send an unsolicited offer or advertisement to another user of the Service; (c) attempt to collect personal information, including without limitation ECG data or other medical information, about another user or a third party without their consent; or (d) interfere with or disrupt networks, devices or servers connected to or used to provide the Service, or violate any regulations, policies or procedures applicable to such networks, devices or servers;
+not engage in any fraudulent activity, including, but not limited to, impersonate any person or entity, make false affiliation statements, access other services or accounts without permission, or falsify your account registration information;
+Modify, translate or create derivative works from, adapt or compile the Service or any part thereof, or use, copy or reproduce the Service or any part thereof for any purpose other than as permitted by these Terms;
+assign, sublicense, lease, sell, otherwise transfer or otherwise transfer the access granted under these Terms, any Materials (as defined in Section 15), or any viewing, access or use rights or opportunities applicable to the Materials grant security interests; and
+not engage in any of the acts described in this Section 10 or assist or permit any other person to do any of the acts described in this Section 10.
+Third Party Services and Linked Websites.
+The Website may contain links to other websites operated by third parties.
+Such third party websites are not under the control of AliveCor and we are not responsible for the content of any third party website or any link contained on a third party website.
+AliveCor provides these links only as a convenience.
+AliveCor does not review, approve, monitor or endorse any third party websites and makes no representations or warranties with respect to such websites.
+AliveCor may provide tools through the Service that enable the export of information, including ECG Data and User Content, to third-party applications or services, such as Google Fit or Apple Health, or the import of information from such applications or third-party services.
+Such tools include, among other things, functions that enable AliveCor to link your account with a third-party account.
+By using any of these tools, you represent, warrant and agree that such transfers are permitted by applicable law and that you have the right to transfer such information to or from such third-party service in accordance with this Privacy Policy to extract and that we may do so on your behalf.
+Third-party services are not under our control and we are not responsible for any use of your exported information by third parties.
+To the extent you enable features of the Service designed to import information from such third-party services, you hereby authorize AliveCor to use such imported information and to disclose such information to third parties, such as your healthcare provider, in accordance with must comply with the Privacy Policy and applicable law; further, you hereby grant AliveCor a perpetual and irrevocable license to such use and disclosure.
+The Service may also contain links to third party websites.
+Linked websites are not under our control and we are not responsible for their content.
+Termination of Use; Discontinuation and Change of Service.
+You may terminate your account at any time by following the procedures described on AliveCor's website or by contacting customer service at support@alivecor.com.
+If you violate any provision of these Terms, your permission to use the Service automatically terminates.
+Further, AliveCor may, in its sole discretion, terminate your account for use of the Service, upon prior notice or without such notice, or suspend or disable your access to the Service at any time if you have violated any provision of these Terms, we any part of the Service no longer provide or if there is any other reason.
+We also reserve the right to temporarily or permanently modify or discontinue the service at any time (including, without limitation, by restricting or discontinuing certain functions of the service) without having to inform you.
+To the extent permitted by applicable law, we will have no liability arising from any modification of the Service or the suspension or termination of your access to or use of the Service; provided, however, that AliveCor ceases to operate the Service and accordingly terminates your access to the Service, you will be entitled to a pro-rata refund of any prepaid fees paid by you to AliveCor for use of the Service.
+Upon termination of your Account or this Agreement for any reason, AliveCor will have the right, in its sole discretion, to delete any data associated with your Account.
+Privacy Policy; additional requirements
+Privacy Policy.
+This privacy policy (“Privacy Policy”) contains information about how we collect, use, store and disclose your personal information.
+Please read this Privacy Policy carefully.
+By this reference, this Privacy Policy is deemed incorporated into and forms a part of these Terms.
+You consent to the collection, hosting, use, disclosure and other processing or handling of your personal data (including sharing data with third parties) in accordance with the terms set out in the Privacy Policy.
+Additional requirements.
+Your use of the Service is subject to any additional terms, policies, guidelines and rules applicable to the Service or particular features of the Service that we may post or link as part of the Service (the "Additional Terms"), such as end user license agreements for downloadable application software or rules that apply to certain features or content of the Service; this provision is subject to Section 14. Any Additional Terms are incorporated by reference into these Terms and form a part of these Terms.
+Changes to these Terms.
+We reserve the right to change these Terms at any time in the future at our discretion.
+Please check these Terms periodically for changes.
+If a change to these Terms materially changes your rights or obligations (“Material Changes”), we will inform you of the changed Terms by email, which we will send to the email address stored in your user profile.
+Material changes will be effective upon your acceptance of such changes.
+Non-material changes will be effective upon posting.
+For the resolution of any dispute arising under these Terms, the version of these Terms that was in effect when the dispute arose will be used.
+If you do not agree to any changes to these Terms, your sole and exclusive remedy is to delete your account.
+You may not change or modify these Terms under any circumstances.
+Property; Property rights.
+The Service is owned and operated by AliveCor.
+The visual interfaces, graphics, design, compilation, information and data, computer code (including source or object code), products, software, services and all other elements of the Service (“Materials”) provided by AliveCor are protected by intellectual property and other laws.
+All materials included in the Service are the property of AliveCor or our third-party licensors.
+Unless express permission is granted by AliveCor, you may not use the Materials.
+AliveCor reserves all rights in and to the Materials not expressly granted in these Terms.
+Subcontractors.
+You agree that AliveCor may engage third parties (including AliveCor affiliates) to process or provide AliveCor's service or website, in whole or in part, or to assist in such processing or provision, for example with regard to clinical evaluation service.
+Feedback.
+To the extent you choose to submit feedback regarding problems with the Service or suggestions for changes or improvements to the Service (“Feedback”), you hereby grant AliveCor an unrestricted, perpetual, irrevocable, non-exclusive, fully paid and royalty-free right to use the Feedback in any way and for any purpose, including, without limitation, to improve the Service and develop other products and services.
+Indemnification.
+To the extent permitted by applicable law, you are responsible for your use of the Service; You release AliveCor and AliveCor's officers, directors, employees, consultants, affiliates, subsidiaries and agents (collectively, the "AliveCor Entities") from and against all claims, liabilities, damages, losses and expenses, including reasonable attorneys' fees and costs (a ) your access to or perceived or actual use of the Service; (b) your breach of any part of these Terms, any representation, warranty or agreement referred to in these Terms or any applicable law or regulation; (c) your violation of any third party right, including any intellectual property right or right of publicity, confidentiality, or other proprietary or privacy right; (d) any dispute or controversy between you and any third party; and (e) any claim arising from any fraudulent or criminal act, willful misconduct or gross negligence actually or allegedly committed by you.
+To the extent permitted by applicable law, we reserve the right, at our own expense, to assume the exclusive defense and control of any matter subject to indemnification by you (without limiting your indemnification obligations with respect to such matter); in such event, you agree to assist us in the defense of such claim.
+Disclaimer; No guarantees
+THE SERVICE AND ALL MATERIALS AND CONTENT PROVIDED THROUGH THE SERVICE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+ALIVECOR'S RESPONSIBILITY SHALL NOT BE REQUIRED WITH RESPECT TO THE SERVICE, ANY MATERIALS AND CONTENT PROVIDED THROUGH THE SERVICE, ANY SOFTWARE OR HARDWARE ARISING OR USED IN CONNECTION WITH THE SERVICE, AND WITH RESPECT TO THE AVAILABILITY OF THE FOREGOING ELEMENTS EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO: (A) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, QUIET USE OR NON-INFRINGEMENT; (B) ANY WARRANTY ARISING OUT OF CUSTOM PRACTICE, USAGE OF TRADE OR USAGE OF TRADE; AND (C) ANY WARRANTY THAT THE ECG DATA OR OTHER INFORMATION PROVIDED OR TRANSMITTED THROUGH THE SERVICE IS TRUTH, COMPLETE AND ACCURATE.
+IN PARTICULAR, YOU UNDERSTAND AND AGREE THAT ALIVECOR SHALL NOT BE LIABLE FOR ANY MEDICAL OR RELATED DECISIONS THAT YOU OR YOUR HEALTH CARE PROVIDER MAKE BASED ON THE INFORMATION.
+WHAT IS COLLECTED, TRANSMITTED OR DISPLAYED BY OR THROUGH THE SERVICE, REGARDLESS OF WHETHER SUCH DATA IS ACCURATE.
+THE ALIVECOR ENTITIES DO NOT WARRANT THAT THE SERVICE OR ANY PART THEREOF OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SERVICE WILL BE UNINTERRUPTED, SECURE OR FREE OF ERRORS, VIRUSES OR OTHER HARMFUL COMPONENTS; FURTHER, ALIVECOR ENTITIES DO NOT WARRANT THAT ANY SUCH DISRUPTIONS WILL BE CORRECTED.
+NO ADVICE OR INFORMATION OBTAINED BY YOU THROUGH THE SERVICE, WHETHER ORAL OR WRITTEN, AND NO MATERIALS OR CONTENT PROVIDED THROUGH THE SERVICE SHALL CREATE ANY WARRANTY BY ANY OF THE ALIVECOR ENTITIES OR WITH RESPECT TO THE SERVICE, IF ANY SUCH WARRANTY IS PROVIDED HEREIN TERMS NOT EXPRESSLY STATED.
+YOU ASSUME ALL RISK FOR ANY DAMAGES THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SERVICE, YOUR DEALINGS WITH ANY OTHER USER OF THE SERVICE, AND ANY MATERIALS OR CONTENT PROVIDED THROUGH THE SERVICE.
+YOU ACKNOWLEDGE AND AGREE THAT YOU USE THE SERVICE AT YOUR OWN DISCRETION AND RISK AND THAT YOU USE, DOWNLOAD, ACCESS OR ACCESS MATERIALS OR CONTENT THROUGH THE SERVICE AND ANY RELATED SITES OR SERVICES AT YOUR OWN DISCRETION AND RISK OTHERWISE, AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE THAT YOU USE IN CONNECTION WITH THE SERVICE) OR LOSS OF DATA THAT RESULTS FROM YOUR USE OF THE SERVICE OR THE DOWNLOAD OR USE OF SUCH MATERIALS OR CONTENT ARE ATTRIBUTABLE.
+THE ABOVE PARAGRAPHS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF LIABILITY, IN PARTICULAR A STATUTORY OR IMPLIED DISCLAIMER, FOR EXAMPLE STATUTORY WARRANTIES OF CONFORMITY FOR GOODS PROVIDED TO EU CONSUMERS; DIFFERENT JURISDICTIONS MAY HAVE DIFFERENT RIGHTS FOR YOU.
+Limitation of Liability
+IN NO EVENT SHALL ALIVECOR ENTITIES BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL OR OTHER INTANGIBLE LOSSES) ARISING FROM YOUR ACCESS TO THE SERVICE OR ANY LIE ANY MATERIALS OR CONTENT PROVIDED THROUGH THE SERVICE OR YOUR USE OF THE SERVICE OR SUCH MATERIALS OR CONTENT OR YOUR INABILITY TO USE OR ACCESS THE SERVICE OR SUCH MATERIALS OR CONTENT OR ARISING IN CONNECTION THEREWITH, REGARDLESS OF WHETHER A WARRANTY OR CONTRACT G , ANY LIABILITY IN TORT (INCLUDING NEGLIGENCE), STATUTORY PROVISIONS OR ANY OTHER LEGAL BASIS EXISTS OR
+THE EXISTENCE AND WHETHER ANY ENTITY OF ALIVECOR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.
+FOR THE AVOIDANCE OF DOUBT, THE DAMAGES EXCLUDED INCLUDES, BUT NOT LIMITED TO, LOSS OF SAVINGS OR LOST REVENUES; LOST PROFITS; LOSS OF USE; INJURY TO LIFE OR HEALTH; THIRD PARTY CLAIMS AND ALL COSTS OF ANY REPLACEMENT EQUIPMENT OR SERVICES.
+IF ALIVECOR CANNOT EXCLUDE ITS LIABILITY FOR THE FOREGOING DAMAGES FOR LAW REASONS, THE ENTIRE LIABILITY OF THE ALIVECOR ENTITIES TO YOU FOR ALL CLAIMS ARISING OUT OF YOUR USE OF THE SERVICE OR ANY PART THEREOF SHALL BE LIMITED YOUR INABILITY TO USE THE SERVICE OR ANY USE OF ANY PART THEREOF OR OTHERWISE ARISING IN TORT, CONTRACT OR OTHERWISE UNDER THESE TERMS, EXCEPT AS PROVIDED IN SECTION 241.E, THE AMOUNTS PAID BY YOU FOR USE OF THE SERVICE $100, WHICHEVER IS GREATER, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES; IN SUCH CASE, THESE LIMITATIONS SHALL APPLY TO YOU TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE JURISDICTION.
+FURTHER, NOTHING IN THESE TERMS SHALL CREATE ANY EXCLUSION OR LIMITATION OF LIABILITY IF SUCH EXCLUSION OR LIMITATION OF LIABILITY IS EXCLUDED BY LAW, FOR EXAMPLE, THE EXCLUSION OR LIMITATION OF LIABILITY FOR WILLFUL BREACH OF THESE TERMS.
+NONE OF THESE TERMS WILL AFFECT YOUR LEGAL RIGHTS AS A CONSUMER.
+ALL PROVISIONS OF THESE TERMS THAT PROVIDE FOR A LIMITATION OF LIABILITY, EXCLUSION OF LIABILITY OR EXCLUSION OF DAMAGES ARE INTENDED TO ALLOCATE AND EFFECT TO ALLOCATE THE RISK AMONG THE PARTIES TO THIS AGREEMENT.
+SUCH DIVISION IS AN IMPORTANT ELEMENT OF THE BASIS OF THE AGREEMENT MADE BY THE PARTIES.
+ALL PROVISIONS STATED HEREIN ARE SEPARABLE AND INDEPENDENT OF THE OTHER PROVISIONS OF THESE TERMS.
+THE LIMITATIONS IN THIS SECTION 20 SHALL APPLY EVEN IF ANY LIMITED REMEDY OR REMEDY IS INSUFFICIENT TO YOU OR
+FAILS TO FULFILL ITS ESSENTIAL PURPOSE.
+Force majeure.
+AliveCor will be excused from performance of these Terms for any period during which it is unable to perform its obligations under these Terms, in whole or in part, as a result of a force majeure event, or defaults in the performance of such obligations.
+To the extent permitted by applicable law, for purposes of this Section, “Force Majeure Event” means an event or series of events caused or arising from: (1) weather conditions or other natural elements or force majeure; (2) acts of war, terrorism, insurrection, riot, civil commotion or rebellion; (3) quarantines or embargoes, (4) strikes; (5) telecommunications, network, computer, server or Internet downtime; (6) unauthorized access by third parties to AliveCor's information technology systems; or (7) any other cause beyond AliveCor's reasonable control.
+Applicable Law and Competent Courts.
+To the maximum extent permitted by applicable law, these Terms are governed by the laws of the State of California, without regard to its conflict of law provisions.
+To the extent any action or proceeding is permitted under these Terms, you and AliveCor consent to the personal and exclusive jurisdiction of the state and federal courts located in Santa Clara County, California to resolve any dispute.
+If you are an EU consumer, the jurisdiction of the courts in Santa Clara County is non-exclusive.
+We operate the Service from our offices in the United States, and we make no representation that materials contained in the Service are appropriate or usable in other locations.
+General.
+These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference into these Terms, constitute the entire and exclusive understanding and agreement made between you and AliveCor for your use of the Service.
+Except as expressly permitted above, these Terms may be modified only by a written agreement signed by authorized representatives of all parties to these Terms.
+You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior consent, which AliveCor shall have the authority to grant or grant such consent in its sole discretion refuse.
+If you attempt to assign without such consent, such assignment will be void.
+To the fullest extent permitted by applicable law, we may assign these Terms at any time without notice or consent.
+Our failure to require performance of any provision shall not affect our right to require such performance at a later date; and to the extent that we waive our rights upon any breach or default of these Terms or any provision of these Terms, such waiver shall not constitute a waiver of our rights upon any subsequent breach or default or a waiver of such provision.
+The headings contained in these Terms are for convenience only and will not affect the interpretation of any provision.
+If any part of these Terms is held to be invalid or unenforceable, the unenforceable portion shall be deemed to be given full force and effect and the remaining portions shall remain in full force and effect.
+Upon termination of these Terms, Sections 8-10, 12, 13, 18, 19 and 21-25, as well as the Privacy Policy and other accompanying agreements, will survive.
+Dispute Resolution and Arbitration
+PLEASE READ THIS SECTION CAREFULLY AS IT CONTAINS THE ARBITRATION RESOLUTION.
+ARBITRATION OF CERTAIN DISPUTES AND CLAIMS THAT MAY ARISE BETWEEN YOU AND US, AS WELL AS THE LIMITATIONS ON REMEDIES THAT YOU MAY SEEK FROM US.
+General.
+To the extent permitted by applicable law and in the interest of resolving disputes between you and AliveCor in the most expedient and cost-effective manner, you agree with AliveCor that any dispute arising under these Terms will be resolved by binding arbitration, unless you are consumers in a jurisdiction that prohibits the exclusive use of arbitration to resolve disputes.
+Arbitration is less formal than court proceedings.
+In arbitration, a neutral arbitrator replaces the judge or jury, a shorter period of discovery may be permitted than in a court, and arbitration proceedings may be subject to very limited review by courts.
+Arbitrators can award the same damages and the same relief or relief as a court.
+This agreement to arbitrate disputes applies to all claims arising out of or in connection with any aspect of these Terms, whether based on contract, tort, statutory liability, fraud or misrepresentation or otherwise Legal basis and regardless of whether such claim arose during the period of validity of these Terms or after their termination.
+YOU ACKNOWLEDGE AND AGREE THAT BY ACCEPTING THESE TERMS, YOU AND ALIVECOR ARE WAIVING THEIR RESPECTIVE RIGHTS TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+Withdrawal from the Arbitration Agreement: You may withdraw from this Agreement by contacting support@alivecor.com within 30 days of your initial acceptance of these Terms of Use and (including your first and last name and email address provided when registering for the Arbitration Agreement). service) indicate that you reject this arbitration agreement.
+Exceptions.
+Notwithstanding the provisions of Section 24A, nothing in these Terms shall operate to waive, exclude or otherwise limit the rights of either party to: a) bring an individual action in a small-claims court; (b) the initiation of enforcement proceedings by the appropriate federal, state or local authority, if such proceedings can be carried out; (c) seeking injunctive relief before a court; or (d) bringing an action before a court in connection with a claim of infringement of intellectual property rights.
+Referee.
+To the fullest extent permitted by applicable law, any dispute between you and AliveCor shall be resolved by arbitration under the Federal Arbitration Act and, as modified by these Terms, will be governed by the Commercial Dispute Resolution Procedures Commercial Disputes and the Supplementary Procedures for Consumer Related Disputes of the American Arbitration Association ("AAA") (collectively, the "AAA Rules") and will be arbitrated by the AAA.
+The AAA Rules and filing forms are available online at www.adr.org, by telephone at 1-800-778-7879 or through AliveCor.
+Announcements; Procedure.
+The party intending to seek arbitration shall first notify the other party of the dispute in writing, such notice (“Notice”) being delivered by postal mail (via U.S. Mail) or Federal Express (signature required). to send is; The notice may only be sent by email if the other party has not provided information about its current address.
+AliveCor's address for notices is: AliveCor, Inc., 444 Castro Street, Suite 600 Mountain View, CA 94041 USA.
+The Notice shall: specify (a) the nature and basis of the claim or dispute; and (b) the remedy sought or such legal remedy (“Demand”).
+The parties shall make good faith efforts to resolve the claim directly; however, if the parties have not reached an agreement within 30 days of receipt of the Notice, you or AliveCor may elect to initiate arbitration.
+During the arbitration, the amount of any settlement offer made by you or AliveCor may not be disclosed to the arbitrator until after the arbitrator's final judgment and award, if any.
+If a dispute is finally resolved in your favor through arbitration, AliveCor will pay you: (i) the amount, if any, awarded to you by the arbitrator; (ii) the most recent written settlement amount offered by AliveCor to resolve the Dispute prior to the arbitrator's award; or (iii) $1,000, whichever is greater.
+Fees.
+If you initiate arbitration under these Terms, AliveCor will reimburse you for the costs of the arbitration fee unless the value of your claim is greater than $10,000; in such a case, payment of fees will be determined in accordance with the AAA Rules.
+Any arbitration hearings will take place in Santa Clara County, California, with the exact location to be agreed upon; provided, however, that the value of the claim is $10,000 or less, you may decide whether to arbitrate: a) solely on the basis of documents submitted to the arbitrator; (b) in the form of a telephone hearing without the need for attendance; or (c) to be held in an in-person hearing in accordance with the AAA Rules in the county (or municipality) of your billing address.
+If the arbitrator determines that the substance of your claim or the relief or relief sought by you in your claim is unwarranted or intended to serve an improper purpose (as provided in paragraph 11(b) of the Federal Rules of Civil Procedure). American Code of Civil Procedure], payment of all fees will be governed by the AAA Rules.
+In such event, you agree to reimburse AliveCor for all amounts previously paid by AliveCor that are required to be paid by you in accordance with the AAA Rules.
+Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written award that adequately explains the essential findings and conclusions used as the basis for reaching the award and, if applicable, the award.
+The arbitrator may decide on the payment and reimbursement of fees or expenses and resolve disputes in connection therewith at any time during the proceeding and upon request from either party, which must be submitted within 14 days of the arbitrator's decision on the merits.
+No class action lawsuits.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE WITH ALIVECOR THAT EACH PARTY WILL BRING ITS CLAIMS AGAINST THE OTHER PARTY SOLELY INDIVIDUALLY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING (REPRESENTATIVE PROCEEDING). ENTATIVE PROCEEDING).
+Unless you and AliveCor agree otherwise, the arbitrator may not consolidate more than one person's claims or preside over any form of a representative or class proceeding, to the fullest extent permitted by applicable law.
+Expectations.
+To the fullest extent permitted by applicable law, you may not bring any action arising out of or relating to these Terms more than one (1) year after the cause of action arose.
+This period cannot be extended for any reason unless the parties have agreed in writing to such an extension.
+Any legal provisions or regulations which could suspend or otherwise affect the deadline are hereby waived; and no such statute or provision shall operate to extend the time limited in this Section to the fullest extent permitted by applicable law.
+Changes to These Arbitration Provisions.
+If AliveCor makes any future change to this arbitration provision other than changing AliveCor's address for notice, you may object to such change by sending us written notice within 30 days to AliveCor's address for notice; in such event, your AliveCor account will be terminated immediately and this arbitration provision will survive in the version in effect prior to the change you reject.
+Enforceability.
+If Section 24G or this Section 24 is found to be unenforceable in its entirety, then this Section 24 will be deemed void in its entirety; in such event, the parties agree that the jurisdiction and venue set forth in Section 22 shall govern any proceedings arising out of or in connection with these Terms.
+Announcements; Consent to Electronic Communications.
+By using the Service, you consent to receive certain communications from us in electronic form as further described in the Privacy Policy.
+Please read the Privacy Policy to learn more about our electronic communications practices.
+You acknowledge that notices, agreements, disclosures and other communications that we send to you electronically satisfy any legal communication requirements, including, without limitation, the requirement that such communications be in writing.
+All notices from AliveCor intended for your receipt will be deemed given and effective when sent to the email address you provided during registration or posted through the Service and provided to you.
+If you change the email address that you provided in connection with your registration to access and use the Service, you must update your email address in accordance with the procedures specified on the Service.
+By providing us with your mobile phone number, you agree to receive text messages at that number as necessary for account verification, notice notifications, and other purposes related to the Service.
+We do not charge fees for text messaging, but your wireless carrier may charge fees for standard messaging, data transfer, and others.
+Any such charges will be borne by you.
+We are free to send and receive text messages over mobile operators or other networks, although the reliability of such services may vary.
+We are not responsible for the timeliness or final delivery of messages as this is beyond our control and the responsibility of the mobile operator or other networks.
+Notwithstanding the foregoing, we will use your mobile phone number in accordance with the Privacy Policy.
+NOTE TO APPLE
+You acknowledge that these Terms apply solely to you and AliveCor and not to Apple; Apple is not responsible for the app or its contents.
+Apple has no obligation to provide any maintenance or support services for the App.
+If the App fails to conform to any applicable warranty, you have the right to notify Apple thereof; in such event, Apple will refund you the purchase price of the App, if such purchase price has been paid; and, to the maximum extent permitted by applicable law, Apple makes no other warranty with respect to the App.
+Apple is not responsible for addressing any claims brought by you or any third party in connection with the App or your possession and/or use of the App; Such claims include, but are not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or comparable laws.
+Apple is not responsible for the investigation, defense, settlement or discharge of any third-party claim alleging that the App or your possession and use of the App infringes any third party's intellectual property rights.
+You agree to comply with all applicable third party terms and conditions when using the App.
+Apple and Apple's subsidiaries are third party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (which Apple will be deemed to have accepted) as a third party beneficiary of the Terms to enforce these Terms against you.
+You hereby represent and warrant that (i) you are not located in a country that is subject to a United States government embargo, or that has been designated by the United States government as a “terrorist supporting” country; and that (ii) you will not be listed on any U.S. government list of prohibited or restricted parties.
+Contact information.
+The Service is provided by AliveCor, Inc.
+You can contact us by email at support@alivecor.com.
+Last revised: [07.01.2019]

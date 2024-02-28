@@ -1,0 +1,485 @@
+mySugr GmbH
+General Terms and Conditions (GTC)
+September 25, 2018 release
+Contents:
+1.
+APPLICATION RANGE
+1.
+1 Our Products
+1.
+2 Validity of our GTC
+1.
+3 Third Party Suppliers
+2.
+DATA PROTECTION
+3.
+CONCLUSION OF THE CONTRACT AND REGISTRATION
+3.
+1 Purchase of our Products and payment
+3.
+2 Registration and activation
+4.
+RIGHT TO WITHDRAW FROM THE CONTRACT
+4.
+1 Information on the exercise of the right of withdrawal
+4.
+2 Exceptions to the right to withdraw from the contract
+5.
+USE OF OUR PRODUCTS
+5.
+1 Period of use and termination
+5.
+2 Blockade and exclusion
+5.
+3 License and Grant of Rights
+5.
+4 Availability of our Products
+6.
+YOUR BEHAVIOUR
+6.
+1 General Provisions
+6.
+2 Incorrect use
+7.
+OUR RESPONSIBILITY
+7.
+1 Warranty and Liability
+7.
+2 Disclaimer and Indemnification
+8.
+SPECIAL PROVISIONS
+8.
+1 Calculator bolus mySugr
+9.
+FINAL PROVISIONS
+9.
+1 Choice of law
+9.
+2 Jurisdiction
+9.
+3 Other Provisions
+These GTC are available in their respective valid version on our website www.mysugr.com and are available for download in pdf format.
+1.
+APPLICATION RANGE
+1.
+1 Our Products
+1.
+1.
+1 My,
+mySugr GmbH
+1010 Vienna, Trattnerhof 1
++43 720 884555, support@mysugr.com
+FN 376086 v (Commercial Court, Vienna)
+DVR 4015732, UID ATU67061939
+("mySugr" for short) we develop and operate an interactive platform and mobile applications (applications) for patients with diabetes.
+mySugr is a digital healthcare company that offers comprehensive diabetes care to minimize obstacles and problems in your daily care.
+With our Products and Services, we provide solutions to help you deal with diabetes on a daily basis.
+1.
+1.
+2 As part of our Products, we provide information and content that is collected to the best of our knowledge and beliefs and with the greatest care from internal and external sources.
+Nevertheless, we would like to expressly emphasize that our Products and Services are only intended to inform and raise your awareness, but cannot replace the consultation and diagnosis of your doctor.
+Under no circumstances will mySugr provide any medical treatment or medical advice.
+We recommend that you contact your doctor if you have any questions about your disease and treatment.
+The evaluation of the data provided is at the sole discretion of you and your healthcare practitioner or advisor.
+diabetes.
+All content - whether provided by mySugr, our partners or users - is not intended to supplement or replace information provided by a physician or pharmacist.
+1.
+1.
+3 mySugr offers a variety of Products (applications) and services, as well as combinations (packages) to help you manage your diabetes.
+For simplicity, all current and future applications, services and packages (including new versions, updates and other enhancements) that mySugr makes available in any form are collectively referred to as "Products" or individually as a "Product".
+Anyone who buys and uses one or more of our Products is hereinafter referred to individually or collectively as the "User".
+To the extent that these GBTC only refer to male natural persons, they apply equally to all persons.
+1.
+1.
+4 In connection with these GTC, the following definitions apply to individual Products:
+Apps
+MySugr (Logbook) is an independent mobile application for a smartphone or tablet that documents the daily life of a diabetic.
+Our basic version of the mySugr Diary is functionally limited.
+mySugr Pro is the unlimited full version of the mySugr Diary.
+mySugr Pro is a paid version and offers many additional features that will help you manage your diabetes even better.
+The mySugr Bolus Calculator calculates your insulin or carbohydrate levels in just a few steps based on your settings.
+Our Bolus Calculator is an additional service available in conjunction with the mySugr Pro application.
+Services
+mySugr Coach offers comprehensive information from certified consultants for
+diabetes and nutritionists, regardless of time and place.
+The mySugr Coach app can be used in some countries as an extension of mySugr Pro.
+Packages
+The mySugr (Bundle) is a comprehensive solution and includes mySugr Pro with extensions such as Bolus Calculator and mySugr Coach, as well as a blood glucose meter from our partners and a customer-oriented delivery of test strips (automatic delivery of test strips depends on the actual measurement, i.e.
+only measurement and registration causes the order to be forwarded for the appropriate supply of test strips).
+The availability and composition of the mySugr Package is constantly being developed.
+1.
+1.
+5 In our manuals (available in our apps or on our website) and in the relevant special provisions (Chapter 8)
+we pay attention to the specific features of given Products.
+1.
+2 Validity of our GTC
+1.
+2.
+1 We offer all Products exclusively on the basis of these General Terms and Conditions (GTC) in their respective valid version, except for the United States and Canada.
+MySugr expressly rejects any conflicting commercial terms and conditions of use.
+1.
+2.
+2 Remember that before using our Products for the first time, you must accept these General Terms and Conditions, as well as all representations and agreements relating to them, and that each subsequent use of our Products means that you accept them.
+The registration and use of our Products is prohibited without your acceptance of our GTC.
+1.
+2.
+3 We expressly reserve the right to make modifications and objectively justified changes to the GTC in the future.
+Modifications may be necessary to meet legal, technological and economic efficiency requirements, or to satisfy the interests of our Users.
+Such changes may be made at any time and are announced in an appropriate manner before their entry into force, and each User may submit a written objection within one month of their announcement.
+In the absence of an objection, the further use of our Products is subject to the relevant new T & Cs.
+1.
+3 Third Party Suppliers
+1.
+3.
+1 Our Products can be found in application stores.
+In general, the terms and conditions of the respective third party supplier (over which we have no influence) apply, which are not part of our GTC or our contractual relationship with you as a User of our Products.
+The same applies to the terms of use of the User's device or mobile operator.
+1.
+3.
+2 We work with various partners to ensure the optimal use of our Products.
+These are partners who provide us or our Users with individual Products directly (e.g.
+glucometer, test strips), as well as insurance companies that may cover the cost of our Products on your behalf.
+In such cases, we either explicitly refer to the third party's applicable terms and conditions, or you must agree to such terms before you can purchase any of our Products through the third party vendor.
+DATA PROTECTION
+We are aware of the great responsibility related to your use of our Products, because you provide us not only with your general data, but also with your health data.
+In our Privacy Policy, we inform you about the use and protection of your data in connection with the use of our Products, as well as about the required consent that you must give.
+WITHOUT YOUR CONSENT TO THE NECESSARY PROCESSING OF PERSONAL DATA, THE USE OF THE PRODUCTS IS LEGALLY AND ACTUALLY IMPOSSIBLE.
+Our Privacy Policy is not part of these General Terms and Conditions, but is only information for you, provided in accordance with the General Data Protection Regulation, on the basis of which you consent to the necessary data processing.
+3.
+CONCLUSION OF THE CONTRACT AND REGISTRATION
+3.
+1 Purchase of our Products and payment
+3.
+1.
+1 Our Products can be purchased in various ways:
+Applications and services
+Application stores (such as Apple App Store / iTunes or GooglePlay) offer our Products.
+Please note that the purchase (not use) of our Products is subject to the terms and conditions of the app stores and a user account may be required.
+Our website has its own login area and offers direct access to our Products, in particular to the mySugr Package.
+Vouchers for our Products are in continuous circulation and can be exchanged on our website.
+Packages
+Therapeutic devices are partially distributed with our Products.
+For example, you can connect your blood glucose meter and other therapy devices to our app.
+Insurance institutions (public or private) work with mySugr to support diabetics in using our Products.
+All costs of our Products will be covered directly by the insurance institution or reimbursed according to the insurance tariff.
+You can find out at any time whether your health insurance provider is already working with us.
+3.
+1.
+2 Our paid Products can be purchased on our website, in app stores or in our apps.
+The bill is issued through the user account of the respective app store with predefined payment options.
+The respective app store acts as an intermediary and payment service provider for mySugr or as a direct seller.
+You can always contact us at support@mysugr.com if you have any problems with downloading or paying.
+3.
+1.
+3 Usage fees or purchase prices (including statutory VAT) are - depending on the offer and choice - payable once or periodically (e.g.
+on a monthly, semi-annual or annual basis).
+Current fees are displayed in our app or in app stores and must be paid immediately in advance.
+We can send you invoices and payment reminders by e-mail, unless the order is processed directly via the app store.
+In the event of default, late or incomplete payment, we have the right to block your access to our Products.
+The obligation to pay the user fee remains unaffected.
+3.
+1.
+4 We expressly reserve the right to limit the free Products at any time, to remove them in their entirety or to make them available for a fee.
+In the future, no legal claims may be made for the free use of individual Products or their parts for a given period of time.
+3.
+1.
+5 mySugr may also submit special or free offers, which may be subject to additional conditions or restrictions.
+In this context, we expressly point out any deviations from these GTC, whereby these GTC remain fully applicable in all other respects.
+Special and free offers cannot be transferred to other Users.
+3.
+2 Registration and activation
+3.
+2.
+1 The use of our Products requires registration in the mySugr application.
+After the first activation of our Product, you must register with your e-mail address and password (mySugr ID).
+Each User may only create one mySugr ID and each such ID may only be used by one User.
+3.
+2.
+2 By registering, the User makes a binding offer to conclude a contract with mySugr for the use of our Products on the basis of these GTC in the applicable version, which we expressly accept, at the latest by activating the mySugr ID or sending the ordered goods.
+3.
+2.
+3 Activation will be confirmed immediately after registering with a separate e-mail address.
+We reserve the right to refuse activation for individual Users or reject their offer to conclude a contract without giving a reason.
+In this case, payments already made will be refunded and the User's data sent will be immediately deleted.
+3.
+2.
+4 By registering, the User confirms that he is over sixteen years of age and is entitled to enter into contracts in accordance with applicable law.
+Only persons with legal capacity may register on their own.
+Minors may only do so with the express consent of their parents or legal guardians.
+A scan of such written consent should be sent to support@mysugr.com.
+By registering, the parent or legal guardian declares that they are entitled to make legally binding statements also on behalf of the minor.
+3.
+2.
+5 By registering, the User confirms that he is aware of and fully accepts the content of these GTC and that all his data is true, correct, current and complete, and undertakes to update this information regularly.
+We reserve the right to contact you at any time to verify your registration and usage information.
+3.
+2.
+6 If the User provides false, incorrect, out of date or incomplete information or if we have reasonable grounds to believe that the information is false, incorrect, out of date or incomplete, mySugr has the right to block the respective mySugr ID with immediate effect and without prior notice and prohibit the User from using from our Products with no obligation to refund any costs.
+3.
+2.
+7 The user is obliged to protect his registration data against unauthorized access by third parties, misuse or illegal use.
+Even suspicions that the User's mySugr ID may be at risk of such risk should be reported immediately to support@mysugr.com.
+We have the right to block any User's mySugr ID in the event of misuse or illegal use.
+4.
+RIGHT TO WITHDRAW FROM THE CONTRACT
+4.
+1 Information on the exercise of the right of withdrawal
+4.
+1.
+1 If you are not using our Products for commercial or professional purposes, you have the right to withdraw from your contract with mySugr as a consumer in accordance with the following provisions:
+RIGHT OF WITHDRAWAL INFORMATION
+Right to withdraw
+You have the right to withdraw from this contract within fourteen days without giving any reason.
+The withdrawal period is fourteen days from the date of the conclusion of the contract (activation of digital resources) or the day on which the consumer or a third party designated by him, who is not a carrier, came into possession of the goods (physical delivery).
+To exercise the right of withdrawal, please inform us, mySugr GmbH, Trattnerhof 1, 1010 Vienna, telephone: +43 720 884555, e-mail: support@mysugr.com, by making a clear statement (e.g.
+e-mail or letter sent by post) about your decision to withdraw from the contract.
+You can use the attached model withdrawal form, but it is not obligatory.
+In order to meet the withdrawal period, it is sufficient to send a notice of exercising the right to withdraw from the contract before the expiry of this period.
+Consequences of withdrawal
+In the event of withdrawal from this contract, we will immediately refund all payments received from you, including any delivery costs (except for additional costs resulting from your choice of a delivery method other than our cheapest standard delivery), no later than fourteen days from the date of receipt by us notifications of withdrawal from this contract.
+We will use the same payment method that was used for the original transaction for your refund, unless expressly agreed otherwise with you; in no event will you be charged any fees for reimbursement.
+Please note that if your health insurance provider has already reimbursed you for goods or services that you have opted out of, according to the tariff, your health insurance provider may be entitled to an appropriate right of recourse against you.
+We may refuse to refund the funds until we have received the returned goods or until you can prove that you have returned the goods, whichever comes first.
+The goods must be returned immediately or handed over to mySugr GmbH, Trattnerhof 1, 1010 Wien, telephone: +43 720 884555, e-mail: support@mysugr.com, and in any event within fourteen days from the date on which you inform us of your withdrawal from this contract .
+The deadline is met if the goods are dispatched before the expiry of the fourteen-day period.
+We bear the costs of returning the goods.
+The loss of value of the goods should be paid only if the loss of value results from the handling of the goods in a way that is not necessary to check the quality, properties and efficiency of the goods.
+If you have requested the commencement of the provision of services during the withdrawal period, you are obliged to pay us the appropriate amount, which corresponds to the part of the services already performed until you inform us about the exercise of the right to withdraw from this contract, proportional to the total scope of services provided under the contract.
+WITHDRAWAL FORM
+If you wish to withdraw from the contract, complete this form and send it to the following address:
+mySugr GmbH
+1010 Vienna, Trattnerhof 1/5 OG
+support@mysugr.com
+I cancel my contract for the purchase of the following goods / for the provision of the following service:
+Ordered / received on:
+MySugr ID, name and address of the consumer:
+Date and signature (for paper communication only)
+4.
+2 Exceptions to the right to withdraw from the contract
+4.
+2.
+1 You have no right to withdraw from the contract for the supply of digital content that is not stored on a physical data carrier, if we - with your express consent and knowledge of the loss of the right to withdraw from the contract in the event of early commencement of the contract and after providing a copy or confirmation in accordance with § 7 sec.
+3 of the Act on the provision of remote services and the provision of foreign services (FAGG) - we started the delivery before the expiry of the withdrawal period applicable in other cases.
+Pursuant to § 7 sec.
+3 FAGG, the User receives confirmation of the conclusion of the contract on a durable data carrier (e.g.
+by e-mail) along with the information specified in § 4 para.
+1 FAGG within a reasonable period of time after the conclusion of the contract, but no later than before the commencement of the provision of services, unless the information has already been provided previously on a durable data carrier.
+Confirmation of the contract contains in each case confirmation of consent to the immediate performance of the service and the User's knowledge of the resulting loss of the right to withdraw from the contract.
+4.
+2.
+2 Furthermore, you do not have a right of withdrawal for contracts relating to goods that have been delivered sealed and are not suitable for return for health or hygiene reasons, if the seal has been removed after delivery.
+From a technical and economic point of view, it is not possible to check whether the ordered goods have been used upon receipt, whether they have come into contact with body fluids, whether they are (partially) mixed with the contaminated components of the goods or whether they have been properly stored - we or the relevant manufacturers are prohibited from re-using them. use or re-placing on the market of such goods.
+Therefore, the right of withdrawal is excluded due to controlled hygiene and durability requirements.
+5.
+USE OF OUR PRODUCTS
+5.
+1 Period of use and termination
+5.
+1.
+1 The authorization to use our Products begins with registration and activation via mySugr.
+5.
+1.
+2 You can use our free Products indefinitely.
+The period of use of Products purchased under health insurance (in particular the mySugr Package) depends on the terms of the insurance and the contract.
+5.
+1.
+3 Our paid Products can be purchased through monthly or annual subscriptions as well as for a shorter or longer period of use (hereinafter "Subscription Period"), depending on the current offer.
+The relevant Subscription Period is displayed in our apps or in app stores.
+5.
+1.
+4 Both the User and mySugr have the right to terminate the contract at any time with one month's notice, effective at the end of each month.
+This can be done by selecting "Unsubscribe" in your app store account, in the login area of ​​our website, or by writing to us at support@mysugr.com.
+note that any fees already paid for an unused Subscription Period will only be refunded upon regular termination by mySugr or upon automatic termination of the Subscription Period (point
+5.
+1.
+6 below).
+5.
+1.
+5 In the event that the Subscription Period is not terminated or is not terminated on time, the Subscription Period will be automatically extended for another period corresponding to the Subscription Period previously selected.
+When your subscription is renewed, you will be charged the applicable standard price (not the prices of special or free offers, or offers from your insurance companies).
+Auto-renewal can be turned off in the User's account settings in the respective app store.
+5.
+1.
+6 In the event of your death or revocation of your data protection declaration of consent, the usage relationship automatically ends with immediate effect, as mySugr cannot process your health data without your consent.
+5.
+1.
+7 If you have any questions regarding the period of use or how it will end, please contact us at support@mysugr.com.
+5.
+2 Blockade and exclusion
+5.
+2.
+1 We reserve the right to temporarily block Users at any time for important reasons (at our discretion) or to permanently exclude them from using our Products.
+In the event of such a termination of the contract without notice, reimbursement of the usage fees is excluded.
+5.
+2.
+2 An important reason is, in particular, gross breach by the User of these GTC, e.g.
+violation of the provisions of point
+3.
+1 (Payments) specifying the two-week payment period, point
+3.
+2 (registration data), point
+5.
+3 (License) or point
+6. (
+Your behaviour).
+5.
+3 License and Grant of Rights
+5.
+3.
+1 With registration and activation, you have a non-exclusive, non-transferable, but territorially unlimited right to save and use a copy of our application for your own purposes to the extent specified in these GTC.
+For our paid Products, this license is limited to the duration of the contractual Subscription Period.
+5.
+3.
+2 The software, code, methods and systems as well as the content of our Products are protected by copyright and competition law and may only be used by mySugr.
+Our Products or parts thereof may not - without our prior written consent - be copied, modified, reproduced, republished or posted, transmitted, sold, offered for sale or resold or used in any way.
+Users are not entitled to use mySugr's trademarks, logos or other industrial property rights.
+Unless otherwise stated in these GTC, all rights of use and operation belong exclusively to mySugr or a group company and are not licensed under any license for our Products.
+5.
+3.
+3 Insofar as it is technically necessary for the delivery of our Products, each User grants mySugr a non-exclusive, revocable, but free of charge, transferable, time and territory unlimited right to use and use the content he generates, transmits, stores and publishes as part of our Products.
+However, the use or use of data is excluded if the legitimate interests of the User (e.g.
+data protection rights) are disproportionately violated.
+If you use them outside of our Products, we will, where possible, point out that the content comes from you.
+mySugr does not claim ownership of the content created and will not exercise any supervisory function with regard to the content created by the User.
+5.
+4 Availability of our Products
+5.
+4.
+1 We make our Products available in each case in accordance with the existing technical, economic, operational and organizational possibilities.
+mySugr cannot rule out interruptions, disruptions, delays, deletions, transmission errors or memory corruption in connection with the use of our Products or communication with Users.
+In addition, we offer our Products partly with third party suppliers and therefore depend on third party technical services to be provided.
+Accordingly, mySugr accepts no liability, guarantees or undertakes any obligation to ensure the uninterrupted availability of our Products on the internet.
+5.
+4.
+2 The same applies to restrictions on the use of our Products due to force majeure, strikes, lockouts and official orders, as well as due to technical modifications or maintenance work on mySugr systems.
+For more information on our Products, please contact us at: support@mysugr.com.
+6.
+YOUR BEHAVIOUR
+6.
+1 General Provisions
+6.
+1.
+1 Each User is entitled and obliged to use and use our Products at their own risk and expense, using appropriate technical devices.
+Information on which end devices and operating systems are compatible with our Products can be obtained from the app store or at any time from us at support@mysugr.com.
+6.
+1.
+2 You are also obliged to use our Products only in accordance with these GTC and legal regulations, and to refrain from misusing our Products.
+Any breaches of the obligations referred to in this section should be reported immediately to the e-mail address support@mysugr.com.
+6.
+2 Incorrect use
+6.
+2.
+1 Each User undertakes to provide his registration data truthfully and to ensure that it is always up-to-date and complete, and not to pass it on to third parties.
+You must maintain the confidentiality of personal information, manage it carefully, and protect it at your own risk.
+mySugr makes no warranty or other responsibility for lost or damaged data or content, unless we are responsible for this.
+6.
+2.
+2 Content such as photos, images, texts, videos or other information presented may only be stored, posted, transmitted or distributed in connection with our Products if the User is allowed to transmit and use them.
+In any case, the use of any racist, offensive, discriminatory, defamatory, sex-related, pornographic or violent content or any other illegal content is prohibited.
+6.
+2.
+3 It is also forbidden to decode, reproduce, decompile or disassemble our Products.
+Each User undertakes not to interfere with our Products or in the mySugr network by technical or electronic means (in particular through hacking attempts, brute force attacks, infection with viruses, worms, Trojans and other malicious programs) and to refrain from any attempts to introduce interference, which could affect the software or hardware of mySugr Products and systems.
+7.
+OUR RESPONSIBILITY
+7.
+1 Warranty and Liability
+7.
+1.
+1 Unless otherwise stated in these GTC, mySugr is liable and provides a guarantee in accordance with the statutory provisions.
+7.
+1.
+2 Liability towards Users who are not consumers for pecuniary losses, consequential losses, lost profits and damages resulting from claims of third parties is excluded.
+To the extent that our liability is limited or excluded in these GTC, this applies equally to representatives and affiliates of mySugr.
+7.
+1.
+3 Outside the scope of the Product Liability Act, mySugr's liability is limited to intent and gross negligence - with the exception of personal injury.
+Liability for slight negligence is excluded for the following factual reasons.
+7.
+1.
+4 mySugr does not warrant that our Products are available in their entirety, continuously, and error-free, and that the required software and hardware will operate without error.
+In addition, we cannot rule out that data transmission via external systems, in particular the Internet and other telecommunications networks, may be tracked, recorded or falsified by third parties.
+7.
+1.
+5 mySugr is not responsible for any downloaded content or materials that you receive as a result of using our Products.
+The User is solely responsible for any damage that may occur to his computer system or end devices, as well as for data loss as a result of downloading materials related to our Products.
+7.
+1.
+Furthermore, mySugr makes no warranty of any kind for external content, such as external links, banners or other information and advertising offers from third parties that may be placed within our Products.
+Where we provide notices or links to third parties, mySugr is not responsible for the information contained therein.
+The resulting transactions only lead to a contractual relationship between the User and the third party in question.
+We make no warranty or assume any other liability for third party services.
+7.
+2 Disclaimer and Indemnification
+7.
+2.
+1 The use of our Products is not a substitute for consulting a doctor or other medical advice and therefore the User bears the sole risk in this regard.
+This applies in particular to the use of ordered goods, such as a blood glucose meter, as well as the User's use of data provided as part of our Products, including measurement values, calculations and recommendations for operation.
+The user expressly acknowledges that such data may be incorrect and mySugr accepts no responsibility for its correctness.
+7.
+2.
+2 To the extent required by applicable regulations on medical devices to which the use of the Products is subject, the Products may be used or used only in accordance with the purposes, specifications and areas of use specified in the offer and terms of use.
+7.
+2.
+3 The User shall indemnify mySugr from any claims made against mySugr by third parties due to a culpable breach of their rights by the User in connection with the use of our Products.
+Any further claims for damages by mySugr against the User remain unaffected.
+7.
+2.
+4 The User is fully responsible for any damages and litigation or extrajudicial arising from conflicts with other Users.
+The User expressly acknowledges that mySugr shall in no event be liable for the acts or omissions of other Users, or for any damages resulting therefrom.
+7.
+2.
+5 If third parties make a claim against mySugr, the User is obliged to immediately provide all information available to him in a true and complete manner, which is necessary for the analysis, protection and defense of third party claims.
+The user bears the costs of the required mySugr legal defense, including all legal costs and legal representation costs up to the statutory amount.
+8.
+SPECIAL PROVISIONS
+The following provisions for individual Products supplement the other provisions of these GTC, unless expressly stated otherwise:
+8.
+1 Calculator bolus mySugr
+8.
+1.
+1 The mySugr Bolus Calculator is only intended for patients with diabetes who require insulin or are trained in FIT (or comparable programs), who are 18 years of age or older and undergo regular medical examinations.
+Under no circumstances should the Bolus Calculator be used by minors or by persons who use mixed insulin or only long-acting insulin as part of their therapy, or are physically (e.g.
+due to severe visual impairment) or mentally unable to continue therapy independently.
+8.
+1.
+2 Paid Bolus Calculator helps you to calculate the required insulin dose.
+The basis of the mySugr Bolus Calculator is a calculation based on various parameters entered by the User.
+For approximate calculations, it is necessary to correctly enter the data by the User.
+In no event will mySugr be held responsible for the results and suggestions computed by the Bolus Calculator.
+8.
+1.
+3 The result determined by the mySugr Bolus Calculator prompts the user to use the calculated insulin dose.
+However, it is entirely up to you to check the credibility of the calculated value - based on your own experience, medical recommendations of your doctor and the leaflets attached to the package of the drug used - as well as self-determination of the insulin dose.
+mySugr expressly warns you not to follow mySugr Bolus Calculator suggestions without your own health check.
+8.
+1.
+4 The mySugr Bolus Calculator is by no means a substitute for your doctor's medical knowledge, regular medical examinations, administering insulin or other medications, measuring blood sugar or calculating individual therapy parameters.
+9.
+FINAL PROVISIONS
+9.
+1 Choice of law
+These GTC and the entire legal relationship between mySugr and the User are governed exclusively by Austrian law, with the exception of the conflict of law rules and the provisions of the United Nations Convention on the Sale of Goods.
+However, the User as a consumer benefits from the protection resulting from the mandatory provisions of the state in which he is domiciled or habitually resident.
+9.
+2 Jurisdiction
+The place of performance and the place of exclusive jurisdiction for all disputes in connection with these GTC is the headquarters of mySugr in Vienna.
+Compulsory conflict-of-law rules favorable to consumers remain unaffected.
+9.
+3 Other Provisions
+9.
+3.
+1 Insofar as these GTC require notice or a written form (including legal declarations), it is also sufficient to send an e-mail to the address provided by the User during registration (mySugr ID).
+9.
+3.
+2 Users are not entitled to transfer their rights and obligations under these GTC to third parties in connection with the use of our Products.
+mySugr may transfer its rights and obligations under these GTC to other companies or third parties, provided that such transfer does not materially affect the User's rights under these GTC.
+9.
+3.
+3 If individual provisions of these GTC are or become invalid, their remaining provisions, which are not considered invalid, remain in force and apply.
+9.
+3.
+4 These GTC are available in various languages.
+The language of the country in which the User, as a consumer, is domiciled or habitually resident is decisive (e.g.
+German version for Users in Austria, Germany and Switzerland).
+If and to the extent that a country-specific language version is not available, the English version shall prevail.

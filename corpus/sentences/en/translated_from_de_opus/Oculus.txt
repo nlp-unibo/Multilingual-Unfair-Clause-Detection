@@ -1,0 +1,362 @@
+Oculus Terms of Service
+Last updated: April 11, 2022
+These Terms of Use apply to you if you use an Oculus account to access Oculus Products.
+If you use your Facebook account to access Oculus Products, review the Oculus Supplemental Terms of Service and the Facebook Terms of Service that apply to your use of Oculus Products.
+You agree that the Oculus Store Terms of Service will apply to your purchases and downloads from the Oculus Store as of their effective date.
+BY ACCEPTING THESE TERMS OF USE OR USING OUR OCULUS PRODUCTS WITH AN OCULUS ACCOUNT, YOU ACKNOWLEDGE THAT THIS IS A LEGALLY BINDING INSTRUMENT AND YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS SET FORTH HEREIN.
+PLEASE READ THESE TERMS OF USE COMPLETELY.
+IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT ACCESS OR USE OUR OCULUS PRODUCTS.
+DON'T USE IT.
+THESE TERMS OF USE CONTAIN IMPORTANT TERMS THAT AFFECT YOU AND YOUR USE OF THE OCULUS PRODUCTS; INCLUDING BUT NOT LIMITED TO, IF YOU HAVE NOT OBJECTED, A PROVISION REGARDING BINDING ARBITRATION FOR DISPUTES (EXCLUDING CERTAIN SPECIFICALLY MENTIONED INTELLECTUAL PROPERTY CLAIMS AND SMALL CLAIMS) AND A WAIVER OF CERTAIN JURY RIGHTS DRIVING OR
+CLASS ACTIONS.
+PLEASE READ THE DISPUTE RESOLUTION SECTION (SECTION 19) COMPLETELY.
+IN ADDITION, CERTAIN TERMS MAY APPLY TO USERS RESIDING OUTSIDE THE UNITED STATES.
+PLEASE READ SECTION 27 TO CHECK IF THESE TERMS APPLY TO YOU.
+YOU CONFIRM THAT YOU ARE OF LEGAL AGE IN YOUR JURISDICTION OF RESIDENCE OR, IF YOU ARE BETWEEN 13 YEARS OF AGE (OR.
+14 YEARS OF AGE IF YOU RESIDE IN SOUTH KOREA) AND THE LEGAL AGE OF MAJORITY, YOU USE THE OCULUS PRODUCTS UNDER THE SUPERVISION OF YOUR PARENT OR GUARDIAN WHO AGREES TO BE BOUND BY THESE TERMS OF USE.
+MAKE SURE YOU READ THESE TERMS OF USE WITH YOUR PARENT OR GUARDIAN SO THAT YOU BOTH UNDERSTAND ALL OF YOUR RIGHTS AND OBLIGATIONS.
+Facebook (“Facebook,” “we,” “us” or “our”) offers hardware and software products for virtual, mixed and augmented reality (“XR”) and operates a platform under the Oculus brand, through which users can download, interact with and send content and receive services related to our XR products (as further described in Section 1, the “Oculus Products”).
+If you reside in the European Region (as defined at https://store.facebook.com/legal/quest/territories/), “Facebook” means the legal entity Meta Platforms Limited.
+If you reside elsewhere, “Facebook” means the legal entity Meta Platforms Inc.
+These Terms of Use (“Terms of Use”) apply to your purchase, use and access to any Oculus Products.
+These Terms of Use do not alter in any way the terms of any other agreement you may have with Facebook for products, services, or other matters.
+If you use the Oculus Products on behalf of a company, you represent and warrant that you are authorized to accept these Terms of Use on behalf of that company and that that company agrees to be responsible to us if you or that company violates these Terms of Use violates.
+We reserve the right to change or modify these Terms of Use at any time and in our sole discretion.
+If we make changes to these Terms of Use, we will notify you of such changes as appropriate, such as by sending an email notice to the address you provided and/or providing a notice through the Oculus Products.
+If we make an administrative change, we may provide notice by updating the “Last updated” date at the top of these Terms of Use.
+Your continued use of the Oculus Products constitutes your acceptance of the revised Terms of Use.
+If you do not agree to the modified Terms of Use, you must stop using the Oculus Products and delete your account (https://secure.oculus.com/my/privacy).
+We encourage you to review the Terms of Use from time to time to ensure that you understand the terms and conditions that apply to your access to or use of the Oculus Products.
+1. Oculus Products
+Our mission is to give people the opportunity to have meaningful interactions regardless of physical distance.
+To further this mission, we provide you with the Oculus products described below.
+In order to provide these Oculus Products, we must collect and use your personal information as set out in our Privacy Policy; this is available at https://store.facebook.com/legal/quest/privacy-policy-for-oculus-account-users/.
+We provide innovative devices, content and systems.
+We offer a variety of physical goods, platform services, software, websites, apps and content that enable you to access and immerse yourself in XR worlds and receive services related to our products.
+We use the data we have to provide you with these products and improve the XR ecosystem.
+We provide you with a personalized experience.
+Your experience with Oculus products is different than anyone else's.
+For example, each user of Oculus products may be entitled to view thousands of individual pieces of content.
+To personalize your experience, we use the data we have – such as information about the connections you make, the choices and controls you choose, and the things you share and do.
+We help you connect with people and experiences that matter to you.
+We help you find and connect with people, groups, events, and other experiences that matter to you on the Oculus products you use.
+We use the information we have to make suggestions to you and others - such as events to attend and people you might want to add as a friend.
+Stronger bonds create better communities.
+That's why we believe our Oculus products are most useful when people are connected to people, groups and experiences that interest them.
+We give you the opportunity to express yourself and discuss things that are important to you.
+There are many ways to express yourself and communicate with friends, family and others on the Oculus Products - such as sharing photos, creating or participating in events or multiplayer experiences, or adding content to one virtual environment.
+We've also developed (and continue to explore) new ways for people to use technologies like augmented reality to share more expressive and engaging content across Oculus products.
+We help you discover content, products and services that may interest you.
+We provide you with offers and other marketing to help you discover content, products and services offered by us and the many companies and organizations that use our Oculus products.
+We combat harmful behavior and protect and support our community.
+People can only have meaningful interactions when they feel safe.
+We employ dedicated teams and develop advanced technical systems to detect abuse of our service, harmful behavior toward others, violations of our terms and policies, and situations where we may be able to help support and protect our Oculus community.
+If we learn of content or behavior that misuses our Oculus products or violates our terms of use and policies, we will take appropriate action, including: by removing content, blocking access to certain features, deactivating an account, or contacting law enforcement authorities.
+We share information with other Facebook companies (https://www.facebook.com/help/111814505650678/) when we detect abuse or harmful behavior by someone using one of our Oculus products.
+We use and develop advanced technologies to provide functional services for everyone.
+We use and develop advanced technologies – such as artificial intelligence and machine learning systems – so that we can provide a better, more useful service to everyone who uses the Oculus Products.
+For example, we use information available to us to develop models that identify content relevant to you.
+We are also developing automated systems to improve our ability to detect and remove abusive and dangerous activities that may harm our community and the integrity of our Oculus products.
+We explore new ways to improve our services.
+We participate in research and collaborate with others to improve our Oculus products.
+One way we do this is by analyzing the data we have to understand how people use our Oculus products.
+We provide consistent and seamless experiences: Our products help you find and connect with the people, groups, companies, organizations, etc. that matter to you.
+We design our systems so that your experience is consistent and seamless across the various Facebook company products you use (https://www.facebook.com/help/195227921252400/).
+For example, some of our Oculus products help you connect with your friends on Facebook.
+We enable global access to our Oculus products: In order to operate our global Oculus products, we need to store and distribute content and data in our data centers and systems around the world, including in countries outside the country in which you live live.
+This infrastructure may be owned or operated by Facebook Technologies, LLC, Facebook Technologies Ireland Limited, Meta Platforms Inc., Meta Platforms Limited or their affiliates.
+2. Authorization to use; Registration and account
+The Oculus Products are intended only for users who are at least 13 years old (or 14 years old if you live in South Korea).
+Any registration for or use of the Oculus Products by anyone under the age of 13 (or 14 if you reside in South Korea) is unauthorized, unlicensed and in violation of these Terms of Use.
+You represent and warrant that you are (a) not listed on the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) Export Control List of Specially Designated Nationals (“SDN List”), and (b). appear on the U.S. Department of Commerce Denied Persons or Entities List or any other U.S. export control list, (c) you will not use IP proxying or other methods to disguise your location of residence, (d) you will not use the Oculus Products if in any laws or laws in your country prevent you from doing so in accordance with these Terms of Use and (e) your right to use the Oculus Products has not previously been suspended or terminated.
+To access or use certain features of the Oculus Products, you may be asked to register for an account.
+By creating an account, you agree to (i) provide accurate, current, and complete account information; (ii) maintain the security of your password, not disclose your password to anyone else, and assume all risks of unauthorized access to your account; and (iii) immediately notify us at https://www.facebook.com/whitehat/ if you discover or suspect any security breaches related to the Oculus Products.
+3. Devices; Software; and updates
+Certain devices and software may be required to access and use the Oculus Products.
+In addition, we may need to automatically update some of the software you receive through the Oculus Products or provide you with new software in order for the Oculus Products to continue to function properly; This can include, among other things: Bug fixes, patches, improved features, missing plugins and new versions include.
+By using the Oculus Products, you agree to such automatic updates.
+We reserve the right, in our sole discretion and to the extent technically feasible, to terminate your access to or ability to use the Oculus Products if, in our opinion, such Oculus Products pose a health or safety risk or violate our Community Standards (also known as the Facebook Rules) and the VR Code of Conduct or any agreements, laws, regulations or guidelines.
+We will have no liability or responsibility if we choose to remove, disable or delete such access to, or your ability to use, any part or all of the Oculus Products.
+4. Your use of Oculus products and content
+4.1 Content and Software License.
+Unless otherwise agreed, if we enable the use of software, content, virtual items or other materials owned or licensed by us (“Software and Content”), we hereby grant you a limited right, not to -exclusive, non-sublicensable license to access, install and use the Software and Content solely for personal and non-commercial purposes, subject to your compliance with these Terms of Use.
+You will not use, copy, adapt, modify, decompile, reverse engineer, disassemble, decipher, attempt to derive the source code of, prepare derivative works of, distribute, license, sell, rent, transfer, publicly display, publicly perform the Software or Content , transmit, stream, broadcast or otherwise use, unless expressly permitted by us or permitted by applicable law.
+Any unauthorized use of the Oculus Products is strictly prohibited and will terminate the license granted in these Terms of Use.
+No licenses or rights are granted to you, by implication or otherwise, other than those expressly granted to you.
+4.2 Oculus Runtime Software.
+You may access, install and use the Oculus Runtime software (“Runtime”) subject to these Terms of Use, including the license set forth in Section 4.1.
+To maximize your fun, safety and overall experience with our Oculus products, Runtime may only be used with hardware devices approved by us and with software developed using the Oculus Rift Software Development Kit as specified in the Oculus Rift License Agreement Software Development Kit were developed.
+In addition, you may only use the current version of Runtime.
+You acknowledge that Runtime contains proprietary information and that you may not distribute it to any other person or entity.
+4.3 Third Party Content.
+Your use of third party services, apps or content (“Third Party Content”) made available through the Oculus Products may be subject to additional end user agreements.
+If these agreements conflict with the provisions of these Terms of Use, these Terms of Use will control.
+Facebook is not responsible or liable with respect to your access to or use of Third Party Content or any content or features appearing in such Third Party Content.
+Your rights with respect to such third party content are provided solely under a license between you and the provider of such third party content.
+In no event will Facebook be deemed to be the licensor of the Third Party Content, having granted any rights to use the Third Party Content, having assumed any obligations with respect to the Third Party Content, or having made any representations or warranties with respect to the Third Party Content.
+If you are not presented with an end user license agreement upon your purchase of Third Party Content, the following license terms will apply to your use of such Third Party Content: (a) The third party providing the Third Party Content (and not Facebook) is the licensor of such Third Party Content ; (b) such third party grants you a limited, non-transferable license to access and use the Third Party Content solely for your personal and non-commercial purposes, and (c) you may not modify, decompile or modify the Third Party Content, in whole or in part disassemble or create derivative works of, or sublicense any rights in or relating to, any Third Party Content; unless you are expressly authorized by the third party or permitted by applicable law.
+If a provider of third party content violates our policies, we may remove or disable that third party content.
+To the fullest extent permitted by applicable law, we assume no liability or responsibility for such removal or disabling of any Third Party Content.
+4.4 Trial Access to Oculus Products.
+We may offer free trials or other limited versions of Oculus Products so that you can explore the Oculus Products before purchasing the full version.
+These versions may have limited features, limited usage times, and other limitations.
+4.5 Availability of Oculus Products after purchase; Updates.
+Some Oculus products may rely on services provided by third parties for some or all of their functionality.
+Such Oculus Products may not function properly or may become completely inoperable if such third parties discontinue their services.
+4.6 Support.
+Facebook is responsible for all billing issues related to the purchase of Oculus products and for support regarding the Oculus platform.
+Facebook has no obligation to provide support for third party content.
+Please contact us via the support portal at https://support.oculus.com if you need assistance.
+4.7 Availability.
+The Oculus Products and Content may not be available in all territories and jurisdictions, and we may restrict or prohibit the use of all or some Oculus Products and Content in certain territories and jurisdictions.
+4.8 Network Costs.
+Your network provider may charge you for data service charges or any other third-party charges that may arise during your use of the Oculus Products, and you accept responsibility for such charges.
+If you are not the bill payer, we assume that you have obtained the bill payer's permission.
+5. Purchasing Oculus products
+5.1 Purchasing Oculus Products from Oculus.
+You may purchase Oculus Products only for your personal use or as a gift, unless otherwise expressly permitted in these Terms of Use.
+You may not purchase Oculus Products from Oculus for commercial use or resale, although you may use the Oculus Products to develop and test content, software or apps intended for distribution by Facebook and our affiliates .
+When you place an order or make a purchase, you are required to provide us with information such as your address and billing information.
+You represent and warrant that all such information is accurate and you will ensure that such information is kept current.
+We are not responsible or liable for any inaccurate information or any information that subsequently becomes out of date.
+We are also under no obligation to make any effort to determine correct contact or shipping information.
+For most Oculus products, you can manage your information in your account settings.
+For product purchases that have not yet shipped, you can update your information at any time prior to shipping at https://shop.oculus.com/history/.
+We do not accept payments for product purchases until order acceptance (see below).
+After you place an order, you may receive a communication from us confirming receipt of your order (“Order Confirmation”).
+Please note that receipt of the order confirmation does not mean that your order has been accepted.
+We will confirm our acceptance of your order by sending you a communication confirming that the order has been processed or that the goods have been dispatched - if applicable ("Order Acceptance").
+The contract between us regarding the respective Oculus products is concluded when we send you the order acceptance.
+Any shipping dates or times provided by us (or a courier company) are estimates only and we do not guarantee them.
+The risk of loss for any physical goods you purchase and the responsibility for insuring the goods pass to you upon delivery of the goods.
+Nothing in these Terms of Use affects your legal rights to reject physical goods if they are damaged or faulty when you receive them.
+5.2 Pre-Orders.
+It may be possible to place pre-orders prior to the launch of a new Oculus product.
+The price of the Oculus Product you pre-order will be the price quoted to you at the time you submit your pre-order.
+This may also include taxes and shipping costs.
+Placing a pre-order does not guarantee delivery of an Oculus product.
+When the pre-ordered Oculus product is ready for shipping or delivery, we will contact you to provide you with your purchase confirmation (including shipping and taxes, if applicable).
+This represents order acceptance.
+5.3 Our Right to Reject Your Order.
+We reserve the right to refuse or reject your order at any time prior to order acceptance.
+In this case we will try to notify you.
+Some reasons for rejection include: (a) we are unable to provide you with the Oculus Product, for example because that item is no longer available or because of an error in pricing at the point of purchase; (b) you do not live in a country or region from which the Oculus Product can be purchased; or (c) you order more than the maximum permitted number of Oculus Products.
+If you have already paid, we will refund you the full amount including any delivery costs charged.
+5.4 Your Right to Cancel or Return Physical Goods.
+You may cancel your order or pre-order for physical goods at any time prior to shipping and order acceptance.
+Once the Goods have been dispatched to you, you have the right to cancel our contract with you and return the Goods within 30 days of the date of your receipt of the Goods.
+This right does not apply to goods that have been used or whose return has been excluded by us.
+These include, among other things: any items or goods that have been personalized or altered in accordance with your instructions.
+The goods must be returned complete in the original packaging along with relevant proof of purchase and you will be responsible for the costs of returning the goods to us.
+If upon return we discover that the goods have been used, damaged, are missing parts or are not in a resalable condition, we may charge a 15% restocking fee or otherwise reduce the amount of your refund. to account for this damage, use or missing parts.
+To cancel your order or return your goods, you must notify us of your decision by following the instructions at https://support.oculus.com
+5.5 Content Transactions.
+You may be able to purchase digital content through the Oculus Products.
+You may also be able to purchase additional or enhanced features or media content in certain Oculus Products (collectively, “In-App Purchases”).
+Except as set forth in these Terms of Use, we are not responsible for any transactions you have with any third party in relation to any Third Party Content or in-app purchases, and we will have no liability in relation to any Third Party Content or any third party in-app purchases , which are carried out within third-party content.
+5.6 Errors.
+We try to be as accurate as possible and eliminate errors with our Oculus products; however, we do not represent or warrant that any descriptions of Oculus products or pricing are accurate, complete, reliable, current, or error-free.
+In the event of an error, we reserve the right to correct such error and change your order accordingly (including charging the correct price) or cancel the order and refund you the amount invoiced.
+If we discover a pricing error or other material error with respect to an Oculus product that has not yet been shipped or delivered, we will contact you to inform you of the error and to give you the opportunity to proceed with the purchase Continue pricing or cancel your order.
+If we are unable to contact you using the contact details you provided when placing your order, we will treat the order as cancelled.
+5.7 Account.
+You may need to be a registered user to purchase some Oculus products.
+You are responsible for any fees or charges associated with your account.
+We may attempt to collect unpaid fees or charges, including, but not limited to: by attempting to impose additional costs/fees on your payment instrument, through the use of debt collection agencies and through other legal means.
+If you decide to terminate your account, we reserve the right, subject to any limitations under applicable law, to collect any fees, surcharges, or costs accrued prior to termination.
+Any overdue or delinquent accounts must be cleared before we will allow you to re-register.
+5.8 Virtual Items.
+Your purchase of a Virtual Item or in-game currency in the Oculus Products constitutes payment for a limited, non-assignable license to access or use such content or features in the Oculus Products.
+Virtual items (including characters and their names) or in-game currency purchased or available to you in the Oculus Products can only be used in conjunction with the Oculus Products on which you received them or use them. where they were developed as a result of you playing.
+These items are non-refundable and cannot be exchanged for money or anything of value outside of Oculus Products.
+We may modify or discontinue virtual items or in-game currency at any time.
+5.9 Pricing and Payment.
+We accept various payment methods including credit and debit cards as well as payments via PayPal and Facebook Payments.
+Additional terms and conditions from your payment provider may apply.
+By submitting an order or pre-order, you confirm that you are authorized to use the payment method provided and you authorize us to bill your order to that payment method.
+When you provide your payment information, you authorize us (or a third-party payment processor) to process and store your payment and related information.
+Depending on where you are located or where you want the Oculus Products shipped or delivered, Oculus may use an agent, subsidiary or affiliate (including Facebook Technologies Ireland Limited for orders outside the United States and Canada) to process payment and shipping.
+If the payment method you provide cannot be verified, is invalid or otherwise cannot be accepted, we may suspend or cancel your order.
+You are responsible for resolving any problems we encounter while fulfilling your order.
+Prices are subject to change without notice.
+We reserve the right to refuse or cancel any orders at any time and in our sole discretion.
+5.10 Taxes.
+If your purchase or use of the Oculus Products is subject to any use or sales taxes, customs duties, or other government taxes or fees (“Taxes”), we may charge you for such Taxes.
+The applicable taxes can be displayed at checkout.
+You are responsible for any taxes due with respect to your use of the Oculus Products.
+5.11 Cancellation of Content; Returns.
+All purchases of digital content are final unless otherwise required by law or in our Mobile Content Refund Policy (https://www.oculus.com/legal/mobile-content-refund-policy/). for Rift content (https://www.oculus.com/legal/rift-content-refund-policy/).
+We encourage you to download, install, or access purchased content immediately.
+You agree that delivery of the Digital Content may occur immediately upon completion of your purchase and acknowledge that as a result you will forfeit any legal rights you may have to withdraw and receive a refund.
+Some jurisdictions prohibit the exclusion or waiver of legal rights by law, so this waiver of legal rights may not apply to you.
+If you are unable to download, install or access the purchased content, please contact us via the support portal at https://support.oculus.com.
+6. Permitted Use
+By accessing or using the Oculus Products, you agree not to: (a) access or use the Oculus Products in a manner that disrupts, disrupts, negatively affects, or inhibits any other person from doing so could fully enjoy the Oculus products; these include: conduct or content that is defamatory, harassing, threatening, intolerant, hateful, vulgar, obscene, pornographic or otherwise objectionable; (b) damage, disable, overburden, or impair the functionality of the Oculus Products in any way; (c) access or use the Oculus Products for any illegal or unauthorized purpose or engage in any illegal activity or activity that violates these Terms of Use, the Community Standards (also known as the Facebook Rules), and the VR Code of Conduct or .violate, participate in, endorse or support any other terms or policies provided in connection with the Oculus Products; (d) use or attempt to use another user's account without their authorization; (e) modify, adapt, hack or emulate the Oculus Products; (f) use any robot, spider, crawler, scraper service or other automated method or interface not provided or authorized by us to access the Oculus Products or obtain data; (g) circumvent or attempt to circumvent any filters, security measures, or other features designed to protect the Oculus Products or third parties; or (h) violate or violate our rights or the rights of our users or third parties.
+7. User Content
+Our Oculus Products may contain interactive features and areas where you can submit, post, upload, publish, email, send, otherwise transmit, or interact with content, including, but not limited to: Text, images, photos, videos, sounds, virtual reality environments or features, software and other information and materials (collectively, “User Content”).
+Unless otherwise agreed, we do not claim any ownership rights in or to your User Content.
+If you use content that is protected by our intellectual property rights and that we have made available through our Oculus Products (e.g. images, designs, videos, or sounds provided by us that you choose to upload to Oculus), If you add content created or shared to products), we retain all rights to that content (but not to your content).
+By making User Content available through the Oculus Products, you grant us a worldwide, non-exclusive, transferable, royalty-free, and fully sublicensable (i.e. we may grant this right to others) right to use such User Content in connection with the Facebook Companies Products ( https://www.facebook.com/help/195227921252400/) (subject to applicable privacy settings (https://secure.oculus.com/my/privacy/)). to perform publicly and distribute.
+This right ends if you delete your User Content or your account; unless your User Content has been shared with others and they have not deleted the content.
+You irrevocably consent to any acts or omissions by us or by anyone authorized by us that may violate any moral rights (or equivalent rights) in your User Content.
+If User Content contains music, you agree to our Music Policies (https://store.facebook.com/legal/quest/music-terms/).
+You are solely responsible for the User Content that you provide through the Oculus Products, and you represent and warrant that (a) you are either the sole and exclusive rights holder with respect to all User Content that you provide, or you are all have obtained the rights, licenses, permissions, consents and releases necessary to grant us the rights set out in this Section; (b) the provision of your User Content and our subsequent use of such User Content will not infringe, misappropriate or violate the patent, copyright, trademark, trade secret, moral rights or other proprietary or intellectual property rights or rights of publicity or privacy of any third party it violates or results in the violation of any applicable law or regulation; and (c) your User Content does not violate our Community Standards (also known as the Facebook Rules) and VR Conduct Policy.
+We do not endorse or adopt any opinions, views, advice or recommendations posted or sent by users.
+Facebook is not responsible or liable for any User Content made available through the Oculus Products.
+Furthermore, we have no obligation to review, edit or monitor such content.
+However, we reserve the right, and have sole discretion, to remove, screen or edit any User Content at any time and for any reason, including, without limitation, any Content that violates intellectual property rights or otherwise violates these Terms of Use.
+If you are a developer submitting User Content to or in connection with the Oculus Products, you agree that our agreements with you as a developer may supersede this section of the Terms of Use.
+8. Data Policy
+Our Privacy Policy, available at https://store.facebook.com/legal/quest/privacy-policy/, sets out how we treat data; this includes how we collect, use and disclose information.
+In addition, certain third parties (such as third party content developers and the manufacturers of your computer, mobile phone or other devices) may collect information about you when you use the Oculus Products.
+These third parties have their own privacy policies and will treat the information collected about you in accordance with those policies.
+We encourage you to read this Privacy Policy before providing information to third parties.
+We are not responsible for the accuracy of third party privacy policies or for ensuring that third parties comply with their privacy policies.
+9. Additional Terms
+These Terms of Use are in addition to, and do not replace or modify, any other agreement you may enter into with us or our affiliates; This can include, among other things: This includes, but is not limited to, our Developer Agreements, certain Device Terms, Community Standards (also known as the Facebook Rules), and the VR Code of Conduct, as well as terms related to contests, contests, or advertising.
+If you purchase physical goods from us, other terms and conditions of sale or marketing eligibility may also apply.
+Your purchase and use of Third Party Content may be subject to additional terms and conditions; these include: Third Party End User Agreements and Privacy Policies.
+We recommend that you carefully read the third party agreements and policies before accessing, downloading or using any Third Party Content.
+You may also access services provided by other Facebook Companies products (https://www.facebook.com/help/195227921252400/), which are subject to additional terms and conditions.
+10. Reviews
+We may display age, comfort and content ratings for digital content based on information provided to us by the creators of such content.
+We cannot guarantee that digital content ratings will always be accurate, nor can we promise that you will not find some material harmful, offensive, indecent or objectionable.
+11. Ownership and Intellectual Property
+Unless otherwise indicated, the Oculus Products are the property of Facebook, our affiliates or our licensors and are protected by United States and foreign copyright, trademark and other laws.
+You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices displayed on or accompanying the Oculus Products.
+Oculus, Oculus VR, Rift, Oculus Touch, Oculus Go, and the Oculus logo (“Oculus Marks”) are trademarks or registered trademarks of Facebook Technologies, LLC.
+The Oculus trademarks and those of its affiliates may not be copied, imitated or used, in whole or in part, without prior written permission (except as authorized by applicable trademark guidelines).
+All other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of their respective owners and may not be used without the permission of the applicable trademark owner.
+For more information about our brand guidelines, please visit our brand resources section (https://oculusbrand.com).
+12. Feedback
+Separate from User Content, you may submit questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information about us and our Oculus products (collectively, “Feedback”).
+You agree that Facebook and its affiliates may use the Feedback in any manner they choose without any obligation to you.
+13. Compliance with U.S. Government Export Laws and Rights
+You will comply with all applicable export control laws of the United States and any other applicable government authority; these include: the U.S. Export Administration Regulations (“Export Laws”).
+You will not, directly or indirectly, export, re-export or download the Oculus Products (a) to any person or entity or country prohibited under export laws (including U.S. sanctions programs); (b) to anyone on the SDN list, the Rejected Persons or Entities List or other export control lists, or (c) for any purpose prohibited by export laws (including, but not limited to, the proliferation of nuclear, chemical or biological weapons or the development of rocketry).
+Additionally, you represent and warrant that no U.S. federal agency has suspended, withdrawn, or denied your export privileges and that you are not listed on the SDN list.
+The Oculus Products, including all related software, specifications and documentation, are “Commercially-available off-the-shelf (COTS) items” as defined in 48 C.F.R. §2.101. We provide the Oculus Products for U.S. Government end use solely in accordance with the following terms: (a) the Oculus Products are licensed as “COTS Items” only, and (b) the U.S. Government has the same rights as all other end users subject to these Terms of Use.
+This standard commercial license is granted in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software), and for U.S. Department of Defense transactions, DFARS 252.227-7015 (Technical Data - Commercial Items) and DFARS 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation).
+If a U.S. government agency requires additional rights, it must negotiate directly with Facebook to determine whether the parties can negotiate an acceptable modification to these Terms of Use, which shall then be incorporated into any applicable contracts or agreements.
+14. Reports of Intellectual Property Rights Violations
+In accordance with the Digital Millennium Copyright Act (“DMCA”) and other applicable laws, we have adopted a policy whereby we may, under appropriate circumstances and in our sole discretion, terminate the accounts of users who are deemed to be repeat infringers.
+We may also, in our sole discretion, restrict access to the Oculus Products or terminate the accounts of any user who infringes the intellectual property rights of others, whether or not there is repeat infringement.
+If you believe that anything contained in or made available through the Oculus Products infringes any copyright you own or control, you may submit a notification of such infringement to our agent designated below (“ Designated Agent):
+Designated Agent
+Meta Platforms, Inc.
+1601 Willow Road
+Menlo Park, CA 94025, US
++1 (650) 543 4800 (Telephone)
+E-Mail-Address: ip@oculus.com
+The requirements for proper notice can be found in 17 U.S.C. §512(c)(3) (available at https://www.copyright.gov/title17/92chap5.html#512).
+If you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as a result of our reliance on such misrepresentation and remove or disable access to the material or activity that is claimed to be infringing.
+15. Hyperlinks
+You are granted a limited, non-exclusive right to create text hyperlinks to our websites for non-commercial purposes.
+However, you may not use our logos or other proprietary graphics to link to our websites without our express written permission.
+The Oculus Products may contain links to third-party websites, apps or other services, and you understand that by accessing third-party links you may be exposed to content that is offensive, harmful, inaccurate or otherwise inappropriate.
+You acknowledge and agree that we are not responsible or liable for the availability or accuracy of such Third Party Properties or the content, products or services provided therethrough.
+We do not endorse or control such third party properties and make no representations or warranties of any kind regarding such properties.
+When you access or use third party properties, you should also be aware that those third parties' terms and policies apply.
+16. Disclaimers
+16.1 THERE ARE IMPORTANT HEALTH AND SAFETY WARNINGS AND INSTRUCTIONS THAT YOU MUST READ BEFORE USING THE OCULUS PRODUCTS; THEY ARE AVAILABLE HERE: https://store.facebook.com/legal/quest/health-and-safety-warnings/. BY USING OCULUS PRODUCTS, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTAND THESE WARNINGS AND INSTRUCTIONS.
+WE MAY UPDATE OR CHANGE THESE WARNINGS AND INSTRUCTIONS; SO PLEASE CHECK THEM REGULARLY.
+ADDITIONAL HEALTH AND SAFETY WARNINGS AND INSTRUCTIONS MAY BE PROVIDED BY DEVELOPERS IN CONNECTION WITH CERTAIN THIRD PARTY CONTENT.
+YOU REPRESENT AND WARRANT THAT YOU READ ALL HEALTH AND SAFETY WARNINGS AND INSTRUCTIONS BEFORE USING THE OCULUS PRODUCTS.
+16.2 YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOUR ACCESS TO AND USE OF THE OCULUS PRODUCTS IS SOLELY AT YOUR RISK.
+BETWEEN YOU AND FACEBOOK, THE OCULUS PRODUCTS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+FACEBOOK EXPRESSLY DISCLAIMS ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN), INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+BEYOND, FACEBOOK DOES NOT SECURE OR
+DOES NOT WARRANT THAT (A) THE FUNCTIONS CONTAINED IN THE OCULUS PRODUCTS WILL BE CORRECT OR WILL MEET YOUR REQUIREMENTS, (B) THE OPERATION OF THE OCULUS PRODUCTS WILL BE SECURE, UNINTERRUPTED, ERROR-FREE OR VIRUS-FREE, OR THAT (C) ANY DEFECTS IN THE OCULUS PRODUCTS WILL BE FIXED.
+NO ORAL OR WRITTEN INFORMATION, GUIDELINES OR ADVICE PROVIDED BY FACEBOOK SHALL CREATE A WARRANTY.
+THE FOREGOING DISCLAIMER OF WARRANTIES APPLIES TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+THE LAWS OF SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES.
+THEREFORE, SOME OR ALL OF THE DISCLAIMERS IN THIS SECTION MAY NOT APPLY TO YOU.
+17. Exemption
+You agree to indemnify and hold Facebook and its affiliates, independent contractors and service providers, and each of their respective directors, officers, employees and agents (collectively, the “Facebook Parties”) harmless from any and all third party claims, damages, costs, liabilities and expenses (including (including, without limitation, reasonable attorneys' fees) arising out of or relating to: (a) your purchase or use of, or inability to use, the Oculus Products; (b) your violation of these Terms of Use or any other applicable terms, policies, warnings or instructions provided by Facebook or any third party in connection with the Oculus Products, (c) your violation of any applicable law or rights third party; or (d) any User Content or Feedback you provide.
+18. Limitation of Liability
+THE FACEBOOK PARTIES SHALL NOT BE LIABLE FOR ANY LOST PROFITS OR ANY OTHER CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT OR INCIDENTAL DAMAGES ARISING FROM YOUR USE OR
+IMPOSSIBILITY TO USE THE OCULUS PRODUCTS OR
+IN CONNECTION HEREUNDER, EVEN IF ANY FACEBOOK PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL THE TOTAL LIABILITY OF THE FACEBOOK PARTIES ARISING OUT OF THE USE OR.
+THE IMPOSSIBILITY TO USE THE OCULUS PRODUCTS OR
+IN CONNECTION HEREUNDER, THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU PAID FOR THE USE OF OUR OCULUS PRODUCTS.
+THE ABOVE EXCLUSION OF CERTAIN DAMAGES AND THE ABOVE LIMITATION OF LIABILITY WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+THE LAWS OF SOME STATES OR JURISDICTIONS PERMIT THE EXCLUSION OR EXCLUSION.
+THIS DOES NOT LIMIT CERTAIN DAMAGES.
+THEREFORE, SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THESE TERMS OF USE, NOTHING IN THESE TERMS OF USE WILL EXCLUDE OR LIMIT OUR LIABILITY FOR FRAUD OR FOR DEATH OR PERSONAL INJURY RESULTING FROM OUR NEGLIGENCE, AND NOTHING IN THESE TERMS OF USE IS INTENDED TO EXCLUDE YOUR LIABILITY AFFECTING LEGAL RIGHTS.
+19. Dispute Resolution
+PLEASE READ THE FOLLOWING SECTION CAREFULLY AS IT REQUIRES YOU TO CONSENT TO BINDING ARBITRATION (WAIVER OF JURY TRIAL) FOR ALL DISPUTES WITH FACEBOOK (EXCLUDING CERTAIN INTELLECTUAL PROPERTY AND SMALL CLAIMS). ) SUBJECT.
+IT ALSO LIMITS THE WAY YOU CAN SEEK REMEDIES AGAINST FACEBOOK (NOT CLASS ARBITRATIONS, CLASS ACTIONS, OR
+ACTION OR ARBITRATION BY REPRESENTATIVE).
+19.1 Binding Arbitration; disputes; Petty claims.
+You agree with Facebook to waive your right to a trial by jury or to resolve disputes in any court in favor of the use of binding arbitration (where a dispute is referred to one or more impartial persons for final and binding determination). (en) referred) to accept; provided, however, that you have the right to litigate disputes in small claims court if all requirements of small claims court are met, including limitations on jurisdiction and the amount in dispute.
+You agree to bring a Dispute only in small claims court located in San Mateo County, California (if you are a U.S. resident) or your country of residence. “
+Dispute” as used in this Section 19 means any dispute, cause of action, claim or controversy arising in any way through Facebook in connection with these Terms of Use, the subject matter of these Terms of Use, or access to and use of the Oculus products or related to them; these include, among other things: including contract, personal injury, tort, warranty, rule, regulation or other legal or equivalent disputes and disputes involving third parties (e.g. third party content developers); excludes any dispute, cause of action, claim or controversy relating to Facebook's intellectual property (such as trademarks, trade dress, domain names, trade secrets, copyrights and/or patents).
+You and Facebook authorize the arbitrator to have exclusive authority to resolve any dispute relating to the interpretation, validity or enforceability of these Terms or the formation of this Agreement, including the arbitrability of any dispute and any claim that all or any part of these Terms is void /are/is ineffective or contestable.
+19.2 No Class Arbitrations, Class Actions or Representative Actions.
+You and Facebook agree that any Dispute is personal to you and Facebook and that any Dispute will be resolved only through individual arbitration and will not be brought as a class arbitration, class action lawsuit, or any other representative proceeding.
+Neither party will consent to class arbitration or to an arbitration in which one person brings a Dispute as a representative of another person or persons.
+Neither you nor Facebook agree that any Dispute may be brought as a class or representative action, whether in or outside of arbitration, or on behalf of any other person(s).
+19.3 Federal Arbitration Act.
+You and Facebook agree that these Terms of Use affect interstate commerce and that the enforceability of Section 19, both substantively and procedurally, shall be limited to the fullest extent permitted by law under the Federal Arbitration Act, 9 U.S.C. § 1 ff (“FAA”) must be regulated, interpreted and enforced.
+19.4 Confidentiality.
+The arbitrator, Facebook and you will maintain the confidentiality of any proceedings; this includes, but is not limited to, any information collected, prepared and submitted for the purposes of the arbitration or related to the dispute(s) in question.
+The arbitrator shall have the authority to make reasonable decisions to ensure such confidentiality unless otherwise provided by law.
+19.5 Process.
+Our goal is to settle claims fairly and quickly.
+Accordingly, you agree that for any dispute you have with respect to Facebook, you will first contact Facebook and attempt to resolve the claim informally by sending written notice of your claim (“Notice”) to Facebook.
+The notice to Facebook must be sent by certified mail to the following address: General Counsel, Oculus, 1601 Willow Road, Menlo Park, CA 94025. The notice must include (a) your name, home address and email address and/or your Include mobile phone number associated with your Oculus account; (b) describe the nature and basis of the claim; and (c) set forth the specific relief sought.
+If you do not reach an agreement with Facebook to resolve your claim within 30 days of receiving such notice, either party may commence an arbitration proceeding under this Section 19 or file a claim in court.
+You and Facebook agree that any Dispute must have been commenced or commenced within one year after such claim arose; otherwise the dispute is permanently barred.
+If you and Facebook are unable to resolve a Dispute and you do not pursue your claims in small claims court, you or Facebook shall promptly submit the Dispute to binding arbitration at the office of the American Arbitration Association (“AAA”).
+If the AAA declines or is unable to conduct arbitration, you agree and consent to Facebook using an arbitrator or arbitrator mutually agreed upon by you and Facebook.
+If, after reasonable efforts, you are unable to agree to an arbitration tribunal or arbitrator with Facebook, the AAA or a court of competent jurisdiction shall appoint an arbitration tribunal or arbitrator.
+The arbitration will be conducted under the AAA Consumer Arbitration Rules (“AAA Rules”) then in effect.
+The AAA Rules and other information about the AAA and arbitration procedures are available at http://www.adr.org or by calling 1-800-778-7879 or by mail at 120 Broadway, Floor 21, New York, NY 10271 can be requested.
+By entering into these Terms of Use, you either (1) acknowledge that you have read and understand the AAA Rules, or (2) you waive any right to read the AAA Rules and any objection that the AAA Rules are in any way unreasonable .
+You and Facebook agree that these Terms of Use govern the arbitration and that the applicable AAA Rules are subject to procedural changes that the AAA may make from time to time.
+As limited by the FAA, these Terms of Use and the applicable AAA Rules, the arbitrator will have exclusive authority and jurisdiction to make all procedural and substantive decisions relating to the dispute; provided, however, that such authority shall not include the authority to conduct a class arbitration or representative action not permitted under these Terms of Use (as provided above).
+The arbitrator may conduct only an individual arbitration and may not consolidate the claims of more than one person or preside over any form of representative or class proceeding or any proceeding on behalf of or involving more than one person.
+Facebook shall pay all arbitration, AAA, and arbitrator fees and costs unless the arbitrator determines that the arbitration was vexatious or instituted for an improper purpose.
+If the arbitrator awards you an amount of compensation that is greater than our last written settlement offer that we made before the arbitrator was selected (or if we did not make a settlement offer before the arbitrator was selected), then we will pay you the amount of the compensation or pay $5,000, whichever is greater.
+We will also pay your attorney, if any, the amount of attorney's fees incurred, and reimburse you for any expenses (including expert witnesses' fees and costs) reasonably incurred by you or your attorney in investigating, preparing, and pursuing your claim in arbitration.
+We waive any right to seek damages for attorneys' fees and expenses in connection with any non-discriminatory arbitration between you and us.
+19.6 Right to Opt Out.
+You may opt out of this arbitration agreement.
+If you do this, neither you nor Facebook will be able to require the other to participate in arbitration.
+To opt-out, you must notify us in writing within 30 days of the date you first became subject to this arbitration provision, including your name and home address, as well as your Oculus Account (if you have one). Please provide the email address used and a clear statement that you wish to opt out of this arbitration agreement.
+Requests to object should be sent to: General Counsel, Oculus, 1601 Willow Rd.,
+Menlo Park, CA 94025.
+If a court or arbitrator decides that limitations in this Section cannot be enforced with respect to a particular claim or request for relief (such as a public injunctive relief), then such claim or request shall be (and only this claim or request) to be severed from the arbitration proceedings and heard in court.
+Unless you object, this dispute resolution provision in Section 19 will survive any termination of these Terms of Use.
+The courts in some jurisdictions may not allow you to agree to arbitration.
+If you are a resident of one of these countries, the laws of your country apply.
+20. Governing Law
+20.1 The laws of the State of California, without regard to its conflict of law provisions, shall govern your access to and use of the Oculus Products.
+Your access to or use of the Oculus Products may also be subject to other local, state, national or international laws.
+20.2 Except to the extent that Section 19 applies, you further agree that any dispute, cause of action, claim or controversy arising under these Terms of Use that cannot be resolved through informal negotiations shall be brought exclusively in the United States District Court for the Northern District District of California or a district court in San Mateo County.
+You further agree to submit to the personal jurisdiction of such courts for the purposes of litigating any such claims, to the fullest extent permitted by law.
+Courts in some jurisdictions may not apply California law to some types of disputes or may not allow you to consent to jurisdiction in California.
+If you are located in one of these countries, the laws of your country will apply to any such disputes relating to the Oculus Products.
+In particular, if you are a consumer and have your permanent residence in a Member State of the European Union, the laws of that Member State will govern any claim, cause of action or dispute between us arising out of or relating to these Terms of Use or the Oculus Products , and the claim, subject matter of action or dispute may be decided in any court in the country having jurisdiction over the claim.
+In all other cases, you acknowledge that the claim must be resolved as described in these Terms of Use.
+21. Changes to Oculus Products
+We reserve the right to modify, suspend, remove, terminate or disable access to the Oculus Products or any portion thereof at any time without notice.
+In no event will Facebook be liable for removing or disabling access to any part or feature of the Oculus Products.
+22. Termination/Termination
+We reserve the right to terminate your right to access or use the Oculus Products if you violate these Terms of Use or any other terms or policies set forth herein or otherwise create risk or legal distress caused us.
+23. Severability clause
+If any provision of these Terms of Use shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed independent of these Terms of Use and shall not affect the validity and enforceability of any remaining provisions.
+24. Assignment
+You may not assign these Terms of Use or any of the rights granted hereunder without Facebook's prior written consent.
+Any attempt at assignment without appropriate consent is invalid.
+Subject to the foregoing limitation, these Terms of Use will fully bind, inure to the benefit of, and be enforceable by us and our respective successors and assigns.
+25. No waiver of rights
+If Facebook fails to insist upon or enforce your performance of any provision of these Terms of Use or to exercise any right or remedy under these Terms of Use or by operation of law, such failure shall not constitute a waiver or relinquishment of the right to enforce the provision, of the right or remedy or reliance thereon in this or any other case.
+Rather, the provision, right or remedy is and remains in full force and effect.
+26. Contacting us
+If you have any questions or concerns about these Terms of Use or our Oculus products, please contact us via the support portal at https://support.oculus.com or by email at contact@oculus.com.
+27. Special Terms for Users Outside the United States
+Certain special terms and conditions that only apply to German users can be found at https://store.facebook.com/legal/quest/terms-applicable-to-germany/. Please read these terms and conditions carefully if you reside in Germany.
+If your company is based in the European Union or the United Kingdom and publishes content on the Oculus Platform that is offered to end users in the European Union or the United Kingdom, please see the Business Platform Notice, which supplements these Terms of Use. more about your business relationship with us.

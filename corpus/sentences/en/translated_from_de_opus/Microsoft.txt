@@ -1,0 +1,934 @@
+Release: April 1, 2021
+Effective date: June 15, 2021
+Print
+Press
+Microsoft-Servicevertrag
+These terms (“Terms”) apply to your use of the Microsoft consumer products, websites, and services listed here at the end of these Terms (#serviceslist) (the “Services”).
+With the opportunity to subscribe to, use or order the services, Microsoft makes you an offer.
+By creating a Microsoft account, using the Services, or continuing to use the Services after being notified of a change to the Terms, you agree to be bound by these Terms.
+Since Microsoft does not store a copy for you, you should read these terms, print them out and keep a copy for your records.
+If you are a micro-enterprise, small business or not-for-profit organisation, please see Section 15 about the waiver of rights that would otherwise apply to you under the European Electronic Communications Code.
+Protection of your data
+1. Protecting your data.
+Protecting your privacy is important to us.
+Please read the Microsoft Privacy Policy (https://go.microsoft.com/fwlink/?LinkId=521839) (the “Privacy Policy”) - this policy describes what types of information about you and your devices (“Data”) ), we collect information about how we use your data and on what legal basis we process your data.
+The privacy policy also describes how Microsoft uses your content, i.e. H. your communications with other people; the contributions you send to Microsoft through the Services; and the files, photos, documents, audio files, digital works, live streams and videos that you upload, store, transmit or share via the Services (“Your Content”).
+[To the top]
+Your content
+2. Your content.
+Many of our Services allow you to store or send your content or receive materials from others.
+We do not claim ownership of your content. Your content remains your content and you are responsible for it.
+a. If you share your Content with other people, you expressly agree that such persons have the right to use, store, record and reproduce your Content, free of charge and worldwide, for the purpose for which you made it available via the Services , send, transmit, share, display and distribute.
+If you do not want to give others this opportunity, do not share your Content through the Services.
+For the duration of these Terms, you represent and warrant that you own (and will have) all necessary rights to your Content uploaded, stored or shared with others on or through the Services, and that the collection, use and retention of your Content using the Services does not violate any laws or the rights of others.
+We strongly recommend that you back up your content regularly.
+Microsoft cannot be held responsible for your content or the materials that others upload, store or share using our Services.
+b. As necessary to provide the Services to you and others (for example, by changing the size, shape, or format of your content for better storage or display), to protect you and the Services, and to protect Microsoft's products and services To improve your content, you grant Microsoft a worldwide, royalty-free intellectual property license to use your content, e.g. B. to make copies of your Content or to store, transmit, reformat, distribute using communication tools and display your Content via the Services.
+If you post your Content to areas of a Service where it is made available publicly or without restrictions online, your Content may appear in demos or materials promoting the Service.
+Some of the Services are supported by advertising.
+For information about Microsoft advertising personalization, visit https://choice.live.com.
+We do not use what you say in emails, chats, video calls or voicemails, or your documents, photos or other personal files to target advertising to you.
+Our advertising policies are covered in detail in the Privacy Policy.
+[To top of page] Top of page
+behaviour rules
+3. Rules of conduct.
+a. Content, materials or actions that violate these Terms are not permitted.
+By agreeing to these Terms, you agree to abide by these rules:
+i. Do not take any unlawful actions.
+ii.
+Refrain from any action that exploits, harms or threatens to harm children.
+iii.
+Do not send spam or engage in phishing.
+Spam is unwanted or unsolicited mass emails, posts, contact requests, SMS (text messages), instant messages or similar electronic messaging.
+Phishing is the act of sending email or other electronic messages to fraudulently or unlawfully induce recipients to disclose personal or sensitive information, such as passwords, dates of birth, social security numbers, ID numbers, credit card information, financial information or other sensitive information, or to gain access to accounts or to obtain records, documents or other confidential information and payment transactions and/or to gain financial gain.
+iv.
+Do not post or share through the Services any inappropriate content or other material (e.g. containing nudity, brutality, pornography, offensive language, violence or criminal acts).
+v. Do not engage in any activity that is fraudulent, false, or misleading (e.g., soliciting money under false pretenses, impersonating someone else, manipulating the Services to increase play counts, or influence rankings, ratings, or comments).
+vi.
+Do not knowingly circumvent any limitations on access to or availability of the Services.
+vii.
+Do not engage in any actions that may harm you, the Service, or others (such as transmitting viruses, harassing others, posting terrorist or violent extremist content, hate speech, or calls for violence against others).
+viii.
+Do not violate the rights of others (e.g., by unauthorized distribution or sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps or photos).
+ix.
+Refrain from actions that violate the privacy of others.
+x. Do not assist anyone who violates these rules.
+b. Enforcement.
+We reserve the right to refuse to provide any of Your Content if it exceeds the storage or file size limits permitted by the Service.
+If you breach any obligation under clause 3.a above or otherwise materially breach these Terms, we may take action against you; This includes that we may stop providing the Services or terminate your Microsoft account without notice for cause or block delivery of any communication (such as email, file sharing, or instant message) to or from the Services.
+We also reserve the right to block or remove your Content from the Service at any time if we become aware that the Content may violate applicable law or these Terms.
+Microsoft reserves the right to review your Content as necessary to investigate suspected violations of these Terms.
+However, we do not monitor or attempt to monitor the Services.
+c. Applies to Xbox services.
+Click here (https://go.microsoft.com/fwlink/?linkid=868531) to learn about how Microsoft implements these Codes of Conduct with respect to games, applications, services and content provided by Microsoft for the Xbox Online Service, for Xbox Game Pass, Games for Windows Live and Xbox Games Studios.
+Violation of the Xbox Services Rules of Conduct (defined in Section 13.a.i) may result in temporary or permanent exclusion from participation in Xbox Services, including forfeiture of content licenses, Xbox Gold membership time and Microsoft account balances, that are associated with the account.
+[To top of page] Top of page
+Use of Services and Support
+4. Use of the Services and Support.
+a. Microsoft-Konto.
+A Microsoft account is required to use many of the services.
+You can use your Microsoft account to sign in to products, websites, and services provided by Microsoft and some Microsoft partners.
+i. Creating an account.
+You can create a Microsoft account by registering online.
+You agree not to provide any false, inaccurate, or misleading information when signing up for your Microsoft account.
+In some cases, a third party, such as your Internet service provider, may have assigned you a Microsoft account.
+If your Microsoft account was assigned to you by a third party, that third party may have additional rights related to your account, such as the ability to delete or access your Microsoft account.
+Please review any additional terms provided to you by the third party, as Microsoft has no responsibility with respect to such additional terms.
+If you have a Microsoft account on behalf of a legal entity, such as You represent and warrant that you have the legal authority to bind that entity to these Terms.
+You cannot transfer your Microsoft account credentials to another user or legal entity.
+To protect your account, you must keep your account details and password confidential.
+You are responsible for all activities related to your Microsoft account.
+ii.
+Using the Account.
+You must use your Microsoft account to keep it active.
+This means that you must sign in at least once every two years to keep your Microsoft account and related services activated, as specified in the Microsoft Account Activity Policy at https://go.microsoft.com/fwlink/p/?linkid= 2086738 or an offer for a paid area of ​​the Services does not provide for a longer period of time or unless otherwise provided by law.
+If you don't sign in within this time, we'll assume your Microsoft account is inactive and will close it for you.
+Please see Section 4.a.iv.2 for information on how the closure of a Microsoft account affects you. You must sign in to your Outlook.com inbox and OneDrive at least once a year (separately).
+Otherwise, we will close your Outlook.com inbox and OneDrive.
+You must sign in to Xbox services at least once in a five-year period to keep the Gamertag associated with your Microsoft account.
+If we reasonably suspect that your Microsoft account is at risk of fraudulent use by a third party (for example, as a result of account compromise), Microsoft may suspend your account until you can claim ownership.
+Depending on the nature of the compromise, we may need to block access to some or all of your content.
+If you have problems accessing your Microsoft account, go to this website (https://go.microsoft.com/fwlink/?LinkId=238656).
+iii.
+Minors and Accounts.
+By creating a Microsoft account or using the Services, you accept these Terms and agree to comply with them.
+You represent that you are either of legal age in the jurisdiction in which you reside or have the consent of a parent or legal guardian to agree to these Terms on your behalf.
+If you do not know whether you are of legal age in your country of residence or do not understand this section, please do not create a Microsoft account until you ask a parent or guardian for help.
+If you are the parent or guardian of a minor, you accept these Terms as binding upon yourself and the minor and are responsible for supervising the minor's use of the Microsoft Account or Services, including purchases.
+This applies regardless of whether the minor's account has already been opened or will be created at a later date.
+iv.
+Closing your account.
+1. In addition to any termination rights under the “Refund Policy” (Section 9.g below), you have the right to terminate certain Services or close your Microsoft account at any time for any reason.
+To close your Microsoft account, go to https://go.microsoft.com/fwlink/p/?linkid=618278.
+If you ask us to close your Microsoft account, you can choose to suspend it for 30 days or 60 days if you change your mind.
+After this 30 or 60 day period, your Microsoft account will be closed.
+Section 4.a.iv.2 below explains what happens if your Microsoft account is closed. Signing in again during suspension will reactivate your Microsoft account.
+2. If your Microsoft account is closed (by you or us), the following effects will occur: First, your right to use the Microsoft account to access the Services will cease immediately.
+Second, we will delete or otherwise separate data or content associated with your Microsoft account from you and your Microsoft account (unless we are required by law to retain, return, or transmit it to you or a third party you designate).
+You may then no longer be able to access the Services (or your content that you have stored on those Services) that require a Microsoft account.
+You should therefore back up your data regularly.
+Third, you may lose access to products you have purchased.
+b. Work or school accounts.
+Certain Microsoft services let you sign in with a work or school email address.
+If you do so, you agree that the owner of the domain associated with your email address may be notified of the existence of your Microsoft account and associated subscriptions, control and manage your account, and access to your data, including Content Your communications and files may be accessed and processed, and Microsoft may notify the domain owner if the account or data is compromised.
+You further acknowledge that your use of the Microsoft Services may be subject to agreements that Microsoft has with you or your organization, and these Terms do not apply.
+If you already have a Microsoft account and you access the Services covered by these Terms using a separate work or school email address, you may be asked to change the email address associated with your Microsoft account update to continue accessing the services.
+c. Additional Equipment/Data Plans.
+The prerequisite for using many services is an internet connection and/or a data tariff/mobile phone contract.
+You may also need additional equipment such as a headset, camera, or microphone.
+You are responsible for connections, tariffs, contracts and/or equipment required to use the Services, including fees and charges charged by their providers.
+These fees are in addition to the fees we charge for the Services.
+We will not reimburse you for such fees.
+Find out from the respective provider whether and how much you will be charged.
+d. Service notifications.
+In the case of important notices about a service you use, we will send you service notifications and information that we are required by law to provide.
+If you have provided us with your email address or phone number in connection with your Microsoft account, we may send you service notifications via email or SMS (text message), including to verify your identity before registering your mobile phone number and to confirm your purchases.
+We may also provide you with service notifications through other means (e.g. in the form of in-product messages).
+Data or message charges may apply when receiving notifications via SMS.
+We recommend that you monitor and maintain the email address you provide.
+If you do not agree to receive notices electronically, you must stop using the Services.
+e. Support.
+For some services, customer support is available at https://support.microsoft.com.
+Certain Services may provide separate or additional customer support, subject to the terms described at https://www.microsoft.com/support-service-agreement, unless otherwise stated.
+Support may not be available for preview or beta versions of features or services.
+If you are a European resident, you also have the opportunity to resolve a disputed matter via the EU online dispute resolution portal (https://ec.europa.eu/consumers/odr).
+Please use the address MSODR@microsoft.com only for reference in the complaint form and for no other purpose.
+f. Termination of your Services.
+First, if your Services are terminated (either by you or us), your right to access the Services will immediately terminate, as will your license to use the software associated with the Services.
+Second, we will delete or otherwise separate data or content associated with your Service from you and your Microsoft account (unless we are required by law to retain, return, or transmit it to you or a third party you designate).
+You may then no longer be able to access the Services (or your content stored on those Services).
+You should therefore back up your data regularly.
+Third, you may lose access to products you have purchased.
+If you have canceled your Microsoft account and do not have another account through which you can access the Services, your Services may be deleted immediately.
+[To top of page] Top of page
+Use of Third Party Apps and Services
+5. Using third-party apps and services.
+The Services may enable you to access products, services, websites, links, content, materials, games, features, integrations, bots or applications from independent third parties (companies or individuals other than Microsoft) (“Third-Party Apps and Services”) or to purchase such.
+Many of our Services also help you find, perform requests on, or interact with third-party apps and services, or enable you to share your content or data.
+You understand that by using our Services, you are directing them to provide you with third party apps and services.
+The third-party apps and services sometimes allow you to store your content or data with the publisher, provider or operator of the third-party apps and services.
+Third party apps and services may display privacy policies to you or require you to agree to their additional terms before you can install or use that third party's app or service.
+Section 13.b contains additional terms for applications purchased through certain stores owned or operated by Microsoft or its affiliates (such as Office Store, Microsoft Store on Xbox and Microsoft Store on Windows).
+You should read these terms and third-party privacy policies before purchasing, using, requesting, or linking your Microsoft account to third-party apps and services.
+The provisions of third parties remain unaffected by any additional provisions.
+Microsoft does not license any intellectual property rights to you in connection with third-party apps and services.
+You agree that you assume all risk and responsibility arising from your use of third-party apps and services, and Microsoft will not be responsible or liable to you or others for any information or services provided by third-party apps and services.
+[To top of page] Top of page
+Service availability
+6. Service Availability.
+a. The Services, third party apps and services, or materials or products offered through the Services may be unavailable from time to time, may be offered for a limited time only, or may vary by region or device or by external factors such as your internet - or network connection.
+If you change the location associated with your Microsoft account, you may need to repurchase the products that were available to you and paid for in the previous region.
+b. We strive to keep the services running.
+However, they are not offered with a guaranteed quality of service and all online services suffer from occasional disruptions and failures.
+In the event of an outage or interruption of the Service, you may be temporarily unable to access your Content.
+It is recommended that you regularly back up the content and data that you store on the Services or while using third-party apps and services.
+[To top of page] Top of page
+Updates to the Services or Software and changes to these Terms
+7. Updates to the Services or Software and changes to these Terms.
+a. We will inform you if we intend to change these provisions.
+We may change these Terms (i) if required to do so by applicable law, e.g. B. this law has changed, (ii) if applicable law advises or requires this, (iii) in the course of further development of the Services, (iv) for technical reasons, (v) due to operational requirements or (vi) in the event of a change in the provisions to the benefit of the user.
+We will notify you of the proposed change before it takes effect, through the user interface, in an email message or by another appropriate means.
+We will provide you with the opportunity to cancel the Services at least 30 days before the change takes effect.
+If you use the Services after the effective date of the changes, you agree to the new terms.
+If you do not agree to the new Terms, you must stop using the Services and close your Microsoft Account in accordance with Section 4.a.iv.
+We will expressly point this out again in the notification of the intended change to these provisions.
+b. We are entitled to automatically check your software version - this is necessary to provide the services, so that you can download free software updates or configuration changes, and to update, expand and further develop the services.
+You may be required to update the Software in order to continue using the Services.
+Such updates will be subject to these Terms unless additional or different terms accompany the updates.
+In this case, these other provisions apply.
+You may not receive or use the Updates if you do not agree to the additional or other terms and conditions applicable to the Updates.
+Microsoft has no obligation to provide updates and does not warrant that we will support the version of the system for which you purchased or licensed the software, apps, content or other products.
+c. We are continually working to improve the Services and therefore reserve the right to change the Services, delete features or discontinue access to third-party apps and services at any time.
+This is especially true if our contracts with third parties no longer allow us to provide their material, if it no longer makes sense for us to do so, if technology evolves, or if customer feedback indicates that a change is necessary.
+We will inform you in advance if a change to the Services will result in you no longer having access to your Content.
+For paid Services, we will also notify you in advance of other material changes to the Services.
+Except to the extent provided by applicable law, we have no obligation to make available for re-download or exchange any previously purchased Materials, Digital Goods (defined in Section 13.k) or Applications.
+If we cancel a paid service, we will refund you pro rata the amount of your payments made in respect of the unpaid portion of the service in question at the time of cancellation.
+d. To enable you to use material protected by Digital Rights Management (DRM), such as certain music, games, movies, books, etc., the DRM software can automatically connect to an online rights server and download and install DRM updates.
+[To top of page] Top of page
+Software license
+8. Software License.
+If a separate Microsoft license agreement does not apply (as is the case, for example, if you use a Microsoft application that is included with and part of Windows and is subject to Microsoft's software license terms for the Windows operating system) , the software we provide to you as part of the Services is subject to these Terms.
+For applications purchased through certain stores owned or operated by Microsoft or its affiliates (such as Office Store, Microsoft Store on Windows and Microsoft Store on Xbox), Section 13.b.i below applies.
+a. If you comply with these Terms, we grant you the right to install and use one copy of the Software per device worldwide for use by only one person at a time as part of your use of the Services.
+Such software may be pre-installed on certain devices for your personal, non-commercial use of the Services.
+The software or website that is part of the Services may contain third-party code.
+Any third-party code linked or referenced by this software or website is licensed to you by the third party that owns the code, not Microsoft.
+Notes on third-party code, if any, are for your information only.
+b. The Software is licensed, not sold, and Microsoft reserves all rights in and to the Software not expressly granted by Microsoft in these Terms.
+The following rights are not granted by this license and any actions thereof are unlawful:
+i. Circumvent or circumvent any technological protection measures contained in or associated with the Software or Services
+ii.
+Disassemble, decompile, decipher, hack, emulate, exploit or reverse engineer any software or other aspect of the Services included in or available through the Services, unless and only to the extent expressly permitted by applicable copyright laws
+iii.
+Separate the components of the Software or Services from each other for use on other devices
+iv.
+Publish, copy, rent, lease, sell, export, import, distribute or loan the Software or Services unless Microsoft expressly authorizes you to do so
+v. Transferring the software, software licenses or rights to access or use the services
+vi.
+Use the Services in any unauthorized manner that could interfere with any other person's use of the Services or access to services, data, accounts or networks
+vii.
+Allowing unauthorized third-party applications to access the Services or modify a Microsoft authorized device (e.g. Xbox consoles, Microsoft Surface, etc.).
+[To top of page] Top of page
+Payment Terms
+9. Payment Terms.
+When you purchase a Service, these Payment Terms apply and you agree to these Payment Terms.
+a. Fees.
+If a fee is charged for any part of the Services, you agree to pay the fee.
+The price quoted for the Services includes all applicable taxes unless otherwise stated.
+You are solely responsible for paying any such taxes or other fees.
+Taxes are calculated based on the location at the time you register your Microsoft account unless otherwise noted.
+After notifying you that we have not received a payment on time or in full, we may suspend or terminate the Services if you do not pay the full amount within the set deadline.
+Suspension or termination of Services due to non-payment may result in you losing access to your account and its contents.
+If you connect to the Internet through a corporate network or other private network that masks your location, you may incur different charges than the charges shown at your actual location.
+Depending on your location, some transactions may require foreign currency conversion or be processed in another country.
+Your bank may charge additional fees for these services if you use a debit or credit card.
+Please check with your bank.
+b. Your billing account.
+To pay the fees for a Service, you will be asked to provide a payment method when you register for the Service.
+For all services other than Skype, you can view and change billing information and payment method on the Microsoft account management website (https://go.microsoft.com/fwlink/p/?linkid=618281), and for software and products from For Skype, please log in to your account portal at https://skype.com/go/myaccount.
+You agree that Microsoft may use updated account information provided by your issuing bank or payment system, if applicable.
+You agree to promptly update your account and other information, including email address and payment method information, so that we can process your transactions and contact you as needed about your transactions.
+If you ask us to stop using your payment method and do not provide us with another payment method within a reasonable period of time upon our request, we are entitled to block or terminate your paid service for good cause.
+A change to your billing account will not affect any charges we make to your existing billing account before we have a reasonable opportunity to respond to that change.
+c. Invoice.
+By offering a payment method to Microsoft, you (i) represent that you are authorized to use the payment method you offer and that all payment information you provide is true and accurate, (ii) you authorize Microsoft to charge you the fees for to bill for the Services or Available Content using the payment method you specify, and (iii) you authorize Microsoft to charge you for all paid features of the Services for which you have registered or that you use, for as long as these provisions are valid.
+As described, we may bill you for Subscription Services (a) in advance, (b) at the time of purchase, (c) shortly after purchase, or (d) on a recurring basis.
+We may charge you a maximum of the amount that you have authorized, we will notify you in advance of any changes to the amount we charge for subscription services that renew automatically, and if there is a price change we will give you an opportunity to cancel the Services cancel before the price changes.
+We may bill you simultaneously for amounts for multiple prior billing periods that have not yet been processed.
+d. Regular payments.
+If you purchase the Services on a subscription basis (e.g. monthly, tri-monthly, or annually), you agree to make periodic payments to Microsoft using your chosen payment method at such intervals until the subscription to the Service is terminated by you or Microsoft is terminated.
+You must cancel your Services before your next billing date to avoid being charged any further fees for continued use of the Services.
+We will provide you with instructions on how to cancel the Services.
+By authorizing recurring payments, you authorize Microsoft to store your payment method and to process those payments as electronic debits or transfers or electronic collections from your designated account (if payment is processed through automated clearinghouses or similar) or as debits to your designated account (if payment is made via credit card or similar) (collectively referred to as “Electronic Payments”).
+Subscription fees are generally invoiced or charged in advance for the applicable subscription period.
+If a payment is returned unpaid or a credit card or similar transaction is declined or denied, Microsoft or its service providers reserve the right to collect any applicable chargeback, rejection or insufficient funds fees and to process such payment as an Electronic Payment.
+e. Online account statement and errors.
+For all services except Skype, Microsoft will provide you with an online statement for your billing account that you can view and print on the Microsoft Account Management website (https://go.microsoft.com/fwlink/p/?linkid=618284). .
+You can obtain online statements from Skype by logging into your account at www.skype.com (https://www.skype.com).
+This is the only invoice receipt you will receive from us.
+The availability of a VAT invoice depends on the respective service and country.
+If your invoice contains an error, we will check it upon notification (or discover it ourselves) and correct it immediately.
+We recommend that you report any apparent error in your billing to us within 120 days, as it will be easier for us to make corrections within this time frame.
+In this context, you can also contact customer service at any time as described in section 4.e.
+f. Refund Policy.
+You can cancel – with or without reason – within a cancellation period (“cooling off period”) of 14 (fourteen) days from the date of purchase.
+If the Service was partially provided at the time of termination, you will receive a prorated refund.
+The cancellation period ends as soon as the service has been fully provided to you; thereafter the purchase cannot be refunded to you.
+If you purchase digital content from us, you forfeit your right to withdraw as soon as you start the download process.
+Unless otherwise provided by law or a specific service offering, all purchases are final and non-refundable.
+For all services other than Skype, if you are eligible for a refund, you can find information and instructions on how to cancel a service and request a refund using our cancellation form on the Microsoft Account Management website (https://go.microsoft .com/fwlink/p/?linkid=618284).
+In the case of Skype, the information provided here (https://go.microsoft.com/fwlink/p/?linkid=618286) applies to filling out the cancellation form.
+If you believe that Microsoft has billed you in error, you must contact Microsoft and we will review the bill.
+If we provide a refund or credit, this does not obligate us to provide the same or similar refund in the future.
+This refund policy does not affect any rights under applicable law.
+For more information about refunds, see the Help topic (https://go.microsoft.com/fwlink/p/?linkid=618283).
+G. Termination of Services.
+You can cancel the Services by visiting your Microsoft account's services and subscriptions management page (https://account.microsoft.com/) or by contacting customer service as described in Section 4.e above.
+By canceling the Paid Services, you will not be charged any additional fees for continued use of the Services.
+Before doing so, please carefully review the offer describing the Services as (i) you may not receive a refund at the time of termination, (ii) you may be required to pay termination fees, (iii) you may be required to pay termination fees , to pay all charges charged to your billing account for the Services prior to the termination date, and (iv) you may lose access to your account if you terminate the Services.
+Your data will be processed as described in section 4 above.
+Upon termination, your Services will terminate at the end of the current service period or (if the Service is billed on a regular basis) at the end of the period in which you canceled.
+If you initiate a chargeback or reversal with your bank for payment of Services, you will be deemed to have canceled at the time of original payment and you authorize us to immediately cancel your Service and/or revoke Content provided to you in exchange for a such payment was provided.
+H. Trial period offers.
+If you participate in a trial period offer, you may be required to cancel the trial services within the time period notified to you when you accepted the offer to avoid being charged additional fees for the services at the end of the trial period.
+i. Promotional offers.
+From time to time, Microsoft may offer Services for a trial period during which Microsoft will not charge you for the Services.
+Microsoft reserves the right to charge you for these services (at regular rates) if you violate the terms of the offer.
+j. Price changes.
+If your service offering has a fixed term and price, that price will apply for that term.
+If you wish to continue using the Services thereafter, you will be required to agree to a new offer and price.
+If your Services are provided on a periodic basis rather than for a specific period of time (e.g. monthly) and are not a trial offer, we may change the price of the Services in accordance with the increased cost of providing the Services as we add new or improved Service features, or in response to market changes (for example, due to labor costs, currency fluctuations, changes in taxes/regulations, inflation, royalties, or infrastructure and administrative costs).
+We will inform you at least 30 days before the price change takes effect.
+You will be given the opportunity to cancel the Services in accordance with Section 9.h above before the price changes.
+When we notify you of a price change, we will also inform you of the reasons for the price change and its extent, and that the new price will be effective unless you cancel the Services.
+We also remind you how to cancel the Services.
+k. Payments to you.
+In the event that we owe you a payment, you agree to provide us, in a timely and clear manner, with all the information we require to make the payment to you.
+You are responsible for all taxes and fees you may incur as a result of the payment.
+In addition, you must comply with any other terms and conditions we establish regarding your right to receive payments.
+If you receive a payment in error, we may reverse the payment or request a refund of the payment.
+You agree to cooperate with us in our efforts to do so.
+In addition, we may reduce the payment to you without notice to make up for a previous overpayment.
+l. Late payment.
+In the event of late payment, you must pay the reasonable costs we incur in collecting any overdue amounts, including attorneys' fees or other legal costs, to the extent permitted by applicable laws and regulations.
+We may suspend or terminate your Services if you do not pay any amounts in full and on time after receiving a reminder from us - threatening suspension and/or termination of the Services - requiring you to pay within within a reasonable period of time.
+You can avoid suspension or termination if you make the required payment within the reasonable time period specified in the reminder.
+If the missing amount is only minor, a different procedure applies.
+Missing amounts of less than 2 percent of the total invoice value are always considered minor.
+Suspension or termination of services due to non-payment may result in loss of access to your Microsoft account.
+m. Gift cards.
+Redemption and use of gift cards (excluding Skype Gift Cards) are governed by the Microsoft Gift Card Terms (https://support.microsoft.com/help/10562/microsoft-account-gift-card-terms-and- conditions).
+For information about Skype Gift Cards, see the Skype Help page (https://go.microsoft.com/fwlink/?LinkId=615383).
+n. Payment processing via bank account.
+You can specify an appropriate bank account as your payment method in your Microsoft account.
+Eligible bank accounts are accounts held at a financial institution that can receive direct debits (e.g. a financial institution in the USA that supports the ACH (“Automated Clearing House”) process, a financial institution in Europe that supports SEPA ( “Single Euro Payment Area”) direct debit or, in the Netherlands, “iDEAL” transfers).
+The terms and conditions that you accept also apply when you add your bank account (in the case of SEPA, for example, the “SEPA mandate”) as a payment method to your Microsoft account.
+You represent and warrant that the bank account you provide is in your name and you are authorized to deposit and use this bank account as a payment method.
+By providing or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more direct debits from your bank account for the total amount of your purchase or subscription fee (in accordance with the terms of your subscription service) (and, if applicable, one or more credits to your bank account to correct errors, refund amounts, etc.) and you authorize the financial institution holding the account to make such debits and credits.
+You acknowledge that this authorization will remain in effect until you delete your bank account information from your Microsoft account.
+If you suspect that an incorrect booking has occurred, please contact customer support immediately as described in Section 4.e.
+The laws of your country may limit your liability for fraudulent, erroneous or unauthorized transactions through your bank account.
+By registering or choosing a bank account as your payment method, you confirm that you have read, understood and accept these terms and conditions.
+[To top of page] Top of page
+Contracting company, choice of law and place of jurisdiction
+10. Contracting company, choice of law and place of jurisdiction.
+If you live in (or have your principal place of business in) the European Union, Iceland, Liechtenstein, Norway, Switzerland or the United Kingdom and use free or paid services, Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown , Dublin 18, Ireland (registered with the Companies Registration Office in Ireland under number 256796 and VAT number IE 8256796 U and address 70 Sir John Rogerson's Quay, Dublin 2, Ireland) the contracting company.
+The laws of Ireland apply to all claims relating to free and paid services.
+This is without prejudice to your rights under the consumer protection laws of the country in which we provide the services to you and in which you have your habitual residence (or, if you are a company, your main place of business).
+You and Microsoft agree that the courts in the country in which we provide the Services to you and in which you have your habitual residence (or, if you are a business, your principal place of business) have jurisdiction over any dispute arising out of or in connection with these Terms .
+Alternatively, you can choose the relevant court in Ireland.
+[To top of page] Top of page
+Warranties
+11. Warranties.
+As a consumer, you have certain legal rights.
+These rights require, among other things, Microsoft to provide the Services with reasonable care and skill.
+Nothing contained in these Terms shall limit or exclude our liability for any breach by Microsoft of this obligation.
+EXCEPT IN CASES WHERE DEFECTS MAY BE MADE INTENTIONALLY OR THE USE OF THE SERVICES IS IMPOSSIBLE DUE TO DEFECTS, AND EXCEPT FOR PAID SKYPE PRODUCTS, ALL SERVICES ARE PROVIDED “AS IS”, “WITHOUT WARRANTY OF FREEDOM FROM ERROR” AND “AS AVAILABLE”.
+WE DO NOT GUARANTEE THE ACCURACY OR TIMELINESS OF THE SERVICES.
+YOU ACKNOWLEDGE AND AGREE THAT COMPUTERS AND TELECOMMUNICATIONS SYSTEMS ARE NOT ERROR-FREE AND THAT FAILURES MAY OCCASIONALLY OCCUR.
+WE CANNOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.
+WE AND OUR AFFILIATES, TRADE PARTNERS, DISTRIBUTORS AND SUPPLIERS MAKE NO CONTRACTUAL WARRANTIES OR REPRESENTATIONS.
+YOU HAVE ALL WARRANTIES IMPLIED BY APPLICABLE LAW, BUT WE MAKE NO OTHER WARRANTIES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND NON-INFRINGEMENT.
+[To top of page] Top of page
+Limitation of Liability
+12. Limitation of Liability.
+a. Microsoft is not responsible for your Content, your Materials or any third party materials, including links to third party websites and activities provided by users.
+This content and activity is not attributable to Microsoft and does not represent the views of Microsoft.
+b. Microsoft will only be liable if there is a breach of essential contractual obligations or statutory obligations under applicable law.
+c. Microsoft, its indirect representatives and/or legal representatives are not liable for indirect damages, including financial losses such as lost profits, unless Microsoft, its indirect representatives and/or its legal representatives have acted at least with gross negligence or willful misconduct.
+d. The limitation of liability does not affect any statutory strict liability of Microsoft, including statutory liability for breach of warranty.
+The same applies to the liability of Microsoft, its indirect representatives and/or its legal representatives in the event of any fraud or negligence resulting in bodily injury or death to any person.
+e. Microsoft will not be responsible or liable for any failure or delay in performance of its obligations under these Terms to the extent that such failure or delay is due to circumstances beyond Microsoft's reasonable control (e.g., labor disputes, acts of God, war, terrorism). acts, malicious damage to property, accidents or compliance with applicable law or an official order).
+Microsoft will make every effort to minimize the impact of such events and to fulfill its unaffected obligations.
+[To top of page] Top of page
+Service-Specific Provisions
+13. Service-Specific Provisions.
+The provisions before and after Section 13 apply generally to all services.
+This section contains service-specific provisions which apply in addition to the general provisions.
+If general and service-specific provisions conflict, the service-specific provisions will take precedence.
+[To top of page] Top of page
+Xbox
+a. Xbox.
+i. Personal, non-commercial use.
+The Xbox online service, Xbox Game Studios (https://www.xbox.com/xbox-game-studios) games (including Mojang Games), applications, subscriptions (e.g. Xbox Game Pass for PC, Xbox Game Pass for Console, Xbox Game Pass Ultimate), services (e.g. Xbox Live) and content provided by Microsoft (collectively, the “Xbox Services”) are for your personal and non-commercial use only.
+ii.
+Xbox Services.
+When you register for and receive Xbox Services, information about game play, activity, and usage of games and Xbox Services is tracked and shared with applicable third-party game developers so that Microsoft and the third-party game developers operate their games and deliver the Xbox Services can.
+If you link your Microsoft Xbox Services account to your non-Microsoft (“third-party”) service account or access a third-party service (i.e., a game, app, and service provider other than Microsoft) through your Xbox Services account. You agree that (a) Microsoft may share certain account information (such as Gamertag, Gamerscore, game status, game history, and friends list) with the third party as described in the Microsoft Privacy Policy and (b) if requested by you Xbox privacy settings allow the third party to have access to your content from in-game communications even if you are logged in to your third party account.
+Additionally, if your Xbox privacy settings allow, Microsoft may publish your name, gamertag, gamer picture, motto, avatar, game recordings, and games you have played in communications to people you allow to do so.
+iii.
+Your content.
+To build the Xbox Services community, you grant Microsoft, its affiliates and sublicensees the free, worldwide right to use your Content or your name, gamertag, gamer picture, motto, or avatar that you post to any Xbox Services to use, modify, reproduce, distribute, transmit, share and display in whole or in part, regardless of the material or data carrier and in any way.
+iv.
+Game manager.
+Some games may use game managers, ambassadors and hosts.
+Game masters and hosts are not authorized Microsoft spokespersons.
+Your views do not necessarily reflect those of Microsoft.
+v. Xbox use by minors.
+If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account and may receive reports about your use of the Xbox Services.
+vi.
+Game currency or virtual goods.
+The Xbox Services may include virtual in-game currency (such as gold, coins or points) that may be purchased by or on behalf of Microsoft using real monetary instruments if you are of legal age in your country of residence.
+The Xbox Services may also contain virtual digital items or goods that may be purchased by or on behalf of Microsoft using real monetary instruments or in-game currency.
+In-game currency and virtual goods can never be exchanged for real monetary instruments, goods or other items of monetary value from Microsoft or any other party.
+Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the Game Currency and Virtual Goods solely on the Xbox Services, you have no right or interest in such Game Currency or Virtual Goods in connection with one or more Xbox Games or apps that appear in or originate from the Xbox Services, or any other attributes associated with or stored in the use of the Xbox Services.
+Microsoft may change its offering of in-game currency or virtual goods from time to time.
+vii.
+Software updates.
+For a device capable of connecting to the Xbox Services, we may automatically check your version of the Xbox console software or Xbox app software and download software updates or configuration changes for the Xbox console or Xbox app, as well those that prevent you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripherals with an Xbox console.
+viii.
+Gamertag process.
+You must log in to Xbox Services at least once in a five-year period, otherwise you may lose access to the Gamertag associated with your account and the Gamertag may then be given to other users.
+ix.
+Cheating and manipulation software.
+We may automatically scan a device that is capable of connecting to the Xbox Services for unauthorized hardware or software that allows cheating and manipulation in violation of the rules of conduct in these Terms.
+We may download Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services or using unauthorized hardware or software that allows cheating or tampering.
+[To top of page] Top of page
+Store
+b. Store. „
+Store” refers to a service that provides you with the ability to search, download, purchase, rate and write a review of applications (the term “applications” includes games) and other digital content.
+These terms cover the use of certain stores owned or operated by Microsoft or its affiliates (including, without limitation, the Office Store, the Microsoft Store on Windows, and the Microsoft Store on Xbox). “
+“Office Store” means a store for Office products and apps for Office, Microsoft 365, SharePoint, Exchange, Access and Project (version 2013 or later) or any other concept under the Office Store brand. “
+“Microsoft Store on Windows” means a store owned and operated by Microsoft or its affiliates for Windows devices, such as smartphones, PCs and tablets, or any other Windows Store-branded concept that runs on Windows devices such as smartphones , PCs or tablets. “
+“Microsoft Store on Xbox” means a store owned and operated by Microsoft or its affiliates and made available on Xbox consoles, or any other Microsoft Store-branded concept made available on Xbox consoles becomes.
+i. License Terms.
+We indicate the publisher of each application available in the relevant store.
+Unless other license terms accompany the Application, the Standard Application License Terms ("SALT") at the end of these Terms constitute the agreement between you and Publisher governing the license terms for an Application you obtain from any Store (other than the Office Store). download, owned and operated by Microsoft or its affiliates.
+It should be clarified once again that these provisions apply to the use and provision of Microsoft services.
+However, Section 5 of these provisions also applies to any third-party apps and services purchased via the store.
+Applications downloaded from the Office Store are not subject to standard application licensing terms; Separate license terms apply to such applications.
+ii.
+Updates.
+Microsoft automatically checks for updates to your applications and downloads them automatically, even if you're not signed in to the corresponding store.
+You can change your Store or system settings if you prefer not to automatically update Store applications.
+However, certain Office Store applications hosted entirely or partially online may be updated at any time by the application developer and may not require your consent.
+iii.
+Ratings and Reviews.
+If you leave a rating or review for an application or other Digital Goods available in the Store, you may receive emails from Microsoft containing content from the publisher of the Application or Digital Goods.
+Such emails come from Microsoft; We do not share your email address with the publishers of the applications or digital goods you purchase through the Store.
+iv.
+Security warning.
+To avoid physical harm and discomfort or eye strain, you should take regular breaks when using games or other applications, especially if pain or fatigue occurs.
+If discomfort occurs, discontinue use.
+Possible symptoms include nausea, motion sickness, dizziness, disorientation, headache, fatigue, eye strain or dry eyes.
+Engaging with the applications can distract you and affect your surroundings.
+Be aware of tripping hazards, steps, low ceilings, and fragile or valuable items that could be damaged.
+A very small number of people may experience seizures when exposed to certain visual images, such as flashing lights or patterns that may appear in applications.
+Even people who have never had seizures in the past are at risk of an undetected predisposition that could cause such seizures.
+Symptoms include dizziness, blurred vision, twitching or shaking of the limbs, disorientation, confusion, loss of consciousness, or convulsions.
+Stop using the applications and seek medical attention immediately if you experience any of these symptoms, or seek medical attention before using the applications if you have ever experienced symptoms associated with seizures.
+Parents should supervise their children when using applications and watch for signs of symptoms.
+[To top of page] Top of page
+Microsoft Family-Features
+c. Microsoft Family-Features.
+Microsoft Family features, including Microsoft Family Safety, create trust and security for parents and children by enabling them to agree on rules of conduct, websites, apps, games, places and spending that are appropriate for their family.
+Parents can create a family and invite children or other parents to join the family at https://account.microsoft.com/family (or as described in the Windows device or Xbox console instructions).
+There are many features available to family members, so please pay close attention to the information displayed when creating or joining a family and when purchasing digital goods that you want the family to have access to.
+If you create or join a family, you agree to use the family for its intended purpose and not to unlawfully gain access to information about other people.
+[To top of page] Top of page
+Group messages
+d. Group messages.
+Various Microsoft services allow you to send voice messages or SMS messages (“Messages”) to other people and/or allow Microsoft and Microsoft-controlled affiliates to send such messages to you and to one or more other users on your behalf .
+IF YOU ORDER MICROSOFT AND AFFILIATES CONTROLLED BY MICROSOFT TO SEND SUCH MESSAGES TO YOU OR OTHERS, YOU REPRESENT AND WARRANT TO US THAT YOU AND ANY PERSON WE SEND MESSAGES ON YOUR BEHALF ARE REQUIRED TO RECEIVE SUCH MESSAGES AND ANY RELEVANT USAGE AGING CONSENT TO SMS FROM MICROSOFT AND AFFILIATES UNDER MICROSOFT'S CONTROL. “
+Administrative SMS messages are routine transactional messages from a specific Microsoft service, such as a “welcome message” or instructions on how to stop receiving messages.
+You or group members who no longer wish to receive such messages in the future may opt out of receiving further messages from Microsoft or from affiliates under Microsoft's control at any time as described in the instructions.
+You agree that if you no longer wish to receive such messages or no longer wish to participate in a group, you will follow the appropriate instructions provided by the applicable program or service.
+You agree that you will remove any group members who you believe no longer receive such messages or no longer wish to participate in the group.
+You also represent and warrant to us that any person to whom we send messages on your behalf understands that each group member is responsible for the cost of any message fees imposed by their mobile network operator, including any international message fees that may apply when messages are sent from USA numbers will be sent.
+[To top of page] Top of page
+Skype, Microsoft Teams and GroupMe
+e. Skype, Microsoft Teams and GroupMe.
+i. Emergency services.
+There are key differences between traditional mobile or landline phone services and Skype, Microsoft Teams and GroupMe.
+Microsoft has no obligation to provide access to emergency services for Skype, Microsoft Teams, and GroupMe (other than Skype to Phone, as described below) in accordance with any applicable local or national rules, regulations, or laws.
+Skype software and products are not designed to support or route emergency calls to hospitals, police, medical centers or any other agency that connects a user to emergency services personnel or public emergency call centers (“Emergency Services”).
+Only the Skype to Phone feature can support emergency calls, i.e. H. calling emergency services, in a very limited number of countries and only on certain versions or platforms of the Skype software.
+Details about the availability and configuration of this feature can be found here: https://www.skype.com/go/emergency.
+When making an emergency call via Skype to Phone, you will be required to provide information about your physical location so that emergency services can respond.
+Microsoft does not guarantee the dispatch of emergency calls.
+For more information about calling 112, the EU emergency number, visit www.skype.com/go/emergency.
+ii.
+Changes to paid Skype products.
+If we make changes to the Skype paid products that are detrimental to you, we will notify you at least thirty (30) days before the changes take effect and of your right to stop using the affected product before the changes take effect .
+If you do not stop using the Product before the changes become effective, you agree to the changes.
+We will specifically inform you of this fact when we notify you of this fact.
+iii.
+APIs oder Broadcasts.
+If you wish to use Skype in connection with a broadcast, you must comply with the “Broadcast Terms of Service” at https://www.skype.com/go/legal.broadcast.
+If you wish to use an application program interface (“API”) made available by Microsoft, you must comply with the applicable license terms available at www.skype.com/go/legal.
+iv.
+Fair Use Guidelines.
+Your use of Skype software and products may be subject to fair use policies.
+Please review these policies, which are designed to prevent fraud and abuse and may limit the type, duration or volume of calls or messages you may receive.
+These policies are incorporated by reference into these Terms.
+You can find these policies at https://www.skype.com/go/terms.fairusage.
+v. Mapping.
+Skype software and products include features that allow you to submit information to a mapping service or to add yourself to a map using a mapping service.
+Your use of these features constitutes your acceptance of these Terms and the Google Maps Terms of Service, available at https://www.google.com/intl/en_ALL/help/terms_maps.html.
+vi.
+Personal, non-commercial use.
+Skype software and products are intended for your personal, non-commercial use.
+You are permitted to use Skype at work for your own business communications.
+vii.
+Skype numbers/Skype To Go numbers.
+If Microsoft provides you with a Skype or Skype To Go number, you agree that you do not own that number or have the right to keep it forever.
+In certain countries, your number may be provided by a Microsoft partner rather than Microsoft, and you may be required to enter into a separate contract with that partner.
+For more information about Skype number, visit https://go.skype.com/home.skype-number.
+viii.
+Skype Manager.
+When you create and manage a “Skype Manager Admin Account,” you act as an administrator of a Skype Manager group and not as a corporate entity.
+You have the right to link your personal Microsoft account to a Skype Manager group (“Linked Account”).
+You may appoint additional Skype Manager administrators provided they agree to these Terms.
+If you assign Skype numbers to a Linked Account, you are responsible for ensuring compliance with the residency or location requirements of users of your Linked Accounts.
+If you disconnect a Linked Account from a Skype Manager group, assigned subscriptions, Skype Credits, or Skype numbers will no longer be available, and you will no longer be able to access the content or materials associated with the account to which it was linked was repealed.
+You agree to process personal data of users of your Linked Account in compliance with all applicable data protection laws.
+ix.
+Skype Fees and Refunds.
+The costs to be borne for calls to phones outside of subscriptions consist of a connection fee (one-off billing per call) and a per-minute rate (see www.skype.com/go/allrates).
+The cost of calls will be deducted from your Skype credit.
+Microsoft may change rates for calls to phones and paid special numbers outside of a subscription.
+If the changes are material and not to your benefit (for example, if we increase rates), we will notify you by email or other appropriate means at least 30 (thirty) days before the rate changes take effect.
+After thirty (30) days, the new rates will apply to your next call.
+The current tariffs can be found at www.skype.com/go/allrates.
+If you do not accept the new tariffs, you should not make any calls.
+Fractional minutes and charges in fractions of a currency are rounded up to the nearest full minute or the next full minimum value of a currency.
+All prices for paid Skype products are inclusive of applicable taxes, including sales tax, unless otherwise stated.
+Sales tax is calculated based on the billing address provided.
+You expressly waive your right to a VAT refund from Microsoft if, for whatever reason, the amount ultimately payable by Skype to the tax authorities is less than the amount of VAT withheld from you.
+Skype paid products are not available to customers from the following regions or territories: Mount Athos, Canary Islands, French overseas departments, Heligoland Island, Büsingen area, Ceuta, Melilla, Livigno, Campione d'Italia and part belonging to the Italian territory of Lake Lugano.
+By using a paid Skype product, your cooling-off period is void and your purchase cannot be canceled or refunded.
+Spending Skype Credit, assigning a Skype number, or using a subscription counts as “full provision” and/or “use” of a paid Skype product.
+You expressly agree that Skype numbers may be assigned prior to the end of the cooling-off period and are non-refundable from the time of assignment.
+Outside the cooling-off period, only subscriptions that have not yet been used or have not yet expired can be refunded in accordance with these provisions.
+The cooling-off period and refunds do not apply to paid Skype products that (i) were purchased through an independent partner, (ii) were paid for in cash through third-party payment providers (such as Cash Payment Wallet), (iii) were not purchased directly online from Microsoft (e.g. vouchers or prepaid cards) or (iv) assigned to your account by a third party.
+Notwithstanding the foregoing, if you switch your Skype number to another provider, you may be entitled to a refund of any prepaid subscription credit under applicable law.
+x. Skype credit.
+Microsoft does not guarantee that you will be able to use your Skype Credit to purchase all paid Skype products.
+If you do not use your Skype credit for a period of 180 days, Microsoft will set the status of your Skype credit to inactive.
+You can reactivate Skype credit using the following link: https://www.skype.com/go/store.reactivate.credit.
+To purchase Skype Credit, you can enable the Auto Top-up feature by checking the appropriate box.
+If you activate the function, every time your Skype account balance falls below the limit set by Skype, your Skype balance will be topped up with the amount you have chosen via the payment method you have chosen.
+If you have purchased a subscription using a payment method other than credit card, PayPal or Moneybookers (Skrill) and activate the auto-top-up feature, your Skype balance will be topped up with the amount needed to cover the next subscription payment due.
+You can turn off the auto-recharge feature at any time by changing the setting in your account portal in Skype.
+xi.
+International Message Fees.
+GroupMe and Microsoft Teams currently use USA numbers for each group created.
+Any SMS sent or received from a GroupMe or Microsoft Teams number counts as an international SMS sent to or received from the United States.
+Please clarify the relevant international tariffs with your provider.
+[To top of page] Top of page
+Bing and MSN
+f. Bing and MSN.
+i. Materials on Bing and MSN.
+The articles, text, photos, maps, videos, video players and third party materials made available on Bing and MSN, including through Microsoft bots, applications and programs, are intended solely for your non-commercial, personal use.
+Other uses, such as downloading, copying or redistributing these materials or using the materials or products to create your own products, are permitted only to the extent expressly authorized by Microsoft or the rights holders or as lawful under applicable copyright law.
+Microsoft or other rights holders reserve all rights in the Materials not expressly granted by Microsoft under the License Terms.
+ii.
+Bing Maps.
+You may not use bird's-eye images of the United States, Canada, Mexico, New Zealand, Australia or Japan for any governmental purpose without our specific written permission.
+iii.
+Bing Places.
+By making your data or content available on Bing Places, you grant Microsoft a worldwide, royalty-free intellectual property license to use, reproduce, store, aggregate, promote, transmit, display or distribute as part of a Service, and the right to sublicense the same Rights to third parties.
+[To top of page] Top of page
+Cortana
+g. Cortana.
+i. Personal, non-commercial use.
+Cortana is a Microsoft service, a personal assistant.
+The features, services and content provided by Cortana (collectively, the “Cortana Services”) are intended for personal and non-commercial use only.
+ii.
+Functionality and content.
+Cortana offers a number of features, some of which are personalized.
+Cortana services may give you access to services, information, or functionality provided by other Microsoft services or by third-party apps and services.
+The service-specific provisions of Section 13 also apply to your use of applicable Microsoft services accessed through Cortana Services.
+Cortana provides you with information for planning purposes only, and once you receive this information, you should draw your own conclusions and not blindly rely on it.
+Microsoft does not guarantee the reliability, availability, or timeliness of the personalized interactions provided by Cortana.
+Microsoft is not responsible if a Cortana feature slows your response or prevents you from receiving, reading or sending a message or notification or obtaining a service.
+iii.
+Third Party Apps and Services.
+In providing the Cortana Services, Cortana may suggest and help you interact with third-party apps and services (third-party skills or connected services).
+When providing the Cortana Services, Cortana may share information such as: Such as your zip code, queries, and responses returned by the third-party apps and services with third-party apps and services to help you obtain the services you have requested.
+Cortana may enable you to make purchases through third-party apps and services using the account settings you have set up directly for those third-party apps and services.
+You can disconnect your Cortana service from third-party apps and services at any time.
+Your use of Cortana Services to connect to third-party apps and services is subject to Section 5 of these Terms.
+Publishers of third-party apps and services may change or discontinue the functionality or functionality of their apps and services or the integration with Cortana services.
+Microsoft is not responsible or liable for any software or firmware provided by the manufacturer.
+iv.
+Cortana enabled devices.
+Cortana-enabled devices are products or devices that support access to Cortana services or products or devices that are compatible with Cortana services.
+Cortana-enabled devices are third-party devices or products that are not owned by Microsoft, manufactured or developed by Microsoft.
+Microsoft is not responsible or liable for such third-party devices or products.
+v. Softwareupdates.
+We may automatically check your version of the Cortana Services software necessary to provide the Services and download free software updates or configuration changes, or require the manufacturers of Cortana-enabled devices to keep the Cortana Services software updated .
+[To top of page] Top of page
+Office Service
+H. Office services.
+i. Microsoft 365 Home, Microsoft 365 Personal, Office Online, Sway, OneNote.com, and any other Microsoft 365 subscriptions or Office-branded services are for your personal and non-commercial use, unless you are under a separate agreement with Microsoft Rights for commercial use.
+Use of applications such as Word, Excel, PowerPoint, Outlook, OneDrive, Access and Publisher in the Microsoft 365 family, Microsoft 365 Personal and all other Microsoft 365 subscription services is subject to additional license terms, which you can access along with these Terms at https:/ Find /aka.ms/useterms.
+ii.
+Outlook.
+Outlook includes the use of Bing Maps.
+Content made available via Bing Maps, including geocodes, can only be used within the product through which the content is available.
+Your use of Bing Maps is subject to the Bing Maps End User Terms of Service, located at go.microsoft.com/?linkid=9710837, and the Microsoft Privacy Policy, located at go.microsoft.com/fwlink/?LinkID=248686.
+[To top of page] Top of page
+Microsoft Health Services
+i. Microsoft Health Services.
+i. Microsoft Band.
+Microsoft Band devices and applications are not medical devices and are intended for fitness and wellness purposes only.
+They are not intended for use in the diagnosis of any disease, illness or other condition, nor for use in the cure, mitigation, treatment or prevention of any disease or other condition.
+Microsoft is not responsible for any decisions you make based on the information provided by Microsoft Band.
+ii.
+Health Bots.
+Health Bots, which may include action plans, analytics, reminders and other features, are not medical devices and are intended only for fitness and wellness purposes in conjunction with a health provider's program.
+The products are not intended to and cannot replace medical advice and are not intended for use in the diagnosis, cure, mitigation, treatment or prevention of any disease or other condition.
+You are fully responsible for your use of Health Bots.
+Microsoft is not responsible for any decisions you make based on the information you receive from Health Bots.
+If you have any questions about medical conditions and any nutritional, fitness or wellness programs, always consult a doctor before using Health Bots.
+You should not disregard professional medical advice or delay seeking medical advice because of any information you receive on or through the Services.
+Like any technical device, health bots can fail for various reasons, such as: B. because the power supply or connection is interrupted.
+[To top of page] Top of page
+Digital goods
+j. Digital goods.
+Microsoft may offer you the ability to download music, images, video, text, books, games, or other material in digital form through Microsoft Groove, Microsoft Movies & TV, the Store, Xbox Services, and other related and future services is available (“Digital Goods”) to obtain, listen to, view, play or read.
+The Digital Goods are for your personal, non-commercial entertainment use only.
+You agree not to redistribute, broadcast, publicly perform, publicly display or transmit copies of the Digital Goods.
+Digital Goods may be the property of Microsoft or third parties.
+Regardless, in any event, you acknowledge that your rights with respect to Digital Goods are limited by these Terms, by copyright law, and by the Usage Rules located at https://go.microsoft.com/fwlink/p/?LinkId=723143.
+You agree not to attempt to modify any Digital Goods obtained through any of the Services for any reason, including for the purpose of disguising or changing the ownership or source of the Digital Goods.
+Microsoft or the owners of the Digital Goods may remove Digital Goods from the Services from time to time without notice.
+[To top of page] Top of page
+OneDrive
+k. OneDrive.
+i. Memory allocation.
+If you have more content stored in your OneDrive account than is permitted under the terms of your free or paid OneDrive subscription service, and you respond to a notice from Microsoft to clean up your account (either by removing some of the content or converting it to a If you switch to a new subscription plan with more storage), if you do not respond within 30 days (or such longer period as may be specified in the notice), we reserve the right to close your account and delete or block access to your content on OneDrive.
+ii.
+Service performance.
+Depending on factors such as your device, internet connection, and Microsoft's efforts to maintain the performance and integrity of their service, you may occasionally experience delays in uploading or syncing content to OneDrive.
+iii.
+Notification of expiry.
+We will inform you at least one month in advance before closing your OneDrive account for inactivity in accordance with Section 4.a.ii.
+If you have a paid OneDrive subscription, we won't close your account for inactivity during the period you paid to use OneDrive.
+iv.
+Changes to the OneDrive service.
+We will notify you at least 30 days in advance if a change to the free or paid OneDrive services causes you to lose access to your content on OneDrive.
+v. Paid subscriptions.
+If we reduce your OneDrive data storage limits or discontinue the OneDrive service, you have the right to cancel your paid OneDrive subscription and we will provide you with a prorated refund of the subscription fee.
+We will provide you with at least 30 days' prior notice of any such change and you must cancel within the notice period set forth in such notice.
+[To top of page] Top of page
+Microsoft Rewards
+l. Microsoft Rewards.
+i. Microsoft Rewards (the “Program”) allows you to earn redeemable points for activities such as searches, purchases, and use of other Microsoft offerings.
+These offers may vary depending on the market.
+A search is an activity in which an individual user manually enters text with the bona fide intent of obtaining Bing search results for their own research purposes and does not include queries by bots, macros, or other automated or deceptive methods of any kind (“Search”) ).
+A Purchase refers to the purchase of goods or the downloading and acquisition of a license to Microsoft Digital Content, whether for free or for a fee (“Purchase”).
+Rewards points are not offered for every Microsoft purchase.
+Microsoft may from time to time offer additional opportunities to earn points, although each earning opportunity is not available indefinitely.
+You can spend your collected points on rewards (“Rewards”) on the “Redeem” page at https://aka.ms/redeemrewards.
+For more information, see the Rewards section of support.microsoft.com (https://support.microsoft.com) (“Frequently Asked Questions”).
+1. Requirements for participation in the program.
+You must have a valid Microsoft account and your devices must meet the minimum system requirements (https://account.microsoft.com/rewards/).
+The program is available to users in the markets listed under “Frequently Asked Questions”.
+Each person can only maintain one Program account, even if they have multiple email addresses, and no more than six accounts are permitted per household.
+The Program is intended solely for your personal and non-commercial use.
+2 points.
+Unless you share points within your Microsoft family (restrictions may apply) or you donate your points to one of the charities listed on the Redeem page, you cannot transfer points.
+The points are not your personal property and you cannot exchange them for cash or money.
+The points are awarded to you as part of a promotion.
+You cannot purchase points.
+Microsoft may limit the amount of points or rewards per person, per household, or for a specified period of time (e.g. one day), provided you are not penalized by a breach of good faith.
+You cannot redeem more than 550,000 points per calendar year through the program.
+Points earned through this Program do not apply to, or may be combined with, any other programs offered by Microsoft or third parties.
+Unredeemed points will expire if you do not earn additional points or redeem points for a period of 18 months.
+3. Rewards.
+You may redeem your points or contribute points to a listed nonprofit organization by visiting the Redeem page (https://aka.ms/redeemrewards) or by enrolling in automatic charitable contributions through a donation program.
+Certain Rewards may only be available in limited quantities and such Rewards are available while supplies last.
+You may be required to provide additional information, such as your mailing address and a telephone number (other than a VOIP or toll-free number), and you may be asked to enter a fraud prevention code or additional legal documents sign to redeem points for rewards.
+You cannot cancel a reward once ordered or exchange it for points unless the products delivered are defective or applicable law provides otherwise.
+If you order a Reward that is out of stock or otherwise unavailable, we may instead supply you with a Reward of comparable value or refund the Points to you.
+Microsoft may update the rewards offer on the Redeem page or remove certain rewards from the offer.
+Some Rewards may have minimum purchaser age requirements.
+Provisions of this type are described in the relevant offer.
+You are responsible for all federal, state and local taxes and any other costs incurred as a result of accepting and using the Reward.
+Rewards will be sent to the email address associated with your Microsoft account.
+Please ensure that your email address is current.
+Undeliverable rewards will not be redelivered and will expire accordingly.
+Rewards may not be resold.
+For more information about automatically donating points to nonprofits, see the Bing Giving FAQ (https://www.microsoft.com/rewards/give-mode-overview).
+4. Cancel participation in the program.
+If you no longer wish to participate in the Microsoft Rewards program, please follow the instructions on the opt-out page (https://account.microsoft.com/rewards/optout?confirm=false).
+If you log out, you will immediately lose all of your available points.
+Your Program account may be deleted if you do not log in at least once in a period of 18 months.
+Microsoft also reserves the right to terminate the Program account of any user who tampers with, misuses or fraudulently uses the Program or who violates these Terms.
+After you cancel your participation in the Program (by you or us), or if the Program is discontinued, you have 90 days to redeem your points.
+Otherwise the points expire.
+Termination will end your right to use the program and earn future points.
+5. Additional Conditions.
+Microsoft reserves the right to exclude you from the Program, disable your access to the Program or your Rewards Account, and/or withhold points, rewards, and donations if Microsoft believes that you are or may be tampering with or abusing the Program in any way Engage in any activity that violates these Terms.
+[To top of page] Top of page
+Azure
+m. Azure.
+Your use of the Azure Service is governed by the terms of the separate agreement under which you obtained the Services.
+Please visit the Microsoft Azure Legal Notices page at https://aka.ms/AA7z67v.
+[To top of page] Top of page
+various
+14. Miscellaneous.
+These paragraphs and paragraphs 1, 9 (for amounts accruing before the end of the validity of these provisions), 10, 11, 12, 16 and paragraphs which by their purpose survive, survive the expiration or termination of these provisions.
+We may assign, transfer or otherwise dispose of our rights and obligations under these Terms, in whole or in part, at any time without notice, provided that such assignment, transfer or disposition does not result in any detriment to you.
+You may not assign, transfer or otherwise dispose of these Terms or any rights to use the Services.
+This is the entire agreement between you and Microsoft for your use of the Services.
+It supersedes any prior agreements between you and Microsoft regarding your use of the Services.
+All parts of these Terms apply to the maximum extent permitted by applicable law.
+If a court or arbitrator finds that we cannot enforce the letter of any part of these provisions, those provisions shall be deemed superseded by similar provisions to the fullest extent enforceable under applicable law, and the remaining provisions shall remain unchanged.
+These Terms are for your and our benefit only.
+They do not benefit any third party, other than Microsoft's successors or assigns.
+The number headings are for reference only.
+15. Waiver of End User Consumer Protection Provisions.
+If you are a micro-enterprise, small business or non-profit organization, you agree to waive any claims you may otherwise have under the European Electronic Communications Code (Directive 2018/1972) Article 102 paragraphs 1, 3 and 5; Article 105(1) and Article 107(1) and (3).
+16. Export Laws.
+You must comply with all domestic and international export laws and regulations applicable to the Software and/or Services, including destination, end user and end use restrictions.
+For more information about geographic and export restrictions, see https://www.microsoft.com/exporting.
+17. Reservation of Rights and Feedback.
+Except as expressly provided in these Terms, Microsoft does not grant you any license or other right of any kind under any patent, know-how, copyright, trade secret, trademark or other portion of intellectual property owned or controlled by Microsoft or any associated entity.
+This includes names, trade dress, and the like. If you provide Microsoft with ideas, suggestions, or feedback, such as: If you provide, such as ideas for new products, technologies, promotions or product names, or feedback and suggestions for improvements to products (“Feedback”), you grant Microsoft the right to make changes to your Feedback, free of charge, royalty-free, royalty-free, and without any other obligation to you to create or cause to be created and to use, distribute and commercially exploit your Feedback in any manner and for any purpose.
+You may not provide any Feedback that is subject to a license that would require Microsoft to license its own software, technology, or documentation to any third party based on your Feedback being incorporated into it.
+[To top of page] Top of page
+HINTS
+Information and procedure for asserting claims in the event of infringements of intellectual property rights.
+Microsoft respects the intellectual property rights of others.
+For claims of intellectual property infringement, including claims of copyright infringement, we recommend that you send notice to Microsoft's designated agent.
+For more information and contact information, see the Notice and Procedure for Making Claims of Copyright Infringement (https://www.microsoft.com/info/cpyrtInfrg.html).
+Microsoft uses the processes set out in Title 17 of the United States Code of Criminal Procedure, Section 512, to respond to notices of copyright infringement.
+In appropriate circumstances, Microsoft may also disable or terminate the accounts of users of Microsoft services who may be subject to repeat copyright infringement.
+Notices and Procedures Regarding Intellectual Property Issues in Advertising.
+Please refer to the Intellectual Property Guidelines (https://go.microsoft.com/fwlink/?LinkId=243207) for questions regarding intellectual property rights on our advertising network.
+Copyright and Trademark Notices.
+The Services are copyright © Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, Washington 98052, USA.
+All rights reserved.
+Included in the Terms are the Microsoft Trademark Guidelines (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx) (as amended from time to time).
+Microsoft and the names, logos and icons of all Microsoft products, software and services may be either unregistered trademarks or registered trademarks of the Microsoft family of companies in the United States and/or other countries.
+The following is a non-exhaustive list of Microsoft trademarks: https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/EN-US.aspx.
+The names of actual companies and products may be trademarks of their respective owners.
+All rights not expressly granted in these Terms are reserved.
+Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group.
+Copyright © 1991-1996 Thomas G. Lane.
+All rights reserved.
+“gnuplot” software used on certain Microsoft website servers is: Copyright © 1986-1993 Thomas Williams, Colin Kelley.
+All rights reserved.
+Medical notice.
+Microsoft does not provide medical or health advice, diagnosis or treatment.
+Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition and any nutritional, fitness or wellness programs.
+You should not disregard professional medical advice or delay seeking medical advice because of any information you receive on or through the Services.
+Quotes and index data (including index values).
+Financial information provided through the Services is for your personal, non-commercial use only.
+You may not use any third party licensor's financial information or trademarks in connection with the issuance, creation, promotion, trading, marketing or promotion of any financial instrument or investment product (e.g. derivatives, structured products, investment funds) without a separate written agreement with the third party licensor , exchange-traded funds, investment portfolios, etc., where the price, return and/or performance of the instrument or investment product is based on, related to or intended to track the financial data).
+Financial note.
+Microsoft is not a broker/dealer or registered investment adviser under the U.S. federal securities laws or the securities laws of any other jurisdiction and does not advise any person regarding the advisability of investing in, purchasing or selling securities or other financial products or services.
+Nothing on the Services constitutes an offer or solicitation to buy or sell any securities.
+Neither Microsoft nor its licensors of stock price data or index data endorse or recommend any particular financial product or service.
+No part of the Services constitutes professional advice, including, but not limited to, investment or tax advice.
+Note on the H.264/AVC visual standard, MPEG-4 visual standard and VC-1 video standard.
+The Software may contain H.264/AVC, MPEG-4 Visual and/or VC-1 codec technology manufactured by MPEG LA, L.L.C. is licensed.
+This technology is a format for data compression of video information.
+MPEG LA, L.L.C. requires the following note:
+THIS PRODUCT IS LICENSED UNDER THE H.264/AVC, MPEG-4 VISUAL AND VC-1 PATENT POOL LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER WHO (A) ENDS VIDEO MATERIAL IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (B) DECODED H.264/AVC, MPEG-4 VISUAL AND VC-1 VIDEO VIDEO MATERIAL ENCODED BY A CONSUMER FOR PERSONAL AND NON-COMMERCIAL USE AND/OR OBTAINED FROM A VIDEO PROVIDER, WHO HAS AN APPROPRIATE LICENSE.
+NONE OF THE LICENSES APPLY TO ANY OTHER PRODUCT, EVEN IF THAT PRODUCT IS INCLUDED ALONG WITH THIS SOFTWARE IN A SINGLE ITEM.
+NO LICENSE IS GRANTED FOR ANY OTHER PURPOSE, INCLUDING IMPLICATION.
+FOR ADDITIONAL INFORMATION, CONTACT MPEG LA, L.L.C. SEE MPEG LA WEBSITE (https://www.mpegla.com).
+For the avoidance of doubt, the statement in this Section does not restrict or prevent the use of the Software provided under these Terms for a Company's normal, proprietary business purposes other than (i) distribution of the Software to third parties or (ii ) include the development of material using technologies based on the VIDEO STANDARDS for distribution to third parties.
+[To top of page] Top of page
+STANDARD APPLICATION LICENSE TERMS
+STANDARD APPLICATION LICENSE TERMS
+THAT ARE OFFERED IN THE EUROPEAN ECONOMIC AREA
+MICROSOFT STORE, MICROSOFT STORE ON WINDOWS UND MICROSOFT STORE ON XBOX
+These License Terms constitute an agreement between you and the application publisher.
+Please read the license terms carefully.
+They apply to software applications that you download from the Microsoft Store, the Microsoft Store on Windows or the Microsoft Store on Xbox (each referred to in these License Terms as the “Store”), including any updates or additions to the Application, unless the Application is separate provisions are attached, in which case those apply.
+IF YOU DO NOT ACCEPT THESE TERMS, YOU ARE NOT AUTHORIZED TO DOWNLOAD OR USE THE APPLICATION AND ACCORDINGLY SHOULD NOT DO SO.
+The term “Application Publisher” means the legal entity that licenses the Application to you as specified in the Store.
+If you comply with these license terms, you have the rights listed below.
+1. RIGHTS OF INSTALLATION AND USE.
+You may install and use the application on Windows devices or Xbox consoles as described in Microsoft's Terms of Use (https://go.microsoft.com/fwlink/p/?LinkId=723143).
+Microsoft reserves the right to change Microsoft's Terms of Use (https://go.microsoft.com/fwlink/p/?LinkId=723143) at any time.
+2. INTERNET-BASED SERVICES.
+a. Consent to Internet-Based or Wireless Services.
+When the Application connects to computer systems over the Internet, which may include the use of a wireless network, by using the Application you agree to the transmission of standard device information (such as technical information about your device, your system and application software and your peripherals) for Internet-based or wireless network services.
+If other terms and conditions are presented in connection with your use of the services accessed using the Application, these terms and conditions will also apply.
+b. Abuse of Internet-based services.
+You may not use Internet-based services in any manner that intentionally damages them or interferes with their use by others or the wireless network.
+You may not use the Service to obtain unauthorized access to any services, data, accounts or networks in any way.
+3. SCOPE OF LICENSE.
+The application is licensed, not sold.
+This Agreement gives you only some of the rights to use the Application.
+If Microsoft disables the ability to use the Applications on your devices in accordance with your agreement with Microsoft, all associated license rights will terminate.
+The application publisher reserves all other rights.
+You may use the Application only as expressly permitted by this Agreement, unless applicable law gives you broader rights notwithstanding this limitation.
+You are obliged to comply with all technical restrictions of the application, which only allow you to use it for specific purposes.
+You are not authorized to
+a. to circumvent technical limitations of the application.
+b. reverse engineer, decompile or disassemble the Application, unless and only to the extent that the applicable copyright law for computer programs expressly permits it.
+c. make more copies of the Application than specified in this Agreement or expressly permitted by applicable law, notwithstanding this limitation.
+d. Publish or otherwise make the Application available for others to copy.
+e. rent, lease or lend the application.
+f. transfer the Application or this Agreement to a third party.
+4. DOCUMENTATION.
+If any documentation is provided with the Application, you may copy and use it for your personal reference.
+5. TECHNOLOGY AND EXPORT RESTRICTIONS.
+The Application may be subject to technology control or export laws and regulations of the United States and other countries.
+You must comply with all domestic and international export laws and regulations applicable to the technology used or supported by the Application.
+These laws also contain restrictions on destinations, end users and end use.
+For more information about Microsoft-branded products, see the Microsoft export website (https://go.microsoft.com/fwlink/?linkid=868967).
+6. SUPPORTSERVICES.
+Contact the application publisher to see if support services are available.
+Microsoft, your hardware manufacturer, and your wireless carrier (unless one of them is the application publisher) are not responsible for providing support services for the application.
+7. ENTIRE AGREEMENT.
+This Agreement, the applicable Privacy Policy, any additional terms accompanying the Application, and the terms applicable to additions and updates constitute the entire Application License Agreement between you and the Application publisher.
+8. APPLICABLE LAW.
+a. United States and Canada.
+If you acquired the Application in the United States or Canada, then the laws of the state or province in which you reside (or, if a company, your principal place of business) will govern the interpretation of these Terms and apply Claims arising from a breach of these Terms and all other claims (including claims arising from consumer protection, unfair competition and tort) without regard to the provisions of private international law.
+b. Outside the United States and Canada.
+If you purchased the Application in another country, the laws of that country apply.
+9. LEGAL EFFECT.
+This Agreement describes certain rights.
+You may have additional rights under the laws of your state or country.
+This Agreement does not change your rights under the laws of your state or country, unless the laws of your state or country permit this.
+10. DISCLAIMER OF WARRANTIES.
+The Application is licensed on an “as is,” “with all faults” and “as available” basis.
+The publisher of the Application itself, Microsoft (if Microsoft is not the publisher of the Application), the wireless carriers over whose networks the Application is made available, and each of their respective affiliates, suppliers, agents and suppliers (“Affected Parties”) provide no other contractual terms Any guarantees, warranties or representations regarding the Application.
+You are entitled to all warranties implied by law, but we make no other warranties.
+To the extent permitted by local law, the Covered Parties disclaim all implied warranties, including merchantability, fitness for a particular purpose, security and comfort, and non-infringement.
+11. LIMITATION OF REMEDIES AND DAMAGES.
+a. The Application Publisher is not liable for any User Content or any third party materials, including links to third party websites and activities provided by Users.
+These contents and activities are not the responsibility of the application publisher nor do they represent the opinions of the application publisher.
+b. The publisher of the application is only liable for violations of essential obligations under these license terms.
+c. The application publisher, its indirect representatives and/or legal representatives are not liable for unforeseeable damages and/or financial losses related to indirect damages, including lost profits, unless the application publisher, its indirect representatives and/or its legal representatives have at least grossly acted negligently or intentionally.
+d. The limitation of liability does not affect the statutory strict liability of the publisher of the application, including (but not limited to) liability under the Product Liability Act and statutory liability for breach of warranty.
+The same applies to the liability of the publisher of the application, its indirect representatives and/or its legal representatives in the event of fraud or negligence resulting in bodily injury or health injury or death.
+e. No other contractual or legal claims may arise from these Application License Terms and/or use of the Application or any services provided through the Application other than those set out in paragraphs (a) to (e) of this Section 11.
+[To top of page] Top of page
+Services Covered
+The following products, apps, and services are covered by the Microsoft Services Agreement but may not be available in your market.
+Account.microsoft.com
+App Bing Search
+Bing Apps
+Bing Dictionary
+Bing Image and News (iOS)
+Bing Maps
+Bing Rebates
+Bing Search APIs/SDKs
+Bing pages
+Bing Translator
+Bing Webmaster
+Bing.com
+Bingplaces.com
+Ask Cortana
+Cortana skills by Microsoft
+Cortana
+Default Homepage and New Tab Page on Microsoft Edge
+Dev Center App
+Dictate
+education.minecraft.net
+Face Swap
+Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
+Forms.microsoft.com
+forzamotorsport.net
+Device status app
+Groove Music Pass
+Groove
+GroupMe
+Map app
+LineBack
+Microsoft 365 Business Standard and Microsoft 365 Apps*
+*Applies until a commercial domain is established to use these services.
+From this point onwards, separate terms apply for Microsoft commercial services.
+Microsoft 365 Consumer
+Microsoft 365 Family
+Microsoft 365 Personal
+Microsoft Academic
+Microsoft Add-Ins for Skype
+Microsoft Bots
+Microsoft Educator Community
+Microsoft Film & TV
+Microsoft Health
+Microsoft Launcher
+Microsoft Math Solver
+Microsoft Pay
+Microsoft Pix
+Microsoft Research Interactive Science
+Microsoft Research Open Data
+Microsoft Search in Bing
+Microsoft Soundscape
+Microsoft Start
+Microsoft Teams
+Microsoft Translator
+Microsoft Wallpaper
+Microsoft XiaoIce
+Microsoft-Familie
+Microsoft-Konto
+Minecraft Realms Plus and Minecraft Realms
+Minecraft games
+Mixer
+MSN Dial Up
+MSN Explorer
+MSN Finance
+MSN Health and Fitness
+MSN Cooking & Enjoyment
+MSN News
+MSN Premium
+MSN Travel
+MSN Sport
+MSN Weather
+MSN.com
+Next Lock Screen
+Office 365 Pro Plus optional connected experiences
+Office for the web (previously Office Online)
+Office in Microsoft 365 Consumer
+Office in Microsoft 365 Family
+Office in Microsoft 365 Personal
+Office Store
+Office Sway
+Office.com
+OneDrive.com
+OneDrive
+OneNote.com
+Outlook.com
+Paint 3D
+Presentation Translator
+Rinna
+rise4fun
+Seeing AI
+Send
+Skype in the Classroom
+Skype Manager
+Skype.com
+Skype
+Smart Search
+Snip Insights
+Games, apps and websites from Xbox Game Studios
+Spreadsheet Keyboard
+Store
+Support and Recovery Assistant for Office 365 from Microsoft
+Sway.com
+to-do.microsoft.com
+Translator for Microsoft Edge
+Translator Live
+UrWeather
+ux.microsoft.com
+Video Breakdown
+Visio Online
+Windows games, apps, and websites published by Microsoft
+Web Translator
+whiteboard.office.com
+Windows Photo Gallery
+Windows Live Mail
+Windows Live Writer
+Windows Movie Maker
+Windows Store
+Xbox Game Pass
+Xbox Live Gold
+Xbox Live
+Xbox Music
+Xbox Store
+[To top of page] Top of page
+Affiliated Contracting Entities (for Paid Services under Section 10(b))
+There are currently no affiliated contracting companies.
+Microsoft Ireland Operations Limited is your contracting company.

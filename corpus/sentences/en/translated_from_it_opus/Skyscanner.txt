@@ -1,0 +1,123 @@
+https://www.skyscanner.it/terms-of-service
+Terms of Service
+Last update: February 2020
+Who we are?
+Skyscanner (“we” or “our” depending on the context) provides instant online travel search services (comparing flight, hotel and car rental prices) and other travel services (the “Services”) to travelers around the world through our websites, apps and other platforms (the “Platforms”).
+Skyscanner is not a travel agency and, therefore, is not responsible, in any way, for providing, setting or controlling the prices applicable to any travel options or products found and/or booked through our Services ( “Third Party Travel Products”).
+All such Third Party Travel Products are provided by independent travel agencies, airlines, hotels, tour operators or other third parties (“Travel Suppliers”) and are subject to the terms and conditions of such third parties.
+Our Services and Platforms are provided by Skyscanner Limited, a private limited company incorporated and registered in England and Wales with company number 04217916.
+Other entities that directly or indirectly control, are controlled by, or are under common control with Skyscanner are referred to in these Terms as “Skyscanner Group Companies”.
+All information about our company, including its mailing address and registered office, is available on the Company Information page.
+These Terms
+These terms and conditions (“Terms”) govern your access to and use of our Services and Platforms, together with our Privacy Policy, Cookie Policy and Guidelines for the community.
+By accessing or using the Services or Platforms, you confirm that you have read, understood and accepted these Terms, the Privacy Policy, the Cookie Policy and the Community Guidelines.
+Your use of some of our Services and Platforms (such as our “Skyscanner for Business” products) is governed by different terms and conditions.
+In such case, you will be expressly notified and the specific terms will replace or add to these Terms, as appropriate.
+These Terms may be changed at any time at our discretion.
+In the event that these Terms are subject to change, the new terms and conditions will be published so that the user can review them.
+Your continued use of our Services or Platforms following changes to the Terms will mean you accept them.
+If you do not agree to these Terms, please stop using our Services or Platforms.
+Use of the Skyscanner Services
+You may only use our Services and Platforms in accordance with applicable laws and for lawful purposes.
+Upon your agreement to abide by these Terms, you are granted a non-exclusive, non-transferable license to download, access and use our Services and Skyscanner Platforms solely for your personal, non-commercial purposes and for no other purposes.
+Specifically, this license is granted following the user's recognition of the following obligations:
+you are prohibited from using our Services or our Platforms for any improper or unlawful purpose, or to publish, share or transmit any material (i) that is defamatory, offensive, obscene or otherwise objectionable; (ii) that violates the confidentiality, privacy or rights of any third party, including copyright, trademark or any other intellectual property right; (iii) that is posted, shared or transmitted for advertising or promotional purposes in relation to yourself or any third party; or (iv) that misleads or misleads your identity or in any way suggests that you are sponsored by, affiliated with or connected to Skyscanner; or (v) you do not have any rights or permissions that are required to be made available;
+you are prohibited from using our Services or our Platforms for commercial purposes or in any other way that could cause damage to Skyscanner or harm Skyscanner's reputation;
+you may not disassemble, reverse engineer or decompile any software, applications, updates or hardware contained in or available through our Services or Platforms, except as required by law;
+You may not copy, distribute, make public, sell, rent, lend or otherwise use our Services or Platforms, or attempt to violate or circumvent security measures designed to limit your access or use. our Services or our Platforms;
+you may not use or interfere with our Services or Platforms in a manner that could damage, disable, overburden, impair or impair our systems or security or interfere with other users;
+You may not introduce or transmit through our Services or Platforms any disruptive or harmful code, viruses, worms, or Trojan horses, or a “denial of service” or “spam” attack; or
+You may not delete, modify or remove any proprietary notices, trademarks, trade names, logos or other designations on our Services or Platforms or to pass off or attempt to pass off our Services or Platforms as the product of any person. different from Skyscanner.
+You further agree not to use any unauthorized computer program, software agent, bot, spider, or other software or application to scan, copy, index, sort, or otherwise exploit our Services or Platforms or the data therein contents.
+Skyscanner has invested heavily in collecting, analyzing and presenting thousands of travel data providers and offers access to travel data on a commercial API basis.
+Any violation of these provisions is therefore considered a material violation of these Terms.
+Skyscanner reserves the right to take any technical or legal action necessary to identify and restrict unauthorized automated access to our Services and Platforms.
+When you sign up for or use any features of our Services or Platforms that require a username and password to log in, you agree that you are responsible for keeping such passwords and login details confidential and Safe.
+If you know or suspect, for any reason, that the security of your login credentials has been compromised, please notify our Helpdesk as soon as possible.
+Our Services and Platforms are not intended for children under the age of 16, and no one under the age of 16 should provide any information on or through our Services or Platforms.
+We do not knowingly collect personal information from children under the age of 16, and in the event that we become aware that we have collected or received personal information from a child under the age of 16, we will delete such information promptly. compliance with the Privacy Policy.
+To the extent that any part of our Services or Platforms is hosted on a third-party website (for example, Facebook or other social media sites) and those third-party sites have separate terms of use, you agree to comply these terms and conditions in full, in addition to these Terms.
+Share information with us
+We take your privacy seriously and therefore work in compliance with data protection laws at all times.
+You acknowledge that personal data (defined in our Privacy Policy) you submit to or through our Services or Platforms may be used by us in accordance with our Privacy Policy.
+Furthermore, you confirm that all personal data you provide is accurate and up-to-date and that you have obtained all necessary permissions, licenses or approvals to allow us to use this information in accordance with these Terms, our Community Guidelines and of our Privacy Policy.
+To the extent our Services or Platforms permit you to post, upload, transmit or otherwise make available any information, images, video or other data to Skyscanner or other Skyscanner users (“User Content”), you confirm that :
+you are solely responsible for the User Content you upload and you agree and undertake not to publish anything for which you do not have the right or permission to publish or for which you cannot grant the license referred to in paragraph 2 below;
+While all intellectual property rights in any User Content are owned by you or your licensors, and you are always free to share your User Content with anyone else, you transfer to Skyscanner and the Skyscanner Group Companies Skyscanner a non-exclusive, continuous, royalty-free, worldwide, transferable and assignable right to host, use or reproduce, whether electronically or otherwise, publicly display, distribute, modify, adapt, publish, translate and create derivative works from any User Content (in accordance with our privacy policy), including advertising and promotional uses of our Services or Platforms.
+For example, we may make User Content available to our business partners or other Skyscanner Group Companies for display on their sites.
+You retain control of the User Content you upload to the Skyscanner Services and you have the right to terminate this license at any time by deleting your User Content or your Skyscanner account.
+Your User Content will be promptly deleted within 48 hours of your request for deletion.
+be responsible for creating backups for User Content if deemed necessary, understanding that Skyscanner has no obligation to archive, retain, publish or make available any User Content uploaded by you.
+If you provide us with suggestions, comments, improvements, ideas or other feedback (“Feedback”), you agree to irrevocably transfer the intellectual property in such feedback and you agree to use and share it for any purpose we deem appropriate, to our complete discretion.
+To leave feedback, please click on the “Feedback” label or via our Helpdesk.
+Property of Skyscanner
+Except where otherwise indicated in these Terms, all intellectual property rights including copyright (including copyright in computer software), patents, trademarks or trade names, design rights, database rights, know-how, secrets commercial and privacy rights inherent in our Services and Platforms (together, the “Intellectual Property Rights”) are owned by, and holds the license to, Skyscanner.
+You acknowledge that by using our Skyscanner Services or our Skyscanner Platforms you will not acquire any right, title or interest in them except for the license granted in accordance with these Terms. You further confirm that you have no right of access to the codes source relating to our Services or our Platforms unless granted by a license that specifically allows such access.
+Property of others
+We respect the intellectual property rights of others.
+If you have reason to believe that your copyright has been infringed by any content on our Services or Platforms, please notify us in writing of such alleged infringement by sending notification to legal@skyscanner.net, at attention of our Legal Department.
+Alternatively, the user can contact the address:
+Skyscanner Legal Department
+Quartermile One, 15 Lauriston Place, Edinburgo, EH3 9EN
+To help us resolve any alleged infringement and, where applicable, to make a valid notification pursuant to the Digital Millennium Copyright Act (for which purposes the Legal Department is the designated agent), please include the following information in your notification:
+identification of the copyrighted work claimed to have been infringed;
+identification of the material that is claimed to be infringing and information sufficient to permit us to reasonably locate it on our Services (for example, by providing the URL for the material);
+information sufficient for Skyscanner to contact you: address, telephone number and, if available, email address;
+statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+for DMCA claims only: a statement by you, made under penalty of perjury, and by your physical or electronic signature, that the above information in your notice is accurate and that you himself is the copyright owner or is authorized to act on behalf of the actual copyright owner.
+Price accuracy and guarantee limits
+Use of the Skyscanner Services and Platforms is entirely at your own risk.
+While we have strict “price accuracy” policies in place with all Travel Suppliers who provide us with travel data and do our best to ensure that the content presented on or through our Services and Platforms is up-to-date and accurate, we cannot guarantee the reliability and accuracy of such content.
+Likewise, our price predictions are based on data we have about past price performance, but there is no guarantee that our predictions are correct.
+We provide our Services and Platforms on an “as-is” basis and expressly disclaim any liability, condition or warranty, whether express or implied, including, but not limited to, the related warranties of title, non-infringement, merchantability and accuracy, as well as any warranty arising from usage of trade, course of dealing or course of performance.
+To the extent required by law, we make no representations or warranties of any kind that our Services or Platforms (a) are accurate, complete or up-to-date; (b) are always available; (c) always meet your expectations; or (d) are secure or free from errors, faults, defects, viruses or malware.
+Price forecast
+By subscribing to the Price Alerts service, the user can receive information from Skyscanner on price forecasts for flights of interest.
+Price forecasts are based on the best hypothesis that can be provided at a specific moment based on the data we have relating to past trends.
+There is no guarantee that our predictions are correct, as flight prices and availability depend on third parties, as explained above.
+You may choose to rely on our forecasts, however, we cannot and do not guarantee their accuracy and we accept no liability for any inaccuracies or lack of availability of indicative prices provided.
+Make reservations via Skyscanner
+Skyscanner is not a travel agency and we do not provide any of the travel options displayed through our Services or Platforms, nor set or control the prices displayed.
+All Third Party Travel Products available and/or bookable through our Services or Platforms are made available by independent Travel Suppliers.
+Skyscanner facilitates bookings with Travel Suppliers but is not responsible for and has no obligation to you in relation to such bookings.
+The identity of the relevant Travel Supplier, and the terms and conditions applicable to your booking with them (“Travel Supplier Terms”), will be notified to you at the time of booking and you should ensure that you read and fully understand them before completing your booking .
+The Travel Supplier Terms should set out what rights you have against the Travel Supplier and define the Supplier's responsibilities towards you if unforeseen events occur.
+You agree to fully comply with all Travel Provider Terms.
+You acknowledge that violation of the Travel Supplier Terms may result in cancellation of tickets or reservations, revocation of frequent flyer and other benefits, and additional charges.
+Depending on where you use our platforms to book two or more travel products within a 24-hour period (for example, a flight and, separately, but within 24 hours of the first booking, a hotel), your reservations may be classified as “Related Travel Planning” depending on where you are located and applicable consumer protection laws.
+Depending on where the Related Travel Plan was created, you may not receive the same level of consumer protection that you might otherwise receive by booking a flight and hotel through a single agent (where you may obtain benefits applicable to booking holiday packages).
+This means that you must rely on each individual Travel Supplier to perform their services and have no legal recourse to the organizer or retailer of a package.
+In the event of insolvency of one of the suppliers involved in the related travel planning, the protection guaranteed by European legislation regarding tourist packages will not be applied.
+Limitations and exclusions of liability
+These terms and conditions set out all of Skyscanner's obligations and responsibilities in relation to our Services and our Platforms.
+Skyscanner has no liability for any agreements you may enter into with any third party as a result of your use of our Services or Platforms (including, without limitation, any Travel Supplier).
+For any problem relating to a booking you have already made or are attempting to make through Skyscanner, you acknowledge that you must resolve such problem with the relevant Travel Supplier and that your sole remedy in such circumstances, including any refund, is to the relevant Travel Supplier and not to Skyscanner.
+Where our Services or Platforms contain links to other sites and resources provided by third parties, these links are intended to be provided for informational purposes.
+We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.
+You may view advertising material submitted by third parties on our Services and platforms.
+Each individual advertiser is solely responsible for the content of its advertising material and Skyscanner accepts no responsibility for the content of its advertising material, including, without limitation, any errors, omissions or inaccuracies.
+To the fullest extent permitted by law, we (together with our officers, directors, employees, representatives, affiliates, suppliers and third parties) accept no liability for (a) any inaccuracies or omissions in content displayed on or found through our Services or our Platforms; or (b) any fatality, accident, delay or any special, exemplary, punitive, indirect, incidental or consequential loss or damage whatsoever (including, without limitation, loss of profits or savings), whether based on a contract, tort (including negligence), or strict liability incurred by you based on your access to, use of, or inability to access or use our Services or Platforms or any other content present on them.
+Subject to these Terms and to the extent permitted by law, our maximum joint liability to you, arising out of or in connection with these Terms or your access to, use of, or inability to access or use our Services or our Platforms is limited to the sum of £100 (one hundred British pounds).
+Nothing in these Terms will limit or exclude (a) our liability for death or personal injury caused by our negligence or for our fraud or fraudulent misrepresentation; (b) any other liability that cannot be excluded by law; or (c) your legal rights.
+Your responsibility to us
+Subject to these Terms, you will be held responsible and liable for any and all suits, claims, suits, costs, losses, damages and expenses (including, without limitation, attorney's fees) incurred by us or the Companies in the Skyscanner group and any of our officers, directors, employees and agents, arising out of your use of our Services or Platforms or breach of these Terms.
+Conclusion
+Skyscanner, in its sole discretion, may immediately terminate any agreement with you under these Terms at any time upon notice to you and/or, if you have a login account, by canceling your subscription and access to your account and by removing any User Content uploaded to our Services or Platforms.
+Skyscanner may terminate your access and use, in whole or in part, without notice and at any time, for example to prevent you from uploading any User Content, without incurring any liability to you .
+General provisions
+You acknowledge that unauthorized use of our Services or Platforms may result in irreparable harm and damage to Skyscanner and/or its affiliates or licensors for which monetary damages would be inadequate.
+Accordingly, in the event such unauthorized use occurs, we and our affiliates and/or licensors (where applicable) reserve the right to immediately seek, in addition to all other remedies available under law, injunctive relief immediate.
+The invalidity or unenforceability of any provision (in part or in whole) of these Terms does not in any way affect the validity or applicability of the remaining provisions (in part or in whole).
+Any provision thereof or any part thereof that is held to be invalid or unenforceable by a court of competent jurisdiction shall be deemed to be deleted from these Terms.
+These Terms are personal to you.
+You have no right to assign these Terms, in whole or in part, to any third party without our written consent.
+These Terms represent the entire agreement between Skyscanner and you and supersede all previous terms, conditions, agreements relating to the use of our Services or our Platforms.
+We will respond promptly to any reports of User Content that violates these Terms.
+If you are aware of or suspect any illegal activity, please contact us via our helpdesk.
+Any failure by us to enforce any of these Terms will not be construed as a waiver of such terms or a limitation on the right to subsequently enforce any of these Terms.
+A person who is not a party to these Terms shall have no right to enforce any provision of these Terms.
+Regardless of the country from which you access or use our Services or Platforms, to the extent permitted by law, these Terms and your use of them will be governed in accordance with the law of England and Wales and are deemed that you submit to the non-exclusive jurisdiction of the courts of England and Wales to resolve any disputes which may hereafter arise.
+If you use the Platforms or Services for commercial purposes or through an unauthorized computer program, as further described and prohibited in the “Use of our Services” section of these Terms, you submit to the exclusive jurisdiction of the courts of England and Wales for any dispute arising under these Terms, unless there is a commercial agreement between us that governs your use and contains different provisions.
+Contact us
+To request more information about Skyscanner or to make suggestions on how to improve our Services or Platforms, you can contact our helpdesk.
+Alternatively, you can write to us at Quatermile One, 15 Lauriston Place, Edinburgh EH3 9EN, for the attention of our “Chief Legal Officer”.

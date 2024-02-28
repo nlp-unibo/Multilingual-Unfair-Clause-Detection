@@ -1,0 +1,358 @@
+[{'translation_text': 'Poland: Terms and Conditions for the provision of Western Union® Money Transfer Service'}]
+[{'translation_text': 'It is important that prior to the adoption of these conditions, you become acquainted with them.'}]
+[{'translation_text': 'THE LIMITS IN THE SCOPE OF OUR COMMITMENTS TO YOU AND TO THE LIMITS AND EXCLUSIONS CONCERNING OUR RESPONSIBILITY TO YOU IN AN ACCIDENT WHERE YOU/MISS A STRAT FOR THE USE OF OUR SERVICES.'}]
+[{'translation_text': 'PROVISIONS RELATING TO THOSE QUESTIONS HAVE BEEN DECLARED BY A DRUGSED DRINK.'}]
+[{'translation_text': 'Applicable in these Terms:'}]
+[{'translation_text': '(a) A bank card shall mean a Visa® or MasterCard® debit or credit card;'}]
+[{'translation_text': '(b) The working day shall be each day of the week from Monday to Friday, except for public holidays in which commercial banks in Vienna operate normally;'}]
+[{'translation_text': '(c) The issuer of the card shall mean the issuer and the owner of the bank card;'}]
+[{'translation_text': '(d) The payment method shall mean the options available for the Sender to carry out the transfer of funds via the Western Union Internet Service, which may vary from country to country and may include a bank card, bank account and other payment methods.'}]
+[{'translation_text': '(e) the prohibited objective means an unlawful objective; making or receiving payments for gambling services, tokens or loans; or sending payments to itself as a recipient to guarantee financial compatibility (Fraud RISK); or creating more than one profile; or sending or receiving money on behalf of another person;'}]
+[{'translation_text': '(f) Recipient shall mean the person designated as beneficiary of the money transfer (regardless of whether the money transfer is carried out by the sender using the Western Union Internet Service or by a person using another Western Union money transfer service);'}]
+[{'translation_text': '(g) the sender shall mean the person carrying out the money transfer using the Western Union Internet Service;'}]
+[{'translation_text': '(h) transactions shall mean any money transfer ordered by you/Lady under the Western Union Internet Service;'}]
+[{'translation_text': '(i) The Western Union, ours/ours/ours/ours/ours/ours/ours/ours means the Western Union International Bank GmbH and Western Union International Limited and the provisions mentioned in the pairs.'}]
+[{'translation_text': '9 and in references to our negligence or fraud, includes a related entity or agent of Western Union International Bank GmbH and Western Union International Limited in the course of performing a task which would otherwise have to be performed by Western Union International Bank GmbH and Western Union International Limited in connection with the provision of the Western Union Internet Service;'}]
+[{'translation_text': '(j) The Western Union Internet Service means any or all of the services provided by us through the Western Union Website, on which their basic features are described;'}]
+[{'translation_text': '(k) The website of Western Union and/or the website of our website shall mean the website we provide for the provision of online transfers of funds and related IT solutions; and'}]
+[{'translation_text': '(l) Mr/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Ms/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Mrs/Ms/Mrs/Mrs/Ms/Mrs/Mrs/Mrs/Ms/Mrs/Mrs/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Mrs/Ms/Ms/Mrs/Ms/Ms/Mrs/Ms/Ms/s/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/s/s/Ms/Ms/Ms/s/s/s/s/s/s/Ms/Ms/Ms/s/s/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Ms/Mssss/Ms/Ms/Ms/Ms/Ms/Msss/s/s/sss/s/sss/s/s/s/s/s/sssss/s/s/s/sssssssssssss/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/Ms/s/Ms/Ms/s/s/s/s/'}]
+1.
+[{'translation_text': 'About the company'}]
+1.
+1.
+[{'translation_text': "Western Union®'s Internet service is offered by Western Union International Bank GmbH in cooperation with Western Union International Limited."}]
+[{'translation_text': 'WUIB is a limited liability company registered in Austria at THE ICON VIENNA (Tower 24), Wiedner Gürtel 13, A-1100 Vienna, commercial register number 256187t, issued by the Vienna Economic Court; data processing registration number 2111221.'}]
+[{'translation_text': 'Western Union International Limited is a company registered in Ireland, at Richview Office Park, Unit 9, Clonskeagh, Dublin 14, Ireland (to 372428).'}]
+1.
+2.
+[{'translation_text': "Customers can obtain information about the company's address and hours of agents and local representatives at the telephone number: +32- ((0) 2-639 7112."}]
+[{'translation_text': 'You can also contact WUIB at the number (free of charge in Poland): 00800 32 11 416 or at: Poland.Customer@westernunion.pl.'}]
+1.
+3.
+[{'translation_text': 'WUIB is controlled by the Austrian Financial Market Surveillance Authority (Finanzmarktaufsicht) with its registered office at Otto-Wagner-Platz 5, 1090 Vienna, telephone number +43 1 249 59.'}]
+[{'translation_text': 'More information on the Market Surveillance Authority can be found at: www.fma.gv.at.'}]
+2.
+[{'translation_text': 'OUR SERVICES'}]
+2.
+1.
+[{'translation_text': 'Western Union Internet services include the execution of transfers of funds at home and abroad.'}]
+[{'translation_text': 'In order to use the Western Union Internet Service, you must be 18 years old and registered in Poland.'}]
+[{'translation_text': 'Each money transfer shall be marked with an individual transaction number, either by the control code of the transmission or by MTCN.'}]
+2.
+2.
+[{'translation_text': 'By providing and consenting to the processing of the information required for the execution of the money transfer and by agreeing to these Terms, the Sender shall instruct the WUIB to carry out a specific money transfer.'}]
+[{'translation_text': 'Each individual transmission order constitutes a separate agreement between the WUIB and the sender, which is limited to the execution of a specific money transfer.'}]
+[{'translation_text': 'The framework agreement between you and our company does not oblige us to carry out individual and subsequent transfers of funds.'}]
+[{'translation_text': 'The sender should inform the Receiver accordingly of the transfer of funds sent.'}]
+2.
+3.
+[{'translation_text': 'In view of the statutory and regulatory requirements, we will take appropriate action to make the funds transferred available to the Recipient by the end of the business day following the date on which the funds were received (the day of receipt).'}]
+[{'translation_text': 'The moment of receipt of the funds is the moment when we receive the funds transferred together with the fees due for the implementation of the transmission.'}]
+[{'translation_text': 'For money transfers ordered in writing during the extended period by another working day.'}]
+2.
+4.
+[{'translation_text': 'In the case of (i) transfers of funds carried out outside the EEA or (ii) transfers of money in which more than one currency is exchanged between the euro and the currency of one of the Member States of the European Union or the EEA not belonging to the eurozone, or (iii) transfers of money carried out in currencies other than the euro, the funds shall be available to the Recipient at the latest at the end of the fourth working day from the date of receipt.'}]
+2.
+5.
+[{'translation_text': 'Regular transfers of funds are usually available for download after several minutes, depending on the opening hours of the facility.'}]
+[{'translation_text': 'For some countries, the provision of services may be delayed or additional restrictions may apply.'}]
+[{'translation_text': 'Detailed information can be obtained from the telephone number given in section 1.'}]
+[{'translation_text': '2 of these Terms of Service.'}]
+2.
+6.
+[{'translation_text': 'The Western Union website provides various forms of collection, including receipt of cash from a representative, directly to a bank account or to a mobile phone, if possible.'}]
+[{'translation_text': 'If the funds are to be transferred in cash, the consignee should provide the appropriate identity card together with all the data required by Western Union for the collection of cash, and in particular the name of the consignor, the name of the country from which the funds were sent, the name of the recipient, the approximate amount of funds transferred and any conditions and requirements applicable to Agent Western Union when the funds transferred are paid out, such as.'}]
+[{'translation_text': 'MTCN (money transfer control code).'}]
+[{'translation_text': 'Payment of the transferred funds of the Recipient shall be made after verification of the identity documents by Western Union or an authorised representative.'}]
+[{'translation_text': 'The funds transferred may also be paid where the information provided by the Recipient contains minor errors.'}]
+[{'translation_text': "Both Western Union and its representatives are not obliged to compare the recipient's address information."}]
+[{'translation_text': 'In the case of certain locations, the consignee may be asked to present an identity card or answer a test question or both to receive the funds transferred.'}]
+[{'translation_text': 'The test question cannot constitute an additional security measure and cannot be used to extend the expectation of the payment of funds or delay in the payment of funds; the use of test questions is prohibited in certain countries.'}]
+[{'translation_text': 'In the case of transfers to a bank account or to a mobile phone, Western Union will transfer the funds in accordance with the information provided by the sender.'}]
+[{'translation_text': "In the event of inconsistencies in the account owner's data (including mobile phone numbers for mobile phone accounts) and the recipient's name, funds will be transferred to the account with the number given by the sender."}]
+2.
+7.
+[{'translation_text': 'The relevant law prohibits transfers of funds from entities and countries; Western Union is obliged to check all transactions with a list of entities prepared by the governments of the countries and territories with which we operate, including the list of the US Foreign Assets Supervisory Authority (OFAC) and the European Union.'}]
+[{'translation_text': "If the entity is listed, Western Union shall carry out a transaction verification to determine whether the entity's name is actually on the relevant list."}]
+[{'translation_text': 'To this end, Western Union is required to request additional information and evidence necessary to delay the transaction.'}]
+[{'translation_text': 'This is a legal requirement for all transactions carried out by Western Union (including cash transfers initiated and finalised outside US territory).'}]
+2.
+8.
+[{'translation_text': 'Transfer fees: Written information explaining how Western Union charges are charged to the sender for the execution of the money transfer are available on the Western Union transaction website and are available to the sender during the execution of the transaction order.'}]
+[{'translation_text': 'Individual transfer fees for transfers of funds are specified in the "Send money via Internet" tab at www.westernunion.com.'}]
+[{'translation_text': 'Select the name of the destination country, enter the amount of the message and then click "Count."'}]
+[{'translation_text': 'The sender should pay any fees to carry out the transmission, unless otherwise provided for in the country in question.'}]
+[{'translation_text': 'In some cases, payment of transferred funds may be subject to local tax rules or require payment of service charges.'}]
+[{'translation_text': 'The recipient may therefore be required to pay additional costs related to the payment of funds transferred by the sender on the basis of a customer account, to a mobile phone account or to a bank account.'}]
+[{'translation_text': 'Money transfers should be sent to the account (Recipients) in local currency, otherwise the receiving institution (in which the payee has an account) may convert funds at its own exchange rate or even refuse to accept the money transfer.'}]
+[{'translation_text': 'The contract between the Recipient and its/her mobile or banking provider, mWallet or other account servicing entity shall specify the rights, obligations, fees, availability of funds and account restrictions.'}]
+[{'translation_text': "In the event of inconsistencies in the account owner's data (including mobile phone numbers for mobile phone accounts) and the recipient's name, funds will be transferred to the account with the number given by the sender."}]
+[{'translation_text': 'Western Union may charge additional fees for the use of an account for the purpose of sending and receiving a money transfer.'}]
+[{'translation_text': 'Western Union shall not be liable for any costs incurred by the Sender or any account holder in connection with the exchange rate during the exchange into foreign currencies or activities or inaction in the case of a given location or from an internal service provider.'}]
+2.
+9.
+[{'translation_text': 'Exchange rates'}]
+[{'translation_text': 'a.'}]
+[{'translation_text': 'Money transfers are usually carried out in the currency of the target country (in some countries the payment of funds is only possible in the alternative currency).'}]
+[{'translation_text': 'All currencies are converted by Western Union at the current rate.'}]
+[{'translation_text': 'Western Union converts on the basis of the market-available in-bank rates plus a margin.'}]
+[{'translation_text': 'Most exchange rates are amended several times a day, in accordance with the relevant exchange rates in force when global financial markets are closed.'}]
+[{'translation_text': 'Exchange rates for transfers of funds are available at www.westernunion.com after selecting the name of the destination country on the'}]
+[{'translation_text': 'b.'}]
+[{'translation_text': 'The currency will be converted at the time of the transfer and the recipient will receive the transfer in local currency, in the amount indicated during the transfer.'}]
+[{'translation_text': 'In some countries, local legislation requires that the amount of money transfer be converted into local currency at the time of payment.'}]
+[{'translation_text': 'If the sender transfers funds to one of such countries, the exchange rate given above is only estimated and the actual exchange rate will be determined when the funds are paid out.'}]
+[{'translation_text': 'Western Union representatives may offer Recipients the possibility to receive the transmission in a currency other than that chosen by the sender.'}]
+[{'translation_text': 'In such cases, Western Union (or its representatives, mobile telephone service providers or bank service providers) may charge additional fees due to the need to convert the funds sent by the Shipper into the currency chosen by the Recipient.'}]
+[{'translation_text': 'If the sender chooses a currency other than the currency of the destination country, the selected money transfer currency may not be available at all locations in the country concerned or may not be available in small enough denominations to cover the entire money transfer.'}]
+[{'translation_text': 'In such cases, the representative may send part of the money transfer made by the sender in national currency.'}]
+[{'translation_text': 'Western Union exchange rates may be less favourable than some publicly available exchange rates used in transactions between banks and other financial institutions.'}]
+[{'translation_text': 'Any difference between the exchange rates offered to customers and the exchange rates received by Western Union will be added by Western Union (and, in some cases, by their representatives, mobile service providers or bank service providers) to the money transfer charges.'}]
+[{'translation_text': 'Additional information on the exchange rates for specific countries of destination is available under the free telephone number given below or on our website.'}]
+2.
+10.
+[{'translation_text': 'SMS .Western Union offers a free notification service via SMS in selected countries to inform the receiving of the money transfer (for the sender) and the availability of funds to be paid (for the Recipient).'}]
+[{'translation_text': 'Only the Sender or the Recipient shall be responsible for regulating the charges charged by the mobile telephone service provider.'}]
+[{'translation_text': 'Western Union is not responsible for any fees associated with sending SMS messages.'}]
+[{'translation_text': 'If permitted by the applicable law, the SMS notification will be sent to the Sender and/or Receiver number given during the execution of the transaction.'}]
+[{'translation_text': 'Western Union will send messages to the gate for further transfer, for which third parties are responsible, and which Western Union does not guarantee.'}]
+[{'translation_text': 'Western Union shall not be liable for potential technical deficiencies in proprietary systems belonging to or outside third parties.'}]
+3.
+[{'translation_text': 'OUR OBJECTION TO YOU/MISS'}]
+3.
+[{'translation_text': '1 We declare our readiness to provide you with a money transfer service in the form of individual cash payments and provide appropriate information in accordance with these Terms and to maintain due diligence.'}]
+3.
+2.
+[{'translation_text': 'We are not obliged to accept any transaction order, nor are we responsible for rejecting or withdrawing, canceling or restricting the provision of any service.'}]
+[{'translation_text': 'However, these Conditions should apply to any order that we confirm.'}]
+3.
+3.
+[{'translation_text': 'We are not responsible to you for:'}]
+[{'translation_text': '(a) goods or services for which you pay using the Western Union Internet Service, and in particular for their delivery;'}]
+[{'translation_text': '(b) interference with the operation of telecommunications equipment which is outside our control;'}]
+[{'translation_text': '(c) loss or delay in sending messages due to the use of an Internet access service provider or caused by a web browser or other computer program not under our control;'}]
+[{'translation_text': '(d) the services provided to you by your card issuer;'}]
+[{'translation_text': '(e) computer viruses derived from third parties;'}]
+[{'translation_text': '(f) errors on the Website or on the Western Union website caused by incomplete or incorrect information provided to us by you or third parties;'}]
+[{'translation_text': '(g) unauthorized use or acquisition of a message or information before it reaches the Website; and'}]
+[{'translation_text': '(h) unauthorized use or access to data relating to you or to your transactions in our possession (unless such use or access is caused by our negligence, fraud or non-compliance with your data protection laws).'}]
+3.
+[{'translation_text': '4 Notwithstanding any previously concluded agreement concerning the execution of transfers of funds, we are not obliged to accept an order or transfer of money or any other transaction within the Western Union Internet Service if:'}]
+[{'translation_text': '(a) we are unable to obtain satisfactory proof of your identity;'}]
+[{'translation_text': '(b) we have reason to believe that the transaction message is incorrect, unauthorised or falsified;'}]
+[{'translation_text': '(c) you will provide us with incorrect or incomplete information, or if the message concerning your transaction is not provided to us in due time so that the requested transaction can be executed in a timely manner; or'}]
+[{'translation_text': '(d) Your card issuer has not authorized your use of your bank card to pay for the transaction and cover the fees payable to us for the transaction'}]
+[{'translation_text': "We do not accept liability for damages caused by failure or delay in payment of the recipient's money transfer in respect of our liability in accordance with point 8 or failure to make a transaction within the Western Union Internet Service due to any of the above reasons."}]
+3.
+[{'translation_text': '5 We may refuse to provide the Western Union Internet Service (in whole or in part) to you if its provision could lead to a violation of Western Union policy (including policies aimed at combating fraud, the marketing of financial property values derived from illegal or undisclosed sources or the financing of terrorism) and/or any relevant legislation, judgments or requirements of the administrations whose jurisdiction or powers we remain or if, for other reasons, we consider that such action is necessary in order to protect our interests.'}]
+[{'translation_text': 'However, if we refuse to provide the Western Union Internet Service (in whole or in part) for the above reasons, we will, as far as possible, notify you of this fact and, unless this is prohibited by legal considerations, we will explain the reason for our decision.'}]
+3.
+6.
+[{'translation_text': 'We may suspend the operation of the Western Union website or the Western Union Internet Service in whole or in part if, at our sole discretion, we consider this to be appropriate due to circumstances beyond our control (events outside our control).'}]
+[{'translation_text': 'We commit that if the provision of services via the Western Union website or the Western Union Internet Service is interrupted (by us, an external service provider or by other entities) for any reason, we will make reasonable efforts to minimise the duration of the break.'}]
+3.
+7.
+[{'translation_text': 'In principle, we will communicate with you via the Internet and e-mail.'}]
+[{'translation_text': 'This does not affect your right to communicate with us with other means (described in point.'}]
+1.
+[{'translation_text': '2), if circumstances so require.'}]
+4.
+[{'translation_text': 'YOUR COMMITMENTS TO US'}]
+4.
+[{'translation_text': '1 You undertake to pay commissions due to us for any money transfer or other transaction (see paragraph 2.'}]
+[{'translation_text': '8), which you have implemented or requested as part of the Western Union Internet Service'}]
+4.
+2.
+[{'translation_text': "You undertake to pay the principal amount of each money transfer and our remuneration using a bank card (to the extent that WUIB allows transfers based on the client's bank account)."}]
+[{'translation_text': 'In every use of the Western Union Internet Service, you agree to charge your card issuer with the principal amount of the money transfer and our remuneration for the relevant transaction prior to the transfer of money or other transaction.'}]
+[{'translation_text': 'The amount to be charged to your card issuer will be given to you prior to the final authorisation of the transaction.'}]
+4.
+3.
+[{'translation_text': 'You acknowledge and agree that:'}]
+[{'translation_text': '(a) when registering with us, you will provide us with true, accurate, up-to-date and complete information;/p>'}]
+[{'translation_text': '(b) you will take action to ensure that the transaction data (amount, country, recipient name or MTCN) are disclosed only to the recipient. ,'}]
+[{'translation_text': 'You will be obliged to ensure that third parties do not have access to this information.'}]
+[{'translation_text': 'We recommend making transactions only in the case of known customers.'}]
+[{'translation_text': '(c) you will not use the Western Union Internet Service for illegal or related purposes;'}]
+[{'translation_text': '(d) you will not use the Western Union Internet Service for any forbidden purpose or in connection with it;'}]
+[{'translation_text': '(e) you will not commission a money transfer or any other transaction within the Western Union Internet Service in breach of these Terms or other restrictions or usage requirements described on the Western Union Website; and'}]
+[{'translation_text': '(f) You are responsible for the security of your password and the names of your email account according to pairs.'}]
+[{'translation_text': '6 below.'}]
+4.
+4.
+[{'translation_text': 'In case of loss, theft, misuse or unauthorised use of transaction data (see section 4.'}]
+[{'translation_text': '3.b), if you find that the company has made a transaction that has not been confirmed, or if you believe that the company has not executed the transaction or carried out the transaction incorrectly, you should call the number ·+32- ((0) 2-639 7112 or 00800 32 11 416 (free in Poland) and inform us immediately.'}]
+[{'translation_text': 'Once the information is received, we will conduct an investigation.'}]
+4.
+5.
+[{'translation_text': 'You acknowledge and agree that we can provide information on your subject and the services we provide to you, authorities or state authorities whenever:'}]
+[{'translation_text': '(a) we are bound by the relevant laws; or'}]
+[{'translation_text': '(b) we find that disclosure of this information may help to combat fraud, the placing on the financial market of assets derived from illegal or undisclosed sources or other criminal activities.'}]
+5.
+[{'translation_text': 'Client Service'}]
+[{'translation_text': 'If you discover or encounter any errors or problems in the use of the Western Union website or the Western Union Internet Service or related thereto, you will generally communicate with us and may lodge a complaint via e-mail, telephone (see section 1.)'}]
+[{'translation_text': '2) or by letter:'}]
+[{'translation_text': 'Western Union Poland'}]
+[{'translation_text': 'Lithuania UAB'}]
+[{'translation_text': 'J.'}]
+[{'translation_text': 'Balcikonio Str 3,'}]
+[{'translation_text': 'Vilnius, Lithuania LT-08247.'}]
+6.
+[{'translation_text': 'HAS ADOPTED THIS DECISION:'}]
+[{'translation_text': 'Before making the first money transfer, you will give the password and the current e-mail address as the user name.'}]
+[{'translation_text': 'The password and username cannot be used by another person.'}]
+[{'translation_text': 'You are responsible for the safe storage of your password and username, as well as for the safety of transactions with your password or username.'}]
+[{'translation_text': 'Never reveal your password to anyone else or write it down!'}]
+[{'translation_text': 'You are obliged to notify us immediately of unauthorized use of your password or username or any other breach of security by telephone +43 800 29 6544.'}]
+[{'translation_text': 'After you have notified us of unauthorized use of your password or username, we will immediately take steps to prevent further use.'}]
+[{'translation_text': 'We will inform you immediately of such action and of the reasons for taking it, unless it is prohibited by the relevant legislation.'}]
+[{'translation_text': 'Taking these steps does not mean taking responsibility for the loss or damage caused by your failure to comply with the obligations set out in this paragraph.'}]
+[{'translation_text': 'You can apply to your issuer with a claim for refund or a refund of the account from the issuer of the card if there is fraud using your bank card or bank account.'}]
+7.
+[{'translation_text': 'Disclosure of information to third parties'}]
+7.
+[{'translation_text': '1 Western Union uses and processes personal data as described in the Privacy Policy, as you agreed.'}]
+[{'translation_text': 'To read our Privacy Policy, please click the link.'}]
+[{'translation_text': 'We have the right to change the Privacy Rules at any time.'}]
+7.
+[{'translation_text': '2 These privacy rules constitute a clear statement in relation to banking secrecy in accordance with the couples.'}]
+[{'translation_text': '38 Austrian Bank Act.'}]
+[{'translation_text': 'This consent may be revoked at any time by sending a written statement to the WUIB by traditional mail to the address given in point 1.'}]
+[{'translation_text': '1 or by e-mail to the address given in point 1.'}]
+2.
+7.
+[{'translation_text': '3 We reserve the right to verify the data provided by you.'}]
+[{'translation_text': 'Western Union determines credit ratings on the basis of the mathematical and statistical processes provided by Deltavista GmbH, Diefenbachgasse 35, 1150 Vienna or other service providers indicated by us to verify data provided by the customer, except credit information The consent may be withdrawn at any time.'}]
+8.
+[{'translation_text': 'RESPONSIBILITY'}]
+[{'translation_text': 'A.'}]
+[{'translation_text': 'Unauthorized transactions'}]
+8.
+1.
+[{'translation_text': 'We are responsible for carrying out transactions that you have not authorized.'}]
+[{'translation_text': 'Provided that you are not responsible for unauthorised transactions in accordance with point 8.'}]
+[{'translation_text': 'Two and eight.'}]
+[{'translation_text': '3, we will reimburse the amount which has been sent unauthorized at the latest by the end of the business day following the business day on which we have been notified of the fact that the transaction is not authorised or we have learned that an unauthorized transaction has been carried out otherwise.'}]
+[{'translation_text': 'We will not make any claims for the costs we have incurred.'}]
+[{'translation_text': "In the event of reasonable indications of unfair action by you/your company's obligation to reimburse the amount will be suspended and dealt with and the proceedings will be initiated immediately."}]
+8.
+[{'translation_text': '2 You may be obliged to pay compensation of up to EUR 50:'}]
+[{'translation_text': 'a.'}]
+[{'translation_text': 'for carrying out an unjustified transaction using lost, stolen or lost data in any way for the transaction (see section 4.'}]
+[{'translation_text': '3 b); or'}]
+[{'translation_text': 'b.'}]
+[{'translation_text': 'for misuse of data for transactions.'}]
+8.
+[{'translation_text': '3 We will not make any claims at the address of you, as set out in point 8.'}]
+[{'translation_text': '2, if the detection of the loss, theft or misuse of the data for the transaction was not possible or was caused by an employee or contractor acting on our behalf, one of our branches or an external supplier designated by us.'}]
+8.
+[{'translation_text': '4 Your liability for losses caused by an unauthorised transaction is not limited to compensation of up to EUR 50, as stated in point 8.'}]
+2.,
+[{'translation_text': 'if you have acted in a wrong way or intentionally contributed/contributed to misuse of the data for the transaction or committed/missed gross negligence.'}]
+[{'translation_text': 'In such cases, you are liable for any loss caused by an unauthorised transaction.'}]
+[{'translation_text': 'The risk of negligence includes, inter alia, cases where you have not previously notified Western Union of the loss of data for the transaction, or if the transaction data are not stored in a secure manner by you/you, or if the data is disclosed to third parties.'}]
+8.
+[{'translation_text': '5 If you do not act in the wrong way, you will not be held responsible:'}]
+[{'translation_text': 'a.'}]
+[{'translation_text': 'for losses caused by unauthorised use of data for transactions in point 4.'}]
+4.;
+[{'translation_text': 'b.'}]
+[{'translation_text': 'if we do not ensure the availability of contact points for the purposes of the notification referred to in point 4.'}]
+4.
+[{'translation_text': 'B.'}]
+[{'translation_text': 'Incorrectly executed or not executed transactions'}]
+8.
+[{'translation_text': "6 We are responsible for the failure to carry out or improperly carried out transactions that have been ordered by you/Ma'am, unless it is your fault."}]
+[{'translation_text': 'Your wine includes, inter alia, the reasons described in 4.'}]
+[{'translation_text': '3 above.'}]
+[{'translation_text': 'This means that in the event of a failure or incorrect execution of a transaction, we will return the sum of the money transfer to you (depending on the extent to which the transaction has not been carried out or has been incorrectly carried out).'}]
+[{'translation_text': 'You are authorised to apply for reimbursement of all fees and interest in so far as it has been collected or incurred in connection with a failed or improper transaction.'}]
+8.
+[{'translation_text': '7 To the extent that the fees have been collected in connection with the failure to carry out or incorrectly carried out by us or by the intermediary of the transaction and deducted from the amount of the money transfer received by the Recipient in the course of that transaction, we shall immediately reimburse the Recipient of the corresponding amount collected for the fees.'}]
+8.
+[{'translation_text': '8 Our Responsibility as set out in point 8.'}]
+[{'translation_text': '6 shall be excluded where:'}]
+[{'translation_text': 'a.'}]
+[{'translation_text': 'we can demonstrate that the amount of the transfer has been received by the Recipient in due time through the cash service provider; or'}]
+[{'translation_text': 'b.'}]
+[{'translation_text': 'for the purposes set out in point 8.'}]
+6.
+[{'translation_text': 'the transaction should be deemed to have been properly executed if we demonstrate that the transaction was carried out in accordance with the information provided by you.'}]
+[{'translation_text': 'If the transaction data provided by you has proved incorrect, you can ask us to help you recover the cash.'}]
+[{'translation_text': 'We do not guarantee the success of these actions.'}]
+[{'translation_text': 'We reserve the right to charge a fee to cover the reasonable costs involved.'}]
+[{'translation_text': 'C.'}]
+[{'translation_text': 'Exclusion of liability'}]
+8.
+[{'translation_text': '9 All our responsibilities set out in point 8.'}]
+[{'translation_text': '1 or 8.'}]
+[{'translation_text': '6 is excluded if we are not informed of an unauthorised transaction or incorrect transaction within 13 months of the date of the transaction.'}]
+8.
+[{'translation_text': '10 Nor do we bear any of the responsibilities set out in point 8 if the transaction is not carried out or is carried out incorrectly because of circumstances beyond our control, or if our statutory obligations do not permit it.'}]
+8.
+[{'translation_text': '11 We are not liable if an unauthorised or improper transaction is carried out by third parties or between third parties that you have instructed/instruction before we receive funds from a money transfer or other transaction.'}]
+[{'translation_text': 'In such a case, contact a third party immediately and inform them of the circumstances of the execution of an unauthorised or improper transaction.'}]
+8.
+[{'translation_text': '12 We are not liable for damage caused by extraordinary and unforeseen circumstances beyond the control of Western Union, and the consequences of which, despite due diligence, Western Union has failed to avoid (caused, for example.'}]
+[{'translation_text': 'by circumstances beyond our control, failures of telecommunications lines, social unrest, war or other events such as protest actions or blockades that we have no influence on).'}]
+[{'translation_text': 'This applies equally to cases where Western Union is bound by Community, national, judicial or administrative legislation which provides otherwise.'}]
+8.
+[{'translation_text': '13 Our responsibility is not excluded or restricted if it is unlawful.'}]
+[{'translation_text': 'This applies to liability for death or injury caused by negligence on our part; fraud or misinformation; or violations of rights where their violation or limitation would be unlawful in relation to Western Union Services.'}]
+9.
+[{'translation_text': 'INTELLECTUAL OWNERSHIP'}]
+[{'translation_text': 'The Western Union website and the Western Union website, content and all related intellectual property rights (including, inter alia, copyrights, patents, databases, trademarks and service marks) are our property, our affiliates or third parties.'}]
+[{'translation_text': 'All rights, titles and legal interests to the Western Union website and the Western Union website will remain our property and/or the property of such other third parties.'}]
+[{'translation_text': 'The Western Union website and the Western Union website may only be used for the purposes permitted by these Terms or described on the Website.'}]
+[{'translation_text': 'You are authorised to only view and copy the Western Union website pages for personal use.'}]
+[{'translation_text': 'You may not duplicate, publish, modify, develop, participate in the market, place on the Internet or otherwise distribute or exploit the Western Union Website, Western Union Internet Service or any part of it for public or commercial purposes without our express written consent.'}]
+[{'translation_text': 'You may not: (a) use any robot, spider, interceptor or other automatic device to access the Western Union website or the Western Union website and/or (b) you will not delete or modify the content of any warnings or information on copyright, trademarks or other property rights posted on the Western Union website (or printed pages of the website).'}]
+[{'translation_text': 'The name Western Union and other names and designations of ownership of the Western Union products and/or services referred to on the Western Union website shall constitute our exclusive ownership or exclusive ownership of other third parties.'}]
+[{'translation_text': 'Other products, services and company names appearing on the Website may constitute trademarks of the respective proprietors of those marks.'}]
+10.
+[{'translation_text': 'DEPARTMENTS TO OTHER INTERNET PAGES'}]
+[{'translation_text': 'The Western Union website may contain links and indicators to other websites and resources (the related websites).'}]
+[{'translation_text': 'Links to Related Websites do not constitute a guarantee on our part or a link between us and third party resources or their content.'}]
+[{'translation_text': 'References shall not imply that we are linked or associated with trademarks, trade names, graphical signs or copyright symbols placed in or accessible through links or authorised to use them, or that trademarks, trade names, graphic marks or copyright symbols of Western Union may be lawfully used on related websites.'}]
+[{'translation_text': 'Any doubts about Related Websites should be addressed to you to the administrator of such Related Website.'}]
+[{'translation_text': 'We do not provide or warrant any assurances for their accuracy and reliability and expressly waive responsibility for any advice, opinions, statements and other information contained on or disseminated through any related website.'}]
+[{'translation_text': 'You acknowledge that you can rely on any opinion, advice or information contained on any related website or otherwise made available only at your own risk.'}]
+11.
+[{'translation_text': 'The right to hold or cancel the money transfer'}]
+11.
+1.
+[{'translation_text': 'You have the right to suspend the transfer of money via Western Union within 14 days.'}]
+[{'translation_text': 'The interruption of the transaction should be declared in writing and sent by e-mail or traditional mail.'}]
+[{'translation_text': 'However, the right to suspend the transaction shall not apply where the funds have been transferred to the Recipient before we receive a notification of the interruption of the transaction.'}]
+[{'translation_text': "If you exercise the right to suspend the transaction by paying the recipient's cash, we will refund the amount of the money transfer to you without charge."}]
+11.
+2.
+[{'translation_text': 'The interruption of the transaction may be ordered in writing and sent by e-mail or by traditional mail if the funds have not been transferred to the Recipient before we receive a notice of interruption.'}]
+[{'translation_text': 'In this case, we will refund the amount of money transfer at the Western Union exchange rate in force at the time of the repayment of the amount, at least of the nominal value of the transaction, if the amount has not been transferred to the Recipient within 45 days.'}]
+[{'translation_text': 'In that case, the transfer fees will not be refunded.'}]
+[{'translation_text': 'If a notification is provided, if the amount of the transfer is not paid to the Recipient within three working days, we will refund the amount of the money transfer together with the fees paid for the transfer (based on the laws and regulations).'}]
+12.
+[{'translation_text': 'ALL OF THE AGREEMENT'}]
+[{'translation_text': 'These Terms, together with other matters included in these Terms by reference, constitute the whole agreement and agreement between you and us and replace and terminate any previous agreements or agreements between you and us.'}]
+13.
+[{'translation_text': 'DIVISION'}]
+[{'translation_text': 'In the event that one or more of the provisions of these Conditions prove to be invalid, unlawful or unenforceable for any reason, the remaining provisions shall remain valid and enforceable.'}]
+14.
+[{'translation_text': 'COMPLAINTS, RIGHT AND RIGHT COURT'}]
+14.
+[{'translation_text': '1 If you are not satisfied with our services described in these Terms, you may lodge a complaint in writing via the contact details published at https://www.westernunion.com/en/.'}]
+[{'translation_text': 'We will make every effort to consider the complaint received at the earliest opportunity and send a reply within 15 working days of receipt of the complaint.'}]
+[{'translation_text': 'In exceptional cases, we will send a preliminary reply within 15 working days, in which we will set a deadline for sending the final reply, no later than 35 working days from the date on which the complaint was sent.'}]
+[{'translation_text': 'If you do not receive our final reply or are dissatisfied with its content, it is possible to address the Joint Body.'}]
+[{'translation_text': 'mediation of the Austrian banking sector [Gemeinsame Schlichtungsstelle der österreichischen Kreditwirtschaft], Vienna Hauptstraße 63, 1045 Vienna.'}]
+[{'translation_text': 'You may also exercise your rights to bring an action before the competent court of the general public.'}]
+[{'translation_text': 'It is also possible to use the online dispute resolution system.'}]
+[{'translation_text': 'The ODR offers out-of-court settlement of disputes concerning transactions: http://ec.europa.eu/consumers/odr/.'}]
+14.
+[{'translation_text': '2 These Terms are subject to Austrian legislation, except for conflict-of-law rules.'}]
+[{'translation_text': 'The place of execution is Vienna.'}]
+[{'translation_text': 'If you are a Polish resident, you can also benefit from any applicable Polish consumer protection law.'}]
+14.
+[{'translation_text': '3 Contracts not concluded with consumers, within the meaning of point 1 of the Austrian Competition and Consumer Protection Act [KSchG], are subject to the jurisdiction of the courts in Vienna, the Centre.'}]
+[{'translation_text': 'If you are a consumer, you may take legal action in respect of claims and disputes (including claims and disputes not arising from the contract) arising from or relating to these Terms both in court in the country of residence or in court in Austria.'}]
+[{'translation_text': 'If you are a consumer, we can take legal action against you in your country of residence, habitual residence or place of employment.'}]

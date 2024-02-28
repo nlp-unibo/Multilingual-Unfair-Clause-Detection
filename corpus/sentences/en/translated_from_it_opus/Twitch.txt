@@ -1,0 +1,288 @@
+Conditions for using the service
+1.
+Introduction; consent to the Conditions for using the service
+2.
+Use of Twitch by minors and blocked people
+3.
+Privacy Policy
+4.
+Account
+5.
+Use of Devices and Services
+6.
+Modification of the Conditions for using the service
+7.
+License
+8.
+User Content
+9.
+Behaviors not permitted
+10.
+Respect for copyright
+11.
+Brand names
+12.
+Third Party Content
+13.
+Presentation of ideas
+14.
+Express termination clause
+15.
+Controversies
+16.
+Various
+17.
+Requests for information and methods of service of subpoenas
+18.
+Terms specific to Soundtrack by Twitch
+1.
+Introduction; consent to the Conditions for using the service
+PLEASE READ THE TERMS OF SERVICE CAREFULLY, WHICH CONSTITUTE A BINDING CONTRACT.
+Welcome to the services operated by Twitch Interactive, Inc. (
+collectively, together with its affiliates, “Twitch” or “we”), consisting of the website located at https://www.twitch.tv, and its network of websites, software applications and other products or services offered by Twitch (“Twitch Services”).
+Other services offered by Twitch may be governed by different terms.
+By using the Twitch Services, You agree to be subject to the Twitch Community Guidelines, as well as any additional guidelines or rules posted on the Twitch Services, made available to You, or communicated to You in connection with the Services and specific features.
+Twitch may also offer paid services, which are subject to Twitch's Terms of Sale and any other terms communicated to you in connection with such services.
+All such terms and conditions and guidelines ("Guidelines") are incorporated into these Terms of Service by reference.
+The Terms of Service apply to both Users who register an account for the Twitch Services and non-registered Users.
+By clicking “Sign Up” or otherwise registering, downloading, accessing or using the Twitch Services, you agree to enter into a legally binding agreement with Twitch regarding the Twitch Services.
+The User declares to have read and understood these Conditions for the use of the service and agrees to be bound by them.
+If you do not agree to the Terms of Service, you must refrain from accessing and using the Twitch Services.
+By using Twitch or maintaining an account with Twitch on behalf of a company, entity, or organization (hereinafter collectively referred to as a “Membered Organization”), you represent and warrant that: (i) you are an authorized representative of the Member Organization , with the right to bind it to the Conditions for using the service and to grant the envisaged licenses; and (ii) to accept the Conditions for using the service on behalf of the registered Organization.
+2.
+Use of Twitch by minors and blocked people
+The Twitch Services are not available to persons under the age of 13.
+If you are between the ages of 13 and the age of majority in your jurisdiction of residence, you may use the Twitch Services only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. of the service.
+Additionally, the Twitch Services are not available to Users who have previously been removed from the Twitch Services by Twitch or to individuals who are not authorized to use them under United States law (such as restrictions and regulations relating to export and re-export) and any other applicable jurisdiction.
+BY DOWNLOADING, INSTALLING OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESENT THAT YOU ARE AT LEAST 13 YEARS OF AGE, THAT YOUR PARENT OR LEGAL GUARDIAN AGREES TO BE BOUND BY THESE TERMS OF USE IF YOU ARE BETWEEN THE AGE OF YOU ARE 13 YEARS OF AGE AND THE AGE OF MAJORITY IN YOUR JURISDICTION OF RESIDENCE AND YOU HAVE NOT BEEN PREVIOUSLY REMOVED FROM THE TWITCH SERVICES AND ARE NOT SUBJECT TO A PROHIBITION FROM RECEIVING THEM.
+3.
+Privacy Policy
+User privacy is important to Twitch.
+Please review Twitch's Privacy Policy for information regarding how Twitch collects, uses and discloses your personal information, and your Privacy Choices about how you can manage your online privacy when you use the Twitch Services.
+4.
+Account
+a. Account e password
+In order to open an account, you will be asked to provide certain information, such as an account name and password.
+You are solely responsible for maintaining the confidentiality of your account and password and for restricting access to your computer.
+If you allow others to use your account credentials, you agree to these Terms of Service on behalf of all persons who use the Services under your account or password and are responsible for all activities that are carried out under your account or password.
+The User is invited to ensure that the information communicated to Twitch at the time of registration, and at any time thereafter, is truthful, accurate, updated and complete to the best of his/her knowledge.
+Except as otherwise permitted in writing by Twitch, you may not sell, rent, lease, share, or provide access to your account to anyone else, including, but not limited to, a other person to access the administrative rights of their account.
+Twitch reserves all rights and legal means to prevent unauthorized use of the Twitch Services, including but not limited to technological barriers, IP mapping and, in serious cases, direct contact with the Internet Service Provider ( ISP) regarding unauthorized use.
+b. Third Party Accounts
+Twitch may allow you to register and access the Twitch Services through certain third-party services.
+The collection, use and disclosure of your information by third parties will be subject to the privacy policy of that third party service.
+Further information about how Twitch collects, uses and discloses your personal information when you link your Twitch account with your account on any third-party service is set forth in the Twitch Privacy Policy.
+5.
+Use of Devices and Services
+To access the Twitch Services, you may be required to use your personal computer or mobile device, as well as communicate with and use storage space on such devices.
+You bear the fixed or mobile Internet connection costs charged for accessing the Twitch Services.
+6.
+Modification of the Conditions for using the service
+Twitch may modify any provision of these Terms of Service by posting a modified version.
+Your continued use of the Twitch Services after the effective date of the Magazine Service Terms constitutes acceptance of the changes.
+Residents of the Republic of Korea will receive reasonable notice from Twitch of any material changes to its Terms of Service.
+All changes will be effective no earlier than 30 calendar days after posting; provided that any changes relating to new features of the Service available and features of the Service that are beneficial to You or any changes made for legal reasons may become effective immediately.
+7.
+License
+The Twitch Services are owned and operated by Twitch.
+Unless otherwise indicated, all content, information and other materials on the Twitch Services (excluding User Content set forth in section 8 below), including, without limitation, Twitch trademarks and logos, visual interfaces, graphics, the design, compilation, information, software, computer code (including source code or object code), the Services, text, images, information, data, sound files and other files and the their selection and organization (collectively called “Materials”) are protected by copyright and intellectual property rights and laws.
+All Materials are the property of Twitch or its subsidiaries or affiliates and/or third-party licensors.
+Unless explicitly stated in writing by Twitch, by accepting these Terms of Service you are receiving a limited, non-sublicensable license (i.e., a personal, limited right) to access and use the Twitch Services for personal or internal business use only.
+Twitch reserves all rights not expressly granted in these Terms to use the Service.
+This license is subject to these Terms of Service and does not permit you to engage in any of the following: (a) resale or commercial use of the Twitch Services or Materials; (b) distribution, public performance or public display of the Materials; (c) modify or otherwise create derivative uses of the Twitch Services or the Materials or any portion thereof; (d) use of any data mining, robots, or similar data gathering or extraction methods; (e) downloading (other than page caching) any portion of the Twitch Services, the Materials, or information contained therein, except as expressly permitted on the Twitch Services; or (f) any use of the Twitch Services or Materials other than for their intended purposes.
+Use of the Twitch Services or Materials other than as specifically authorized in these Terms of Service, without Twitch's prior written consent, is strictly prohibited and may constitute a violation of intellectual property rights or other laws.
+Unless explicitly indicated in these Terms of Use of the Service, in no case do they confer a license on intellectual property rights by virtue of estoppel, implication or other legal institutions.
+Twitch may terminate this license as described in Section 14.
+8.
+User Content
+Twitch allows you to stream live and recorded audiovisual works, use services such as chat, message boards, forum postings, wiki contributions, and interactive voice services, and to participate in other activities where you can create, publish, broadcast , perform or store content, messages, text, sounds, images, applications, code or other data or Materials on the Twitch Services (“User Content”).
+to. License in favor of Twitch
+(i) Unless otherwise agreed in a written agreement between You and Twitch signed by an authorized representative of Twitch, if You submit, transmit, display, perform, publish, or store User Content using the Twitch Services, you grant Twitch and its sublicensees, to the maximum extent and for the maximum duration permitted by applicable law (including indefinitely if permitted under applicable law), an unlimited, worldwide, irrevocable, fully sublicensable, non-exclusive, royalty-free right to (a) use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display User Content (including without limitation for the promotion and distribution of the Twitch Services or any portion thereof , and derivative works thereof) in any form, format, media and channel now known or hereafter developed or discovered; and (b) use the name, identity, likeness, and voice (and other biographical information) you submit in connection with your User Content.
+If such User Content contains the name, identity, likeness and voice (or other biographical information) of others, you represent and warrant that you have obtained the appropriate consents and/or licenses to use such elements and that Twitch and its sublicensees are authorized to use them to the extent set forth in these Terms of Service.
+(ii) With respect to User Content called “add-ons,” “maps,” “mods” or other types of projects submitted through CurseForge.com or related sites (“Posted Projects”), the rights granted by you terminate when the latter removes or deletes the Projects published from the Twitch Services.
+You further acknowledge that Twitch may retain, but not display, distribute, or make server copies of any Posted Projects that have been removed or deleted.
+(iii) With respect to live and recorded or streamed audiovisual works, the rights granted to you cease when you delete the relevant User Content from the Twitch Services or generally when you close your account, exception: (a) to the extent you have shared it with others on the Twitch Services and others have a copy or saved portions of your User Content (for example, made a clip); (b) Twitch has used them for professional purposes; and (c) for as long as reasonably necessary to remove it from backups and other systems.
+b. Representations and warranties regarding User Content
+The User is fully responsible for his/her User Content and the consequences resulting from their publication or dissemination.
+You represent and warrant: (1) that you are the author or owner of the User Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) that your User Content (a) does not constitute an infringement, violation, or misappropriation of any third party right, including any copyright, trademark, patent, trade secret, moral right, right of privacy, right of publicity, and any other intellectual or industrial property right and (b) are not defamatory towards any other person; (3) the User Content does not contain viruses, adware, spyware, worms, or other forms of malicious or harmful code; and (4) unless expressly authorized in writing, Your Content specifically does not contain any pre-release or non-public beta versions of any software or game content or any other proprietary information of Twitch or any third party.
+Twitch reserves all rights and remedies against Users who breach these representations and warranties.
+c. Risk relating to uploaded content
+Twitch uses reasonable security measures to protect your User Content from unauthorized copying and distribution.
+However, Twitch does not warrant that any unauthorized copying, use, or distribution of your User Content will not occur.
+To the fullest extent permitted by applicable law, you agree that Twitch will not be liable for any unauthorized copying, use, or distribution of your User Content by any third party, and you hereby release and forever waive any claims against Twitch for any such unauthorized copying or use of your User Content in any capacity.
+THE SECURITY MEASURES TO PROTECT USER CONTENT ADOPTED BY TWITCH ARE MADE AVAILABLE ON AN "AS IS" BASIS, WITHOUT ANY WARRANTIES, CONDITIONS, CERTAINTIES OR OTHER CLAUSES THAT GUARANTEE THAT THEY WILL BE ABLE TO REPEL ATTEMPTS TO Circumvent Security Mechanisms. SECURITY NOR THAT THE SECURITY MEASURES IN QUESTION WILL NOT BE EXCEEDED, DEACTIVATED OR OTHERWISE Circumvented.
+d. Promotions
+Users may promote, administer or conduct a promotion (a contest or sweepstakes) on or through the Twitch Services (“Promotion”).
+If you opt to promote, administer or conduct a Promotion, you must adhere to the rules listed below. (
+1) You are authorized to run Promotions to the extent permitted by applicable law and are fully responsible for the Promotion's compliance with all applicable laws, obligations and limitations. (
+2) You are classified as the promoter of the Promotion in the applicable jurisdiction(s) and are fully responsible for all aspects and costs relating to your Promotion, including but not limited to the execution, administration and management of the Promotion. Promotion; the preparation and publication of the official regulations; the selection of winners; the presentation of prizes; and obtaining any authorization and permission from third parties, including but not limited to the filing of any necessary registration and security.
+Twitch has the right to remove the Promotion from the Twitch Services if it reasonably believes that such Promotion does not comply with the Terms of Service or applicable laws. (
+3) The Promotions are not supported or approved by Twitch, which declines any responsibility in relation to them.
+You may not designate Twitch as a sponsor or co-sponsor of the Promotion. (
+4) You must view or read the following text when a Promotion is in connection with your Promotion: “This is a promotion from [your name].
+Twitch does not sponsor or endorse [your name]'s promotion and assumes no liability whatsoever in connection with this promotion."
+e. Endorsement/Testimonial
+You represent that your User Content is consistent with the FTC's Guidelines Concerning the Use of Testimonials and Endorsements in Advertising, the FTC's Disclosures Guide, the FTC's Native Advertising Guidelines, and any other guidelines published from time to time by the FTC (“FTC Guidelines”) as well as any other advertising guidelines required under applicable law.
+For example, if you received compensation or free products in exchange for discussing or promoting a product or service through the Twitch Services, or if you work for a company and decide to discuss or promote the products or services of such business through the Twitch Services, you agree to comply with your obligation under the FTC Guidelines to disclose such relationship.
+You, and not Twitch, are entirely responsible for any endorsements or testimonials relating to a product or service through the Twitch Services.
+f. Political activity
+Subject to these Terms of Service and the Community Guidelines, you may share political opinions, participate in political activities, provide links to the official website of a political committee, including a political committee's donation page political committee, and invite viewers to make direct donations to a political committee.
+However, you agree that such activities are entirely your own endeavors.
+Furthermore, by carrying out such activities, the User represents and warrants that he is eligible to carry them out under current laws and that in doing so he will comply with all relevant laws and regulations.
+You agree not to use, or solicit the use of, any Twitch monetization tools (e.g. Bits or subscriptions) for the purpose of making or transmitting donations to a candidate, a candidate's committee, to a political action committee, canvassing committee or any other campaign committee or to take any other action for the purpose of influencing any election.
+Candidates for political office are not eligible to use any Twitch monetization tools on their channels.
+9.
+Behaviors not permitted
+YOU AGREE not to violate any laws, contracts, intellectual property rights or other rights of third parties, not to commit illegal acts, and to be fully responsible for your conduct on the Twitch Services.
+You agree to abide by these Terms of Service and the Twitch Community Guidelines and not to:
+the. create, upload, transmit, distribute, or store content that is inaccurate, unlawful, infringing, defamatory, obscene, pornographic, invasive of privacy or publicity rights, harassing, threatening, abusive, inflammatory, or otherwise objectionable;
+ii.
+pretend to be another person or company, claim a non-existent affiliation with a person or entity, access the Twitch Services accounts of others without authorization, forge another person's digital signature, falsely present the origin, identity or the content of information transmitted through the Twitch Services or engage in any other similar fraudulent activity;
+iii.
+send unwanted messages (junk mail or spam) to Users of the Twitch Services, including but not limited to unsolicited advertising, promotional materials, other solicitation materials, mass mailings of promotional emails, chains, informational announcements, requests for charity, petitions or any other process related to free gifts (e.g.,
+lotteries and competitions) or other similar activities;
+iv.
+collect the email addresses or other contact information of other Users of the Twitch Services;
+v. defame, harass, abuse, threaten or defraud Users of the Twitch Services or collect, attempt to collect personal data from Users or third parties without their consent;
+vi.
+delete, remove, circumvent, disable, damage, or otherwise interfere with (a) security features of the Twitch Services or User Content, (b) features that prevent or restrict use or copying of accessible content through the Twitch Services, (c) features that impose limitations on your use of the Twitch Services or Content, or (d) delete any copyright or other intellectual property rights notices from the Twitch Services or Content of the user;
+vii.
+reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Twitch Services or any portion thereof, except where such activity is expressly permitted by the law of the jurisdiction in which you reside;
+vii.
+modify, adapt, translate or create derivative works based on the Twitch Services or any portion thereof, except if, and only to the extent, such activity is expressly permitted by applicable law notwithstanding this limitation;
+ix.
+interfere with or impair the operation of the Twitch Services or your enjoyment of the Twitch Services by any means, including by uploading or otherwise disseminating viruses, adware, spyware, worms or other forms of malicious code;
+x. retrieve emails from third-party mail servers without the consent of the interested party;
+xi.
+access websites, servers, software applications or other computer resources owned, used and/or licensed by Twitch, including but not limited to the Twitch Services, through any robot, spider, scraper, crawler or other automated means, regardless of purpose, or circumvent measures used by Twitch to prevent or restrict access to websites, servers, software applications or other computer resources owned, used and/or licensed by Twitch, including but not limited to the Services Twitch;
+xii.
+manipulate identifiers to disguise the origin of User Content transmitted through the Twitch Services;
+xiii.
+interfere with or disrupt the Twitch Services, servers, or networks connected to the Twitch Services, or fail to comply with any requirements, procedures, policies, or regulations of networks connected to the Twitch Services; use the Twitch Services in any manner that could interfere with, disrupt, impair, or inhibit any other User from fully enjoying the Twitch Services or could damage, disable, overburden, or impair the functioning of the Twitch Services in any manner;
+xiv.
+use or attempt to use another user's account without your and Twitch's permission;
+xv.
+attempt to circumvent Twitch's content filtering techniques, or attempt to access services or areas of the Twitch Services that you are not authorized to access;
+xvi.
+misrepresent in any way, with or without written notice, any relationship with Twitch or that you have received support from Twitch for yourself or any of its products or services for any purpose; And
+xvii.
+use the Twitch Services for any unlawful purpose or in violation of any local, state, national, or international law or regulation, including but not limited to laws governing intellectual property rights and other proprietary, data protection, and privacy rights.
+To the extent permitted by applicable law, Twitch disclaims all liability for your User Content and any harm resulting therefrom; Furthermore, Twitch is not responsible for any errors, defamation, slander, omissions, falsehoods, obscenity, pornography or vulgarity to which the User may be exposed by using the Twitch Services.
+Your use of the Twitch Services is at your own risk.
+Furthermore, these rules do not constitute an enforceable right by any third party, nor a reasonable expectation that the Twitch Services will not contain content prohibited by these rules.
+Twitch is not responsible for any statements or representations contained in your User Content.
+Twitch does not endorse the User Content, or the opinions, recommendations, or advice expressed therein, and expressly disclaims any liability in connection with the User Content.
+To the fullest extent permitted by applicable law, Twitch reserves the right to remove, screen, or edit any User Content posted or stored on the Twitch Services at any time without notice, including if such User Content violates these Terms of Service. use of the service or applicable law; You must therefore create backup copies of the User Content you post or store on the Twitch Services at your sole expense and replace it if removed.
+Use of the Twitch Services in violation of the foregoing constitutes a breach of these Terms of Service and may result in, among other things, termination or suspension of your right to use the Twitch Services.
+For residents of the Republic of Korea, except if Twitch reasonably believes that notification is legally prohibited (for example, if providing notification would (i) violate applicable laws, regulations, or orders from regulatory authorities or (ii) compromise an ongoing investigation conducted by a regulatory authority) or that any notification may cause harm to you, third parties, Twitch and/or its affiliates (for example, when to provide a notification harms the security of the Twitch Services), Twitch will promptly provide notification of the reason for the relevant action taken.
+10.
+Respect for copyright
+Twitch respects the intellectual property of others and complies with the Digital Millennium Copyright Act (“DMCA”) and other applicable laws.
+Copyright owners and their agents who believe that content posted on the Twitch Services constitutes infringement of their copyrights may submit a report by following our DMCA Guidelines, which also provides additional information about our policies, such as elements to include in the report and where to send it.
+11.
+Brand names
+TWITCH, the Twitch logos, and any other product or service names, logos, or slogans used by Twitch, and the look and feel of the Twitch Services, including all page headers, custom graphics, button icons, and scripts, constitute trademarks or trade dress of Twitch.
+Without Twitch's prior written consent, any use, even partial, in connection with any non-Twitch product or service, in any manner that is likely to cause confusion among customers, or in any manner that brings Twitch into disrepute is prohibited.
+Use of these trademarks must comply with Twitch's Trademark Guidelines.
+All other trademarks referenced in the Twitch Services are the property of their respective owners.
+References to products, services, processes, or other information, by trade name, trademark, manufacturer, supplier, or otherwise, contained in the Twitch Services do not constitute or imply endorsement, sponsorship, or recommendation thereof by Twitch, or any other form of affiliation .
+12.
+Third Party Content
+In addition to Your Content, Twitch may also make other third-party content available on the Twitch Services (collectively, “Third-Party Content”).
+Twitch does not control or endorse Third Party Content and makes no representations or warranties of any kind regarding Third Party Content, including, but not limited to, its accuracy or completeness.
+Third Party Content is not created, updated, or monitored by Twitch.
+Therefore, Twitch is not responsible for Third Party Content contained in the Twitch Services.
+The decision whether to access or use any third-party websites or applications linked to the Twitch Services (“Linked Sites”) is solely yours.
+Twitch does not control or endorse the Linked Sites or the information, materials, products or services contained in or accessible from the Linked Sites, and makes no representations or warranties of any kind regarding the Linked Sites.
+Furthermore, correspondence and commercial relationships between the User and advertisers present on the Twitch Services or identified through them, and participation in their promotions, fall solely within the sphere of relations between the User and the advertiser.
+Access to the Linked Sites and use of the Linked Sites, as well as the information, materials, products and services available through the Linked Sites, is at the User's sole risk.
+13.
+Presentation of ideas
+By submitting ideas, suggestions, documents and/or proposals (“Submissions”) to Twitch or its collaborators, you acknowledge and agree that Twitch will have the right to use or disseminate such Submissions for any purpose and in any manner without compensation nor other forms of recognition to the User.
+14.
+Express termination clause
+To the fullest extent permitted by applicable law, Twitch reserves the right, without notice and in its sole discretion, to terminate your license to use the Twitch Services (including for posting User Content) and to block you or prevent your access to and use of the Twitch Services in the future, even if we reasonably believe that: (a) your use of the Twitch Services violates these Terms of Service or applicable law; (b) you fraudulently or improperly use the Twitch Services; or (c) Twitch is unable to continue to provide the Twitch Services to you for technical or legitimate business reasons.
+Our right to terminate your license includes the right to terminate or suspend access to any products or services you have purchased, including subscriptions, Prime Gaming or Turbo accounts.
+To the maximum extent permitted by applicable law, your exclusive remedy if you are dissatisfied with (i) the Twitch Services, (ii) any provision of these Terms of Service, (iii) any policy or practice adopted by Twitch in managing the Twitch Services or (iv) content or information transmitted through the Twitch Services, is to terminate your account and cease using the Twitch Services in their entirety.
+For residents of the Republic of Korea, except if Twitch reasonably believes that notification is legally prohibited (for example, if providing notification would (i) violate applicable laws, regulations, or orders from regulatory authorities or (ii) compromise an ongoing investigation conducted by a regulatory authority) or that any notification may cause harm to you, third parties, Twitch and/or its affiliates (for example, when to provide a notification harms the security of the Twitch Services), Twitch will promptly provide notification of the reason for the relevant action taken.
+15.
+Controversies
+to. Indemnity
+To the fullest extent permitted by applicable law, you agree to indemnify, defend and hold harmless Twitch, its affiliates and subsidiaries, and each of its external vendors, employees, officers, agents, third-party vendors, licensors and partners (individually and collectively , "Twitch Parties") for any and all claims, losses, damages, demands, expenses, costs, and liabilities, including attorneys' fees and expenses, arising out of or related to your access, use, or misuse. User of the Twitch Services, your User Content posted, stored or otherwise transmitted on or through the Twitch Services, your violation of any third party rights, your violation of the Terms of Use service or failure to comply with representations and warranties made by the User.
+You agree to promptly notify the Twitch Parties of any third-party claims, and Twitch reserves the right, at Your expense, to assume the exclusive defense and control of any matter for which You are required to indemnify Twitch , who agrees to cooperate with Twitch in contesting these claims.
+Twitch will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+b. Disclaimer and Warranties
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW: (A) THE TWITCH SERVICES AND THE CONTENT AND MATERIALS INCLUDED THEREIN ARE MADE AVAILABLE ON AN “AS IS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, EXCEPT THOSE EXPRESSLY GRANTED IN WRITING BY TWITCH; (B) THE TWITCH PARTIES DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT WITH RESPECT TO THE TWITCH SERVICES, INCLUDING WITH RESPECT TO THE INFORMATION, CONTENT OR THE MATERIALS FOUND THEREIN; (C) TWITCH DOES NOT REPRESENT OR WARRANT THAT THE CONTENT OR MATERIALS IN THE TWITCH SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE; (D) TWITCH DISCLAIMS ANY RESPONSIBILITY FOR TYPOGRAPHICAL ERRORS OR OMISSIONS IN ANY TEXT OR PHOTOGRAPHS; AND (E) WHILE ATTEMPTING TO MAKE ACCESS TO AND USE OF THE TWITCH SERVICES SAFE, TWITCH CANNOT GUARANTEE, AND DOES NOT GUARANTEE, THAT THE TWITCH SERVICES OR ITS SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; THEREFORE YOU ARE REQUIRED TO USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND REMOVE ANY VIRUSES PRESENT IN DOWNLOADED MATERIALS.
+THE INFORMATION AND RECOMMENDATIONS, WHETHER ORAL OR WRITTEN, THAT YOU RECEIVE FROM TWITCH OR THROUGH THE TWITCH SERVICES DO NOT IN ANY WAY CONSTITUTE AN EXPRESS OR IMPLIED WARRANTY.
+c. Limitation of Liability and Damages
+the. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW: (A) IN NO EVENT WILL TWITCH OR THE TWITCH PARTIES BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES, OR FOR ANY OTHER DAMAGES OF ANY NATURE, INCLUDING BUT NOT LIMITED TO LOSS OF USE , LOST PROFITS OR LOSS OF DATA, WHETHER IN CONTRACTUAL OR EXTRA-CONTRACTUAL LIABILITY (ALSO, PURELY BY EXAMPLE, NEGLIGENCE) OR OTHERWISE, DUE TO OR IN ANY WAY CONNECTED WITH THE USE OR INABILITY TO USE THE TWITCH SERVICES , TO THE CONTENTS OR MATERIALS, INCLUDING BUT NOT LIMITED TO DAMAGES CAUSED BY OR ARISING FROM YOUR RELIANCE ON INFORMATION OBTAINED FROM TWITCH, OR CAUSED BY ERRORS, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAILS, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR FAILURE TO FUNCTION, REGARDLESS OF WHETHER THEY ARE ATTRIBUTABLE TO FORCE MAJEURE, COMMUNICATIONS MALFUNCTION, THEFT, DESTRUCTION OF, OR UNAUTHORIZED ACCESS TO TWITCH RECORDS, PROGRAMS, OR SERVICES; AND (B) IN NO EVENT SHALL TWITCH'S AGGREGATE LIABILITY, WHETHER IN CONTRACTUAL, WARRANTY, TORT (INCLUDING ACTIVE, PASSIVE OR ALLEGED NEGLIGENCE), PRODUCT LIABILITY, STRICT LIABILITY OR OTHERWISE, RESULT FROM THE USE OR INABILITY OF TO USE THE TWITCH SERVICES, MAY EXCEED THE GREATER OF THE AMOUNT PAID, IF ANY, BY YOU TO ACCESS THE TWITCH SERVICES IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM, AND ONE HUNDRED DOLLARS.
+TO THE EXTENT APPLICABLE LAW PROHIBITS THE LIMITATION OF SUCH LIABILITY, TWITCH WILL LIMIT ITS LIABILITY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+ii.
+Linked Sites
+THE LIMITATIONS OF LIABILITY SET FORTH ALSO APPLY TO DAMAGES INCURRED BY YOU AS A RESULT OF PRODUCTS OR SERVICES SOLD OR PROVIDED ON LINKED SITES OR BY THIRD PARTIES OTHER THAN TWITCH, WHICH YOU USE THROUGH OR ADVERTISED ON THE TWITCH SERVICES , OR WHICH YOU USE THROUGH LINKED SITES.
+iii.
+Fundamentals of negotiation
+YOU ACKNOWLEDGE AND AGREE THAT TWITCH HAS OFFERED THE TWITCH SERVICES, USER CONTENT, MATERIALS AND OTHER CONTENT AND OTHER INFORMATION, HAS SET THEIR PRICES AND HAS ENTERED INTO THESE TERMS AND CONDITIONS FOR USE OF THE SERVICE IN RELIANCE ON THE SET FORTH WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY, THAT THE SET FORTH WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY REPRESENT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND TWITCH AND THAT THE SET FORTH WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY CONSTITUTE A ESSENTIAL ELEMENT OF THE NEGOTIATIONS BETWEEN THE USER AND TWITCH.
+WITHOUT THESE LIMITATIONS TWITCH WOULD NOT BE ABLE TO PROVIDE THE TWITCH SERVICES TO YOU IN AN ECONOMICAL PRINCIPLE.
+d. Applicable law and competent court
+(i) To the maximum extent permitted by applicable law, you and Twitch agree that if you are a Member Organization or a consumer located in a jurisdiction other than those set forth in (ii) below, the following applies provisions regarding applicable law and arbitration:
+PLEASE READ THE FOLLOWING PROVISIONS CAREFULLY BECAUSE THEY PROVIDE DISPUTES WITH TWITCH TO ARBITRATION AND LIMIT THE MANNERS IN WHICH YOU CAN SEEK RELIEF FROM TWITCH.
+You and Twitch agree to arbitrate any disputes arising under these Terms of Service or your use of the Twitch Services, except that you and Twitch will not be obligated to arbitrate disputes aimed at obtaining legal remedy for the alleged illicit use of copyrights, trademarks, trade names, logos, trade secrets or patents.
+ARBITRATION PRECLUDES THE POSSIBILITY OF APPLYING TO ORDINARY JUSTICE.
+You and Twitch agree to notify each other in writing of any disputes within (30) days of them arising.
+Notification to Twitch must be sent to: Twitch Interactive, Inc.,
+Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104.
+You and Twitch further agree: to attempt informal resolution before proceeding to arbitration; that the arbitration will take place in Santa Clara County, California; that the arbitration will be conducted confidentially under the direction of a sole arbitrator in accordance with the JAMS Rules; and that the state or federal courts located in Santa Clara County, California shall have exclusive jurisdiction over any challenge to an arbitration award and over any litigation between the parties not submitted to arbitration.
+Except for the class action and legal remedies set forth below, the arbitrator shall have jurisdiction to grant any relief that would otherwise be available in court.
+Except for the class action and legal remedies set forth below, the arbitrator shall have jurisdiction to grant any relief that would otherwise be available in court.
+Any disputes between the parties will be governed by this Agreement, the laws of the State of California and the laws in force in the United States, excluding the rules of private international law that provide for the application of the law of a different jurisdiction.
+Regardless of whether the dispute is litigated in court or out of court, you and Twitch agree to refrain from bringing a class action, class arbitration, or other representative action or proceeding.
+(ii) If you are a resident of any jurisdiction where the provision of the above section is held to be unenforceable, any dispute, claim or cause of action arising out of or in connection with these Terms of Service shall be governed by and interpreted under the laws of the jurisdiction of your residence and will be resolved by the competent civil courts within the jurisdiction of your residence.
+And. Complaints
+YOU AND TWITCH AGREE THAT ANY ACTION OR CAUSE OF ACTION RELATED TO OR CONSEQUENT WITH THE TWITCH SERVICES MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER IT AROSE, OR BE BARRED.
+16.
+Various
+to. Waivers
+In the event that Twitch fails to exercise or enforce any right or provision under these Terms of Service, such failure shall not constitute a waiver of the right or provision.
+The waiver of a clause provided for in these Conditions for the use of the service will be effective only if expressed in writing and signed by the waiving party.
+b. Partial disability clause
+If any provision of these Terms of Service is found to be unlawful, void or for any reason unenforceable, the provision will be limited or severed from these Terms of Service to the minimum extent necessary, without affecting the validity and enforceability of the remaining clauses.
+c. Assignment
+These Terms of Service, as well as the rights and licenses granted under them, may not be transferred or assigned by the User, but may be assigned by Twitch without limitation.
+Any attempted assignment in violation of the Terms of Service will be void.
+d. Ultraactivity clause
+Upon termination of these Conditions for the use of the service, the clauses which by their nature or by explicit indication maintain their effectiveness, including, by way of example, sections 7, 8, 11, 12, and 15-17, will also be effective. after the expiry or termination of the Contract.
+And. Exhaustiveness clause
+The Terms of Service, which incorporate the Terms of Sale and Community Guidelines, constitute the entire agreement between you and Twitch relating to the subject matter hereof, which may only be modified in writing. and signed by authorized representatives of both parties, or by a unilateral modification of these Terms of Service by Twitch as set forth in section 6 above.
+17.
+Requests for information and methods of service of subpoenas
+All requests for information or documents relating to any potential, anticipated or ongoing legal proceeding, investigation or litigation shall be submitted to the appropriate level of legal notice and shall be properly notified to Twitch through Corporation Service Company (CSC), the agent for national Twitch registration.
+CSC's California address (CSC's location in your jurisdiction can be found on the Secretary of State's website) is as follows:
+Twitch Interactive, Inc.
+c/o Corporation Service Company
+2710 Gateway Oaks Drive, Suite 150N
+Sacramento, CA 95833
+Twitch does not accept requests for information or documents or legal notices via email or fax and will not respond to requests received through these tools.
+All requests must include information available to you that allows Twitch to locate the recordings in question (in particular, the Twitch Service in question, such as www.twitch.tv, and the username involved, such as the Twitch username: http://www.twitch.tv/username), the specific information requested and their relationship with the assessment of the User.
+Please also note that by limiting the request to the relevant records (for example a limited period of time), the User will facilitate efficient processing of the request.
+The Twitch Services are offered by Twitch Interactive, Inc.,
+con sede in: 350 Bush Street, 2nd Floor, San Francisco, CA 94104, email: help@twitch.tv.
+Users residing in California may request to receive this same information by email by sending a communication to the address above, indicating their email address and the information requested.
+18.
+Terms specific to Soundtrack by Twitch
+Soundtrack by Twitch™ (“Soundtrack”) is part of the Twitch Services and is a broadcaster tool designed to give content creators the ability to play licensed music in the background of their live streams and upload on-demand videos of them. live streams that do not include such music.
+By downloading, installing and/or otherwise using Soundtrack, you agree that the download, installation and/or use of Soundtrack is governed by these Terms of Service.
+Since Twitch's Community Guidelines and Music Guidelines also apply, we recommend reviewing both resources before using Soundtrack.
+Soundtrack was born out of Twitch's desire to offer content creators a wide variety of licensed music for their live streams.
+To this end, Twitch has obtained licenses from numerous rights holders and continues to do so to continue adding new songs to Soundtrack stations and playlists.
+Twitch also designed Soundtrack to give creators the ability to generate on-demand videos of their live streams that don't include such music.
+The licenses obtained from Twitch allow Twitch to make these materials available to you for use in live streams on your Twitch channel.
+The music and other materials made available through Soundtrack have not been licensed for use in pre-recorded content, in content that can be streamed on-demand (such as VOD and clips), or outside of the Twitch Services .
+This means that the User cannot:
+Create on-demand content containing material from Soundtrack: We have specifically designed Soundtrack with this limitation, and through proper configuration you can create and use music-free on-demand videos from live streams that include Soundtrack music; or
+Livestream content that includes music or other material from Soundtrack outside of the Twitch Services.
+By taking any of these actions you may receive a notification of infringement from the rights holders and their respective agents.
+Finally, it is important to remember that music rights change over time.
+We therefore reserve the right to edit or remove certain songs or other content from Soundtrack at any time (for example, to comply with applicable laws or our music licenses).
+Twitch assumes no responsibility for how you use Soundtrack.

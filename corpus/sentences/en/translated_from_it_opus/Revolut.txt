@@ -1,0 +1,741 @@
+These personal terms apply as of October 31, 2021.
+Click here to view the previous personal terms, which will apply until October 31, 2021.
+Revolut account
+1.
+Why this information is important
+This document sets out the terms and conditions of your Revolut personal account (the Account) and related services, as well as setting out other important items that customers should be aware of.
+These terms and conditions, together with the Commissions Page, the Privacy Policy and any other terms and conditions applicable to the Revolut services, constitute a legal agreement (the contract) between:
+● the client, as account holder, e
+● Revolut Payments UAB (a company incorporated in the Republic of Lithuania with company registration number 304940980 and whose registered office and main office is located in Konstitucijos pr.
+21B, 08130 Vilnius, Republic of Lithuania).
+The contract is indefinite.
+This means it is valid until terminated by the customer or Revolut.
+Revolut is authorized by the Bank of Lithuania to issue electronic money in accordance with the Law on Electronic Money and Electronic Money Institutions of the Republic of Lithuania (Electronic Money Institution License Number 42).
+The Bank of Lithuania is the central bank and financial supervisory authority of the Republic of Lithuania whose address is Gedimino pr.
+6, 01103 Vilnius, Republic of Lithuania, register number 188607684 (further information about the Bank of Lithuania can be found on the website www.lb.lt, the Bank of Lithuania can be contacted on the telephone number +370 800 50 500).
+Revolut is also subject to the Payments Law of the Republic of Lithuania which regulates its activities and responsibilities, the provision of payment services, the rights and obligations of customers and applicable fees.
+Revolut operates and provides services on business days in the Republic of Lithuania and only when such business days in the Republic of Lithuania coincide with business days in the United Kingdom (UK).
+It is important that the customer understands how his account works.
+You can request a copy of these terms and conditions through the Revolut app at any time.
+If you would like more information, you may find it useful to read Revolut's FAQs (but these FAQs do not form part of the agreement between Revolut and you).
+2.
+Revolut account type
+The account is a payment account that holds the customer's electronic money and can hold electronic money in several currencies at the same time.
+E-money is an electronic alternative to cash.
+If the customer or other person deposits money with Revolut, Revolut issues an equivalent value of electronic money in the currency chosen by the customer or other person.
+Revolut stores electronic money in the customer's account, which will be accepted by other people as payment.
+When making payments to external accounts, the electronic money is redeemed at its face value.
+In these terms and conditions, the term "money" is used to mean electronic money.
+3.
+How to use the money in the account
+If you have electronic money in your account you can use Revolut's services.
+It is possible for example:
+send and receive money to and from other Revolut accounts and non-Revolut accounts;
+changing money from one currency to another (a transaction called currency exchange).
+Available currencies may vary occasionally; make payments and withdraw cash using your Revolut card and view information about and manage your account.
+New features and services are constantly being added, as reported via the Revolut app.
+The main way Revolut provides its services is through the Revolut mobile app.
+However, Revolut also provides its services in other ways, such as through web pages, other apps, APIs, and other means.
+These terms apply whenever and however you access Revolut services.
+This means that they apply to all ways in which the customer can access a particular service, even if in these Revolut terms we refer to accessing the service through a specific means.
+For example, when we talk about Revolut card payments, we mean payments with a physical card, but also with a virtual card or a card added to Apple Pay or GPay.
+4.
+Is it possible to open a Revolut account?
+As a general rule, opening a Revolut account is restricted to users over the age of 18.
+To persons under the age of 18 who Revolut allows to have a Revolut account or any other service, Revolut will communicate the special terms and conditions that apply.
+When the customer requests to open an account, Revolut or its representative will ask for information about the customer and the source of the money to be deposited into the account.
+This is done for a number of reasons, including to check your credit score and identity, and to comply with Revolut's legislative and regulatory obligations.
+Revolut's Privacy Policy explains how Revolut uses customer information for this and other purposes.
+Once Revolut has all the necessary information, it will open the customer's account.
+The customer cannot:
+open more than one personal Revolut account; or
+use a personal Revolut account for business purposes.
+If you wish to use a Revolut account for business purposes, you will need to apply for a business account in accordance with the Revolut Business Terms.
+5.
+How to get information about payments in and out of your account
+You can check all payments in and out of your account through the Revolut app.
+Revolut will not make any changes to your account information, which will be available through the Revolut app for as long as you remain a customer.
+If the customer needs to keep a copy of the information after closing his account, he can download it while his account is still active.
+If you close your account and wish to obtain this information you can email Revolut at feedback@revolut.com.
+You can also download information from the app at any time.
+Revolut sends a notification to the customer's mobile device every time a payment enters or leaves the account.
+The customer can deactivate these notifications through the Revolut app but if they do so, they must check their payments on the Revolut app regularly.
+It is important to know what payments are coming in and out of the account; therefore it is recommended not to deactivate notifications.
+CUSTOMER COMMUNICATIONS
+Communications typically take place via the Revolut app and are free.
+Other entities within the Revolut group may also communicate with you through the Revolut app if this has been agreed with you and that entity.
+This channel provides information on the account and on any fraud, or suspected fraud, related to it.
+It is also communicated if there is a threat to the security of the account.
+Please check the Revolut app regularly for this information.
+To ensure the security of your account, we recommend that you download the latest software for your mobile device and the latest Revolut app version as soon as it is available.
+Communications can also be made via SMS or email: it is therefore advisable to check your text messages and email account regularly.
+Consents, approvals, acceptances and other representations given by you using the Revolut app will have the same legal validity as your signature on a written document.
+Agreements concluded by the customer with Revolut via the Revolut app are considered to be written agreements.
+Any instructions to Revolut to conduct trades and other actions submitted/executed by the customer through the Revolut App will be treated as submitted/executed by the customer and valid in the same way as actions performed by the customer.
+Communications usually take place in English.
+Updating information
+The customer is invited to keep his data updated and to immediately communicate to Revolut any changes to the information provided.
+Any information found to be inaccurate will be updated by Revolut.
+To comply with legislative and regulatory obligations, Revolut may sometimes request additional information relating to the customer (for example, in the event of an increase in customer spending).
+You are asked to provide this information quickly to avoid disruption to your Revolut account or services.
+6.
+Method of closing the account
+The customer can close the account, and therefore end the contract, at any time by notifying Revolut through the Revolut app, by writing to Revolut's head office or by emailing feedback@revolut.com.
+The customer will still have to pay any charges incurred (for example, if they request an additional Revolut card).
+Revolut may also charge you for any cancellation fees applicable to other contracts you have with Revolut (for example, if you cancel your Plus, Premium or Metal subscription).
+Terms and conditions of Plus, Premium and Metal are available here.
+If you or Revolut close your account, Revolut will offer you the option to withdraw the money held in your name (called e-money redemption).
+If the customer wishes to have the money sent to them in a different currency to the one in which the account is held, Revolut will convert the currency at the current rate and charge its usual fee before sending the money to the customer.
+Cancellation of your Revolut card
+If the customer changes their mind and no longer wants the Revolut card, they simply need to let them know; Revolut will cancel it.
+How can I withdraw from the agreement?
+The customer can withdraw from the agreement and therefore end it within the first 14 days of opening a Revolut account by notifying Revolut through the relevant app or by sending an email to feedback@revolut.com.
+The client has the right to withdraw without paying penalties and without indicating the reason.
+In the event of withdrawal from the agreement, Revolut will return any remaining balance to the customer.
+7.
+What happens after the account is closed
+Revolut retains sufficient funds to cover payments approved by the customer prior to account closure.
+However, any amounts owed by the customer to Revolut during the account opening period must also be paid.
+How to access your money after closing your account
+For eight years after your account is closed or your Revolut card expires, you can contact customer service (feedback@revolut.com) and ask for any money still held in your name to be sent to you.
+Once the account is closed, the customer can only withdraw money in the currency of his country of residence.
+Account security
+8.
+Ways to protect your money
+Revolut does not lend customer money to others.
+When Revolut becomes aware of a payment to the customer or the customer deposits money, it disburses the equivalent value of e-money to the customer's account.
+Revolut can quickly:
+place money in your ring-fenced accounts held at large global banks in the European Economic Area (ring-fenced accounts are separate from your Revolut money); or
+invest the payment in low-risk assets held in a segregated account at financial institutions.
+This procedure is called safeguarding.
+Safeguarding helps protect the customer in the event of Revolut's insolvency.
+In this case an administrator will reimburse the customer from the separate Revolut accounts.
+Unfortunately, the law does not allow Revolut to pay interest to the customer and the money in the account is not covered by the deposit guarantee scheme.
+9.
+Protecting your customer and Revolut card security data
+Revolut takes all possible measures to protect its customers' money.
+and invites the customer to do the same, keeping their security details and Revolut card safe.
+This means that the customer must not keep security data near the Revolut card and must hide or protect it if they write down or keep it.
+Security data must not be shared with anyone other than an open banking provider, or third party provider, operating in line with regulatory requirements.
+For more information on open banking providers and third-party providers, please see point 10 of these terms and conditions.
+Sometimes it's easy to forget to take the necessary steps to keep your money safe.
+Below are some tips:
+make sure you close the Revolut app when you're not using it e
+keep your mobile phone and email account protected and do not allow others to use them.
+If your Revolut Card is stolen or lost, or if your Revolut Card or security data may be used without your consent, please contact Revolut via the Revolut app as soon as possible.
+If possible, it is also advisable to block your Revolut card without delay via the Revolut app or by calling the automated number below.
+If you later find that there is no security risk to your Revolut card, you can unblock it.
+How to contact Revolut
+In writing:
+Constitution Ave.
+21B, 08130 Vilnius, Republic of Lithuania.
+Blocking your Revolut card:
++370 5 214 3608 (telecom service provider's standard rates apply).
+Notification of theft or loss of your Revolut card or security data
+Send a message to Revolut via the Revolut app from someone else's device.
+Message Revolut via social media.
+Please email Revolut at feedback@revolut.com.
+By telephone:
++370 5 214 3608 (telecom service provider's standard rates apply).
+10.
+Make payments and access accounts via "open banking"
+You can use Open Banking to access accounts you have with other providers via the Revolut app and allow other providers to access your Revolut account.
+Allow other providers to access your Revolut account
+You may allow other providers to access your account information or make payments on your behalf.
+These providers are often referred to as “open banking providers” or “third-party providers.”
+These providers will often need to be authorized by a regulator such as the Bank of Lithuania or the regulator of any other relevant country.
+If the customer intends to use an open banking provider or a third-party provider, it is advisable for the customer to ask these parties for their (if any) authorization data and to verify it personally (this verification can be carried out through the online register of the authorized companies of the Bank of Lithuania).
+Access to your Revolut account through an open banking provider or third party provider is still subject to the Revolut terms and conditions that apply to the use of your Revolut account.
+Revolut may need to block access to your account by an open banking provider or a third party provider (for example, if there are concerns about fraud, if you do not have the necessary authorization or if there are legislative or regulatory reasons for taking action in this sense).
+In this case, Revolut will try to inform the customer in advance or as soon as possible thereafter.
+Communication will take place via the Revolut app or by email, unless it is illegal to do so or there are good security reasons not to do so.
+Revolut will also unblock the third party provider's access as soon as there are no longer any reasons to deny them access.
+You also have the right to block access to your Revolut account from an open banking provider or third party provider.
+If you believe that a third party provider is acting without your consent, you should contact Revolut.
+When a customer approaches an open banking provider or a third party provider, they authorize and allow them to access their Revolut account information or make payments from their Revolut account on their behalf.
+How Revolut shares customer information for this and other purposes is set out in Revolut's Privacy Policy.
+Using the Revolut app to access accounts with other providers
+Through the Revolut app you can access accounts with other providers as well as make payments from those accounts.
+These are the "Open Banking services" offered by Revolut.
+which the latter is authorized to provide.
+When you use Revolut's Open Banking services to view account information held with another provider, you must authorize Revolut to access that account.
+Revolut will not store any sensitive payment data provided by the customer for authorization purposes.
+Once authorization has been obtained from the customer to access the account for the relevant information, Revolut:
+will access on behalf of the customer his account information (such as account details, transaction history and account features);
+will analyze this information to provide the customer with a spending analysis (making suggestions, for example, on how to save).
+The customer can withdraw consent at any time via the Revolut app.
+How Revolut uses customer information for this and other purposes is set out in Revolut's Privacy Policy.
+When you use Revolut's Open Banking services to make a payment from an account held with another provider, you must also authorize Revolut to do this.
+Revolut will not store any sensitive payment data provided by the customer for authorization purposes.
+Revolut considers that it has received the customer's consent and has been authorized to initiate payments from these accounts when the customer chooses in the Revolut app to use a particular payment service and after the customer has filled in all the necessary and required information and sent them into the Revolut app.
+11.
+Restrictions on the use of the Revolut app or Revolut card
+You are encouraged to act reasonably and responsibly when using the Revolut App or Revolut Card.
+The Revolut App or Revolut Card must not be used (directly or indirectly):
+for illicit purposes (for example, to commit fraud);
+in a way that could be deemed to be detrimental to Revolut's ability to provide the Services;
+solely to send and receive money from a credit card;
+for transactions aimed at receiving cash, with the exception of withdrawals from an ATM (automated teller machine);
+to control or use a Revolut account other than your own;
+to provide the Revolut card to other people;
+to allow anyone else to access or use your account or the Revolut app;
+to misuse, exploit or circumvent any usage restrictions set by a service provider with whom your Revolut Card is registered.
+For example, it is mandatory to use only one Revolut card for a particular service provider that offers a free subscription or trial period; or
+to carry out foreign currency transactions for speculative purposes (i.e. to take advantage of the expected rise or fall in the value of a currency) or to exploit discrepancies in the foreign exchange market.
+You are also encouraged to act respectfully towards Revolut and its support staff, who are available to provide help.
+Incoming and outgoing movements of money
+12.
+Adding money to your account
+You can add money to your account using a debit or credit card registered with Revolut (called a stored card) or by bank transfer.
+The stored card must be registered in the customer's name.
+If adding money via bank transfer you must use the account details provided in the Revolut app.
+Once the money has been received, Revolut will add the equivalent value of e-money to the customer's account.
+To avoid delays, the customer is invited to carefully follow the app instructions.
+The account details you use to add money to your account will depend on the currency of the funds in question.
+For example, if you want to add British Pounds (GBP) money to your account, you would use the 'British Pounds account' details listed in the Revolut app.
+If you use a stored card or bank account denominated in one currency to add money to your account in another currency, your bank or card provider may charge a fee.
+Revolut considers that it has received the customer's consent and has been authorized to execute the transaction once the customer has submitted the payment order on the Revolut app.
+For more information on adding money to your account, please see the Frequently Asked Questions.
+Hold money in your e-money account
+Once the customer has added money to their e-money account, they can transfer it between the various types of sub-accounts offered by Revolut.
+For example, you can transfer e-money money between currencies or keep it in a personal piggy bank or wallet.
+These are all sub-accounts of the e-money account.
+All rules that apply to the customer's main account also apply to his secondary accounts, for example, they may be accessible to debt collection agencies.
+What happens if you have an insufficient balance on your Revolut account
+Revolut knows that it's important to be able to make payments from your account at any time.
+You may authorize Revolut to add a specific amount of money to your account from your stored card if the value of the money deposited into your account falls below a certain amount.
+This is called automatic addition.
+The customer can cancel an automatic add at any time via the Revolut app or by contacting their card provider.
+Payment Limits
+Due to anti-money laundering and terrorist financing requirements or limits applied by third parties, Revolut may limit how much you can receive or pay from your account or how much you can withdraw or spend using your Revolut card.
+It may also limit the value of the currency exchange that can be made at a given time or over a period of time.
+The limits may change from time to time.
+Information regarding these limits can be found here.
+Currency consistency
+It is important that any payments to the customer are made in the account currency.
+Otherwise, the payment will need to be converted.
+This means that the amount credited to your account may be more or less than expected.
+In such case, Revolut will not be liable for any losses.
+13.
+Transfer money between Revolut accounts
+You can send and receive money to and from other Revolut accounts.
+These types of payments are called Instant Transfers.
+All instant transfers are received immediately.
+You can make an instant transfer to another Revolut user's account by selecting them from their contact list in the Revolut app, using their username or any other available identification method, and following the on-screen instructions.
+Group piggy banks
+If the customer is a member of a group Piggy Bank, he/she will be able to make instant transfers to that Piggy Bank as well.
+A Group Money Box is an account created and controlled by a single Revolut user.
+All members of a Group Piggy Bank can view the piggy bank's transactions and leave it at any time.
+Only the Revolut user who set up the Group Piggy Bank (the owner) can automatically view all piggy bank transactions, close the piggy bank, add or remove other members, and allow Group Piggy Bank members to withdraw money (or revoke their access).
+It is advisable for the client to join a Group Piggy Bank or send money to the Piggy Bank, only if he trusts the owner as the owner of the funds; If the owner at any time ceases to hold a Revolut account or their account is blocked, then the customer will not be able to access the funds in the Group Money Box.
+Make purchases using Pay with Revolut
+You can also make an instant transfer to a business that uses "Pay with Revolut" to receive payments.
+You can do this in two ways:
+You can ask Revolut to make an instant transfer of an amount from your Revolut business account, either instantly or on a designated date or on future dates (for example, so you don't have to pay by card at the checkout).
+These payments are called "Customer Initiated Payments".
+You can agree that a business can collect instant transfers from your Revolut account (for example, if you allow a business to collect payments from your account on a regular basis, such as for a subscription).
+These payments are called “Merchant Initiated Payments.”
+Customer-initiated payments
+Customer-initiated payments must be for a set amount.
+The amount you set will be a one-time payment.
+You can turn off recurring customer-initiated payments to a business at any time (but you'll need to do so the day before they're due to cancel them).
+In the payment or registration process, you will be asked to confirm and authenticate the amount of a payment initiated by the customer, and any recurrence of the same.
+The company will only be paid the confirmed amount and will not be able to collect any further payments without the customer's permission.
+Merchant-initiated payments
+Merchant-initiated payments can be for any amount, but you should set limits on the frequency and total or individual value of merchant-initiated payments a business can collect.
+You can also turn off merchant-initiated payments to a business at any time.
+However, if a business asks Revolut to collect a merchant-initiated payment from the customer's account and that amount is within the limits set, we will not ask the customer to approve it before proceeding.
+You will receive a notification in the Revolut app every time a customer-initiated payment or merchant-initiated payment is made from your Revolut account.
+Protection when using Pay with Revolut
+Pay with Revolut is a service that Revolut offers to businesses to allow payments directly from the customer's Revolut account, without having to provide card details.
+However, Revolut wants Pay with Revolut to be a convenience for both customers and businesses.
+So, it has created a Buyer Protection Policy that applies when you make an eligible purchase using Pay with Revolut.
+Refunds of merchant-initiated payments
+Merchant-initiated payments are collected from your account based on your prior consent.
+We encourage businesses to notify you of the amount of any payments initiated by the merchant before collecting them.
+However, if you believe that a merchant-initiated payment was taken from your account in error, you can request a refund within 8 weeks of the payment.
+To request a refund, you can contact Revolut via chat.
+We will notify you within 10 working days if the refund has been successful.
+14.
+Making other types of payments
+It's easy to send money to your own or someone else's bank account.
+You can make a one-time payment or set up a recurring payment.
+To do this, simply enter the bank code and account number (or, for international payments, BIC and IBAN) of the account to which you want to send the money in the Revolut app and follow the instructions.
+Revolut may also need to ask for other information.
+Using your Revolut card
+The Revolut card also allows you to make payments or withdraw cash.
+The customer can do this by entering their Revolut card details (card number, expiry date and CVC number) or their PIN.
+Revolut will treat these actions as your consent to make payments or withdraw cash from your account.
+The customer can also give their consent to make payments with their Revolut card:
+by tapping your Revolut card at the terminal (a "contactless" transaction) and performing other actions on the electronic card reader.
+No PIN code is required for contactless payments up to a certain amount;
+signing for the purchase on the receipt issued by the electronic card reader;
+inserting your Revolut card into the e-card reader and doing something else that the e-card reader requires without entering your PIN code (for example, when paying tolls, parking charges, etc.);
+by providing your Revolut card number and other details and agreeing to us to initiate payment orders by debiting your account when you enter into an agreement with a merchant or service provider; or
+by providing your Revolut card number and other details to a merchant or service provider and authenticating this payment with a 3D Secure method.
+This is a step the customer will need to take when purchasing online using their Revolut card, if a merchant or service provider has implemented this method.
+In this case, a pop-up will appear on the merchant or service provider's website asking to verify the payment and the customer will receive a push notification on their Revolut app.
+To complete the payment, the customer will need to open the app and confirm the transaction.
+When you use your Revolut card to make a withdrawal from an ATM or make a payment (for example, in a shop or restaurant), Revolut will treat the payment as having been authorized by you unless:
+you notify Revolut that money has been stolen from your account; or
+the customer believes that Revolut has not carried out its instructions correctly.
+Revolut may charge a fee for withdrawals.
+For more information on this, please see the commissions page.
+Revolut is not responsible for any losses if payments are refunded in a different currency.
+Sometimes the money that the customer has asked Revolut to transfer to a person is not paid into the person's account but returned to Revolut.
+If Revolut had to perform a currency exchange when sending the payment, and can demonstrate that it proceeded correctly, when it returns the money to the customer it will convert it back to the original currency.
+This means that the amount credited back to the customer's account may be less than the payment made (or it may be greater).
+Revolut will not be liable for any loss arising to the customer as a result.
+PAY ATTENTION TO ENTERING THE DETAILS OF THE PERSON TO WHOM YOU MAKE THE PAYMENT
+Make sure the details of the person receiving the payment are entered correctly.
+Otherwise, your payment may be delayed, or your money may be lost if sent to the wrong account.
+Make sure you know the person to whom you are making a payment.
+If you are approached by someone asking to make a payment to them but you are unsure of their identity or the purpose of the payment, it may be a scam and Revolut may not be able to recover your money.
+If the person you wish to make the payment to does not receive the money, Revolut will not be liable if the payment was processed correctly but the details provided were incorrect.
+At your request, Revolut will work to recover your money, but this may be easier in some countries than others.
+By contacting the customer support team via the Revolut app, you can get information on how to recover your money, including details of the person who actually received the payment (if Revolut has it).
+The European Economic Area consists of all the countries of the European Union, plus Norway, Iceland and Liechtenstein.
+A "business day" means a day on which banks are open in both the Republic of Lithuania and the United Kingdom.
+SEPA direct debits
+Depending on your place of residence, you may be able to make direct debits in euros from your account to bank accounts held in the Single Euro Payments Area (which includes all EEA countries plus Switzerland, Monaco and San Marino).
+These payments are called SEPA direct debits.
+The bank holding the account into which the direct debit is to be paid (the beneficiary's bank) is responsible for requesting payment from Revolut when it becomes due.
+The customer can:
+limit the amount of a SEPA direct debit or the frequency of its payment from your account (or both);
+cancel SEPA direct debits made from your account e
+choose to only allow SEPA direct debits to be paid to certain people.
+This can be done by contacting Revolut via the Revolut app.
+If the customer has set up a SEPA direct debit, the beneficiary's bank will request it on the business day before the due date and Revolut will make the payment to the bank on the due date.
+If the due date falls on a non-business day for the beneficiary's bank (usually a weekend or holiday), the payment will reach the bank on the next business day.
+For SEPA direct debits, please refer to the Frequently Asked Questions.
+Payments for services provided by other Revolut group companies
+The Revolut app is more than just an e-money account.
+It is a platform from which the customer can access a wide range of services.
+Not all services are provided by Revolut Payments UAB.
+Some services are provided by other companies in the Revolut group.
+In this case, the customer must agree to separate terms and conditions with these companies, which regulate these services.
+For example:
+If you use cryptocurrency services, these services are provided by Revolut Ltd and governed by the Cryptocurrency Terms & Conditions that you have accepted.
+Revolut does not provide these services and you have no rights against Revolut in relation to the above Cryptocurrency Terms & Conditions.
+If you use precious metals services, these services are provided by Revolut Ltd and governed by the Precious Metals Terms & Conditions that you have accepted.
+Revolut does not provide these services and you have no rights against Revolut in respect of the above Precious Metals Terms & Conditions.
+If you use investment and savings services, these services are provided by Revolut Ltd and governed by the Investment and Savings Terms & Conditions that you have accepted.
+Revolut does not provide these services and you have no rights against Revolut in relation to the above Investment and Savings Terms & Conditions.
+If you use Stays services, these services are provided by Revolut Ltd and governed by the Stays Terms & Conditions which you have accepted.
+Revolut does not provide these services and you have no rights against Revolut in relation to the above Terms & Conditions for Stays.
+Any other service provided by a company of another group.
+Although Revolut does not provide these services, they will typically involve the need to make a payment to or from your Revolut e-money account.
+For example, when you buy or sell cryptocurrency, a payment will be made to or from your e-money account at Revolut for cryptocurrency.
+In this case, the credit or debit will be made to the customer's account at Revolut, as requested by other companies in the group based on the terms and conditions accepted by the customer with those companies.
+On occasion, Revolut may create a sub-account in your e-money account if necessary for these services.
+For example, if the customer uses investment and savings services, in order to use these services they will have a secondary account that they will need to fund.
+15.
+What happens if a payment was sent to the wrong account, wasn't sent at all, or was delayed
+Revolut will always try to process payments correctly and on time, however there may be a problem and your payment may be delayed or may not reach you.
+In case of problem and:
+the person who makes the payment to the customer;
+the bank account to which the customer wishes to make the payment, or
+the retailer to whom the customer makes the payment;
+is located within the EEA, the customer must notify Revolut via the Revolut app.
+It is necessary that this communication takes place as soon as possible and in any case within 13 months from the date of withdrawal from the customer's account.
+If the money is not received in the account to which the customer sent it, Revolut will refund the payment to the customer's account.
+If the customer has incurred costs or interest as a result of Revolut's error, Revolut will refund these as well.
+If Revolut has received a payment to the customer, but the money has not been paid into the account on time, Revolut will immediately credit the payment amount to the account.
+These rules do not apply to currency exchanges.
+What to do if the customer thinks he has made a mistake
+Before making a payment, always check that you have entered the correct beneficiary details.
+It is always a good idea to make a test payment of a small amount (for example €1) to ensure that your account information is correct.
+Always pay attention to the following:
+Always make sure you know the person to whom you are making a payment.
+If you are approached by a person asking to make a payment to them but you are not sure of their identity or the purpose of the payment, it is possible that it is a scam.
+The contacts visible in the Revolut app are taken from the names and phone numbers saved by the customer on their phone, which is not verified by Revolut or anyone else.
+This means that if the wrong number or name is stored on the phone, the payment will go to the wrong person and the customer could lose the amount in question.
+Usernames visible in the Revolut app may be similar to other usernames and may be changed by individual users.
+Revolut will take appropriate steps to remove inappropriate usernames, but neither Revolut nor anyone else will verify them.
+This means that if you are not sure whether the person is who they claim to be, the payment could end up going to the wrong person.
+Revolut is not responsible for the payment made to the person indicated by the customer, even if the customer has provided the wrong account number, username or telephone number.
+In any case, if the customer requests to regain possession of their money, Revolut will work to obtain this result.
+If the law allows it, Revolut may also attempt to obtain information about the beneficiary, so that the customer can try to recover the money himself.
+While Revolut tries these solutions, it does not guarantee that it will achieve the desired result, and in some cases it will not achieve its objective.
+What to do if Revolut or someone else has made a mistake?
+However, if a payment is paid to the customer's Revolut account by another person in error, the customer will have to refund it.
+If the person who made the payment in error takes legal action to recover the amount, Revolut may have to share the customer data.
+For these reasons, always check your account regularly to make sure everything is working properly.
+16.
+Sending and receiving money using a payment link
+You can easily send money to a friend who doesn't have a Revolut account by creating a 'payment link'.
+Through a payment link, you can agree to pay a certain sum without entering the details of the account to which the payment will be made.
+Instead, you choose the amount, share the link and the recipient enters their account details themselves.
+To do this, you need to go to the Payments tab of the Revolut app, enter the amount you want to send, click on "create payment link" and send the link to the friend in question.
+You can also create a payment link to receive payments and send that link to your friend.
+Once you have sent the link to your friend, your friend will need to complete the payment link by entering the relevant details.
+If the customer sends money using a payment link, their friend will need to enter their bank account details in the link.
+The payment will then be made to the friend's bank account, as if the customer had entered that data into the app themselves.
+Sometimes, due to the size or nature of the payment, the customer's friend will be asked to join Revolut to complete the transaction.
+Once you have done this, the payment will be made to your Revolut account.
+If the customer receives money using a payment link, the friend must enter their debit or credit card information into the link within 24 hours.
+The payment will then be made from that card.
+Revolut may place limits on the amount you can request using a payment link.
+This limit will be shown in the app.
+Sometimes Revolut may need to ask your friend to open a Revolut account in order to receive a payment for other reasons.
+If that person does not open a Revolut account, Revolut will not be able to credit or debit the payment.
+All payment links have a time limit.
+Once this limit is exceeded, the link will expire and that person will not be able to make or receive the payment.
+Revolut will indicate in the app what the time limit is when the customer creates the link.
+When the customer creates a payment link to send money, they agree to make a payment without entering their account details.
+Payment will be made to the person whose data was entered in the link.
+The customer must pay attention to where they share a link and with whom.
+For example, if the customer shares a "Send Money" link on a friend's social media profile, someone else might click the link and request the money as well.
+If the customer is concerned about a payment link they have created, they can delete it (before it is completed) through the transaction history in the app.
+17.
+Exchange rate used
+Further details regarding the fees charged by Revolut are set out on the Fees page.
+Revolut's up-to-date exchange rates can also be viewed at any time in the Revolut app.
+Standard and Plus users can set an amount of exchanges at this rate each month.
+The amount you set depends on your customer's base currency and the currency indicated by Revolut on the commissions page.
+Standard and Plus users who convert more than the set amount start paying a fair usage fee (does not apply to Premium and Metal customers).
+Once you convert a currency, your transaction history in the Revolut app will also show the exchange rate used by Revolut.
+The exchange rate may vary between the time the customer notifies Revolut of their intention to change currency and the time Revolut carries out the conversion.
+This means that if the customer asks Revolut for a currency exchange, they may receive a slightly higher or lower amount than expected.
+Revolut is not responsible for: any loss of money you suffer as a result of currency conversion, or any fee charges or loss of money as a result of using your Revolut card in another country and your asking the retailer (or bank) dealer) to make the conversion (below is the example of a Lithuanian customer traveling to Japan.
+When paying the bill at a restaurant, the customer agrees to pay in euros instead of yen.
+This means that it has requested the retailer's bank to convert the currency.
+Revolut cannot be held responsible if the bank applies a more unfavorable exchange rate or charges fees).
+18.
+Canceling a payment or currency exchange
+You can cancel a payment (including a recurring payment or SEPA direct debit) at any time, until the end of the business day preceding the payment from your account.
+You cannot cancel a payment on the same day it is due to be taken from your account.
+This means you cannot cancel transfers between Revolut accounts.
+Additionally, it is not possible to cancel a currency exchange once Revolut has received the execution request from the customer.
+Canceling a bank transfer is easy.
+You can cancel a bank transfer via the Revolut app.
+19.
+Time required to make a payment
+Revolut recognizes that when making a payment, one of the most important aspects is that it is received on time by the beneficiary.
+Receipt of the payment by the beneficiary's bank depends on the time the customer notifies Revolut of the payment instruction and the desired payment currency.
+Revolut payment times are shown below.
+All times in these terms and conditions are based on UK time, i.e., Greenwich Mean Time (GMT) from October to March and British Summer Time (BST) from March to October.
+Instant transfer to a Revolut account:
+You can provide your payment instructions at any time and Revolut will receive them immediately.
+Payment to someone else's bank account:
+If you provide your payment instructions before 1pm (or 3pm Vilnius time) on a business day, Revolut will receive them immediately.
+If you provide your payment instructions after 1pm (or 3pm Vilnius time) on a business day, Revolut will receive them on the next business day.
+If you provide your payment instructions on a non-business day, Revolut will receive them on the next business day.
+Transfer to a bank account via payment link:
+The customer can provide their payment instructions at any time and Revolut will receive them when the beneficiary enters their bank details (provided this is done within 24 hours of the customer sending the payment link).
+Payment to a bank account on a future date (for example a recurring payment):
+You can provide your payment instructions at any time and Revolut will receive them on the same business day (if your payment is to be taken from your account on a business day) or the next business day (if your payment is to be taken from your account on a non-working day).
+The table below indicates when Revolut makes payments in different currencies.
+If the customer's payment currency is EUR or GBP:
+once withdrawn from the customer's account, the payment will reach the beneficiary's account on the same business day.
+Any currency other than EUR or GBP, to a bank account in the EEA (not the UK):
+Once withdrawn from the customer's account, the payment will reach the beneficiary's account up to four business days thereafter.
+Any currency other than EUR or GBP, to a bank account outside the EEA:
+Once withdrawn from the customer's account, the payment will reach the beneficiary's account as soon as Revolut manages to get the payment to its destination.
+The time required depends on where the beneficiary's bank is located.
+If the customer requests a currency exchange from Revolut, they will receive the electronic money converted immediately.
+20.
+Revolut refusing or delaying a payment
+Revolut must refuse to make a payment, or delay a payment (including incoming and outgoing payments), in the following circumstances:
+if legislative or regulatory requirements prevent Revolut from making the payment or cause Revolut to need to carry out further checks;
+if you have breached these terms and conditions in a way which, in Revolut's reasonable opinion, justifies refusal or delay of payment;
+if Revolut believes that the processing of your provision may breach these terms and conditions or that such provision does not contain all the information necessary for Revolut to process the payment correctly;
+if the amount is greater than, or would result in exceeding, the limit applicable to the customer's account.
+The limits set are reported here;
+if sufficient funds are not available in the customer's account to make the payment and cover any expenses;
+if a declaration of bankruptcy is issued against the customer or if the customer has entered into a preventive agreement with creditors;
+if, even after using all reasonable efforts, Revolut is unable to make your payment on time;
+if a third party prevents Revolut from making the payment (for example, if Mastercard or Visa does not allow a payment or cash withdrawal using the customer's Revolut card);
+if Revolut has asked the customer for important information that it reasonably needs and the customer has not provided that information; or
+if Revolut has suspended the customer's account.
+Revolut may also refuse to issue a new Revolut card if the customer does not have sufficient funds in their account to pay the card issuing or delivery fees.
+IF YOU REFUSE TO MAKE A PAYMENT, REVOLUT ALWAYS TRIALS (UNLESS IT IS ILLEGAL OR TECHNICALLY IMPOSSIBLE) TO NOTIFY THE CUSTOMER OF THE REFUSAL, THE REASONS FOR SUCH REFUSAL (IF POSSIBLE) AND THE PROCEDURE FOR RECTIFIING ANY FACTUAL ERRORS WHICH HAVE LEAD TO SUCH REJECTION.
+SUCH NOTIFICATION WILL BE GIVEN TO CUSTOMER AS SOON AS POSSIBLE AFTER REFUSAL.
+If possible, Revolut will use the Revolut app to notify the customer of the refusal to make a payment.
+To find out the reasons for the refusal and to resolve any problems, the customer is invited to contact Revolut via the app.
+Revolut will not be responsible for any loss suffered by the customer due to refusal or delay of payment.
+21.
+Third party fees for making or receiving payments
+Revolut does not charge fees for receiving payments.
+Revolut also doesn't charge any fees for sending local payments in the customer's base currency.
+If you pay in another currency or to another country, Revolut may charge a cross-border or SWIFT payment fee.
+Revolut fees are set out on the Fees Page.
+Before making a payment, the customer will always be informed in the Revolut app regarding any fees applied and their amount.
+Other banks involved, such as the beneficiary's bank or some correspondent or intermediary banks (banks assisting in the transfer of funds between other banks) may sometimes withhold their fees from the payment sent or received.
+This could mean that the customer or customer's payee will receive less than expected.
+You might, for example, only receive €90 from a sent amount of €100, because the sender's bank charged a fee of €10.
+This could happen if:
+the bank of the person to whom you send or receive a payment is within the EEA, and the payment is made in a currency other than that of an EEA Member State; or
+you make or receive a payment to or from someone whose bank is outside the EEA.
+For the avoidance of doubt, Revolut will not charge a fee for making or receiving payments, but will always pay the customer the full amount received from another bank.
+Likewise, it will always send the full amount that the customer requests to send; however, Revolut cannot guarantee that the full amount will be paid to the beneficiary's account without being charged by another bank.
+Procedure in case of problems
+22.
+What happens if an account is stolen?
+You are encouraged to inform Revolut as soon as possible via the Revolut app (and in any case within 13 months of the date on which the money was withdrawn from your account).
+Revolut will return the money to your account if any of the following apply:
+the customer could not have known that their security details or their Revolut card were at risk of misuse;
+the payment occurred due to an error made by a person for whom Revolut is responsible;
+the payment was taken after the customer informed Revolut that someone knew their security details or that their Revolut card was lost or stolen, or Revolut did not provide the customer with a means of notifying them;
+the law required Revolut to make the customer follow certain instructions when initiating payment and Revolut failed to do so; or
+the customer has made a payment for certain goods or services purchased online or by another indirect method (there are some types of contract to which this may not apply, e.g.
+rental accommodation; Revolut will be able to provide the customer with more information in this regard once made aware of the problem).
+Revolut will also reimburse any costs incurred by the customer as a result of the payment being withdrawn from their account.
+Revolut will not issue any refunds if you have acted maliciously, or have intentionally or recklessly failed to keep your security details or your Revolut card safe (unless you have informed Revolut prior to withdrawal). of payment from the account).
+For example, Revolut will not issue a refund if the customer has provided a person with their Revolut card PIN and that person has made a payment with the card without the customer's knowledge.
+23.
+Possibility of blocking your Revolut account or card by Revolut
+The safety of customer money is important to Revolut.
+Revolut may prevent you from making payments from your Revolut card account if we have reasonable concerns about security or the possibility of fraudulent use or without your consent.
+Revolut may also need to block your account or Revolut Card to comply with legal obligations arising under the laws of the Republic of Lithuania.
+Revolut will notify you via the Revolut App before or as soon as practicable after blocking your Revolut App Account or Revolut Card.
+Revolut will also communicate the reasons for such blocking (unless this reduces the security of Revolut or the customer or is illegal).
+Revolut will unblock the customer's account as soon as the reasons for the blocking no longer exist.
+24.
+Possible suspension or closure of the customer's account by Revolut
+Revolut may immediately close or suspend your account (including access to services provided by other Revolut group entities) and terminate your access to the Revolut website, in exceptional circumstances.
+Exceptional circumstances include the following:
+Revolut has valid reasons to suspect fraudulent and otherwise criminal behavior on the part of the customer;
+the customer has not provided Revolut (or someone acting on behalf of Revolut) with the necessary information, or Revolut has reasonable grounds to believe that the information provided by the customer is inaccurate or untrue;
+you have seriously or persistently breached these terms and conditions and have not remedied the breach within a reasonable time of Revolut's request;
+Revolut has information to believe that your use of the Revolut App causes harm to Revolut or its software, systems or hardware;
+Revolut has reasonable grounds to believe that your continued use of your account may damage your reputation or goodwill;
+Revolut has asked the customer for repayment of a debt and the customer has not done so within a reasonable time;
+the client was declared bankrupt; or
+Revolut is required to close your account pursuant to law, regulation, court order or instructions from an ombudsman.
+In addition, Revolut may decide to close or suspend your account for other reasons.
+In this case, Revolut will contact the customer via the Revolut app with at least sixty (60) working days' notice.
+Closing your account and terminating your contract may also put an end to any other contract you have with Revolut, or through Revolut.
+For more information, see the Revolut app or contact Revolut.
+25.
+Modification of these terms by Revolut
+Revolut will only change these terms and conditions for the following reasons: Revolut believes that this will make it easier for you to understand or more useful to you; to reflect how Revolut's business is run, in particular if the change is necessary due to a change in the way we deliver a financial system or technology; to reflect legislative or regulatory requirements applicable to Revolut; to reflect changes in the costs of running Revolut's business; or because Revolut is changing or introducing new services or products that affect existing Revolut services or products covered by these terms and conditions.
+Information regarding the changes
+If Revolut adds a new product or service that does not change the terms and conditions of your account, we may add the product or service immediately and notify you before using it.
+Otherwise, Revolut will provide you with at least 60 days' notice via the Revolut app and/or by email before making any changes.
+Revolut assumes that you accept the change unless you notify your intention to close your account before the change is made.
+26.
+Customer refund rights for Revolut card payments and SEPA direct debits
+Payments with Revolut card
+The customer can ask Revolut to refund an amount withdrawn from their account if all of the following conditions are met:
+the customer has agreed to withdraw a payment, but has not agreed on the actual amount of the payment;
+the amount withdrawn is greater than the amount reasonably expected by the customer in all the circumstances (including the customer's spending pattern);
+the recipient of the payment is located in the EEA;
+the customer has not authorized the payment directly with Revolut;
+Revolut and the payment recipient did not provide the customer with information about the payment during the four weeks preceding the withdrawal and
+the customer requests a refund from Revolut within eight weeks of the date of withdrawal of the payment from the account.
+For example, you may be able to get a refund if you gave a hotel permission to charge your Revolut card for all minibar spending, but the hotel charged more than the customer could reasonably expect at the time you gave permission. this authorization.
+Revolut may request further information from you to investigate the matter.
+Revolut will issue a refund, or notify the customer why this cannot be done, within 10 working days of the customer providing the requested information.
+SEPA direct debits
+If the customer has made a SEPA direct debit, the above conditions do not necessarily apply.
+The customer will be entitled to an unconditional refund if they contact Revolut within eight weeks of the date of withdrawal of the payment from the account.
+Return of Refunds
+If Revolut issues a refund and later finds that the customer was not entitled to it, the customer will need to return it.
+27.
+Revolut's liability if there is a problem with your account, Revolut card or Revolut app
+Revolut will use reasonable efforts to ensure that its services are not interrupted and are accessible at a reasonable speed.
+However, it cannot guarantee this permanently, nor can it guarantee that the services will be free from defects.
+Revolut may also rely on third parties to provide services to you, which may sometimes result in an interruption of services.
+Revolut will always make every effort to resolve any problems with its services, regardless of the cause.
+If you have a Revolut card, Revolut will inform you of any changes to the system that affect the possible use of the card.
+Revolut will not be liable for losses arising from its failure to comply with its obligations to make payments into or out of your account due to: legislative or regulatory obligation; unforeseeable events outside of Revolut's control, which were at the time unavoidable; criminal actions or any other illegal actions of third parties resulting in harm to the customer or any other person (unless specifically specified in these terms and conditions); or account blocking in the implementation of legal requirements, including those relating to anti-money laundering and terrorist financing.
+If the customer is unable to use the Revolut card for any reason, Revolut's sole responsibility towards the customer will be to replace it.
+Revolut will only be liable for foreseeable losses.
+If Revolut breaches the contract, it will only be liable for losses that it could have foreseen at the time of entering into the contract or for losses resulting from Revolut's fraud or gross negligence.
+Revolut will not be liable to the customer for any of the following events, direct or indirect, arising in connection with these terms and conditions: loss of profits; loss of goodwill or damage to customer reputation; loss of contracts or business opportunities; loss of expected savings, or indirect damage.
+Nothing in these terms and conditions eliminates or limits Revolut's liability for death or personal injury resulting from Revolut's negligent conduct, or from willful misconduct or fraudulent claims and misrepresentations.
+28.
+Customer debt to Revolut
+You may not borrow money on your account (for example, make payments that exceed the value of the funds you hold), although you may be eligible for one of Revolut's credit products.
+If the customer's balance becomes negative (for example, because the customer does not have enough electronic money to cover the fees), the customer must within 7 (seven) days at the request of Revolut top up his account with the amount necessary to correct the negative balance.
+If the customer owes a debt to Revolut, Revolut may withhold the amount owed by the customer from any amount owed by Revolut to the customer.
+This is called Revolut's right of set-off.
+Payment of fees or other amounts owed by you to Revolut (other than third party fees for making or receiving payments)
+The fees payable by the customer to Revolut are listed on the Fees Page.
+If the customer owes Revolut any fees (other than third party fees for making or receiving payments) or any other sums, Revolut will collect the amount due from the customer's account, in the currency of the customer's country of residence (the customer's base currency).
+If there are insufficient funds held in your account in your base currency, Revolut will withdraw the equivalent value from funds held in another currency.
+If the funds in your account are insufficient to pay the fees or other amounts owed by you to Revolut, Revolut reserves the right to recover the amount in another way, as set out below.
+You may be responsible for paying taxes or fees that apply to payments made or received through your account and for which Revolut is not responsible.
+Sometimes, for example, if you are legally resident in the Republic of Ireland, or withdraw money via an ATM in the Republic of Ireland, Revolut may collect the relevant amount of stamp duty up to the statutory maximum set by the agency. Irish Revenue Commissioners.
+The customer is therefore invited to check personally.
+If the customer owes a debt to Revolut and does not top up the account or pay the debt within seven days, Revolut can recover the relevant amount in the following ways:
+by withdrawing the sum due from the customer's stored card;
+exercising Revolut's right of set-off; or
+taking other legal action to recover the sum owed, for example by using a law firm or a debt collection company.
+If Revolut takes any (or all) of these actions, it may reasonably charge you for the costs.
+29.
+Customer liability for Revolut losses
+You may be liable to Revolut for certain losses
+In the event of a breach of these terms and conditions by you and/or subsequent loss suffered by Revolut, the following applies:
+the customer will be responsible for foreseeable losses suffered by Revolut as a result of actions taken by the customer (Revolut will try to minimize losses); And
+the customer will also be responsible for reasonable legal costs, arising as a result of the losses suffered by Revolut.
+30.
+How to submit a complaint
+If the customer is not satisfied with the service, Revolut will try to remedy the situation
+While we always do our best, Revolut understands that sometimes things may not go as planned.
+To make a complaint, the customer should contact Revolut.
+Revolut will accept and consider any complaint submitted by the customer.
+Revolut's final response to the customer's complaint, or a letter explaining why the final response was not completed, will be provided to the customer within 15 working days after the complaint and, in exceptional circumstances, within 35 working days (the customer will be notified if this is the case).
+Out-of-court dispute resolution authority for financial services complaints
+If the customer is not satisfied with how Revolut has dealt with his complaint, he can report it to the Bank of Lithuania within 1 (one) year from the date of submission of the complaint.
+In this case, the Bank of Lithuania will act as an extrajudicial dispute resolution authority dealing with disputes between consumers and financial service providers.
+The address is: Žalgirio g. 90, 09303 Vilnius, Republic of Lithuania.
+For further information, please refer to the relevant website.
+If the customer wishes to have the possibility to turn to the Bank of Lithuania as an out-of-court dispute resolution authority, he must submit the complaint to Revolut within 3 (three) months from the day on which he discovered or should have discovered the alleged violation of his rights or legitimate interests arising from the contract with Revolut.
+The examination of the complaint at the Bank of Lithuania is free of charge.
+The authority for out-of-court settlement of consumer disputes not related to the competences of the Bank of Lithuania is the State Authority for Protection of Consumer Rights.
+The address is: Vilniaus g. 25, 01402 Vilnius, Republic of Lithuania.
+For further information, please refer to the relevant website.
+The customer can also rely on the mandatory consumer protection rules of the European Economic Area country in which he lives.
+You may also lodge a complaint with the respective ADR authorities that handle consumer complaints in your country in relation to the financial services offered by Revolut.
+The list of these authorities is available here.
+Extrajudicial dispute resolution authority for complaints relating to the processing of personal data
+The customer has the right to lodge a complaint with the State Data Protection Inspectorate (SDPI), the Lithuanian supervisory authority for data protection issues.
+The address is: L. Sapiegos g. 17, 10312, Vilnius, Republic of Lithuania; email: ada@ada.lt.
+For further information, please refer to the relevant website.
+More information
+Click here for more information about the complaints handling process.
+How to submit a complaint
+If the customer just wants to talk to someone about an issue that concerns them, they can contact Revolut through the Revolut app.
+Issues are usually resolved quickly through the app.
+You may need to provide Revolut with the following information.
+If desired, the customer can submit the complaint using this form.
+Or send an email to formalcomplaints@revolut.com.
+The following information must be provided:
+name and surname;
+telephone number and email address associated with the account;
+Description of the problem;
+date the problem arose e
+problem resolution method desired by the customer.
+Revolut will investigate the complaint and respond to the customer via email.
+Communication with the customer will take place in English, unless otherwise indicated by Revolut.
+Notwithstanding the foregoing, you always have the right to contact the above-mentioned out-of-court dispute resolution authorities in relation to any complaint about the Revolut service.
+If you believe that Revolut has violated the law, you also have the right to appeal to any competent court.
+Legal provisions
+31.
+Revolut authorization to process customer personal data
+To provide the services under the contract, Revolut will need to collect information about the customer.
+Under data protection law, Revolut is the "data controller" of your personal data.
+For more information on how Revolut uses your personal data, please see Revolut's Privacy Policy.
+By signing the contract, the customer gives Revolut consent to collect and store their personal data for the purpose of receiving services from Revolut.
+This does not affect Revolut's or your customer's rights and obligations under data protection law.
+The customer may withdraw their consent by closing the account, which will result in the termination of the contract between Revolut and the customer.
+In such a case, Revolut will cease to use your customer data for the purposes of providing our services, but we may need to retain such data for other legal reasons.
+Confidentiality
+By entering into this agreement you give Revolut permission to disclose to other entities in the Revolut group (including Revolut Bank UAB and Revolut Ltd) the following information:
+the fact that the customer is a Revolut customer;
+the services that Revolut provides to the customer;
+the account number;
+the account balance;
+the operations performed or to be performed on behalf of the customer;
+your customer's debt obligations to Revolut;
+the circumstances in which Revolut provides financial services to the customer;
+the client's financial situation and assets;
+other business information that the customer provided to Revolut when opening the account; And
+your assets, plans, debt obligations, or transactions with other people.
+The above information would be disclosed in case it is necessary for the performance of financial accounting, control, risk assessment or when common information systems or technical equipment (servers) are used or when it is necessary for the provision of services.
+All of this is called "customer secrecy" by Revolut and must be protected as required by current legislation.
+By accepting the agreement the customer understands and confirms that, in the event that he has not changed his preferences in the Revolut app, if he is present in the contact list of other Revolut users, such users will be aware of the fact that the customer is a Revolut customer.
+The customer can change his preferences at any time.
+32.
+Intellectual property of Revolut
+All intellectual property in Revolut's products (for example, app and website content, the Revolut logo and card design) is owned by its parent company, Revolut Ltd (a company incorporated in England and Wales with company number 08804411, whose registered office is at 7 Westferry Circus, Canary Wharf, London, E14 4HD, United Kingdom) and is used by Revolut and other companies in the Revolut group.
+You must not use this intellectual property as if it were your own, other than to use Revolut's products.
+Reverse-engineering Revolut products (i.e. reproducing them after detailed examination of their construction or composition) is also prohibited.
+33.
+Legal provisions
+Customer Agreement with Revolut
+The contract confers rights exclusively on the customer and Revolut.
+The contract is personal and the customer cannot transfer the rights and obligations deriving from it to others.
+Revolut Right of Transfer and Assignment
+You authorize Revolut to transfer or assign to any third party all of your rights and obligations under these terms and conditions.
+Revolut will only transfer its and your customer's rights and obligations under the contract if this will not have a significant adverse effect on your rights under these terms and conditions or if it is necessary to do so to comply with a legislative or regulatory obligation.
+Revolut's transfer of rights and obligations is called a "novation".
+Revolut's transfer of rights only is referred to as an "assignment".
+The customer may terminate the e-money account after notification of the assignment.
+Lithuanian law applies
+The laws of the Republic of Lithuania apply to these terms and conditions and the agreement.
+Despite this, the customer can still rely on the mandatory consumer protection rules of the European Economic Area country in which he lives.
+The English version of the contract is valid
+In the event that these terms and conditions are translated into another language, the translation is for consultation purposes only and the English version will prevail.
+By entering into this agreement and accepting Revolut's services, you confirm that you understand the English language and agree to communicate with Revolut in English regarding legal relationships arising from this agreement, including with respect to the submission and resolution of any complaints.
+Revolut's right to enforce the contract
+If you have breached your contract with Revolut and Revolut fails to enforce your rights, or delays in enforcing them, this will not prevent Revolut from enforcing those rights, or any other rights, in a later moment.
+Initiating customer legal action against Revolut
+Legal proceedings under these terms and conditions may only be brought in the courts of the Republic of Lithuania (or in the courts of any member state of the European Economic Area in which the customer resides).
+Supplement to the Revolut Payments UAB Personal Terms
+1.
+Subject of this supplement
+This is a supplement (the Supplement) to the Personal Terms that you have agreed to with Revolut, in respect of your personal e-currency account with Revolut (your e-currency account).
+This Supplement applies if you sign up for a Revolut Bank UAB (Revolut Bank) demand deposit account.
+It sets out how money is sent between your e-money account and your demand deposit account with Revolut Bank.
+Your demand deposit account with Revolut Bank is regulated separately by Revolut Bank's demand deposit terms.
+The fact that it is a "supplement" means that it adds to the Personal Terms that the customer has agreed with Revolut, but does not change them.
+This Surcharge begins to apply once accepted by the customer.
+Revolut cannot provide the services described in this Supplement if the customer does not accept them.
+Revolut Payments UAB is a company established and registered in the Republic of Lithuania with company registration number 304940980 and whose registered office and main office is located in Konstitucijos pr.
+21B, 08130 Vilnius, Republic of Lithuania (Revolut Payments).
+Revolut is authorized to issue electronic money and provide payment services by the Bank of Lithuania.
+The Bank of Lithuania is the central bank and financial supervisory authority of the Republic of Lithuania whose address is Gedimino pr.
+6, 01103 Vilnius, Republic of Lithuania, website www.lb.lt, telephone number +370 800 50 500.
+If you have a credit card, this Charge does not apply to and does not affect any sub-account activity of the Revolut e-currency account to which a credit card issued under the Credit Card Terms is linked (if present).
+In accordance with the Credit Card Terms, the balance of that Sub-Account of your E-Money Account with Revolut is separate from the balance of your Demand Deposit Account.
+2.
+Movements of money in and out and adding money
+This section explains how your money will be automatically transferred between your Demand Deposit Account at Revolut Bank and your E-Money Account each time a payment is made or received into your E-Money Account (other than your E-Money Deposit Account). on demand at Revolut Bank).
+What happens to existing money?
+When you accept this Supplement and sign up to Revolut Bank, Revolut transfers your existing e-money account balance with Revolut Payments to your demand deposit account with Revolut Bank.
+This means that, by accepting this Supplement, you instruct Revolut to transfer your existing e-money account balance to your demand deposit account at Revolut Bank, as described in this Supplement.
+What happens if I miss a payment?
+Every time you, or someone else, sends money to your e-money account, Revolut transfers it to your demand deposit account with Revolut Bank.
+This also happens every time the customer adds money (as described in section 12 of the Personal Terms).
+Revolut will make these transfers as soon as possible.
+This means that the money will only be held in the customer's e-money account temporarily.
+By accepting this Supplement, you instruct Revolut to set up payments from your e-money account to your demand deposit account at Revolut Bank, as described in this Supplement.
+Money sent to the customer's demand deposit account with Revolut Bank will be held by Revolut Bank according to the demand deposit terms that the customer has agreed with Revolut Bank.
+Money will not be held by Revolut (except where it temporarily passes into your e-money account).
+What happens if I send money or make a payment?
+Every time you send money through the Revolut app (for example, send it to a third-party bank account), pay a fee for a Revolut service (such as a monthly Metal fee or an insurance premium) or make any type of payment using Revolut (such as a direct debit, payment link or anything else) instructs Revolut to immediately send a debit request to Revolut Bank requesting funds from your demand deposit account equal to the sum of money needed to make the payment.
+Once the requested amount is sent from the demand deposit account to the customer's e-money account, Revolut will immediately issue e-money and immediately pay the recipient in accordance with the Personal Terms.
+Each time you make a payment with your Revolut Card, you instruct Revolut to immediately send a debit request to Revolut Bank requesting funds from your demand deposit account equal to the amount needed to make the payment.
+Once the requested amount is sent from the demand deposit account to the customer's e-money account, the customer will immediately issue e-money.
+This money, however, will remain in the customer's e-money account for a short period of time until it is paid to the card system.
+Since the customer will have already spent the money, it will not be available to be spent again.
+As you can see, when the customer sends or spends their money, the money remains in their e-money account for a very limited period of time, from when it leaves the demand deposit account at Revolut Bank until it is paid .
+What happens if I add money?
+The customer can still add money as described in section 12 of the Personal Terms.
+Each time you do this, Revolut will treat the money like any other money sent to your account, as described in the "What happens if I receive a payment?" section.
+up.
+Customer may still use the auto-add feature described in section 12 of the Personal Terms.
+Whenever the 'remembered' balance of the sight deposit account at Revolut Bank falls below the amount set by the customer, the auto-add feature adds money to the account (the meaning of 'remembered' account is described in section 3 down).
+What happens if I make a currency conversion?
+If you ask Revolut to carry out a currency conversion using the Revolut App, you will instruct Revolut to immediately send a debit request to Revolut Bank requesting funds from your demand deposit account equal to the amount required to carry out the conversion.
+Once the requested amount is sent from the demand deposit account to the customer's e-money account, Revolut will immediately issue e-money and carry out the conversion in the e-money account, then send the converted amount to the demand deposit account of the customer at Revolut Bank.
+By accepting this Supplement, you instruct Revolut to send the converted amount to your demand deposit account at Revolut Bank, as described in this Supplement.
+If you make a payment that triggers a currency conversion under the Personal Terms (for example, you buy something in a store in GBP using your Revolut card, but you only have EUR currency in your sight deposit account), Revolut will perform the currency conversion when the money arrives in the e-money account from the customer's demand deposit account and before making the payment at the store.
+3.
+What does the customer's account balance and transaction history show?
+Revolut keeps track of all money sent between your demand deposit account with Revolut Bank and your e-money account.
+Using this information, we "remember" the customer's Revolut Bank demand deposit account balance.
+The balance shown to the customer in the Revolut app is the total of the 'remembered' balance of the demand deposit account at Revolut Bank and any available balance in the customer's e-money account.
+This balance is used because the two amounts together represent the total amount the customer has available to spend.
+This is also the balance that Revolut reports via the open banking API when the customer uses a third-party provider to access the account.
+To ensure that the information displayed by Revolut is correct, you agree to Revolut's right to receive information about your demand deposit account (including information about any blocks or restrictions on your demand deposit account and the reasons for this).
+You also agree that Revolut may send the same information to Revolut Bank on your e-money account.
+The transaction history shown in the Revolut app will include all payments made and received by the customer.
+However, to keep things simple, Revolut will not display the automatic transactions between your Demand Deposit account and your e-money account described in section 2 on your transaction history screen.
+This information is shown on your transaction statement instead.
+For example, if the customer spends €5 with their Revolut card in a shop, they will see the purchase made in the shop on the transaction history screen, but will not see the automatic transaction from their sight deposit account to their cash account electronics.
+You may request a statement of automatic transactions, but by subscribing to this Supplement you agree that these transactions will not be provided through the transaction history screen in the Revolut app or through push notifications.
+4.
+When might this Supplement end?
+What happens if I don't have a demand deposit account with Revolut Bank?
+This supplement is an agreement on how money is moved between your demand deposit account at Revolut Bank and your e-money account with Revolut Payments.
+If the customer does not have a demand deposit account, Revolut cannot provide these services.
+For this reason, if your demand deposit account is closed, this Supplement also ends.
+The remainder of the Personal Terms will continue to apply and Revolut will provide its services under those terms.
+What if I want to terminate this Supplement?
+If you wish to terminate this Supplement, but wish to maintain your e-money account, you can notify Revolut via the Revolut app.
+10 business days notice is required to terminate the Supplement.
+Once terminated, the Personal Terms will continue to apply and Revolut will provide its services under those terms.

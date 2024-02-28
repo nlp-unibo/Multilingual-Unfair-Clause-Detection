@@ -1,0 +1,485 @@
+[{'translation_text': 'mySugr GmbH'}]
+[{'translation_text': 'General Terms and Conditions (OWH)'}]
+[{'translation_text': 'Version of 25 September 2018'}]
+[{'translation_text': 'Home:'}]
+1.
+[{'translation_text': 'SCOPE'}]
+1.
+[{'translation_text': '1 Our Products'}]
+1.
+[{'translation_text': '2Application of our OWH'}]
+1.
+[{'translation_text': '3 External Suppliers'}]
+2.
+[{'translation_text': 'DATA PROTECTION'}]
+3.
+[{'translation_text': 'CONTINUING THE AGREEMENT ANDRegistrATION'}]
+3.
+[{'translation_text': '1 Purchase of our Products and Payments'}]
+3.
+[{'translation_text': '2 Registration and activation'}]
+4.
+[{'translation_text': 'RIGHT TO DEROGATION FROM THE AGREEMENT'}]
+4.
+[{'translation_text': '1 Information on the exercise of the right of withdrawal'}]
+4.
+[{'translation_text': '2 Exceptions to the right of withdrawal'}]
+5.
+[{'translation_text': 'USE OF OUR PRODUCTS'}]
+5.
+[{'translation_text': '1 Period of use and termination'}]
+5.
+[{'translation_text': '2 Blockage and exclusion'}]
+5.
+[{'translation_text': '3 License and granting of rights'}]
+5.
+[{'translation_text': '4 Availability of our Products'}]
+6.
+[{'translation_text': 'Your Behaviour'}]
+6.
+[{'translation_text': '1 General provisions'}]
+6.
+[{'translation_text': '2 Inappropriate use'}]
+7.
+[{'translation_text': 'OUR RESPONSIBILITY'}]
+7.
+[{'translation_text': '1 Guarantee and liability'}]
+7.
+[{'translation_text': '2 Exclusion of liability and discharge from liability'}]
+8.
+[{'translation_text': 'SPECIFIC PROVISIONS'}]
+8.
+[{'translation_text': '1 MySugr bolus calculator'}]
+9.
+[{'translation_text': 'FINAL PROVISIONS'}]
+9.
+[{'translation_text': '1 Choice of law'}]
+9.
+[{'translation_text': '2 Jurisdiction'}]
+9.
+[{'translation_text': '3 Other provisions'}]
+[{'translation_text': 'These OWH are available in a valid version on our website www.mysugr.com and are available for download in pdf format.'}]
+1.
+[{'translation_text': 'SCOPE'}]
+1.
+[{'translation_text': '1 Our Products'}]
+1.
+1.
+[{'translation_text': '1 We,'}]
+[{'translation_text': 'mySugr GmbH'}]
+[{'translation_text': '1010 Vienna, Trattnerhof 1'}]
+[{'translation_text': '+43 720 884555, support@mysugr.com'}]
+[{'translation_text': 'FN 376086 v (Economic Court in Vienna)'}]
+[{'translation_text': 'DVR 4015732, UID ATU67061939'}]
+[{'translation_text': '(Sugr) we develop and support an interactive platform and mobile applications (applications) for diabetic patients.'}]
+[{'translation_text': 'mySugr is a digital healthcare company that offers comprehensive care for diabetic patients to minimize obstacles and problems in daily treatment.'}]
+[{'translation_text': 'Thanks to our products and services, we provide solutions to facilitate daily management of diabetes.'}]
+1.
+1.
+[{'translation_text': '2 As part of our Products we provide information and content that are collected in accordance with our best knowledge and beliefs and with the utmost care from internal and external sources.'}]
+[{'translation_text': 'However, we would like to make it clear that our products and services are only intended to inform and raise your awareness, but cannot replace consultation and diagnosis with your doctor.'}]
+[{'translation_text': 'Under no circumstances does mySugr give any medical advice on therapy or medical advice.'}]
+[{'translation_text': 'If you have any questions about your illness and treatment, please contact your doctor.'}]
+[{'translation_text': 'It is up to you and your doctor or advisor to assess the data provided.'}]
+[{'translation_text': 'diabetes.'}]
+[{'translation_text': 'The whole content of the text, regardless of whether it is supplied by mySugr, our partners or Users, is not intended to supplement or replace the information provided by your doctor or pharmacist.'}]
+1.
+1.
+[{'translation_text': '3 mySugr offers a variety of products (apps) and services, as well as their combinations (packages) to help you cope with diabetes.'}]
+[{'translation_text': 'For simplification, all current and future applications, services and packages (including new versions, updates and other improvements) that mySugr makes available in any form are jointly referred to as "Products" or individually "Products."'}]
+[{'translation_text': 'Anyone who buys and uses one or more of our Products is hereinafter referred to as "User" individually or collectively.'}]
+[{'translation_text': 'To the extent that these OWH refer only to natural persons in male form, they shall apply equally to all persons.'}]
+1.
+1.
+[{'translation_text': '4 In view of these GTCs, the following definitions shall apply to each product:'}]
+[{'translation_text': 'Applications'}]
+[{'translation_text': 'MySugr (Logbook) is an independent mobile application for a smartphone or tablet that documents the daily life of a diabetic.'}]
+[{'translation_text': 'Our basic version MySugr Diary is limited functionally.'}]
+[{'translation_text': 'mySugr Pro is an unlimited, full version of mySugr Diary.'}]
+[{'translation_text': 'mySugr Pro is a paid version and offers many additional features to help you cope even better with diabetes.'}]
+[{'translation_text': 'MySugr bolus calculator (Bolus Calculator) calculates the level of insulin or carbohydrates in just a few steps based on your settings.'}]
+[{'translation_text': 'Our bolus calculator is an additional service available in conjunction with mySugr Pro.'}]
+[{'translation_text': 'Services'}]
+[{'translation_text': 'MySugr Coach offers comprehensive information from certified advisors.'}]
+[{'translation_text': 'diabetes and dietetics, regardless of time and place.'}]
+[{'translation_text': 'MySugr Coach can be used in some countries as mySugr Pro extension.'}]
+[{'translation_text': 'Packages'}]
+[{'translation_text': 'MySugr (Bundle) is a comprehensive solution and includes mySugr Pro with extensions such as Bulus Calculator and mySugr Coach, as well as a glucometer from our partners and user-oriented delivery of test strips (automatic delivery of test strips depends on actual measurement, i.e.'}]
+[{'translation_text': 'only the measurement and registration results in the delivery of the order for the corresponding delivery of test strips).'}]
+[{'translation_text': 'Availability and composition of mySugr Package are constantly being developed.'}]
+1.
+1.
+[{'translation_text': '5 In our instructions (available in our applications or on the website) and in the relevant specific provisions (Chapter 8.)'}]
+[{'translation_text': 'we pay attention to the specific characteristics of the products concerned.'}]
+1.
+[{'translation_text': '2Application of our OWH'}]
+1.
+2.
+[{'translation_text': '1 All Products are offered only on the basis of these General Terms and Conditions (OWH) in the applicable version, except for the United States and Canada.'}]
+[{'translation_text': 'MySugr expressly rejects any conflicting commercial terms and conditions of use.'}]
+1.
+2.
+[{'translation_text': '2 Remember that before the first use of our Products you must accept these General Terms and Conditions as well as all related statements and agreements, and any subsequent use of our Products means their acceptance.'}]
+[{'translation_text': 'Registration and use of our Products is forbidden without the approval of our OWH by you.'}]
+1.
+2.
+[{'translation_text': '3 We expressly reserve the right to make modifications and objectively justified changes in the future in OWH.'}]
+[{'translation_text': 'Modifications may be necessary to meet legal, technological and economic efficiency requirements or to satisfy the interests of our Users.'}]
+[{'translation_text': 'Such changes may be made at any time and shall be announced in an appropriate manner before their entry into force, each User may object in writing within one month of their announcement.'}]
+[{'translation_text': 'In the absence of objections, the continued use of our Products is subject to an appropriate new OWH.'}]
+1.
+[{'translation_text': '3 External Suppliers'}]
+1.
+3.
+[{'translation_text': '1 Our products can be found in app shops.'}]
+[{'translation_text': 'Basically, the terms of a given external supplier (on which we have no influence) do not form part of our OWU or our contractual relationship with you as a User of our Products.'}]
+[{'translation_text': "The same applies to the conditions of use of the User's mobile device or operator."}]
+1.
+3.
+[{'translation_text': '2 For optimal use of our Products we cooperate with different partners.'}]
+[{'translation_text': 'These are partners who provide us or our Users directly with individual Products (e.g.'}]
+[{'translation_text': 'glucometer, test strips), as well as insurance companies that can cover the costs of our Products on your behalf.'}]
+[{'translation_text': 'In such cases, we either explicitly refer to the applicable trading terms of a third party, or you must accept such terms before it is possible to purchase any of our Products via an external supplier.'}]
+[{'translation_text': 'DATA PROTECTION'}]
+[{'translation_text': 'We are aware of the great responsibility associated with the use of our Products by you, because you give us not only your general data, but also your health data.'}]
+[{'translation_text': 'In our Privacy Policy we inform about the use and protection of your data in connection with the use of our Products, as well as the required consent you must give.'}]
+[{'translation_text': 'Without your consent, the use of products is legal and technically impossible.'}]
+[{'translation_text': 'Our Privacy Policy is not part of these General Terms and Conditions, but is only information for you, transmitted in accordance with the General Data Protection Regulation, on the basis of which you agree to the necessary processing of data.'}]
+3.
+[{'translation_text': 'CONTINUING THE AGREEMENT ANDRegistrATION'}]
+3.
+[{'translation_text': '1 Purchase of our Products and Payments'}]
+3.
+1.
+[{'translation_text': '1 Our products can be purchased in different ways:'}]
+[{'translation_text': 'Applications and services'}]
+[{'translation_text': 'App Stores (such as Apple App Store/iTunes or GooglePlay) offer our Products.'}]
+[{'translation_text': 'Please note that the purchase (not use) of our Products is subject to commercial terms and conditions of app shops and it may be required to create a user account.'}]
+[{'translation_text': 'Our website has its own login area and offers direct access to our Products, in particular to mySugr Package.'}]
+[{'translation_text': 'Bony (vouchers) for our products are in continuous circulation and can be exchanged on our website.'}]
+[{'translation_text': 'Packages'}]
+[{'translation_text': 'Therapeutic devices are partially distributed together with our Products.'}]
+[{'translation_text': 'For example, you can combine the glucometer and other therapeutic devices with our application.'}]
+[{'translation_text': 'Insurance institutions (public or private) cooperate with mySugr to support diabetes in the use of our Products.'}]
+[{'translation_text': 'All costs of our products will be covered directly by the insurance institution or refunded in accordance with the insurance tariff.'}]
+[{'translation_text': 'You can find out at any time if your health insurance provider is already working with us.'}]
+3.
+1.
+[{'translation_text': '2 Our paid products can be purchased on our website, in app shops or in our applications.'}]
+[{'translation_text': 'The account is issued via the user account of the store with pre-defined payment options.'}]
+[{'translation_text': 'The relevant application shop acts as an intermediary and payment service provider for mySugr or as a direct seller.'}]
+[{'translation_text': 'In case of download or payment problems you can always contact us at support@mysugr.com.'}]
+3.
+1.
+[{'translation_text': '3 Fees for the use or purchase price (including statutory VAT) are payable once or periodically depending on the offer and selection (e.g.'}]
+[{'translation_text': 'in monthly, semi-annual or annual periods).'}]
+[{'translation_text': 'Current fees are displayed in our application or in app shops and should be paid in advance immediately.'}]
+[{'translation_text': 'Invoices and payment reminders can be sent to you by e-mail, unless the execution of the order is carried out directly through the app shop.'}]
+[{'translation_text': 'In case of a wrapped, late or incomplete payment we have the right to block your access to our Products.'}]
+[{'translation_text': 'The obligation to pay the user charge shall remain intact.'}]
+3.
+1.
+[{'translation_text': '4 We expressly reserve the right to restrict free products at any time, to remove them in full or to make them available for free.'}]
+[{'translation_text': 'In the future, no legal claim may be made for the free use of individual Products or parts thereof for a given period of time.'}]
+3.
+1.
+[{'translation_text': '5 mySugr may also submit special or free of charge offers which may be subject to additional conditions or restrictions.'}]
+[{'translation_text': 'In this context, we clearly pay attention to any deviation from these OWHs, while this OWH remains fully valid in all other respects.'}]
+[{'translation_text': 'You cannot transfer special offers and free of charge to other Users.'}]
+3.
+[{'translation_text': '2 Registration and activation'}]
+3.
+2.
+[{'translation_text': '1 Using our Products requires registration in mySugr application.'}]
+[{'translation_text': 'After the first activation of our Product you should register using your e-mail address and password (mySugr ID).'}]
+[{'translation_text': 'Each User can create only one mySugr identifier and each such identifier can only be used by one User.'}]
+3.
+2.
+[{'translation_text': '2 By registering, the User submits a binding offer to conclude a contract with mySugr for the use of our Products under these OWH in the applicable version, which we expressly accept, at the latest by activating the mySugr identifier or sending the ordered goods.'}]
+3.
+2.
+[{'translation_text': '3 The activation will be confirmed immediately after registration by means of a separate e-mail address.'}]
+[{'translation_text': 'We reserve the right to refuse activation for individual Users or to reject their offer to conclude a contract without giving a reason.'}]
+[{'translation_text': "In this case, payments already made will be refunded and the user's data transmitted will be deleted immediately."}]
+3.
+2.
+[{'translation_text': '4 By registering, the User confirms that he is 16 years old and is entitled to conclude contracts in accordance with applicable law.'}]
+[{'translation_text': 'Only persons with legal capacity may register themselves.'}]
+[{'translation_text': 'Minors can do so only with the explicit consent of parents or legal guardians.'}]
+[{'translation_text': 'Scan for such written consent should be sent to support@mysugr.com.'}]
+[{'translation_text': 'In registering, the parent or legal guardian declares that he is entitled to make legally binding statements also on behalf of the minor.'}]
+3.
+2.
+[{'translation_text': '5 By registering, you confirm that you are aware and fully accept the content of these OWH and that all of its data is true, correct, up-to-date and complete, and you undertake to update this information regularly.'}]
+[{'translation_text': 'We reserve the right to contact you at any time to verify registration data and usage information.'}]
+3.
+2.
+[{'translation_text': '6 If you provide false, incorrect, outdated or incomplete information, or if you have reasonable grounds to believe that the information is false, incorrect, outdated or incomplete, mySugr has the right to block a given mySugr identifier with immediate effect and without prior notice and to prohibit you from using our Products without having to refund any costs.'}]
+3.
+2.
+[{'translation_text': '7 You are obliged to protect your registration data against unauthorized third party access, misuse or unlawful use.'}]
+[{'translation_text': 'Even the suspicion that your mySugr ID may be exposed to this risk should be reported immediately to support@mysugr.com.'}]
+[{'translation_text': 'We have the right to block the mySugr ID of each User in case of misuse or illegal use.'}]
+4.
+[{'translation_text': 'RIGHT TO DEROGATION FROM THE AGREEMENT'}]
+4.
+[{'translation_text': '1 Information on the exercise of the right of withdrawal'}]
+4.
+1.
+[{'translation_text': '1 If you do not use our Products for commercial or professional purposes, you have the right to withdraw from the contract with mySugr as a consumer in accordance with the following provisions:'}]
+[{'translation_text': 'INFORMATION ON THE RIGHT OF DEROGATION'}]
+[{'translation_text': 'Right of withdrawal'}]
+[{'translation_text': 'You have the right to withdraw from the contract within 14 days without giving reason.'}]
+[{'translation_text': 'The withdrawal period shall be fourteen days from the date of conclusion of the contract (activation of digital resources) or from the date on which the consumer or the third party designated by him or her not being the carrier entered into possession of the goods (physical delivery).'}]
+[{'translation_text': 'To exercise the right to withdraw from the contract, please inform us, mySugr GmbH, Trattnerhof 1, 1010 Vienna, phone: +43 720 884555, email: support@mysugr.com, making a clear statement (e.g.'}]
+[{'translation_text': 'e-mail or letter sent by post) about your decision to withdraw from the contract.'}]
+[{'translation_text': 'You can use the attached model withdrawal form, but it is not mandatory.'}]
+[{'translation_text': 'In order to comply with the withdrawal deadline, it is sufficient to send a notification of the exercise of the right of withdrawal before the expiry of that period.'}]
+[{'translation_text': 'Consequences of withdrawal'}]
+[{'translation_text': 'If you withdraw from this contract, we will immediately reimburse all payments received from you, including any delivery costs (except for additional costs resulting from your choice of delivery other than the cheapest standard delivery offered by us), within 14 days of the date of receipt of the notification of your withdrawal from this contract at the latest.'}]
+[{'translation_text': 'For reimbursement, we will use the same payment method that was used for the original transaction unless expressly agreed otherwise with you; in no case will you be charged any reimbursement fees.'}]
+[{'translation_text': 'Please note that if the health insurance provider has already reimbursed you the costs of the goods or services you have resigned from, according to the tariff, the health insurance provider may be entitled to an appropriate return claim against you.'}]
+[{'translation_text': 'We may refuse to return the funds until we receive the return of the goods or until you prove that you have returned the goods, depending on what happens earlier.'}]
+[{'translation_text': 'The goods must be returned or transferred immediately to mySugr GmbH, Trattnerhof 1, 1010 Wien, phone: +43 720 884555, email: support@mysugr.com, and in any event within 14 days of the date, you informed us of your withdrawal from this agreement.'}]
+[{'translation_text': 'The time limit shall be respected if the goods are dispatched before the expiry of the 14-day time limit.'}]
+[{'translation_text': 'We bear the costs of returning the goods.'}]
+[{'translation_text': 'The loss of value of the goods must be paid only if the loss of value results from handling the goods in a manner which is not necessary to verify the quality, properties and performance of the goods.'}]
+[{'translation_text': 'If you have requested to start providing services during the withdrawal period, you are obliged to pay us an appropriate amount which corresponds to the part of the services already performed until we are informed of the right to withdraw from this contract, proportionate to the total scope of the services provided under the contract.'}]
+[{'translation_text': 'DEROGATION FORM'}]
+[{'translation_text': 'If you wish to withdraw from the contract, please fill in this form and send it to the following address:'}]
+[{'translation_text': 'mySugr GmbH'}]
+[{'translation_text': '1010 Vienna, Trattnerhof 1/5 OG'}]
+[{'translation_text': 'support@mysugr.com'}]
+[{'translation_text': 'I cancel my purchase agreement for the following goods / provision of the following services:'}]
+[{'translation_text': 'Ordered / received on:'}]
+[{'translation_text': 'MySugr identifier, name and address of the consumer:'}]
+[{'translation_text': 'Date and signature (only in case of paper communication)'}]
+4.
+[{'translation_text': '2 Exceptions to the right of withdrawal'}]
+4.
+2.
+[{'translation_text': '1 You do not have the right to withdraw from the contract for the supply of digital content which is not stored on a physical data medium if we, with your explicit consent, and know of the loss of the right to withdraw from the contract in the event of the early commencement of the contract and after making available a copy or confirmation pursuant to § 7 paragraph.'}]
+[{'translation_text': '3 The Law on the provision of services at a distance and foreign service (FAGG) started delivery before the expiry of the deadline for withdrawal from the contract in force in other cases.'}]
+[{'translation_text': 'In accordance with paragraph 7 of this Article, the Commission considers that the aid is compatible with the internal market and that it is compatible with the internal market and that it is compatible with the internal market.'}]
+[{'translation_text': '3 FAGG User receives confirmation of the conclusion of a contract on a durable data medium (e.g.'}]
+[{'translation_text': 'by e-mail) together with the information referred to in § 4 (4).'}]
+[{'translation_text': '1 FAGG within a reasonable time after the conclusion of the contract, but no later than before the start of the provision of services, unless this information has already been provided on a durable data medium.'}]
+[{'translation_text': 'The confirmation of the contract shall in any case confirm the consent to the immediate performance of the service and the knowledge of the User of the resulting loss of the right to withdraw from the contract.'}]
+4.
+2.
+[{'translation_text': '2 In addition, you do not have the right to withdraw from the contract in the case of contracts relating to goods which have been supplied in a sealed state and are not suitable for reimbursement for health or hygiene reasons if the seal has been removed after delivery.'}]
+[{'translation_text': 'From a technical and economic point of view, it is not possible to verify whether the ordered goods were used after removal, whether they were in contact with bodily fluids, whether they were (partly) mixed with contaminated parts of the goods, or whether they were properly stored to us or to the relevant producers it is prohibited to re-use or re-market such goods.'}]
+[{'translation_text': 'Therefore, the right of withdrawal is excluded due to controlled hygiene and durability requirements.'}]
+5.
+[{'translation_text': 'USE OF OUR PRODUCTS'}]
+5.
+[{'translation_text': '1 Period of use and termination'}]
+5.
+1.
+[{'translation_text': '1 The permission to use our Products starts with registration and activation by mySugr.'}]
+5.
+1.
+[{'translation_text': '2 You can use our free Products for an indefinite period.'}]
+[{'translation_text': 'The period of use of products purchased under health insurance (in particular mySugr Package) depends on the conditions of insurance and contract.'}]
+5.
+1.
+[{'translation_text': '3 Our paid products can be purchased under monthly or annual subscriptions, as well as for shorter or longer periods of use (hereinafter referred to as the subscription period), depending on the current offer.'}]
+[{'translation_text': 'An appropriate subscription period is displayed in our apps or app shops.'}]
+5.
+1.
+[{'translation_text': '4 Both the User and mySugr have the right to terminate the contract at any time with a one-month notice, with effect at the end of each month.'}]
+[{'translation_text': 'You can do this by selecting .Write a subscription in your account in an app store, in the area of login on our website or by writing to us at: support@mysugr.com.'}]
+[{'translation_text': 'Please note that the fees already paid for the unused subscription period will only be refunded if you simply terminate the subscription period by mySugr or, in the case of an automatic termination of the subscription period (point.'}]
+5.
+1.
+[{'translation_text': '6 below).'}]
+5.
+1.
+[{'translation_text': '5 In case of non-subscription or non-subscription within the deadline, the subscription period will automatically be extended by another period corresponding to the previously selected Subscription Period.'}]
+[{'translation_text': 'When the subscription is renewed, the appropriate standard price will be charged (not: special offers or free offers or offers of your insurance institutions).'}]
+[{'translation_text': 'Automatic renewal can be disabled in your account settings in a given application store.'}]
+5.
+1.
+[{'translation_text': '6 In the event of your death or cancellation of a statement of consent to the protection of personal data, the use relationship ends automatically with immediate effect, because without your consent mySugr cannot process your health data.'}]
+5.
+1.
+[{'translation_text': '7 If you have any questions about the period of use or how it ends, please contact us at support@mysugr.com.'}]
+5.
+[{'translation_text': '2 Blockage and exclusion'}]
+5.
+2.
+[{'translation_text': '1 We reserve the right to temporarily block Users at any time for important reasons (at our discretion) or to permanently exclude them from using our Products.'}]
+[{'translation_text': 'In the event of such termination without notice, the reimbursement of the user charges shall be excluded.'}]
+5.
+2.
+[{'translation_text': '2 An important cause is in particular the gross violation by the User of these OWH, e.g.'}]
+[{'translation_text': 'breach of the provisions of point.'}]
+3.
+[{'translation_text': '1 (Payments) setting a two-week payment deadline, point.'}]
+3.
+[{'translation_text': '2 (Registration data), paragraph.'}]
+5.
+[{'translation_text': '3 (Licence) or point.'}]
+6. (
+[{'translation_text': 'Your Behavior).'}]
+5.
+[{'translation_text': '3 License and granting of rights'}]
+5.
+3.
+[{'translation_text': '1 With registration and activation, you obtain an unexclusive, non-exclusive, but territorially unlimited right to save and use copies of our application for your own purposes within the scope set out in these OWHs.'}]
+[{'translation_text': 'In the case of our paid Products, this license is limited to the duration of the contractual subscription period.'}]
+5.
+3.
+[{'translation_text': '2 Software, code, methods and systems as well as the content of our Products are protected by copyright and competition law and can only be used by mySugr.'}]
+[{'translation_text': 'Our Products or parts of them cannot be copied, modified, reproduced, republished, sent, sold, offered for sale or sold or used in any way without our prior written consent.'}]
+[{'translation_text': 'Users are not entitled to use trademarks, logos or other industrial property rights of mySugr.'}]
+[{'translation_text': 'Unless otherwise provided by this OWH, all rights of use and operation are exclusively owned by mySugr or a group company and are not licensed in respect of our Products.'}]
+5.
+3.
+[{'translation_text': '3 While this is technically necessary to deliver our Products, each User grants mySugr a non-exclusive, non-exclusive, but unpaid, transferable, temporarily and territorially unlimited right to use and use the content that it generates, transmits, stores and publishes within our Products.'}]
+[{'translation_text': 'However, the use or use of the data is excluded if the legitimate interests of the User (e.g.'}]
+[{'translation_text': 'data protection rights) are disproportionately affected.'}]
+[{'translation_text': 'If you use them outside our Products, we will, as far as possible, pay attention to the fact that the content comes from you.'}]
+[{'translation_text': 'mySugr does not claim ownership of the created content and will not exercise any supervisory function in relation to the content created by the User.'}]
+5.
+[{'translation_text': '4 Availability of our Products'}]
+5.
+4.
+[{'translation_text': '1 We share our Products in every case according to existing technical, economic, operational and organisational capabilities.'}]
+[{'translation_text': 'mySugr cannot rule out interruptions, disruptions, delays, deletions, errors in transmission or memory damage due to the use of our Products or communication with Users.'}]
+[{'translation_text': 'In addition, we offer our Products partly with the participation of external suppliers and are therefore dependent on the provision of technical services by third parties.'}]
+[{'translation_text': 'Therefore, mySugr bears no responsibility, provides no warranty or accepts no obligation to ensure the continued availability of our Products on the Internet.'}]
+5.
+4.
+[{'translation_text': '2 The same applies to restrictions on the use of our Products due to force majeure, strikes, lockouts and official regulations, as well as technical modifications or maintenance work in mySugr systems.'}]
+[{'translation_text': 'For more information about our Products, please contact us at: support@mysugr.com.'}]
+6.
+[{'translation_text': 'Your Behaviour'}]
+6.
+[{'translation_text': '1 General provisions'}]
+6.
+1.
+[{'translation_text': '1 Each User is entitled and obliged to use and use our Products at their own risk and cost, using appropriate technical equipment.'}]
+[{'translation_text': 'Information about which terminal devices and operating systems are compatible with our products can be obtained from the apps store or at any time from us at support@mysugr.com.'}]
+6.
+1.
+[{'translation_text': '2 You are also obliged to use our Products only in accordance with these OWH and regulations of law, and to refrain from misuse of our Products.'}]
+[{'translation_text': 'Any breach of the obligations referred to in this point must be reported immediately to support@mysugr.com.'}]
+6.
+[{'translation_text': '2 Inappropriate use'}]
+6.
+2.
+[{'translation_text': '1 Each User undertakes to provide his registration data truthfully and to ensure that they are always up-to-date and complete and that they are not communicated to third parties.'}]
+[{'translation_text': 'Personal data should be kept confidential, carefully managed and protected at their own risk.'}]
+[{'translation_text': 'MySugr does not provide any guarantee or liability for lost or damaged data or content, unless it is our fault.'}]
+6.
+2.
+[{'translation_text': '2 Content such as photos, images, texts, videos or other presented information may be stored, published, transmitted or disseminated in connection with our Products only if the User has the right to transmit and use them.'}]
+[{'translation_text': 'In any event, the use in any way of racist, offensive, discriminatory, defamatory, sex-related, pornographic, or violent or otherwise illegal content is prohibited.'}]
+6.
+2.
+[{'translation_text': '3 It is also not allowed to decode, play, decompile or disassemble our Products.'}]
+[{'translation_text': 'Each User undertakes not to interfere in our Products or in mySugr networks by technical or electronic means (in particular through attempts to break in, brute force attacks, infection with viruses, worms, trojans and other malicious programs) and refrain from any interference attempts that might affect the software or equipment of Products and mySugr systems.'}]
+7.
+[{'translation_text': 'OUR RESPONSIBILITY'}]
+7.
+[{'translation_text': '1 Guarantee and liability'}]
+7.
+1.
+[{'translation_text': '1 Unless otherwise specified in these GTCs, mySugr shall be liable and shall provide guarantees under the laws.'}]
+7.
+1.
+[{'translation_text': "2 Liability to Users who are not consumers for cash losses, follow-up losses, lost benefits and damages arising from third parties' claims shall be excluded."}]
+[{'translation_text': 'To the extent that our liability is limited or excluded in these OWHs, this applies equally to representatives and companies associated with mySugr.'}]
+7.
+1.
+[{'translation_text': "3 Outside the scope of the Product Liability Act, mySugr's liability is limited to intentional and gross negligence, except for personal injury."}]
+[{'translation_text': 'Liability for minor negligence is excluded for the following factual reasons.'}]
+7.
+1.
+[{'translation_text': '4 MySugr does not guarantee that our Products are available in full, continuously and flawlessly and that the required software and hardware works flawlessly.'}]
+[{'translation_text': 'Furthermore, we cannot rule out that data transmission via third-party systems, in particular Internet networks and other telecommunications networks, can be tracked, recorded or falsified by third parties.'}]
+7.
+1.
+[{'translation_text': '5 mySugr is not responsible for the downloaded content or materials you have received as a result of using our Products.'}]
+[{'translation_text': 'You are solely responsible for any damage that may occur in your computer system or terminal devices, as well as for the loss of data due to the collection of materials related to our Products.'}]
+7.
+1.
+[{'translation_text': '6 In addition, mySugr does not provide any warranty on external content such as external links, banners or other third party advertising information and offers that may be placed within our Products.'}]
+[{'translation_text': 'If we provide notifications or links to third parties, mySugr is not responsible for the information contained in them.'}]
+[{'translation_text': 'The resulting transactions result in contractual relations only between the User and the third party concerned.'}]
+[{'translation_text': 'We do not grant any guarantee or assume any other responsibility for third party services.'}]
+7.
+[{'translation_text': '2 Exclusion of liability and discharge from liability'}]
+7.
+2.
+[{'translation_text': '1 The use of our Products does not replace consultation with a doctor or other medical advice and therefore you bear the sole risk in this regard.'}]
+[{'translation_text': 'This applies in particular to the use of ordered goods, such as glucometer, as well as the use by the User of data provided within our Products, including measurement values, calculations and recommendations for action.'}]
+[{'translation_text': 'You clearly acknowledge that such data may be incorrect and mySugr is not responsible for their correctness.'}]
+7.
+2.
+[{'translation_text': '2 To the extent required by the applicable provisions concerning medical devices to which the product is to be used, the products may be used or used only in accordance with the purposes, specifications and areas of use specified in the offer and conditions of use.'}]
+7.
+2.
+[{'translation_text': '3 You will release mySugr from any claims against mySugr by third parties due to a faulty violation of their rights by you in connection with the use of our Products.'}]
+[{'translation_text': 'Any further claims against mySugr against you remain intact.'}]
+7.
+2.
+[{'translation_text': '4 You have full responsibility for any damages and litigation or out-of-court disputes arising from conflicts with other Users.'}]
+[{'translation_text': 'You clearly acknowledge that mySugr is under no circumstances responsible for the actions or omissions of other Users or for any damage resulting therefrom.'}]
+7.
+2.
+[{'translation_text': "5 In the event of a third party making a claim against mySugr, the User is obliged to provide all information available to him in a genuine and complete manner, which is necessary for the analysis, protection and defence of third parties' claims."}]
+[{'translation_text': 'The user shall bear the costs of the required legal defence of mySugr, including any legal costs and legal representation up to the statutory amount.'}]
+8.
+[{'translation_text': 'SPECIFIC PROVISIONS'}]
+[{'translation_text': 'The following provisions concerning individual Products shall be supplemented by other provisions of these GTCs, unless otherwise expressly indicated:'}]
+8.
+[{'translation_text': '1 MySugr bolus calculator'}]
+8.
+1.
+[{'translation_text': '1 MySugr bolus calculator is designed only for diabetic patients who require insulin or are trained in FIT therapy (or comparable programs) who are 18 years old and undergo regular medical examinations.'}]
+[{'translation_text': 'Under no circumstances may a bolus calculator be used by minors or persons who use mixed insulin or only long-acting insulin or are physically active (e.g.'}]
+[{'translation_text': 'because of severe visual impairment) or mentally unable to continue treatment on their own.'}]
+8.
+1.
+[{'translation_text': '2 A paid bolus calculator helps to calculate the required dose of insulin.'}]
+[{'translation_text': 'The basis for the MySugr Bolus Calculator is the calculation based on different parameters introduced by the User.'}]
+[{'translation_text': 'For approximate calculations it is necessary to correctly enter the data by the User.'}]
+[{'translation_text': 'Under no circumstances is mySugr responsible for the results and suggestions calculated by the Bolus Calculator.'}]
+8.
+1.
+[{'translation_text': '3 The result determined by the MySugr bolus calculator is a suggestion for you to apply the calculated dose of insulin.'}]
+[{'translation_text': 'However, it is only up to you to check the reliability of the calculated value based on your own experience, medical advice from your doctor and leaflets accompanying the medicine you are using as well as to determine your own insulin dose.'}]
+[{'translation_text': 'mySugr clearly warns against following the suggestions of the MySugr Bolus Calculator without self checking correctness.'}]
+8.
+1.
+[{'translation_text': 'MySugr bolus calculator must under no circumstances replace medical knowledge of the physician, regular medical examinations, insulin or other medicines, blood sugar measurements or individual treatment parameters.'}]
+9.
+[{'translation_text': 'FINAL PROVISIONS'}]
+9.
+[{'translation_text': '1 Choice of law'}]
+[{'translation_text': 'This OWH and the entire legal relationship between mySugr and the User are subject only to Austrian law, with the exception of conflict rules and the provisions of the United Nations Convention on the Sale of Goods.'}]
+[{'translation_text': 'However, you, as a consumer, benefit from the protection resulting from the mandatory rules of the country in which you are resident or habitually resident.'}]
+9.
+[{'translation_text': '2 Jurisdiction'}]
+[{'translation_text': 'The place of execution and the place of exclusive jurisdiction for all disputes in connection with this OWH is the headquarters of mySugr in Vienna.'}]
+[{'translation_text': 'Mandatory conflict-of-law rules favourable to consumers remain intact.'}]
+9.
+[{'translation_text': '3 Other provisions'}]
+9.
+3.
+[{'translation_text': '1 If a notification or written form (including legal statements) is required in these OWH, it is also sufficient to send an e-mail to the address provided by the User during the registration (mySugr ID).'}]
+9.
+3.
+[{'translation_text': '2 Users are not entitled to transfer their rights and obligations from these OWH to third parties in connection with the use of our Products.'}]
+[{'translation_text': 'mySugr may transfer its rights and obligations from these OWH to other companies or third parties, provided that such transfer does not significantly affect the rights of the User from these OWH.'}]
+9.
+3.
+[{'translation_text': '3 If the individual provisions of these GTCs are or become invalid, their other provisions which are not declared invalid shall remain in force and shall apply.'}]
+9.
+3.
+[{'translation_text': '4 These OWHs are made available in different languages.'}]
+[{'translation_text': 'A decisive version is in the language of the country in which the User as a consumer is resident or habitually resident (e.g.'}]
+[{'translation_text': 'German version for Users in Austria, Germany and Switzerland).'}]
+[{'translation_text': 'If and to the extent that a language version relating to a country is not available, the English version shall prevail.'}]

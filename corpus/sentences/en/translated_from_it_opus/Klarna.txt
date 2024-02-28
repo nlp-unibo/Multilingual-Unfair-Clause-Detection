@@ -1,0 +1,146 @@
+Termini del Klarna Shopping Service
+These terms are drawn up in Italian and English.
+In case of discrepancies between the two versions, the one in Italian will prevail.
+These terms and conditions are an agreement between Klarna Bank AB (publ), including its overseas branches (“Klarna”, “we”, “us” or “our”) and you (“you” and “your” ) to use the Klarna services and features described in these terms, as may be amended (the "Services").
+By registering to use the Services, you enter into an agreement with Klarna by accepting these terms.
+You acknowledge that each time you use our Services, you are deemed to accept the then current version of these terms.
+You can access the most current version of these terms at any time via the Klarna App or on our website.
+You can also download the terms here.
+DESCRIPTION OF
+At Klarna, shopping isn't just about finding great items and paying for them, it's about enjoying a super shopping experience in your favorite store, a cutting-edge app and much more.
+Simply put, a simple user experience both before and after making a purchase.
+These terms explain in detail what this means.
+Please note that if you choose to pay via one of the Services offered by Klarna, additional terms may apply to the specific Service.
+If you decide to use Klarna Financial Services, these terms and the financial terms relating to the Financial Service(s) you request will apply jointly between you and Klarna.
+ACCOUNT NOT CLEAR
+By accepting these terms and using one of our payment methods at a merchant checkout or by downloading and logging in to the Klarna App, you acknowledge that a Klarna User Account will be created.
+1.
+AUTOMATIC FILLING AND PREFERENCES
+In order to offer you a simple and frictionless shopping experience, we will store some information about you and use it to automatically fill in forms while you shop.
+This will allow you to save time and focus on more important things than filling out the same information every time.
+Here are some more details on how it works.
+Autofill while you shop with Klarna
+When you use Klarna for the first time, you will be asked to create a Klarna user account to make your future interactions with Klarna even easier.
+We will store this information in our systems so that when you return to us or use one of our Services, you will only need to provide us with limited information.
+We will treat all personal information we collect when creating your Klarna user account in accordance with our Privacy Policy.
+In cases where we are able to identify you, we may automatically compile certain information about you, such as name, address, telephone number, email, date of birth and card details.
+Autofill is based on information stored in your Klarna user account.
+An example of when autofill is used is when you purchase directly from the Klarna App.
+2.
+KLARNA APP
+The Klarna App, which you can access via mobile application or web portal, is your Online Shopping Assistant, providing your control center for all your Klarna purchases and all the other great features Klarna offers.
+Through the Klarna App you can pay for your purchases, track your packages and much more.
+Some of these features are activated by downloading the App or logging in via the web portal, while others can be activated by you after you log in.
+Klarna wants to offer you the best shopping experience and the ability to search from a large number of stores on the Klarna App.
+We may not have a business relationship with all stores displayed or searchable through the Klarna App.
+In this case Klarna acts like a web browser or search engine, simply redirecting you to the store's website.
+The exact content of the features may differ between different versions of the Klarna App available in specific countries.
+Klarna continually updates the Klarna App with new and improved features.
+Here are some of the features we're most proud of:
+Functionality:
+View transactions and purchases made with Klarna
+Payment management
+Simple interaction with Klarna
+Examples of other features we can offer based on the specific country version:
+Shopping services, such as search functions, an overview of stores we think you'll be interested in, along with personalized suggestions, offers and other content
+Purchase using Klarna payment methods - even in stores that don't yet use Klarna
+Order, delivery or package tracking
+Easy management of returns and refunds
+Overview and management of personal finances
+View and store transactions, purchases, receipts, images and more
+Carbon footprint on your purchases
+Viewing orders placed through stores or entities unrelated to Klarna
+Create and share collections of goods or services of your choice
+An assistant that offers suggestions to help you enter various information (such as payment method, card details, shipping address) using autofill.
+Viewing transactions made with one of our subsidiaries Sofort GmbH, Billpay GmbH and Klarna Inc.
+The display will take place only after you have enabled it from the services of the various companies.
+Your transaction data (for example: name, address, bank account number / IBAN, sort code / BIC, payment reason, date and amount, order details) will then be shared with Klarna.
+As a user of the Klarna App you may, at your discretion, upload, publish and share your own content, such as collections, images and nicknames.
+You understand that by sharing content, you are making it publicly available, which means that some information about you will be available to third parties and may be further used and shared by other people.
+You may only upload, post or share content that you have the right to use for these purposes and that does not violate the law, this Agreement or the rights of any third party.
+You agree not to upload, post or share any content that is unlawful, fraudulent, abusive, threatening, infringing of the rights of others, offensive or criminal (such as anti-ethnic protests, child pornography or illegal depictions of violence) or; transmission of content that contains viruses, Trojan horses, spyware, adware, malware or other harmful programs; dissemination of unsolicited advertising (spam) or any other form of harassment.
+Klarna reserves the right, but has no obligation, to monitor, review, adjust, disable or remove content, without notice to you or any third party, in its sole discretion.
+You are solely responsible for uploading, posting and sharing content and you agree to indemnify Klarna and hold it harmless from any damages, losses or costs incurred as a result of uploading, posting or sharing content, including in connection with claims of third parties against Klarna.
+3.
+SHOW PAST PURCHASES AND TRANSACTIONS
+We save information about your purchases and transactions in the Klarna App.
+As part of the Services provided under these terms, Klarna allows you to view information about your purchases and transactions in the Klarna App.
+If you would like to find out more about how Klarna uses this information and other information we have about you, please see our Privacy Policy.
+4.
+OFFERS AND ADVANTAGES
+Klarna may offer you offers and benefits such as discounts, special events, early access to products, sales promotions, seller offers, sample products and product giveaways.
+The offers and benefits you receive will depend on your past activity, such as number of purchases, purchase amounts or use of Klarna Services.
+ARE THERE ANY COSTS FOR THE SERVICES?
+The services are free.
+Please note that interest and fees may apply for specific Services offered by Klarna.
+So be sure to check the specific information for each Service you use.
+IMPROVEMENT OF SERVICES
+We are constantly working to improve our services so that you can get an even smoother user experience.
+This may require changes to these terms.
+In this case, you will be asked to accept the new terms before you can continue to use the Services.
+PRIVACY AND PERSONAL DATA
+To the extent that you determine our processing of information, for example by uploading, publishing or sharing data in the Klarna App, about you by indicating political or philosophical beliefs, trade union membership, data relating to your health or sexual life, etc. (the so-called special categories of personal data, pursuant to EU Regulation 2016/679 (the "GDPR")), you give your explicit consent to the processing of such data to perform our Services.
+In order to offer you the Services, we need to process your personal data: we invite you to read our Privacy Policy for a more detailed understanding of how we process and protect your data.
+PAYMENTS BY CARD
+When you make a purchase with Klarna you can set up and use a number of different funding sources, including debit, credit or prepaid cards.
+Your funding source will be saved in your Klarna user account until you change/remove it from your profile or the user account is deleted.
+By choosing to save your card details with Klarna you authorize Klarna to charge this funding source for any subsequent use of Klarna when you shop with us.
+You will not be charged until you make a purchase.
+If your default funding source cannot be charged for a purchase, including installment payment plans or subscriptions, if applicable, you authorize Klarna to attempt to charge your other funding sources, registered to your Klarna user account.
+YOUR OBLIGATIONS
+You undertake to provide correct information and to use your personal and correct identity.
+Any use of information that does not belong to you or that, for other reasons, you do not have authorization to use, or use of the Services in a manner not prescribed, will be considered improper use.
+All data regarding improper use, even suspected, can be saved and used for future risk assessments and for the protection of the parties involved.
+Klarna reserves the right to prevent further use of the Services.
+If you upload or share content on Klarna, you grant Klarna a royalty-free right to use and display the content for the purposes of providing the Services.
+We have the right to remove any content uploaded or shared by you if required to do so by law or if we believe the content is offensive, inappropriate, illegal, violates the rights of others, or otherwise objectionable.
+You are responsible for any content you upload or share.
+You acknowledge and agree that if you upload, import or share content that is offensive, threatening or which violates, or which Klarna may reasonably assume to violate, the law or your agreement with Klarna, we may terminate or disable your use of the Klarna App.
+THIRD PARTY SERVICES
+Some features you use, such as package tracking, may include services provided by third parties.
+Use of Google Maps at checkout (for example by searching for your address in the address field) and within the Klarna App is subject to the then current version of the Google Maps / Google Earth Additional Terms of Service and the Privacy Policy of Google.
+Additionally, to prevent abuse of the Klarna App via the web portal, Klarna may use reCAPTCHA, making you subject to the Google Privacy Policy and Terms of Service.
+The Klarna App is available through third-party distribution platforms (“Application Stores”).
+Prior registration with the relevant Application Store may be required.
+Klarna has no influence on the collection, processing and use of personal data by the respective operators of the Application Stores.
+DURATION AND TERMINATION OF THIS AGREEMENT
+This agreement is concluded for an indefinite period of time.
+The Agreement will apply until terminated, which may be at any time, by you or by us.
+If you have an outstanding payment or if you are using a service provided by Klarna that has a fixed duration (and which has not expired) or a service subject to a notice period (which has not expired), you will not be able to terminate this Agreement.
+Please note that, upon termination, use of the Service, including features provided or operated through the Klarna App, will no longer be available.
+ELECTRONIC COMMUNICATIONS
+By using our Services, you consent and agree that Klarna Bank AB may provide all notices, payment information, terms, legally required disclosures and other information to you electronically, including via the Klarna Website, App or the email addresses you have provided to us.
+You understand and agree that in order to receive and retain communications, you will need the following:
+A computer or mobile device with an Internet connection
+A valid email address and mobile number
+Updating contact information
+It is your responsibility to ensure that Klarna has your current email address and mobile number, so that we can communicate with you electronically.
+If you need to update your primary email address, please contact Customer Service to make the change.
+If an electronic communication is not received by you due to an outdated email address, such communication will be considered by us to have been received by you.
+Requests
+If you have any questions about electronic communications in general, please contact Customer Service.
+ASSIGNMENT OR TRANSFER
+You may not transfer or assign any rights or obligations you have under these terms.
+To the extent not already permitted by applicable law, we may transfer or assign these terms or any rights or obligations under these terms at any time, provided that such transfer or assignment does not adversely affect your rights and obligations to the under these terms.
+THE READY
+Klarna Bank AB (publ), with registered office at Sveavägen 46, 111 34 Stockholm, is a Swedish bank registered in the Swedish Commercial Register with registration number 556737-0431.
+The CEO is Sebastian Siemiatkowski.
+Klarna Bank AB (publ) is authorized to provide financial services by Finansinspektionen (the Swedish Financial Supervisory Authority).
+On the Finansinspektionen website you can find details of Klarna's registration with the Swedish Financial Supervisory Authority and a list of countries to which Klarna services have been passported.
+Contact form: klarna.com/en/customer-service.
+COMPLAINTS
+For complaints relating to Klarna Services, the information provided at https://www.klarna.com/en/ applies.
+By using our Services, you consent and agree that Klarna will provide all communications regarding complaints electronically.
+If you have a complaint about Klarna, you can submit your complaint via the Klarna Customer Service webpage, using the chat function or by emailing us.
+contact the Italian Financial Banking Arbitrator (Financial Banking Arbitrator or "ABF").
+In short, ABF is an alternative dispute resolution (ADR) system that is often used by clients in Italy because it is generally faster and less expensive than Court.
+If you are not satisfied with the ABF's decision or if Klarna does not comply with the decision in your favour, you can still appeal to the Tribunal.
+For further information on the ABF you can consult the website www.arredabancariofinanziario.it or ask at the branches of the Bank of Italy or Klarna;
+you can appeal to the ordinary Court as an alternative to the above, but you will first be obliged to activate a mandatory mediation procedure at:
+the Italian banking financial mediator (Conciliatore Bancario Finanziario or "CBF").
+For further information on the CBF, you can consult the website www.conciliatorebancario.it; or
+one of the other available mediation bodies, specialized in banking and financial matters, registered in the specific register kept by the Ministry of Justice.
+APPLICABLE LAW AND JURISDICTION
+Our contractual relationship will be governed by Italian law.
+Any dispute arising out of or in connection with this Service will be subject to the Court of your domicile.
+Last updated: September 15, 2021.

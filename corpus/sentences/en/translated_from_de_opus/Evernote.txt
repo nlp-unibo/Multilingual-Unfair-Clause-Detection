@@ -1,0 +1,291 @@
+Effective date: August 28, 2017 – What’s new »
+Welcome to Evernote!
+We invite you to visit our website and use the Evernote service.
+However, this requires your agreement to these terms of use.
+This document describes in detail your and our rights in relation to the provision of the Service as defined below.
+Therefore, please read these Terms of Use carefully.
+What are the Terms of Use?
+The Terms of Use constitute a contract between you and Evernote.
+The Terms include terms and conditions set forth in this document, the Privacy Policy, the Terms and Conditions, the Evernote Business Agreement, the User Policies, Evernote's IP Compliance Program, and any other terms and conditions we may provide to you from time to time in connection therewith with individual services offered and to which you have agreed (collectively referred to as “Terms of Use” or “Terms”).
+If you do not agree to these Terms, you are not authorized to access or use our Service.
+If you register for our Service or otherwise use our Service, we will assume that you accept the Terms and agree to be a party to this legally binding contract.
+By using the Service, you agree, without limitation, to all of the provisions of the Privacy Policy, including the use and processing of text, images, and other data you enter, store, or upload to Evernote in accordance with the Privacy Policy (“Content “) as well as your personal data.
+What is the Evernote service?
+The Evernote Software (as defined below), the Evernote Service, and other products, services, and websites hosted or provided by Evernote, including our App Center, User Forum, and Help and Learning pages referred to collectively in these Terms of Use as the “Service”.
+In return for using this Service, you agree to comply with these Terms.
+Who are the parties to this contract?
+You as the account holder are one of the contracting parties. (
+An account holder is the person or entity who has contracted with Evernote either as an individual user of Evernote Basic, Plus, or Premium or as a customer under the Evernote Business Agreement.)
+If your place of residence or place of business is in the USA or Canada, Evernote Corporation, based in California (USA), is the other party to the contract.
+If your place of residence or business is in Brazil, the company is Evernote do Brasil Serviços de Aplicações Ltda.
+with its registered office in São Paulo (Brazil) (also “Evernote Brasil” for short) is the other contracting party.
+If your place of residence or place of business is outside Brazil, Canada and the USA, Evernote GmbH, based in Zurich (Switzerland), is the other contracting party. (
+Evernote Corporation, Evernote GmbH and Evernote Brasil are sometimes referred to as “Evernote”, “we” or “us” in these Terms of Use.)
+In some cases, you may also be able to purchase products or service subscriptions from an authorized dealer.
+Please read our Terms and Conditions to learn about any additional terms and conditions relating to such purchases.
+Is this the only contract I have with Evernote?
+This depends on how you use the Evernote service and our software applications.
+When you install Evernote software on your computer, tablet, or smartphone, you may be asked to agree to an end user license agreement.
+If you purchase a paid Evernote subscription, you will be asked to agree to the Terms and Conditions.
+If you use related Evernote products or services (such as Evernote Business) or participate in our user forum, you may be required to enter into an additional agreement with us (typically by clicking Agree or Accept). click).
+We refer to each of these agreements as a “Separate Agreement.”
+If there is any inconsistency between the terms and conditions of a separate agreement and these Terms of Use, the separate agreement shall prevail with respect to such inconsistency and with respect to the subject matter of the separate agreement.
+Are these Terms of Use subject to change?
+These terms may change as new features, technologies or legal requirements arise.
+So please take a look at this page from time to time to stay up to date.
+If there are any significant changes, we will inform you and, if necessary, obtain your consent.
+If we update these Terms, you may choose to either agree to the updated Terms or stop using our Service (see the “How do I close my account?” section).
+further down).
+If you continue to use the Service after such update comes into effect, you will be deemed to have accepted the new terms and conditions and to be legally bound by them.
+Except for changes made by us as described herein, no addition or modification to these Terms will be effective unless made in a written agreement expressly modifying these Terms signed by you and us became.
+For the avoidance of doubt, email or other forms of communication for this purpose do not constitute a valid written agreement.
+What do I have to do if I want to use the Evernote service?
+First, register an account for the Evernote service.
+To do this, enter an email address and set up a password. (
+Some older accounts also required a username.)
+We refer to this information as “access data” or sometimes “subscriber basic data”.
+We recommend using a unique, hard-to-guess password that you do not use for any other service.
+You are responsible for ensuring that your login details are accurate, complete and confidential.
+Further, you are responsible for all activities that occur under your account, including activities of third parties to whom you have provided your credentials.
+We will not be liable for any loss or damage arising from your failure to provide us with accurate information or your failure to protect your login information.
+If you become aware of any unauthorized use of your credentials or suspect that third parties are able to access your private content without authorization, you should immediately change your password and notify our customer support team.
+You can then access the account via a web browser or through our client software, which you can install on your computers, tablets and smartphones.
+You are responsible for purchasing these devices and covering the costs of internet connection and mobile data usage.
+In addition, Evernote is not responsible for the availability of the Internet connection and other telecommunications services required to access the Service.
+Can I share my account with someone else?
+Accounts for the Evernote service should not be shared between multiple users.
+If you share your login information with others, they may take control of your account and we cannot determine who the proper account holder is.
+In these circumstances, we will not be liable to you (or anyone else with whom you share your login details) for the consequences of your actions or the actions of those other people.
+Because we offer free accounts for the Evernote Service and provide you with a variety of mechanisms to share content with other people, we strongly discourage you from sharing your login information with anyone other than as part of your estate planning.
+What rights do I have as an account holder regarding the Evernote Service?
+After you create your account and agree to these Terms, we grant you a limited, non-exclusive license to use this Service in accordance with these Terms.
+This applies unless you are prohibited from using the Service by applicable law and until you voluntarily close your account or we deactivate your account in accordance with these Terms.
+We also grant you a personal, worldwide, royalty-free, non-transferable, non-exclusive license to use the Evernote Software provided to you by or on behalf of Evernote.
+This license is valid solely for the purpose of using the Evernote Software and the Service under the license terms provided with the Evernote Software and these Terms until your rights under the license or these Terms are terminated.
+You receive no other right or interest in Evernote or the Service.
+Evernote's privacy policy states: "My data belongs to me."
+What does that mean?
+You retain copyright and any other rights you may have already held in the Content before you submitted, posted or displayed it via the Service.
+However, you must grant Evernote a limited license as described below in order for us to make your data accessible and useable as part of the Service.
+Except for this limited license and any other rights you grant under these Terms, Evernote acknowledges that we do not have any right or interest in or to any of your Content under these Terms.
+What is the license that I need to grant to Evernote?
+In order for Evernote to operate the Service, we must obtain from you certain limited license rights to process your copyrighted content so that the technical measures taken in the operation of our Service cannot be considered a violation of applicable law.
+For example, copyright law may prevent us from processing, maintaining, storing, backing up and distributing certain content unless you grant us these rights.
+By using the Service and uploading Content, you grant Evernote a license to display, play, distribute, modify your Content (for technical purposes, such as ensuring that the Content can be viewed on smartphones, computers and other devices). ) and reproduced to enable Evernote to operate the Service.
+Additionally, you agree that Evernote has the right, in its sole discretion, not to accept, post, store, display, publish, or transmit any Content.
+You agree that these rights and licenses are royalty-free, transferable, sublicensable, worldwide, and irrevocable (as long as your Content is stored by us) and entitle Evernote to provide such Content to third parties with whom Evernote has entered into a contractual relationship to provide the Service. to make them available and to transfer these rights to these third parties.
+This consent is for the sole purpose of providing such services and otherwise allowing third parties to access or disclose Content to third parties if Evernote determines that such access or disclosure is necessary to comply with its legal obligations is required.
+If you choose to use a third-party service or application integrated with Evernote, you further agree that the licenses granted to Evernote in the preceding paragraph also apply to content created using such service or application transmitted or uploaded to third parties.
+If the third party service or application you use accesses or retrieves your Content, you grant Evernote the right and license to allow the applicable third party to access and retrieve your Content.
+Evernote assumes no responsibility or liability with respect to the acts or omissions of such third party applications or services.
+Because we rely on the rights you grant us to upload and distribute your Content, you represent and warrant to Evernote that (1) you have the full rights and authority to submit your Content to Evernote, to use it as part of your use of the Use, publish or otherwise distribute the Service in any manner and the rights granted to Evernote under these Terms, and (2) that your Content complies with our User Guidelines and these Terms.
+Finally, you acknowledge and agree that by performing the technical measures necessary to provide the Service to Users, Evernote may make any changes to your Content that are necessary to keep the Content consistent with the technical requirements of the intermediary networks, devices , services or media.
+What other assurances do I need to give to Evernote?
+If you use the Evernote Service to send messages to an email address, via SMS to a phone number, or through a social network account (such as Facebook or LinkedIn) that is not associated with an Evernote account, Evernote will send such messages on your behalf, and we rely on your assurance that you have a direct relationship with the recipients and respect their rights not to receive certain messages (such as harassing messages or unsolicited commercial messages and unsolicited text messages). ).
+By sending any type of message to a third party, you represent and warrant to Evernote that you are acting in accordance with the law and that you have the consent of the respective recipients to send them such message.
+Are there rules about what I can do with the Evernote service?
+And.
+Use of the Service is subject to these Terms.
+In relation to your use of the Service, you agree that you are responsible for your own conduct and all actions under your account.
+This means that all content created, transmitted, stored and displayed under your account is the sole responsibility of the person who created the content or submitted it to the Service.
+This provision applies regardless of whether the Content is private, shared, or transmitted using the Service or a third-party application integrated with the Evernote Service or such service.
+Please see the User Guidelines for further information regarding unauthorized use of the Service.
+If we determine that any content shared through your account violates our Terms of Use (including violations of the intellectual property rights or privacy rights of others), we reserve the right to revoke approval of such content or to remove the content entirely.
+Presumably Evernote itself also has some rights regarding the service, right?
+That's right.
+Below you will find further details:
+RIGHTS TO CONTENT
+The content you store on the Evernote Service is your property (subject to any rights of third parties).
+However, you acknowledge that Evernote (and our licensors) owns all title, use and other right and interest in and to the Service, including any software that is included as part of the Service, and all of you or Evernote software used by third parties to capture external content; for example, Evernote Scannable, Evernote Web Clipper, the Site Memory widget, or any Evernote applications for compatible computing devices that enable access to and use of the Service via such device (the “Evernote Software”).
+INTELLECTUAL PROPERTY RIGHTS (INTELLECTUAL PROPERTY RIGHTS)
+By agreeing to these Terms, you further agree that, in addition to these Terms and any separate agreements, the rights to the Service and the Evernote Software, including all intellectual property rights such as trademarks, patents, designs and copyrights, are protected by copyright, Trademark or patent law and laws protecting trade secrets as well as other laws, regulations and agreements.
+In particular, you agree not to modify, create derivative versions of, decompile, or otherwise obtain the source code of any Evernote Software, except as permitted by an open source agreement. License expressly permitted, we grant you express written permission or you are otherwise authorized to do so despite this prohibition.
+RIGHT TO CHANGE THE SERVICE
+We reserve the right, at our sole discretion, to implement new elements as part of the Service or as an addition to the Service; including changes that may affect the way the Service or Evernote Software previously functioned.
+We expect such changes to improve our overall service, but you may find otherwise.
+We further reserve the right to change the type or extent of storage available to you, the number of transfers, the ability to send and receive email messages, the type or extent of index or library data, the type or Restrict your continued ability to access or distribute your content and other data and impose other restrictions at any time, with or without notice.
+For example, if you use Evernote Basic, you will not receive all of the benefits we offer to Evernote Plus, Evernote Premium, or Evernote Business subscribers.
+You also acknowledge that various actions by Evernote may impair or prevent access to your Content or use of the Service at any time or for limited periods of time or permanently, and you agree that Evernote is not responsible for any consequences of such actions is liable; this also applies to, but is not limited to, the deletion or unavailability of any content.
+You agree that we shall not be liable to you or to any third-party for any modification, failure, or discontinuance of any part of the Service.
+However, if you are a subscriber to Evernote Plus, Evernote Premium, Evernote Business or any other paid version of the Service (each a “Paid Service”), you believe that such change or discontinuance of the Paid Service will adversely affect you , you can contact our customer service with a description of your situation and, if necessary, request cancellation of the paid service.
+Upon receipt of such a request, we will, in our sole discretion or as permitted by applicable law, promptly resolve any negative impact caused by the change, extend the term of the Paid Subscription for a period equal to the period of outage, or provide you with the Fees for the paid subscription will be refunded pro rata based on the remaining unused term of the paid subscription.
+RIGHT TO EMPLOY THIRD PARTIES
+Evernote engages certain affiliates or other third parties (“service providers” or “service providers”) to provide technical or other services in connection with the Service, and you hereby consent to such service providers’ involvement.
+In addition, Evernote may engage third parties as resellers to distribute the Evernote Plus, Evernote Premium and Evernote Business service plans and work with payment processors to enable payments in your respective currencies and payment systems.
+Please refer to our Privacy Policy to determine the extent to which such affiliates or third parties may have access to data or content in your account.
+For more information about our relationships with resellers and payment processors, please see our Terms and Conditions.
+RIGHT TO USE THIRD PARTY SOFTWARE
+Evernote may sometimes include computer software provided by third parties as part of the Service and the Evernote Software, which are used with the permission of the respective licensors or copyright holders and on the terms and conditions of those third parties.
+Further information about such third-party software can be found here or in the respective Evernote software.
+Evernote expressly disclaims any warranty or other representation to you with respect to such Third Party Software.
+RIGHT TO UPDATE OUR SOFTWARE
+In connection with any changes to the Service, Evernote may sometimes automatically download software updates to your computers and devices to improve, enhance, repair or further develop the Service.
+Evernote will make every effort to give you the choice of whether or not to install the update.
+However, under certain circumstances (e.g. security risks), Evernote may require you to install the update in order to continue accessing the service.
+In any event, you agree that Evernote may deliver (and allow you to receive) such updates to you as part of your use of the Service.
+Do these terms also apply to Evernote Business users?
+If you use the Service in connection with an Evernote Business account, such use is governed by these Terms, unless the separate Evernote Business account agreement provides conflicting terms.
+The customer who entered into the agreement with Evernote and the administrator of the Evernote Business account (as “Customer” and “Administrator” are defined in the applicable Evernote Business Agreement) are responsible for and agree to comply with the terms and conditions of such separate agreement to each person whose user account is linked to the Evernote Business account (“End User”).
+As an end user of an Evernote Business account, please note that the Evernote Business account customer (e.g., your employer or company) may have their own end user rules regarding access, use, disclosure, and retention has specified data that will be stored in this account.
+For more details about the relationship between Evernote personal accounts and Evernote Business accounts, see our Privacy Policy and the Help and Learning section of this article.
+How does Evernote respond to copyright or other intellectual property rights violations?
+We will respond to clear and complete notices of alleged infringement of copyright, trademark or other intellectual property laws that meet the requirements of these Terms (which we believe are consistent with the U.S. Digital Millennium Copyright Act (DMCA) and other applicable laws are).
+If you believe that your intellectual property rights have been violated, please notify our compliance team in accordance with the instructions in our IP Compliance Program so that we can address your concern.
+Please note that the owners of intellectual property rights are responsible for protecting their rights and taking any legal or other action they deem appropriate, and Evernote is under no obligation to take any specific action to enforce or protect such intellectual property rights on behalf of the to become a party to the contract.
+Can children or minors use Evernote?
+Evernote is not directed to children or minors, and any use by minors may only be made under the direction, supervision, and consent of their parents, guardians, or authorized teachers.
+In addition, parents or legal guardians must ensure that minors use the Service only after understanding their rights and obligations under these Terms and our Privacy Policy.
+In accordance with applicable law, Evernote does not knowingly collect personal information from minors without parental consent.
+If we become aware that we have unintentionally received such data and are thereby violating applicable law that prohibits the collection of data from children without such consent, we will delete it immediately.
+Where is my data stored?
+The Service is available worldwide, but your information will be stored in the United States as described in the Privacy Policy.
+When you use the Service, you agree that the transmission of your electronic communications (including your registration information and content) may occur over computer networks owned by Evernote, its service providers and other third parties in California and other locations in the United States and other countries .
+As a result, your use of the Service will likely involve interstate data transfers and, where applicable, international data transfers, to which you consent by using the Service.
+How can my account be closed?
+You may deactivate your account on our Service at any time, for any reason (and no reason).
+However, to do this, you must follow certain steps described in the Help and Training section of the article Deactivating and reactivating an Evernote account.
+If you have taken out a paid subscription, you must cancel the subscription in accordance with our Terms and Conditions.
+Evernote may temporarily limit your use of the Service, suspend access to your account, or close your account with or without notice in accordance with these Terms.
+Reasons for suspension of access or account closure include, but are not limited to: (i) violation of these Terms (including our User Guidelines) or a separate agreement, (ii) extended period of inactivity (at Evernote's discretion) , (iii) failure to pay any fees or other amounts due to Evernote or any other party in connection with use of the Service, (iv) discontinuance or material modification of the Service (or any part of the Service), or (v) unexpected technical or security issues or extensive unsupported usage.
+Typically, if you close your account, we will provide you with at least 30 days' notice by sending a message to the email address you provided so that you can access your content stored on the Service's servers (unless because legal requirements prohibit us from sending such a notification or enabling you to access the content).
+After this notice period expires, you will no longer be able to access the content contained in this account or otherwise use the Service through this account.
+What happens to my account if I die?
+Evernote's promise to protect the privacy of your content survives even in the event of your death or incapacity.
+If you wish to provide any person with access to the content or other data in your account for a period after which you will no longer be able to provide access, you must arrange for such provision yourself.
+We will not pass on your data and content to anyone, including your next of kin; unless we are legally obliged to do so.
+We recommend that you include the login details with instructions for accessing your content in your will or other directives so that the people you want have the necessary information.
+For more information about stopping payments for paid services in the event of death or incapacity, please see our Terms and Conditions.
+I have a great idea that I would like to pitch to Evernote.
+What rights do I have?
+If you provide Evernote with any ideas, suggestions, documents or proposals related to the Service (or other products or services) (collectively, "Submissions") through our website via a contact form, user forum or support or other channel or process You acknowledge and agree that: (i) your Contributions will not contain any confidential or proprietary information; (ii) Evernote has no obligation of confidentiality, express or implied, with respect to the Submissions; (iii) Evernote will have the right to use or disclose (or choose not to use or disclose) such Submissions for any purpose and in any manner; (iv) Evernote may already be considering or developing something similar to such contribution; (v) your Contributions automatically become the property of Evernote without Evernote having any obligation to you; and (vi) you will not be entitled to any form of billing, compensation, or reimbursement from Evernote under any circumstances.
+Does Evernote show ads?
+Our business model aims to make our service so useful that our users choose a paid subscription.
+However, we may display advertising and promotions as part of or in connection with the Service, some of which third parties pay for.
+Please see our Privacy Policy and Cookie Notice for further details.
+Some advertising or other messaging we distribute is based on information provided by third parties.
+We will not be responsible or liable for any loss or damage of any sort incurred by you as a result of any advertising or other messages.
+Additionally, any interactions you may have with advertisers encountered on or through the Service, including any reliance on the advertisements and any related dealings and legal obligations, are solely between you and such advertiser.
+What should i know?
+LINKS, CONTENT AND THIRD PARTY PROGRAMMING
+As part of or in connection with the Service, we may include or recommend resources, materials and developers or links to third-party websites, content and applications.
+We may have little or no control over such websites and developers, and accordingly you acknowledge and agree that: (i) we are not responsible for the availability of such external websites, content or applications; (ii) we are not responsible or liable for any content or other materials or services obtained from such websites or applications; and (iii) we will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, materials or applications.
+EXEMPTION
+You agree to indemnify Evernote, its subsidiaries, affiliates, officers, agents, employees, advertisers, service providers and other partners from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including legal fees and other fees). , arising out of or in connection with any third-party claim arising from your use of the Service, any breach of the Terms of Service, or any other actions related to your use of the Service (including any actions taken under your account).
+In the event of such a claim, we will endeavor to provide notice of the claim, action or proceeding to the contact information on file for the affected account.
+Failure to provide you with such notice shall not waive or reduce your obligation to indemnify under this Agreement.
+HAFTUNGSBESCHRÄNKUNG UND GEWÄHRLEISTUNGSAUSSCHLUSS
+To the extent permitted by law, this service is provided on an “as is” basis.
+You expressly understand and agree that:
+Your use of the Service and the purchase and use of any Services are at your own risk.
+The Service is provided on an as-is and availability basis.
+To the fullest extent permitted by law, Evernote disclaims all warranties and representations, express or implied, including, but not limited to, the implied warranties and representations of merchantability, fitness for a particular purpose and freedom from title.
+Evernote does not warrant that (i) the Service will meet all of your requirements, (ii) the Service will operate on an uninterrupted, timely, secure, or error-free basis, or (iii) all defects in the Software or Service will be corrected.
+Any downloading or otherwise accessing material through the use of the Service is done at your own discretion and risk.
+You are solely responsible for any damage to your computer or other device or loss of data that results from the downloading or use of such material.
+Any advice or information you receive, whether oral or written, from Evernote or through or from the Service will not create any warranty not expressly stated in these Terms of Use.
+You expressly acknowledge and agree that Evernote, its subsidiaries, affiliates, service providers and licensors, and our and their respective officers, employees, agents and successors shall not be liable to you for any damages; This includes direct, indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, diminution of goodwill, loss of use, loss of data, loss of insurance coverage or other intangible losses (including , if Evernote has already become aware of the possibility of such damages) arising from: (i) the use or inability to use the Service or the redemption of voucher codes or Evernote Points; (ii) the cost of procurement of substitute services resulting from any data, information or services purchased or otherwise obtained, messages received or transactions entered into through or from the Service; (iii) unauthorized access to or loss, damage or alteration of your transmissions, content or data; (iv) statements or conduct of any third party regarding the Service, use of the Service or the provision of services in connection with the operation of the Service; (v) Evernote's actions or omissions relying on your base subscriber information and any changes thereto or notices received therefrom; (vi) your failure to protect the confidentiality of any password or access rights to your account; (vii) any acts or omissions of any third party through use of or integration with the Service; (viii) any advertising content and your purchase or use of advertised or other third party products or services; (ix) termination of your account in accordance with the terms of these Terms of Use; or (x) any other matter relating to the Service.
+DISCLAIMERS AND LIMITATIONS OF LIABILITY
+Nothing in these Terms of Use (including the limitation of liability provisions) is intended to exclude or limit any conditions, warranties, rights or liabilities that may not be excluded or limited by law.
+Some jurisdictions do not allow the exclusion of certain warranties or representations or the exclusion or limitation of liability for loss or damage caused by willful misconduct, negligence, breach of contract, breach of implied term, incidental or consequential damages.
+Accordingly, only those liability and other limitations permitted by your jurisdiction (if any) will apply to you and our liability will be limited to the maximum extent permitted by law.
+How, if any, does Evernote comply with its notification obligations?
+Make sure your basic subscriber information is accurate, complete, and current.
+This is the only way we can provide you with notifications by email (to the email address associated with your account), by post, or through postings on the affected service's websites.
+How can I send a message to Evernote?
+Unless a different method of contact or address for notice is expressly provided in these Terms or a separate agreement, any notice to Evernote shall be sent by email to compliance@evernote.com.
+This email address may be subject to change when these Terms of Use are updated.
+If you are unable to provide notice by email, you may send the notice to us at the following address (depending on your service provider):
+Evernote Corporation
+305 Walnut Street
+Redwood City, California 94063 USA
+Attention: Legal Notice
+Evernote GmbH
+c/o Centralis Switzerland GmbH Dufourstrasse 101
+8008 Zürich, Switzerland
+Attention: Legal Notice
+Evernote Do Brasil Services
+Applications Ltd
+Tax number CNPJ/MF: 17.566.240/0001-50
+Avenida Paulista, no 2,300
+Riding Pilotis
+São Luiz Gonzaga Building
+CEP: 01310-300, São Paulo/SP, Brazil
+Attention: Legal Notice
+Are there countries where the use of Evernote is not permitted?
+You may not use or otherwise export the Service or any Evernote Software other than as permitted by United States laws and the laws of the jurisdiction in which the Service is hosted or in which you use the Service.
+In particular, the Evernote Software may not (i) be exported or re-exported to any country subject to U.S. economic sanctions, or (ii) be provided to or used by anyone on the U.S. List of Foreign Sanctions Evaders. (US-FSE) or “List of Specially Designated Nationals” (US-SDN) of the US Department of the Treasury or “Denied Persons List” (US-DPL), “Unverified List” (US-UL) or “Entity List” (US -EL) of the US Department of Commerce.
+By using the Service, you represent and warrant that you are not located in any such country or on any such list and that you will not use the Service in, nor authorize any person in such country to access, the Service use of the service.
+In addition, you are responsible for complying with applicable export controls, economic sanctions and related laws when traveling across international borders and accessing your Content.
+What laws apply to my use of Evernote?
+If your home or place of business is in the United States or Canada, these Terms and the relationship between you and Evernote (including any disputes) will be governed in all respects by the laws of the State of California, as it applies to contracts and agreements, entered into and performed within California between individuals and legal entities residing in California, without regard to any provisions of private international law.
+If your residence or place of business is in Brazil, these Terms and the relationship between you and Evernote (including any disputes) will be governed in all respects by the laws of Brazil and will be deemed to have been entered into in Brazil, without regard to any provisions of private international law.
+If your residence or place of business is outside the United States, Canada and Brazil, these Terms and the relationship between you and Evernote (including any disputes) will be governed in all respects by Swiss law and will be deemed to have been entered into in Switzerland, without regard to any international provisions Private law.
+Notwithstanding this, if any provision of these Terms of Use is found by a court of competent jurisdiction to be invalid, the parties agree that the court should endeavor to give effect to the parties' intentions as reflected in the affected provision, leaving the other provisions of the Terms of Use contained in remain fully valid.
+How do I file a claim against Evernote?
+TELL US YOUR COMPLAINTS AND COMPLAINTS
+Because we want to provide you with the best possible user experience, we ask that you contact our customer service if you have any problems or complaints related to the operation of the service or Evernote software.
+INITIATING A FORMAL CLAIM
+If you decide that we have not addressed your concerns and you wish to take legal action, you agree that your claim will be resolved through the procedures set out in these Terms.
+Evernote provides the Service to you conditioned on your agreement to the dispute resolution provisions described below.
+Therefore, if you otherwise assert a claim against Evernote, you are in breach of these Terms and you agree that Evernote will have the right to have such action dismissed or otherwise terminated.
+Further, in such event, you agree to reimburse Evernote for its reasonable costs incurred in defending such improperly brought claim.
+You agree to notify our attorneys at legalnotice@evernote.com prior to commencing any formal proceeding against Evernote and to provide notice that you are filing a “Notice of Dispute.”
+Upon receipt of such Notice of Dispute, you and we will attempt to resolve the dispute through informal negotiations within sixty (60) days from the date the Notice of Dispute is sent.
+If the dispute cannot be resolved, you or we may initiate formal proceedings in accordance with these Terms.
+If your home or place of business is in the United States or Canada, unless our dispute is resolved through arbitration (as described below), you agree that any claim or dispute you bring against Evernote shall be resolved exclusively in a trial court or U.S. federal court located in San Mateo County (California, USA).
+You agree to submit to the exclusive personal jurisdiction of the courts located in San Mateo County, California, USA (and, for the avoidance of doubt, to exclude any jurisdiction of any other court) in litigating any such claims and disputes.
+If your place of residence or place of business is in Brazil, unless our dispute is resolved by arbitration (as described below), you agree that any claim or dispute you may have against Evernote will be brought exclusively before a court in São Paolo-SP (Brazil).
+You agree to submit to the exclusive personal jurisdiction of the courts located in São Paolo-SP (Brazil) (and, for the avoidance of doubt, to exclude any jurisdiction of any other court) in pursuing any such claims and disputes.
+If you reside outside of the United States, Canada and Brazil, unless our dispute is resolved through arbitration (as described below), you agree that any and all claims you may have against Evernote will be arbitrated. Any disputes raised must be resolved exclusively before a court in Zurich (Switzerland).
+You agree to submit to the exclusive personal jurisdiction of the courts located in Zurich, Switzerland (and, for the avoidance of doubt, to exclude any jurisdiction of any other court) in pursuing any such claims and disputes.
+ALTERNATIVE DISPUTE RESOLUTION METHOD
+Unless you are subject to the arbitration agreement set forth below, and subject to applicable law, if there is a claim between you and Evernote that has an aggregate value of less than $10,000, the party making the claim may elect to resolve the dispute in binding arbitration that does not require personal presence.
+This “Alternative Dispute Resolution Method” shall be initiated by either party upon notice to the other party, whereby you and Evernote agree to use reasonable efforts to agree upon a person or service provider within thirty (30) days. who will direct the alternative dispute resolution process in accordance with the following requirements (“Director of Arbitration”): (i) Neither party is required to personally participate in any proceeding; (ii) the process will be conducted by written submissions, telephone calls or online communications or as otherwise agreed; (iii) the arbitration director's fees shall be shared equally between the parties or shall be submitted to the arbitration director for determination of the dispute; and (iv) the decision rendered by the arbitrator may be entered for enforcement in any court of competent jurisdiction.
+If your place of residence or company is located in the European Union (EU), please note that we offer this alternative dispute resolution procedure, but not the European Commission's dispute resolution platform, as we do not have a branch in an EU country.
+ARBITRATION AGREEMENT
+If your home or place of business is in the United States or you are otherwise subject to the Federal Arbitration Act, you and Evernote agree that any dispute or claim between the parties, except for disputes related to enforcement or validity of your or our intellectual property rights and the intellectual property rights of your or our licensors - shall be resolved exclusively through final and binding arbitration and not in court, except for small claims, which you may assert in appropriate small claims court, if your claims be eligible for this.
+The interpretation and enforcement of this arbitration agreement shall be governed by the Federal Arbitration Act.
+Please note that you are not subject to this Arbitration Agreement if you were a user of the Service prior to December 4, 2012 and have formally opted out of the Arbitration Agreement in accordance with the procedures set forth in our Terms of Service, in effect as of December 4, 2012 have decided.
+Our arbitration will be conducted by the American Arbitration Association ("AAA") under its then-current rules and procedures, including the AAA's Additional Procedures for Consumer-Related Disputes (as applicable), as modified by our Arbitration Agreement.
+You may review these rules and procedures and obtain a form for initiating arbitration proceedings at the AAA website.
+The arbitration shall take place in the U.S. county in which you reside or have your place of business or at another location mutually agreed upon by us.
+If the amount in dispute is $10,000 or less, either party may elect to have the arbitration conducted by telephone or based solely on written submissions.
+This decision will be binding on both parties unless the arbitrator, in his or her sole discretion, requires an in-person hearing.
+Your or our participation in an in-person hearing may be conducted by telephone unless the arbitrator requests otherwise.
+The arbitrator will decide the subject matter of all claims in accordance with the laws of the State of California, including recognized principles of equity, and will honor all rights to refuse to testify provided by law.
+The arbitrator shall not be bound by rulings in prior arbitrations involving other Evernote users, but is bound by rulings in prior arbitrations involving the same user to the extent required by applicable law.
+The arbitration award will be final and binding and may be entered in any court having jurisdiction over the parties, subject to the limited right to object under the Federal Arbitration Act.
+The AAA's rules will govern the payment of all filing and administration fees and arbitrator fees, unless our Agreement to Arbitrate expressly provides otherwise.
+If the amount of a claim in arbitration is $10,000 or less, Evernote will pay all filing and administration fees and arbitrator fees associated with the arbitration, provided that (i) you submit a written request for such payment of fees or fees, and submit it to the AAA with your Demand for Arbitration and (ii) the arbitrator does not determine your claim to be frivolous.
+In such event, we will pay any required fees or fees directly to the AAA.
+If the amount of the claim exceeds $10,000 and you demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, Evernote will pay such filing and administration fees and arbitrator fees as the arbitrator deems necessary , to prevent arbitration from being prohibitive due to costs.
+If the arbitrator determines that the claims you assert in the arbitration are frivolous, you agree to reimburse Evernote for all fees associated with the arbitration paid by Evernote on your behalf and which you otherwise agree to pay in accordance with the terms and conditions would be obliged to comply with AAA rules.
+Under the Arbitration Agreement, you and Evernote agree that each party may bring claims against the other only on an individual basis and not in a class or representative action or proceeding.
+We refer to this aspect as the “prohibition of class and representative actions.”
+Unless you and we agree otherwise, the arbitrator may not consolidate your or our claim with those of any other person or party, or otherwise preside over any form of a consolidated class or representative action or proceeding.
+The arbitrator may award relief (including monetary relief, injunctive relief, or declaratory relief) only in favor of the party seeking relief and only to the extent necessary to provide relief with respect to that party's individual claims.
+Any relief granted will not affect other Evernote users.
+Except for the prohibition of class and representative actions, if a court finds any part of this Arbitration Agreement to be invalid or unenforceable, the remaining portions of this Arbitration Agreement will not be affected.
+If a court finds the prohibition on class and representative actions to be invalid or unenforceable, then this entire Arbitration Agreement shall be null and void.
+The remaining provisions of these Terms and this section (“How do I make a claim against Evernote?”)
+remain unaffected.
+LIMITATION OF CLAIMS.
+You agree that, regardless of any statute or law to the contrary or applicable dispute resolution procedure, you will file any claim or cause of action you may have arising out of or related to the use of the Service or otherwise within one (1) year after such claim arose or cause of action must be filed and such claim or cause of action will otherwise be barred.
+The provisions of this section entitled “Barrier of Claims” shall constitute a separate written, legally binding agreement between you and us.
+SPECIAL NOTICE FOR USERS FROM CALIFORNIA (USA)
+California Civil Code Section 1789.3 requires California users of the Service to be notified of the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Consumer Commission Department of Consumer Affairs) in writing at 1625 North Market Blvd.,
+Suite N 112, Sacramento, CA 95834, USA or by phone at +1 916 445-1254 or +1 800 952-5210.
+You can reach Evernote by email at legalnotice@evernote.com or by post at the following address:
+Evernote Corporation
+305 Walnut Street
+Redwood City, California 94063 USA
+Attention: Legal Notice
+Other provisions
+Finally, there are a few other important aspects.
+These Terms constitute the entire agreement between you and Evernote and govern your use of the Service, except for any terms agreed to in a separate agreement between you and Evernote, and then only to the extent set forth in such separate agreement.
+These Terms supersede any prior agreements or prior versions of these Terms between you and Evernote with respect to the use of the Service as of the Effective Date specified at the beginning of these Terms.
+If you use or receive a product or service from a third party through accessing or using the Service, you may also be subject to the applicable terms and conditions of that third party, which terms and conditions do not affect your legal relationship with that third party.
+You further acknowledge and agree that all of Evernote's subsidiaries and affiliates are third party beneficiaries of these Terms and that such other entities shall have the right to directly enforce any provision of these Terms that confers a benefit on (or rights in their favor) and to rely on them.
+In addition, no other person or entity may be a third-party beneficiary of these Terms.
+Finally, the section headings of these Terms of Use are for convenience only, without any legal or contractual effect.
+In the event of any contradictions between the German and English versions, the English version prevails.

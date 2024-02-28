@@ -1,0 +1,45 @@
+[{'translation_text': "Conditions for using Ryanair's website"}]
+1.
+[{'translation_text': 'General provisions'}]
+[{'translation_text': 'The owner of this website is Ryanair DAC, an Irish company registered under number 104547, based at Ryanair Dublin Office, Airside Business Park, Swords, Co.'}]
+[{'translation_text': 'Dublin, Ireland (hereinafter "Ryanair \').'}]
+[{'translation_text': 'By using this Site, you agree to comply with these Terms and Conditions, in particular the provisions of paragraph 1.'}]
+[{'translation_text': 'Three, four, five, six and seven below.'}]
+[{'translation_text': 'If you do not agree to these Terms, you must not and will not use this Site.'}]
+2.
+[{'translation_text': 'Exclusive Internet distribution channel'}]
+[{'translation_text': 'This website is the only website authorised to sell Ryanair Group flights (the Ryanair Group includes Ryanair DAC, Ryanair SUN, Ryanair UK and Laudamotion), both individually and with other services.'}]
+[{'translation_text': "On the basis of the information provided by Ryanair, the Commission notes that Ryanair's marketing services agreements with Ryanair are not compatible with the internal market and that Ryanair's marketing services agreements are compatible with the internal market."}]
+3.
+[{'translation_text': 'Use permitted'}]
+[{'translation_text': 'This page may not be used other than for personal and non-commercial purposes.'}]
+[{'translation_text': 'Use of any automated systems or software for obtaining data from this web site for commercial purposes (so-called'}]
+[{'translation_text': 'Scraping screen) is forbidden.'}]
+[{'translation_text': 'In response to any unauthorized use of this website, Ryanair reserves the right to take all necessary action, including to go to court without prior notice of the user.'}]
+[{'translation_text': 'It is strictly prohibited to use any automated system or software to obtain data from this website for commercial purposes ('}]
+[{'translation_text': 'scraping from the screen), whether or not it is operated by third parties.'}]
+4.
+[{'translation_text': 'Reservation to all rights in order to ensure permitted and/or prevent unauthorised use.'}]
+[{'translation_text': 'Ryanair reserves the right to take any action it deems necessary, in respect of all parties involved in unauthorised handling from the website, without prior notice, in order to protect their rights and prevent unauthorised use of the website, including the use of blocking technology (which automatically searches third party websites, scrapes the screen, thereby creating a cross-section of the Ryanair website by third parties, thereby violating the conditions of use of the websites of those persons or similar activities) and/or bringing legal proceedings.'}]
+5.
+[{'translation_text': "Ryanair's agreement to carry out infringement investigations."}]
+[{'translation_text': 'Ryanair reserves the right to conduct any necessary investigations (using technology or otherwise) concerning the breach of these Terms of Use.'}]
+[{'translation_text': 'By accessing this website, you agree to carry out the necessary investigations by Ryanair in order to prevent unauthorized use of this website.'}]
+6.
+[{'translation_text': 'Intellectual property'}]
+[{'translation_text': 'All information, data and materials made available within this web page (including, inter alia,'}]
+[{'translation_text': 'names, logos, flight schedules and price lists, as well as colors and layout of the website) are protected by copyright, trademark rights, database rights or other intellectual property rights.'}]
+[{'translation_text': 'You may use this information, data and materials if necessary for the legitimate use of the website for personal and non-commercial purposes.'}]
+[{'translation_text': 'Any other means of reproduction or use of this information, data or material without the prior written consent of Ryanair shall be prohibited, shall constitute an infringement of these Terms and may infringe the intellectual property rights of Ryanair.'}]
+7.
+[{'translation_text': 'Links to this website'}]
+[{'translation_text': 'It is prohibited to provide or operate links to this website without the prior written consent of Ryanair.'}]
+8.
+[{'translation_text': 'Limited liability'}]
+[{'translation_text': 'Ryanair shall not be liable for any loss or damage resulting from the use (i) of this website or any other websites with which this website is linked, or (ii) from information made available on this and those other sites.'}]
+9.
+[{'translation_text': 'Applicable law and jurisdiction of the court'}]
+[{'translation_text': 'As a prerequisite for the use of any website of the Ryanair Group, including access to flight details, costs, etc.,'}]
+[{'translation_text': 'is the transfer by such a party (including any party accessing such information or facilities on its own behalf or on behalf of other persons) of the exclusive jurisdiction of the courts of the Republic of Ireland and compliance with the law in that jurisdiction (unless otherwise provided by the applicable consumer law).'}]
+[{'translation_text': "According to Ryanair's unconditional and free recognition, it may initiate legal action against any party violating these Terms in Ireland or at the place of the infringement or the place of residence of the party concerned and, in the case of more parties, at the place of residence of any of those parties, and the other parties will be subject to that jurisdiction."}]
+[{'translation_text': "In the interests of clarity, if a passenger, a person transported or to be transported, in connection with a contract of carriage concluded with one of the Ryanair Group's airlines, wishes to initiate proceedings against Ryanair Group's airline on the basis of this contract of carriage, then this procedure should be carried out by the passenger only in accordance with the Montreal Convention of 1999 and EU Regulation No 2027/1997 (including the amendments introduced by Regulation No 889/2002) or such future amendments to the Montreal Convention or regulations which may be introduced over time."}]
