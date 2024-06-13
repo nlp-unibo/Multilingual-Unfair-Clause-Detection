@@ -8,7 +8,8 @@ Most of the existing natural language processing systems for legal texts are dev
 ## Cite
 
 Please cite our work as
-*Andrea Galassi, Francesca Lagioia, Agnieszka Jabłonowska, Marco Lippi, "Unfair clause detection in terms of service across multiple languages", 2024*
+
+*Andrea Galassi, Francesca Lagioia, Agnieszka Jabłonowska, Marco Lippi, "Unfair clause detection in terms of service across multiple languages", Artificial Intelligence and Law, 2024*
 
 ```
 @article{galassi2024unfair,
